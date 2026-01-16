@@ -1609,7 +1609,7 @@ _1 verse containing LESSON_
 * `Exo 13:17` And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "*_Lest_* perhaps the people repent when they see war and they return to Egypt."
 * `Exo 19:21` And the LORD said to Moses, "Go down, charge the people, *_lest_* they break through to the LORD to gaze and many of them perish.
 * `Exo 19:22` And let the priests also who come near the LORD sanctify themselves, *_lest_* the LORD break forth upon them."
-* `Exo 19:24` And the LORD said to him, "Away, go down, and you shall come up—you and Aaron with you. But do not let the priests and the people break through to come up to the LORD, *_lest_* he break forth upon them."
+* `Exo 19:24` And the LORD said to him, "Go, descend, and then you shall come up—you and Aaron with you. But do not let the priests and the people break through to come up to the LORD, *_lest_* he break forth upon them."
 * `Exo 20:19` And they said to Moses, "Speak with us and we will hear, but do not let God speak with us, *_lest_* we die."
 * `Exo 23:29` I will not drive them out from before you in one year, *_lest_* the land should become desolate and the beast of the field should multiply against you.
 * `Exo 23:33` They shall not dwell in your land, *_lest_* they make you to sin against me, for if you serve their gods, it will surely be a snare to you."
@@ -1950,7 +1950,7 @@ _223 verses containing LEST_
 * `Exo 18:27` And Moses *_let_* his father-in-law depart. And he went his way into his own land.
 * `Exo 19:10` And the LORD said to Moses, "Go to the people and sanctify them today and tomorrow, and *_let_* them wash their clothes
 * `Exo 19:22` And *_let_* the priests also who come near the LORD sanctify themselves, lest the LORD break forth upon them."
-* `Exo 19:24` And the LORD said to him, "Away, go down, and you shall come up—you and Aaron with you. But do not *_let_* the priests and the people break through to come up to the LORD, lest he break forth upon them."
+* `Exo 19:24` And the LORD said to him, "Go, descend, and then you shall come up—you and Aaron with you. But do not *_let_* the priests and the people break through to come up to the LORD, lest he break forth upon them."
 * `Exo 20:19` And they said to Moses, "Speak with us and we will hear, but do not *_let_* God speak with us, lest we die."
 * `Exo 21:8` If she shall not please her master who has betrothed her to himself, then he shall *_let_* her be redeemed. He shall have no power to sell her to a strange nation, seeing he has dealt deceitfully with her.
 * `Exo 21:26` "And if a man smites the eye of his man-servant or the eye of his woman-servant so that it perishes, he shall *_let_* him go free for his eye's sake.
