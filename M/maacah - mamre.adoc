@@ -388,9 +388,9 @@ _2 verses containing MADAI_
 * `Exo 18:25` And Moses chose able men out of all Israel and *_made_* them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
 * `Exo 20:11` For in six days the LORD *_made_* heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore, the LORD blessed the sabbath-day and hallowed it.
 * `Exo 24:8` And Moses took the blood and sprinkled it on the people and said, "Behold, the blood of the covenant which the LORD has *_made_* with you concerning all these words."
-* `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten work the candlestick shall be *_made_*. Its shaft, its branches, its bowls, its knobs, and its flowers shall be of the same.
-* `Exo 25:33` Three bowls shall be *_made_* like almonds with a knob and a flower in one branch, and three bowls *_made_* like almonds in the other branch with a knob and a flower—likewise in the six branches that project from the candlestick.
-* `Exo 25:34` And in the candlesticks there shall be four bowls *_made_* like almonds with their knobs and their flowers.
+* `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten work the candlestick shall be *_made_*. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the same.
+* `Exo 25:33` Three bowls shall be *_made_* like almonds with a bud and a flower in one branch, and three bowls *_made_* like almonds in the other branch with a bud and a flower—likewise in the six branches that project from the candlestick.
+* `Exo 25:34` And in the candlesticks there shall be four bowls *_made_* like almonds with their buds and their flowers.
 * `Exo 26:31` "And you shall make a veil of blue, purple, scarlet, and fine twined linen of skillful work. With cherubim it shall be *_made_*.
 * `Exo 29:18` And you shall burn the whole ram upon the altar. It is a burnt-offering to the LORD. It is a sweet savor, an offering *_made_* by fire to the LORD.
 * `Exo 29:25` And you shall receive them from their hands and burn them upon the altar for a burnt-offering for a sweet savor before the LORD. It is an offering *_made_* by fire to the LORD.
@@ -443,9 +443,9 @@ _2 verses containing MADAI_
 * `Exo 37:12` Also he *_made_* for it a border of a hand-breadth all around and *_made_* a crown of gold for its border all around.
 * `Exo 37:15` And he *_made_* the staffs of shittim wood and overlaid them with gold to bear the table.
 * `Exo 37:16` And he *_made_* the vessels which were upon the table, its dishes, its spoons, its bowls, and its covers to cover with, of pure gold.
-* `Exo 37:17` And he *_made_* the candlestick of pure gold. Of beaten work he *_made_* the candlestick. Its shaft, its branch, its bowls, its knobs, and its flowers were of the same.
-* `Exo 37:19` Three bowls *_made_* after the fashion of almonds in one branch, a knob and a flower, and three bowls *_made_* like almonds in another branch, a knob and a flower—likewise throughout the six branches proceeding from the candlestick.
-* `Exo 37:20` And in the candlestick there were four bowls *_made_* like almonds, its knobs and its flowers,
+* `Exo 37:17` And he *_made_* the candlestick of pure gold. Of beaten work he *_made_* the candlestick. Its shaft, its branch, its bowls, its buds, and its flowers were of the same.
+* `Exo 37:19` Three bowls *_made_* after the fashion of almonds in one branch, a bud and a flower, and three bowls *_made_* like almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the candlestick.
+* `Exo 37:20` And in the candlestick there were four bowls *_made_* like almonds, its buds and its flowers,
 * `Exo 37:23` And he *_made_* its seven lamps, its snuffers, and its snuff-dishes of pure gold.
 * `Exo 37:24` Of a talent of pure gold he *_made_* it and all its vessels.
 * `Exo 37:25` And he *_made_* the incense-altar of shittim wood. Its length was a cubit and its breadth a cubit. It was square and two cubits was its height. Its horns were of the same.
@@ -2168,7 +2168,7 @@ _1 verse containing MAKAZ_
 * `Exo 25:26` And you shall *_make_* for it four rings of gold and put the rings on the four corners that are on its four feet.
 * `Exo 25:28` And you shall *_make_* the staffs of shittim wood and overlay them with gold so that the table may be borne with them.
 * `Exo 25:29` And you shall *_make_* its dishes, its spoons, its covers, and its bowls to cover it with. Of pure gold you shall *_make_* them.
-* `Exo 25:31` "And you shall *_make_* a candlestick of pure gold. Of beaten work the candlestick shall be made. Its shaft, its branches, its bowls, its knobs, and its flowers shall be of the same.
+* `Exo 25:31` "And you shall *_make_* a candlestick of pure gold. Of beaten work the candlestick shall be made. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the same.
 * `Exo 25:37` And you shall *_make_* its seven lamps. And they shall light its lamps so that they may give light over against it.
 * `Exo 25:39` From a talent of pure gold he shall *_make_* it, with all these vessels.
 * `Exo 25:40` And see that you *_make_* them after their pattern which was shown to you on the mountain."

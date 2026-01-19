@@ -3402,7 +3402,7 @@ _1 verse containing ITHRITES_
 * `Exo 25:25` And you shall make for it a border of a hand-breadth around it, and you shall make a golden crown for *_its_* border around it.
 * `Exo 25:26` And you shall make for it four rings of gold and put the rings on the four corners that are on *_its_* four feet.
 * `Exo 25:29` And you shall make *_its_* dishes, *_its_* spoons, *_its_* covers, and *_its_* bowls to cover it with. Of pure gold you shall make them.
-* `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten work the candlestick shall be made. *_Its_* shaft, *_its_* branches, *_its_* bowls, *_its_* knobs, and *_its_* flowers shall be of the same.
+* `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten work the candlestick shall be made. *_Its_* shaft, *_its_* branches, *_its_* bowls, *_its_* buds, and *_its_* flowers shall be of the same.
 * `Exo 25:32` And six branches shall extend from *_its_* sides: three branches of the candlestick from one side and three branches of the candlestick from the other side.
 * `Exo 25:37` And you shall make *_its_* seven lamps. And they shall light *_its_* lamps so that they may give light over against it.
 * `Exo 25:38` And *_its_* tongs and *_its_* snuff-dishes shall be of pure gold.
@@ -3449,9 +3449,9 @@ _1 verse containing ITHRITES_
 * `Exo 37:12` Also he made for it a border of a hand-breadth all around and made a crown of gold for *_its_* border all around.
 * `Exo 37:13` And he cast for it four rings of gold and put the rings upon the four corners that were on *_its_* four feet.
 * `Exo 37:16` And he made the vessels which were upon the table, *_its_* dishes, *_its_* spoons, *_its_* bowls, and *_its_* covers to cover with, of pure gold.
-* `Exo 37:17` And he made the candlestick of pure gold. Of beaten work he made the candlestick. *_Its_* shaft, *_its_* branch, *_its_* bowls, *_its_* knobs, and *_its_* flowers were of the same.
+* `Exo 37:17` And he made the candlestick of pure gold. Of beaten work he made the candlestick. *_Its_* shaft, *_its_* branch, *_its_* bowls, *_its_* buds, and *_its_* flowers were of the same.
 * `Exo 37:18` And there were six branches proceeding from *_its_* sides: three branches of the candlestick from one side of it and three branches of the candlestick from the other side of it.
-* `Exo 37:20` And in the candlestick there were four bowls made like almonds, *_its_* knobs and *_its_* flowers,
+* `Exo 37:20` And in the candlestick there were four bowls made like almonds, *_its_* buds and *_its_* flowers,
 * `Exo 37:23` And he made *_its_* seven lamps, *_its_* snuffers, and *_its_* snuff-dishes of pure gold.
 * `Exo 37:24` Of a talent of pure gold he made it and all *_its_* vessels.
 * `Exo 37:25` And he made the incense-altar of shittim wood. *_Its_* length was a cubit and *_its_* breadth a cubit. It was square and two cubits was *_its_* height. *_Its_* horns were of the same.
@@ -3691,7 +3691,7 @@ _1 verse containing ITHRITES_
 * `1Ki 7:6` And he made a porch of pillars. *_Its_* length was fifty cubits and *_its_* breadth thirty cubits. And the porch was before them, and the other pillars and the thick beams were before them.
 * `1Ki 7:21` And he set up the pillars in the porch of the temple. And he set up the right pillar and called *_its_* name Jachin, and he set up the left pillar and called *_its_* name Boaz.
 * `1Ki 7:23` And he made a molten sea, ten cubits from one brim to the other. It was entirely round and *_its_* height was five cubits, and a line of thirty cubits encompassed it.
-* `1Ki 7:24` And under *_its_* brim around there were knobs compassing it, ten in a cubit, compassing the sea around. The knobs were cast in two rows when it was cast.
+* `1Ki 7:24` And under *_its_* brim around there were buds compassing it, ten in a cubit, compassing the sea around. The buds were cast in two rows when it was cast.
 * `1Ki 7:26` And it was a hand-breadth thick, and *_its_* brim was wrought like the brim of a cup, with flowers of lilies. It contained two thousand baths.
 * `1Ki 7:27` And he made ten bases of brass. Four cubits was the length of one base, four cubits *_its_* breadth, and three cubits *_its_* height.
 * `1Ki 7:30` And every base had four brazen wheels and plates of brass, and *_its_* four corners had supports. Under the basin were molten supports, with wreaths at the side of each.

@@ -3842,18 +3842,18 @@ _1 verse containing CANDLES_
 
 == CANDLESTICK
 
-* `Exo 25:31` "And you shall make a *_candlestick_* of pure gold. Of beaten work the *_candlestick_* shall be made. Its shaft, its branches, its bowls, its knobs, and its flowers shall be of the same.
+* `Exo 25:31` "And you shall make a *_candlestick_* of pure gold. Of beaten work the *_candlestick_* shall be made. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the same.
 * `Exo 25:32` And six branches shall extend from its sides: three branches of the *_candlestick_* from one side and three branches of the *_candlestick_* from the other side.
-* `Exo 25:33` Three bowls shall be made like almonds with a knob and a flower in one branch, and three bowls made like almonds in the other branch with a knob and a flower—likewise in the six branches that project from the *_candlestick_*.
-* `Exo 25:35` And there shall be a knob under two branches of the same, and a knob under two branches of the same, and a knob under two branches of the same, according to the six branches that project from the *_candlestick_*.
+* `Exo 25:33` Three bowls shall be made like almonds with a bud and a flower in one branch, and three bowls made like almonds in the other branch with a bud and a flower—likewise in the six branches that project from the *_candlestick_*.
+* `Exo 25:35` And there shall be a bud under two branches of the same, and a bud under two branches of the same, and a bud under two branches of the same, according to the six branches that project from the *_candlestick_*.
 * `Exo 26:35` And you shall set the table outside the veil, and the *_candlestick_* over against the table on the side of the tabernacle toward the south, and you shall put the table on the north side.
 * `Exo 30:27` The table and all its vessels, the *_candlestick_* and its vessels, the altar of incense,
 * `Exo 31:8` The table and its vessels, the pure *_candlestick_* with all its vessels, the altar of incense,
 * `Exo 35:14` The *_candlestick_* also for the light, its vessels, and its lamps with the oil for the light,
-* `Exo 37:17` And he made the *_candlestick_* of pure gold. Of beaten work he made the *_candlestick_*. Its shaft, its branch, its bowls, its knobs, and its flowers were of the same.
+* `Exo 37:17` And he made the *_candlestick_* of pure gold. Of beaten work he made the *_candlestick_*. Its shaft, its branch, its bowls, its buds, and its flowers were of the same.
 * `Exo 37:18` And there were six branches proceeding from its sides: three branches of the *_candlestick_* from one side of it and three branches of the *_candlestick_* from the other side of it.
-* `Exo 37:19` Three bowls made after the fashion of almonds in one branch, a knob and a flower, and three bowls made like almonds in another branch, a knob and a flower—likewise throughout the six branches proceeding from the *_candlestick_*.
-* `Exo 37:20` And in the *_candlestick_* there were four bowls made like almonds, its knobs and its flowers,
+* `Exo 37:19` Three bowls made after the fashion of almonds in one branch, a bud and a flower, and three bowls made like almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the *_candlestick_*.
+* `Exo 37:20` And in the *_candlestick_* there were four bowls made like almonds, its buds and its flowers,
 * `Exo 39:37` The pure *_candlestick_* with its lamps, even with the lamps to be set in order, all its vessels, the oil for light,
 * `Exo 40:4` And you shall bring in the table and set in order the things that are to be set in order upon it. And you shall bring in the *_candlestick_* and light its lamps.
 * `Exo 40:24` And he put the *_candlestick_* in the tent of the congregation, over against the table, on the side of the tabernacle southward.
@@ -3880,7 +3880,7 @@ _33 verses containing CANDLESTICK_
 
 == CANDLESTICKS
 
-* `Exo 25:34` And in the *_candlesticks_* there shall be four bowls made like almonds with their knobs and their flowers.
+* `Exo 25:34` And in the *_candlesticks_* there shall be four bowls made like almonds with their buds and their flowers.
 * `1Ki 7:49` The *_candlesticks_* of pure gold, five on the right side and five on the left, before the oracle; the flowers, the lamps, the tongs of gold;
 * `1Ch 28:15` Even the weight for the *_candlesticks_* of gold and for their lamps of gold, by weight for every candlestick and for its lamps, and for the *_candlesticks_* of silver by weight, both for the candlestick and also for its lamps, according to the use of every candlestick.
 * `2Ch 4:7` And he made ten *_candlesticks_* of gold according to their form and set them in the temple: five on the right hand and five on the left.
@@ -5290,7 +5290,7 @@ _1 verse containing CART-WHEEL_
 == CARVED
 
 * `Jdg 18:18` And these went into Micah's house and brought the *_carved_* image, the ephod, the teraphim, and the molten image. Then the priest said to them, "What are you doing?"
-* `1Ki 6:18` And the cedar of the house within was *_carved_* with knobs and open flowers. All was cedar. There was no stone seen.
+* `1Ki 6:18` And the cedar of the house within was *_carved_* with buds and open flowers. All was cedar. There was no stone seen.
 * `1Ki 6:29` And he *_carved_* all the walls of the house around with *_carved_* figures of cherubim, palm trees, and open flowers, inside and outside.
 * `1Ki 6:32` The two doors were also of olive tree, and he *_carved_* upon them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold. And he spread gold upon the cherubim and upon the palm trees.
 * `1Ki 6:35` And he *_carved_* thereon cherubim, palm trees, and open flowers, and covered them with gold, fitted upon the *_carved_* work.
