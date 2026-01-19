@@ -2418,11 +2418,11 @@ _2 verses containing WORE_
 * `Exo 26:36` "And you shall make a hanging for the door of the tent of blue, purple, scarlet, and fine twined linen, wrought with needle *_work_*.
 * `Exo 27:4` And you shall make for it a grate of net-*_work_* of brass, and upon the net you shall make four brazen rings in its four corners.
 * `Exo 27:16` And for the gate of the court there shall be a hanging of twenty cubits of blue, purple, scarlet, and fine twined linen, wrought with needle-*_work_*, with their four pillars and their four sockets.
-* `Exo 28:6` "And they shall make the ephod of gold, of blue, of purple, of scarlet, and fine twined linen, with skillful *_work_*.
-* `Exo 28:8` And the skillfully woven girdle of the ephod, which is upon it, shall be of the same, according to its *_work_*, even of gold, of blue, purple, scarlet, and fine twined linen.
+* `Exo 28:6` "And they shall make the ephod of gold, and of blue, purple, and scarlet, and of fine twined linen, with skillful *_work_*.
+* `Exo 28:8` And the skillfully woven girdle of the ephod, which is upon it, shall be of the same, according to its *_work_*, even of gold, of blue, purple, and scarlet, and of fine twined linen.
 * `Exo 28:11` With the *_work_* of an engraver in stone, like the engravings of a signet, you shall engrave the two stones with the names of the children of Israel. You shall make them to be set in settings of gold.
 * `Exo 28:14` And two chains of pure gold at the ends. Of wreathed *_work_* you shall make them, and fasten the wreathed chains to the settings.
-* `Exo 28:15` "And you shall make the breast-plate of judgment with skillful *_work_*. After the *_work_* of the ephod you shall make it. Of gold, of blue, of purple, of scarlet, and of fine twined linen you shall make it.
+* `Exo 28:15` "And you shall make the breast-plate of judgment with skillful *_work_*. After the *_work_* of the ephod you shall make it. Of gold, of blue, purple, and scarlet, and of fine twined linen you shall make it.
 * `Exo 28:22` And you shall make upon the breast-plate chains at the ends of wreathed *_work_* of pure gold.
 * `Exo 28:32` And there shall be a hole in its top in the midst of it. It shall have a binding of woven *_work_* around its hole, as the hole of a habergeon, so that it is not rent.
 * `Exo 28:39` "And you shall embroider the coat of fine linen, you shall make the miter of fine linen, and you shall make the girdle of needle-*_work_*.
@@ -4392,7 +4392,7 @@ _1 verse containing WOVE_
 
 == WOVEN
 
-* `Exo 28:8` And the skillfully *_woven_* girdle of the ephod, which is upon it, shall be of the same, according to its work, even of gold, of blue, purple, scarlet, and fine twined linen.
+* `Exo 28:8` And the skillfully *_woven_* girdle of the ephod, which is upon it, shall be of the same, according to its work, even of gold, of blue, purple, and scarlet, and of fine twined linen.
 * `Exo 28:27` And two other rings of gold you shall make and shall put them on the two sides of the ephod underneath, toward its forepart, over against the other coupling thereof, above the skillfully *_woven_* girdle of the ephod.
 * `Exo 28:28` And they shall bind the breast-plate by its rings to the rings of the ephod with a lace of blue so that it may be above the skillfully *_woven_* girdle of the ephod and that the breast-plate does not come loose from the ephod.
 * `Exo 28:32` And there shall be a hole in its top in the midst of it. It shall have a binding of *_woven_* work around its hole, as the hole of a habergeon, so that it is not rent.

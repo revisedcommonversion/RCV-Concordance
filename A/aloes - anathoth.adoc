@@ -448,7 +448,7 @@ _33 verses containing ALREADY_
 * `Exo 25:23` "You shall *_also_* make a table of shittim wood. Its length shall be two cubits, its breadth a cubit, and its height a cubit and a half.
 * `Exo 29:2` And *_also_* unleavened bread, unleavened cakes tempered with oil, and unleavened wafers anointed with oil. Of wheat flour you shall make them.
 * `Exo 29:15` "You shall *_also_* take one ram, and Aaron and his sons shall put their hands upon the head of the ram.
-* `Exo 29:22` "*_Also_* you shall take from the ram the fat and the rump, the fat that covers the inwards, the lobe of the liver, the two kidneys and the fat that is upon them, the right shoulder (for it is a ram of consecration),
+* `Exo 29:22` "*_Also_* you shall take from the ram the fat and the rump, the fat that covers the inwards and the lobe of the liver, the two kidneys and the fat that is upon them, the right shoulder (for it is a ram of consecration),
 * `Exo 29:44` And I will sanctify the Tabernacle of the Congregation and the altar. I will *_also_* sanctify both Aaron and his sons to minister to me in the priest's office.
 * `Exo 30:18` "You shall *_also_* make a basin of brass, and its foot *_also_* of brass, to wash in. And you shall put it between the Tabernacle of the Congregation and the altar, and you shall put water therein.
 * `Exo 30:23` "Take *_also_* for yourself principal spices: of pure myrrh five hundred shekels, of sweet cinnamon half as much, even two hundred and fifty shekels, of sweet calamus two hundred and fifty shekels,
@@ -2050,7 +2050,7 @@ _1679 verses containing ALSO_
 * `Exo 27:7` And the staffs shall be put into the rings, and the staffs shall be upon the two sides of the *_altar_* to bear it.
 * `Exo 28:43` And they shall be upon Aaron and upon his sons when they enter into the Tabernacle of the Congregation or when they come near to the *_altar_* to minister in the holy place so that they do not bear iniquity and die. It shall be a statute forever to him and to his offspring after him."
 * `Exo 29:12` And you shall take some of the blood of the bull and put it upon the horns of the *_altar_* with your finger, and pour all the blood beside the bottom of the *_altar_*.
-* `Exo 29:13` And you shall take all the fat that covers the inwards, the lobe of the liver, and the two kidneys with the fat that is upon them, and burn them upon the *_altar_*.
+* `Exo 29:13` And you shall take all the fat that covers the inwards and the lobe of the liver, and the two kidneys with the fat that is upon them, and burn them upon the *_altar_*.
 * `Exo 29:16` And you shall slay the ram and take his blood and sprinkle it around upon the *_altar_*.
 * `Exo 29:18` And you shall burn the whole ram upon the *_altar_*. It is a burnt-offering to the LORD. It is a sweet savor, an offering made by fire to the LORD.
 * `Exo 29:20` Then you shall kill the ram and take some of his blood and put it upon the tip of the right ear of Aaron, upon the tip of the right ear of his sons, upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood around upon the *_altar_*.
@@ -3359,7 +3359,7 @@ _19 verses containing AMON_
 * `Exo 15:11` "Who is like you, O LORD, *_among_* the gods? Who is like you, glorious in holiness, fearful in praises, doing wonders?
 * `Exo 17:7` And he called the name of the place Massah and Meribah because of the chiding of the children of Israel and because they tested the LORD, saying, "Is the LORD *_among_* us, or not?"
 * `Exo 25:8` And let them make me a sanctuary so that I may dwell *_among_* them.
-* `Exo 28:1` "And bring to you Aaron your brother and his sons with him from *_among_* the children of Israel so that he may minister to me in the priest's office, even Aaron, Nadab, Abihu, Eleazar, and Ithamar, Aaron's sons.
+* `Exo 28:1` "And bring to you Aaron your brother and his sons with him from *_among_* the children of Israel so that he may minister to me in the priest's office, even Aaron and Nadab, Abihu, Eleazar, and Ithamar, Aaron's sons.
 * `Exo 29:45` And I will dwell *_among_* the children of Israel and will be their God.
 * `Exo 29:46` And they shall know that I am the LORD their God who brought them forth out of the land of Egypt so that I may dwell *_among_* them. I am the LORD their God."
 * `Exo 30:12` "When you take the sum of the children of Israel after their number, they shall each give a ransom for his soul to the LORD when you number them so that there may be no plague *_among_* them when you number them.

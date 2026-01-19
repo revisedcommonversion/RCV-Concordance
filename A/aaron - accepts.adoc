@@ -60,7 +60,7 @@
 * `Exo 24:9` Then Moses went up, along with *_Aaron_*, Nadab, Abihu, and seventy of the elders of Israel,
 * `Exo 24:14` And he said to the elders, "Wait here for us until we come back to you. And behold, *_Aaron_* and Hur are with you. If any man has any matters to do, let him come to them."
 * `Exo 27:21` In the Tabernacle of the Congregation outside the veil, which is before the testimony, *_Aaron_* and his sons shall order it from evening to morning before the LORD. It shall be a statute forever to their generations on behalf of the children of Israel."
-* `Exo 28:1` "And bring to you *_Aaron_* your brother and his sons with him from among the children of Israel so that he may minister to me in the priest's office, even *_Aaron_*, Nadab, Abihu, Eleazar, and Ithamar, *_Aaron_*'s sons.
+* `Exo 28:1` "And bring to you *_Aaron_* your brother and his sons with him from among the children of Israel so that he may minister to me in the priest's office, even *_Aaron_* and Nadab, Abihu, Eleazar, and Ithamar, *_Aaron_*'s sons.
 * `Exo 28:2` And you shall make holy garments for *_Aaron_* your brother, for glory and for beauty.
 * `Exo 28:3` And you shall speak to all who are wise in heart, whom I have filled with the spirit of wisdom, so that they may make *_Aaron_*'s garments to consecrate him so that he may minister to me in the priest's office.
 * `Exo 28:4` And these are the garments which they shall make: a breast-plate, an ephod, a robe, an embroidered coat, a miter, and a girdle. And they shall make holy garments for *_Aaron_* your brother and his sons so that he may minister to me in the priest's office.
@@ -899,7 +899,7 @@ _6 verses containing ABIHAIL_
 * `Exo 6:23` And Aaron took for himself Elisheba, daughter of Amminadab, sister of Naashon, for a wife. And she bore him Nadab, *_Abihu_*, Eleazar, and Ithamar.
 * `Exo 24:1` And he said to Moses, "Come up to the LORD—you, Aaron, Nadab, *_Abihu_*, and seventy of the elders of Israel—and worship afar off.
 * `Exo 24:9` Then Moses went up, along with Aaron, Nadab, *_Abihu_*, and seventy of the elders of Israel,
-* `Exo 28:1` "And bring to you Aaron your brother and his sons with him from among the children of Israel so that he may minister to me in the priest's office, even Aaron, Nadab, *_Abihu_*, Eleazar, and Ithamar, Aaron's sons.
+* `Exo 28:1` "And bring to you Aaron your brother and his sons with him from among the children of Israel so that he may minister to me in the priest's office, even Aaron and Nadab, *_Abihu_*, Eleazar, and Ithamar, Aaron's sons.
 * `Lev 10:1` And Nadab and *_Abihu_*, the sons of Aaron, each took his censer, put fire in it, put incense on it, and offered strange fire before the LORD, which he did not command them.
 * `Num 3:2` And these are the names of the sons of Aaron: Nadab the first-born, *_Abihu_*, Eleazar, and Ithamar.
 * `Num 3:4` And Nadab and *_Abihu_* died before the LORD when they offered strange fire before the LORD in the wilderness of Sinai, and they had no children. And Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
