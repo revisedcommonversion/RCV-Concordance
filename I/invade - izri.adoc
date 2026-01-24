@@ -3448,7 +3448,7 @@ _1 verse containing ITHRITES_
 * `Exo 37:10` And he made the table of shittim wood. Two cubits was *_its_* length, a cubit *_its_* breadth, and a cubit and a half *_its_* height.
 * `Exo 37:12` Also he made for it a border of a hand-breadth all around and made a crown of gold for *_its_* border all around.
 * `Exo 37:13` And he cast for it four rings of gold and put the rings upon the four corners that were on *_its_* four feet.
-* `Exo 37:16` And he made the vessels which were upon the table, *_its_* dishes, *_its_* spoons, *_its_* bowls, and *_its_* covers to cover with, of pure gold.
+* `Exo 37:16` And he made the vessels which were upon the table of pure gold: *_its_* dishes, *_its_* spoons, *_its_* bowls, and *_its_* covers to cover with.
 * `Exo 37:17` And he made the candlestick of pure gold. Of beaten work he made the candlestick. *_Its_* shaft, *_its_* branch, *_its_* bowls, *_its_* buds, and *_its_* flowers were of the same.
 * `Exo 37:18` And there were six branches proceeding from *_its_* sides: three branches of the candlestick from one side of it and three branches of the candlestick from the other side of it.
 * `Exo 37:20` And in the candlestick there were four bowls made like almonds, *_its_* buds and *_its_* flowers,
@@ -3466,12 +3466,12 @@ _1 verse containing ITHRITES_
 * `Exo 39:19` And they made two rings of gold and put them on the two ends of the breast-plate upon *_its_* border, which was on the side of the ephod inward.
 * `Exo 39:20` And they made two other golden rings and put them on the two sides of the ephod underneath toward *_its_* forepart, over against the other coupling thereof, above the skillfully woven girdle of the ephod.
 * `Exo 39:21` And they bound the breast-plate by *_its_* rings to the rings of the ephod with a lace of blue so that it might be above the skillfully woven girdle of the ephod and that the breast-plate might not come loose from the ephod, as the LORD commanded Moses.
-* `Exo 39:33` And they brought the tabernacle to Moses, the tent, all *_its_* vessels, *_its_* buttons, *_its_* boards, *_its_* bars, *_its_* pillars, and *_its_* sockets,
-* `Exo 39:35` The ark of the testimony and *_its_* staffs, the mercy-seat,
-* `Exo 39:36` The table, all *_its_* vessels, the show-bread,
-* `Exo 39:37` The pure candlestick with *_its_* lamps, even with the lamps to be set in order, all *_its_* vessels, the oil for light,
-* `Exo 39:39` The brazen altar and *_its_* grate of brass, *_its_* staffs, and all *_its_* vessels, the basin and *_its_* foot,
-* `Exo 39:40` The hangings of the court, *_its_* pillars, and *_its_* sockets, and the hanging for the court-gate, *_its_* cords, and *_its_* pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:33` And they brought the tabernacle to Moses: the tent, all *_its_* vessels, *_its_* buttons, *_its_* boards, *_its_* bars, *_its_* pillars, and *_its_* sockets;
+* `Exo 39:35` The ark of the testimony, *_its_* staffs, and the mercy-seat;
+* `Exo 39:36` The table, all *_its_* vessels, and the show-bread;
+* `Exo 39:37` The pure candlestick, *_its_* lamps, even the lamps to be set in order, all *_its_* vessels, and the oil for light;
+* `Exo 39:39` The brazen altar, *_its_* grate of brass, *_its_* staffs, and all *_its_* vessels; the basin and *_its_* foot;
+* `Exo 39:40` The hangings of the court with *_its_* pillars and *_its_* sockets, the hanging for the court-gate with *_its_* cords and *_its_* pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:4` And you shall bring in the table and set in order the things that are to be set in order upon it. And you shall bring in the candlestick and light *_its_* lamps.
 * `Exo 40:9` And you shall take the anointing oil and anoint the tabernacle and all that is in it, and shall hallow it and all *_its_* vessels, and it shall be holy.
 * `Exo 40:10` And you shall anoint the altar of the burnt-offering and all *_its_* vessels and sanctify the altar, and it shall be an altar most holy.

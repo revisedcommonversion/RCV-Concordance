@@ -2467,7 +2467,7 @@ _19 verses containing OFFERS_
 * `Exo 30:30` And you shall anoint Aaron and his sons and consecrate them so that they may minister to me in the priest's *_office_*.
 * `Exo 31:10` The clothes of service, the holy garments for Aaron the priest and the garments of his sons to minister in the priest's *_office_*,
 * `Exo 35:19` The clothes of service to do service in the holy place—the holy garments for Aaron the priest and the garments for his sons to minister in the priest's *_office_*.'"
-* `Exo 39:41` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's *_office_*.
+* `Exo 39:41` And the clothes of service to do service in the holy place, both the holy garments for Aaron the priest and the garments for his sons to minister in the priest's *_office_*.
 * `Exo 40:13` And you shall put upon Aaron the holy garments, anoint him, and sanctify him so that he may minister to me in the priest's *_office_*.
 * `Exo 40:15` And you shall anoint them as you anointed their father so that they may minister to me in the priest's *_office_*, for their anointing shall surely be an everlasting priesthood throughout their generations."
 * `Lev 7:35` This is the portion of the anointing of Aaron and of the anointing of his sons out of the offerings of the LORD made by fire, in the day when he presented them to minister to the LORD in the priest's *_office_*,
@@ -2896,8 +2896,8 @@ _1 verse containing OHEL_
 * `Exo 35:15` The incense-altar and its staffs; the anointing *_oil_* and the sweet incense; the hanging for the door at the entrance of the tabernacle;
 * `Exo 35:28` And spice and *_oil_* for the light, for the anointing *_oil_*, and for the sweet incense.
 * `Exo 37:29` And he made the holy anointing *_oil_* and the pure incense of sweet spices according to the work of the perfumer.
-* `Exo 39:37` The pure candlestick with its lamps, even with the lamps to be set in order, all its vessels, the *_oil_* for light,
-* `Exo 39:38` The golden altar, the anointing *_oil_*, the sweet incense, the hanging for the tabernacle door,
+* `Exo 39:37` The pure candlestick, its lamps, even the lamps to be set in order, all its vessels, and the *_oil_* for light;
+* `Exo 39:38` The golden altar, the anointing *_oil_*, and the sweet incense; the hanging for the tabernacle door;
 * `Exo 40:9` And you shall take the anointing *_oil_* and anoint the tabernacle and all that is in it, and shall hallow it and all its vessels, and it shall be holy.
 * `Lev 2:1` "'And when anyone will offer a food-offering to the LORD, his offering shall be of fine flour. And he shall pour *_oil_* upon it and put frankincense upon it.
 * `Lev 2:2` And he shall bring it to Aaron's sons the priests. And he shall take from it his handful of flour and *_oil_*, with all its frankincense, and the priest shall burn its memorial upon the altar to be an offering made by fire, a sweet savor to the LORD.

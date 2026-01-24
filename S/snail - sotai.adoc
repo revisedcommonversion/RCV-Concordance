@@ -300,8 +300,8 @@ _1 verse containing SOCKET_
 * `Exo 38:27` And from the hundred talents of silver the *_sockets_* of the sanctuary and the *_sockets_* of the veil were cast—one hundred *_sockets_* from the hundred talents, a talent for a socket.
 * `Exo 38:30` And with this he made the *_sockets_* to the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the vessels of the altar,
 * `Exo 38:31` The *_sockets_* of the court all around, the *_sockets_* of the court gate, all the pins of the tabernacle, and all the pins of the court all around.
-* `Exo 39:33` And they brought the tabernacle to Moses, the tent, all its vessels, its buttons, its boards, its bars, its pillars, and its *_sockets_*,
-* `Exo 39:40` The hangings of the court, its pillars, and its *_sockets_*, and the hanging for the court-gate, its cords, and its pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:33` And they brought the tabernacle to Moses: the tent, all its vessels, its buttons, its boards, its bars, its pillars, and its *_sockets_*;
+* `Exo 39:40` The hangings of the court with its pillars and its *_sockets_*, the hanging for the court-gate with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:18` And Moses reared up the tabernacle, fastened its *_sockets_*, set up its boards, put in its bars, and reared up its pillars.
 * `Num 3:36` And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, its bars, its pillars, its *_sockets_*, all its vessels, all its service,
 * `Num 3:37` The pillars of the court all around, their *_sockets_*, their pins, and their cords.
@@ -3710,7 +3710,7 @@ _20 verses containing SONGS_
 * `Exo 34:20` But the first-born of a donkey you shall redeem with a lamb. And if you will not redeem him, then you shall break his neck. All the first-born of your *_sons_* you shall redeem. And no one shall appear before me empty.
 * `Exo 35:19` The clothes of service to do service in the holy place—the holy garments for Aaron the priest and the garments for his *_sons_* to minister in the priest's office.'"
 * `Exo 39:27` And they made coats of fine linen of woven work for Aaron and for his *_sons_*,
-* `Exo 39:41` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and his *_sons_*' garments, to minister in the priest's office.
+* `Exo 39:41` And the clothes of service to do service in the holy place, both the holy garments for Aaron the priest and the garments for his *_sons_* to minister in the priest's office.
 * `Exo 40:12` And you shall bring Aaron and his *_sons_* to the door of the Tabernacle of the Congregation and wash them with water.
 * `Exo 40:14` And you shall bring his *_sons_* and clothe them with coats.
 * `Exo 40:31` And Moses and Aaron and his *_sons_* washed their hands and their feet in it.

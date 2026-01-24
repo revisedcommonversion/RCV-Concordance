@@ -1371,7 +1371,7 @@ _16 verses containing COURSES_
 * `Exo 38:18` And the hanging for the gate of the *_court_* was needle-work of blue, purple, scarlet, and fine twined linen. And twenty cubits was the length, and the height in the breadth was five cubits, corresponding to the hangings of the *_court_*.
 * `Exo 38:20` And all the pins of the tabernacle and of the *_court_* all around were of brass.
 * `Exo 38:31` The sockets of the *_court_* all around, the sockets of the *_court_* gate, all the pins of the tabernacle, and all the pins of the *_court_* all around.
-* `Exo 39:40` The hangings of the *_court_*, its pillars, and its sockets, and the hanging for the *_court_*-gate, its cords, and its pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:40` The hangings of the *_court_* with its pillars and its sockets, the hanging for the *_court_*-gate with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:8` And you shall set up the *_court_* all around and hang up the hanging at the *_court_*-gate.
 * `Exo 40:33` And he reared up the *_court_* all around the tabernacle and the altar and set up the hanging of the *_court_*-gate. So Moses finished the work.
 * `Lev 6:16` And its remainder Aaron and his sons shall eat. With unleavened bread it shall be eaten in the holy place. In the *_court_* of the Tabernacle of the Congregation they shall eat it.
@@ -1460,7 +1460,7 @@ _99 verses containing COURT_
 == COURT-GATE
 
 * `Exo 38:15` And for the other side of the *_court-gate_*, on this hand and that hand, were hangings of fifteen cubits, their pillars three and their sockets three.
-* `Exo 39:40` The hangings of the court, its pillars, and its sockets, and the hanging for the *_court-gate_*, its cords, and its pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:40` The hangings of the court with its pillars and its sockets, the hanging for the *_court-gate_* with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:8` And you shall set up the court all around and hang up the hanging at the *_court-gate_*.
 * `Exo 40:33` And he reared up the court all around the tabernacle and the altar and set up the hanging of the *_court-gate_*. So Moses finished the work.
 
@@ -1828,7 +1828,7 @@ _3 verses containing COVENANTS_
 * `Exo 26:13` And a cubit on one side and a cubit on the other side of that which remains in the length of the curtains of the tent shall hang over the sides of the tabernacle on this side and on that side to *_cover_* it.
 * `Exo 28:42` And you shall make them linen breeches to *_cover_* their nakedness. From the loins even to the thighs they shall reach.
 * `Exo 33:22` And it shall come to pass, while my glory passes by, that I will put you in a cleft of the rock and will *_cover_* you with my hand while I pass by.
-* `Exo 37:16` And he made the vessels which were upon the table, its dishes, its spoons, its bowls, and its covers to *_cover_* with, of pure gold.
+* `Exo 37:16` And he made the vessels which were upon the table of pure gold: its dishes, its spoons, its bowls, and its covers to *_cover_* with.
 * `Exo 40:3` And you shall put in it the ark of the testimony and *_cover_* the ark with the veil.
 * `Lev 16:13` And he shall put the incense upon the fire before the LORD, and the cloud of the incense shall *_cover_* the mercy-seat that is upon the testimony so that he will not die.
 * `Lev 17:13` And whatever man there may be of the children of Israel or of the strangers who sojourn among you who hunts and catches any beast or bird that may be eaten, he shall even pour out its blood and *_cover_* it with dust.
@@ -2014,7 +2014,7 @@ _100 verses containing COVERED_
 * `Exo 35:12` The ark and its staffs, the mercy-seat, and the veil of the *_covering_*;
 * `Exo 36:19` And he made a *_covering_* for the tent of rams' skins dyed red and a *_covering_* of badgers' skins above that.
 * `Exo 37:9` And the cherubim spread out their wings on high, *_covering_* the mercy-seat with their wings, with their faces to one another, even toward the mercy-seat were the faces of the cherubim.
-* `Exo 39:34` The *_covering_* of rams' skins dyed red, the *_covering_* of badgers' skins, the veil of the *_covering_*,
+* `Exo 39:34` The *_covering_* of rams' skins dyed red, the *_covering_* of badgers' skins, and the veil of the *_covering_*;
 * `Exo 40:19` And he spread abroad the tent over the tabernacle and put the *_covering_* of the tent above upon it, as the LORD commanded Moses.
 * `Exo 40:21` And he brought the ark into the tabernacle, set up the veil of the *_covering_*, and covered the ark of the testimony, as the LORD commanded Moses.
 * `Lev 13:45` "And the leper in whom the plague is, his clothes shall be rent and his head bare, and he shall put a *_covering_* upon his upper lip and shall cry, 'Unclean, unclean.'
@@ -2063,7 +2063,7 @@ _4 verses containing COVERINGS_
 * `Exo 25:29` And you shall make its dishes, its spoons, its *_covers_*, and its bowls to cover it with. Of pure gold you shall make them.
 * `Exo 29:13` And you shall take all the fat that *_covers_* the inwards and the lobe of the liver, and the two kidneys with the fat that is upon them, and burn them upon the altar.
 * `Exo 29:22` "Also you shall take from the ram the fat and the rump, the fat that *_covers_* the inwards and the lobe of the liver, the two kidneys and the fat that is upon them, the right shoulder (for it is a ram of consecration),
-* `Exo 37:16` And he made the vessels which were upon the table, its dishes, its spoons, its bowls, and its *_covers_* to cover with, of pure gold.
+* `Exo 37:16` And he made the vessels which were upon the table of pure gold: its dishes, its spoons, its bowls, and its *_covers_* to cover with.
 * `Lev 3:3` And he shall offer from the sacrifice of the peace-offering an offering made by fire to the LORD: the fat that *_covers_* the inwards, all the fat that is upon the inwards,
 * `Lev 3:9` And he shall offer from the sacrifice of the peace-offering an offering made by fire to the LORD: its fat, the whole rump which he shall take off close to the back-bone, the fat that *_covers_* the inwards and all the fat that is upon the inwards,
 * `Lev 3:14` And he shall offer from it his offering, even an offering made by fire to the LORD: the fat that *_covers_* the inwards and all the fat that is upon the inwards,

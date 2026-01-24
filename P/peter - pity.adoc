@@ -1599,8 +1599,8 @@ _35 verses containing PILLAR_
 * `Exo 38:17` And the sockets for the *_pillars_* were of brass. The hooks of the *_pillars_* and their fillets were made of silver. And the overlaying of their capitals were made of silver. And all the *_pillars_* of the court were filleted with silver.
 * `Exo 38:19` And their *_pillars_* were four and their sockets of brass four. Their hooks were made of silver and also the overlaying of their capitals and their fillets were made of silver.
 * `Exo 38:28` And from the one thousand seven hundred and seventy-five shekels he made hooks for the *_pillars_*, overlaid their capitals, and filleted them.
-* `Exo 39:33` And they brought the tabernacle to Moses, the tent, all its vessels, its buttons, its boards, its bars, its *_pillars_*, and its sockets,
-* `Exo 39:40` The hangings of the court, its *_pillars_*, and its sockets, and the hanging for the court-gate, its cords, and its pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:33` And they brought the tabernacle to Moses: the tent, all its vessels, its buttons, its boards, its bars, its *_pillars_*, and its sockets;
+* `Exo 39:40` The hangings of the court with its *_pillars_* and its sockets, the hanging for the court-gate with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:18` And Moses reared up the tabernacle, fastened its sockets, set up its boards, put in its bars, and reared up its *_pillars_*.
 * `Num 3:36` And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, its bars, its *_pillars_*, its sockets, all its vessels, all its service,
 * `Num 3:37` The *_pillars_* of the court all around, their sockets, their pins, and their cords.
@@ -1735,7 +1735,7 @@ _2 verses containing PINON_
 * `Exo 35:18` The *_pins_* of the tabernacle, the *_pins_* of the court, and their cords;
 * `Exo 38:20` And all the *_pins_* of the tabernacle and of the court all around were of brass.
 * `Exo 38:31` The sockets of the court all around, the sockets of the court gate, all the *_pins_* of the tabernacle, and all the *_pins_* of the court all around.
-* `Exo 39:40` The hangings of the court, its pillars, and its sockets, and the hanging for the court-gate, its cords, and its *_pins_*, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:40` The hangings of the court with its pillars and its sockets, the hanging for the court-gate with its cords and its *_pins_*, and all the vessels of the service of the tabernacle for the tent of the congregation;
 * `Num 3:37` The pillars of the court all around, their sockets, their *_pins_*, and their cords.
 * `Num 4:32` The pillars of the court all around and their sockets, their *_pins_*, and their cords, with all their instruments and with all their service. And by name you shall reckon the instruments of the charge of their burden.
 

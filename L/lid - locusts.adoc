@@ -1043,7 +1043,7 @@ _1 verse containing LIGAMENTS_
 * `Exo 35:8` Oil for the *_light_*, spices for anointing oil and for the sweet incense,
 * `Exo 35:14` The candlestick for the *_light_* and its vessels, its lamps, and the oil for the *_light_*;
 * `Exo 35:28` And spice and oil for the *_light_*, for the anointing oil, and for the sweet incense.
-* `Exo 39:37` The pure candlestick with its lamps, even with the lamps to be set in order, all its vessels, the oil for *_light_*,
+* `Exo 39:37` The pure candlestick, its lamps, even the lamps to be set in order, all its vessels, and the oil for *_light_*;
 * `Exo 40:4` And you shall bring in the table and set in order the things that are to be set in order upon it. And you shall bring in the candlestick and *_light_* its lamps.
 * `Lev 24:2` "Command the children of Israel that they bring to you pure olive oil beaten for the *_light_* to cause the lamps to burn continually.
 * `Num 4:9` And they shall take a cloth of blue and cover the candlestick for the *_light_*, its lamps, its tongs, its snuff-dishes, and all its oil vessels, with which they minister to it.
@@ -1394,7 +1394,7 @@ _1 verse containing LIGN-ALOES_
 * `Exo 30:38` Whoever makes any *_like_* it to be refreshed by it shall even be cut off from his people."
 * `Exo 34:1` And the LORD said to Moses, "Hew two tablets of stone *_like_* the first, and I will write upon these tablets the words that were on the first tablets which you broke.
 * `Exo 34:4` And he hewed two tablets of stone *_like_* the first. And Moses rose up early in the morning and went up to mount Sinai, as the LORD had commanded him, and took in his hand the two tablets of stone.
-* `Exo 37:19` Three bowls made after the fashion of almonds in one branch, a bud and a flower, and three bowls made *_like_* almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the candlestick.
+* `Exo 37:19` Three bowls were made after the fashion of almonds in one branch, a bud and a flower, and three bowls were made *_like_* almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the candlestick.
 * `Exo 37:20` And in the candlestick there were four bowls made *_like_* almonds, its buds and its flowers,
 * `Exo 39:8` And he made the breast-plate of skillful work *_like_* the work of the ephod of gold, blue, purple, scarlet, and fine twined linen.
 * `Exo 39:14` And the stones were according to the names of the children of Israel, twelve, according to their names, *_like_* the engravings of a signet, each with his name, according to the twelve tribes.
@@ -2243,7 +2243,7 @@ _28 verses containing LIKENESS_
 * `Exo 26:17` There shall be two tenons in one board, set in order one against another. You shall do *_likewise_* for all the boards of the tabernacle.
 * `Exo 27:11` And *_likewise_* for the north side in length there shall be hangings of one hundred cubits long, and its twenty pillars and their twenty sockets of brass. The hooks of the pillars and their fillets shall be of silver.
 * `Exo 36:11` And he made loops of blue on the edge of one curtain from the selvage in the coupling. He did *_likewise_* in the extremity of another curtain in the coupling of the second.
-* `Exo 37:19` Three bowls made after the fashion of almonds in one branch, a bud and a flower, and three bowls made like almonds in another branch, a bud and a flower—*_likewise_* throughout the six branches proceeding from the candlestick.
+* `Exo 37:19` Three bowls were made after the fashion of almonds in one branch, a bud and a flower, and three bowls were made like almonds in another branch, a bud and a flower—*_likewise_* throughout the six branches proceeding from the candlestick.
 * `Lev 7:1` "'*_Likewise_*, this is the law of the trespass-offering. It is most holy.
 * `Lev 16:16` And he shall make an atonement for the holy place because of the uncleanness of the children of Israel and because of their transgressions in all their sins. And he shall do *_likewise_* for the Tabernacle of the Congregation that remains among them in the midst of their uncleanness.
 * `Num 13:33` And there we saw the Nephilim, the sons of Anak, who come from the Nephilim. And we were in our own sight as locusts, and we were *_likewise_* in their sight."
@@ -2534,7 +2534,7 @@ _1 verse containing LINEAGE_
 * `Exo 39:24` And they made upon the hems of the robe pomegranates of blue, purple, scarlet, and twined *_linen_*.
 * `Exo 39:27` And they made coats of fine *_linen_* of woven work for Aaron and for his sons,
 * `Exo 39:28` And a miter of fine *_linen_*, fancy caps of fine *_linen_*, *_linen_* breeches of fine twined *_linen_*,
-* `Exo 39:29` And a girdle of fine twined *_linen_*, blue, purple, and scarlet, of needle-work, as the LORD commanded Moses.
+* `Exo 39:29` And a girdle of fine twined *_linen_* and blue, purple, and scarlet, of needle-work, as the LORD commanded Moses.
 * `Lev 6:10` And the priest shall put on his *_linen_* garment and put his *_linen_* breeches on his body. And he shall take up the ashes which the fire has consumed with the burnt-offering on the altar and put them beside the altar.
 * `Lev 13:47` "Also the garment that the plague of leprosy is in, whether a woolen garment or a *_linen_* garment,
 * `Lev 13:48` Whether in the warp or woof of *_linen_* or of woolen, whether in a skin or in anything made of skin,

@@ -1031,7 +1031,7 @@ _2 verses containing WONDROUSLY_
 * `Exo 37:1` And Bezaleel made the ark of shittim *_wood_*. Two and a half cubits was its length, a cubit and a half its breadth, and a cubit and a half its height.
 * `Exo 37:4` And he made staffs of shittim *_wood_* and overlaid them with gold.
 * `Exo 37:10` And he made the table of shittim *_wood_*. Two cubits was its length, a cubit its breadth, and a cubit and a half its height.
-* `Exo 37:15` And he made the staffs of shittim *_wood_* and overlaid them with gold to bear the table.
+* `Exo 37:15` And he made the staffs of shittim *_wood_* to bear the table and overlaid them with gold.
 * `Exo 37:25` And he made the incense-altar of shittim *_wood_*. Its length was a cubit and its breadth a cubit. It was square and two cubits was its height. Its horns were of the same.
 * `Exo 37:28` And he made the staffs of shittim *_wood_* and overlaid them with gold.
 * `Exo 38:1` And he made the altar of burnt-offering of shittim *_wood_*. Five cubits was its length and five cubits its breadth. It was square and its height was three cubits.
@@ -2462,7 +2462,7 @@ _2 verses containing WORE_
 * `Exo 39:15` And they made upon the breast-plate chains at the ends of wreathed *_work_* of pure gold.
 * `Exo 39:22` And he made the robe of the ephod of woven *_work_*, all of blue.
 * `Exo 39:27` And they made coats of fine linen of woven *_work_* for Aaron and for his sons,
-* `Exo 39:29` And a girdle of fine twined linen, blue, purple, and scarlet, of needle-*_work_*, as the LORD commanded Moses.
+* `Exo 39:29` And a girdle of fine twined linen and blue, purple, and scarlet, of needle-*_work_*, as the LORD commanded Moses.
 * `Exo 39:32` Thus all the *_work_* of the tabernacle of the tent of the congregation was finished. And the children of Israel did according to all that the LORD commanded Moses. And they did so.
 * `Exo 39:42` According to all that the LORD commanded Moses, so the children of Israel made all the *_work_*.
 * `Exo 39:43` And Moses looked upon all the *_work_*, and behold, they had done it. As the LORD had commanded, even so they had done it. And Moses blessed them.

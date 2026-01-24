@@ -688,7 +688,7 @@ _5 verses containing VEHEMENTLY_
 * `Exo 35:12` The ark and its staffs, the mercy-seat, and the *_veil_* of the covering;
 * `Exo 36:35` And he made a *_veil_* of blue, purple, scarlet, and fine twined linen. With cherubim he made it of skillful work.
 * `Exo 38:27` And from the hundred talents of silver the sockets of the sanctuary and the sockets of the *_veil_* were cast—one hundred sockets from the hundred talents, a talent for a socket.
-* `Exo 39:34` The covering of rams' skins dyed red, the covering of badgers' skins, the *_veil_* of the covering,
+* `Exo 39:34` The covering of rams' skins dyed red, the covering of badgers' skins, and the *_veil_* of the covering;
 * `Exo 40:3` And you shall put in it the ark of the testimony and cover the ark with the *_veil_*.
 * `Exo 40:21` And he brought the ark into the tabernacle, set up the *_veil_* of the covering, and covered the ark of the testimony, as the LORD commanded Moses.
 * `Exo 40:22` And he put the table in the tent of the congregation, upon the side of the tabernacle northward, outside the *_veil_*.
@@ -1139,15 +1139,15 @@ _41 verses containing VESSEL_
 * `Exo 35:13` The table and its staffs, all its *_vessels_*, and the show-bread;
 * `Exo 35:14` The candlestick for the light and its *_vessels_*, its lamps, and the oil for the light;
 * `Exo 35:16` The altar of burnt-offering with its brazen grate, its staffs, and all its *_vessels_*; the basin and its foot;
-* `Exo 37:16` And he made the *_vessels_* which were upon the table, its dishes, its spoons, its bowls, and its covers to cover with, of pure gold.
+* `Exo 37:16` And he made the *_vessels_* which were upon the table of pure gold: its dishes, its spoons, its bowls, and its covers to cover with.
 * `Exo 37:24` Of a talent of pure gold he made it and all its *_vessels_*.
 * `Exo 38:3` And he made all the *_vessels_* of the altar: the pots, the shovels, the basins, the flesh-hooks, and the fire-pans. All its *_vessels_* he made of brass.
 * `Exo 38:30` And with this he made the sockets to the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the *_vessels_* of the altar,
-* `Exo 39:33` And they brought the tabernacle to Moses, the tent, all its *_vessels_*, its buttons, its boards, its bars, its pillars, and its sockets,
-* `Exo 39:36` The table, all its *_vessels_*, the show-bread,
-* `Exo 39:37` The pure candlestick with its lamps, even with the lamps to be set in order, all its *_vessels_*, the oil for light,
-* `Exo 39:39` The brazen altar and its grate of brass, its staffs, and all its *_vessels_*, the basin and its foot,
-* `Exo 39:40` The hangings of the court, its pillars, and its sockets, and the hanging for the court-gate, its cords, and its pins, and all the *_vessels_* of the service of the tabernacle, for the tent of the congregation,
+* `Exo 39:33` And they brought the tabernacle to Moses: the tent, all its *_vessels_*, its buttons, its boards, its bars, its pillars, and its sockets;
+* `Exo 39:36` The table, all its *_vessels_*, and the show-bread;
+* `Exo 39:37` The pure candlestick, its lamps, even the lamps to be set in order, all its *_vessels_*, and the oil for light;
+* `Exo 39:39` The brazen altar, its grate of brass, its staffs, and all its *_vessels_*; the basin and its foot;
+* `Exo 39:40` The hangings of the court with its pillars and its sockets, the hanging for the court-gate with its cords and its pins, and all the *_vessels_* of the service of the tabernacle for the tent of the congregation;
 * `Exo 40:9` And you shall take the anointing oil and anoint the tabernacle and all that is in it, and shall hallow it and all its *_vessels_*, and it shall be holy.
 * `Exo 40:10` And you shall anoint the altar of the burnt-offering and all its *_vessels_* and sanctify the altar, and it shall be an altar most holy.
 * `Lev 8:11` And he sprinkled part of it upon the altar seven times and anointed the altar and all its *_vessels_*, both the basin and its foot, to sanctify them.
