@@ -1587,8 +1587,8 @@ _35 verses containing PILLAR_
 * `Exo 27:15` And on the other side shall be hangings, fifteen cubits, with their three *_pillars_* and their three sockets.
 * `Exo 27:16` And for the gate of the court there shall be a hanging of twenty cubits of blue, purple, scarlet, and fine twined linen, wrought with needle-work, with their four *_pillars_* and their four sockets.
 * `Exo 27:17` All the *_pillars_* around the court shall be filleted with silver with their hooks of silver and their sockets of brass.
-* `Exo 35:11` The tabernacle, its tent, its covering, its buttons, its boards, its bars, its *_pillars_*, its sockets,
-* `Exo 35:17` The hangings of the court, its *_pillars_*, and their sockets, and the hanging for the door of the court,
+* `Exo 35:11` The tabernacle with its tent, its covering, its buttons, its boards, its bars, its *_pillars_*, and its sockets;
+* `Exo 35:17` The hangings of the court, its *_pillars_*, their sockets, and the hanging for the door of the court;
 * `Exo 36:36` And he made for it four *_pillars_* of shittim wood and overlaid them with gold. Their hooks were of gold and he cast for them four sockets of silver.
 * `Exo 36:38` And its five *_pillars_* with their hooks. And he overlaid their capitals and their fillets with gold, but their five sockets were of brass.
 * `Exo 38:10` Their *_pillars_* were twenty and their brazen sockets twenty. The hooks of the *_pillars_* and their fillets were of silver.
@@ -1732,7 +1732,7 @@ _2 verses containing PINON_
 == PINS
 
 * `Exo 27:19` All the vessels of the tabernacle in all the service thereof, all the *_pins_* thereof, and all the *_pins_* of the court, shall be of brass.
-* `Exo 35:18` The *_pins_* of the tabernacle, the *_pins_* of the court and their cords,
+* `Exo 35:18` The *_pins_* of the tabernacle, the *_pins_* of the court, and their cords;
 * `Exo 38:20` And all the *_pins_* of the tabernacle and of the court all around were of brass.
 * `Exo 38:31` The sockets of the court all around, the sockets of the court gate, all the *_pins_* of the tabernacle, and all the *_pins_* of the court all around.
 * `Exo 39:40` The hangings of the court, its pillars, and its sockets, and the hanging for the court-gate, its cords, and its *_pins_*, and all the vessels of the service of the tabernacle, for the tent of the congregation,

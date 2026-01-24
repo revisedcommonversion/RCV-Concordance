@@ -1739,7 +1739,7 @@ _146 verses containing OFFERED_
 * `Exo 30:28` The altar of burnt-*_offering_* with all its vessels, and the basin and its foot.
 * `Exo 31:9` The altar of burnt-*_offering_* with all its vessels, the basin and its foot,
 * `Exo 35:5` 'Take from among you an *_offering_* to the LORD. Whoever is of a willing heart, let him bring it, an *_offering_* of the LORD: gold, silver, brass,
-* `Exo 35:16` The altar of burnt-*_offering_* with its brazen grate, its staffs, and all its vessels, the basin and its foot,
+* `Exo 35:16` The altar of burnt-*_offering_* with its brazen grate, its staffs, and all its vessels; the basin and its foot;
 * `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the LORD'S *_offering_* to the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
 * `Exo 35:22` And they came, both men and women, as many as were willing-hearted, and brought bracelets, earrings, rings, tablets, all jewels of gold. And every man who offered, offered an *_offering_* of gold to the LORD.
 * `Exo 35:24` Everyone who offered an *_offering_* of silver and brass brought the LORD'S *_offering_*. And every man with whom was found shittim wood for any work of the service brought it.
@@ -2466,7 +2466,7 @@ _19 verses containing OFFERS_
 * `Exo 29:44` And I will sanctify the Tabernacle of the Congregation and the altar. I will also sanctify both Aaron and his sons to minister to me in the priest's *_office_*.
 * `Exo 30:30` And you shall anoint Aaron and his sons and consecrate them so that they may minister to me in the priest's *_office_*.
 * `Exo 31:10` The clothes of service, the holy garments for Aaron the priest and the garments of his sons to minister in the priest's *_office_*,
-* `Exo 35:19` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's *_office_*.'"
+* `Exo 35:19` The clothes of service to do service in the holy place—the holy garments for Aaron the priest and the garments for his sons to minister in the priest's *_office_*.'"
 * `Exo 39:41` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's *_office_*.
 * `Exo 40:13` And you shall put upon Aaron the holy garments, anoint him, and sanctify him so that he may minister to me in the priest's *_office_*.
 * `Exo 40:15` And you shall anoint them as you anointed their father so that they may minister to me in the priest's *_office_*, for their anointing shall surely be an everlasting priesthood throughout their generations."
@@ -2892,8 +2892,8 @@ _1 verse containing OHEL_
 * `Exo 30:31` And you shall speak to the children of Israel, saying, 'This shall be a holy anointing *_oil_* to me throughout your generations.
 * `Exo 31:11` And the anointing *_oil_* and sweet incense for the holy place. According to all that I have commanded you, they shall do."
 * `Exo 35:8` *_Oil_* for the light, spices for anointing *_oil_* and for the sweet incense,
-* `Exo 35:14` The candlestick also for the light, its vessels, and its lamps with the *_oil_* for the light,
-* `Exo 35:15` The incense-altar and its staffs, the anointing *_oil_*, the sweet incense, the hanging for the door at the entrance of the tabernacle,
+* `Exo 35:14` The candlestick for the light and its vessels, its lamps, and the *_oil_* for the light;
+* `Exo 35:15` The incense-altar and its staffs; the anointing *_oil_* and the sweet incense; the hanging for the door at the entrance of the tabernacle;
 * `Exo 35:28` And spice and *_oil_* for the light, for the anointing *_oil_*, and for the sweet incense.
 * `Exo 37:29` And he made the holy anointing *_oil_* and the pure incense of sweet spices according to the work of the perfumer.
 * `Exo 39:37` The pure candlestick with its lamps, even with the lamps to be set in order, all its vessels, the *_oil_* for light,

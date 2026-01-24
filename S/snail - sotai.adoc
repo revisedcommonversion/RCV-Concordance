@@ -283,8 +283,8 @@ _1 verse containing SOCKET_
 * `Exo 27:16` And for the gate of the court there shall be a hanging of twenty cubits of blue, purple, scarlet, and fine twined linen, wrought with needle-work, with their four pillars and their four *_sockets_*.
 * `Exo 27:17` All the pillars around the court shall be filleted with silver with their hooks of silver and their *_sockets_* of brass.
 * `Exo 27:18` The length of the court shall be one hundred cubits, the breadth fifty everywhere, and the height five cubits of fine twined linen, and their *_sockets_* of brass.
-* `Exo 35:11` The tabernacle, its tent, its covering, its buttons, its boards, its bars, its pillars, its *_sockets_*,
-* `Exo 35:17` The hangings of the court, its pillars, and their *_sockets_*, and the hanging for the door of the court,
+* `Exo 35:11` The tabernacle with its tent, its covering, its buttons, its boards, its bars, its pillars, and its *_sockets_*;
+* `Exo 35:17` The hangings of the court, its pillars, their *_sockets_*, and the hanging for the door of the court;
 * `Exo 36:24` And forty *_sockets_* of silver he made under the twenty boards, two *_sockets_* under one board for its two tenons and two *_sockets_* under another board for its two tenons.
 * `Exo 36:26` And their forty *_sockets_* of silver, two *_sockets_* under one board and two *_sockets_* under another board.
 * `Exo 36:30` And there were eight boards and their *_sockets_* were sixteen *_sockets_* of silver, under every board two *_sockets_*.
@@ -3708,7 +3708,7 @@ _20 verses containing SONGS_
 * `Exo 32:26` Moses stood in the gate of the camp and said, "Who is on the LORD'S side? Let him come to me." And all the *_sons_* of Levi assembled themselves to him.
 * `Exo 34:16` And you take some of their daughters for your *_sons_*, and their daughters go astray after their gods and make your *_sons_* go astray after their gods.
 * `Exo 34:20` But the first-born of a donkey you shall redeem with a lamb. And if you will not redeem him, then you shall break his neck. All the first-born of your *_sons_* you shall redeem. And no one shall appear before me empty.
-* `Exo 35:19` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and the garments of his *_sons_*, to minister in the priest's office.'"
+* `Exo 35:19` The clothes of service to do service in the holy place—the holy garments for Aaron the priest and the garments for his *_sons_* to minister in the priest's office.'"
 * `Exo 39:27` And they made coats of fine linen of woven work for Aaron and for his *_sons_*,
 * `Exo 39:41` The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and his *_sons_*' garments, to minister in the priest's office.
 * `Exo 40:12` And you shall bring Aaron and his *_sons_* to the door of the Tabernacle of the Congregation and wash them with water.

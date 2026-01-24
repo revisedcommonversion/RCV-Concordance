@@ -3432,13 +3432,13 @@ _1 verse containing ITHRITES_
 * `Exo 30:37` And as for the perfume which you shall make, you shall not make for yourselves according to *_its_* composition. It shall be to you holy for the LORD.
 * `Exo 31:8` The table and *_its_* vessels, the pure candlestick with all *_its_* vessels, the altar of incense,
 * `Exo 31:9` The altar of burnt-offering with all *_its_* vessels, the basin and *_its_* foot,
-* `Exo 35:11` The tabernacle, *_its_* tent, *_its_* covering, *_its_* buttons, *_its_* boards, *_its_* bars, *_its_* pillars, *_its_* sockets,
-* `Exo 35:12` The ark and *_its_* staffs, the mercy-seat, the veil of the covering,
-* `Exo 35:13` The table and *_its_* staffs and all *_its_* vessels, and the show-bread,
-* `Exo 35:14` The candlestick also for the light, *_its_* vessels, and *_its_* lamps with the oil for the light,
-* `Exo 35:15` The incense-altar and *_its_* staffs, the anointing oil, the sweet incense, the hanging for the door at the entrance of the tabernacle,
-* `Exo 35:16` The altar of burnt-offering with *_its_* brazen grate, *_its_* staffs, and all *_its_* vessels, the basin and *_its_* foot,
-* `Exo 35:17` The hangings of the court, *_its_* pillars, and their sockets, and the hanging for the door of the court,
+* `Exo 35:11` The tabernacle with *_its_* tent, *_its_* covering, *_its_* buttons, *_its_* boards, *_its_* bars, *_its_* pillars, and *_its_* sockets;
+* `Exo 35:12` The ark and *_its_* staffs, the mercy-seat, and the veil of the covering;
+* `Exo 35:13` The table and *_its_* staffs, all *_its_* vessels, and the show-bread;
+* `Exo 35:14` The candlestick for the light and *_its_* vessels, *_its_* lamps, and the oil for the light;
+* `Exo 35:15` The incense-altar and *_its_* staffs; the anointing oil and the sweet incense; the hanging for the door at the entrance of the tabernacle;
+* `Exo 35:16` The altar of burnt-offering with *_its_* brazen grate, *_its_* staffs, and all *_its_* vessels; the basin and *_its_* foot;
+* `Exo 35:17` The hangings of the court, *_its_* pillars, their sockets, and the hanging for the door of the court;
 * `Exo 36:24` And forty sockets of silver he made under the twenty boards, two sockets under one board for *_its_* two tenons and two sockets under another board for *_its_* two tenons.
 * `Exo 36:38` And *_its_* five pillars with their hooks. And he overlaid their capitals and their fillets with gold, but their five sockets were of brass.
 * `Exo 37:1` And Bezaleel made the ark of shittim wood. Two and a half cubits was *_its_* length, a cubit and a half *_its_* breadth, and a cubit and a half *_its_* height.

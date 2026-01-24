@@ -342,7 +342,7 @@ _1 verse containing BARRICADE_
 * `Exo 26:26` "And you shall make *_bars_* of shittim wood: five for the boards of one side of the tabernacle,
 * `Exo 26:27` And five *_bars_* for the boards of the other side of the tabernacle, and five *_bars_* for the boards of the side of the tabernacle for the two sides westward.
 * `Exo 26:29` And you shall overlay the boards with gold and make their rings of gold as holders for the *_bars_*, and you shall overlay the *_bars_* with gold.
-* `Exo 35:11` The tabernacle, its tent, its covering, its buttons, its boards, its *_bars_*, its pillars, its sockets,
+* `Exo 35:11` The tabernacle with its tent, its covering, its buttons, its boards, its *_bars_*, its pillars, and its sockets;
 * `Exo 36:31` And he made *_bars_* of shittim wood: five for the boards of one side of the tabernacle,
 * `Exo 36:32` And five *_bars_* for the boards of the other side of the tabernacle, and five *_bars_* for the boards of the tabernacle for the sides westward.
 * `Exo 36:34` And he overlaid the boards with gold, and made their rings of gold to be holders for the *_bars_*, and overlaid the *_bars_* with gold.
@@ -578,7 +578,7 @@ _6 verses containing BASHEMATH_
 * `Exo 30:18` "You shall also make a *_basin_* of brass, and its foot also of brass, to wash in. And you shall put it between the Tabernacle of the Congregation and the altar, and you shall put water therein.
 * `Exo 30:28` The altar of burnt-offering with all its vessels, and the *_basin_* and its foot.
 * `Exo 31:9` The altar of burnt-offering with all its vessels, the *_basin_* and its foot,
-* `Exo 35:16` The altar of burnt-offering with its brazen grate, its staffs, and all its vessels, the *_basin_* and its foot,
+* `Exo 35:16` The altar of burnt-offering with its brazen grate, its staffs, and all its vessels; the *_basin_* and its foot;
 * `Exo 38:8` And he made the *_basin_* of brass and its foot of brass from the mirrors of the women assembling, who assembled at the door of the Tabernacle of the Congregation.
 * `Exo 39:39` The brazen altar and its grate of brass, its staffs, and all its vessels, the *_basin_* and its foot,
 * `Exo 40:7` And you shall set the *_basin_* between the tent of the congregation and the altar and shall put water in it.
