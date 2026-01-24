@@ -808,7 +808,7 @@ _1 verse containing SOURCE_
 * `Exo 26:18` And you shall make the boards for the tabernacle: twenty boards on the *_south_* side southward,
 * `Exo 26:35` And you shall set the table outside the veil, and the candlestick over against the table on the side of the tabernacle toward the *_south_*, and you shall put the table on the north side.
 * `Exo 27:9` "And you shall make the court of the tabernacle. For the *_south_* side southward there shall be hangings for the court of fine twined linen of one hundred cubits long for one side.
-* `Exo 36:23` And he made boards for the tabernacle, twenty boards for the *_south_* side southward.
+* `Exo 36:23` And he made boards for the tabernacle. Twenty boards were for the *_south_* side southward.
 * `Exo 38:9` And he made the court. On the *_south_* side southward the hangings of the court were of fine twined linen, one hundred cubits.
 * `Num 2:10` "On the *_south_* side shall be the standard of the camp of Reuben according to their armies, and the captain of the children of Reuben shall be Elizur the son of Shedeur.
 * `Num 10:6` When you blow an alarm the second time, the camps that lie on the *_south_* side shall take their journey. They shall blow an alarm for their journeys.
@@ -933,7 +933,7 @@ _126 verses containing SOUTH_
 * `Gen 13:14` And the LORD said to Abram after Lot was separated from him, "Now lift up your eyes and look from the place where you are northward, *_southward_*, eastward, and westward.
 * `Exo 26:18` And you shall make the boards for the tabernacle: twenty boards on the south side *_southward_*,
 * `Exo 27:9` "And you shall make the court of the tabernacle. For the south side *_southward_* there shall be hangings for the court of fine twined linen of one hundred cubits long for one side.
-* `Exo 36:23` And he made boards for the tabernacle, twenty boards for the south side *_southward_*.
+* `Exo 36:23` And he made boards for the tabernacle. Twenty boards were for the south side *_southward_*.
 * `Exo 38:9` And he made the court. On the south side *_southward_* the hangings of the court were of fine twined linen, one hundred cubits.
 * `Exo 40:24` And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle *_southward_*.
 * `Num 3:29` The families of the sons of Kohath shall pitch on the side of the tabernacle *_southward_*.
