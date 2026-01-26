@@ -12,11 +12,11 @@
 * `Gen 2:16` And the LORD God commanded the *_man_*, saying, "From every tree of the garden you may freely eat.
 * `Gen 2:18` And the LORD God said, "It is not good that the *_man_* should be alone. I will make him a helper suitable for him."
 * `Gen 2:22` And the rib, which the LORD God had taken from the *_man_*, he made into a woman, and brought her to the *_man_*.
-* `Gen 2:23` And Adam said, "This is now bone of my bones and flesh of my flesh. She shall be called Woman, because she was taken out of *_man_*."
+* `Gen 2:23` And Adam said, "This is now bone of my bones and flesh of my flesh. She shall be called 'Woman,' because she was taken out of *_man_*."
 * `Gen 2:24` Therefore, a *_man_* shall leave his father and his mother and shall cleave to his wife, and they shall be one flesh.
 * `Gen 2:25` And they were both naked, the *_man_* and his wife, and were not ashamed.
 * `Gen 3:12` And the *_man_* said, "The woman whom you gave to be with me, she gave me some from the tree, and I ate."
-* `Gen 3:22` And the LORD God said, "Behold, the *_man_* has become as one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
+* `Gen 3:22` And the LORD God said, "Behold, the *_man_* has become like one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
 * `Gen 3:24` So he drove out the *_man_*, and he placed Cherubim at the east of the garden of Eden and a flaming sword which turned every way to keep the way of the tree of life.
 * `Gen 4:1` And Adam knew Eve his wife, and she conceived and bore Cain, and said, "I have gotten a *_man_* from the LORD."
 * `Gen 4:23` And Lamech said to his wives, "Adah and Zillah, hear my voice. Wives of Lamech, listen to my speech. For I have slain a *_man_* for wounding me, even a young *_man_* for hurting me.
@@ -31,13 +31,13 @@
 * `Gen 8:21` And the LORD smelled a sweet savor, and the LORD said in his heart, "I will not again curse the ground anymore for *_man_*'s sake, for the imagination of *_man_*'s heart is evil from his youth, neither will I ever again smite every living animal as I have done.
 * `Gen 9:5` And surely for your blood of your lives I will require [an accounting]. At the hand of every beast I will require it. And at the hand of *_man_*, at the hand of every *_man_*'s brother I will require [an accounting for] the life of *_man_*.
 * `Gen 9:6` "Whoever sheds *_man_*'s blood, by *_man_* his blood shall be shed, for in the image of God he made *_man_*.
-* `Gen 13:16` And I will make your offspring as the dust of the earth, so that if a *_man_* can number the dust of the earth, then your offspring shall also be numbered.
+* `Gen 13:16` And I will make your offspring like the dust of the earth, so that if a *_man_* can number the dust of the earth, then your offspring shall also be numbered.
 * `Gen 16:12` And he will be a wild *_man_*. His hand will be against every *_man_*, and every *_man_*'s hand against him. And he shall dwell in the presence of all his brothers."
 * `Gen 18:7` And Abraham ran to the herd, brought a calf tender and good, and gave it to a young *_man_*, and he hastened to dress it.
 * `Gen 19:8` Behold now, I have two daughters who have not known *_man_*. Let me, I pray you, bring them out to you, and do to them as is good in your eyes. Only do nothing to these men, because they have come under the shadow of my roof."
 * `Gen 19:9` And they said, "Stand back." And they said again, "This one came in as a sojourner and he wants to be a judge. Now we will deal worse with you than with them." And they pressed hard upon the *_man_*, Lot, and came near to break the door.
 * `Gen 19:31` And the first-born said to the younger, "Our father is old, and there is not a *_man_* on the earth to come in to us after the manner of all the earth.
-* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are but a dead *_man_* on account of the woman whom you have taken, for she is a *_man_*'s wife."
+* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are a dead *_man_* on account of the woman whom you have taken, for she is a *_man_*'s wife."
 * `Gen 20:7` Now therefore, restore to the *_man_* his wife, for he is a prophet and he shall pray for you, and you shall live. And if you shall not restore her, know that you shall surely die—you and all who are yours."
 * `Gen 24:16` And the young woman was very fair to look upon, a virgin, neither had any *_man_* known her. And she went down to the well and filled her pitcher and came up.
 * `Gen 24:21` And the *_man_*, wondering at her, held his peace to know whether the LORD had made his journey prosperous, or not.
@@ -4627,7 +4627,7 @@ _1 verse containing MAUL_
 * `Gen 12:13` Say, I pray you, you are my sister so that it *_may_* be well with me for your sake, and my soul shall live because of you."
 * `Gen 16:2` And Sarai said to Abram, "Behold now, the LORD has restrained me from bearing. I pray you go in to my servant. It *_may_* be that I *_may_* obtain children by her." And Abram listened to the voice of Sarai.
 * `Gen 16:5` And Sarai said to Abram, "My wrong is upon you. I have given my servant into your bosom, and when she saw that she had conceived, I was despised in her eyes. *_May_* the LORD judge between you and me."
-* `Gen 18:5` And I will bring a morsel of bread, and you *_may_* comfort your hearts. After that you shall pass on, for therefore you have come to your servant." And they said, "Do so, as you have said."
+* `Gen 18:5` And I will bring a morsel of bread, and you *_may_* comfort your hearts. After that, you *_may_* go your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
 * `Gen 18:19` For I know him, that he will command his children and his household after him, and they will keep the way of the LORD, to do justice and judgment, so that the LORD *_may_* bring upon Abraham that which he has spoken of him."
 * `Gen 19:5` And they called to Lot and said to him, "Where are the men who came to you this night? Bring them out to us so that we *_may_* know them."
 * `Gen 19:32` Come, let us make our father drink wine, and we will lie with him so that we *_may_* preserve the family of our father."

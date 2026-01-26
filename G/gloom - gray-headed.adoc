@@ -640,7 +640,7 @@ _1 verse containing GNAWED_
 * `Gen 8:16` "*_Go_* forth from the ark—you, your wife, your sons, and your sons' wives with you.
 * `Gen 9:10` And with every living creature that is with you, of the bird, of the livestock, and of every beast of the earth with you, from all that *_go_* out of the ark, to every beast of the earth.
 * `Gen 11:7` Come, let us *_go_* down and there confound their language so that they may not understand one another's speech."
-* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to *_go_* into the land of Canaan. And they came to Haran and dwelt there.
+* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to *_go_* into the land of Canaan. And they came to Haran and dwelt there.
 * `Gen 12:5` And Abram took Sarai his wife, Lot his brother's son, all their substance that they had gathered, and the souls whom they had gotten in Haran, and they went to *_go_* forth into the land of Canaan. And into the land of Canaan they came.
 * `Gen 12:19` Why did you say, 'She is my sister,' so that I took her to be my wife? Now therefore, behold your wife, take her and *_go_* your way."
 * `Gen 13:9` Is the whole land not before you? Separate yourself, I pray you, from me. If you will take the left hand, then I will *_go_* to the right. Or if you will depart to the right hand, then I will *_go_* to the left."
@@ -648,11 +648,12 @@ _1 verse containing GNAWED_
 * `Gen 15:15` And you shall *_go_* to your fathers in peace. You shall be buried in a good old age.
 * `Gen 16:2` And Sarai said to Abram, "Behold now, the LORD has restrained me from bearing. I pray you *_go_* in to my servant. It may be that I may obtain children by her." And Abram listened to the voice of Sarai.
 * `Gen 16:8` And he said, "Hagar, Sarai's servant, where did you come from? And where will you *_go_*?" And she said, "I flee from the face of my mistress Sarai."
+* `Gen 18:5` And I will bring a morsel of bread, and you may comfort your hearts. After that, you may *_go_* your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
 * `Gen 18:21` I will *_go_* down now and see whether they have done altogether according to its cry which has come to me, and if not, I will know."
 * `Gen 19:2` And he said, "Behold now, my lords, turn, I pray you, into your servant's house and stay all night and wash your feet, and you shall rise early and *_go_* on your way." And they said, "No, but we will abide in the street all night."
 * `Gen 19:27` And Abraham rose early in the morning to *_go_* to the place where he stood before the LORD.
 * `Gen 19:34` And it came to pass on the next day that the first born said to the younger, "Behold, I lay last night with my father. Let us make him drink wine this night also, and you *_go_* in and lie with him so that we may preserve the family of our father."
-* `Gen 20:13` And it came to pass, when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we *_go_*, say of me, "He is my brother."'"
+* `Gen 20:13` And it came to pass when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we *_go_*, say of me, "He is my brother."'"
 * `Gen 22:2` And he said, "Now take your son, your only son Isaac, whom you love, and *_go_* into the land of Moriah and offer him there for a burnt-offering upon one of the mountains which I will name to you."
 * `Gen 22:5` And Abraham said to his young men, "Abide here with the donkey, and the boy and I will *_go_* yonder and worship and return to you."
 * `Gen 24:4` But you shall *_go_* to my country and to my kindred and take a wife for my son Isaac."
@@ -2026,7 +2027,7 @@ _1 verse containing GNAWED_
 * `Rev 17:8` The beast that you saw, it was and is no more. And it shall ascend out of the bottomless pit and *_go_* into perdition. And those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, is no more, and yet is.
 * `Rev 20:8` And shall *_go_* out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them to battle—the number of whom is as the sand of the sea.
 
-_1389 verses containing GO_
+_1390 verses containing GO_
 
 == GOADS
 
@@ -2222,10 +2223,10 @@ _1 verse containing GOBLET_
 * `Gen 1:17` And *_God_* set them in the firmament of the heaven to give light upon the earth,
 * `Gen 1:18` To rule over the day and over the night, and to divide the light from the darkness. And *_God_* saw that it was good.
 * `Gen 1:20` And *_God_* said, "Let the waters abundantly bring forth the moving creature that has life and the bird that may fly above the earth in the open firmament of heaven."
-* `Gen 1:21` And *_God_* created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And *_God_* saw that it was good.
-* `Gen 1:22` And *_God_* blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and let birds multiply in the earth."
-* `Gen 1:24` And *_God_* said, "Let the earth bring forth the living creature after his kind: livestock, the creeping animal, and the beast of the earth after his kind." And it was so.
-* `Gen 1:25` And *_God_* made the beast of the earth after his kind, livestock after their kind, and every animal that creeps upon the earth after his kind. And *_God_* saw that it was good.
+* `Gen 1:21` And *_God_* created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And *_God_* saw that it was good.
+* `Gen 1:22` And *_God_* blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and let birds multiply on the earth."
+* `Gen 1:24` And *_God_* said, "Let the earth bring forth the living creature after its kind: livestock, the creeping animal, and the beast of the earth after its kind." And it was so.
+* `Gen 1:25` And *_God_* made the beast of the earth after its kind, livestock after their kind, and every animal that creeps upon the earth after its kind. And *_God_* saw that it was good.
 * `Gen 1:26` And *_God_* said, "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea, over the birds of the air, over the livestock, over all the earth, and over every creeping animal that creeps upon the earth."
 * `Gen 1:27` So *_God_* created man in his own image. In the image of *_God_* he created him. Male and female he created them.
 * `Gen 1:28` And *_God_* blessed them, and *_God_* said to them, "Be fruitful, multiply, replenish the earth, and subdue it. And have dominion over the fish of the sea, over the bird of the air, and over every living animal that moves upon the earth."
@@ -2252,7 +2253,7 @@ _1 verse containing GOBLET_
 * `Gen 3:13` And the LORD *_God_* said to the woman, "What is this that you have done?" And the woman said, "The serpent beguiled me, and I ate."
 * `Gen 3:14` And the LORD *_God_* said to the serpent, "Because you have done this, you are cursed above all livestock and above every beast of the field. Upon your belly you shall go, and dust you shall eat all the days of your life.
 * `Gen 3:21` For Adam and also for his wife the LORD *_God_* made coats of skins and clothed them.
-* `Gen 3:22` And the LORD *_God_* said, "Behold, the man has become as one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
+* `Gen 3:22` And the LORD *_God_* said, "Behold, the man has become like one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
 * `Gen 3:23` Therefore, the LORD *_God_* sent him forth from the garden of Eden to till the ground from which he was taken.
 * `Gen 4:25` And Adam knew his wife again, and she bore a son and called his name Seth, for she said, "*_God_* has appointed me another child instead of Abel, whom Cain slew."
 * `Gen 5:1` This is the book of the generations of Adam. In the day that *_God_* created man, he made him in the likeness of *_God_*.
@@ -2267,7 +2268,7 @@ _1 verse containing GOBLET_
 * `Gen 6:13` And *_God_* said to Noah, "The end of all flesh has come before me, for the earth is filled with violence through them. Behold, I will destroy them with the earth.
 * `Gen 6:22` And Noah did so. According to all that *_God_* commanded him, so he did.
 * `Gen 7:9` There went in two and two with Noah into the ark, the male and the female, as *_God_* had commanded Noah.
-* `Gen 7:16` And those that entered, went in male and female of all flesh, as *_God_* had commanded him. And the LORD shut him in.
+* `Gen 7:16` And those that entered went in male and female of all flesh, as *_God_* had commanded him. And the LORD shut him in.
 * `Gen 8:1` And *_God_* remembered Noah and every living animal and all the livestock that were with him in the ark. And *_God_* made a wind to pass over the earth, and the waters were checked.
 * `Gen 8:15` And *_God_* spoke to Noah, saying,
 * `Gen 9:1` And *_God_* blessed Noah and his sons and said to them, "Be fruitful, multiply, and replenish the earth.
@@ -2279,7 +2280,7 @@ _1 verse containing GOBLET_
 * `Gen 9:26` And he said, "Blessed be the LORD *_God_* of Shem, and Canaan shall be his servant.
 * `Gen 9:27` *_God_* shall enlarge Japheth, and he shall dwell in the tents of Shem, and Canaan shall be his servant."
 * `Gen 14:18` And Melchizedek, king of Salem, brought forth bread and wine. He was the priest of the most high *_God_*.
-* `Gen 14:19` And he blessed him and said, "Blessed is Abram of the most high *_God_*, possessor of heaven and earth.
+* `Gen 14:19` And he blessed him and said, "Blessed be Abram of the most high *_God_*, possessor of heaven and earth.
 * `Gen 14:20` And blessed be the most high *_God_* who has delivered your enemies into your hand." And [Abram] gave him tithes of all.
 * `Gen 14:22` And Abram said to the king of Sodom, "I have lifted my hand to the LORD, the most high *_God_*, the possessor of heaven and earth,
 * `Gen 15:2` And Abram said, "Lord *_GOD_*, what will you give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
@@ -2295,11 +2296,11 @@ _1 verse containing GOBLET_
 * `Gen 17:19` And *_God_* said, "Sarah your wife shall bear you a son indeed, and you shall call his name Isaac. And I will establish my covenant with him for an everlasting covenant and with his offspring after him.
 * `Gen 17:22` And he ceased talking with him, and *_God_* went up from Abraham.
 * `Gen 17:23` And Abraham took Ishmael his son, all who were born in his house, and all who were bought with his money, every male among the men of Abraham's house, and circumcised the flesh of their foreskin, in the same day, as *_God_* had said to him.
-* `Gen 19:29` And it came to pass, when *_God_* destroyed the cities of the plain, that *_God_* remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot dwelt.
-* `Gen 20:3` But *_God_* came to Abimelech in a dream by night and said to him, "Behold, you are but a dead man on account of the woman whom you have taken, for she is a man's wife."
+* `Gen 19:29` And it came to pass when *_God_* destroyed the cities of the plain, that *_God_* remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot dwelt.
+* `Gen 20:3` But *_God_* came to Abimelech in a dream by night and said to him, "Behold, you are a dead man on account of the woman whom you have taken, for she is a man's wife."
 * `Gen 20:6` And *_God_* said to him in a dream, "Indeed, I know that you did this in the integrity of your heart, and I also withheld you from sinning against me. Therefore, I did not allow you to touch her.
 * `Gen 20:11` And Abraham said, "Because I thought, surely the fear of *_God_* is not in this place, and they will slay me for my wife's sake.
-* `Gen 20:13` And it came to pass, when *_God_* caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
+* `Gen 20:13` And it came to pass when *_God_* caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
 * `Gen 20:17` So Abraham prayed to *_God_*, and *_God_* healed Abimelech, his wife, and his women-servants, and they bore children.
 * `Gen 21:2` For Sarah conceived and bore Abraham a son in his old age at the set time of which *_God_* had spoken to him.
 * `Gen 21:4` And Abraham circumcised his son Isaac, being eight days old, as *_God_* had commanded him.
@@ -7099,7 +7100,7 @@ _6 verses containing GOMER_
 * `Gen 14:11` And they took all the goods of Sodom and *_Gomorrah_* and all their provisions and went their way.
 * `Gen 18:20` And the LORD said, "Because the cry of Sodom and *_Gomorrah_* is great and because their sin is very grievous,
 * `Gen 19:24` Then the LORD rained upon Sodom and upon *_Gomorrah_* brimstone and fire from the LORD out of heaven.
-* `Gen 19:28` And he looked toward Sodom and *_Gomorrah_* and toward all the land of the plain and beheld, and behold, the smoke of the country went up as the smoke of a furnace.
+* `Gen 19:28` And he looked toward Sodom and *_Gomorrah_* and toward all the land of the plain and beheld, and behold, the smoke of the country went up like the smoke of a furnace.
 * `Deu 29:23` And that its whole land is brimstone, salt, and burning, that it is not sown, nor does it bear, nor does any grass grow in it like the overthrow of Sodom, *_Gomorrah_*, Admah, and Zeboim, which the LORD overthrew in his anger and in his wrath—
 * `Deu 32:32` For their vine is of the vine of Sodom and of the fields of *_Gomorrah_*. Their grapes are grapes of gall, their clusters are bitter.
 * `Isa 1:9` Unless the LORD of hosts had left to us a very small remnant, we should have been like Sodom, we should have been like *_Gomorrah_*.
@@ -7332,8 +7333,8 @@ _203 verses containing GONE_
 * `Gen 1:10` And God called the dry land "earth," and he called the collection of waters "seas." And God saw that it was *_good_*.
 * `Gen 1:12` And the earth brought forth grass, herbs yielding seed after its kind, and the tree yielding fruit, whose seed was in itself, after its kind. And God saw that it was *_good_*.
 * `Gen 1:18` To rule over the day and over the night, and to divide the light from the darkness. And God saw that it was *_good_*.
-* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was *_good_*.
-* `Gen 1:25` And God made the beast of the earth after his kind, livestock after their kind, and every animal that creeps upon the earth after his kind. And God saw that it was *_good_*.
+* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was *_good_*.
+* `Gen 1:25` And God made the beast of the earth after its kind, livestock after their kind, and every animal that creeps upon the earth after its kind. And God saw that it was *_good_*.
 * `Gen 1:31` And God saw everything that he had made, and behold, it was very *_good_*. And the evening and the morning were the sixth day.
 * `Gen 2:9` And out of the ground the LORD God made every tree to grow that is pleasant to the sight and *_good_* for food, and also the tree of life in the midst of the garden, and the tree of knowledge of *_good_* and evil.
 * `Gen 2:12` And the gold of that land is *_good_*. There is bdellium and the onyx-stone.
@@ -7341,7 +7342,7 @@ _203 verses containing GONE_
 * `Gen 2:18` And the LORD God said, "It is not *_good_* that the man should be alone. I will make him a helper suitable for him."
 * `Gen 3:5` For God knows, that in the day you eat from it, your eyes shall be opened and you shall be as gods, knowing *_good_* and evil."
 * `Gen 3:6` And when the woman saw that the tree was *_good_* for food and that it was pleasant to the eyes and a tree to be desired to make one wise, she took some of its fruit and ate, and gave some also to her husband with her, and he ate.
-* `Gen 3:22` And the LORD God said, "Behold, the man has become as one of us, to know *_good_* and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
+* `Gen 3:22` And the LORD God said, "Behold, the man has become like one of us, to know *_good_* and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
 * `Gen 15:15` And you shall go to your fathers in peace. You shall be buried in a *_good_* old age.
 * `Gen 18:7` And Abraham ran to the herd, brought a calf tender and *_good_*, and gave it to a young man, and he hastened to dress it.
 * `Gen 19:8` Behold now, I have two daughters who have not known man. Let me, I pray you, bring them out to you, and do to them as is *_good_* in your eyes. Only do nothing to these men, because they have come under the shadow of my roof."

@@ -1588,12 +1588,12 @@ _1 verse containing LESSON_
 == LEST
 
 * `Gen 3:3` But concerning the fruit of the tree which is in the midst of the garden, God has said, 'You shall not eat from it, neither shall you touch it, *_lest_* you die.'"
-* `Gen 3:22` And the LORD God said, "Behold, the man has become as one of us, to know good and evil. And now, *_lest_* he should put forth his hand and take from the tree of life and eat and live forever—"
+* `Gen 3:22` And the LORD God said, "Behold, the man has become like one of us, to know good and evil. And now, *_lest_* he should put forth his hand and take from the tree of life and eat and live forever—"
 * `Gen 4:15` And the LORD said to him, "Therefore, whoever slays Cain, vengeance shall be taken on him seven-fold." And the LORD set a mark upon Cain, *_lest_* anyone finding him should kill him.
 * `Gen 11:4` And they said, "Come, let us build ourselves a city and a tower, whose top may reach to heaven. And let us make ourselves a name, *_lest_* we should be scattered abroad upon the face of the whole earth."
 * `Gen 14:23` That from a thread even to a shoe-latchet I will not take anything that is yours, *_lest_* you should say, 'I have made Abram rich,'
 * `Gen 19:15` And when the morning arose, the angels hastened Lot, saying, "Arise, take your wife and your two daughters who are here, *_lest_* you be consumed in the iniquity of the city."
-* `Gen 19:17` And it came to pass, when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, *_lest_* you be consumed."
+* `Gen 19:17` And it came to pass when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, *_lest_* you be consumed."
 * `Gen 19:19` Behold now, your servant has found grace in your sight, and you have magnified your mercy, which you have shown to me in saving my life. But I cannot escape to the mountain, *_lest_* some evil should take me and I die.
 * `Gen 26:7` And the men of the place asked him about his wife, and he said, "She is my sister," for he feared to say, "She is my wife"—"*_lest_* the men of the place should kill me for Rebekah, because she is fair to look upon."
 * `Gen 26:9` And Abimelech called Isaac and said, "Behold, surely she is your wife. And how did you say, 'She is my sister'?" And Isaac said to him, "Because I thought, '*_Lest_* I should die on her account.'"
@@ -1822,8 +1822,8 @@ _223 verses containing LEST_
 * `Gen 1:14` And God said, "*_Let_* there be lights in the firmament of the heaven to divide the day from the night, and *_let_* them be for signs, for seasons, for days, and years.
 * `Gen 1:15` And *_let_* them be for lights in the firmament of the heaven to give light upon the earth." And it was so.
 * `Gen 1:20` And God said, "*_Let_* the waters abundantly bring forth the moving creature that has life and the bird that may fly above the earth in the open firmament of heaven."
-* `Gen 1:22` And God blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and *_let_* birds multiply in the earth."
-* `Gen 1:24` And God said, "*_Let_* the earth bring forth the living creature after his kind: livestock, the creeping animal, and the beast of the earth after his kind." And it was so.
+* `Gen 1:22` And God blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and *_let_* birds multiply on the earth."
+* `Gen 1:24` And God said, "*_Let_* the earth bring forth the living creature after its kind: livestock, the creeping animal, and the beast of the earth after its kind." And it was so.
 * `Gen 1:26` And God said, "*_Let_* us make man in our image, after our likeness, and *_let_* them have dominion over the fish of the sea, over the birds of the air, over the livestock, over all the earth, and over every creeping animal that creeps upon the earth."
 * `Gen 11:3` And they said to one another, "Come, *_let_* us make brick and burn them thoroughly." And they had brick for stone and they had slime for mortar.
 * `Gen 11:4` And they said, "Come, *_let_* us build ourselves a city and a tower, whose top may reach to heaven. And *_let_* us make ourselves a name, lest we should be scattered abroad upon the face of the whole earth."
@@ -1831,8 +1831,8 @@ _223 verses containing LEST_
 * `Gen 13:8` And Abram said to Lot, "*_Let_* there be no strife, I pray you, between you and me and between my herdsmen and your herdsmen, for we are brothers.
 * `Gen 14:24` Except that which the young men have eaten and the portion of the men who went with me: Aner, Eshcol, and Mamre. *_Let_* them take their portion."
 * `Gen 18:4` *_Let_* a little water, I pray you, be brought, and wash your feet and rest yourselves under the tree,
-* `Gen 18:30` And he said, "Oh, do not *_let_* the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
-* `Gen 18:32` And he said, "Oh do not *_let_* the Lord be angry, and I will speak yet but this once. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
+* `Gen 18:30` And he said, "Oh do not *_let_* the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
+* `Gen 18:32` And he said, "Oh do not *_let_* the Lord be angry, and I will speak just once more. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
 * `Gen 19:8` Behold now, I have two daughters who have not known man. *_Let_* me, I pray you, bring them out to you, and do to them as is good in your eyes. Only do nothing to these men, because they have come under the shadow of my roof."
 * `Gen 19:20` Behold now, this city is near to flee to and it is a small one. Oh, *_let_* me escape there (Is it not a small one?) and my soul shall live!"
 * `Gen 19:32` Come, *_let_* us make our father drink wine, and we will lie with him so that we may preserve the family of our father."

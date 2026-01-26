@@ -26,7 +26,7 @@ _3 verses containing BROTH_
 * `Gen 14:14` And when Abram heard that his *_brother_* was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them to Dan.
 * `Gen 14:16` And he brought back all the goods. He also brought back his *_brother_* Lot and his goods, and also the women and the people.
 * `Gen 20:5` Did he not say to me, 'She is my sister?' And she, even she herself said, 'He is my *_brother_*.' In the integrity of my heart and innocence of my hands I have done this."
-* `Gen 20:13` And it came to pass, when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my *_brother_*."'"
+* `Gen 20:13` And it came to pass when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my *_brother_*."'"
 * `Gen 20:16` And to Sarah he said, "Behold, I have given your *_brother_* one thousand pieces of silver. Behold, it is to you a covering of the eyes to all who are with you. And before all others, you are righted."
 * `Gen 22:20` And it came to pass after these things, that it was told to Abraham, saying, "Behold, Milcah, she has also borne children to your *_brother_* Nahor:
 * `Gen 22:21` Huz his first-born, Buz his *_brother_*, Kemuel the father of Aram,
@@ -935,11 +935,12 @@ _542 verses containing BROTHERS_
 == BROUGHT
 
 * `Gen 1:12` And the earth *_brought_* forth grass, herbs yielding seed after its kind, and the tree yielding fruit, whose seed was in itself, after its kind. And God saw that it was good.
-* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters *_brought_* forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
+* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters *_brought_* forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
 * `Gen 2:19` And out of the ground the LORD God formed every beast of the field and every bird of the air, and *_brought_* them to Adam to see what he would call them. And whatever Adam called every living creature, that was its name.
 * `Gen 2:22` And the rib, which the LORD God had taken from the man, he made into a woman, and *_brought_* her to the man.
 * `Gen 4:3` And in process of time it came to pass, that Cain *_brought_* from the fruit of the ground an offering to the LORD.
 * `Gen 4:4` And Abel, he also *_brought_* some of the first-born of his flock and some of the fat thereof. And the LORD had respect for Abel and for his offering,
+* `Gen 8:9` But the dove found no rest for the sole of her foot and she returned to him into the ark, because the waters were on the face of the whole earth. Then he put forth his hand, took her, and *_brought_* her to himself into the ark.
 * `Gen 14:16` And he *_brought_* back all the goods. He also *_brought_* back his brother Lot and his goods, and also the women and the people.
 * `Gen 14:18` And Melchizedek, king of Salem, *_brought_* forth bread and wine. He was the priest of the most high God.
 * `Gen 15:5` And he *_brought_* him forth abroad and said, "Now look toward heaven and tell the stars, if you are able to number them." And he said to him, "Thus shall your offspring be."
@@ -948,7 +949,7 @@ _542 verses containing BROTHERS_
 * `Gen 18:4` Let a little water, I pray you, be *_brought_*, and wash your feet and rest yourselves under the tree,
 * `Gen 18:7` And Abraham ran to the herd, *_brought_* a calf tender and good, and gave it to a young man, and he hastened to dress it.
 * `Gen 19:16` And while he lingered, the men laid hold upon his hand, upon the hand of his wife, and upon the hand of his two daughters—the LORD being merciful to him—and they *_brought_* him forth and set him outside the city.
-* `Gen 19:17` And it came to pass, when they had *_brought_* them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
+* `Gen 19:17` And it came to pass when they had *_brought_* them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
 * `Gen 20:9` Then Abimelech called Abraham and said to him, "What have you done to us? And in what have I offended you that you have *_brought_* on me and on my kingdom a great sin? You have done deeds to me that ought not to be done."
 * `Gen 24:53` And the servant *_brought_* forth jewels of silver, jewels of gold, and clothing and gave them to Rebekah. He also gave to her brother and to her mother precious things.
 * `Gen 24:67` And Isaac *_brought_* her into his mother Sarah's tent, and took Rebekah, and she became his wife, and he loved her. And Isaac was comforted after his mother's death.
@@ -1781,7 +1782,7 @@ _542 verses containing BROTHERS_
 * `Rev 12:5` And she *_brought_* forth a male child, who was to "rule all nations with a rod of iron." And her child was caught up to God and to his throne.
 * `Rev 12:13` And when the dragon saw that he was cast to the earth, he persecuted the woman who *_brought_* forth the male child.
 
-_846 verses containing BROUGHT_
+_847 verses containing BROUGHT_
 
 == BROW
 

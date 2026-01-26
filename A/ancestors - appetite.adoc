@@ -658,8 +658,8 @@ _1 verse containing ANGERED_
 
 * `Gen 4:5` But for Cain and for his offering he did not have respect. And Cain was very *_angry_* and his countenance fell.
 * `Gen 4:6` And the LORD said to Cain, "Why are you *_angry_*? And why has your countenance fallen?
-* `Gen 18:30` And he said, "Oh, do not let the Lord be *_angry_*, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
-* `Gen 18:32` And he said, "Oh do not let the Lord be *_angry_*, and I will speak yet but this once. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
+* `Gen 18:30` And he said, "Oh do not let the Lord be *_angry_*, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
+* `Gen 18:32` And he said, "Oh do not let the Lord be *_angry_*, and I will speak just once more. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
 * `Gen 31:36` And Jacob was *_angry_* and chided with Laban. And Jacob answered and said to Laban, "What is my trespass? What is my sin that you have so eagerly pursued after me?
 * `Gen 34:7` And the sons of Jacob came from the field when they heard it, and the men were grieved and were very *_angry_* because he had wrought folly in Israel in lying with Jacob's daughter, which thing ought not to be done.
 * `Gen 40:2` And Pharaoh was *_angry_* with two of his officers: with the chief of the butlers and with the chief of the bakers.
@@ -787,8 +787,8 @@ _1 verse containing ANIM_
 
 == ANIMAL
 
-* `Gen 1:24` And God said, "Let the earth bring forth the living creature after his kind: livestock, the creeping *_animal_*, and the beast of the earth after his kind." And it was so.
-* `Gen 1:25` And God made the beast of the earth after his kind, livestock after their kind, and every *_animal_* that creeps upon the earth after his kind. And God saw that it was good.
+* `Gen 1:24` And God said, "Let the earth bring forth the living creature after its kind: livestock, the creeping *_animal_*, and the beast of the earth after its kind." And it was so.
+* `Gen 1:25` And God made the beast of the earth after its kind, livestock after their kind, and every *_animal_* that creeps upon the earth after its kind. And God saw that it was good.
 * `Gen 1:26` And God said, "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea, over the birds of the air, over the livestock, over all the earth, and over every creeping *_animal_* that creeps upon the earth."
 * `Gen 1:28` And God blessed them, and God said to them, "Be fruitful, multiply, replenish the earth, and subdue it. And have dominion over the fish of the sea, over the bird of the air, and over every living *_animal_* that moves upon the earth."
 * `Gen 1:30` And to every beast of the earth, to every bird of the air, and to every *_animal_* that creeps upon the earth, in which is life, I have given every green herb for food." And it was so.
@@ -1060,8 +1060,8 @@ _1 verse containing ANOINTS_
 == ANOTHER
 
 * `Gen 4:25` And Adam knew his wife again, and she bore a son and called his name Seth, for she said, "God has appointed me *_another_* child instead of Abel, whom Cain slew."
-* `Gen 8:10` And he stayed yet *_another_* seven days, and again he sent forth the dove out of the ark.
-* `Gen 8:12` And he stayed yet *_another_* seven days and sent forth the dove, which did not return again to him anymore.
+* `Gen 8:10` And he waited yet *_another_* seven days, and again he sent forth the dove out of the ark.
+* `Gen 8:12` And he waited yet *_another_* seven days and sent forth the dove, which did not return again to him anymore.
 * `Gen 11:3` And they said to one *_another_*, "Come, let us make brick and burn them thoroughly." And they had brick for stone and they had slime for mortar.
 * `Gen 11:7` Come, let us go down and there confound their language so that they may not understand one *_another_*'s speech."
 * `Gen 13:11` Then Lot chose for himself all the plain of the Jordan and Lot journeyed east. And they separated themselves from one *_another_*.
@@ -2315,7 +2315,7 @@ _1 verse containing ANXIOUSLY_
 == ANY
 
 * `Gen 3:1` Now the serpent was more crafty than *_any_* beast of the field which the LORD God had made, and he said to the woman, "Has God truly said, 'You shall not eat from every tree of the garden'?"
-* `Gen 17:12` And he who is eight days old shall be circumcised among you, every male child in your generations, he who is born in the house, or bought with money from *_any_* stranger who is not of your offspring.
+* `Gen 17:12` And he who is eight days old shall be circumcised among you, every male child in your generations—he who is born in the house or bought with money from *_any_* stranger who is not of your offspring.
 * `Gen 24:16` And the young woman was very fair to look upon, a virgin, neither had *_any_* man known her. And she went down to the well and filled her pitcher and came up.
 * `Gen 31:14` And Rachel and Leah answered and said to him, "Is there yet *_any_* portion or inheritance for us in our father's house?
 * `Gen 36:31` And these are the kings who reigned in the land of Edom before there reigned *_any_* king over the children of Israel.
@@ -2935,7 +2935,7 @@ _616 verses containing ANY_
 
 == ANYMORE
 
-* `Gen 8:12` And he stayed yet another seven days and sent forth the dove, which did not return again to him *_anymore_*.
+* `Gen 8:12` And he waited yet another seven days and sent forth the dove, which did not return again to him *_anymore_*.
 * `Gen 8:21` And the LORD smelled a sweet savor, and the LORD said in his heart, "I will not again curse the ground *_anymore_* for man's sake, for the imagination of man's heart is evil from his youth, neither will I ever again smite every living animal as I have done.
 * `Gen 9:11` And I will establish my covenant with you, neither shall all flesh be cut off *_anymore_* by the waters of a flood, neither shall there *_anymore_* be a flood to destroy the earth."
 * `Gen 35:10` And God said to him, "Your name is Jacob. Your name shall not be called Jacob *_anymore_*, but Israel shall be your name." And he called his name Israel.

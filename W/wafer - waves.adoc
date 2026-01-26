@@ -231,6 +231,8 @@ _109 verses containing WAIT_
 
 == WAITED
 
+* `Gen 8:10` And he *_waited_* yet another seven days, and again he sent forth the dove out of the ark.
+* `Gen 8:12` And he *_waited_* yet another seven days and sent forth the dove, which did not return again to him anymore.
 * `Gen 49:18` I have *_waited_* for your salvation, O LORD.
 * `Jdg 3:25` And they *_waited_* until they were ashamed. And behold, he did not open the doors of the parlor; therefore, they took a key and opened them, and behold, their lord lay dead on the earth.
 * `Jdg 3:26` And Ehud escaped while they *_waited_* and passed beyond the quarries and escaped to Seirath.
@@ -271,7 +273,7 @@ _109 verses containing WAIT_
 * `Act 28:6` But they expected that he would have swollen or suddenly fallen down dead. But after they had *_waited_* a long time and saw nothing amiss happen to him, they changed their minds and said that he was a god.
 * `1Pe 3:20` Who formerly were disobedient when the patience of God *_waited_* in the days of Noah while the ark was preparing, in which few, that is, eight souls, were saved by water.
 
-_39 verses containing WAITED_
+_41 verses containing WAITED_
 
 == WAITING
 
@@ -1030,7 +1032,7 @@ _64 verses containing WALLS_
 
 == WANDER
 
-* `Gen 20:13` And it came to pass, when God caused me to *_wander_* from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
+* `Gen 20:13` And it came to pass when God caused me to *_wander_* from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
 * `Exo 14:3` For Pharaoh will say of the children of Israel, 'They *_wander_* aimlessly in the land. The wilderness has shut them in.'
 * `Num 14:33` And your children shall *_wander_* in the wilderness forty years and bear your lewd deeds until your carcasses are wasted in the wilderness.
 * `Num 32:13` And the LORD'S anger was kindled against Israel and he made them *_wander_* in the wilderness forty years until all the generation who had done evil in the sight of the LORD was consumed.
@@ -2532,8 +2534,8 @@ _1 verse containing WATERING-TROUGHS_
 * `Gen 1:9` And God said, "Let the *_waters_* under the heaven be gathered into one place, and let the dry land appear." And it was so.
 * `Gen 1:10` And God called the dry land "earth," and he called the collection of *_waters_* "seas." And God saw that it was good.
 * `Gen 1:20` And God said, "Let the *_waters_* abundantly bring forth the moving creature that has life and the bird that may fly above the earth in the open firmament of heaven."
-* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the *_waters_* brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
-* `Gen 1:22` And God blessed them, saying, "Be fruitful, multiply, fill the *_waters_* in the seas, and let birds multiply in the earth."
+* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the *_waters_* brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
+* `Gen 1:22` And God blessed them, saying, "Be fruitful, multiply, fill the *_waters_* in the seas, and let birds multiply on the earth."
 * `Gen 6:17` And behold, I, even I bring a flood of *_waters_* upon the earth to destroy all flesh, in which is the breath of life, from under heaven. And everything that is on the earth shall die.
 * `Gen 7:6` And Noah was six hundred years old when the flood of *_waters_* was on the earth.
 * `Gen 7:7` And Noah went in, along with his sons, his wife, and his sons' wives with him, into the ark, because of the *_waters_* of the flood.
@@ -2547,8 +2549,8 @@ _1 verse containing WATERING-TROUGHS_
 * `Gen 8:3` And the *_waters_* returned from off the earth continually. And after the end of the hundred and fifty days the *_waters_* were abated.
 * `Gen 8:5` And the *_waters_* decreased continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were seen.
 * `Gen 8:7` And he sent forth a raven, which went forth to and fro until the *_waters_* were dried from off the earth.
-* `Gen 8:8` Also he sent forth a dove from him to see if the *_waters_* were abated from off the face of the ground,
-* `Gen 8:9` But the dove found no rest for the sole of her foot and she returned to him into the ark, because the *_waters_* were on the face of the whole earth. Then he put forth his hand, took her, and pulled her in to him into the ark.
+* `Gen 8:8` He also sent forth a dove from him to see if the *_waters_* were abated from off the face of the ground,
+* `Gen 8:9` But the dove found no rest for the sole of her foot and she returned to him into the ark, because the *_waters_* were on the face of the whole earth. Then he put forth his hand, took her, and brought her to himself into the ark.
 * `Gen 8:11` And the dove returned to him in the evening, and behold, in her mouth was an olive-leaf plucked off. So Noah knew that the *_waters_* were abated from off the earth.
 * `Gen 8:13` And it came to pass in the six hundred and first year, in the first month, on the first day of the month, the *_waters_* were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.
 * `Gen 9:11` And I will establish my covenant with you, neither shall all flesh be cut off anymore by the *_waters_* of a flood, neither shall there anymore be a flood to destroy the earth."

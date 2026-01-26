@@ -471,7 +471,7 @@ _7 verses containing STONY_
 
 * `Gen 18:2` And he lifted up his eyes and looked, and behold, three men *_stood_* by him. And when he saw them, he ran to meet them from the tent door and bowed himself toward the ground,
 * `Gen 18:8` And he took butter, milk, and the calf which he had dressed and set it before them, and he *_stood_* by them under the tree, and they ate.
-* `Gen 18:22` And the men turned their faces from there and went toward Sodom, but Abraham *_stood_* yet before the LORD.
+* `Gen 18:22` And the men turned their faces from there and went toward Sodom, but Abraham still *_stood_* before the LORD.
 * `Gen 19:27` And Abraham rose early in the morning to go to the place where he *_stood_* before the LORD.
 * `Gen 23:3` And Abraham *_stood_* up from before his dead and spoke to the sons of Heth, saying,
 * `Gen 23:7` And Abraham *_stood_* up and bowed himself to the people of the land, to the children of Heth.
@@ -1129,7 +1129,7 @@ _1 verse containing STRANGELY_
 == STRANGER
 
 * `Gen 17:8` And I will give to you and to your offspring after you the land in which you are a *_stranger_*, all the land of Canaan, for an everlasting possession. And I will be their God."
-* `Gen 17:12` And he who is eight days old shall be circumcised among you, every male child in your generations, he who is born in the house, or bought with money from any *_stranger_* who is not of your offspring.
+* `Gen 17:12` And he who is eight days old shall be circumcised among you, every male child in your generations—he who is born in the house or bought with money from any *_stranger_* who is not of your offspring.
 * `Gen 17:27` And all the men of his house, born in the house and bought with money from the *_stranger_*, were circumcised with him.
 * `Gen 23:4` "I am a *_stranger_* and a sojourner with you. Give me a possession for a burying-place with you so that I may bury my dead out of my sight."
 * `Gen 28:4` And give you the blessing of Abraham, to you and to your offspring with you, so that you may inherit the land in which you are a *_stranger_*, which God gave to Abraham."

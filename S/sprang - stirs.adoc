@@ -1380,7 +1380,7 @@ _131 verses containing STATUTES_
 == STAY
 
 * `Gen 19:2` And he said, "Behold now, my lords, turn, I pray you, into your servant's house and *_stay_* all night and wash your feet, and you shall rise early and go on your way." And they said, "No, but we will abide in the street all night."
-* `Gen 19:17` And it came to pass, when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither *_stay_* in all the plain. Escape to the mountain, lest you be consumed."
+* `Gen 19:17` And it came to pass when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither *_stay_* in all the plain. Escape to the mountain, lest you be consumed."
 * `Gen 27:44` And *_stay_* with him a few days until your brother's fury turns away,
 * `Gen 30:27` And Laban said to him, "I pray you, if I have found favor in your eyes, *_stay_*, for I have learned by experience that the LORD has blessed me for your sake."
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail, and I will let you go, and you shall *_stay_* no longer."
@@ -1429,8 +1429,6 @@ _45 verses containing STAY_
 
 == STAYED
 
-* `Gen 8:10` And he *_stayed_* yet another seven days, and again he sent forth the dove out of the ark.
-* `Gen 8:12` And he *_stayed_* yet another seven days and sent forth the dove, which did not return again to him anymore.
 * `Gen 24:54` And they ate and drank—he and the men who were with him—and *_stayed_* all night. And they rose in the morning, and he said, "Send me away to my master."
 * `Gen 28:11` And he alighted upon a certain place and *_stayed_* there all night because the sun had set. And he took some of the stones of that place and set them for his head-rest and lay down in that place to sleep.
 * `Gen 29:14` And Laban said to him, "Surely you are my bone and my flesh." And he *_stayed_* with him the space of a month.
@@ -1523,7 +1521,7 @@ _45 verses containing STAY_
 * `Gal 1:18` Then after three years, I went to Jerusalem to see Peter and *_stayed_* with him for fifteen days.
 * `2Ti 4:20` Erastus *_stayed_* at Corinth, but Trophimus I have left sick at Miletum.
 
-_93 verses containing STAYED_
+_91 verses containing STAYED_
 
 == STAYING
 
@@ -1951,6 +1949,7 @@ _1 verse containing STIFFENED_
 == STILL
 
 * `Gen 12:9` And Abram journeyed, going on *_still_* toward the south.
+* `Gen 18:22` And the men turned their faces from there and went toward Sodom, but Abraham *_still_* stood before the LORD.
 * `Gen 25:6` But to the sons of the concubines which Abraham had, Abraham gave gifts and sent them away from Isaac his son (while he *_still_* lived) eastward to the east country.
 * `Gen 29:7` And he said, "Behold, it is *_still_* the middle of the day, neither is it time that the livestock should be collected. Water the sheep and go and feed them."
 * `Gen 29:9` And while he was *_still_* speaking with them, Rachel came with her father's sheep, for she kept them.
@@ -2147,7 +2146,7 @@ _1 verse containing STIFFENED_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues *_still_* did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, hear, nor walk.
 * `Rev 22:11` He who is unjust, let him be unjust *_still_*. He who is filthy, let him be filthy *_still_*. He who is righteous, let him be righteous *_still_*. He who is holy, let him be holy *_still_*."
 
-_196 verses containing STILL_
+_197 verses containing STILL_
 
 == STILLED
 

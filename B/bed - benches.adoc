@@ -752,7 +752,7 @@ _4 verses containing BEFELL_
 * `Gen 17:1` And when Abram was ninety-nine years old, the LORD appeared to Abram and said to him, "I am the Almighty God. Walk *_before_* me and be perfect.
 * `Gen 17:18` And Abraham said to God, "O that Ishmael might live *_before_* you!"
 * `Gen 18:8` And he took butter, milk, and the calf which he had dressed and set it *_before_* them, and he stood by them under the tree, and they ate.
-* `Gen 18:22` And the men turned their faces from there and went toward Sodom, but Abraham stood yet *_before_* the LORD.
+* `Gen 18:22` And the men turned their faces from there and went toward Sodom, but Abraham still stood *_before_* the LORD.
 * `Gen 19:4` But *_before_* they lay down, the men of the city, even the men of Sodom, surrounded the house, both old and young, all the people from every quarter.
 * `Gen 19:13` For we will destroy this place, because their cry has become great *_before_* the face of the LORD, and the LORD has sent us to destroy it."
 * `Gen 19:27` And Abraham rose early in the morning to go to the place where he stood *_before_* the LORD.
@@ -2440,9 +2440,9 @@ _4 verses containing BEG_
 == BEGAN
 
 * `Gen 4:26` And to Seth, to him there was also born a son, and he called his name Enos. Then men *_began_* to call upon the name of the LORD.
-* `Gen 6:1` And it came to pass, when men *_began_* to multiply on the face of the earth and daughters were born to them,
+* `Gen 6:1` And it came to pass when men *_began_* to multiply on the face of the earth and daughters were born to them,
 * `Gen 9:20` And Noah *_began_* to be a farmer and he planted a vineyard.
-* `Gen 10:8` And Cush begot Nimrod. He *_began_* to be a mighty one in the earth.
+* `Gen 10:8` And Cush begot Nimrod. He *_began_* to be a mighty one on the earth.
 * `Gen 41:54` And the seven years of famine *_began_* to come, according as Joseph had said. And the famine was in all lands, but in all the land of Egypt there was bread.
 * `Num 25:1` And Israel stayed in Shittim, and the people *_began_* to commit lewdness with the daughters of Moab.
 * `Deu 1:5` On the east side of the Jordan, in the land of Moab, Moses *_began_* to declare this law, saying,
@@ -2622,7 +2622,7 @@ _178 verses containing BEGAN_
 
 == BEGET
 
-* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. Twelve princes he shall *_beget_*, and I will make him a great nation.
+* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. He shall *_beget_* twelve princes, and I will make him a great nation.
 * `Gen 48:6` And your family, which you *_beget_* after them, shall be yours and shall be called after the name of their brothers in their inheritance.
 * `Deu 4:25` "When you *_beget_* children and children's children, and you have remained long in the land, and corrupt yourselves and make an engraved image or the likeness of anything, and shall do evil in the sight of the LORD your God to provoke him to anger,
 * `Deu 28:41` You shall *_beget_* sons and daughters, but you shall not enjoy them, for they shall go into captivity.
@@ -2830,7 +2830,7 @@ _3 verses containing BEGINS_
 
 == BEGOT
 
-* `Gen 4:18` And to Enoch was born Irad; and Irad *_begot_* Mehujael; and Mehujael *_begot_* Methusael; and Methusael *_begot_* Lamech.
+* `Gen 4:18` And to Enoch was born Irad, and Irad *_begot_* Mehujael, and Mehujael *_begot_* Methusael, and Methusael *_begot_* Lamech.
 * `Gen 5:3` And Adam lived one hundred and thirty years and *_begot_* a son in his own likeness, after his image, and called his name Seth.
 * `Gen 5:4` And the days of Adam after he had begotten Seth were eight hundred years. And he *_begot_* sons and daughters.
 * `Gen 5:6` And Seth lived one hundred and five years and *_begot_* Enos.
@@ -2851,7 +2851,7 @@ _3 verses containing BEGINS_
 * `Gen 5:30` And Lamech lived after he *_begot_* Noah five hundred and ninety-five years and *_begot_* sons and daughters.
 * `Gen 5:32` And Noah was five hundred years old, and Noah *_begot_* Shem, Ham, and Japheth.
 * `Gen 6:10` And Noah *_begot_* three sons: Shem, Ham, and Japheth.
-* `Gen 10:8` And Cush *_begot_* Nimrod. He began to be a mighty one in the earth.
+* `Gen 10:8` And Cush *_begot_* Nimrod. He began to be a mighty one on the earth.
 * `Gen 10:13` And Mizraim *_begot_* Ludim, Anamim, Lehabim, Naphtuhim,
 * `Gen 10:15` And Canaan *_begot_* Sidon his first-born, Heth,
 * `Gen 10:24` And Arphaxad *_begot_* Salah, and Salah *_begot_* Eber.
@@ -3113,7 +3113,7 @@ _7 verses containing BEHEADED_
 
 * `Gen 12:14` And it came to pass, that when Abram had come into Egypt, the Egyptians *_beheld_* the woman that she was very fair.
 * `Gen 13:10` And Lot lifted up his eyes and *_beheld_* all the plain of the Jordan, that it was well watered everywhere (before the LORD destroyed Sodom and Gomorrah), even as the garden of the LORD, like the land of Egypt, as far as to Zoar.
-* `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and *_beheld_*, and behold, the smoke of the country went up as the smoke of a furnace.
+* `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and *_beheld_*, and behold, the smoke of the country went up like the smoke of a furnace.
 * `Gen 31:2` And Jacob *_beheld_* the countenance of Laban, and behold, it was not toward him as before.
 * `Gen 48:8` And Israel *_beheld_* Joseph's sons and said, "Who are these?"
 * `Num 21:9` And Moses made a serpent of brass and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he *_beheld_* the serpent of brass, he lived.
@@ -3176,7 +3176,7 @@ _1 verse containing BEHEMOTH_
 
 * `Gen 18:10` And he said, "I will certainly return to you according to the time of life, and behold, Sarah your wife shall have a son." And Sarah heard it in the tent door, which was *_behind_* him.
 * `Gen 19:6` And Lot went out to them through the door and shut the door *_behind_* him,
-* `Gen 19:17` And it came to pass, when they had brought them forth abroad, that he said, "Escape for your life. Do not look *_behind_* you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
+* `Gen 19:17` And it came to pass when they had brought them forth abroad, that he said, "Escape for your life. Do not look *_behind_* you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
 * `Gen 19:26` But his wife looked back from *_behind_* him and she became a pillar of salt.
 * `Gen 22:13` And Abraham lifted up his eyes and looked, and behold, *_behind_* him a ram caught in a thicket by his horns. And Abraham went and took the ram and offered him for a burnt-offering instead of his son.
 * `Gen 32:18` Then you shall say, 'They are your servant Jacob's. It is a present sent to my lord Esau. And behold he is also *_behind_* us.'"
@@ -3246,7 +3246,7 @@ _65 verses containing BEHIND_
 
 * `Gen 1:29` And God said, "*_Behold_*, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in which is the fruit of a tree yielding seed. To you it shall be for food.
 * `Gen 1:31` And God saw everything that he had made, and *_behold_*, it was very good. And the evening and the morning were the sixth day.
-* `Gen 3:22` And the LORD God said, "*_Behold_*, the man has become as one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
+* `Gen 3:22` And the LORD God said, "*_Behold_*, the man has become like one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
 * `Gen 4:14` *_Behold_*, you have driven me this day from the face of the earth, and from your face I shall be hid. And I shall be a fugitive and a vagabond in the earth. And it will come to pass, that everyone who finds me will slay me."
 * `Gen 6:12` And God looked upon the earth, and *_behold_*, it was corrupt, for all flesh had corrupted his way upon the earth.
 * `Gen 6:13` And God said to Noah, "The end of all flesh has come before me, for the earth is filled with violence through them. *_Behold_*, I will destroy them with the earth.
@@ -3266,7 +3266,7 @@ _65 verses containing BEHIND_
 * `Gen 16:11` And the angel of the LORD said to her, "*_Behold_*, you are with child and shall bear a son and call his name Ishmael, because the LORD has heard your affliction.
 * `Gen 16:14` Therefore, the well was called Beer-la-hai-roi. *_Behold_*, it is between Kadesh and Bered.
 * `Gen 17:4` "As for me, *_behold_*, my covenant is with you, and you shall be a father of many nations.
-* `Gen 17:20` And as for Ishmael, I have heard you. *_Behold_*, I have blessed him and will make him fruitful and will multiply him exceedingly. Twelve princes he shall beget, and I will make him a great nation.
+* `Gen 17:20` And as for Ishmael, I have heard you. *_Behold_*, I have blessed him and will make him fruitful and will multiply him exceedingly. He shall beget twelve princes, and I will make him a great nation.
 * `Gen 18:2` And he lifted up his eyes and looked, and *_behold_*, three men stood by him. And when he saw them, he ran to meet them from the tent door and bowed himself toward the ground,
 * `Gen 18:9` And they said to him, "Where is Sarah your wife?" And he said, "*_Behold_*, in the tent."
 * `Gen 18:10` And he said, "I will certainly return to you according to the time of life, and *_behold_*, Sarah your wife shall have a son." And Sarah heard it in the tent door, which was behind him.
@@ -3277,9 +3277,9 @@ _65 verses containing BEHIND_
 * `Gen 19:19` *_Behold_* now, your servant has found grace in your sight, and you have magnified your mercy, which you have shown to me in saving my life. But I cannot escape to the mountain, lest some evil should take me and I die.
 * `Gen 19:20` *_Behold_* now, this city is near to flee to and it is a small one. Oh, let me escape there (Is it not a small one?) and my soul shall live!"
 * `Gen 19:21` And he said to him, "*_Behold_*, I have accepted you concerning this thing also, that I will not overthrow this city of which you have spoken.
-* `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and *_behold_*, the smoke of the country went up as the smoke of a furnace.
+* `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and *_behold_*, the smoke of the country went up like the smoke of a furnace.
 * `Gen 19:34` And it came to pass on the next day that the first born said to the younger, "*_Behold_*, I lay last night with my father. Let us make him drink wine this night also, and you go in and lie with him so that we may preserve the family of our father."
-* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "*_Behold_*, you are but a dead man on account of the woman whom you have taken, for she is a man's wife."
+* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "*_Behold_*, you are a dead man on account of the woman whom you have taken, for she is a man's wife."
 * `Gen 20:15` And Abimelech said, "*_Behold_*, my land is before you. Dwell where it pleases you."
 * `Gen 20:16` And to Sarah he said, "*_Behold_*, I have given your brother one thousand pieces of silver. *_Behold_*, it is to you a covering of the eyes to all who are with you. And before all others, you are righted."
 * `Gen 22:1` And it came to pass after these things, that God tested Abraham and said to him, "Abraham." And he said, "*_Behold_*, here I am."
@@ -5767,7 +5767,7 @@ _1 verse containing BEMOANING_
 
 == BEN
 
-* `Gen 19:38` And the younger, she also bore a son and called his name *_Ben_*-ammi, the same is the father of the children of Ammon to this day.
+* `Gen 19:38` And the younger, she also bore a son and called his name *_Ben_*-ammi. The same is the father of the children of Ammon to this day.
 * `Gen 35:18` And it came to pass as her soul was departing (for she died) that she called his name *_Ben_*-oni, but his father called him Benjamin.
 * `1Ki 15:18` Then Asa took all the silver and the gold that was left in the treasures of the house of the LORD and the treasures of the king's house, and delivered them into the hand of his servants. And king Asa sent them to *_Ben_*-hadad, the son of Tabrimon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,
 * `1Ki 15:20` So *_Ben_*-hadad listened to king Asa and sent the captains of the armies which he had against the cities of Israel and smote Ijon, Dan, Abel-beth-maachah, and all Cinneroth, with all the land of Naphtali.
@@ -5803,7 +5803,7 @@ _31 verses containing BEN_
 
 == BEN-AMMI
 
-* `Gen 19:38` And the younger, she also bore a son and called his name *_Ben-ammi_*, the same is the father of the children of Ammon to this day.
+* `Gen 19:38` And the younger, she also bore a son and called his name *_Ben-ammi_*. The same is the father of the children of Ammon to this day.
 
 _1 verse containing BEN-AMMI_
 

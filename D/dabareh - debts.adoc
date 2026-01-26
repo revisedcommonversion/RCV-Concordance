@@ -1248,7 +1248,7 @@ _1 verse containing DAUBING_
 == DAUGHTER
 
 * `Gen 11:29` And Abram and Nahor took wives: the name of Abram's wife was Sarai, and the name of Nahor's wife Milcah, the *_daughter_* of Haran, the father of Milcah and the father of Iscah.
-* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his *_daughter_*-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
+* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran, his son's son, and Sarai his *_daughter_*-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
 * `Gen 20:12` And yet indeed she is my sister. She is the *_daughter_* of my father, but not the *_daughter_* of my mother, and she became my wife.
 * `Gen 24:23` And said, "Whose *_daughter_* are you? Tell me, I pray you, is there room in your father's house for us to lodge in?"
 * `Gen 24:24` And she said to him, "I am the *_daughter_* of Bethuel the son of Milcah, whom she bore to Nahor."
@@ -1540,7 +1540,7 @@ _288 verses containing DAUGHTER_
 
 == DAUGHTER-IN-LAW
 
-* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his *_daughter-in-law_*, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
+* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran, his son's son, and Sarai his *_daughter-in-law_*, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
 * `Gen 38:11` Then Judah said to Tamar his *_daughter-in-law_*, "Remain a widow at your father's house until Shelah my son is grown," for he said, "Lest perhaps he die also as his brothers did." And Tamar went and dwelt in her father's house.
 * `Gen 38:16` And he turned to her by the way and said, "Come, I pray you, let me have access to you"—for he did not know that she was his *_daughter-in-law_*. And she said, "What will you give me so that you may have access to me?"
 * `Gen 38:24` And it came to pass about three months after, that it was told to Judah, saying, "Tamar your *_daughter-in-law_* has played the harlot, and also, behold she is with child by lewdness." And Judah said, "Bring her forth and let her be burnt."
@@ -1570,7 +1570,7 @@ _16 verses containing DAUGHTER-IN-LAW_
 * `Gen 5:22` And Enoch walked with God after he begot Methuselah three hundred years and begot sons and *_daughters_*.
 * `Gen 5:26` And Methuselah lived after he begot Lamech seven hundred and eighty-two years and begot sons and *_daughters_*.
 * `Gen 5:30` And Lamech lived after he begot Noah five hundred and ninety-five years and begot sons and *_daughters_*.
-* `Gen 6:1` And it came to pass, when men began to multiply on the face of the earth and *_daughters_* were born to them,
+* `Gen 6:1` And it came to pass when men began to multiply on the face of the earth and *_daughters_* were born to them,
 * `Gen 6:2` That the sons of God saw the *_daughters_* of men that they were fair. And they took for themselves wives from all whom they chose.
 * `Gen 6:4` There were Nephilim in the earth in those days, and also after that, when the sons of God came in to the *_daughters_* of men and they bore children to them. The same became mighty men who were of old, men of renown.
 * `Gen 11:11` And Shem lived after he begot Arphaxad five hundred years and begot sons and *_daughters_*.
@@ -2816,7 +2816,7 @@ _1 verse containing DAWNS_
 * `Gen 5:1` This is the book of the generations of Adam. In the *_day_* that God created man, he made him in the likeness of God.
 * `Gen 5:2` Male and female he created them, and he blessed them and named them Adam in the *_day_* when they were created.
 * `Gen 7:11` In the six hundredth year of Noah's life, in the second month, on the seventeenth *_day_* of the month, the same *_day_* all the fountains of the great deep were broken up and the windows of heaven were opened.
-* `Gen 7:13` In the same *_day_* Noah, and Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three wives of his sons with them, entered into the ark—
+* `Gen 7:13` In the same *_day_* Noah, along with Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three wives of his sons with them, entered into the ark—
 * `Gen 8:4` And the ark rested in the seventh month, on the seventeenth *_day_* of the month, upon the mountains of Ararat.
 * `Gen 8:5` And the waters decreased continually until the tenth month. In the tenth month, on the first *_day_* of the month, the tops of the mountains were seen.
 * `Gen 8:13` And it came to pass in the six hundred and first year, in the first month, on the first *_day_* of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.
@@ -2827,8 +2827,8 @@ _1 verse containing DAWNS_
 * `Gen 17:26` In the same *_day_* Abraham and Ishmael his son were circumcised.
 * `Gen 18:1` And the LORD appeared to him in the plains of Mamre as he sat in the tent door in the heat of the *_day_*.
 * `Gen 19:34` And it came to pass on the next *_day_* that the first born said to the younger, "Behold, I lay last night with my father. Let us make him drink wine this night also, and you go in and lie with him so that we may preserve the family of our father."
-* `Gen 19:37` And the first-born bore a son and called his name Moab, the same is the father of the Moabites to this *_day_*.
-* `Gen 19:38` And the younger, she also bore a son and called his name Ben-ammi, the same is the father of the children of Ammon to this *_day_*.
+* `Gen 19:37` And the first-born bore a son and called his name Moab. The same is the father of the Moabites to this *_day_*.
+* `Gen 19:38` And the younger, she also bore a son and called his name Ben-ammi. The same is the father of the children of Ammon to this *_day_*.
 * `Gen 21:8` And the child grew and was weaned. And Abraham made a great feast the *_day_* that Isaac was weaned.
 * `Gen 22:4` Then on the third *_day_* Abraham lifted up his eyes and saw the place afar off.
 * `Gen 22:14` And Abraham called the name of that place Yahweh Will Provide, as it is said to this *_day_*, "On the mountain of the LORD it will be seen."
@@ -4368,13 +4368,13 @@ _8 verses containing DAY-TIME_
 * `Gen 7:24` And the waters prevailed upon the earth one hundred and fifty *_days_*.
 * `Gen 8:3` And the waters returned from off the earth continually. And after the end of the hundred and fifty *_days_* the waters were abated.
 * `Gen 8:6` And it came to pass at the end of forty *_days_*, that Noah opened the window of the ark which he had made.
-* `Gen 8:10` And he stayed yet another seven *_days_*, and again he sent forth the dove out of the ark.
-* `Gen 8:12` And he stayed yet another seven *_days_* and sent forth the dove, which did not return again to him anymore.
+* `Gen 8:10` And he waited yet another seven *_days_*, and again he sent forth the dove out of the ark.
+* `Gen 8:12` And he waited yet another seven *_days_* and sent forth the dove, which did not return again to him anymore.
 * `Gen 9:29` And all the *_days_* of Noah were nine hundred and fifty years. And he died.
 * `Gen 10:25` And to Eber two sons were born: the name of one was Peleg, for in his *_days_* the earth was divided, and his brother's name was Joktan.
 * `Gen 11:32` And the *_days_* of Terah were two hundred and five years, and Terah died in Haran.
 * `Gen 14:1` And it came to pass in the *_days_* of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations,
-* `Gen 17:12` And he who is eight *_days_* old shall be circumcised among you, every male child in your generations, he who is born in the house, or bought with money from any stranger who is not of your offspring.
+* `Gen 17:12` And he who is eight *_days_* old shall be circumcised among you, every male child in your generations—he who is born in the house or bought with money from any stranger who is not of your offspring.
 * `Gen 21:4` And Abraham circumcised his son Isaac, being eight *_days_* old, as God had commanded him.
 * `Gen 21:34` And Abraham sojourned in the land of the Philistines many *_days_*.
 * `Gen 24:55` And her brother and her mother said, "Let the young woman abide with us a few *_days_*, at the least ten. After that she shall go."
@@ -5160,7 +5160,7 @@ _3 verses containing DEACONS_
 
 == DEAD
 
-* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are but a *_dead_* man on account of the woman whom you have taken, for she is a man's wife."
+* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are a *_dead_* man on account of the woman whom you have taken, for she is a man's wife."
 * `Gen 23:3` And Abraham stood up from before his *_dead_* and spoke to the sons of Heth, saying,
 * `Gen 23:4` "I am a stranger and a sojourner with you. Give me a possession for a burying-place with you so that I may bury my *_dead_* out of my sight."
 * `Gen 23:6` "Hear us, my lord. You are a mighty prince among us. In the choice of our sepulchers bury your *_dead_*. None of us will withhold from you his sepulcher so that you may bury your *_dead_*."

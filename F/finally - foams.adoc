@@ -14,9 +14,9 @@ _6 verses containing FINALLY_
 
 == FIND
 
-* `Gen 18:26` And the LORD said, "If I *_find_* in Sodom fifty righteous within the city, then I will spare all the place for their sakes."
+* `Gen 18:26` And the LORD said, "If I *_find_* in Sodom fifty righteous within the city, then I will spare the whole place for their sakes."
 * `Gen 18:28` Perhaps there will lack five of the fifty righteous. Will you destroy all the city for lack of five?" And he said, "If I *_find_* there forty-five, I will not destroy it."
-* `Gen 18:30` And he said, "Oh, do not let the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I *_find_* thirty there."
+* `Gen 18:30` And he said, "Oh do not let the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I *_find_* thirty there."
 * `Gen 19:11` And they smote the men who were at the door of the house with blindness, both small and great, so that they wearied themselves to *_find_* the door.
 * `Gen 31:32` With whomever you *_find_* your gods, do not let him live. Before our brothers, discern what is yours with me and take it." For Jacob did not know that Rachel had stolen them.
 * `Gen 31:33` And Laban went into Jacob's tent, into Leah's tent, and into the two women-servants' tents, but he did not *_find_* them. Then he went out of Leah's tent and entered into Rachel's tent.
@@ -1179,7 +1179,7 @@ _17 verses containing FIRMLY_
 * `Gen 19:31` And the *_first_*-born said to the younger, "Our father is old, and there is not a man on the earth to come in to us after the manner of all the earth.
 * `Gen 19:33` And they made their father drink wine that night. And the *_first_*-born went in and lay with her father, and he did not perceive when she lay down, nor when she arose.
 * `Gen 19:34` And it came to pass on the next day that the *_first_* born said to the younger, "Behold, I lay last night with my father. Let us make him drink wine this night also, and you go in and lie with him so that we may preserve the family of our father."
-* `Gen 19:37` And the *_first_*-born bore a son and called his name Moab, the same is the father of the Moabites to this day.
+* `Gen 19:37` And the *_first_*-born bore a son and called his name Moab. The same is the father of the Moabites to this day.
 * `Gen 22:21` Huz his *_first_*-born, Buz his brother, Kemuel the father of Aram,
 * `Gen 25:13` And these are the names of the sons of Ishmael, by their names, according to their generations: The *_first_*-born of Ishmael, Nebajoth, then Kedar, Adbeel, Mibsam,
 * `Gen 25:25` And the *_first_* was born red all over like a hairy garment. And they called his name Esau.
@@ -1734,7 +1734,7 @@ _2 verses containing FIRST-BEGOTTEN_
 * `Gen 10:15` And Canaan begot Sidon his *_first-born_*, Heth,
 * `Gen 19:31` And the *_first-born_* said to the younger, "Our father is old, and there is not a man on the earth to come in to us after the manner of all the earth.
 * `Gen 19:33` And they made their father drink wine that night. And the *_first-born_* went in and lay with her father, and he did not perceive when she lay down, nor when she arose.
-* `Gen 19:37` And the *_first-born_* bore a son and called his name Moab, the same is the father of the Moabites to this day.
+* `Gen 19:37` And the *_first-born_* bore a son and called his name Moab. The same is the father of the Moabites to this day.
 * `Gen 22:21` Huz his *_first-born_*, Buz his brother, Kemuel the father of Aram,
 * `Gen 25:13` And these are the names of the sons of Ishmael, by their names, according to their generations: The *_first-born_* of Ishmael, Nebajoth, then Kedar, Adbeel, Mibsam,
 * `Gen 27:19` And Jacob said to his father, "I am Esau your *_first-born_*. I have done according as you told me. Arise, I pray you, sit and eat some of my wild game so that your soul may bless me."
@@ -2829,7 +2829,7 @@ _10 verses containing FLEES_
 == FLESH
 
 * `Gen 2:21` And the LORD God caused a deep sleep to fall upon Adam, and he slept. And he took one of his ribs and closed up the *_flesh_* in its place.
-* `Gen 2:23` And Adam said, "This is now bone of my bones and *_flesh_* of my *_flesh_*. She shall be called Woman, because she was taken out of man."
+* `Gen 2:23` And Adam said, "This is now bone of my bones and *_flesh_* of my *_flesh_*. She shall be called 'Woman,' because she was taken out of man."
 * `Gen 2:24` Therefore, a man shall leave his father and his mother and shall cleave to his wife, and they shall be one *_flesh_*.
 * `Gen 6:3` And the LORD said, "My Spirit shall not always strive with man, because he is *_flesh_*; therefore, his days shall be one hundred and twenty years."
 * `Gen 6:12` And God looked upon the earth, and behold, it was corrupt, for all *_flesh_* had corrupted his way upon the earth.
@@ -2837,7 +2837,7 @@ _10 verses containing FLEES_
 * `Gen 6:17` And behold, I, even I bring a flood of waters upon the earth to destroy all *_flesh_*, in which is the breath of life, from under heaven. And everything that is on the earth shall die.
 * `Gen 6:19` And of every living thing of all *_flesh_*, two of every sort you shall bring into the ark to keep them alive with you. They shall be male and female.
 * `Gen 7:15` And they went in with Noah into the ark, two and two of all *_flesh_*, in which is the breath of life.
-* `Gen 7:16` And those that entered, went in male and female of all *_flesh_*, as God had commanded him. And the LORD shut him in.
+* `Gen 7:16` And those that entered went in male and female of all *_flesh_*, as God had commanded him. And the LORD shut him in.
 * `Gen 7:21` And all *_flesh_* died that moved upon the earth, of bird, of livestock, of beast, of every creeping animal that creeps upon the earth, and every man.
 * `Gen 8:17` Bring forth with you every living animal that is with you of all *_flesh_*, of bird, of livestock, and of every creeping animal that creeps upon the earth, so that they may breed abundantly on the earth, be fruitful, and multiply upon the earth."
 * `Gen 9:4` But *_flesh_* with its life, which is its blood, you shall not eat.
@@ -3510,7 +3510,7 @@ _79 verses containing FLOCKS_
 * `Gen 9:15` And I will remember my covenant which is between me and you and every living creature of all flesh, and the waters shall no more become a *_flood_* to destroy all flesh.
 * `Gen 9:28` And Noah lived after the *_flood_* three hundred and fifty years.
 * `Gen 10:1` Now these are the generations of the sons of Noah: Shem, Ham, and Japheth. And to them sons were born after the *_flood_*.
-* `Gen 10:32` These are the families of the sons of Noah after their generations, in their nations. And by these the nations were divided in the earth after the *_flood_*.
+* `Gen 10:32` These are the families of the sons of Noah after their generations, in their nations. And by these the nations were divided on the earth after the *_flood_*.
 * `Gen 11:10` These are the generations of Shem. Shem was one hundred years old and begot Arphaxad two years after the *_flood_*.
 * `Jsh 24:2` And Joshua said to all the people, "Thus says the LORD God of Israel: 'Your fathers dwelt on the other side of the *_flood_* in old time, even Terah, the father of Abraham, and the father of Nahor, and they served other gods.
 * `Jsh 24:3` And I took your father Abraham from the other side of the *_flood_*, led him throughout all the land of Canaan, multiplied his offspring, and gave him Isaac.

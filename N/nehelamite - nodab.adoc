@@ -241,7 +241,7 @@ _1 verse containing NEIGHINGS_
 * `Gen 3:3` But concerning the fruit of the tree which is in the midst of the garden, God has said, 'You shall not eat from it, *_neither_* shall you touch it, lest you die.'"
 * `Gen 8:21` And the LORD smelled a sweet savor, and the LORD said in his heart, "I will not again curse the ground anymore for man's sake, for the imagination of man's heart is evil from his youth, *_neither_* will I ever again smite every living animal as I have done.
 * `Gen 9:11` And I will establish my covenant with you, *_neither_* shall all flesh be cut off anymore by the waters of a flood, *_neither_* shall there anymore be a flood to destroy the earth."
-* `Gen 19:17` And it came to pass, when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, *_neither_* stay in all the plain. Escape to the mountain, lest you be consumed."
+* `Gen 19:17` And it came to pass when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, *_neither_* stay in all the plain. Escape to the mountain, lest you be consumed."
 * `Gen 21:26` And Abimelech said, "I do not know who has done this thing, *_neither_* did you tell me, *_neither_* yet have I heard of it, but today."
 * `Gen 22:12` And he said, "Do not lay your hand upon the boy, *_neither_* do anything to him. For now I know that you fear God, seeing you have not withheld from me your son, your only son."
 * `Gen 24:16` And the young woman was very fair to look upon, a virgin, *_neither_* had any man known her. And she went down to the well and filled her pitcher and came up.
@@ -1906,7 +1906,7 @@ _1 verse containing NIGER_
 * `Gen 19:33` And they made their father drink wine that *_night_*. And the first-born went in and lay with her father, and he did not perceive when she lay down, nor when she arose.
 * `Gen 19:34` And it came to pass on the next day that the first born said to the younger, "Behold, I lay last *_night_* with my father. Let us make him drink wine this *_night_* also, and you go in and lie with him so that we may preserve the family of our father."
 * `Gen 19:35` And they made their father drink wine that *_night_* also. And the younger arose and lay with him, and he did not perceive when she lay down, nor when she arose.
-* `Gen 20:3` But God came to Abimelech in a dream by *_night_* and said to him, "Behold, you are but a dead man on account of the woman whom you have taken, for she is a man's wife."
+* `Gen 20:3` But God came to Abimelech in a dream by *_night_* and said to him, "Behold, you are a dead man on account of the woman whom you have taken, for she is a man's wife."
 * `Gen 24:54` And they ate and drank—he and the men who were with him—and stayed all *_night_*. And they rose in the morning, and he said, "Send me away to my master."
 * `Gen 26:24` And the LORD appeared to him the same *_night_* and said, "I am the God of Abraham your father. Do not fear, for I am with you and will bless you and multiply your offspring for my servant Abraham's sake."
 * `Gen 28:11` And he alighted upon a certain place and stayed there all *_night_* because the sun had set. And he took some of the stones of that place and set them for his head-rest and lay down in that place to sleep.
@@ -2244,7 +2244,7 @@ _2 verses containing NIMRIM_
 
 == NIMROD
 
-* `Gen 10:8` And Cush begot *_Nimrod_*. He began to be a mighty one in the earth.
+* `Gen 10:8` And Cush begot *_Nimrod_*. He began to be a mighty one on the earth.
 * `Gen 10:9` He was a mighty hunter before the LORD; therefore, it is said, "Even as *_Nimrod_* the mighty hunter before the LORD."
 * `1Ch 1:10` And Cush begot *_Nimrod_*. He began to be mighty upon the earth.
 * `Mic 5:6` And they shall waste the land of Assyria with the sword and the land of *_Nimrod_* in its entrances. Thus he will deliver us from the Assyrian when he comes into our land and treads within our borders.
@@ -2488,7 +2488,7 @@ _2 verses containing NISROCH_
 
 * `Gen 2:5` And *_no_* plant of the field was yet in the earth and *_no_* herb of the field had yet grown, because the LORD God had not caused it to rain on the earth and there was not a man to till the ground.
 * `Gen 5:24` And Enoch walked with God, and he was *_no_* more, for God took him.
-* `Gen 8:9` But the dove found *_no_* rest for the sole of her foot and she returned to him into the ark, because the waters were on the face of the whole earth. Then he put forth his hand, took her, and pulled her in to him into the ark.
+* `Gen 8:9` But the dove found *_no_* rest for the sole of her foot and she returned to him into the ark, because the waters were on the face of the whole earth. Then he put forth his hand, took her, and brought her to himself into the ark.
 * `Gen 9:15` And I will remember my covenant which is between me and you and every living creature of all flesh, and the waters shall *_no_* more become a flood to destroy all flesh.
 * `Gen 11:30` But Sarai was barren. She had *_no_* child.
 * `Gen 13:8` And Abram said to Lot, "Let there be *_no_* strife, I pray you, between you and me and between my herdsmen and your herdsmen, for we are brothers.
@@ -4086,7 +4086,7 @@ _2 verses containing NOADIAH_
 * `Gen 7:7` And *_Noah_* went in, along with his sons, his wife, and his sons' wives with him, into the ark, because of the waters of the flood.
 * `Gen 7:9` There went in two and two with *_Noah_* into the ark, the male and the female, as God had commanded *_Noah_*.
 * `Gen 7:11` In the six hundredth year of *_Noah_*'s life, in the second month, on the seventeenth day of the month, the same day all the fountains of the great deep were broken up and the windows of heaven were opened.
-* `Gen 7:13` In the same day *_Noah_*, and Shem, Ham, and Japheth (the sons of *_Noah_*), *_Noah_*'s wife, and the three wives of his sons with them, entered into the ark—
+* `Gen 7:13` In the same day *_Noah_*, along with Shem, Ham, and Japheth (the sons of *_Noah_*), *_Noah_*'s wife, and the three wives of his sons with them, entered into the ark—
 * `Gen 7:15` And they went in with *_Noah_* into the ark, two and two of all flesh, in which is the breath of life.
 * `Gen 7:23` And every living substance was destroyed which was upon the face of the ground—man, livestock, the creeping animals, and the bird of heaven—and they were destroyed from the earth. And only *_Noah_* and those who were with him in the ark remained alive.
 * `Gen 8:1` And God remembered *_Noah_* and every living animal and all the livestock that were with him in the ark. And God made a wind to pass over the earth, and the waters were checked.
@@ -4106,7 +4106,7 @@ _2 verses containing NOADIAH_
 * `Gen 9:28` And *_Noah_* lived after the flood three hundred and fifty years.
 * `Gen 9:29` And all the days of *_Noah_* were nine hundred and fifty years. And he died.
 * `Gen 10:1` Now these are the generations of the sons of *_Noah_*: Shem, Ham, and Japheth. And to them sons were born after the flood.
-* `Gen 10:32` These are the families of the sons of *_Noah_* after their generations, in their nations. And by these the nations were divided in the earth after the flood.
+* `Gen 10:32` These are the families of the sons of *_Noah_* after their generations, in their nations. And by these the nations were divided on the earth after the flood.
 * `Num 26:33` And Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, *_Noah_*, Hoglah, Milcah, and Tirzah.
 * `Num 27:1` Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph. And these are the names of his daughters: Mahlah, *_Noah_*, Hoglah, Milcah, and Tirzah.
 * `Num 36:11` For Mahlah, Tirzah, Hoglah, Milcah, and *_Noah_*, the daughters of Zelophehad, were married to their father's brothers' sons.

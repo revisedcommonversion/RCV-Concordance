@@ -145,7 +145,7 @@ _1 verse containing MOVER_
 
 == MOVES
 
-* `Gen 1:21` And God created the great sea-creatures and every living creature that *_moves_*, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
+* `Gen 1:21` And God created the great sea-creatures and every living creature that *_moves_*, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
 * `Gen 1:28` And God blessed them, and God said to them, "Be fruitful, multiply, replenish the earth, and subdue it. And have dominion over the fish of the sea, over the bird of the air, and over every living animal that *_moves_* upon the earth."
 * `Gen 9:2` And the fear of you and the dread of you shall be upon every beast of the earth, upon every bird of the air, upon all that *_moves_* on the earth, and upon all the fish of the sea. Into your hand they are delivered.
 * `Lev 11:46` This is the law of the beasts, of the bird, of every living creature that *_moves_* in the waters, and of every creature that creeps upon the earth,
@@ -528,16 +528,16 @@ _4 verses containing MULTIPLIES_
 
 == MULTIPLY
 
-* `Gen 1:22` And God blessed them, saying, "Be fruitful, *_multiply_*, fill the waters in the seas, and let birds *_multiply_* in the earth."
+* `Gen 1:22` And God blessed them, saying, "Be fruitful, *_multiply_*, fill the waters in the seas, and let birds *_multiply_* on the earth."
 * `Gen 1:28` And God blessed them, and God said to them, "Be fruitful, *_multiply_*, replenish the earth, and subdue it. And have dominion over the fish of the sea, over the bird of the air, and over every living animal that moves upon the earth."
 * `Gen 3:16` To the woman he said, "I will greatly *_multiply_* your sorrow and your conception. In sorrow you shall bring forth children. And your desire shall be for your husband, and he shall rule over you."
-* `Gen 6:1` And it came to pass, when men began to *_multiply_* on the face of the earth and daughters were born to them,
+* `Gen 6:1` And it came to pass when men began to *_multiply_* on the face of the earth and daughters were born to them,
 * `Gen 8:17` Bring forth with you every living animal that is with you of all flesh, of bird, of livestock, and of every creeping animal that creeps upon the earth, so that they may breed abundantly on the earth, be fruitful, and *_multiply_* upon the earth."
 * `Gen 9:1` And God blessed Noah and his sons and said to them, "Be fruitful, *_multiply_*, and replenish the earth.
 * `Gen 9:7` And you, be fruitful, *_multiply_*, bring forth abundantly in the earth, and *_multiply_* therein."
 * `Gen 16:10` And the angel of the LORD said to her, "I will *_multiply_* your offspring exceedingly so that they shall not be numbered for multitude."
 * `Gen 17:2` And I will make my covenant between me and you and will *_multiply_* you exceedingly."
-* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will *_multiply_* him exceedingly. Twelve princes he shall beget, and I will make him a great nation.
+* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will *_multiply_* him exceedingly. He shall beget twelve princes, and I will make him a great nation.
 * `Gen 22:17` That in blessing I will bless you, and in multiplying I will *_multiply_* your offspring as the stars of heaven and as the sand which is on the sea shore. And your offspring shall possess the gate of his enemies.
 * `Gen 26:4` And I will make your offspring to *_multiply_* as the stars of heaven and will give to your offspring all these countries. And in your offspring all the nations of the earth shall be blessed,
 * `Gen 26:24` And the LORD appeared to him the same night and said, "I am the God of Abraham your father. Do not fear, for I am with you and will bless you and *_multiply_* your offspring for my servant Abraham's sake."

@@ -206,7 +206,7 @@ _6 verses containing IRA_
 
 == IRAD
 
-* `Gen 4:18` And to Enoch was born *_Irad_*; and *_Irad_* begot Mehujael; and Mehujael begot Methusael; and Methusael begot Lamech.
+* `Gen 4:18` And to Enoch was born *_Irad_*, and *_Irad_* begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech.
 
 _1 verse containing IRAD_
 
@@ -619,7 +619,7 @@ _1 verse containing ISHMA_
 * `Gen 16:15` And Hagar bore Abram a son. And Abram called his son's name, which Hagar bore, *_Ishmael_*.
 * `Gen 16:16` And Abram was eighty-six years old when Hagar bore *_Ishmael_* to Abram.
 * `Gen 17:18` And Abraham said to God, "O that *_Ishmael_* might live before you!"
-* `Gen 17:20` And as for *_Ishmael_*, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. Twelve princes he shall beget, and I will make him a great nation.
+* `Gen 17:20` And as for *_Ishmael_*, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. He shall beget twelve princes, and I will make him a great nation.
 * `Gen 17:23` And Abraham took *_Ishmael_* his son, all who were born in his house, and all who were bought with his money, every male among the men of Abraham's house, and circumcised the flesh of their foreskin, in the same day, as God had said to him.
 * `Gen 17:25` And *_Ishmael_* his son was thirteen years old when he was circumcised in the flesh of his foreskin.
 * `Gen 17:26` In the same day Abraham and *_Ishmael_* his son were circumcised.
@@ -3353,6 +3353,9 @@ _1 verse containing ITHRITES_
 
 * `Gen 1:11` And God said, "Let the earth bring forth grass, the herb yielding seed, and the fruit-tree yielding fruit after *_its_* kind, whose seed is in itself, upon the earth." And it was so.
 * `Gen 1:12` And the earth brought forth grass, herbs yielding seed after *_its_* kind, and the tree yielding fruit, whose seed was in itself, after *_its_* kind. And God saw that it was good.
+* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after *_its_* kind. And God saw that it was good.
+* `Gen 1:24` And God said, "Let the earth bring forth the living creature after *_its_* kind: livestock, the creeping animal, and the beast of the earth after *_its_* kind." And it was so.
+* `Gen 1:25` And God made the beast of the earth after *_its_* kind, livestock after their kind, and every animal that creeps upon the earth after *_its_* kind. And God saw that it was good.
 * `Gen 2:19` And out of the ground the LORD God formed every beast of the field and every bird of the air, and brought them to Adam to see what he would call them. And whatever Adam called every living creature, that was *_its_* name.
 * `Gen 2:21` And the LORD God caused a deep sleep to fall upon Adam, and he slept. And he took one of his ribs and closed up the flesh in *_its_* place.
 * `Gen 3:6` And when the woman saw that the tree was good for food and that it was pleasant to the eyes and a tree to be desired to make one wise, she took some of *_its_* fruit and ate, and gave some also to her husband with her, and he ate.
@@ -4128,7 +4131,7 @@ _1 verse containing ITHRITES_
 * `Rev 21:25` And *_its_* gates shall not be shut by day, for there shall be no night there.
 * `Rev 22:2` In the midst of *_its_* street. And on each side of the river was the tree of life, which bore twelve kinds of fruits and yielded her fruit every month. And the leaves of the tree were for the healing of the nations.
 
-_776 verses containing ITS_
+_779 verses containing ITS_
 
 == ITSELF
 

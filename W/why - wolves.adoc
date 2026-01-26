@@ -1022,11 +1022,11 @@ _1 verse containing WIDTH_
 * `Gen 4:25` And Adam knew his *_wife_* again, and she bore a son and called his name Seth, for she said, "God has appointed me another child instead of Abel, whom Cain slew."
 * `Gen 6:18` But with you I will establish my covenant. And you shall come into the ark—you, your sons, your *_wife_*, and your sons' wives with you.
 * `Gen 7:7` And Noah went in, along with his sons, his *_wife_*, and his sons' wives with him, into the ark, because of the waters of the flood.
-* `Gen 7:13` In the same day Noah, and Shem, Ham, and Japheth (the sons of Noah), Noah's *_wife_*, and the three wives of his sons with them, entered into the ark—
+* `Gen 7:13` In the same day Noah, along with Shem, Ham, and Japheth (the sons of Noah), Noah's *_wife_*, and the three wives of his sons with them, entered into the ark—
 * `Gen 8:16` "Go forth from the ark—you, your *_wife_*, your sons, and your sons' wives with you.
 * `Gen 8:18` And Noah went forth, along with his sons, his *_wife_*, and his sons' wives with him.
 * `Gen 11:29` And Abram and Nahor took wives: the name of Abram's *_wife_* was Sarai, and the name of Nahor's *_wife_* Milcah, the daughter of Haran, the father of Milcah and the father of Iscah.
-* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his daughter-in-law, his son Abram's *_wife_*, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
+* `Gen 11:31` And Terah took Abram his son and Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's *_wife_*, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
 * `Gen 12:5` And Abram took Sarai his *_wife_*, Lot his brother's son, all their substance that they had gathered, and the souls whom they had gotten in Haran, and they went to go forth into the land of Canaan. And into the land of Canaan they came.
 * `Gen 12:11` And it came to pass, when he had come near to enter into Egypt, that he said to Sarai his *_wife_*, "Behold now, I know that you are a fair woman to look upon;
 * `Gen 12:12` Therefore, it will come to pass, when the Egyptians see you, that they will say, 'This is his *_wife_*,' and they will kill me, but they will save you alive.
@@ -1044,8 +1044,8 @@ _1 verse containing WIDTH_
 * `Gen 19:15` And when the morning arose, the angels hastened Lot, saying, "Arise, take your *_wife_* and your two daughters who are here, lest you be consumed in the iniquity of the city."
 * `Gen 19:16` And while he lingered, the men laid hold upon his hand, upon the hand of his *_wife_*, and upon the hand of his two daughters—the LORD being merciful to him—and they brought him forth and set him outside the city.
 * `Gen 19:26` But his *_wife_* looked back from behind him and she became a pillar of salt.
-* `Gen 20:2` And Abraham said of Sarah his *_wife_*, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
-* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are but a dead man on account of the woman whom you have taken, for she is a man's *_wife_*."
+* `Gen 20:2` And Abraham said about Sarah his *_wife_*, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
+* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are a dead man on account of the woman whom you have taken, for she is a man's *_wife_*."
 * `Gen 20:7` Now therefore, restore to the man his *_wife_*, for he is a prophet and he shall pray for you, and you shall live. And if you shall not restore her, know that you shall surely die—you and all who are yours."
 * `Gen 20:11` And Abraham said, "Because I thought, surely the fear of God is not in this place, and they will slay me for my *_wife_*'s sake.
 * `Gen 20:12` And yet indeed she is my sister. She is the daughter of my father, but not the daughter of my mother, and she became my *_wife_*.
@@ -1779,11 +1779,11 @@ _2 verses containing WILES_
 * `Gen 12:12` Therefore, it *_will_* come to pass, when the Egyptians see you, that they *_will_* say, 'This is his wife,' and they *_will_* kill me, but they *_will_* save you alive.
 * `Gen 13:9` Is the whole land not before you? Separate yourself, I pray you, from me. If you *_will_* take the left hand, then I *_will_* go to the right. Or if you *_will_* depart to the right hand, then I *_will_* go to the left."
 * `Gen 13:15` All the land which you see, I *_will_* give it to you and to your offspring forever.
-* `Gen 13:16` And I *_will_* make your offspring as the dust of the earth, so that if a man can number the dust of the earth, then your offspring shall also be numbered.
+* `Gen 13:16` And I *_will_* make your offspring like the dust of the earth, so that if a man can number the dust of the earth, then your offspring shall also be numbered.
 * `Gen 13:17` Arise, walk through the land in its length and in its breadth, for I *_will_* give it to you."
 * `Gen 14:23` That from a thread even to a shoe-latchet I *_will_* not take anything that is yours, lest you should say, 'I have made Abram rich,'
 * `Gen 15:2` And Abram said, "Lord GOD, what *_will_* you give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
-* `Gen 15:14` And also that nation which they shall serve, I *_will_* judge. And afterward they shall come out with great substance.
+* `Gen 15:14` And also that nation which they shall serve, I *_will_* judge. And afterward, they shall come out with great substance.
 * `Gen 16:8` And he said, "Hagar, Sarai's servant, where did you come from? And where *_will_* you go?" And she said, "I flee from the face of my mistress Sarai."
 * `Gen 16:10` And the angel of the LORD said to her, "I *_will_* multiply your offspring exceedingly so that they shall not be numbered for multitude."
 * `Gen 16:12` And he *_will_* be a wild man. His hand *_will_* be against every man, and every man's hand against him. And he shall dwell in the presence of all his brothers."
@@ -1793,21 +1793,21 @@ _2 verses containing WILES_
 * `Gen 17:8` And I *_will_* give to you and to your offspring after you the land in which you are a stranger, all the land of Canaan, for an everlasting possession. And I *_will_* be their God."
 * `Gen 17:16` And I *_will_* bless her and give you a son also by her. I *_will_* even bless her, and she shall be a mother of nations. Kings of people shall proceed from her."
 * `Gen 17:19` And God said, "Sarah your wife shall bear you a son indeed, and you shall call his name Isaac. And I *_will_* establish my covenant with him for an everlasting covenant and with his offspring after him.
-* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and *_will_* make him fruitful and *_will_* multiply him exceedingly. Twelve princes he shall beget, and I *_will_* make him a great nation.
+* `Gen 17:20` And as for Ishmael, I have heard you. Behold, I have blessed him and *_will_* make him fruitful and *_will_* multiply him exceedingly. He shall beget twelve princes, and I *_will_* make him a great nation.
 * `Gen 17:21` But my covenant I *_will_* establish with Isaac, whom Sarah shall bear to you at this set time in the next year."
-* `Gen 18:5` And I *_will_* bring a morsel of bread, and you may comfort your hearts. After that you shall pass on, for therefore you have come to your servant." And they said, "Do so, as you have said."
+* `Gen 18:5` And I *_will_* bring a morsel of bread, and you may comfort your hearts. After that, you may go your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
 * `Gen 18:10` And he said, "I *_will_* certainly return to you according to the time of life, and behold, Sarah your wife shall have a son." And Sarah heard it in the tent door, which was behind him.
 * `Gen 18:14` Is anything too hard for the LORD? At the time appointed I *_will_* return to you, according to the time of life, and Sarah shall have a son."
 * `Gen 18:19` For I know him, that he *_will_* command his children and his household after him, and they *_will_* keep the way of the LORD, to do justice and judgment, so that the LORD may bring upon Abraham that which he has spoken of him."
 * `Gen 18:21` I *_will_* go down now and see whether they have done altogether according to its cry which has come to me, and if not, I *_will_* know."
 * `Gen 18:23` And Abraham drew near and said, "*_Will_* you also destroy the righteous with the wicked?
 * `Gen 18:24` Perhaps there are fifty righteous within the city. *_Will_* you also destroy and not spare the place for the fifty righteous who are in it?
-* `Gen 18:26` And the LORD said, "If I find in Sodom fifty righteous within the city, then I *_will_* spare all the place for their sakes."
+* `Gen 18:26` And the LORD said, "If I find in Sodom fifty righteous within the city, then I *_will_* spare the whole place for their sakes."
 * `Gen 18:28` Perhaps there *_will_* lack five of the fifty righteous. *_Will_* you destroy all the city for lack of five?" And he said, "If I find there forty-five, I *_will_* not destroy it."
 * `Gen 18:29` And he spoke to him yet again, and said, "Perhaps there *_will_* be forty found there." And he said, "I *_will_* not do it for the forty's sake."
-* `Gen 18:30` And he said, "Oh, do not let the Lord be angry, and I *_will_* speak. Perhaps there *_will_* be thirty found there." And he said, "I *_will_* not do it if I find thirty there."
+* `Gen 18:30` And he said, "Oh do not let the Lord be angry, and I *_will_* speak. Perhaps there *_will_* be thirty found there." And he said, "I *_will_* not do it if I find thirty there."
 * `Gen 18:31` And he said, "Behold now, I have taken upon myself to speak to the Lord. Perhaps there *_will_* be twenty found there." And he said, "I *_will_* not destroy it for the twenty's sake."
-* `Gen 18:32` And he said, "Oh do not let the Lord be angry, and I *_will_* speak yet but this once. Perhaps ten *_will_* be found there." And he said, "I *_will_* not destroy it for ten's sake."
+* `Gen 18:32` And he said, "Oh do not let the Lord be angry, and I *_will_* speak just once more. Perhaps ten *_will_* be found there." And he said, "I *_will_* not destroy it for ten's sake."
 * `Gen 19:2` And he said, "Behold now, my lords, turn, I pray you, into your servant's house and stay all night and wash your feet, and you shall rise early and go on your way." And they said, "No, but we *_will_* abide in the street all night."
 * `Gen 19:9` And they said, "Stand back." And they said again, "This one came in as a sojourner and he wants to be a judge. Now we *_will_* deal worse with you than with them." And they pressed hard upon the man, Lot, and came near to break the door.
 * `Gen 19:13` For we *_will_* destroy this place, because their cry has become great before the face of the LORD, and the LORD has sent us to destroy it."
@@ -5827,7 +5827,7 @@ _7 verses containing WING_
 
 == WINGED
 
-* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every *_winged_* bird after his kind. And God saw that it was good.
+* `Gen 1:21` And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every *_winged_* bird after its kind. And God saw that it was good.
 * `Lev 11:20` 'All *_winged_* things that creep, going upon all four, shall be an abomination to you.
 * `Deu 4:17` The likeness of any beast that is on the earth, the likeness of any *_winged_* bird that flies in the air,
 * `Ezk 17:3` And say, 'Thus says the Lord GOD: "A great eagle with great wings, long-*_winged_*, full of feathers, which had diverse colors, came to Lebanon and took the highest branch of the cedar.
@@ -6848,7 +6848,7 @@ _4 verses containing WITHHOLDS_
 * `Gen 9:21` And he drank the wine and was drunken and uncovered *_within_* his tent.
 * `Gen 18:12` Therefore, Sarah laughed *_within_* herself, saying, "After I have become old, shall I have pleasure, my lord being old also?"
 * `Gen 18:24` Perhaps there are fifty righteous *_within_* the city. Will you also destroy and not spare the place for the fifty righteous who are in it?
-* `Gen 18:26` And the LORD said, "If I find in Sodom fifty righteous *_within_* the city, then I will spare all the place for their sakes."
+* `Gen 18:26` And the LORD said, "If I find in Sodom fifty righteous *_within_* the city, then I will spare the whole place for their sakes."
 * `Gen 25:22` And the children struggled together *_within_* her, and she said, "If it is so, why am I thus?" And she went to inquire of the LORD.
 * `Gen 39:11` And it came to pass, about this time, that Joseph went into the house to do his work, and there were none of the men of the house there *_within_*.
 * `Gen 40:13` *_Within_* three days Pharaoh shall lift up your head and restore you to your place, and you shall deliver Pharaoh's cup into his hand after the former manner when you were his butler.
@@ -7465,7 +7465,7 @@ _48 verses containing WITNESSES_
 * `Gen 6:2` That the sons of God saw the daughters of men that they were fair. And they took for themselves *_wives_* from all whom they chose.
 * `Gen 6:18` But with you I will establish my covenant. And you shall come into the ark—you, your sons, your wife, and your sons' *_wives_* with you.
 * `Gen 7:7` And Noah went in, along with his sons, his wife, and his sons' *_wives_* with him, into the ark, because of the waters of the flood.
-* `Gen 7:13` In the same day Noah, and Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three *_wives_* of his sons with them, entered into the ark—
+* `Gen 7:13` In the same day Noah, along with Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three *_wives_* of his sons with them, entered into the ark—
 * `Gen 8:16` "Go forth from the ark—you, your wife, your sons, and your sons' *_wives_* with you.
 * `Gen 8:18` And Noah went forth, along with his sons, his wife, and his sons' *_wives_* with him.
 * `Gen 11:29` And Abram and Nahor took *_wives_*: the name of Abram's wife was Sarai, and the name of Nahor's wife Milcah, the daughter of Haran, the father of Milcah and the father of Iscah.

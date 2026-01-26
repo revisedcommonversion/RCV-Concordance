@@ -885,7 +885,7 @@ _1 verse containing ACCORDINGLY_
 
 == ACCOUNT
 
-* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are but a dead man on *_account_* of the woman whom you have taken, for she is a man's wife."
+* `Gen 20:3` But God came to Abimelech in a dream by night and said to him, "Behold, you are a dead man on *_account_* of the woman whom you have taken, for she is a man's wife."
 * `Gen 26:9` And Abimelech called Isaac and said, "Behold, surely she is your wife. And how did you say, 'She is my sister'?" And Isaac said to him, "Because I thought, 'Lest I should die on her *_account_*.'"
 * `Num 16:49` Now those who died in the plague were fourteen thousand and seven hundred, besides those who died on *_account_* of the matter with Korah.
 * `2Ki 12:4` And Jehoash said to the priests, "All the money of the dedicated things that is brought into the house of the LORD, even the money of everyone who passes the *_account_*, the money that every man is set at, and all the money that comes into any man's heart to bring into the house of the LORD,
@@ -1457,7 +1457,7 @@ _1 verse containing ADALIA_
 * `Gen 2:19` And out of the ground the LORD God formed every beast of the field and every bird of the air, and brought them to *_Adam_* to see what he would call them. And whatever *_Adam_* called every living creature, that was its name.
 * `Gen 2:20` And *_Adam_* gave names to all livestock, to the birds of the air, and to every beast of the field, but for *_Adam_*, a helper suitable for him was not found.
 * `Gen 2:21` And the LORD God caused a deep sleep to fall upon *_Adam_*, and he slept. And he took one of his ribs and closed up the flesh in its place.
-* `Gen 2:23` And *_Adam_* said, "This is now bone of my bones and flesh of my flesh. She shall be called Woman, because she was taken out of man."
+* `Gen 2:23` And *_Adam_* said, "This is now bone of my bones and flesh of my flesh. She shall be called 'Woman,' because she was taken out of man."
 * `Gen 3:8` And they heard the voice of the LORD God walking in the garden in the cool of the day. And *_Adam_* and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.
 * `Gen 3:9` And the LORD God called to *_Adam_* and said to him, "Where are you?"
 * `Gen 3:17` And to *_Adam_* he said, "Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you, saying, 'You shall not eat from it'—The ground is cursed for your sake. In sorrow you shall eat from it all the days of your life.

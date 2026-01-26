@@ -41,7 +41,7 @@ _7 verses containing CREATE_
 == CREATED
 
 * `Gen 1:1` In the beginning God *_created_* the heaven and the earth.
-* `Gen 1:21` And God *_created_* the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
+* `Gen 1:21` And God *_created_* the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
 * `Gen 1:27` So God *_created_* man in his own image. In the image of God he *_created_* him. Male and female he *_created_* them.
 * `Gen 2:3` And God blessed the seventh day and sanctified it, because in it he had rested from all his work which God *_created_* and made.
 * `Gen 2:4` These are the generations of the heavens and of the earth when they were *_created_*, in the day that the LORD God made the earth and the heavens.
@@ -112,8 +112,8 @@ _6 verses containing CREATOR_
 == CREATURE
 
 * `Gen 1:20` And God said, "Let the waters abundantly bring forth the moving *_creature_* that has life and the bird that may fly above the earth in the open firmament of heaven."
-* `Gen 1:21` And God created the great sea-creatures and every living *_creature_* that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
-* `Gen 1:24` And God said, "Let the earth bring forth the living *_creature_* after his kind: livestock, the creeping animal, and the beast of the earth after his kind." And it was so.
+* `Gen 1:21` And God created the great sea-creatures and every living *_creature_* that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
+* `Gen 1:24` And God said, "Let the earth bring forth the living *_creature_* after its kind: livestock, the creeping animal, and the beast of the earth after its kind." And it was so.
 * `Gen 2:19` And out of the ground the LORD God formed every beast of the field and every bird of the air, and brought them to Adam to see what he would call them. And whatever Adam called every living *_creature_*, that was its name.
 * `Gen 9:10` And with every living *_creature_* that is with you, of the bird, of the livestock, and of every beast of the earth with you, from all that go out of the ark, to every beast of the earth.
 * `Gen 9:12` And God said, "This is the token of the covenant which I make between me and you and every living *_creature_* that is with you for perpetual generations:
@@ -147,7 +147,7 @@ _31 verses containing CREATURE_
 
 == CREATURES
 
-* `Gen 1:21` And God created the great sea-*_creatures_* and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
+* `Gen 1:21` And God created the great sea-*_creatures_* and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
 * `Psa 148:7` Praise the LORD from the earth, you sea-*_creatures_* and all deeps,
 * `Isa 13:21` But wild beasts of the desert shall lie there, and their houses shall be full of doleful *_creatures_*. Owls shall dwell there, and wild goats shall dance there.
 * `Ezk 1:5` Also from the midst of it came the likeness of four living *_creatures_*. And this was their appearance: They had the likeness of a man,
@@ -196,7 +196,7 @@ _7 verses containing CREEP_
 
 == CREEPING
 
-* `Gen 1:24` And God said, "Let the earth bring forth the living creature after his kind: livestock, the *_creeping_* animal, and the beast of the earth after his kind." And it was so.
+* `Gen 1:24` And God said, "Let the earth bring forth the living creature after its kind: livestock, the *_creeping_* animal, and the beast of the earth after its kind." And it was so.
 * `Gen 1:26` And God said, "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea, over the birds of the air, over the livestock, over all the earth, and over every *_creeping_* animal that creeps upon the earth."
 * `Gen 6:7` And the LORD said, "I will destroy man whom I have created from the face of the earth—man, beast, the *_creeping_* animal, and the birds of the air. For I repent that I have made them."
 * `Gen 6:20` Of birds after their kind, of livestock after their kind, and of every *_creeping_* animal of the earth after its kind, two of every sort shall come to you to keep them alive.
@@ -230,7 +230,7 @@ _29 verses containing CREEPING_
 
 == CREEPS
 
-* `Gen 1:25` And God made the beast of the earth after his kind, livestock after their kind, and every animal that *_creeps_* upon the earth after his kind. And God saw that it was good.
+* `Gen 1:25` And God made the beast of the earth after its kind, livestock after their kind, and every animal that *_creeps_* upon the earth after its kind. And God saw that it was good.
 * `Gen 1:26` And God said, "Let us make man in our image, after our likeness, and let them have dominion over the fish of the sea, over the birds of the air, over the livestock, over all the earth, and over every creeping animal that *_creeps_* upon the earth."
 * `Gen 1:30` And to every beast of the earth, to every bird of the air, and to every animal that *_creeps_* upon the earth, in which is life, I have given every green herb for food." And it was so.
 * `Gen 7:8` Of clean beasts, of beasts that are not clean, of birds, and of every animal that *_creeps_* upon the earth,
@@ -1783,7 +1783,7 @@ _25 verses containing CURTAINS_
 * `Gen 2:13` And the name of the second river is Gihon, the same that compasses the whole land of *_Cush_*.
 * `Gen 10:6` And the sons of Ham: *_Cush_*, Mizraim, Phut, and Canaan.
 * `Gen 10:7` And the sons of *_Cush_*: Seba, Havilah, Sabtah, Raamah, and Sabtecha. And the sons of Raamah: Sheba and Dedan.
-* `Gen 10:8` And *_Cush_* begot Nimrod. He began to be a mighty one in the earth.
+* `Gen 10:8` And *_Cush_* begot Nimrod. He began to be a mighty one on the earth.
 * `2Ki 19:9` And when he heard it said of Tirhakah king of *_Cush_*, "Behold, he has come out to fight against you," he sent messengers again to Hezekiah, saying,
 * `1Ch 1:8` The sons of Ham: *_Cush_*, Mizraim, Put, and Canaan.
 * `1Ch 1:9` And the sons of *_Cush_*: Seba, Havilah, Sabta, Raamah, and Sabtecha. And the sons of Raamah: Sheba and Dedan.
