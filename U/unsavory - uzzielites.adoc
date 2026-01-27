@@ -125,6 +125,7 @@ _1 verse containing UNTIED_
 * `Gen 8:5` And the waters decreased continually *_until_* the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were seen.
 * `Gen 8:7` And he sent forth a raven, which went forth to and fro *_until_* the waters were dried from off the earth.
 * `Gen 19:22` Hasten, escape there, for I cannot do anything *_until_* you get there." Therefore, the name of the city was called Zoar.
+* `Gen 21:26` And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither did I hear about it *_until_* today."
 * `Gen 24:19` And when she had finished giving him drink, she said, "I will draw water for your camels also *_until_* they have finished drinking."
 * `Gen 24:33` And there was food set before him to eat. But he said, "I will not eat *_until_* I have told my errand." And he said, "Speak on."
 * `Gen 26:13` And the man became great and went forward and grew *_until_* he became very great.
@@ -236,7 +237,7 @@ _1 verse containing UNTIED_
 * `Num 35:28` Because he should have remained in the city of his refuge *_until_* the death of the high priest. But after the death of the high priest the slayer shall return into the land of his possession.
 * `Num 35:32` And you shall take no satisfaction for him who has fled to the city of his refuge, that he should come back to dwell in the land *_until_* the death of the priest.
 * `Deu 1:31` And in the wilderness, where you have seen how the LORD your God bore you, as a man bears his son, in all the way that you went *_until_* you came into this place.'
-* `Deu 2:14` And the space in which we came from Kadesh-barnea, *_until_* we passed the brook Zered, was thirty-eight years, *_until_* all the generation of the men of war were wasted from among the host, as the LORD swore to them.
+* `Deu 2:14` And the time in which we came from Kadesh-barnea, *_until_* we passed the brook Zered, was thirty-eight years, *_until_* all the generation of the men of war were wasted from among the host, as the LORD swore to them.
 * `Deu 2:15` For indeed the hand of the LORD was against them, to destroy them from among the host, *_until_* they were consumed.
 * `Deu 2:29` (As the children of Esau who dwell in Seir and the Moabites who dwell in Ar did to me), *_until_* I pass over the Jordan into the land which the LORD our God gives us.'
 * `Deu 3:3` So the LORD our God also delivered into our hands Og the king of Bashan and all his people. And we smote him *_until_* no one was left to him remaining.
@@ -613,7 +614,7 @@ _1 verse containing UNTIED_
 * `Act 7:45` Which also our fathers, in their turn, brought in with Joshua when they entered into the possession of the nations, whom God drove out before the face of our fathers *_until_* the days of David,
 * `Act 8:40` But Philip was found at Azotus. And passing through, he preached in all the cities *_until_* he came to Caesarea.
 * `Act 10:30` And Cornelius said, "Four days ago I was fasting *_until_* this hour, and at the ninth hour I prayed in my house, and behold, a man stood before me in bright clothing,
-* `Act 13:20` And after that, he gave judges to them, about the space of four hundred and fifty years, *_until_* Samuel the prophet.
+* `Act 13:20` And after that, he gave judges to them, for about four hundred and fifty years, *_until_* Samuel the prophet.
 * `Act 20:7` And upon the first day of the week, when the disciples came together to break bread, Paul preached to them (ready to depart on the next day) and continued his speech *_until_* midnight.
 * `Act 20:11` When he had come up again, had broken bread, and eaten, he discoursed a long while, even *_until_* break of day, and then departed.
 * `Act 21:5` And when we had accomplished those days, we departed and proceeded on our way. And they all conducted us with wives and children *_until_* we were out of the city. And we kneeled down on the shore and prayed.
@@ -660,7 +661,7 @@ _1 verse containing UNTIED_
 * `Rev 20:3` Cast him into the bottomless pit, shut him up, and set a seal upon him so that he should no longer deceive the nations *_until_* the thousand years should be fulfilled. And after that, he must be released a little season.
 * `Rev 20:5` But the rest of the dead did not live again *_until_* the thousand years were finished. This is the first resurrection.
 
-_538 verses containing UNTIL_
+_539 verses containing UNTIL_
 
 == UNTIMELY
 

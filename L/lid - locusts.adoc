@@ -1376,7 +1376,10 @@ _1 verse containing LIGN-ALOES_
 * `Gen 13:10` And Lot lifted up his eyes and beheld all the plain of the Jordan, that it was well watered everywhere (before the LORD destroyed Sodom and Gomorrah), even as the garden of the LORD, *_like_* the land of Egypt, as far as to Zoar.
 * `Gen 13:16` And I will make your offspring *_like_* the dust of the earth, so that if a man can number the dust of the earth, then your offspring shall also be numbered.
 * `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and behold, the smoke of the country went up *_like_* the smoke of a furnace.
-* `Gen 25:25` And the first was born red all over *_like_* a hairy garment. And they called his name Esau.
+* `Gen 25:25` And the first was born red, and the whole of him was *_like_* a hairy garment. And they called his name Esau.
+* `Gen 27:23` And he did not discern him because his hands were hairy, *_like_* his brother Esau's hands. So he blessed him.
+* `Gen 27:27` And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is *_like_* the smell of a field which the LORD has blessed.
+* `Gen 28:14` And your offspring shall be *_like_* the dust of the earth, and you shall spread abroad to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
 * `Exo 7:11` Then Pharaoh also called the wise-men and the sorcerers. And the magicians of Egypt also did in *_like_* manner with their enchantments.
 * `Exo 8:10` And he said, "Tomorrow." And he said, "May it be according to your word so that you may know that there is no one *_like_* the LORD our God.
 * `Exo 9:14` For I will at this time send all my plagues upon your heart, upon your servants, and upon your people so that you may know that there is no one *_like_* me in all the earth.
@@ -2188,7 +2191,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_815 verses containing LIKE_
+_818 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -3124,7 +3127,7 @@ _180 verses containing LISTEN_
 * `Gen 3:17` And to Adam he said, "Because you have *_listened_* to the voice of your wife and have eaten from the tree of which I commanded you, saying, 'You shall not eat from it'—The ground is cursed for your sake. In sorrow you shall eat from it all the days of your life.
 * `Gen 16:2` And Sarai said to Abram, "Behold now, the LORD has restrained me from bearing. I pray you go in to my servant. It may be that I may obtain children by her." And Abram *_listened_* to the voice of Sarai.
 * `Gen 23:16` And Abraham *_listened_* to Ephron. And Abraham weighed to Ephron the silver which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant.
-* `Gen 30:17` And God *_listened_* to Leah, and she conceived and bore Jacob the fifth son.
+* `Gen 30:17` And God *_listened_* to Leah, and she conceived and bore Jacob a fifth son.
 * `Gen 30:22` And God remembered Rachel. And God *_listened_* to her and rendered her fruitful.
 * `Gen 34:24` And all who went out of the gate of his city *_listened_* to Hamor and to Shechem his son. And every male was circumcised, all who went out of the gate of his city.
 * `Exo 6:12` And Moses spoke before the LORD, saying, "Behold, the children of Israel have not *_listened_* to me. How then shall Pharaoh hear me, who am of uncircumcised lips?"
@@ -3435,7 +3438,7 @@ _215 verses containing LITTLE_
 * `Gen 17:18` And Abraham said to God, "O that Ishmael might *_live_* before you!"
 * `Gen 19:20` Behold now, this city is near to flee to and it is a small one. Oh, let me escape there (Is it not a small one?) and my soul shall *_live_*!"
 * `Gen 20:7` Now therefore, restore to the man his wife, for he is a prophet and he shall pray for you, and you shall *_live_*. And if you shall not restore her, know that you shall surely die—you and all who are yours."
-* `Gen 27:40` And by your sword you shall *_live_*, and you shall serve your brother. And it shall come to pass, when you have the dominion, that you shall break his yoke from off your neck."
+* `Gen 27:40` And by your sword you shall *_live_*, and you shall serve your brother. And it shall come to pass when you have the dominion, that you shall break his yoke from off your neck."
 * `Gen 31:32` With whomever you find your gods, do not let him *_live_*. Before our brothers, discern what is yours with me and take it." For Jacob did not know that Rachel had stolen them.
 * `Gen 42:2` And he said, "Behold, I have heard that there is grain in Egypt. Go down there and buy some for us from there so that we may *_live_* and not die."
 * `Gen 42:18` And Joseph said to them on the third day, "Do this and *_live_*, for I fear God.

@@ -1258,13 +1258,13 @@ _1 verse containing DAUBING_
 * `Gen 26:34` And Esau was forty years old when he took for a wife Judith the *_daughter_* of Beeri the Hittite and Bashemath the *_daughter_* of Elon the Hittite,
 * `Gen 28:9` Then Esau went to Ishmael and took, besides the wives which he had, Mahalath the *_daughter_* of Ishmael, Abraham's son, the sister of Nebajoth, to be his wife.
 * `Gen 29:6` And he said to them, "Is he well?" And they said, "He is well, and behold, Rachel his *_daughter_* comes with the sheep."
-* `Gen 29:10` And it came to pass, when Jacob saw Rachel, the *_daughter_* of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
+* `Gen 29:10` And it came to pass when Jacob saw Rachel, the *_daughter_* of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
 * `Gen 29:18` And Jacob loved Rachel and said, "I will serve you seven years for Rachel your younger *_daughter_*."
 * `Gen 29:23` And it came to pass in the evening, that he took Leah his *_daughter_* and brought her to him, and he went in to her.
 * `Gen 29:24` And Laban gave Zilpah his servant to his *_daughter_* Leah as a servant.
 * `Gen 29:28` And Jacob did so and fulfilled her week. And he gave him Rachel, his *_daughter_*, for a wife also.
 * `Gen 29:29` And Laban gave Bilhah his servant to Rachel his *_daughter_* to be her servant.
-* `Gen 30:21` And afterward she bore a *_daughter_* and called her name Dinah.
+* `Gen 30:21` And afterward, she bore a *_daughter_* and called her name Dinah.
 * `Gen 34:1` And Dinah the *_daughter_* of Leah, which she bore to Jacob, went out to see the daughters of the land.
 * `Gen 34:3` And his soul cleaved to Dinah the *_daughter_* of Jacob, and he loved the young woman and spoke kindly to the young woman.
 * `Gen 34:5` And Jacob heard that he had defiled Dinah his *_daughter_*. But his sons were with his livestock in the field, and Jacob held his peace until they had come.
@@ -4208,7 +4208,7 @@ _1 verse containing DAWNS_
 * `Act 20:16` For Paul had determined to sail by Ephesus because he would not spend the time in Asia, for he hastened, if it were possible for him, to be at Jerusalem on the *_day_* of Pentecost.
 * `Act 20:18` And when they had come to him, he said to them, "You yourselves know, from the first *_day_* that I set foot in Asia, in what manner I have been with you this whole time—
 * `Act 20:26` Therefore, I call you to witness this *_day_* that I am pure from the blood of all men.
-* `Act 20:31` Therefore, watch, and remember, that by the space of three years I did not cease to warn everyone night and *_day_* with tears.
+* `Act 20:31` Therefore, watch, and remember, that for three years I did not cease to warn everyone night and *_day_* with tears.
 * `Act 21:1` And it came to pass, that after we were separated from them and had launched, we came with a straight course to Coos, and the *_day_* following to Rhodes, and from there to Patara.
 * `Act 21:7` And when we had finished our course from Tyre, we came to Ptolemais, where we saluted the brothers and stayed with them one *_day_*.
 * `Act 21:8` And the next *_day_*, we who were of Paul's company departed and came to Caesarea. And we entered into the house of Philip the evangelist, who was one of the seven, and stayed with him.
@@ -4385,7 +4385,7 @@ _8 verses containing DAY-TIME_
 * `Gen 26:18` And Isaac dug again the wells of water which they had dug in the *_days_* of Abraham his father, for the Philistines had stopped them after the death of Abraham. And he called their names after the names by which his father had called them.
 * `Gen 27:41` And Esau hated Jacob because of the blessing with which his father blessed him. And Esau said in his heart, "The *_days_* of mourning for my father are at hand. Then I will slay my brother Jacob."
 * `Gen 27:44` And stay with him a few *_days_* until your brother's fury turns away,
-* `Gen 29:20` And Jacob served seven years for Rachel, and they seemed to him but a few *_days_* because of the love he had for her.
+* `Gen 29:20` And Jacob served seven years for Rachel, and they seemed to him only a few *_days_* because of the love he had for her.
 * `Gen 29:21` And Jacob said to Laban, "Give me my wife (for my *_days_* are fulfilled) so that I may go in to her."
 * `Gen 30:14` And Reuben went, in the *_days_* of wheat-harvest, and found mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, "Give me, I pray you, some of your son's mandrakes."
 * `Gen 30:36` And he set three *_days_*' journey between himself and Jacob. And Jacob fed the rest of Laban's flocks.
@@ -5721,7 +5721,7 @@ _9 verses containing DEARLY_
 * `Gen 26:11` And Abimelech charged all his people, saying, "He who touches this man or his wife shall surely be put to *_death_*."
 * `Gen 26:18` And Isaac dug again the wells of water which they had dug in the days of Abraham his father, for the Philistines had stopped them after the *_death_* of Abraham. And he called their names after the names by which his father had called them.
 * `Gen 27:2` And he said, "Behold now, I am old. I do not know the day of my *_death_*.
-* `Gen 27:7` 'Bring me wild game and make me savory food so that I may eat and bless you before the LORD before my *_death_*.'
+* `Gen 27:7` 'Bring me wild game and make me savory food so that I may eat and bless you in the presence of the LORD before my *_death_*.'
 * `Gen 27:10` And you shall bring it to your father so that he may eat and that he may bless you before his *_death_*."
 * `Exo 10:17` Now therefore, forgive, I pray you, my sin only this once and entreat the LORD your God so that he may take away from me this *_death_* only."
 * `Exo 19:12` And you shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain, or touch its border. Whoever touches the mountain shall surely be put to *_death_*.

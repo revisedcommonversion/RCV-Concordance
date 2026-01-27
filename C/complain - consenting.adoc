@@ -195,8 +195,8 @@ _12 verses containing CONCEIVE_
 * `Gen 29:35` And she *_conceived_* again and bore a son, and said, "Now I will praise the LORD." Therefore, she called his name Judah, and ceased bearing.
 * `Gen 30:5` And Bilhah *_conceived_* and bore Jacob a son.
 * `Gen 30:7` And Bilhah, Rachel's servant, *_conceived_* again and bore Jacob a second son.
-* `Gen 30:17` And God listened to Leah, and she *_conceived_* and bore Jacob the fifth son.
-* `Gen 30:19` And Leah *_conceived_* again and bore Jacob the sixth son.
+* `Gen 30:17` And God listened to Leah, and she *_conceived_* and bore Jacob a fifth son.
+* `Gen 30:19` And Leah *_conceived_* again and bore Jacob a sixth son.
 * `Gen 30:23` And she *_conceived_* and bore a son, and said, "God has taken away my reproach."
 * `Gen 30:39` And the flocks *_conceived_* before the rods, and the flock brought forth striped, speckled, and spotted.
 * `Gen 30:41` And it came to pass whenever the stronger flock *_conceived_*, that Jacob laid the rods before the eyes of the flock in the gutters so that they might conceive among the rods.
@@ -507,7 +507,7 @@ _1 verse containing CONCERNED_
 * `Act 13:29` And when they had fulfilled all that was written *_concerning_* him, they took him down from the tree and laid him in a sepulcher.
 * `Act 13:34` And *_concerning_* that he raised him from the dead, now no longer to return to corruption, he said in this way: 'I will give you the sure mercies of David.'
 * `Act 17:32` And when they heard of the resurrection of the dead, some mocked, but others said, "We will hear you again *_concerning_* this matter."
-* `Act 19:8` And he went into the synagogue and spoke boldly for the space of three months, disputing and persuading the things *_concerning_* the kingdom of God.
+* `Act 19:8` And he went into the synagogue and spoke boldly for three months, disputing and persuading the things *_concerning_* the kingdom of God.
 * `Act 19:39` But if you inquire anything *_concerning_* other matters, it shall be determined in a lawful assembly.
 * `Act 21:21` And they are informed *_concerning_* you, that you teach all the Jews who are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
 * `Act 21:24` Take them, purify yourself with them, and pay their expenses for them so that they may shave their heads. And all may know that those things of which they were informed *_concerning_* you are nothing, but that you yourself also walk orderly and keep the law.
@@ -1036,7 +1036,7 @@ _8 verses containing CONFIDENT_
 
 == CONFIDENTLY
 
-* `Luk 22:59` And about the space of one hour after, another *_confidently_* affirmed, saying, "In truth this man was also with him, for he is a Galilean."
+* `Luk 22:59` And about an hour later, another *_confidently_* affirmed, saying, "In truth this man was also with him, for he is a Galilean."
 
 _1 verse containing CONFIDENTLY_
 

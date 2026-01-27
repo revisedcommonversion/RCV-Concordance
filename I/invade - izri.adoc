@@ -371,8 +371,8 @@ _1 verse containing IRU_
 * `Gen 25:19` And these are the generations of *_Isaac_*, Abraham's son. Abraham begot *_Isaac_*.
 * `Gen 25:20` And *_Isaac_* was forty years old when he took Rebekah to be his wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.
 * `Gen 25:21` And *_Isaac_* entreated the LORD for his wife, because she was barren. And the LORD granted him his request, and Rebekah his wife conceived.
-* `Gen 25:26` And after that his brother was born, and his hand took hold of Esau's heel. And his name was called Jacob. And *_Isaac_* was sixty years old when she bore them.
-* `Gen 25:28` And *_Isaac_* loved Esau because he ate of his wild game, but Rebekah loved Jacob.
+* `Gen 25:26` And after that, his brother was born, and his hand took hold of Esau's heel. And his name was called Jacob. And *_Isaac_* was sixty years old when she bore them.
+* `Gen 25:28` And *_Isaac_* loved Esau because he ate his wild game, but Rebekah loved Jacob.
 * `Gen 26:1` And there was a famine in the land, besides the first famine that was in the days of Abraham. And *_Isaac_* went to Abimelech king of the Philistines in Gerar.
 * `Gen 26:6` And *_Isaac_* dwelt in Gerar.
 * `Gen 26:8` And it came to pass when he had been there a long time, that Abimelech king of the Philistines looked out of a window and saw, and behold, *_Isaac_* was caressing Rebekah his wife.
@@ -391,11 +391,11 @@ _1 verse containing IRU_
 * `Gen 27:1` And it came to pass, that when *_Isaac_* was old and his eyes were dim so that he could not see, he called Esau his eldest son and said to him, "My son." And he said to him, "Behold, here I am."
 * `Gen 27:5` And Rebekah heard when *_Isaac_* spoke to Esau his son. And Esau went to the field to hunt for wild game and to bring it.
 * `Gen 27:20` And *_Isaac_* said to his son, "How is it that you have found it so quickly, my son?" And he said, "Because the LORD your God brought it to me."
-* `Gen 27:21` And *_Isaac_* said to Jacob, "Come near, I pray you, so that I may feel you, my son, whether you are my very son Esau, or not."
+* `Gen 27:21` And *_Isaac_* said to Jacob, "Come near, I pray you, so that I may feel you, my son, whether you are my very son Esau or not."
 * `Gen 27:22` And Jacob went near to *_Isaac_* his father. And he felt him and said, "The voice is Jacob's voice, but the hands are the hands of Esau."
 * `Gen 27:26` And his father *_Isaac_* said to him, "Come near now and kiss me, my son."
-* `Gen 27:30` And it came to pass, as soon as *_Isaac_* had made an end of blessing Jacob, and Jacob had yet scarcely gone out from the presence of *_Isaac_* his father, that Esau his brother came in from his hunting.
-* `Gen 27:32` And *_Isaac_* his father said to him, "Who are you?" And he said, "I am your son, your first-born Esau."
+* `Gen 27:30` And it came to pass as soon as *_Isaac_* had made an end of blessing Jacob, and Jacob had scarcely gone out from the presence of *_Isaac_* his father, that Esau his brother came in from his hunting.
+* `Gen 27:32` And *_Isaac_* his father said to him, "Who are you?" And he said, "I am your son, your first-born, Esau."
 * `Gen 27:33` And *_Isaac_* trembled exceedingly and said, "Who? Where is he who has taken this wild game and brought it to me, and I have eaten all of it before you came and have blessed him? Indeed, he shall be blessed."
 * `Gen 27:37` And *_Isaac_* answered and said to Esau, "Behold, I have made him your lord, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. And what shall I do now to you, my son?"
 * `Gen 27:39` And *_Isaac_* his father answered and said to him, "Behold, your dwelling shall be the fatness of the earth and of the dew of heaven from above.

@@ -311,7 +311,7 @@ _30 verses containing CALF_
 * `Gen 16:11` And the angel of the LORD said to her, "Behold, you are with child and shall bear a son and *_call_* his name Ishmael, because the LORD has heard your affliction.
 * `Gen 17:15` And God said to Abraham, "As for Sarai your wife, you shall not *_call_* her name Sarai, but Sarah shall be her name.
 * `Gen 17:19` And God said, "Sarah your wife shall bear you a son indeed, and you shall *_call_* his name Isaac. And I will establish my covenant with him for an everlasting covenant and with his offspring after him.
-* `Gen 24:57` And they said, "We will *_call_* the young woman and inquire at her mouth."
+* `Gen 24:57` And they said, "We will *_call_* the young woman and ask her."
 * `Gen 30:13` And Leah said, "Happy am I, for the daughters will *_call_* me blessed." And she called his name Asher.
 * `Exo 2:7` Then his sister said to Pharaoh's daughter, "Shall I go and *_call_* for you a nurse of the Hebrew women so that she may nurse the child for you?"
 * `Exo 2:20` And he said to his daughters, "And where is he? Why is it that you have left the man? *_Call_* him so that he may eat bread."
@@ -529,8 +529,8 @@ _183 verses containing CALL_
 * `Gen 22:14` And Abraham *_called_* the name of that place Yahweh Will Provide, as it is said to this day, "On the mountain of the LORD it will be seen."
 * `Gen 22:15` And the angel of the LORD *_called_* to Abraham from heaven the second time,
 * `Gen 24:58` And they *_called_* Rebekah, and said to her, "Will you go with this man?" And she said, "I will go."
-* `Gen 25:25` And the first was born red all over like a hairy garment. And they *_called_* his name Esau.
-* `Gen 25:26` And after that his brother was born, and his hand took hold of Esau's heel. And his name was *_called_* Jacob. And Isaac was sixty years old when she bore them.
+* `Gen 25:25` And the first was born red, and the whole of him was like a hairy garment. And they *_called_* his name Esau.
+* `Gen 25:26` And after that, his brother was born, and his hand took hold of Esau's heel. And his name was *_called_* Jacob. And Isaac was sixty years old when she bore them.
 * `Gen 25:30` And Esau said to Jacob, "Feed me, I pray you, with that same red pottage, for I am faint." Therefore, his name was *_called_* Edom.
 * `Gen 26:9` And Abimelech *_called_* Isaac and said, "Behold, surely she is your wife. And how did you say, 'She is my sister'?" And Isaac said to him, "Because I thought, 'Lest I should die on her account.'"
 * `Gen 26:18` And Isaac dug again the wells of water which they had dug in the days of Abraham his father, for the Philistines had stopped them after the death of Abraham. And he *_called_* their names after the names by which his father had *_called_* them.
@@ -553,7 +553,7 @@ _183 verses containing CALL_
 * `Gen 30:13` And Leah said, "Happy am I, for the daughters will call me blessed." And she *_called_* his name Asher.
 * `Gen 30:18` And Leah said, "God has given me my hire because I have given my servant to my husband." And she *_called_* his name Issachar.
 * `Gen 30:20` And Leah said, "God has endowed me with a good dower. Now my husband will dwell with me because I have borne him six sons." And she *_called_* his name Zebulun.
-* `Gen 30:21` And afterward she bore a daughter and *_called_* her name Dinah.
+* `Gen 30:21` And afterward, she bore a daughter and *_called_* her name Dinah.
 * `Gen 30:24` And she *_called_* his name Joseph and said, "The LORD will add to me another son."
 * `Gen 31:4` And Jacob sent and *_called_* Rachel and Leah into the field where his flock was,
 * `Gen 31:47` And Laban *_called_* it Jegar-sahadutha, but Jacob *_called_* it Galeed.
@@ -1291,18 +1291,18 @@ _25 verses containing CALVES_
 * `Gen 26:32` And it *_came_* to pass the same day, that Isaac's servants *_came_* and told him concerning the well which they had dug and said to him, "We have found water."
 * `Gen 27:1` And it *_came_* to pass, that when Isaac was old and his eyes were dim so that he could not see, he called Esau his eldest son and said to him, "My son." And he said to him, "Behold, here I am."
 * `Gen 27:18` And he *_came_* to his father and said, "My father." And he said, "Here I am. Who are you, my son?"
-* `Gen 27:27` And he *_came_* near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is as the smell of a field which the LORD has blessed.
-* `Gen 27:30` And it *_came_* to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob had yet scarcely gone out from the presence of Isaac his father, that Esau his brother *_came_* in from his hunting.
+* `Gen 27:27` And he *_came_* near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is like the smell of a field which the LORD has blessed.
+* `Gen 27:30` And it *_came_* to pass as soon as Isaac had made an end of blessing Jacob, and Jacob had scarcely gone out from the presence of Isaac his father, that Esau his brother *_came_* in from his hunting.
 * `Gen 27:33` And Isaac trembled exceedingly and said, "Who? Where is he who has taken this wild game and brought it to me, and I have eaten all of it before you *_came_* and have blessed him? Indeed, he shall be blessed."
 * `Gen 27:35` And he said, "Your brother *_came_* with subtlety and has taken away your blessing."
 * `Gen 29:1` Then Jacob went on his journey and *_came_* into the land of the people of the east.
 * `Gen 29:9` And while he was still speaking with them, Rachel *_came_* with her father's sheep, for she kept them.
-* `Gen 29:10` And it *_came_* to pass, when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
+* `Gen 29:10` And it *_came_* to pass when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
 * `Gen 29:13` And it *_came_* to pass when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, embraced him, kissed him, and brought him to his house. And he told Laban all these things.
 * `Gen 29:23` And it *_came_* to pass in the evening, that he took Leah his daughter and brought her to him, and he went in to her.
 * `Gen 29:25` And it *_came_* to pass, that in the morning, behold, it was Leah. And he said to Laban, "What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?"
 * `Gen 30:16` And Jacob *_came_* from the field in the evening, and Leah went out to meet him and said, "You must come in to me. For surely I have hired you with my son's mandrakes." And he lay with her that night.
-* `Gen 30:25` And it *_came_* to pass, when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
+* `Gen 30:25` And it *_came_* to pass when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
 * `Gen 30:30` For it was little which you had before I *_came_*, and it is now increased to a multitude, and the LORD has blessed you since my coming. And now when shall I provide for my own house also?"
 * `Gen 30:38` And he set the rods, which he had peeled, before the flocks in the gutters in the watering-troughs when the flocks *_came_* to drink so that they should conceive when they *_came_* to drink.
 * `Gen 30:41` And it *_came_* to pass whenever the stronger flock conceived, that Jacob laid the rods before the eyes of the flock in the gutters so that they might conceive among the rods.
@@ -1515,7 +1515,7 @@ _25 verses containing CALVES_
 * `Deu 1:24` And they turned and ascended the mountain and *_came_* to the valley of Eshcol and explored it.
 * `Deu 1:31` And in the wilderness, where you have seen how the LORD your God bore you, as a man bears his son, in all the way that you went until you *_came_* into this place.'
 * `Deu 1:44` And the Amorites, who dwelt on that mountain, *_came_* out against you and chased you, as bees do, and destroyed you in Seir, even to Hormah.
-* `Deu 2:14` And the space in which we *_came_* from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
+* `Deu 2:14` And the time in which we *_came_* from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
 * `Deu 2:16` "So it *_came_* to pass, when all the men of war were consumed and dead from among the people,
 * `Deu 2:23` And the Avims who dwelt in Hazerim even to Azzah, the Caphtorims, who *_came_* forth from Caphtor, destroyed them and dwelt in their stead.)
 * `Deu 2:32` "Then Sihon *_came_* out against us—he and all his people—to fight at Jahaz.
@@ -2996,7 +2996,7 @@ _25 verses containing CALVES_
 * `Act 4:1` And as they were speaking to the people, the priests, the captain of the temple, and the Sadducees *_came_* upon them,
 * `Act 4:5` And it *_came_* to pass on the next day, that their rulers, elders, and scribes,
 * `Act 5:5` And Ananias, hearing these words, fell down and expired. And great fear *_came_* on all those who heard these things.
-* `Act 5:7` And it was about the space of three hours after when his wife, not knowing what was done, *_came_* in.
+* `Act 5:7` And it was about three hours later when his wife, not knowing what was done, *_came_* in.
 * `Act 5:10` Then she fell down immediately at his feet and expired. And the young men *_came_* in and found her dead, and carrying her forth, buried her by her husband.
 * `Act 5:11` And great fear *_came_* upon all the church and upon as many as heard these things.
 * `Act 5:16` There also *_came_* a multitude out of the cities around to Jerusalem bringing sick persons and those who were afflicted with unclean spirits, and they were all healed.
@@ -3132,7 +3132,7 @@ _25 verses containing CALVES_
 * `Rev 14:15` And another angel *_came_* out of the temple, crying with a loud voice to him who sat on the cloud, "Thrust in your sickle and reap, for the time has come for you to reap, because the harvest of the earth is ripe."
 * `Rev 14:17` And another angel *_came_* out of the temple which is in heaven, he also having a sharp sickle.
 * `Rev 14:18` And another angel *_came_* out from the altar, who had power over fire, and cried with a loud cry to him who had the sharp sickle, saying, "Thrust in your sharp sickle and gather the clusters of the vine of the earth, for her grapes are fully ripe."
-* `Rev 14:20` And the wine-press was trodden outside the city, and blood *_came_* out of the wine-press, even to the horses' bridles, by the space of one thousand and six hundred furlongs.
+* `Rev 14:20` And the wine-press was trodden outside the city, and blood *_came_* out of the wine-press, even to the horses' bridles, as far as one thousand and six hundred furlongs.
 * `Rev 15:6` And the seven angels *_came_* out of the temple, having the seven plagues, clothed in pure and white linen, and having their chests girded with golden girdles.
 * `Rev 16:17` And the seventh angel poured out his vial into the air. And there *_came_* a great voice out of the temple of heaven from the throne, saying, "It is done."
 * `Rev 16:19` And the great city was divided into three parts, and the cities of the nations fell. And great Babylon *_came_* in remembrance before God, to give to her the cup of the wine of the fierceness of his wrath.

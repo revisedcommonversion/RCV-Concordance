@@ -26,9 +26,9 @@ _5 verses containing LAADAN_
 * `Gen 28:2` Arise, go to Padan-aram, to the house of Bethuel your mother's father, and take for yourself from there a wife from the daughters of *_Laban_* your mother's brother.
 * `Gen 28:5` And Isaac sent away Jacob. And he went to Padan-aram, to *_Laban_*, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.
 * `Gen 29:5` And he said to them, "Do you know *_Laban_* the son of Nahor?" And they said, "We know him."
-* `Gen 29:10` And it came to pass, when Jacob saw Rachel, the daughter of *_Laban_* his mother's brother, and the sheep of *_Laban_* his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of *_Laban_* his mother's brother.
+* `Gen 29:10` And it came to pass when Jacob saw Rachel, the daughter of *_Laban_* his mother's brother, and the sheep of *_Laban_* his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of *_Laban_* his mother's brother.
 * `Gen 29:13` And it came to pass when *_Laban_* heard the tidings of Jacob his sister's son, that he ran to meet him, embraced him, kissed him, and brought him to his house. And he told *_Laban_* all these things.
-* `Gen 29:14` And *_Laban_* said to him, "Surely you are my bone and my flesh." And he stayed with him the space of a month.
+* `Gen 29:14` And *_Laban_* said to him, "Surely you are my bone and my flesh." And he stayed with him for a month.
 * `Gen 29:15` And *_Laban_* said to Jacob, "Because you are my brother, should you therefore serve me for nothing? Tell me, what shall your wages be?"
 * `Gen 29:16` And *_Laban_* had two daughters: the name of the elder was Leah and the name of the younger was Rachel.
 * `Gen 29:19` And *_Laban_* said, "It is better that I give her to you than that I should give her to another man. Abide with me."
@@ -38,7 +38,7 @@ _5 verses containing LAADAN_
 * `Gen 29:25` And it came to pass, that in the morning, behold, it was Leah. And he said to *_Laban_*, "What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?"
 * `Gen 29:26` And *_Laban_* said, "It must not be thus done in our country to give the younger before the first-born.
 * `Gen 29:29` And *_Laban_* gave Bilhah his servant to Rachel his daughter to be her servant.
-* `Gen 30:25` And it came to pass, when Rachel had borne Joseph, that Jacob said to *_Laban_*, "Send me away so that I may go to my own place and to my country.
+* `Gen 30:25` And it came to pass when Rachel had borne Joseph, that Jacob said to *_Laban_*, "Send me away so that I may go to my own place and to my country.
 * `Gen 30:27` And *_Laban_* said to him, "I pray you, if I have found favor in your eyes, stay, for I have learned by experience that the LORD has blessed me for your sake."
 * `Gen 30:34` And *_Laban_* said, "Behold, let it be according to your word."
 * `Gen 30:36` And he set three days' journey between himself and Jacob. And Jacob fed the rest of *_Laban_*'s flocks.
@@ -937,7 +937,7 @@ _100 verses containing LAMB_
 
 * `Gen 21:28` And Abraham set seven ewe-*_lambs_* of the flock by themselves.
 * `Gen 21:29` And Abimelech said to Abraham, "What do these seven ewe-*_lambs_* mean which you have set by themselves?"
-* `Gen 21:30` And he said, "For these seven ewe-*_lambs_* you shall take from my hand so that they may be a witness to me that I have dug this well."
+* `Gen 21:30` And he said, "You shall take these seven ewe-*_lambs_* from my hand so that they may be a witness to me that I have dug this well."
 * `Gen 30:40` And Jacob separated the *_lambs_*, and set the faces of the flocks toward the striped and all the brown in the flock of Laban. And he put his own flocks by themselves, and did not put them with Laban's flock.
 * `Exo 29:38` "Now this is that which you shall offer upon the altar: two *_lambs_* of the first year, day by day continually.
 * `Lev 14:10` "And on the eighth day he shall take two male *_lambs_* without blemish, one ewe-lamb of the first year without blemish, three tenth-parts of fine flour for a food-offering mingled with oil, and one log of oil.
@@ -3198,8 +3198,10 @@ _1 verse containing LATELY_
 == LATER
 
 * `Pro 20:25` It is a snare to the man who devours that which is holy and *_later_* vows to make inquiry.
+* `Luk 22:59` And about an hour *_later_*, another confidently affirmed, saying, "In truth this man was also with him, for he is a Galilean."
+* `Act 5:7` And it was about three hours *_later_* when his wife, not knowing what was done, came in.
 
-_1 verse containing LATER_
+_3 verses containing LATER_
 
 == LATIN
 

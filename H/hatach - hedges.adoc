@@ -705,7 +705,7 @@ _1 verse containing HAZAZON-TAMAR_
 
 == HAZEL
 
-* `Gen 30:37` And Jacob took for himself rods of green poplar and of the *_hazel_* and plane-tree, and peeled white streaks in them, and made the white appear which was in the rods.
+* `Gen 30:37` And Jacob took for himself rods of green poplar, *_hazel_*, and plane-tree, and peeled white streaks in them and made the white appear which was in the rods.
 
 _1 verse containing HAZEL_
 
@@ -1573,6 +1573,7 @@ _20 verses containing HEAPS_
 
 * `Gen 4:23` And Lamech said to his wives, "Adah and Zillah, *_hear_* my voice. Wives of Lamech, listen to my speech. For I have slain a man for wounding me, even a young man for hurting me.
 * `Gen 21:6` And Sarah said, "God has made me to laugh so that all who *_hear_* will laugh with me."
+* `Gen 21:26` And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither did I *_hear_* about it until today."
 * `Gen 23:6` "*_Hear_* us, my lord. You are a mighty prince among us. In the choice of our sepulchers bury your dead. None of us will withhold from you his sepulcher so that you may bury your dead."
 * `Gen 23:8` And he spoke with them, saying, "If it is your mind that I should bury my dead out of my sight, *_hear_* me, and entreat for me to Ephron the son of Zohar,
 * `Gen 23:11` "No, my lord, *_hear_* me. I give the field to you, and I give you the cave that is in it. In the presence of the sons of my people I give it to you. Bury your dead."
@@ -2094,7 +2095,7 @@ _20 verses containing HEAPS_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues still did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, *_hear_*, nor walk.
 * `Rev 13:9` If any man has an ear, let him *_hear_*.
 
-_522 verses containing HEAR_
+_523 verses containing HEAR_
 
 == HEARD
 
@@ -2105,7 +2106,6 @@ _522 verses containing HEAR_
 * `Gen 17:20` And as for Ishmael, I have *_heard_* you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. He shall beget twelve princes, and I will make him a great nation.
 * `Gen 18:10` And he said, "I will certainly return to you according to the time of life, and behold, Sarah your wife shall have a son." And Sarah *_heard_* it in the tent door, which was behind him.
 * `Gen 21:17` And God *_heard_* the voice of the boy. And the angel of God called to Hagar out of heaven and said to her, "What ails you, Hagar? Do not fear, for God has *_heard_* the voice of the boy where he is.
-* `Gen 21:26` And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither yet have I *_heard_* of it, but today."
 * `Gen 24:30` And it came to pass when he saw the earring and bracelets upon his sister's hands, and when he *_heard_* the words of Rebekah his sister, saying, "Thus spoke the man to me," that he came to the man. And behold, he stood by the camels at the well.
 * `Gen 24:52` And it came to pass, that when Abraham's servant *_heard_* their words, he worshiped the LORD, bowing himself to the earth.
 * `Gen 27:5` And Rebekah *_heard_* when Isaac spoke to Esau his son. And Esau went to the field to hunt for wild game and to bring it.
@@ -2644,7 +2644,7 @@ _522 verses containing HEAR_
 * `Act 18:26` And he began to speak boldly in the synagogue, but when Aquila and Priscilla had *_heard_*, they took him aside and expounded to him the way of God more perfectly.
 * `Act 19:2` He said to them, "Have you received the Holy Spirit since you believed?" And they said to him, "We have not so much as *_heard_* whether there is any Holy Spirit."
 * `Act 19:5` When they *_heard_* this, they were baptized into the name of the Lord Jesus.
-* `Act 19:10` And this continued for the space of two years so that all those who dwelt in Asia *_heard_* the word of the Lord Jesus—both Jews and Greeks.
+* `Act 19:10` And this continued for two years so that all those who dwelt in Asia *_heard_* the word of the Lord Jesus—both Jews and Greeks.
 * `Act 19:28` And when they *_heard_* these sayings, they were full of wrath and cried out, saying, "Diana of the Ephesians is great."
 * `Act 21:12` And when we *_heard_* these things, both we and those of that place implored him not to go up to Jerusalem.
 * `Act 21:20` And when they *_heard_* it, they glorified the Lord and said to him, "You see, brother, how many thousands of Jews there are who believe, and they are all zealous of the law.
@@ -2727,7 +2727,7 @@ _522 verses containing HEAR_
 * `Rev 21:3` And I *_heard_* a great voice out of heaven, saying, "Behold, the tabernacle of God is with men. He will dwell with them, and they shall be his people, and God himself will be with them and be their God.
 * `Rev 22:8` And I, John, saw these things and *_heard_* them. And when I had *_heard_* and seen, I fell down to worship before the feet of the angel who showed me these things.
 
-_628 verses containing HEARD_
+_627 verses containing HEARD_
 
 == HEARER
 
@@ -4545,7 +4545,7 @@ _1 verse containing HEAVED_
 * `Rev 5:13` And every creature which is in *_heaven_*, on the earth, under the earth, and those which are in the sea, and all which are in them, I heard saying, "Blessing, honor, glory, and power be to him who sits upon the throne and to the Lamb forever and ever."
 * `Rev 6:13` And the stars of *_heaven_* fell to the earth, even as a fig-tree casts its untimely figs when it is shaken by a mighty wind.
 * `Rev 6:14` And the *_heaven_* departed as a scroll when it is rolled together, and every mountain and island was moved out of its place.
-* `Rev 8:1` And when he had opened the seventh seal, there was silence in *_heaven_* about the space of half an hour.
+* `Rev 8:1` And when he had opened the seventh seal, there was silence in *_heaven_* for about half an hour.
 * `Rev 8:10` And the third angel sounded, and there fell a great star from *_heaven_*, burning like a lamp, and it fell upon the third part of the rivers and upon the fountains of waters.
 * `Rev 8:13` And I beheld, and heard an angel flying through the midst of *_heaven_*, saying with a loud voice, "Woe, woe, woe to those who dwell on the earth by reason of the other voices of the trumpet of the three angels which are about to sound!"
 * `Rev 9:1` And the fifth angel sounded, and I saw a star fall from *_heaven_* to the earth. And the key of the bottomless pit was given to him.

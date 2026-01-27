@@ -993,7 +993,7 @@ _2 verses containing ABIMAEL_
 * `Gen 20:18` For the LORD had made barren all the females of the house of *_Abimelech_* because of Sarah, Abraham's wife.
 * `Gen 21:22` And it came to pass at that time, that *_Abimelech_* and Phichol the chief captain of his host spoke to Abraham, saying, "God is with you in all that you do.
 * `Gen 21:25` And Abraham reproved *_Abimelech_* because of a well of water, which *_Abimelech_*'s servants had violently taken away.
-* `Gen 21:26` And *_Abimelech_* said, "I do not know who has done this thing, neither did you tell me, neither yet have I heard of it, but today."
+* `Gen 21:26` And *_Abimelech_* said, "I do not know who has done this thing, neither did you tell me, neither did I hear about it until today."
 * `Gen 21:27` And Abraham took sheep and oxen and gave them to *_Abimelech_*, and both of them made a covenant.
 * `Gen 21:29` And *_Abimelech_* said to Abraham, "What do these seven ewe-lambs mean which you have set by themselves?"
 * `Gen 21:32` Thus they made a covenant at Beer-sheba. Then *_Abimelech_* arose, with Phichol the chief captain of his host, and they returned into the land of the Philistines.
@@ -1657,6 +1657,7 @@ _3 verses containing ABOUNDS_
 
 * `Gen 20:2` And Abraham said *_about_* Sarah his wife, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
 * `Gen 21:16` And she went and sat herself down over against him a good way off, *_about_* a bow-shot, for she said, "Do not let me see the death of the child." And she sat over against him and raised her voice and wept.
+* `Gen 21:26` And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither did I hear *_about_* it until today."
 * `Gen 26:7` And the men of the place asked him *_about_* his wife, and he said, "She is my sister," for he feared to say, "She is my wife"—"lest the men of the place should kill me for Rebekah, because she is fair to look upon."
 * `Gen 31:20` And Jacob deceived Laban the Syrian, in that he did not tell him that he was *_about_* to depart.
 * `Gen 38:24` And it came to pass *_about_* three months after, that it was told to Judah, saying, "Tamar your daughter-in-law has played the harlot, and also, behold she is with child by lewdness." And Judah said, "Bring her forth and let her be burnt."
@@ -1779,7 +1780,7 @@ _3 verses containing ABOUNDS_
 * `Luk 9:31` Who appeared in glory and spoke *_about_* his departure which he should accomplish at Jerusalem.
 * `Luk 10:41` And Jesus answered, and said to her, "Martha, Martha, you are anxious and troubled *_about_* many things.
 * `Luk 22:41` And he withdrew from them *_about_* a stone's cast, knelt down, and prayed,
-* `Luk 22:59` And *_about_* the space of one hour after, another confidently affirmed, saying, "In truth this man was also with him, for he is a Galilean."
+* `Luk 22:59` And *_about_* an hour later, another confidently affirmed, saying, "In truth this man was also with him, for he is a Galilean."
 * `Luk 23:44` And it was *_about_* the sixth hour, and there was a darkness over all the land until the ninth hour.
 * `Luk 24:13` And behold, two of them went that same day to a village called Emmaus, which was from Jerusalem *_about_* sixty furlongs.
 * `Jhn 1:39` He says to them, "Come and see." They came and saw where he dwelt and stayed with him that day, for it was *_about_* the tenth hour.
@@ -1803,7 +1804,7 @@ _3 verses containing ABOUNDS_
 * `Act 2:41` Then those who gladly received his word were baptized. And the same day there were added to them *_about_* three thousand souls.
 * `Act 3:3` Seeing Peter and John *_about_* to go into the temple, he asked for alms.
 * `Act 4:4` But many of them who heard the word believed. And the number of the men was *_about_* five thousand.
-* `Act 5:7` And it was *_about_* the space of three hours after when his wife, not knowing what was done, came in.
+* `Act 5:7` And it was *_about_* three hours later when his wife, not knowing what was done, came in.
 * `Act 5:36` For before these days, Theudas rose, boasting himself to be somebody, to whom a number of *_about_* four hundred men joined themselves. He was slain, and as many as obeyed him were all scattered and brought to nothing.
 * `Act 10:3` *_About_* the ninth hour of the day, he clearly saw in a vision an angel of God coming to him and saying to him, "Cornelius."
 * `Act 10:9` On the next day, as they were going on their journey and drew near to the city, Peter went up upon the house-top *_about_* the sixth hour to pray.
@@ -1811,13 +1812,13 @@ _3 verses containing ABOUNDS_
 * `Act 12:1` Now *_about_* that time, Herod the king stretched forth his hands to afflict some of the church.
 * `Act 12:18` Now as soon as it was day, there was no small stir among the soldiers *_about_* what had become of Peter.
 * `Act 13:18` And *_about_* the time of forty years he put up with their manners in the wilderness.
-* `Act 13:20` And after that, he gave judges to them, *_about_* the space of four hundred and fifty years, until Samuel the prophet.
+* `Act 13:20` And after that, he gave judges to them, for *_about_* four hundred and fifty years, until Samuel the prophet.
 * `Act 15:2` Therefore, when Paul and Barnabas had no small dissension and disputation with them, they determined that Paul, Barnabas, and some others of them should go to Jerusalem to the apostles and elders *_about_* this question.
 * `Act 16:27` And the keeper of the prison, awaking out of his sleep and seeing the prison doors open, drew out his sword and was *_about_* to kill himself, supposing that the prisoners had fled.
 * `Act 18:14` And when Paul was now *_about_* to open his mouth, Gallio said to the Jews, "If it were a matter of wrong, or heinous crime, O Jews, it would be reasonable that I should bear with you.
 * `Act 19:7` And they were *_about_* twelve men in all.
 * `Act 19:23` And the same time there arose no small stir *_about_* that way.
-* `Act 19:34` But when they knew that he was a Jew, all with one voice *_about_* the space of two hours cried out, "Diana of the Ephesians is great."
+* `Act 19:34` But when they knew that he was a Jew, all with one voice for *_about_* two hours cried out, "Diana of the Ephesians is great."
 * `Act 20:3` And stayed there three months. And when the Jews laid wait for him, as he was *_about_* to sail into Syria, he purposed to return through Macedonia.
 * `Act 22:6` "And it came to pass, that as I was passing on my journey and had come near to Damascus *_about_* noon, suddenly there shone from heaven a great light around me.
 * `Act 22:29` Then immediately those who were *_about_* to examine him departed from him. And the chief captain also was afraid after he knew that he was a Roman and because he had bound him.
@@ -1843,13 +1844,13 @@ _3 verses containing ABOUNDS_
 * `Heb 8:5` Who serve to the example and shadow of heavenly things, as Moses was admonished by God when he was *_about_* to make the tabernacle, for he says, "See that you make all things according to the pattern shown to you on the mountain."
 * `2Pe 3:16` As also in all his epistles, speaking in them *_about_* these things, in which are some things hard to understand, which those who are unlearned and unstable wrest, as they also do the other Scriptures, to their own destruction.
 * `Jde 1:9` Yet Michael the archangel, when contending with the devil and disputing *_about_* the body of Moses, did not dare bring against him a railing accusation, but said, "May the Lord rebuke you."
-* `Rev 8:1` And when he had opened the seventh seal, there was silence in heaven *_about_* the space of half an hour.
+* `Rev 8:1` And when he had opened the seventh seal, there was silence in heaven for *_about_* half an hour.
 * `Rev 8:13` And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, "Woe, woe, woe to those who dwell on the earth by reason of the other voices of the trumpet of the three angels which are *_about_* to sound!"
 * `Rev 10:4` And when the seven thunders had uttered their voices, I was *_about_* to write, but I heard a voice from heaven saying to me, "Seal up those things which the seven thunders uttered and do not write them."
 * `Rev 10:7` But in the days of the voice of the seventh angel, when he is *_about_* to sound, then the mystery of God is finished, as he has declared to his servants the prophets.
 * `Rev 16:21` And there fell upon men a great hail out of heaven, every stone *_about_* the weight of a talent. And men blasphemed God because of the plague of the hail, because its plague was exceedingly great.
 
-_193 verses containing ABOUT_
+_194 verses containing ABOUT_
 
 == ABOVE
 
@@ -2345,7 +2346,7 @@ _51 verses containing ABRAM_
 * `Gen 11:9` Therefore, its name is called Babel, because there the LORD confounded the language of all the earth. And from there the LORD scattered them *_abroad_* upon the face of all the earth.
 * `Gen 15:5` And he brought him forth *_abroad_* and said, "Now look toward heaven and tell the stars, if you are able to number them." And he said to him, "Thus shall your offspring be."
 * `Gen 19:17` And it came to pass when they had brought them forth *_abroad_*, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
-* `Gen 28:14` And your offspring shall be as the dust of the earth, and you shall spread *_abroad_* to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
+* `Gen 28:14` And your offspring shall be like the dust of the earth, and you shall spread *_abroad_* to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
 * `Exo 5:12` So the people were scattered *_abroad_* throughout all the land of Egypt to gather stubble instead of straw.
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I will spread *_abroad_* my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
 * `Exo 9:33` And Moses went out of the city from Pharaoh and spread *_abroad_* his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.

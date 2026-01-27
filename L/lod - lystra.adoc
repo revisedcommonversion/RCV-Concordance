@@ -1183,7 +1183,7 @@ _1 verse containing LOP_
 * `Gen 24:7` The *_LORD_* God of heaven who took me from my father's house and from the land of my kindred, and who spoke to me and who swore to me, saying, 'To your offspring I will give this land,' he will send his angel before you, and you shall take a wife for my son from there.
 * `Gen 24:12` And he said, "O *_LORD_* God of my master Abraham, I pray you, prosper me this day and show kindness to my master Abraham.
 * `Gen 24:18` And she said, "Drink, my *_lord_*." And she hastened and let down her pitcher upon her hand and gave him drink.
-* `Gen 24:21` And the man, wondering at her, held his peace to know whether the *_LORD_* had made his journey prosperous, or not.
+* `Gen 24:21` And the man, wondering at her, held his peace to know whether the *_LORD_* had made his journey prosperous or not.
 * `Gen 24:26` And the man bowed his head and worshiped the *_LORD_*.
 * `Gen 24:27` And he said, "Blessed be the *_LORD_* God of my master Abraham, who has not left my master destitute of his mercy and his truth. I being in the way, the *_LORD_* led me to the house of my master's brothers."
 * `Gen 24:31` And he said, "Come in, you blessed of the *_LORD_*. Why do you stand outside? For I have prepared the house, and room for the camels."
@@ -1206,9 +1206,9 @@ _1 verse containing LOP_
 * `Gen 26:25` And he built an altar there and called upon the name of the *_LORD_* and pitched his tent there. And Isaac's servants dug a well there.
 * `Gen 26:28` And they said, "We saw certainly that the *_LORD_* was with you. And we said, 'Let there now be an oath between us, even between us and you, and let us make a covenant with you,
 * `Gen 26:29` That you will do us no hurt, as we have not touched you and as we have done to you nothing but good and have sent you away in peace. You are now the blessed of the *_LORD_*.'"
-* `Gen 27:7` 'Bring me wild game and make me savory food so that I may eat and bless you before the *_LORD_* before my death.'
+* `Gen 27:7` 'Bring me wild game and make me savory food so that I may eat and bless you in the presence of the *_LORD_* before my death.'
 * `Gen 27:20` And Isaac said to his son, "How is it that you have found it so quickly, my son?" And he said, "Because the *_LORD_* your God brought it to me."
-* `Gen 27:27` And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is as the smell of a field which the *_LORD_* has blessed.
+* `Gen 27:27` And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is like the smell of a field which the *_LORD_* has blessed.
 * `Gen 27:29` Let people serve you and nations bow down to you. Be *_lord_* over your brothers, and let your mother's sons bow down to you. Cursed is everyone who curses you, and blessed is he who blesses you."
 * `Gen 27:37` And Isaac answered and said to Esau, "Behold, I have made him your *_lord_*, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. And what shall I do now to you, my son?"
 * `Gen 28:13` And behold, the *_LORD_* stood above it and said, "I am the *_LORD_* God of Abraham your father and the God of Isaac. The land on which you lie, I will give it to you and to your offspring.
@@ -2270,7 +2270,7 @@ _1 verse containing LOP_
 * `Deu 2:7` For the *_LORD_* your God has blessed you in all the works of your hand. He knows your walking through this great wilderness. These forty years the *_LORD_* your God has been with you. You have lacked nothing."'
 * `Deu 2:9` And the *_LORD_* said to me, 'Do not distress the Moabites, neither contend with them in battle, for I will not give you any of their land for a possession, because I have given Ar to the children of Lot for a possession.'
 * `Deu 2:12` The Horims also dwelt formerly in Seir, but the children of Esau succeeded them when they had destroyed them from before them and dwelt in their stead, as Israel did to the land of his possession, which the *_LORD_* gave to them.)
-* `Deu 2:14` And the space in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the *_LORD_* swore to them.
+* `Deu 2:14` And the time in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the *_LORD_* swore to them.
 * `Deu 2:15` For indeed the hand of the *_LORD_* was against them, to destroy them from among the host, until they were consumed.
 * `Deu 2:17` That the *_LORD_* spoke to me, saying,
 * `Deu 2:21` A people great and many and tall as the Anakims. But the *_LORD_* destroyed them before them, and they succeeded them and dwelt in their stead,
@@ -5958,7 +5958,7 @@ _1 verse containing LOP_
 * `Jer 28:5` Then the prophet Jeremiah said to the prophet Hananiah in the presence of the priests and in the presence of all the people who stood in the house of the *_LORD_*,
 * `Jer 28:6` Even the prophet Jeremiah said, "Amen. May the *_LORD_* do so. May the *_LORD_* perform your words which you have prophesied, to bring back the vessels of the *_LORD_*'S house and all that is carried away captive from Babylon into this place.
 * `Jer 28:9` The prophet who prophesies of peace, when the word of the prophet comes to pass, the prophet shall be known that the *_LORD_* has truly sent him."
-* `Jer 28:11` And Hananiah spoke in the presence of all the people, saying, "Thus says the *_LORD_*: 'Even so I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years.'" And the prophet Jeremiah went his way.
+* `Jer 28:11` And Hananiah spoke in the presence of all the people, saying, "Thus says the *_LORD_*: 'Even so I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within two full years.'" And the prophet Jeremiah went his way.
 * `Jer 28:12` Then the word of the *_LORD_* came to Jeremiah after Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,
 * `Jer 28:13` "Go and tell Hananiah, saying, 'Thus says the *_LORD_*: "You have broken the yokes of wood, but you shall make for them yokes of iron."
 * `Jer 28:14` For thus says the *_LORD_* of hosts, the God of Israel: "I have put a yoke of iron upon the neck of all these nations so that they may serve Nebuchadnezzar king of Babylon, and they shall serve him. And I have given him the beasts of the field also."'"
@@ -7457,7 +7457,7 @@ _1 verse containing LOP_
 * `Act 18:9` Then the *_Lord_* spoke to Paul in the night by a vision: "Do not be afraid, but speak, and do not hold your peace.
 * `Act 18:25` This man was instructed in the way of the *_Lord_*, and being fervent in spirit, he spoke and diligently taught the things of the *_Lord_*, knowing only the baptism of John.
 * `Act 19:5` When they heard this, they were baptized into the name of the *_Lord_* Jesus.
-* `Act 19:10` And this continued for the space of two years so that all those who dwelt in Asia heard the word of the *_Lord_* Jesus—both Jews and Greeks.
+* `Act 19:10` And this continued for two years so that all those who dwelt in Asia heard the word of the *_Lord_* Jesus—both Jews and Greeks.
 * `Act 19:13` Then some of the vagabond Jews, exorcists, took upon themselves to invoke the name of the *_Lord_* Jesus over those who had evil spirits, saying, "We adjure you by Jesus whom Paul preaches."
 * `Act 19:17` And this was known to all the Jews and Greeks also dwelling at Ephesus. And fear fell on them all, and the name of the *_Lord_* Jesus was magnified.
 * `Act 20:19` Serving the *_Lord_* with all humility of mind and with many tears and temptations which befell me by the lying in wait of the Jews,
@@ -8180,7 +8180,7 @@ _1 verse containing LOUDER_
 
 * `Gen 22:2` And he said, "Now take your son, your only son Isaac, whom you *_love_*, and go into the land of Moriah and offer him there for a burnt-offering upon one of the mountains which I will name to you."
 * `Gen 27:4` And make me savory food such as I *_love_* and bring it to me so that I may eat, so that my soul may bless you before I die."
-* `Gen 29:20` And Jacob served seven years for Rachel, and they seemed to him but a few days because of the *_love_* he had for her.
+* `Gen 29:20` And Jacob served seven years for Rachel, and they seemed to him only a few days because of the *_love_* he had for her.
 * `Gen 29:32` And Leah conceived and bore a son, and she called his name Reuben, for she said, "Surely the LORD has looked upon my affliction; therefore, now my husband will *_love_* me."
 * `Exo 20:6` And showing mercy to thousands of those who *_love_* me and keep my commandments.
 * `Exo 21:5` And if the servant plainly says, 'I *_love_* my master, my wife, and my children. I will not depart free,'
@@ -8475,10 +8475,10 @@ _291 verses containing LOVE_
 == LOVED
 
 * `Gen 24:67` And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife, and he *_loved_* her. And Isaac was comforted after his mother's death.
-* `Gen 25:28` And Isaac *_loved_* Esau because he ate of his wild game, but Rebekah *_loved_* Jacob.
+* `Gen 25:28` And Isaac *_loved_* Esau because he ate his wild game, but Rebekah *_loved_* Jacob.
 * `Gen 27:14` And he went and took and brought them to his mother. And his mother made savory food such as his father *_loved_*.
 * `Gen 29:18` And Jacob *_loved_* Rachel and said, "I will serve you seven years for Rachel your younger daughter."
-* `Gen 29:30` And he went in also to Rachel, and he also *_loved_* Rachel more than Leah, and served with him yet seven other years.
+* `Gen 29:30` And he went in also to Rachel, and he also *_loved_* Rachel more than Leah, and served with him for seven more years.
 * `Gen 34:3` And his soul cleaved to Dinah the daughter of Jacob, and he *_loved_* the young woman and spoke kindly to the young woman.
 * `Gen 37:3` Now Israel *_loved_* Joseph more than all his children because he was the son of his old age. And he made him a coat of many colors.
 * `Gen 37:4` And when his brothers saw that their father *_loved_* him more than all his brothers, they hated him and could not speak peaceably to him.

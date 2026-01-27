@@ -662,7 +662,7 @@ _1 verse containing HUMTAH_
 * `Act 1:15` And in those days, Peter stood up in the midst of the disciples, and said (the number of the names together were about one *_hundred_* and twenty),
 * `Act 5:36` For before these days, Theudas rose, boasting himself to be somebody, to whom a number of about four *_hundred_* men joined themselves. He was slain, and as many as obeyed him were all scattered and brought to nothing.
 * `Act 7:6` And God spoke in this way, that 'his offspring should sojourn in a foreign land, and that they should bring them into bondage and treat them ill four *_hundred_* years.'
-* `Act 13:20` And after that, he gave judges to them, about the space of four *_hundred_* and fifty years, until Samuel the prophet.
+* `Act 13:20` And after that, he gave judges to them, for about four *_hundred_* and fifty years, until Samuel the prophet.
 * `Act 23:23` And he called two centurions to him, saying, "Make ready two *_hundred_* soldiers, seventy horsemen, and two *_hundred_* spearmen to go to Caesarea at the third hour of the night.
 * `Act 27:37` In all, we were two *_hundred_* and seventy-six souls on the ship.
 * `Rom 4:19` And not having been weak in faith, he did not consider his own body now dead when he was about one *_hundred_* years old, neither yet the deadness of Sarah's womb.
@@ -675,7 +675,7 @@ _1 verse containing HUMTAH_
 * `Rev 13:18` Here is wisdom. Let him who has understanding count the number of the beast, for it is the number of a man. And his number is six *_hundred_* and sixty-six.
 * `Rev 14:1` And I looked, and behold, a Lamb stood on mount Zion, and with him one *_hundred_* and forty-four thousand, having his Father's name written on their foreheads.
 * `Rev 14:3` And they sang a new song before the throne and before the four beasts and the elders. And no man could learn that song but the one *_hundred_* and forty-four thousand who were redeemed from the earth.
-* `Rev 14:20` And the wine-press was trodden outside the city, and blood came out of the wine-press, even to the horses' bridles, by the space of one thousand and six *_hundred_* furlongs.
+* `Rev 14:20` And the wine-press was trodden outside the city, and blood came out of the wine-press, even to the horses' bridles, as far as one thousand and six *_hundred_* furlongs.
 * `Rev 21:17` And he measured its wall: one *_hundred_* and forty-four cubits, according to the measure of a man, which is also of an angel.
 
 _527 verses containing HUNDRED_
@@ -868,7 +868,7 @@ _1 verse containing HUNTERS_
 
 == HUNTING
 
-* `Gen 27:30` And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob had yet scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his *_hunting_*.
+* `Gen 27:30` And it came to pass as soon as Isaac had made an end of blessing Jacob, and Jacob had scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his *_hunting_*.
 * `Pro 12:27` The slothful man does not roast that which he took in *_hunting_*, but the substance of a diligent man is precious.
 
 _2 verses containing HUNTING_

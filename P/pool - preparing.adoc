@@ -254,7 +254,7 @@ _2 verses containing POOREST_
 
 == POPLAR
 
-* `Gen 30:37` And Jacob took for himself rods of green *_poplar_* and of the hazel and plane-tree, and peeled white streaks in them, and made the white appear which was in the rods.
+* `Gen 30:37` And Jacob took for himself rods of green *_poplar_*, hazel, and plane-tree, and peeled white streaks in them and made the white appear which was in the rods.
 
 _1 verse containing POPLAR_
 
@@ -641,7 +641,6 @@ _1 verse containing POSSESSING_
 * `Gen 23:9` So that he may give me the cave of Machpelah, which he has, which is in the end of his field. For as much money as it is worth he shall give it to me as a *_possession_* for a burying-place among you."
 * `Gen 23:18` To Abraham for a *_possession_* in the presence of the children of Heth, before all who entered the gate of his city.
 * `Gen 23:20` And the field and the cave that is in it were made sure to Abraham for a *_possession_* for a burying-place by the sons of Heth.
-* `Gen 26:14` For he had *_possession_* of flocks and *_possession_* of herds, and very many servants. And the Philistines envied him.
 * `Gen 36:43` Chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations, in the land of their *_possession_*. He is Esau the father of the Edomites.
 * `Gen 47:11` And Joseph placed his father and his brothers and gave them a *_possession_* in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 * `Gen 48:4` And said to me, 'Behold I will make you fruitful and multiply you, and I will make you into a multitude of people, and will give this land to your offspring after you for an everlasting *_possession_*.'
@@ -728,10 +727,11 @@ _1 verse containing POSSESSING_
 * `Act 7:45` Which also our fathers, in their turn, brought in with Joshua when they entered into the *_possession_* of the nations, whom God drove out before the face of our fathers until the days of David,
 * `Eph 1:14` Which is the earnest of our inheritance until the redemption of the purchased *_possession_*, to the praise of his glory.
 
-_91 verses containing POSSESSION_
+_90 verses containing POSSESSION_
 
 == POSSESSIONS
 
+* `Gen 26:14` For he had *_possessions_* of flocks and *_possessions_* of herds, and very many servants. And the Philistines envied him.
 * `Gen 34:10` And you shall dwell with us, and the land shall be before you. Dwell and trade therein and get *_possessions_* therein."
 * `Gen 47:27` And Israel dwelt in the land of Egypt, in the country of Goshen. And they had *_possessions_* in it and grew and multiplied exceedingly.
 * `Num 32:30` But if they will not pass over with you armed, they shall have *_possessions_* among you in the land of Canaan."
@@ -747,7 +747,7 @@ _91 verses containing POSSESSION_
 * `Luk 8:3` Joanna (the wife of Chuza, Herod's steward), Susanna, and many others who ministered to him from their *_possessions_*.
 * `Act 2:45` And sold their *_possessions_* and goods and parted them to all men, as every man had need.
 
-_14 verses containing POSSESSIONS_
+_15 verses containing POSSESSIONS_
 
 == POSSESSOR
 
@@ -1894,7 +1894,7 @@ _3 verses containing PRATING_
 * `Gen 25:30` And Esau said to Jacob, "Feed me, I *_pray_* you, with that same red pottage, for I am faint." Therefore, his name was called Edom.
 * `Gen 27:3` Now therefore, take, I *_pray_* you, your weapons, your quiver and your bow, and go out to the field and hunt some wild game for me.
 * `Gen 27:19` And Jacob said to his father, "I am Esau your first-born. I have done according as you told me. Arise, I *_pray_* you, sit and eat some of my wild game so that your soul may bless me."
-* `Gen 27:21` And Isaac said to Jacob, "Come near, I *_pray_* you, so that I may feel you, my son, whether you are my very son Esau, or not."
+* `Gen 27:21` And Isaac said to Jacob, "Come near, I *_pray_* you, so that I may feel you, my son, whether you are my very son Esau or not."
 * `Gen 30:14` And Reuben went, in the days of wheat-harvest, and found mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, "Give me, I *_pray_* you, some of your son's mandrakes."
 * `Gen 30:27` And Laban said to him, "I *_pray_* you, if I have found favor in your eyes, stay, for I have learned by experience that the LORD has blessed me for your sake."
 * `Gen 32:11` Deliver me, I *_pray_* you, from the hand of my brother, from the hand of Esau, for I fear him, lest he should come and smite me with the mothers and the children.
@@ -2239,7 +2239,7 @@ _303 verses containing PRAY_
 * `Act 21:5` And when we had accomplished those days, we departed and proceeded on our way. And they all conducted us with wives and children until we were out of the city. And we kneeled down on the shore and *_prayed_*.
 * `Act 22:17` "And it came to pass, that when I had come to Jerusalem again, even while I *_prayed_* in the temple, I was in a trance
 * `Act 28:8` And it came to pass that the father of Publius lay sick with a fever and dysentery, to whom Paul entered in, *_prayed_*, laid his hands on him, and healed him.
-* `Jms 5:17` Elijah was a man subject to similar passions as we are, and he *_prayed_* earnestly that it might not rain, and it did not rain on the earth by the space of three years and six months.
+* `Jms 5:17` Elijah was a man subject to similar passions as we are, and he *_prayed_* earnestly that it might not rain, and it did not rain on the earth for three years and six months.
 * `Jms 5:18` And he *_prayed_* again, and the heaven gave rain and the earth brought forth its fruit.
 
 _60 verses containing PRAYED_

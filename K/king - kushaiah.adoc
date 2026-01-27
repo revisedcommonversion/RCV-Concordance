@@ -1522,7 +1522,7 @@
 * `Jer 28:2` "Thus speaks the LORD of hosts, the God of Israel, saying, 'I have broken the yoke of the *_king_* of Babylon.
 * `Jer 28:3` Within two full years I will bring back into this place all the vessels of the LORD'S house that Nebuchadnezzar *_king_* of Babylon took away from this place and carried to Babylon.
 * `Jer 28:4` And I will bring back to this place Jeconiah the son of Jehoiakim *_king_* of Judah with all the captives of Judah who went into Babylon,' says the LORD. 'For I will break the yoke of the *_king_* of Babylon.'"
-* `Jer 28:11` And Hananiah spoke in the presence of all the people, saying, "Thus says the LORD: 'Even so I will break the yoke of Nebuchadnezzar *_king_* of Babylon from the neck of all nations within the space of two full years.'" And the prophet Jeremiah went his way.
+* `Jer 28:11` And Hananiah spoke in the presence of all the people, saying, "Thus says the LORD: 'Even so I will break the yoke of Nebuchadnezzar *_king_* of Babylon from the neck of all nations within two full years.'" And the prophet Jeremiah went his way.
 * `Jer 28:14` For thus says the LORD of hosts, the God of Israel: "I have put a yoke of iron upon the neck of all these nations so that they may serve Nebuchadnezzar *_king_* of Babylon, and they shall serve him. And I have given him the beasts of the field also."'"
 * `Jer 29:2` (After Jeconiah the *_king_*, the queen, the eunuchs, the princes of Judah and Jerusalem, the carpenters, and the smiths had departed from Jerusalem)
 * `Jer 29:3` By the hand of Elasah the son of Shaphan and Gemariah the son of Hilkiah (whom Zedekiah *_king_* of Judah sent to Babylon to Nebuchadnezzar *_king_* of Babylon), saying,
@@ -1894,7 +1894,7 @@
 * `Act 7:18` Until 'another *_king_* arose who did not know Joseph.'
 * `Act 12:1` Now about that time, Herod the *_king_* stretched forth his hands to afflict some of the church.
 * `Act 12:20` And Herod was highly displeased with those of Tyre and Sidon. But they came with one accord to him, and having made Blastus the *_king_*'s chamberlain their friend, desired peace, because their country was nourished by the *_king_*'s country.
-* `Act 13:21` And afterward, they desired a *_king_*, and God gave Saul the son of Kish to them, a man of the tribe of Benjamin, by the space of forty years.
+* `Act 13:21` And afterward, they desired a *_king_*, and God gave Saul the son of Kish to them, a man of the tribe of Benjamin, for forty years.
 * `Act 13:22` And when he had removed him, he raised up to them David to be their *_king_*, to whom also he gave testimony, and said, '"I have found David" the son of Jesse, "a man after my own heart" who shall fulfill all my will.'
 * `Act 17:7` Whom Jason has received, and they all do contrary to the decrees of Caesar, saying that there is another *_king_*, Jesus."
 * `Act 25:13` And after some days, *_king_* Agrippa and Bernice came to Caesarea to salute Festus.
@@ -2215,7 +2215,7 @@ _1918 verses containing KING_
 * `Act 1:6` When they therefore had come together, they asked him, saying, "Lord, will you at this time restore the *_kingdom_* to Israel?"
 * `Act 8:12` But when they believed Philip as he preached the things concerning the *_kingdom_* of God and the name of Jesus Christ, they were baptized, both men and women.
 * `Act 14:22` Confirming the souls of the disciples, exhorting them to continue in the faith, and saying, "We must through much tribulation enter into the *_kingdom_* of God."
-* `Act 19:8` And he went into the synagogue and spoke boldly for the space of three months, disputing and persuading the things concerning the *_kingdom_* of God.
+* `Act 19:8` And he went into the synagogue and spoke boldly for three months, disputing and persuading the things concerning the *_kingdom_* of God.
 * `Act 20:25` "And now behold, I know that you all, among whom I have gone preaching the *_kingdom_* of God, will see my face no more.
 * `Act 28:23` And when they had appointed him a day, many came to him into his lodging. He expounded to them from morning until evening, testifying about the *_kingdom_* of God and persuading them concerning Jesus, both out of the law of Moses and out of the prophets.
 * `Act 28:31` Preaching the *_kingdom_* of God and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
@@ -2857,7 +2857,7 @@ _3 verses containing KIRJATHAIM_
 * `1Ch 26:28` And all that Samuel the seer, Saul the son of *_Kish_*, Abner the son of Ner, and Joab the son of Zeruiah had dedicated, and whoever had dedicated anything, it was under the hand of Shelomith and of his brothers.
 * `2Ch 29:12` Then the Levites arose: Mahath the son of Amasai and Joel the son of Azariah, of the sons of the Kohathites; and of the sons of Merari: *_Kish_* the son of Abdi and Azariah the son of Jehalelel; and of the Gershonites: Joah the son of Zimmah and Eden the son of Joah;
 * `Est 2:5` Now in the palace of Shushan there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of *_Kish_*, a Benjaminite,
-* `Act 13:21` And afterward, they desired a king, and God gave Saul the son of *_Kish_* to them, a man of the tribe of Benjamin, by the space of forty years.
+* `Act 13:21` And afterward, they desired a king, and God gave Saul the son of *_Kish_* to them, a man of the tribe of Benjamin, for forty years.
 
 _18 verses containing KISH_
 
@@ -2915,7 +2915,7 @@ _19 verses containing KISS_
 
 == KISSED
 
-* `Gen 27:27` And he came near and *_kissed_* him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is as the smell of a field which the LORD has blessed.
+* `Gen 27:27` And he came near and *_kissed_* him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is like the smell of a field which the LORD has blessed.
 * `Gen 29:11` And Jacob *_kissed_* Rachel and lifted up his voice and wept.
 * `Gen 29:13` And it came to pass when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, embraced him, *_kissed_* him, and brought him to his house. And he told Laban all these things.
 * `Gen 31:55` And early in the morning Laban arose, *_kissed_* his sons and his daughters, and blessed them. And Laban departed and returned to his place.
@@ -3181,7 +3181,7 @@ _1 verse containing KNELT_
 * `Act 9:30` And when the brothers *_knew_*, they brought him down to Caesarea and sent him forth to Tarsus.
 * `Act 12:14` And when she *_knew_* Peter's voice, she did not open the gate for gladness, but ran in and reported that Peter stood before the gate.
 * `Act 16:3` Paul wished to have him go forth with him and took and circumcised him because of the Jews who were in those quarters, for they all *_knew_* that his father was a Greek.
-* `Act 19:34` But when they *_knew_* that he was a Jew, all with one voice about the space of two hours cried out, "Diana of the Ephesians is great."
+* `Act 19:34` But when they *_knew_* that he was a Jew, all with one voice for about two hours cried out, "Diana of the Ephesians is great."
 * `Act 22:29` Then immediately those who were about to examine him departed from him. And the chief captain also was afraid after he *_knew_* that he was a Roman and because he had bound him.
 * `Act 26:5` Who *_knew_* me from the beginning (if they would testify), that after the strictest sect of our religion I lived a Pharisee.
 * `Act 28:1` And when they had escaped, they *_knew_* that the island was called Melita.
@@ -3273,10 +3273,10 @@ _4 verses containing KNOCKS_
 * `Gen 19:5` And they called to Lot and said to him, "Where are the men who came to you this night? Bring them out to us so that we may *_know_* them."
 * `Gen 20:6` And God said to him in a dream, "Indeed, I *_know_* that you did this in the integrity of your heart, and I also withheld you from sinning against me. Therefore, I did not allow you to touch her.
 * `Gen 20:7` Now therefore, restore to the man his wife, for he is a prophet and he shall pray for you, and you shall live. And if you shall not restore her, *_know_* that you shall surely die—you and all who are yours."
-* `Gen 21:26` And Abimelech said, "I do not *_know_* who has done this thing, neither did you tell me, neither yet have I heard of it, but today."
+* `Gen 21:26` And Abimelech said, "I do not *_know_* who has done this thing, neither did you tell me, neither did I hear about it until today."
 * `Gen 22:12` And he said, "Do not lay your hand upon the boy, neither do anything to him. For now I *_know_* that you fear God, seeing you have not withheld from me your son, your only son."
 * `Gen 24:14` And let it come to pass, that the young woman to whom I say, 'Let down your pitcher, I pray you, so that I may drink,' and she shall say, 'Drink, and I will give your camels drink also,' let the same be she whom you have appointed for your servant Isaac. And by that I shall *_know_* that you have shown kindness to my master."
-* `Gen 24:21` And the man, wondering at her, held his peace to *_know_* whether the LORD had made his journey prosperous, or not.
+* `Gen 24:21` And the man, wondering at her, held his peace to *_know_* whether the LORD had made his journey prosperous or not.
 * `Gen 27:2` And he said, "Behold now, I am old. I do not *_know_* the day of my death.
 * `Gen 28:16` And Jacob awoke out of his sleep and he said, "Surely the LORD is in this place, and I did not *_know_* it."
 * `Gen 29:5` And he said to them, "Do you *_know_* Laban the son of Nahor?" And they said, "We *_know_* him."
@@ -4185,7 +4185,7 @@ _901 verses containing KNOW_
 * `Jhn 19:28` After this, Jesus, *_knowing_* that all things were now accomplished, so that the Scripture might be fulfilled, says, "I thirst."
 * `Jhn 21:12` Jesus says to them, "Come and dine." And none of the disciples dared ask him, "Who are you?" *_knowing_* that it was the Lord.
 * `Act 2:30` Therefore, being a prophet and *_knowing_* that God had sworn to him with an oath that from the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne,
-* `Act 5:7` And it was about the space of three hours after when his wife, not *_knowing_* what was done, came in.
+* `Act 5:7` And it was about three hours later when his wife, not *_knowing_* what was done, came in.
 * `Act 18:25` This man was instructed in the way of the Lord, and being fervent in spirit, he spoke and diligently taught the things of the Lord, *_knowing_* only the baptism of John.
 * `Act 20:22` And now behold, I go bound in the Spirit to Jerusalem, not *_knowing_* the things that shall befall me there,
 * `Rom 1:32` Who, *_knowing_* the judgment of God, that those who commit such things are worthy of death, not only do the same, but have pleasure in those who do them.

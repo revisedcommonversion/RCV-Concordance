@@ -194,7 +194,7 @@ _1 verse containing MONSTERS_
 * `Gen 8:5` And the waters decreased continually until the tenth *_month_*. In the tenth *_month_*, on the first day of the *_month_*, the tops of the mountains were seen.
 * `Gen 8:13` And it came to pass in the six hundred and first year, in the first *_month_*, on the first day of the *_month_*, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.
 * `Gen 8:14` And in the second *_month_*, on the twenty-seventh day of the *_month_*, the earth was dried.
-* `Gen 29:14` And Laban said to him, "Surely you are my bone and my flesh." And he stayed with him the space of a *_month_*.
+* `Gen 29:14` And Laban said to him, "Surely you are my bone and my flesh." And he stayed with him for a *_month_*.
 * `Exo 12:2` "This *_month_* shall be to you the beginning of months. It shall be the first *_month_* of the year to you.
 * `Exo 12:3` Speak to all the congregation of Israel, saying, 'On the tenth day of this *_month_* they shall each take for themselves a lamb, according to the house of their fathers, a lamb for a house.
 * `Exo 12:6` And you shall keep it until the fourteenth day of the same *_month_*. And the whole assembly of the congregation of Israel shall kill it in the evening.
@@ -435,12 +435,12 @@ _1 verse containing MONTHLY_
 * `Jhn 4:35` Do you not say, 'There are yet four *_months_* and then comes harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest.
 * `Act 7:20` At that time, Moses was born and was exceedingly fair and nourished in his father's house for three *_months_*.
 * `Act 18:11` And he continued there one year and six *_months_* teaching the word of God among them.
-* `Act 19:8` And he went into the synagogue and spoke boldly for the space of three *_months_*, disputing and persuading the things concerning the kingdom of God.
+* `Act 19:8` And he went into the synagogue and spoke boldly for three *_months_*, disputing and persuading the things concerning the kingdom of God.
 * `Act 20:3` And stayed there three *_months_*. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.
 * `Act 28:11` And after three *_months_*, we departed in a ship from Alexandria that had wintered on the island, whose sign was Castor and Pollux.
 * `Gal 4:10` You observe days, *_months_*, times, and years.
 * `Heb 11:23` By faith Moses, when he was born, was hid three *_months_* by his parents because they saw he was an exceedingly fair child, and they were not afraid of the king's commandment.
-* `Jms 5:17` Elijah was a man subject to similar passions as we are, and he prayed earnestly that it might not rain, and it did not rain on the earth by the space of three years and six *_months_*.
+* `Jms 5:17` Elijah was a man subject to similar passions as we are, and he prayed earnestly that it might not rain, and it did not rain on the earth for three years and six *_months_*.
 * `Rev 9:5` And to them it was given that they should not kill them, but that they should be tormented five *_months_*. And their torment was like the torment of a scorpion when he strikes a man.
 * `Rev 9:10` And they had tails like scorpions, and there were stings in their tails. And their power was to hurt men five *_months_*.
 * `Rev 11:2` But leave out the court which is outside the temple and do not measure it, for it is given to the Gentiles. And they shall tread under foot the holy city for forty-two *_months_*.
@@ -596,7 +596,8 @@ _52 verses containing MORDECAI_
 * `Gen 7:4` For after seven *_more_* days, I will cause it to rain upon the earth forty days and forty nights. And every living substance that I have made I will destroy from the face of the earth."
 * `Gen 9:15` And I will remember my covenant which is between me and you and every living creature of all flesh, and the waters shall no *_more_* become a flood to destroy all flesh.
 * `Gen 18:32` And he said, "Oh do not let the Lord be angry, and I will speak just once *_more_*. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
-* `Gen 29:30` And he went in also to Rachel, and he also loved Rachel *_more_* than Leah, and served with him yet seven other years.
+* `Gen 29:27` Fulfill her week, and we will give you the other also for the service which you shall serve with me for seven *_more_* years."
+* `Gen 29:30` And he went in also to Rachel, and he also loved Rachel *_more_* than Leah, and served with him for seven *_more_* years.
 * `Gen 34:19` And the young man did not defer to do the thing because he had delight in Jacob's daughter. And he was *_more_* honorable than all the house of his father.
 * `Gen 37:3` Now Israel loved Joseph *_more_* than all his children because he was the son of his old age. And he made him a coat of many colors.
 * `Gen 37:4` And when his brothers saw that their father loved him *_more_* than all his brothers, they hated him and could not speak peaceably to him.
@@ -1027,7 +1028,7 @@ _52 verses containing MORDECAI_
 * `Rev 21:4` And God will wipe away all tears from their eyes, and there shall be no *_more_* death, neither sorrow, nor crying, neither shall there be any *_more_* pain, because the former things have passed away."
 * `Rev 22:3` And there shall be no *_more_* curse. But the throne of God and of the Lamb shall be in it, and his servants shall serve him.
 
-_435 verses containing MORE_
+_436 verses containing MORE_
 
 == MOREH
 
@@ -2515,7 +2516,7 @@ _2 verses containing MOTH-EATEN_
 * `Gen 28:2` Arise, go to Padan-aram, to the house of Bethuel your *_mother_*'s father, and take for yourself from there a wife from the daughters of Laban your *_mother_*'s brother.
 * `Gen 28:5` And Isaac sent away Jacob. And he went to Padan-aram, to Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's *_mother_*.
 * `Gen 28:7` And that Jacob obeyed his father and his *_mother_* and had gone to Padan-aram,
-* `Gen 29:10` And it came to pass, when Jacob saw Rachel, the daughter of Laban his *_mother_*'s brother, and the sheep of Laban his *_mother_*'s brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his *_mother_*'s brother.
+* `Gen 29:10` And it came to pass when Jacob saw Rachel, the daughter of Laban his *_mother_*'s brother, and the sheep of Laban his *_mother_*'s brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his *_mother_*'s brother.
 * `Gen 30:14` And Reuben went, in the days of wheat-harvest, and found mandrakes in the field and brought them to his *_mother_* Leah. Then Rachel said to Leah, "Give me, I pray you, some of your son's mandrakes."
 * `Gen 37:10` And he told it to his father and to his brothers. And his father rebuked him and said to him, "What is this dream that you have dreamed? Shall I and your *_mother_* and your brothers indeed come to bow down ourselves to you to the earth?"
 * `Gen 43:29` And he lifted up his eyes and saw his brother Benjamin, his *_mother_*'s son, and said, "Is this your younger brother of whom you spoke to me?" And he said, "May God be gracious to you, my son."
@@ -3574,11 +3575,10 @@ _2 verses containing MOUSE_
 
 * `Gen 4:11` And now you are cursed from the earth which has opened her *_mouth_* to receive your brother's blood from your hand.
 * `Gen 8:11` And the dove returned to him in the evening, and behold, in her *_mouth_* was an olive-leaf plucked off. So Noah knew that the waters were abated from off the earth.
-* `Gen 24:57` And they said, "We will call the young woman and inquire at her *_mouth_*."
 * `Gen 29:2` And he looked, and behold, a well in the field, and behold, there were three flocks of sheep lying by it, for out of that well they watered the flocks. And a great stone was upon the well's *_mouth_*.
 * `Gen 29:3` And there all the flocks were gathered. And they rolled the stone from the well's *_mouth_* and watered the sheep. Then they put the stone back upon the well's *_mouth_* in its place.
 * `Gen 29:8` And they said, "We cannot until all the flocks are collected and until they roll the stone from the well's *_mouth_*. Then we water the sheep."
-* `Gen 29:10` And it came to pass, when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's *_mouth_* and watered the flock of Laban his mother's brother.
+* `Gen 29:10` And it came to pass when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's *_mouth_* and watered the flock of Laban his mother's brother.
 * `Gen 42:27` And as one of them opened his sack to give his donkey provender in the inn, he saw his money, for behold, it was in his sack's *_mouth_*.
 * `Gen 43:12` And take double money in your hand. And the money that was returned in the *_mouth_* of your sacks, carry it back in your hand. It may be that it was an oversight.
 * `Gen 43:21` And it came to pass, when we came to the inn, that we opened our sacks, and behold, every man's money was in the *_mouth_* of his sack, our money in full weight. And we have brought it back in our hand.
@@ -3969,7 +3969,7 @@ _2 verses containing MOUSE_
 * `Rev 19:15` And out of his *_mouth_* goes a sharp sword, so that with it he should smite the nations. And he "shall rule them with a rod of iron." And he treads the wine-press of the fierceness and wrath of Almighty God.
 * `Rev 19:21` And the remnant were slain with the sword of him who sat upon the horse, which sword proceeds out of his *_mouth_*. And all the birds were filled with their flesh.
 
-_396 verses containing MOUTH_
+_395 verses containing MOUTH_
 
 == MOUTHS
 

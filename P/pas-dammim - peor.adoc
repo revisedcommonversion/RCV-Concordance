@@ -73,13 +73,13 @@ _12 verses containing PASHUR_
 * `Gen 26:8` And it came to *_pass_* when he had been there a long time, that Abimelech king of the Philistines looked out of a window and saw, and behold, Isaac was caressing Rebekah his wife.
 * `Gen 26:32` And it came to *_pass_* the same day, that Isaac's servants came and told him concerning the well which they had dug and said to him, "We have found water."
 * `Gen 27:1` And it came to *_pass_*, that when Isaac was old and his eyes were dim so that he could not see, he called Esau his eldest son and said to him, "My son." And he said to him, "Behold, here I am."
-* `Gen 27:30` And it came to *_pass_*, as soon as Isaac had made an end of blessing Jacob, and Jacob had yet scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
-* `Gen 27:40` And by your sword you shall live, and you shall serve your brother. And it shall come to *_pass_*, when you have the dominion, that you shall break his yoke from off your neck."
-* `Gen 29:10` And it came to *_pass_*, when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
+* `Gen 27:30` And it came to *_pass_* as soon as Isaac had made an end of blessing Jacob, and Jacob had scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+* `Gen 27:40` And by your sword you shall live, and you shall serve your brother. And it shall come to *_pass_* when you have the dominion, that you shall break his yoke from off your neck."
+* `Gen 29:10` And it came to *_pass_* when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
 * `Gen 29:13` And it came to *_pass_* when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, embraced him, kissed him, and brought him to his house. And he told Laban all these things.
 * `Gen 29:23` And it came to *_pass_* in the evening, that he took Leah his daughter and brought her to him, and he went in to her.
 * `Gen 29:25` And it came to *_pass_*, that in the morning, behold, it was Leah. And he said to Laban, "What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?"
-* `Gen 30:25` And it came to *_pass_*, when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
+* `Gen 30:25` And it came to *_pass_* when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
 * `Gen 30:32` I will *_pass_* through all your flock today, removing from there all the speckled and spotted sheep, all the brown ones among the sheep, and the spotted and speckled among the goats, and of such shall be my hire.
 * `Gen 30:41` And it came to *_pass_* whenever the stronger flock conceived, that Jacob laid the rods before the eyes of the flock in the gutters so that they might conceive among the rods.
 * `Gen 31:10` And it came to *_pass_* at the time that the flock conceived, that I lifted up my eyes and saw in a dream, and behold, the rams which leaped upon the flock were striped, speckled, and grizzled.
@@ -888,7 +888,7 @@ _5 verses containing PASSAGES_
 * `Num 33:51` "Speak to the children of Israel and say to them, 'When you have *_passed_* over the Jordan into the land of Canaan,
 * `Num 35:10` "Speak to the children of Israel and say to them, 'When you have *_passed_* over the Jordan into the land of Canaan,
 * `Deu 2:8` "And when we *_passed_* by from our brothers, the children of Esau, who dwelt in Seir, through the way of the plain from Elath and from Ezion-gaber, we turned and *_passed_* by the way of the wilderness of Moab.
-* `Deu 2:14` And the space in which we came from Kadesh-barnea, until we *_passed_* the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
+* `Deu 2:14` And the time in which we came from Kadesh-barnea, until we *_passed_* the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
 * `Deu 27:3` And you shall write upon them all the words of this law when you have *_passed_* over so that you may enter in to the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your fathers has promised you.
 * `Deu 29:16` (For you know how we have dwelt in the land of Egypt and how we came through the nations which you *_passed_* by,
 * `Jsh 2:23` So the two men returned, descended from the mountain, *_passed_* over, and came to Joshua the son of Nun, and told him all things that befell them.
@@ -1114,7 +1114,7 @@ _1 verse containing PASSION_
 == PASSIONS
 
 * `Act 14:15` And saying, "Sirs, why do you do these things? We are also men of like *_passions_* with you and preach to you that you should turn from these vanities to the living God, who 'made heaven, earth, the sea, and all things that are in them,'
-* `Jms 5:17` Elijah was a man subject to similar *_passions_* as we are, and he prayed earnestly that it might not rain, and it did not rain on the earth by the space of three years and six months.
+* `Jms 5:17` Elijah was a man subject to similar *_passions_* as we are, and he prayed earnestly that it might not rain, and it did not rain on the earth for three years and six months.
 
 _2 verses containing PASSIONS_
 
@@ -1868,7 +1868,7 @@ _7 verses containing PE_
 == PEACE
 
 * `Gen 15:15` And you shall go to your fathers in *_peace_*. You shall be buried in a good old age.
-* `Gen 24:21` And the man, wondering at her, held his *_peace_* to know whether the LORD had made his journey prosperous, or not.
+* `Gen 24:21` And the man, wondering at her, held his *_peace_* to know whether the LORD had made his journey prosperous or not.
 * `Gen 26:29` That you will do us no hurt, as we have not touched you and as we have done to you nothing but good and have sent you away in *_peace_*. You are now the blessed of the LORD.'"
 * `Gen 26:31` And they rose early in the morning and swore to one another. And Isaac sent them away, and they departed from him in *_peace_*.
 * `Gen 28:21` So that I come back to my father's house in *_peace_*, then the LORD shall be my God.
@@ -2482,7 +2482,7 @@ _1 verse containing PEDDLING_
 
 == PEELED
 
-* `Gen 30:37` And Jacob took for himself rods of green poplar and of the hazel and plane-tree, and *_peeled_* white streaks in them, and made the white appear which was in the rods.
+* `Gen 30:37` And Jacob took for himself rods of green poplar, hazel, and plane-tree, and *_peeled_* white streaks in them and made the white appear which was in the rods.
 * `Gen 30:38` And he set the rods, which he had *_peeled_*, before the flocks in the gutters in the watering-troughs when the flocks came to drink so that they should conceive when they came to drink.
 * `Isa 18:2` That sends ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, "Go, you swift messengers, to a nation scattered and *_peeled_*, to a people awesome from their beginning until now, a nation measured by line and trodden down, whose land the rivers have laid waste."
 * `Isa 18:7` In that time the present shall be brought to the LORD of hosts from a people scattered and *_peeled_*, and from a people awesome from their beginning until now, a nation measured by line and trodden under foot, whose land the rivers have divided, to the place of the name of the LORD of hosts—mount Zion.
@@ -4076,7 +4076,7 @@ _2 verses containing PENURY_
 * `Jer 28:1` And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, who was of Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the *_people_*, saying,
 * `Jer 28:5` Then the prophet Jeremiah said to the prophet Hananiah in the presence of the priests and in the presence of all the *_people_* who stood in the house of the LORD,
 * `Jer 28:7` Nevertheless, now hear this word that I speak in your ears and in the ears of all the *_people_*.
-* `Jer 28:11` And Hananiah spoke in the presence of all the *_people_*, saying, "Thus says the LORD: 'Even so I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years.'" And the prophet Jeremiah went his way.
+* `Jer 28:11` And Hananiah spoke in the presence of all the *_people_*, saying, "Thus says the LORD: 'Even so I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within two full years.'" And the prophet Jeremiah went his way.
 * `Jer 28:15` Then the prophet Jeremiah said to Hananiah the prophet, "Hear now, Hananiah, the LORD has not sent you, but you make this *_people_* to trust in a lie.
 * `Jer 29:1` Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the rest of the elders who were carried away as captives, to the priests, to the prophets, and to all the *_people_* whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon
 * `Jer 29:16` Know that thus says the LORD concerning the king who sits upon the throne of David, concerning all the *_people_* who dwell in this city, and concerning your brothers who have not gone forth with you into captivity—
