@@ -445,7 +445,7 @@ _9 verses containing LONGED_
 
 * `Gen 17:5` Your name shall no *_longer_* be called Abram, but your name shall be Abraham, because a father of many nations I have made you.
 * `Gen 32:28` And he said, "Your name shall no *_longer_* be called Jacob, but Israel. For as a prince you have power with God and with men, and have prevailed."
-* `Exo 2:3` And when she could no *_longer_* hide him, she took for him a basket of bulrushes, daubed it with slime and with pitch, put the child therein, and she laid it in the reeds by the river's brink.
+* `Exo 2:3` And when she could no *_longer_* hide him, she took for him a basket of bulrushes, daubed it with slime and with pitch, put the child therein, and she laid it in the reeds by the river's bank.
 * `Exo 5:7` "You shall no *_longer_* give the people straw to make brick as before. Let them go and gather straw for themselves.
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail, and I will let you go, and you shall stay no *_longer_*."
 * `Lev 17:7` And they shall no *_longer_* offer their sacrifices to idols, with which they have committed idolatry. This shall be a statute forever to them throughout their generations."'
@@ -1251,11 +1251,11 @@ _1 verse containing LOP_
 * `Gen 44:9` With whomever of your servants it shall be found, both let him die and we also will be my *_lord_*'s slaves."
 * `Gen 44:16` And Judah said, "What shall we say to my *_lord_*? What shall we speak? Or how shall we clear ourselves? God has found out the iniquity of your servants. Behold we are my *_lord_*'s servants—both we and he also with whom the cup is found."
 * `Gen 44:18` Then Judah came near to him, and said, "Oh my *_lord_*, let your servant, I pray you, speak a word in my *_lord_*'s ears, and do not let your anger burn against your servant, for you are even as Pharaoh.
-* `Gen 44:19` My *_lord_* asked his servants, saying, 'Do you have a father, or a brother?'
+* `Gen 44:19` My *_lord_* asked his servants, saying, 'Do you have a father or a brother?'
 * `Gen 44:20` And we said to my *_lord_*, 'We have a father, an old man, and a child of his old age, a little one. And his brother is dead, and he alone is left of his mother, and his father loves him.'
 * `Gen 44:22` And we said to my *_lord_*, 'The boy cannot leave his father, for if he should leave his father, his father would die.'
-* `Gen 44:24` And it came to pass, when we came to your servant, my father, we told him the words of my *_lord_*.
-* `Gen 44:33` Now therefore, I pray you, let your servant abide instead of the boy, as a slave to my *_lord_*, and let the boy return with his brothers.
+* `Gen 44:24` And it came to pass when we came to your servant, my father, that we told him the words of my *_lord_*.
+* `Gen 44:33` Now therefore, I pray you, let your servant abide as a slave to my *_lord_* instead of the boy, and let the boy return with his brothers.
 * `Gen 45:8` So now it was not you who sent me here, but God. And he has made me a father to Pharaoh, and *_lord_* of all his house and a ruler throughout all the land of Egypt.
 * `Gen 45:9` Hasten, return to my father, and say to him, 'Thus says your son Joseph: "God has made me *_lord_* of all Egypt. Come down to me. Do not delay.
 * `Gen 47:18` When that year had ended, they came to him the second year and said to him, "We will not hide from my *_lord_* how our money is spent. My *_lord_* also has our herds of livestock. There is not anything left in the sight of my *_lord_* but our bodies and our lands.
@@ -2278,7 +2278,7 @@ _1 verse containing LOP_
 * `Deu 2:30` But Sihon king of Heshbon would not let us pass by him, for the *_LORD_* your God hardened his spirit and made his heart obstinate so that he might deliver him into your hand, as appears this day.
 * `Deu 2:31` And the *_LORD_* said to me, 'Behold, I have begun to deliver up Sihon and his land before you. Begin to possess it so that you may inherit his land.'
 * `Deu 2:33` And the *_LORD_* our God delivered him before us, and we smote him, his sons, and all his people.
-* `Deu 2:36` From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even to Gilead, there was not one city too strong for us. The *_LORD_* our God delivered all to us.
+* `Deu 2:36` From Aroer, which is by the bank of the river of Arnon, and from the city that is by the river, even to Gilead, there was not one city too strong for us. The *_LORD_* our God delivered all to us.
 * `Deu 2:37` Only to the land of the children of Ammon you did not come, nor to any place of the Jabbok River, nor to the cities on the mountains, nor to whatever the *_LORD_* our God had forbidden us."
 * `Deu 3:2` And the *_LORD_* said to me, 'Do not fear him, for I will deliver him, all his people, and his land into your hand. And you shall do to him as you did to Sihon king of the Amorites, who dwelt at Heshbon.'
 * `Deu 3:3` So the *_LORD_* our God also delivered into our hands Og the king of Bashan and all his people. And we smote him until no one was left to him remaining.
@@ -7908,7 +7908,7 @@ _8 verses containing LOSES_
 
 == LOSS
 
-* `Gen 31:39` That which was torn by beasts, I did not bring to you. I bore the *_loss_* of it. From my hand you required it, whether stolen by day, or stolen by night.
+* `Gen 31:39` That which was torn by beasts, I did not bring to you. I bore the *_loss_* of it. From my hand you required it, whether stolen by day or stolen by night.
 * `Exo 21:19` If he rises again and walks abroad upon his staff, then he who smote him shall be acquitted. Only he shall pay for the *_loss_* of his time and shall cause him to be thoroughly healed.
 * `1Ki 16:34` In his days Hiel the Beth-elite built Jericho. He laid its foundation with the *_loss_* of Abiram his first-born and set up its gates with the *_loss_* of his youngest son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
 * `Isa 47:8` Now therefore, hear this, you who are given to pleasures, who dwell carelessly, who say in your heart, 'I am, and no one else besides me. I shall not sit as a widow, neither shall I know the *_loss_* of children.'

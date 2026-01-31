@@ -1424,7 +1424,7 @@ _1 verse containing ADADAH_
 * `Gen 4:19` And Lamech took for himself two wives: the name of one was *_Adah_* and the name of the other Zillah.
 * `Gen 4:20` And *_Adah_* bore Jabal. He was the father of those who dwell in tents and of those who have livestock.
 * `Gen 4:23` And Lamech said to his wives, "*_Adah_* and Zillah, hear my voice. Wives of Lamech, listen to my speech. For I have slain a man for wounding me, even a young man for hurting me.
-* `Gen 36:2` Esau took his wives from the daughters of Canaan: *_Adah_* the daughter of Elon the Hittite, Aholibamah the daughter of Anah the daughter of Zibeon the Hivite,
+* `Gen 36:2` Esau took his wives from the daughters of Canaan: *_Adah_* the daughter of Elon the Hittite; Aholibamah the daughter of Anah, the daughter of Zibeon the Hivite;
 * `Gen 36:4` And *_Adah_* bore to Esau, Eliphaz; and Bashemath bore Reuel;
 * `Gen 36:10` These are the names of Esau's sons: Eliphaz the son of *_Adah_* the wife of Esau, and Reuel the son of Bashemath the wife of Esau.
 * `Gen 36:12` And Timna was a concubine to Eliphaz, Esau's son, and she bore Amalek to Eliphaz. These are the sons of *_Adah_*, Esau's wife.
@@ -1601,7 +1601,7 @@ _16 verses containing ADDED_
 
 == ADDER
 
-* `Gen 49:17` Dan shall be a serpent by the way, an *_adder_* in the path, that bites the horse-heels so that his rider shall fall backward.
+* `Gen 49:17` Dan shall be a serpent by the way, an *_adder_* in the path that bites the horse-heels so that his rider shall fall backward.
 * `Psa 58:4` Their poison is like the poison of a serpent. They are like the deaf *_adder_* that stops her ear,
 * `Psa 91:13` You shall tread upon the lion and the *_adder_*. The young lion and the serpent you shall trample under feet.
 * `Psa 140:3` They have sharpened their tongues like a serpent. *_Adder_*'s poison is under their lips. [Selah.]

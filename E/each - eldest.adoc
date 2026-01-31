@@ -1797,7 +1797,7 @@ _2 verses containing EASILY_
 * `Gen 29:1` Then Jacob went on his journey and came into the land of the people of the *_east_*.
 * `Gen 41:6` And behold, seven heads, thin and blasted with the *_east_* wind, sprung up after them.
 * `Gen 41:23` And behold, seven heads, withered, thin, and blasted with the *_east_* wind, sprung up after them.
-* `Gen 41:27` And the seven thin and ill-favored cows that came up after them are seven years and the seven empty heads blasted with the *_east_* wind will be seven years of famine.
+* `Gen 41:27` And the seven thin and ill-favored cows that came up after them are seven years, and the seven empty heads blasted with the *_east_* wind will be seven years of famine.
 * `Exo 10:13` And Moses stretched forth his rod over the land of Egypt, and the LORD brought an *_east_* wind upon the land all that day and all that night. And when it was morning, the *_east_* wind brought the locusts.
 * `Exo 14:21` And Moses stretched out his hand over the sea, and the LORD caused the sea to go back by a strong *_east_* wind all that night and made the sea dry land, and the waters were divided.
 * `Exo 27:13` And the breadth of the court on the *_east_* side eastward shall be fifty cubits.
@@ -2851,6 +2851,7 @@ _3 verses containing EDER_
 * `Num 33:37` And they departed from Kadesh and encamped at mount Hor on the *_edge_* of the land of Edom.
 * `Deu 13:15` You shall surely smite the inhabitants of that city with the *_edge_* of the sword, utterly destroying it and all that is in it and its livestock with the *_edge_* of the sword.
 * `Deu 20:13` And when the LORD your God has delivered it into your hands, you shall smite every male of it with the *_edge_* of the sword,
+* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the *_edge_* of the water of the Jordan, you shall stand still in the Jordan.'"
 * `Jsh 6:21` And they utterly destroyed all that was in the city, both man and woman, young and old, ox, sheep, and donkey, with the *_edge_* of the sword.
 * `Jsh 8:24` And it came to pass when Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness in which they chased them, and when they had all fallen on the *_edge_* of the sword until they were consumed, that all the Israelites returned to Ai and smote it with the *_edge_* of the sword.
 * `Jsh 10:28` And that day Joshua took Makkedah and smote it with the *_edge_* of the sword, and its king he utterly destroyed—them, and all the souls who were in it. He let no one remain. And he did to the king of Makkedah as he did to the king of Jericho.
@@ -2888,7 +2889,7 @@ _3 verses containing EDER_
 * `Luk 21:24` And they shall fall by the *_edge_* of the sword and shall be led away captive into all nations. And Jerusalem shall be trodden down by the Gentiles until the times of the Gentiles are fulfilled.
 * `Heb 11:34` Quenched the violence of fire, escaped the *_edge_* of the sword, out of weakness were made strong, became valiant in fight, and turned to flight the armies of the foreigners.
 
-_50 verses containing EDGE_
+_51 verses containing EDGE_
 
 == EDGES
 
@@ -3215,16 +3216,16 @@ _12 verses containing EGLON_
 * `Gen 26:2` And the LORD appeared to him and said, "Do not go down into *_Egypt_*. Dwell in the land of which I shall tell you.
 * `Gen 37:25` And they sat down to eat bread. And they lifted up their eyes and looked, and behold, a company of Ishmaelites came from Gilead with their camels bearing spices, balm, and myrrh, going to carry them down to *_Egypt_*.
 * `Gen 37:28` Then there passed by Midianites, merchants, and they drew and lifted Joseph out of the pit and sold Joseph to the Ishmaelites for twenty pieces of silver. And they brought Joseph into *_Egypt_*.
-* `Gen 37:36` And the Midianites sold him into *_Egypt_* to Potiphar, an officer of Pharaoh and captain of the guard.
+* `Gen 37:36` And the Midianites sold him in *_Egypt_* to Potiphar, an officer of Pharaoh and captain of the guard.
 * `Gen 39:1` And Joseph was brought down to *_Egypt_*. And Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him from the hands of the Ishmaelites who had brought him down there.
 * `Gen 40:1` And it came to pass after these things, that the butler of the king of *_Egypt_* and his baker had offended their lord the king of *_Egypt_*.
 * `Gen 40:5` And the both of them dreamed a dream, each man his dream in one night, each man according to the interpretation of his dream—the butler and the baker of the king of *_Egypt_* who were bound in the prison.
-* `Gen 41:8` And it came to pass in the morning, that his spirit was troubled and he sent and called for all the magicians of *_Egypt_* and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could interpret them to Pharaoh.
+* `Gen 41:8` And it came to pass in the morning, that his spirit was troubled, and he sent and called for all the magicians of *_Egypt_* and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could interpret them to Pharaoh.
 * `Gen 41:19` And behold, seven other cows came out after them, poor, very ill-favored, and lean-fleshed, such that I never saw worse in all the land of *_Egypt_*.
 * `Gen 41:29` Behold, there shall come seven years of great plenty throughout all the land of *_Egypt_*.
 * `Gen 41:30` And there shall arise after them seven years of famine, and all the plenty shall be forgotten in the land of *_Egypt_*, and the famine shall consume the land.
 * `Gen 41:33` Now therefore, let Pharaoh look for a man discreet and wise and set him over the land of *_Egypt_*.
-* `Gen 41:34` Let Pharaoh do this, and let him appoint officers over the land, and take up the fifth part of the land of *_Egypt_* in the seven plenteous years.
+* `Gen 41:34` Let Pharaoh do this: let him appoint officers over the land to take up the fifth part of the land of *_Egypt_* in the seven plenteous years.
 * `Gen 41:36` And that food shall be a store for the land against the seven years of famine, which shall be in the land of *_Egypt_*, so that the land may not perish through the famine."
 * `Gen 41:41` And Pharaoh said to Joseph, "Behold, I have set you over all the land of *_Egypt_*."
 * `Gen 41:43` And he made him to ride in the second chariot which he had. And they cried before him, "Bow the knee." And he made him ruler over all the land of *_Egypt_*.
@@ -3245,10 +3246,10 @@ _12 verses containing EGLON_
 * `Gen 45:4` And Joseph said to his brothers, "Come near to me, I pray you." And they came near. And he said, "I am Joseph your brother, whom you sold into *_Egypt_*.
 * `Gen 45:8` So now it was not you who sent me here, but God. And he has made me a father to Pharaoh, and lord of all his house and a ruler throughout all the land of *_Egypt_*.
 * `Gen 45:9` Hasten, return to my father, and say to him, 'Thus says your son Joseph: "God has made me lord of all *_Egypt_*. Come down to me. Do not delay.
-* `Gen 45:13` And you shall tell my father of all my glory in *_Egypt_* and of all that you have seen. And you shall hasten and bring down my father here."
+* `Gen 45:13` And you shall tell my father about all my glory in *_Egypt_* and about all that you have seen. And you shall hasten and bring down my father here."
 * `Gen 45:18` And take your father and your households and come to me, and I will give you the good of the land of *_Egypt_*, and you shall eat the fat of the land.'
 * `Gen 45:19` Now you are commanded, 'Do this: take for yourselves wagons from the land of *_Egypt_* for your little ones and for your wives, and bring your father and come.
-* `Gen 45:20` Also do not regard your belongings, for the good of all the land of *_Egypt_* is yours.'"
+* `Gen 45:20` Also, do not regard your belongings, for the good of all the land of *_Egypt_* is yours.'"
 * `Gen 45:23` And to his father he sent after this manner: ten donkeys laden with the good things of *_Egypt_* and ten female donkeys laden with grain, bread, and food for his father on the way.
 * `Gen 45:25` And they went up from *_Egypt_* and came into the land of Canaan to Jacob their father,
 * `Gen 45:26` And told him, saying, "Joseph is still alive and he is governor over all the land of *_Egypt_*." And Jacob's heart fainted, for he did not believe them.
@@ -3269,7 +3270,7 @@ _12 verses containing EGLON_
 * `Gen 47:21` And as for the people, he moved them to cities from one end of the borders of *_Egypt_* even to the other end thereof.
 * `Gen 47:26` And Joseph made it a law over the land of *_Egypt_* to this day, that Pharaoh should have the fifth part, except the land of the priests only, which did not become Pharaoh's.
 * `Gen 47:27` And Israel dwelt in the land of *_Egypt_*, in the country of Goshen. And they had possessions in it and grew and multiplied exceedingly.
-* `Gen 47:28` And Jacob lived in the land of *_Egypt_* seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
+* `Gen 47:28` And Jacob lived in the land of *_Egypt_* for seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
 * `Gen 47:29` And the time drew near that Israel must die. And he called his son Joseph and said to him, "If now I have found grace in your sight, put, I pray you, your hand under my thigh and deal kindly and truly with me. Do not bury me, I pray you, in *_Egypt_*.
 * `Gen 47:30` But I will lie with my fathers. And you shall carry me out of *_Egypt_* and bury me in their burying-place." And he said, "I will do as you have said."
 * `Gen 48:5` And now, your two sons, Ephraim and Manasseh, who were born to you in the land of *_Egypt_*, before I came to you into *_Egypt_*, are mine. As Reuben and Simeon, they shall be mine.

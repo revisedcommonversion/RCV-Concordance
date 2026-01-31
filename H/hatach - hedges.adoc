@@ -116,9 +116,9 @@ _87 verses containing HATE_
 * `Gen 29:31` And when the LORD saw that Leah was *_hated_*, he made her fruitful, but Rachel was barren.
 * `Gen 29:33` And she conceived again and bore a son, and said, "Because the LORD has heard that I was *_hated_*, he has therefore given me this son also." And she called his name Simeon.
 * `Gen 37:4` And when his brothers saw that their father loved him more than all his brothers, they *_hated_* him and could not speak peaceably to him.
-* `Gen 37:5` And Joseph dreamed a dream and he told it to his brothers, and they *_hated_* him yet the more.
-* `Gen 37:8` And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they *_hated_* him yet the more for his dreams and for his words.
-* `Gen 49:23` The archers have sorely grieved him, and shot at him and *_hated_* him,
+* `Gen 37:5` And Joseph dreamed a dream and he told it to his brothers, and they *_hated_* him even more.
+* `Gen 37:8` And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they *_hated_* him even more for his dreams and for his words.
+* `Gen 49:23` The archers have sorely grieved him, shot at him, and *_hated_* him,
 * `Deu 1:27` And you murmured in your tents, and said, 'Because the LORD *_hated_* us, he has brought us forth from the land of Egypt to deliver us into the hand of the Amorites to destroy us.
 * `Deu 4:42` So that the slayer might flee there who kills his neighbor unintentionally and without having *_hated_* him in times past, and that fleeing to one of these cities he might live:
 * `Deu 9:28` Lest the land from which you have brought us should say, "Because the LORD was not able to bring them into the land which he promised them, and because he *_hated_* them, he has brought them out to slay them in the wilderness."
@@ -1170,7 +1170,7 @@ _4 verses containing HEADLONG_
 * `Gen 41:23` And behold, seven *_heads_*, withered, thin, and blasted with the east wind, sprung up after them.
 * `Gen 41:24` And the thin *_heads_* devoured the seven good *_heads_*. And I told this to the magicians, but there was no one who could explain it to me."
 * `Gen 41:26` The seven good cows are seven years and the seven good *_heads_* are seven years. The dream is one.
-* `Gen 41:27` And the seven thin and ill-favored cows that came up after them are seven years and the seven empty *_heads_* blasted with the east wind will be seven years of famine.
+* `Gen 41:27` And the seven thin and ill-favored cows that came up after them are seven years, and the seven empty *_heads_* blasted with the east wind will be seven years of famine.
 * `Gen 43:28` And they answered, "Your servant, our father, is in good health. He is still alive." And they bowed their *_heads_* and made obeisance.
 * `Exo 4:31` And the people believed. And when they heard that the LORD had visited the children of Israel and that he had looked upon their affliction, then they bowed their *_heads_* and worshiped.
 * `Exo 6:14` These are the *_heads_* of their father's houses. The sons of Reuben (the first-born of Israel): Hanoch, Pallu, Hezron, and Carmi. These are the families of Reuben.
@@ -2117,11 +2117,11 @@ _523 verses containing HEAR_
 * `Gen 31:1` And he *_heard_* the words of Laban's sons, saying, "Jacob has taken away all that was our father's, and from that which was our father's he has obtained all this glory."
 * `Gen 34:5` And Jacob *_heard_* that he had defiled Dinah his daughter. But his sons were with his livestock in the field, and Jacob held his peace until they had come.
 * `Gen 34:7` And the sons of Jacob came from the field when they *_heard_* it, and the men were grieved and were very angry because he had wrought folly in Israel in lying with Jacob's daughter, which thing ought not to be done.
-* `Gen 35:22` And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine. And Israel *_heard_* it. Now the sons of Jacob were twelve.
+* `Gen 35:22` And it came to pass when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine. And Israel *_heard_* it. Now the sons of Jacob were twelve.
 * `Gen 37:17` And the man said, "They have departed from here, for I *_heard_* them say, 'Let us go to Dothan.'" And Joseph went after his brothers and found them in Dothan.
 * `Gen 37:21` And Reuben *_heard_* it, and he delivered him from their hands and said, "Let us not kill him."
-* `Gen 39:15` And it came to pass, when he *_heard_* that I raised my voice and cried, that he left his garment with me and fled and went out."
-* `Gen 39:19` And it came to pass, when his master *_heard_* the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
+* `Gen 39:15` And it came to pass when he *_heard_* that I raised my voice and cried, that he left his garment with me and fled and went out."
+* `Gen 39:19` And it came to pass when his master *_heard_* the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
 * `Gen 41:15` And Pharaoh said to Joseph, "I have dreamed a dream and there is no one who can interpret it. And I have *_heard_* it said of you that you can understand a dream to interpret it."
 * `Gen 42:2` And he said, "Behold, I have *_heard_* that there is grain in Egypt. Go down there and buy some for us from there so that we may live and not die."
 * `Gen 43:25` And they made ready the present until the coming of Joseph at noon, for they *_heard_* that they should eat bread there.
@@ -3647,7 +3647,7 @@ _1 verse containing HEARTILY_
 == HEARTS
 
 * `Gen 18:5` And I will bring a morsel of bread, and you may comfort your *_hearts_*. After that, you may go your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
-* `Gen 42:28` And he said to his brothers, "My money is restored, and see it is even in my sack." And their *_hearts_* failed them and they were afraid, saying to one another, "What is this that God has done to us?"
+* `Gen 42:28` And he said to his brothers, "My money is restored, and behold, it is even in my sack." And their *_hearts_* failed them and they were afraid, saying to one another, "What is this that God has done to us?"
 * `Exo 14:17` And I, behold I, will harden the *_hearts_* of the Egyptians, and they shall follow them, and I will get myself honor upon Pharaoh and upon all his host, upon his chariots and upon his horsemen.
 * `Exo 31:6` And I, behold, I have given with him Aholiab the son of Ahisamach of the tribe of Dan. And in the *_hearts_* of all who are wise-hearted I have put wisdom so that they may make all that I have commanded you:
 * `Lev 26:36` And upon those who are left alive of you, I will send a faintness into their *_hearts_* in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall flee as fleeing from a sword, and they shall fall when no one pursues.

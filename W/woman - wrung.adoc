@@ -1867,16 +1867,16 @@ _680 verses containing WORD_
 * `Gen 27:42` And these *_words_* of Esau her elder son were told to Rebekah. And she sent and called Jacob her younger son and said to him, "Behold, your brother Esau, as concerning you, comforts himself, purposing to kill you.
 * `Gen 31:1` And he heard the *_words_* of Laban's sons, saying, "Jacob has taken away all that was our father's, and from that which was our father's he has obtained all this glory."
 * `Gen 34:18` And their *_words_* pleased Hamor and Shechem, Hamor's son.
-* `Gen 37:8` And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him yet the more for his dreams and for his *_words_*.
+* `Gen 37:8` And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him even more for his dreams and for his *_words_*.
 * `Gen 39:17` And she spoke to him according to these *_words_*, saying, "The Hebrew servant which you have brought to us came to me to mock me.
-* `Gen 39:19` And it came to pass, when his master heard the *_words_* of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
+* `Gen 39:19` And it came to pass when his master heard the *_words_* of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
 * `Gen 42:16` Send one of you and let him bring your brother. You shall be kept in prison so that your *_words_* may be proved whether there is any truth in you. Or else, by the life of Pharaoh, surely you are spies."
 * `Gen 42:20` But bring your youngest brother to me. Thus your *_words_* shall be verified, and you shall not die." And they did so.
 * `Gen 43:7` And they said, "The man asked us strictly concerning our state and our kindred, saying, 'Is your father still alive? Do you have another brother?' And we told him according to the tenor of these *_words_*. Could we certainly know that he would say, 'Bring your brother down?'"
 * `Gen 44:6` And he overtook them and he spoke to them these same *_words_*.
 * `Gen 44:7` And they said to him, "Why does my lord say these *_words_*? Far be it from us that your servants should do according to this thing.
 * `Gen 44:10` And he said, "Now also let it be according to your *_words_*: he with whom it shall be found shall be my servant, and you shall be blameless."
-* `Gen 44:24` And it came to pass, when we came to your servant, my father, we told him the *_words_* of my lord.
+* `Gen 44:24` And it came to pass when we came to your servant, my father, that we told him the *_words_* of my lord.
 * `Gen 45:27` And they told him all the *_words_* of Joseph which he had said to them. And when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived.
 * `Gen 49:21` "Naphtali is a doe let loose, who gives delightful *_words_*.
 * `Exo 4:15` And you shall speak to him and put *_words_* in his mouth. And I will be with your mouth and with his mouth and will teach you what you shall do.
@@ -2399,7 +2399,7 @@ _2 verses containing WORE_
 * `Gen 2:2` And on the seventh day God ended his *_work_* which he had made. And he rested on the seventh day from all his *_work_* which he had made.
 * `Gen 2:3` And God blessed the seventh day and sanctified it, because in it he had rested from all his *_work_* which God created and made.
 * `Gen 5:29` And he called his name Noah, saying, "This one shall comfort us concerning our *_work_* and the toil of our hands, because of the ground which the LORD has cursed."
-* `Gen 39:11` And it came to pass, about this time, that Joseph went into the house to do his *_work_*, and there were none of the men of the house there within.
+* `Gen 39:11` And it came to pass about this time, that Joseph went into the house to do his *_work_*, and there were none of the men of the house there within.
 * `Exo 5:9` Let more *_work_* be laid upon the men so that they may labor therein, and do not let them regard vain words."
 * `Exo 5:11` Go, get yourselves straw where you can find it, yet not anything of your *_work_* shall be diminished.'"
 * `Exo 5:18` Therefore, go now and *_work_*. For no straw shall be given to you, yet you shall deliver the number of bricks."
@@ -3838,10 +3838,11 @@ _73 verses containing WORTHY_
 * `Gen 21:7` And she said, "Who *_would_* have said to Abraham that Sarah shall nurse children? For I have borne him a son in his old age."
 * `Gen 26:10` And Abimelech said, "What is this you have done to us? One of the people might lightly have lain with your wife, and you *_would_* have brought guiltiness upon us."
 * `Gen 30:15` And she said to her, "Is it a small matter that you have taken my husband? And *_would_* you take away my son's mandrakes also?" And Rachel said, "Therefore, he shall lie with you tonight for your son's mandrakes."
+* `Gen 31:27` Why did you flee away secretly and steal away from me and not tell me? I *_would_* have sent you away with mirth, with songs, with tambourine, and with harp.
 * `Gen 31:31` And Jacob answered and said to Laban, "Because I was afraid, for I thought it may be that you *_would_* take your daughters from me by force.
 * `Gen 31:42` Unless the God of my father, the God of Abraham, and the Fear of Isaac had been with me, surely now you *_would_* have sent me away empty. God has seen my affliction and the labor of my hands and he rebuked you last night."
 * `Gen 34:14` And they said to them, "We cannot do this thing, to give our sister to one who is uncircumcised, because that *_would_* be a reproach to us.
-* `Gen 38:9` And Onan knew that the child *_would_* not be his. And it came to pass, when he went in to his brother's wife, that he frustrated the purpose, lest he should give a child to his brother.
+* `Gen 38:9` And Onan knew that the child *_would_* not be his. And it came to pass when he went in to his brother's wife, that he frustrated the purpose, lest he should give a child to his brother.
 * `Gen 42:21` And they said to one another, "We are truly guilty concerning our brother in that we saw the anguish of his soul when he implored us, and we *_would_* not hear; therefore, this distress has come upon us."
 * `Gen 42:22` And Reuben answered them, saying, "Did I not speak to you, saying, 'Do not sin against the young man,' and you *_would_* not hear? Therefore, behold, his blood is also required."
 * `Gen 43:7` And they said, "The man asked us strictly concerning our state and our kindred, saying, 'Is your father still alive? Do you have another brother?' And we told him according to the tenor of these words. Could we certainly know that he *_would_* say, 'Bring your brother down?'"
@@ -4294,7 +4295,7 @@ _73 verses containing WORTHY_
 * `Jde 1:18` That they told you, "There *_would_* be mockers in the last time who *_would_* walk after their own ungodly lusts."
 * `Rev 13:15` And he had power to give life to the image of the beast so that the image of the beast should both speak and cause as many as *_would_* not worship the image of the beast to be killed.
 
-_459 verses containing WOULD_
+_460 verses containing WOULD_
 
 == WOUND
 
@@ -4436,7 +4437,7 @@ _15 verses containing WRAPPED_
 
 == WRATH
 
-* `Gen 39:19` And it came to pass, when his master heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his *_wrath_* was kindled.
+* `Gen 39:19` And it came to pass when his master heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his *_wrath_* was kindled.
 * `Gen 49:7` Cursed is their anger, for it was fierce, and their *_wrath_*, for it was cruel. I will divide them in Jacob and scatter them in Israel.
 * `Exo 15:7` And in the greatness of your excellence you have overthrown those who rose up against you. You sent forth your *_wrath_*, which consumed them as stubble.
 * `Exo 22:24` And my *_wrath_* shall wax hot and I will kill you with the sword. And your wives shall be widows and your children fatherless.

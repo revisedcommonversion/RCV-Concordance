@@ -289,7 +289,7 @@ _22 verses containing JORAM_
 * `Jsh 2:7` And the men pursued them along the way to the fords of the *_Jordan_*. And as soon as those who pursued them had gone out, they shut the gate.
 * `Jsh 2:10` For we have heard how the LORD dried up the water of the Red Sea for you when you came out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the *_Jordan_*, Sihon and Og, whom you utterly destroyed.
 * `Jsh 3:1` And Joshua rose early in the morning. And they set out from Shittim and came to the *_Jordan_*—he and all the children of Israel—and lodged there before they passed over.
-* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the brink of the water of the *_Jordan_*, you shall stand still in the *_Jordan_*.'"
+* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the edge of the water of the *_Jordan_*, you shall stand still in the *_Jordan_*.'"
 * `Jsh 3:11` Behold, the ark of the covenant of the Lord of all the earth passes over before you into the *_Jordan_*.
 * `Jsh 3:13` And it shall come to pass, as soon as the soles of the feet of the priests who bear the ark of the LORD, the Lord of all the earth, rest in the waters of the *_Jordan_*, that the waters of the *_Jordan_* shall be cut off from the waters that come down from above. And they shall stand in a heap."
 * `Jsh 3:14` And it came to pass, that when the people set out from their tents to pass over the *_Jordan_*, the priests carried the ark of the covenant before the people.
@@ -457,7 +457,7 @@ _6 verses containing JOSEDECH_
 * `Gen 35:24` The sons of Rachel: *_Joseph_* and Benjamin.
 * `Gen 37:2` These are the generations of Jacob. *_Joseph_* being seventeen years old was feeding the flock with his brothers, and the boy was with the sons of Bilhah and with the sons of Zilpah, his father's wives. And *_Joseph_* brought to his father their evil report.
 * `Gen 37:3` Now Israel loved *_Joseph_* more than all his children because he was the son of his old age. And he made him a coat of many colors.
-* `Gen 37:5` And *_Joseph_* dreamed a dream and he told it to his brothers, and they hated him yet the more.
+* `Gen 37:5` And *_Joseph_* dreamed a dream and he told it to his brothers, and they hated him even more.
 * `Gen 37:13` And Israel said to *_Joseph_*, "Do your brothers not feed the flock in Shechem? Come, and I will send you to them." And he said to him, "Here I am."
 * `Gen 37:17` And the man said, "They have departed from here, for I heard them say, 'Let us go to Dothan.'" And *_Joseph_* went after his brothers and found them in Dothan.
 * `Gen 37:23` And it came to pass when *_Joseph_* had come to his brothers, that they stripped *_Joseph_* of his coat, his coat of many colors that was on him.
@@ -471,8 +471,8 @@ _6 verses containing JOSEDECH_
 * `Gen 39:5` And it came to pass from the time that he had made him overseer in his house and over all that he had, that the LORD blessed the Egyptian's house for *_Joseph_*'s sake. And the blessing of the LORD was on all that he had in the house and in the field.
 * `Gen 39:6` And he left all that he had in *_Joseph_*'s hand, and he did not know anything that he had, except the bread which he ate. And *_Joseph_* was a handsome person and well favored.
 * `Gen 39:7` And it came to pass after these things, that his master's wife cast her eyes upon *_Joseph_*, and she said, "Lie with me."
-* `Gen 39:10` And it came to pass, as she spoke to *_Joseph_* day by day, that he did not listen to her, to lie by her, or to be with her.
-* `Gen 39:11` And it came to pass, about this time, that *_Joseph_* went into the house to do his work, and there were none of the men of the house there within.
+* `Gen 39:10` And it came to pass as she spoke to *_Joseph_* day by day, that he did not listen to her, to lie by her or to be with her.
+* `Gen 39:11` And it came to pass about this time, that *_Joseph_* went into the house to do his work, and there were none of the men of the house there within.
 * `Gen 39:20` And *_Joseph_*'s master took him and put him into the prison, a place where the king's prisoners were bound, and he was there in the prison.
 * `Gen 39:21` But the LORD was with *_Joseph_* and showed him mercy and gave him favor in the sight of the keeper of the prison.
 * `Gen 39:22` And the keeper of the prison committed to *_Joseph_*'s hand all the prisoners who were in the prison. And whatever they did there was done by him.
@@ -493,11 +493,11 @@ _6 verses containing JOSEDECH_
 * `Gen 41:25` And *_Joseph_* said to Pharaoh, "The dream of Pharaoh is one. God has revealed to Pharaoh what he is about to do.
 * `Gen 41:39` And Pharaoh said to *_Joseph_*, "Because God has shown you all this, there is no one so discreet and wise as you are.
 * `Gen 41:41` And Pharaoh said to *_Joseph_*, "Behold, I have set you over all the land of Egypt."
-* `Gen 41:42` And Pharaoh took off his ring from his hand and put it upon *_Joseph_*'s hand, and arrayed him in vestures of fine linen and put a gold chain around his neck.
+* `Gen 41:42` And Pharaoh took off his ring from his hand and put it upon *_Joseph_*'s hand, arrayed him in vestures of fine linen, and put a gold chain around his neck.
 * `Gen 41:44` And Pharaoh said to *_Joseph_*, "I am Pharaoh, and without you no man shall lift up his hand or foot in all the land of Egypt."
 * `Gen 41:45` And Pharaoh called *_Joseph_*'s name Zaphnath-paaneah, and he gave him for a wife Asenath the daughter of Poti-pherah priest of On. And *_Joseph_* went over all the land of Egypt.
 * `Gen 41:46` And *_Joseph_* was thirty years old when he stood before Pharaoh king of Egypt. And *_Joseph_* went out from the presence of Pharaoh and went throughout all the land of Egypt.
-* `Gen 41:49` And *_Joseph_* gathered grain as the sand of the sea, very much, until he ceased numbering, for it was without number.
+* `Gen 41:49` And *_Joseph_* gathered grain in great abundance, like the sand of the sea, until he ceased numbering, for it was without number.
 * `Gen 41:50` And to *_Joseph_* two sons were born before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bore to him.
 * `Gen 41:51` And *_Joseph_* called the name of the first-born Manasseh. "For God," he said, "has made me forget all my toil and all my father's house."
 * `Gen 41:54` And the seven years of famine began to come, according as *_Joseph_* had said. And the famine was in all lands, but in all the land of Egypt there was bread.
@@ -509,10 +509,10 @@ _6 verses containing JOSEDECH_
 * `Gen 42:6` And *_Joseph_* was the governor over the land, and it was he who sold to all the people of the land. And *_Joseph_*'s brothers came and bowed themselves before him with their faces to the earth.
 * `Gen 42:7` And *_Joseph_* saw his brothers, and he knew them, but made himself strange to them and spoke roughly to them, and he said to them, "From where have you come?" And they said, "From the land of Canaan to buy food."
 * `Gen 42:8` And *_Joseph_* knew his brothers, but they did not know him.
-* `Gen 42:9` And *_Joseph_* remembered the dreams which he dreamed of them and said to them, "You are spies. You have come to see the nakedness of the land."
+* `Gen 42:9` And *_Joseph_* remembered the dreams which he dreamed about them and said to them, "You are spies. You have come to see the nakedness of the land."
 * `Gen 42:14` And *_Joseph_* said to them, "It is as I spoke to you, saying, 'You are spies.'
 * `Gen 42:18` And *_Joseph_* said to them on the third day, "Do this and live, for I fear God.
-* `Gen 42:23` And they did not know that *_Joseph_* understood them because he spoke to them by an interpreter.
+* `Gen 42:23` And they did not know that *_Joseph_* understood them because he spoke to them through an interpreter.
 * `Gen 42:25` Then *_Joseph_* commanded to fill their sacks with grain, to restore every man's money into his sack, and to give them provision for the way. And thus he did to them.
 * `Gen 42:36` And Jacob their father said to them, "You have bereaved me. *_Joseph_* is no more, Simeon is no more, and you will take Benjamin away. All these things are against me."
 * `Gen 43:15` And the men took these presents, and they took double money in their hand and Benjamin, and arose, went down to Egypt, and stood before *_Joseph_*.
@@ -563,7 +563,7 @@ _6 verses containing JOSEDECH_
 * `Gen 48:2` And someone told Jacob, and said, "Behold, your son *_Joseph_* comes to you." And Israel strengthened himself and sat upon the bed.
 * `Gen 48:3` And Jacob said to *_Joseph_*, "God Almighty appeared to me at Luz in the land of Canaan and blessed me,
 * `Gen 48:8` And Israel beheld *_Joseph_*'s sons and said, "Who are these?"
-* `Gen 48:9` And *_Joseph_* said to his father, "They are my sons, whom God has given me in this place." And he said, "Bring them, I pray you, to me and I will bless them."
+* `Gen 48:9` And *_Joseph_* said to his father, "They are my sons, whom God has given to me in this place." And he said, "Bring them, I pray you, to me and I will bless them."
 * `Gen 48:11` And Israel said to *_Joseph_*, "I had not thought to see your face, and behold, God has shown me your children also."
 * `Gen 48:12` And *_Joseph_* brought them out from between his knees, and he bowed himself with his face to the earth.
 * `Gen 48:13` And *_Joseph_* took them both, Ephraim in his right hand toward Israel's left hand and Manasseh in his left hand toward Israel's right hand, and brought them near to him.
@@ -1121,7 +1121,7 @@ _61 verses containing JOURNEY_
 * `Gen 20:1` And Abraham *_journeyed_* from there toward the south country and dwelt between Kadesh and Shur and sojourned in Gerar.
 * `Gen 33:17` And Jacob *_journeyed_* to Succoth and built himself a house and made booths for his livestock. Therefore, the name of the place is called Succoth.
 * `Gen 35:5` And they *_journeyed_*. And the terror of God was on the cities that were around them, and they did not pursue after the sons of Jacob.
-* `Gen 35:16` And they *_journeyed_* from Beth-el. And there was but a little way to come to Ephrath, and Rachel travailed and had hard labor.
+* `Gen 35:16` And they *_journeyed_* from Beth-el. And there was only a little distance to come to Ephrath, and Rachel travailed and had hard labor.
 * `Gen 35:21` And Israel *_journeyed_* and spread his tent beyond the tower of Edar.
 * `Exo 12:37` And the children of Israel *_journeyed_* from Rameses to Succoth, about six hundred thousand on foot who were men, besides children.
 * `Exo 17:1` And all the congregation of the children of Israel *_journeyed_* from the wilderness of Sin after their journeys, according to the commandment of the LORD, and encamped in Rephidim. And there was no water for the people to drink.
@@ -1459,7 +1459,7 @@ _1 verse containing JUCAL_
 * `Gen 38:2` And *_Judah_* saw a daughter of a certain Canaanite there, whose name was Shuah, and he took her and went in to her.
 * `Gen 38:6` And *_Judah_* took a wife for Er his first-born, whose name was Tamar.
 * `Gen 38:7` And Er, *_Judah_*'s first-born, was wicked in the sight of the LORD, and the LORD slew him.
-* `Gen 38:8` And *_Judah_* said to Onan, "Go in to your brother's wife and marry her, and raise up a child for your brother."
+* `Gen 38:8` And *_Judah_* said to Onan, "Go in to your brother's wife and marry her and raise up a child for your brother."
 * `Gen 38:11` Then *_Judah_* said to Tamar his daughter-in-law, "Remain a widow at your father's house until Shelah my son is grown," for he said, "Lest perhaps he die also as his brothers did." And Tamar went and dwelt in her father's house.
 * `Gen 38:12` And in process of time, the daughter of Shuah, *_Judah_*'s wife, died. And *_Judah_* was comforted and went up to his sheep-shearers at Timnath—he and his friend Hirah the Adullamite.
 * `Gen 38:15` When *_Judah_* saw her, he thought her to be a harlot because she had covered her face.
@@ -1476,8 +1476,8 @@ _1 verse containing JUCAL_
 * `Gen 46:12` And the sons of *_Judah_*: Er, Onan, Shelah, Pharez, and Zerah, but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.
 * `Gen 46:28` And he sent *_Judah_* before him to Joseph to direct his face to Goshen, and they came into the land of Goshen.
 * `Gen 49:8` "*_Judah_*, you are he whom your brothers shall praise. Your hand shall be on the neck of your enemies. Your father's children shall bow down before you.
-* `Gen 49:9` *_Judah_* is a lion's whelp. From the prey, my son, you have gone up. He stooped down. He couched as a lion and as an old lion. Who shall rouse him up?
-* `Gen 49:10` The scepter shall not depart from *_Judah_*, nor a lawgiver from between his feet until Shiloh comes. And to him shall be the gathering of the people.
+* `Gen 49:9` *_Judah_* is a lion's whelp. From the prey, my son, you have gone up. He stooped down. He couched like a lion and like an old lion. Who shall rouse him up?
+* `Gen 49:10` The scepter shall not depart from *_Judah_*, nor a lawgiver from between his feet, until Shiloh comes. And to him shall be the gathering of the people.
 * `Exo 1:2` Reuben, Simeon, Levi, *_Judah_*,
 * `Exo 31:2` "Behold, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of *_Judah_*,
 * `Exo 35:30` And Moses said to the children of Israel, "Behold, the LORD has called by name Bezaleel, the son of Uri, the son of Hur, of the tribe of *_Judah_*.

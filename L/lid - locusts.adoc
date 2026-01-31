@@ -14,7 +14,7 @@ _1 verse containing LID_
 * `Gen 28:13` And behold, the LORD stood above it and said, "I am the LORD God of Abraham your father and the God of Isaac. The land on which you *_lie_*, I will give it to you and to your offspring.
 * `Gen 30:15` And she said to her, "Is it a small matter that you have taken my husband? And would you take away my son's mandrakes also?" And Rachel said, "Therefore, he shall *_lie_* with you tonight for your son's mandrakes."
 * `Gen 39:7` And it came to pass after these things, that his master's wife cast her eyes upon Joseph, and she said, "*_Lie_* with me."
-* `Gen 39:10` And it came to pass, as she spoke to Joseph day by day, that he did not listen to her, to *_lie_* by her, or to be with her.
+* `Gen 39:10` And it came to pass as she spoke to Joseph day by day, that he did not listen to her, to *_lie_* by her or to be with her.
 * `Gen 39:12` And she caught him by his garment, saying, "*_Lie_* with me." And he left his garment in her hand and fled and went out.
 * `Gen 39:14` That she called to the men of her house and spoke to them, saying, "See, he has brought in a Hebrew to us to mock us. He came to me to *_lie_* with me, and I cried with a loud voice.
 * `Gen 47:30` But I will *_lie_* with my fathers. And you shall carry me out of Egypt and bury me in their burying-place." And he said, "I will do as you have said."
@@ -324,7 +324,7 @@ _4 verses containing LIEUTENANTS_
 * `Gen 42:15` By this you shall be proved: by the *_life_* of Pharaoh you shall not go forth from here unless your youngest brother comes here.
 * `Gen 42:16` Send one of you and let him bring your brother. You shall be kept in prison so that your words may be proved whether there is any truth in you. Or else, by the *_life_* of Pharaoh, surely you are spies."
 * `Gen 44:30` Now therefore, when I come to your servant my father, and the boy is not with us (seeing that his *_life_* is bound up in the boy's *_life_*),
-* `Gen 45:5` Now therefore, do not be grieved, nor angry with yourselves that you sold me here because God sent me before you to preserve *_life_*.
+* `Gen 45:5` Now therefore, do not be grieved nor angry with yourselves that you sold me here, because God sent me before you to preserve *_life_*.
 * `Gen 47:9` And Jacob said to Pharaoh, "The days of the years of my pilgrimage are one hundred and thirty years. Few and evil have been the days of the years of my *_life_*, nor have they attained to the days of the years of the *_life_* of my fathers in the days of their pilgrimage."
 * `Gen 48:15` And he blessed Joseph, and said, "God, before whom my fathers Abraham and Isaac walked, the God who has fed me all my *_life_* to this day,
 * `Exo 4:19` And the LORD said to Moses in Midian, "Go, return into Egypt. For all the men are dead who sought your *_life_*."
@@ -1380,6 +1380,9 @@ _1 verse containing LIGN-ALOES_
 * `Gen 27:23` And he did not discern him because his hands were hairy, *_like_* his brother Esau's hands. So he blessed him.
 * `Gen 27:27` And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is *_like_* the smell of a field which the LORD has blessed.
 * `Gen 28:14` And your offspring shall be *_like_* the dust of the earth, and you shall spread abroad to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
+* `Gen 32:12` And you said, 'I will surely do you good and make your offspring *_like_* the sand of the sea which cannot be numbered for multitude.'"
+* `Gen 41:49` And Joseph gathered grain in great abundance, *_like_* the sand of the sea, until he ceased numbering, for it was without number.
+* `Gen 49:9` Judah is a lion's whelp. From the prey, my son, you have gone up. He stooped down. He couched *_like_* a lion and *_like_* an old lion. Who shall rouse him up?
 * `Exo 7:11` Then Pharaoh also called the wise-men and the sorcerers. And the magicians of Egypt also did in *_like_* manner with their enchantments.
 * `Exo 8:10` And he said, "Tomorrow." And he said, "May it be according to your word so that you may know that there is no one *_like_* the LORD our God.
 * `Exo 9:14` For I will at this time send all my plagues upon your heart, upon your servants, and upon your people so that you may know that there is no one *_like_* me in all the earth.
@@ -2191,7 +2194,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_818 verses containing LIKE_
+_821 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -2508,7 +2511,7 @@ _1 verse containing LINEAGE_
 
 == LINEN
 
-* `Gen 41:42` And Pharaoh took off his ring from his hand and put it upon Joseph's hand, and arrayed him in vestures of fine *_linen_* and put a gold chain around his neck.
+* `Gen 41:42` And Pharaoh took off his ring from his hand and put it upon Joseph's hand, arrayed him in vestures of fine *_linen_*, and put a gold chain around his neck.
 * `Exo 25:4` Blue, purple, scarlet, fine *_linen_*, goats' hair,
 * `Exo 26:1` "Moreover, you shall make the tabernacle with ten curtains of fine twined *_linen_* and blue, purple, and scarlet. With cherubim of skillful work you shall make them.
 * `Exo 26:31` "And you shall make a veil of blue, purple, scarlet, and fine twined *_linen_* of skillful work. With cherubim it shall be made.
@@ -2642,7 +2645,7 @@ _1 verse containing LINUS_
 
 == LION
 
-* `Gen 49:9` Judah is a *_lion_*'s whelp. From the prey, my son, you have gone up. He stooped down. He couched as a *_lion_* and as an old *_lion_*. Who shall rouse him up?
+* `Gen 49:9` Judah is a *_lion_*'s whelp. From the prey, my son, you have gone up. He stooped down. He couched like a *_lion_* and like an old *_lion_*. Who shall rouse him up?
 * `Num 23:24` Behold, the people shall rise up like a great *_lion_* and lift himself up like a young *_lion_*. He shall not lie down until he eats the prey and drinks the blood of the slain."
 * `Num 24:9` He couched, he lay down as a *_lion_* and as a great *_lion_*. Who shall rouse him? Blessed is he who blesses you, and cursed is he who curses you."
 * `Deu 33:20` And of Gad he said, "Blessed is he who enlarges Gad. He dwells as a *_lion_* and tears the arm with the crown of the head.
@@ -2943,7 +2946,7 @@ _1 verse containing LIQUORS_
 * `Gen 21:12` And God said to Abraham, "Do not let it be grievous in your sight because of the boy and because of your woman-servant. In all that Sarah has said to you, *_listen_* to her voice. For in Isaac your offspring shall be called.
 * `Gen 23:15` "My lord, *_listen_* to me. The land is worth four hundred shekels of silver. What is that between you and me? Therefore, bury your dead."
 * `Gen 34:17` But if you will not *_listen_* to us to be circumcised, then we will take our daughter and we will be gone."
-* `Gen 39:10` And it came to pass, as she spoke to Joseph day by day, that he did not *_listen_* to her, to lie by her, or to be with her.
+* `Gen 39:10` And it came to pass as she spoke to Joseph day by day, that he did not *_listen_* to her, to lie by her or to be with her.
 * `Gen 49:2` "Assemble yourselves and hear, sons of Jacob, and *_listen_* to Israel your father.
 * `Exo 3:18` And they shall *_listen_* to your voice, and you shall come—you and the elders of Israel—to the king of Egypt, and you shall say to him, 'The LORD God of the Hebrews has met with us. And now let us go (we implore you) three days journey into the wilderness so that we may sacrifice to the LORD our God.'
 * `Exo 4:1` And Moses answered and said, "But behold, they will not believe me, nor *_listen_* to my voice, for they will say, 'The LORD has not appeared to you.'"
@@ -3218,7 +3221,7 @@ _1 verse containing LITTERS_
 * `Gen 24:43` Behold, I stand by the well of water, and it shall come to pass, that when the virgin comes forth to draw water, and I say to her, "Give me, I pray you, a *_little_* water from your pitcher to drink,"
 * `Gen 30:30` For it was *_little_* which you had before I came, and it is now increased to a multitude, and the LORD has blessed you since my coming. And now when shall I provide for my own house also?"
 * `Gen 34:29` And all their wealth, all their *_little_* ones, and their wives they took captive and plundered even all that was in the house.
-* `Gen 35:16` And they journeyed from Beth-el. And there was but a *_little_* way to come to Ephrath, and Rachel travailed and had hard labor.
+* `Gen 35:16` And they journeyed from Beth-el. And there was only a *_little_* distance to come to Ephrath, and Rachel travailed and had hard labor.
 * `Gen 43:2` And it came to pass, when they had consumed the grain which they had brought from Egypt, their father said to them, "Go back, buy us a *_little_* food."
 * `Gen 43:8` And Judah said to Israel, his father, "Send the boy with me, and we will arise and go so that we may live and not die—we, you, and also our *_little_* ones.
 * `Gen 43:11` And their father Israel said to them, "If it must be so now, do this: take some of the best fruits in the land in your vessels and carry to the man a present—a *_little_* balm, a *_little_* honey, spices, myrrh, nuts, and almonds.
@@ -3227,7 +3230,7 @@ _1 verse containing LITTERS_
 * `Gen 45:19` Now you are commanded, 'Do this: take for yourselves wagons from the land of Egypt for your *_little_* ones and for your wives, and bring your father and come.
 * `Gen 46:5` And Jacob rose up from Beer-sheba. And the sons of Israel carried Jacob their father, their *_little_* ones, and their wives in the wagons which Pharaoh had sent to carry him.
 * `Gen 47:24` And it shall come to pass in the increase, that you shall give the fifth part to Pharaoh, and four parts shall be your own, for seed of the field, for your food, for those of your households, and for food for your *_little_* ones."
-* `Gen 48:7` And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way, when yet there was but a *_little_* way to come to Ephrath, and I buried her there on the way of Ephrath (the same is Beth-lehem)."
+* `Gen 48:7` And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way when there was only a *_little_* distance to come to Ephrath, and I buried her there on the way of Ephrath (the same is Beth-lehem)."
 * `Gen 50:8` All the house of Joseph, his brothers, and his father's house. Only their *_little_* ones, their flocks, and their herds they left in the land of Goshen.
 * `Gen 50:21` Now therefore, do not fear. I will nourish you and your *_little_* ones." And he comforted them and spoke kindly to them.
 * `Exo 10:10` And he said to them, "The LORD be with you if I let you go with your *_little_* ones. Look to it, for evil is before you.
@@ -3704,7 +3707,7 @@ _230 verses containing LIVE_
 * `Gen 11:26` And Terah *_lived_* seventy years and begot Abram, Nahor, and Haran.
 * `Gen 25:6` But to the sons of the concubines which Abraham had, Abraham gave gifts and sent them away from Isaac his son (while he still *_lived_*) eastward to the east country.
 * `Gen 25:7` And these are the days of the years of Abraham's life which he *_lived_*: one hundred and seventy-five years.
-* `Gen 47:28` And Jacob *_lived_* in the land of Egypt seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
+* `Gen 47:28` And Jacob *_lived_* in the land of Egypt for seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
 * `Gen 50:22` And Joseph dwelt in Egypt—he and his father's house. And Joseph *_lived_* one hundred and ten years.
 * `Num 14:38` But Joshua the son of Nun and Caleb the son of Jephunneh, who were among the men who went to search the land, *_lived_* still.
 * `Num 21:9` And Moses made a serpent of brass and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he *_lived_*.

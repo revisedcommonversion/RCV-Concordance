@@ -728,7 +728,7 @@ _5 verses containing ABIDAN_
 * `Gen 22:5` And Abraham said to his young men, "*_Abide_* here with the donkey, and the boy and I will go yonder and worship and return to you."
 * `Gen 24:55` And her brother and her mother said, "Let the young woman *_abide_* with us a few days, at the least ten. After that she shall go."
 * `Gen 29:19` And Laban said, "It is better that I give her to you than that I should give her to another man. *_Abide_* with me."
-* `Gen 44:33` Now therefore, I pray you, let your servant *_abide_* instead of the boy, as a slave to my lord, and let the boy return with his brothers.
+* `Gen 44:33` Now therefore, I pray you, let your servant *_abide_* as a slave to my lord instead of the boy, and let the boy return with his brothers.
 * `Exo 16:29` Behold, because the LORD has given you the sabbath, therefore he gives to you on the sixth day the bread for two days. Each of you *_abide_* in his place, let no man go out of his place on the seventh day."
 * `Lev 8:35` Therefore, you shall *_abide_* at the door of the Tabernacle of the Congregation day and night seven days and keep the charge of the LORD so that you do not die, for so I am commanded."
 * `Lev 19:13` 'You shall not defraud your neighbor, neither rob him. The wages of him who is hired shall not *_abide_* with you all night until the morning.
@@ -1661,10 +1661,12 @@ _3 verses containing ABOUNDS_
 * `Gen 26:7` And the men of the place asked him *_about_* his wife, and he said, "She is my sister," for he feared to say, "She is my wife"—"lest the men of the place should kill me for Rebekah, because she is fair to look upon."
 * `Gen 31:20` And Jacob deceived Laban the Syrian, in that he did not tell him that he was *_about_* to depart.
 * `Gen 38:24` And it came to pass *_about_* three months after, that it was told to Judah, saying, "Tamar your daughter-in-law has played the harlot, and also, behold she is with child by lewdness." And Judah said, "Bring her forth and let her be burnt."
-* `Gen 39:11` And it came to pass, *_about_* this time, that Joseph went into the house to do his work, and there were none of the men of the house there within.
+* `Gen 39:11` And it came to pass *_about_* this time, that Joseph went into the house to do his work, and there were none of the men of the house there within.
 * `Gen 41:25` And Joseph said to Pharaoh, "The dream of Pharaoh is one. God has revealed to Pharaoh what he is *_about_* to do.
 * `Gen 41:28` This is the thing which I have spoken to Pharaoh. What God is *_about_* to do he shows to Pharaoh.
+* `Gen 42:9` And Joseph remembered the dreams which he dreamed *_about_* them and said to them, "You are spies. You have come to see the nakedness of the land."
 * `Gen 43:27` And he asked them *_about_* their welfare and said, "Is your father well, the old man of whom you spoke? Is he still alive?"
+* `Gen 45:13` And you shall tell my father *_about_* all my glory in Egypt and *_about_* all that you have seen. And you shall hasten and bring down my father here."
 * `Exo 9:18` Behold, tomorrow *_about_* this time I will cause it to rain a very grievous hail such as has not been in Egypt since its foundation even until now.
 * `Exo 11:4` And Moses said, "Thus says the LORD: '*_About_* midnight I will go out into the midst of Egypt.
 * `Exo 12:37` And the children of Israel journeyed from Rameses to Succoth, *_about_* six hundred thousand on foot who were men, besides children.
@@ -1850,7 +1852,7 @@ _3 verses containing ABOUNDS_
 * `Rev 10:7` But in the days of the voice of the seventh angel, when he is *_about_* to sound, then the mystery of God is finished, as he has declared to his servants the prophets.
 * `Rev 16:21` And there fell upon men a great hail out of heaven, every stone *_about_* the weight of a talent. And men blasphemed God because of the plague of the hail, because its plague was exceedingly great.
 
-_194 verses containing ABOUT_
+_196 verses containing ABOUT_
 
 == ABOVE
 
@@ -2550,6 +2552,7 @@ _1 verse containing ABSTINENCE_
 
 == ABUNDANCE
 
+* `Gen 41:49` And Joseph gathered grain in great *_abundance_*, like the sand of the sea, until he ceased numbering, for it was without number.
 * `Deu 28:47` "Because you did not serve the LORD your God with joyfulness and with gladness of heart for the *_abundance_* of all things,
 * `Deu 33:19` They shall call the people to the mountain. There they shall offer sacrifices of righteousness, for they shall draw out the *_abundance_* of the seas and of treasures hid in the sand."
 * `1Sa 1:16` Do not count your servant for a daughter of Belial. For out of the *_abundance_* of my complaint and grief I have spoken until now."
@@ -2622,7 +2625,7 @@ _1 verse containing ABSTINENCE_
 * `2Co 12:7` And lest I should be exalted above measure through the *_abundance_* of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
 * `Rev 18:3` For all nations have drank of the wine of the wrath of her lewdness, the kings of the earth have committed lewd deeds with her, and the merchants of the earth have become rich through the *_abundance_* of her delicacies."
 
-_71 verses containing ABUNDANCE_
+_72 verses containing ABUNDANCE_
 
 == ABUNDANT
 
@@ -2721,7 +2724,7 @@ _1 verse containing ACCAD_
 
 == ACCEPT
 
-* `Gen 32:20` And say moreover, 'Behold, your servant Jacob is behind us.'" For he said, "I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will *_accept_* me."
+* `Gen 32:20` And say moreover, 'Behold, your servant Jacob is behind us.'" For he said, "I will appease him with the present that goes before me, and afterward, I will see his face. Perhaps he will *_accept_* me."
 * `Exo 22:11` Then an oath of the LORD shall be between them both that he has not put his hand to his neighbor's goods. And its owner shall *_accept_* it, and he shall not make restitution.
 * `Lev 26:41` And that I also have walked contrary to them and have brought them into the land of their enemies, if then their uncircumcised hearts are humbled and they then *_accept_* the punishment of their iniquity,
 * `Lev 26:43` The land shall also be left by them and shall enjoy her sabbaths while she lies desolate without them. And they shall *_accept_* the punishment of their iniquity because they despised my judgments and their soul abhorred my statutes.

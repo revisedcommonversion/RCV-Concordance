@@ -610,6 +610,8 @@ _1 verse containing DISTAFF_
 
 == DISTANCE
 
+* `Gen 35:16` And they journeyed from Beth-el. And there was only a little *_distance_* to come to Ephrath, and Rachel travailed and had hard labor.
+* `Gen 48:7` And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way when there was only a little *_distance_* to come to Ephrath, and I buried her there on the way of Ephrath (the same is Beth-lehem)."
 * `Mth 26:58` But Peter followed him at a *_distance_* to the high priest's palace, went in, and sat with the servants to see the end.
 * `Mth 27:55` And many women were there (beholding at a *_distance_*) who followed Jesus from Galilee, ministering to him,
 * `Mrk 8:3` And if I send them away fasting to their own houses, they will faint by the way, for some of them came from a *_distance_*."
@@ -618,7 +620,7 @@ _1 verse containing DISTAFF_
 * `Luk 17:12` And as he entered into a certain village, ten men who were lepers met him there, who stood at a *_distance_*.
 * `Luk 22:54` Then they took him, led him, and brought him into the high priest's house. And Peter followed at a *_distance_*.
 
-_7 verses containing DISTANCE_
+_9 verses containing DISTANCE_
 
 == DISTANT
 
@@ -883,7 +885,7 @@ _3 verses containing DIVERSITIES_
 * `Gen 1:18` To rule over the day and over the night, and to *_divide_* the light from the darkness. And God saw that it was good.
 * `Gen 15:10` And he brought all these to him, divided them in the midst, and laid each piece one against another, but the birds he did not *_divide_*.
 * `Gen 49:7` Cursed is their anger, for it was fierce, and their wrath, for it was cruel. I will *_divide_* them in Jacob and scatter them in Israel.
-* `Gen 49:27` "Benjamin is a ravenous wolf. In the morning he shall devour the prey and at night he shall *_divide_* the plunder."
+* `Gen 49:27` "Benjamin is a ravenous wolf. In the morning he shall devour the prey, and at night he shall *_divide_* the plunder."
 * `Exo 14:16` But lift your rod and stretch out your hand over the sea and *_divide_* it. And the children of Israel shall go on dry ground through the midst of the sea.
 * `Exo 15:9` The enemy said, 'I will pursue and I will overtake. I will *_divide_* the plunder. My lust shall be satisfied upon them. I will draw my sword. My hand shall destroy them.'
 * `Exo 21:35` "And if one man's ox hurts another's so that he dies, then they shall sell the live ox and *_divide_* its money. And they shall also *_divide_* the dead ox.

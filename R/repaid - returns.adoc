@@ -739,7 +739,7 @@ _26 verses containing REQUIRE_
 
 == REQUIRED
 
-* `Gen 31:39` That which was torn by beasts, I did not bring to you. I bore the loss of it. From my hand you *_required_* it, whether stolen by day, or stolen by night.
+* `Gen 31:39` That which was torn by beasts, I did not bring to you. I bore the loss of it. From my hand you *_required_* it, whether stolen by day or stolen by night.
 * `Gen 42:22` And Reuben answered them, saying, "Did I not speak to you, saying, 'Do not sin against the young man,' and you would not hear? Therefore, behold, his blood is also *_required_*."
 * `1Sa 21:8` And David said to Ahimelech, "And is there not here under your hand a spear or sword? For I have neither brought my sword nor my weapons with me because the king's business *_required_* haste."
 * `2Sa 12:20` Then David arose from the earth, washed, anointed himself, changed his apparel, and came into the house of the LORD and worshiped. Then he came to his own house. And when he *_required_*, they set bread before him, and he ate.
@@ -1431,7 +1431,7 @@ _40 verses containing RESTORE_
 * `Gen 20:14` And Abimelech took sheep, oxen, men-servants, and women-servants and gave them to Abraham and *_restored_* to him Sarah his wife.
 * `Gen 40:21` And he *_restored_* the chief butler to his butlership again, and he gave the cup into Pharaoh's hand.
 * `Gen 41:13` And it came to pass, as he interpreted to us, it was so. He *_restored_* me to my office, and he hanged him."
-* `Gen 42:28` And he said to his brothers, "My money is *_restored_*, and see it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
+* `Gen 42:28` And he said to his brothers, "My money is *_restored_*, and behold, it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
 * `Deu 28:31` Your ox shall be slain before your eyes and you shall not eat any of it. Your donkey shall be violently taken away from before your face and shall not be *_restored_* to you. Your sheep shall be given to your enemies and you shall have no one to rescue them.
 * `Jdg 17:3` And when he had *_restored_* the eleven hundred shekels of silver to his mother, his mother said, "I had wholly dedicated the silver to the LORD from my hand for my son to make an engraved image and a molten image. Now therefore, I will restore it to you."
 * `Jdg 17:4` So he *_restored_* the money to his mother, and his mother took two hundred shekels of silver and gave them to the founder, who made from it an engraved image and a molten image. And they were in the house of Micah.
@@ -1648,7 +1648,7 @@ _2 verses containing RETIRED_
 * `Gen 31:3` And the LORD said to Jacob, "*_Return_* to the land of your fathers and to your kindred, and I will be with you."
 * `Gen 31:13` I am the God of Beth-el, where you anointed the pillar and where you vowed to me a vow. Now arise, depart from this land, and *_return_* to the land of your kindred.'"
 * `Gen 32:9` And Jacob said, "O God of my father Abraham, and God of my father Isaac, the LORD who said to me, '*_Return_* to your country and to your kindred, and I will deal well with you,'
-* `Gen 44:33` Now therefore, I pray you, let your servant abide instead of the boy, as a slave to my lord, and let the boy *_return_* with his brothers.
+* `Gen 44:33` Now therefore, I pray you, let your servant abide as a slave to my lord instead of the boy, and let the boy *_return_* with his brothers.
 * `Gen 44:34` For how shall I *_return_* to my father if the boy is not with me?—Lest perhaps I see the evil that shall come on my father."
 * `Gen 45:9` Hasten, *_return_* to my father, and say to him, 'Thus says your son Joseph: "God has made me lord of all Egypt. Come down to me. Do not delay.
 * `Gen 45:17` And Pharaoh said to Joseph, "Say to your brothers, 'Do this: load your beasts and go, *_return_* to the land of Canaan,
@@ -1850,7 +1850,7 @@ _2 verses containing RETIRED_
 * `Ezk 35:9` I will make you perpetual desolations, and your cities shall not *_return_*. And you shall know that I am the LORD.
 * `Ezk 46:9` But when the people of the land come before the LORD in the solemn feasts, he who enters in by the way of the north gate to worship shall go out by the way of the south gate, and he who enters by the way of the south gate shall go forth by the way of the north gate. He shall not *_return_* by the way of the gate by which he came in, but shall go forth over against it.
 * `Ezk 46:17` But if he gives a gift of his inheritance to one of his servants, then it shall be his to the year of liberty. Afterward, it shall *_return_* to the prince. But his inheritance shall be to his sons for them.
-* `Ezk 47:6` And he said to me, "Son of man, have you seen this?" Then he brought me and caused me to *_return_* to the brink of the river.
+* `Ezk 47:6` And he said to me, "Son of man, have you seen this?" Then he brought me and caused me to *_return_* to the bank of the river.
 * `Dan 10:20` Then he said, "Do you know for what cause I come to you? And now I will *_return_* to fight with the prince of Persia. And when I have gone forth, behold, the prince of Grecia shall come.
 * `Dan 11:9` And the king of the south shall come into his kingdom and shall *_return_* into his own land.
 * `Dan 11:10` "But his sons shall be stirred up and shall assemble a multitude of great forces. And one shall certainly come, overflow, and pass through. Then he shall *_return_* and be stirred up, even to his fortress.

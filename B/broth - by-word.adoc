@@ -65,10 +65,10 @@ _3 verses containing BROTH_
 * `Gen 36:6` And Esau took his wives, his sons, his daughters, all the persons of his house, his livestock, all his beasts, and all his substance which he had acquired in the land of Canaan, and went into the country from the face of his *_brother_* Jacob.
 * `Gen 37:26` And Judah said to his brothers, "What profit is it if we slay our *_brother_* and conceal his blood.
 * `Gen 37:27` Come, and let us sell him to the Ishmaelites, and do not let our hand be upon him, for he is our *_brother_*, our flesh." And his brothers were content.
-* `Gen 38:8` And Judah said to Onan, "Go in to your *_brother_*'s wife and marry her, and raise up a child for your *_brother_*."
-* `Gen 38:9` And Onan knew that the child would not be his. And it came to pass, when he went in to his *_brother_*'s wife, that he frustrated the purpose, lest he should give a child to his *_brother_*.
+* `Gen 38:8` And Judah said to Onan, "Go in to your *_brother_*'s wife and marry her and raise up a child for your *_brother_*."
+* `Gen 38:9` And Onan knew that the child would not be his. And it came to pass when he went in to his *_brother_*'s wife, that he frustrated the purpose, lest he should give a child to his *_brother_*.
 * `Gen 38:29` And it came to pass as he drew back his hand, that behold, his *_brother_* came out, and she said, "How have you broken forth? This breach is upon you." Therefore, his name was called Pharez.
-* `Gen 38:30` And afterward his *_brother_* came out who had the scarlet thread upon his hand, and his name was called Zarah.
+* `Gen 38:30` And afterward, his *_brother_* came out who had the scarlet thread upon his hand, and his name was called Zarah.
 * `Gen 42:4` But Benjamin, Joseph's *_brother_*, Jacob did not send with his brothers, for he said, "Lest perhaps mischief befalls him."
 * `Gen 42:15` By this you shall be proved: by the life of Pharaoh you shall not go forth from here unless your youngest *_brother_* comes here.
 * `Gen 42:16` Send one of you and let him bring your *_brother_*. You shall be kept in prison so that your words may be proved whether there is any truth in you. Or else, by the life of Pharaoh, surely you are spies."
@@ -85,7 +85,7 @@ _3 verses containing BROTH_
 * `Gen 43:14` And may God Almighty give you mercy before the man so that he may send away your other *_brother_* and Benjamin. If I am bereaved, I am bereaved."
 * `Gen 43:29` And he lifted up his eyes and saw his *_brother_* Benjamin, his mother's son, and said, "Is this your younger *_brother_* of whom you spoke to me?" And he said, "May God be gracious to you, my son."
 * `Gen 43:30` And Joseph made haste, for his heart yearned toward his *_brother_*, and he sought a place to weep. And he entered into his chamber and wept there.
-* `Gen 44:19` My lord asked his servants, saying, 'Do you have a father, or a *_brother_*?'
+* `Gen 44:19` My lord asked his servants, saying, 'Do you have a father or a *_brother_*?'
 * `Gen 44:20` And we said to my lord, 'We have a father, an old man, and a child of his old age, a little one. And his *_brother_* is dead, and he alone is left of his mother, and his father loves him.'
 * `Gen 44:23` And you said to your servants, 'Unless your youngest *_brother_* comes down with you, you shall see my face no more.'
 * `Gen 44:26` And we said, 'We cannot go down. If our youngest *_brother_* is with us, then we will go down, for we may not see the man's face unless our youngest *_brother_* is with us.'
@@ -407,8 +407,8 @@ _5 verses containing BROTHERLY_
 * `Gen 34:25` And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's *_brothers_*, each took his sword and came upon the city boldly and slew all the males.
 * `Gen 37:2` These are the generations of Jacob. Joseph being seventeen years old was feeding the flock with his *_brothers_*, and the boy was with the sons of Bilhah and with the sons of Zilpah, his father's wives. And Joseph brought to his father their evil report.
 * `Gen 37:4` And when his *_brothers_* saw that their father loved him more than all his *_brothers_*, they hated him and could not speak peaceably to him.
-* `Gen 37:5` And Joseph dreamed a dream and he told it to his *_brothers_*, and they hated him yet the more.
-* `Gen 37:8` And his *_brothers_* said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him yet the more for his dreams and for his words.
+* `Gen 37:5` And Joseph dreamed a dream and he told it to his *_brothers_*, and they hated him even more.
+* `Gen 37:8` And his *_brothers_* said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him even more for his dreams and for his words.
 * `Gen 37:9` And he dreamed yet another dream and told it to his *_brothers_*, and said, "Behold, I have dreamed a dream again, and behold, the sun and the moon and the eleven stars made obeisance to me."
 * `Gen 37:10` And he told it to his father and to his *_brothers_*. And his father rebuked him and said to him, "What is this dream that you have dreamed? Shall I and your mother and your *_brothers_* indeed come to bow down ourselves to you to the earth?"
 * `Gen 37:11` And his *_brothers_* envied him, but his father observed the saying.
@@ -430,15 +430,15 @@ _5 verses containing BROTHERLY_
 * `Gen 42:8` And Joseph knew his *_brothers_*, but they did not know him.
 * `Gen 42:13` And they said, "Your servants are twelve *_brothers_*, the sons of one man in the land of Canaan, and behold, the youngest is this day with our father and one is no more."
 * `Gen 42:19` If you are true men, let one of your *_brothers_* be bound in the house of your prison. Go, carry grain for the famine of your houses,
-* `Gen 42:28` And he said to his *_brothers_*, "My money is restored, and see it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
+* `Gen 42:28` And he said to his *_brothers_*, "My money is restored, and behold, it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
 * `Gen 42:32` We are twelve *_brothers_*, sons of our father. One is no more and the youngest is this day with our father in the land of Canaan.'
 * `Gen 42:33` And the man, the lord of the country, said to us, 'By this I shall know that you are true men: leave one of your *_brothers_* here with me, take food for the famine of your households, and depart,
 * `Gen 44:14` And Judah and his *_brothers_* came to Joseph's house (for he was still there), and they fell before him on the ground.
-* `Gen 44:33` Now therefore, I pray you, let your servant abide instead of the boy, as a slave to my lord, and let the boy return with his *_brothers_*.
+* `Gen 44:33` Now therefore, I pray you, let your servant abide as a slave to my lord instead of the boy, and let the boy return with his *_brothers_*.
 * `Gen 45:1` Then Joseph could not refrain himself before all those who stood by him. And he cried, "Cause every man to go out from me." And there stood no man with him while Joseph made himself known to his *_brothers_*.
 * `Gen 45:3` And Joseph said to his *_brothers_*, "I am Joseph. Does my father still live?" And his *_brothers_* could not answer him because they were troubled at his presence.
 * `Gen 45:4` And Joseph said to his *_brothers_*, "Come near to me, I pray you." And they came near. And he said, "I am Joseph your brother, whom you sold into Egypt.
-* `Gen 45:15` Moreover, he kissed all his *_brothers_* and wept upon them. And afterward his *_brothers_* talked with him.
+* `Gen 45:15` Moreover, he kissed all his *_brothers_* and wept upon them. And afterward, his *_brothers_* talked with him.
 * `Gen 45:16` And the fame of this was heard in Pharaoh's house, saying, "Joseph's *_brothers_* have come." And it pleased Pharaoh and his servants.
 * `Gen 45:17` And Pharaoh said to Joseph, "Say to your *_brothers_*, 'Do this: load your beasts and go, return to the land of Canaan,
 * `Gen 45:24` So he sent his *_brothers_* away and they departed. And he said to them, "See that you do not contend on the way."
@@ -1617,7 +1617,7 @@ _542 verses containing BROTHERS_
 * `Ezk 47:2` Then he *_brought_* me out of the way of the gate northward and led me around by the way outside to the outer gate that looks eastward, and behold, waters ran out on the right side.
 * `Ezk 47:3` And when the man who had the line in his hand went forth eastward, he measured one thousand cubits and *_brought_* me through the waters. The waters were to the ankles.
 * `Ezk 47:4` Again he measured one thousand and *_brought_* me through the waters. The waters were to the knees. Again he measured one thousand and *_brought_* me through. The waters were to the loins.
-* `Ezk 47:6` And he said to me, "Son of man, have you seen this?" Then he *_brought_* me and caused me to return to the brink of the river.
+* `Ezk 47:6` And he said to me, "Son of man, have you seen this?" Then he *_brought_* me and caused me to return to the bank of the river.
 * `Ezk 47:8` Then he said to me, "These waters issue out toward the east country, go down into the desert, and go into the sea. When [the waters] are *_brought_* forth into the sea, the waters become fresh.
 * `Dan 1:2` And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God, which he carried into the land of Shinar to the house of his god. And he *_brought_* the vessels into the treasure-house of his god.
 * `Dan 1:9` Now God had *_brought_* Daniel into favor and tender love with the prince of the eunuchs.
@@ -2646,7 +2646,7 @@ _1 verse containing BULRUSH_
 
 == BULRUSHES
 
-* `Exo 2:3` And when she could no longer hide him, she took for him a basket of *_bulrushes_*, daubed it with slime and with pitch, put the child therein, and she laid it in the reeds by the river's brink.
+* `Exo 2:3` And when she could no longer hide him, she took for him a basket of *_bulrushes_*, daubed it with slime and with pitch, put the child therein, and she laid it in the reeds by the river's bank.
 * `Isa 18:2` That sends ambassadors by the sea, even in vessels of *_bulrushes_* upon the waters, saying, "Go, you swift messengers, to a nation scattered and peeled, to a people awesome from their beginning until now, a nation measured by line and trodden down, whose land the rivers have laid waste."
 
 _2 verses containing BULRUSHES_
@@ -2844,7 +2844,7 @@ _9 verses containing BURIAL_
 * `Gen 35:8` But Deborah, Rebekah's nurse, died, and she was *_buried_* beneath Beth-el under an oak. And its name was called Allon-bachuth.
 * `Gen 35:19` And Rachel died and was *_buried_* on the way to Ephrath, which is Beth-lehem.
 * `Gen 35:29` And Isaac expired and died and was gathered to his people, being old and full of days. And his sons Esau and Jacob *_buried_* him.
-* `Gen 48:7` And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way, when yet there was but a little way to come to Ephrath, and I *_buried_* her there on the way of Ephrath (the same is Beth-lehem)."
+* `Gen 48:7` And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way when there was only a little distance to come to Ephrath, and I *_buried_* her there on the way of Ephrath (the same is Beth-lehem)."
 * `Gen 49:31` (There they *_buried_* Abraham and Sarah his wife, there they *_buried_* Isaac and Rebekah his wife, and there I *_buried_* Leah.)
 * `Gen 50:13` For his sons carried him into the land of Canaan and *_buried_* him in the cave of the field of Machpelah near Mamre, which Abraham bought with the field as a possession for a burying-place from Ephron the Hittite.
 * `Gen 50:14` And Joseph returned to Egypt—he and his brothers and all who went up with him to bury his father—after he had *_buried_* his father.

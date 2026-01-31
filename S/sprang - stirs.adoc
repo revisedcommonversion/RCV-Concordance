@@ -642,7 +642,7 @@ _1 verse containing STANCHED_
 * `Gen 24:31` And he said, "Come in, you blessed of the LORD. Why do you *_stand_* outside? For I have prepared the house, and room for the camels."
 * `Gen 24:43` Behold, I *_stand_* by the well of water, and it shall come to pass, that when the virgin comes forth to draw water, and I say to her, "Give me, I pray you, a little water from your pitcher to drink,"
 * `Exo 3:5` And he said, "Do not approach here. Take off your shoes from your feet, for the place on which you *_stand_* is holy ground."
-* `Exo 7:15` Go to Pharaoh in the morning, behold, he goes out to the water, and you shall *_stand_* by the river's brink to meet him. And the rod which was turned to a serpent you shall take in your hand.
+* `Exo 7:15` Go to Pharaoh in the morning, behold, he goes out to the water, and you shall *_stand_* by the river's bank to meet him. And the rod which was turned to a serpent you shall take in your hand.
 * `Exo 8:20` And the LORD said to Moses, "Rise early in the morning and *_stand_* before Pharaoh (behold, he comes forth to the water) and say to him, 'Thus says the LORD: "Let my people go so that they may serve me.
 * `Exo 9:11` And the magicians could not *_stand_* before Moses because of the boil, for the boil was upon the magicians and upon all the Egyptians.
 * `Exo 9:13` And the LORD said to Moses, "Rise early in the morning and *_stand_* before Pharaoh and say to him, 'Thus says the LORD God of the Hebrews: "Let my people go so that they may serve me.
@@ -683,7 +683,7 @@ _1 verse containing STANCHED_
 * `Deu 27:13` And these shall *_stand_* upon mount Ebal to curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
 * `Deu 29:10` "All of you *_stand_* this day before the LORD your God—your captains of your tribes, your elders, and your officers, with all the men of Israel,
 * `Jsh 1:5` There shall not be any man able to *_stand_* before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you, nor forsake you.
-* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the brink of the water of the Jordan, you shall *_stand_* still in the Jordan.'"
+* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the edge of the water of the Jordan, you shall *_stand_* still in the Jordan.'"
 * `Jsh 3:13` And it shall come to pass, as soon as the soles of the feet of the priests who bear the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan shall be cut off from the waters that come down from above. And they shall *_stand_* in a heap."
 * `Jsh 5:15` And the captain of the LORD'S host said to Joshua, "Take your shoes off your feet, for the place on which you *_stand_* is holy." And Joshua did so.
 * `Jsh 7:12` Therefore, the children of Israel could not *_stand_* before their enemies, but turned their backs before their enemies, because they were accursed. Neither will I be with you anymore unless you destroy the accursed things from among you.
@@ -1692,7 +1692,7 @@ _1 verse containing STEADY_
 
 == STEAL
 
-* `Gen 31:27` Why did you flee away secretly, and *_steal_* away from me and not tell me so that I might have sent you away with mirth, with songs, with tambourine, and with harp,
+* `Gen 31:27` Why did you flee away secretly and *_steal_* away from me and not tell me? I would have sent you away with mirth, with songs, with tambourine, and with harp.
 * `Gen 44:8` Behold, the money which we found in our sacks' mouths, we brought back to you from the land of Canaan. How then should we *_steal_* from your lord's house silver or gold?
 * `Exo 20:15` "You shall not *_steal_*.
 * `Lev 19:11` 'You shall not *_steal_*, neither deal falsely, neither lie to one another.
@@ -1953,6 +1953,7 @@ _1 verse containing STIFFENED_
 * `Gen 25:6` But to the sons of the concubines which Abraham had, Abraham gave gifts and sent them away from Isaac his son (while he *_still_* lived) eastward to the east country.
 * `Gen 29:7` And he said, "Behold, it is *_still_* the middle of the day, neither is it time that the livestock should be collected. Water the sheep and go and feed them."
 * `Gen 29:9` And while he was *_still_* speaking with them, Rachel came with her father's sheep, for she kept them.
+* `Gen 31:14` And Rachel and Leah answered and said to him, "Is there *_still_* any portion or inheritance for us in our father's house?
 * `Gen 41:21` And when they had eaten them up, it could not be known that they had eaten them, but they were *_still_* ill-favored, as at the beginning. So I awoke.
 * `Gen 43:7` And they said, "The man asked us strictly concerning our state and our kindred, saying, 'Is your father *_still_* alive? Do you have another brother?' And we told him according to the tenor of these words. Could we certainly know that he would say, 'Bring your brother down?'"
 * `Gen 43:27` And he asked them about their welfare and said, "Is your father well, the old man of whom you spoke? Is he *_still_* alive?"
@@ -1979,7 +1980,7 @@ _1 verse containing STIFFENED_
 * `Num 19:13` Whoever touches the dead body of any man who is dead and does not purify himself, defiles the tabernacle of the LORD, and that soul shall be cut off from Israel. Because the water of separation was not sprinkled upon him, he shall be unclean. His uncleanness is *_still_* upon him.
 * `Num 30:16` These are the statutes which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being *_still_* in her youth in her father's house.
 * `Deu 31:27` For I know your rebellion and your stiff neck. Behold, while I am *_still_* alive with you this day, you have been rebellious against the LORD. And how much more after my death?
-* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the brink of the water of the Jordan, you shall stand *_still_* in the Jordan.'"
+* `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the edge of the water of the Jordan, you shall stand *_still_* in the Jordan.'"
 * `Jsh 10:12` Then Joshua spoke to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, "Sun, stand *_still_* upon Gibeon, and you, Moon, in the valley of Ajalon."
 * `Jsh 10:13` And the sun stood *_still_* and the moon stayed until the people had avenged themselves upon their enemies. Is this not written in the book of Jasher? So the sun stood *_still_* in the midst of the heavens and did not hasten to go down about a whole day.
 * `Jsh 11:13` But as for the cities that stood *_still_* in their strength, Israel burned none of them, except Hazor only. Joshua burned that one.
@@ -2146,7 +2147,7 @@ _1 verse containing STIFFENED_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues *_still_* did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, hear, nor walk.
 * `Rev 22:11` He who is unjust, let him be unjust *_still_*. He who is filthy, let him be filthy *_still_*. He who is righteous, let him be righteous *_still_*. He who is holy, let him be holy *_still_*."
 
-_197 verses containing STILL_
+_198 verses containing STILL_
 
 == STILLED
 

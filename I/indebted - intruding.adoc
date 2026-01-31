@@ -13,7 +13,7 @@ _1 verse containing INDEBTED_
 * `Gen 20:6` And God said to him in a dream, "*_Indeed_*, I know that you did this in the integrity of your heart, and I also withheld you from sinning against me. Therefore, I did not allow you to touch her.
 * `Gen 20:12` And yet *_indeed_* she is my sister. She is the daughter of my father, but not the daughter of my mother, and she became my wife.
 * `Gen 27:33` And Isaac trembled exceedingly and said, "Who? Where is he who has taken this wild game and brought it to me, and I have eaten all of it before you came and have blessed him? *_Indeed_*, he shall be blessed."
-* `Gen 37:8` And his brothers said to him, "Shall you *_indeed_* reign over us? Or shall you *_indeed_* have dominion over us?" And they hated him yet the more for his dreams and for his words.
+* `Gen 37:8` And his brothers said to him, "Shall you *_indeed_* reign over us? Or shall you *_indeed_* have dominion over us?" And they hated him even more for his dreams and for his words.
 * `Gen 37:10` And he told it to his father and to his brothers. And his father rebuked him and said to him, "What is this dream that you have dreamed? Shall I and your mother and your brothers *_indeed_* come to bow down ourselves to you to the earth?"
 * `Gen 40:15` For *_indeed_* I was stolen away from the land of the Hebrews, and here also I have done nothing that they should put me into the dungeon."
 * `Gen 43:20` And said, "O sir, we came down *_indeed_* at the first time to buy food.
@@ -781,7 +781,7 @@ _62 verses containing INHERIT_
 
 == INHERITANCE
 
-* `Gen 31:14` And Rachel and Leah answered and said to him, "Is there yet any portion or *_inheritance_* for us in our father's house?
+* `Gen 31:14` And Rachel and Leah answered and said to him, "Is there still any portion or *_inheritance_* for us in our father's house?
 * `Gen 48:6` And your family, which you beget after them, shall be yours and shall be called after the name of their brothers in their *_inheritance_*.
 * `Exo 15:17` You shall bring them in and plant them in the mountain of your *_inheritance_*, in the place, O LORD, which you have made for you to dwell in, in the sanctuary, O Lord, which your hands have established.
 * `Exo 34:9` And he said, "If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us (for it is a stiff-necked people) and pardon our iniquity and our sin and take us for your *_inheritance_*."
@@ -1704,7 +1704,7 @@ _6 verses containing INSTANT_
 
 * `Gen 4:25` And Adam knew his wife again, and she bore a son and called his name Seth, for she said, "God has appointed me another child *_instead_* of Abel, whom Cain slew."
 * `Gen 22:13` And Abraham lifted up his eyes and looked, and behold, behind him a ram caught in a thicket by his horns. And Abraham went and took the ram and offered him for a burnt-offering *_instead_* of his son.
-* `Gen 44:33` Now therefore, I pray you, let your servant abide *_instead_* of the boy, as a slave to my lord, and let the boy return with his brothers.
+* `Gen 44:33` Now therefore, I pray you, let your servant abide as a slave to my lord *_instead_* of the boy, and let the boy return with his brothers.
 * `Exo 5:12` So the people were scattered abroad throughout all the land of Egypt to gather stubble *_instead_* of straw.
 * `Num 3:12` "And I, behold, I have taken the Levites from among the children of Israel *_instead_* of all the first-born who opens the womb among the children of Israel. Therefore, the Levites shall be mine,
 * `Num 3:41` And you shall take the Levites for me (I am the LORD) *_instead_* of all the first-born among the children of Israel, and the livestock of the Levites *_instead_* of all the first-born among the livestock of the children of Israel."
@@ -2052,7 +2052,7 @@ _1 verse containing INTERMISSION_
 
 == INTERPRET
 
-* `Gen 41:8` And it came to pass in the morning, that his spirit was troubled and he sent and called for all the magicians of Egypt and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could *_interpret_* them to Pharaoh.
+* `Gen 41:8` And it came to pass in the morning, that his spirit was troubled, and he sent and called for all the magicians of Egypt and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could *_interpret_* them to Pharaoh.
 * `Gen 41:15` And Pharaoh said to Joseph, "I have dreamed a dream and there is no one who can *_interpret_* it. And I have heard it said of you that you can understand a dream to *_interpret_* it."
 * `1Co 12:30` Do all have the gifts of healing? Do all speak in languages? Do all *_interpret_*?
 * `1Co 14:13` Therefore, let him who speaks in an unknown language pray that he may *_interpret_*.
@@ -2134,7 +2134,7 @@ _11 verses containing INTERPRETED_
 == INTERPRETER
 
 * `Gen 40:8` And they said to him, "We have dreamed a dream and there is no *_interpreter_* of it." And Joseph said to them, "Do interpretations not belong to God? Tell me them, I pray you."
-* `Gen 42:23` And they did not know that Joseph understood them because he spoke to them by an *_interpreter_*.
+* `Gen 42:23` And they did not know that Joseph understood them because he spoke to them through an *_interpreter_*.
 * `Job 33:23` If there is a messenger with him, an *_interpreter_*, one among a thousand, to show to man his uprightness,
 * `1Co 14:28` But if there is no *_interpreter_*, let him be silent in the church and let him speak to himself and to God.
 

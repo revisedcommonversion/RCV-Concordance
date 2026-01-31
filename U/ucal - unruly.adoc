@@ -1176,7 +1176,7 @@ _10 verses containing UNDERSTANDS_
 
 == UNDERSTOOD
 
-* `Gen 42:23` And they did not know that Joseph *_understood_* them because he spoke to them by an interpreter.
+* `Gen 42:23` And they did not know that Joseph *_understood_* them because he spoke to them through an interpreter.
 * `Deu 32:29` O that they were wise, that they *_understood_* this, that they would consider their latter end!
 * `1Sa 4:6` And when the Philistines heard the noise of the shout, they said, "What does the noise of this great shout in the camp of the Hebrews mean?" And they *_understood_* that the ark of the LORD had come into the camp.
 * `1Sa 26:4` David therefore sent out spies and *_understood_* that Saul had indeed come.
