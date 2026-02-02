@@ -244,7 +244,7 @@ _4 verses containing COLLECT_
 
 * `Gen 29:7` And he said, "Behold, it is still the middle of the day, neither is it time that the livestock should be *_collected_*. Water the sheep and go and feed them."
 * `Gen 29:8` And they said, "We cannot until all the flocks are *_collected_* and until they roll the stone from the well's mouth. Then we water the sheep."
-* `Exo 15:8` And with the blast of your nostrils the waters were *_collected_*, the floods stood upright as a heap, and the depths were congealed in the heart of the sea.
+* `Exo 15:8` And with the blast of your nostrils the waters were *_collected_*, the floods stood upright like a heap, and the depths were congealed in the heart of the sea.
 * `Num 21:23` And Sihon would not allow Israel to pass through his border. But Sihon *_collected_* all his people and went out against Israel into the wilderness, and he came to Jahaz and fought against Israel.
 * `Jdg 4:13` And Sisera *_collected_* all his chariots, even nine hundred chariots of iron, and all the people who were with him, from Harosheth of the Gentiles to the river of Kishon.
 * `Jdg 11:20` But Sihon did not trust Israel to pass through his border. So Sihon *_collected_* all his people, encamped in Jahaz, and fought against Israel.
@@ -490,7 +490,7 @@ _3 verses containing COLTS_
 * `Gen 49:6` O my soul, do not *_come_* into their secret. To their assembly, my honor, do not be united, for in their anger they slew a man and in their self-will they dug down a wall.
 * `Gen 50:5` 'My father made me swear, saying, "Behold, I die. In my grave which I have dug for me in the land of Canaan, there you shall bury me." Now therefore, let me go, I pray you, and bury my father, and I will *_come_* back.'"
 * `Exo 1:10` *_Come_*, let us deal wisely with them, lest they multiply, and it *_come_* to pass that when any war breaks out, they will join with our enemies and fight against us and depart from the land."
-* `Exo 1:19` And the midwives said to Pharaoh, "Because the Hebrew women are not as the Egyptian women. For they are lively and deliver before the midwives *_come_* to them."
+* `Exo 1:19` And the midwives said to Pharaoh, "Because the Hebrew women are not like the Egyptian women. For they are lively and deliver before the midwives *_come_* to them."
 * `Exo 2:18` And when they came to Reuel their father, he said, "How is it that you have *_come_* so soon today?"
 * `Exo 3:8` And I have *_come_* down to deliver them from the hand of the Egyptians, and to bring them out of that land to a good and large land, to a land flowing with milk and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.
 * `Exo 3:9` Now therefore, behold, the cry of the children of Israel has *_come_* to me, and I have also seen the oppression with which the Egyptians oppress them.
@@ -505,10 +505,10 @@ _3 verses containing COLTS_
 * `Exo 8:5` And the LORD spoke to Moses, "Say to Aaron, 'Stretch forth your hand with your rod over the streams, over the rivers, and over the ponds, and cause frogs to *_come_* up on the land of Egypt.'"
 * `Exo 9:19` Now therefore, send and gather your livestock and all that you have in the field, for upon every man and beast which is found in the field and is not brought home, the hail shall *_come_* down upon them and they shall die."'"
 * `Exo 10:12` And the LORD said to Moses, "Stretch out your hand over the land of Egypt for the locusts so that they may *_come_* upon the land of Egypt and eat every herb of the land, even all that the hail has left."
-* `Exo 11:8` And all these servants of yours shall *_come_* down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that I will depart." And he went out from Pharaoh in a great anger.
-* `Exo 12:23` For the LORD will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will pass over the door and will not allow the destroyer to *_come_* in to your houses to smite you.
-* `Exo 12:25` And it shall *_come_* to pass, when you have *_come_* to the land which the LORD will give you, according as he has promised, that you shall keep this service.
-* `Exo 12:26` And it shall *_come_* to pass, when your children say to you, 'What do you mean by this service?'
+* `Exo 11:8` And all these servants of yours shall *_come_* down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that, I will depart." And he went out from Pharaoh in a great anger.
+* `Exo 12:23` For the LORD will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will pass over the door and will not allow the destroyer to *_come_* into your houses to smite you.
+* `Exo 12:25` And it shall *_come_* to pass when you have *_come_* to the land which the LORD will give you, according as he has promised, that you shall keep this service.
+* `Exo 12:26` And it shall *_come_* to pass when your children say to you, 'What do you mean by this service?'
 * `Exo 12:48` And when a stranger sojourns with you and wishes to keep the passover to the LORD, let all his males be circumcised and then let him *_come_* near and keep it, and he shall be as one who is born in the land. For no uncircumcised person shall eat it.
 * `Exo 13:14` And it shall be that your son shall ask you in time to *_come_*, saying, 'What is this?' Then you shall say to him, 'By strength of hand the LORD brought us out from Egypt, from the house of bondage.
 * `Exo 14:20` And it came between the camp of the Egyptians and the camp of Israel. It was a cloud and darkness to them, but it gave light by night to these, so that one did not *_come_* near the other all the night.
@@ -4080,10 +4080,9 @@ _1 verse containing COMMOTIONS_
 
 == COMMUNICATE
 
-* `Gal 6:6` Let him who is taught in the word *_communicate_* to him who teaches in all good things.
 * `1Ti 6:18` Charge them to do good and that they be rich in good works, ready to distribute, willing to *_communicate_*,
 
-_2 verses containing COMMUNICATE_
+_1 verse containing COMMUNICATE_
 
 == COMMUNICATED
 

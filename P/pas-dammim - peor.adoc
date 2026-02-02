@@ -123,7 +123,7 @@ _12 verses containing PASHUR_
 * `Exo 1:10` Come, let us deal wisely with them, lest they multiply, and it come to *_pass_* that when any war breaks out, they will join with our enemies and fight against us and depart from the land."
 * `Exo 1:21` And it came to *_pass_*, because the midwives feared God, that he made them houses.
 * `Exo 2:11` And it came to *_pass_* in those days, when Moses was grown, that he went out to his brothers and looked at their burdens. And he spied an Egyptian smiting a Hebrew, one of his brothers.
-* `Exo 2:23` And it came to *_pass_* in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their cry ascended to God, by reason of the bondage.
+* `Exo 2:23` And it came to *_pass_* in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their cry because of the bondage ascended to God.
 * `Exo 3:21` And I will give this people favor in the sight of the Egyptians. And it shall come to *_pass_*, that when you go, you shall not go empty,
 * `Exo 4:8` "And it shall come to *_pass_*, if they will not believe you, neither listen to the voice of the first sign, that they will believe the voice of the latter sign.
 * `Exo 4:9` And it shall come to *_pass_*, if they will not believe even these two signs, neither listen to your voice, that you shall take some of the water from the river and pour it upon the dry land. And the water which you take out of the river shall become blood upon the dry land."
@@ -131,14 +131,14 @@ _12 verses containing PASHUR_
 * `Exo 6:28` And it came to *_pass_* on the day when the LORD spoke to Moses in the land of Egypt,
 * `Exo 12:12` For I will *_pass_* through the land of Egypt this night and will smite all the first-born in the land of Egypt, both man and beast. And against all the gods of Egypt I will execute judgment. I am the LORD.
 * `Exo 12:13` And the blood shall be to you for a token upon the houses where you are. And when I see the blood, I will *_pass_* over you, and the plague shall not be upon you to destroy you when I smite the land of Egypt.
-* `Exo 12:23` For the LORD will *_pass_* through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will *_pass_* over the door and will not allow the destroyer to come in to your houses to smite you.
-* `Exo 12:25` And it shall come to *_pass_*, when you have come to the land which the LORD will give you, according as he has promised, that you shall keep this service.
-* `Exo 12:26` And it shall come to *_pass_*, when your children say to you, 'What do you mean by this service?'
+* `Exo 12:23` For the LORD will *_pass_* through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will *_pass_* over the door and will not allow the destroyer to come into your houses to smite you.
+* `Exo 12:25` And it shall come to *_pass_* when you have come to the land which the LORD will give you, according as he has promised, that you shall keep this service.
+* `Exo 12:26` And it shall come to *_pass_* when your children say to you, 'What do you mean by this service?'
 * `Exo 12:29` And it came to *_pass_*, that at midnight the LORD smote all the first-born in the land of Egypt, from the first-born of Pharaoh who sat on his throne to the first-born of the captive who was in the dungeon, and all the first-born of livestock.
-* `Exo 12:41` And it came to *_pass_*, at the end of the four hundred and thirty years, even the same day it came to *_pass_*, that all the hosts of the LORD departed from the land of Egypt.
+* `Exo 12:41` And it came to *_pass_* at the end of the four hundred and thirty years, even the same day it came to *_pass_*, that all the hosts of the LORD departed from the land of Egypt.
 * `Exo 12:51` And it came to *_pass_* the same day, that the LORD brought the children of Israel out of the land of Egypt by their armies.
-* `Exo 13:15` And it came to *_pass_*, when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
-* `Exo 13:17` And it came to *_pass_*, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
+* `Exo 13:15` And it came to *_pass_* when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
+* `Exo 13:17` And it came to *_pass_* when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
 * `Exo 14:24` And it came to *_pass_*, that in the morning-watch, the LORD looked to the host of the Egyptians through the pillar of fire and of the cloud and troubled the host of the Egyptians,
 * `Exo 15:16` Fear and dread shall fall upon them. By the greatness of your arm they shall be as still as a stone until your people *_pass_* over, O LORD, until the people *_pass_* over, which you have purchased.
 * `Exo 16:5` And it shall come to *_pass_*, that on the sixth day they shall prepare that which they bring in. And it shall be twice as much as they gather daily."
@@ -2720,7 +2720,7 @@ _2 verses containing PENURY_
 * `Exo 4:21` And the LORD said to Moses, "When you go to return into Egypt, see that you perform all those wonders before Pharaoh which I have put in your hand. But I will harden his heart so that he shall not let the *_people_* go.
 * `Exo 4:30` And Aaron spoke all the words which the LORD had spoken to Moses and performed the signs in the sight of the *_people_*.
 * `Exo 4:31` And the *_people_* believed. And when they heard that the LORD had visited the children of Israel and that he had looked upon their affliction, then they bowed their heads and worshiped.
-* `Exo 5:1` And afterward Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my *_people_* go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my *_people_* go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:4` And the king of Egypt said to them, "Why do you, Moses and Aaron, hinder the *_people_* from their works? Go to your burdens."
 * `Exo 5:5` And Pharaoh said, "Behold, the *_people_* of the land are now many, and you make them rest from their burdens."
 * `Exo 5:6` And Pharaoh commanded the same day the task-masters of the *_people_* and their officers, saying,
@@ -2752,22 +2752,22 @@ _2 verses containing PENURY_
 * `Exo 9:13` And the LORD said to Moses, "Rise early in the morning and stand before Pharaoh and say to him, 'Thus says the LORD God of the Hebrews: "Let my *_people_* go so that they may serve me.
 * `Exo 9:14` For I will at this time send all my plagues upon your heart, upon your servants, and upon your *_people_* so that you may know that there is no one like me in all the earth.
 * `Exo 9:15` For now I will stretch out my hand so that I may smite you and your *_people_* with pestilence, and you shall be cut off from the earth.
-* `Exo 9:17` Still you exalt yourself against my *_people_* so that you will not let them go.
+* `Exo 9:17` Still you exalt yourself against my *_people_* and will not let them go.
 * `Exo 9:27` And Pharaoh sent and called for Moses and Aaron and said to them, "I have sinned this time. The LORD is righteous, and I and my *_people_* are wicked.
 * `Exo 10:3` And Moses and Aaron came to Pharaoh and said to him, "Thus says the LORD God of the Hebrews: 'How long will you refuse to humble yourself before me? Let my *_people_* go so that they may serve me.
 * `Exo 10:4` Or else, if you refuse to let my *_people_* go, behold, tomorrow I will bring the locusts into your border.
 * `Exo 11:2` Speak now in the ears of the *_people_*, and let every man ask his neighbor and every woman her neighbor for jewels of silver and jewels of gold."
 * `Exo 11:3` And the LORD gave the *_people_* favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the *_people_*.
-* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the *_people_* who follow you.' And after that I will depart." And he went out from Pharaoh in a great anger.
+* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the *_people_* who follow you.' And after that, I will depart." And he went out from Pharaoh in a great anger.
 * `Exo 12:27` You shall say, 'It is the sacrifice of the LORD'S passover, who passed over the houses of the children of Israel in Egypt when he smote the Egyptians and delivered our houses.'" And the *_people_* bowed the head and worshiped.
 * `Exo 12:31` And he called for Moses and Aaron by night and said, "Arise, and depart from among my *_people_*, both you and the children of Israel, and go, serve the LORD as you have said.
 * `Exo 12:33` And the Egyptians were urgent upon the *_people_* so that they might send them out of the land in haste, for they said, "We are all dead men."
 * `Exo 12:34` And the *_people_* took their dough before it was leavened, their kneading bowls being bound up in their clothes upon their shoulders.
 * `Exo 12:36` And the LORD gave the *_people_* favor in the sight of the Egyptians so that they let them have such things as they requested. And they plundered the Egyptians.
 * `Exo 13:3` And Moses said to the *_people_*, "Remember this day in which you came out from Egypt, out of the house of bondage, for by strength of hand the LORD brought you out from this place. There shall no leavened bread be eaten.
-* `Exo 13:17` And it came to pass, when Pharaoh had let the *_people_* go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the *_people_* repent when they see war and they return to Egypt."
+* `Exo 13:17` And it came to pass when Pharaoh had let the *_people_* go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the *_people_* repent when they see war and they return to Egypt."
 * `Exo 13:18` But God led the *_people_* around through the way of the wilderness of the Red Sea. And the children of Israel went up armed from the land of Egypt.
-* `Exo 13:22` He did not take away the pillar of the cloud by day, nor the pillar of fire by night from before the *_people_*.
+* `Exo 13:22` He did not take away the pillar of the cloud by day nor the pillar of fire by night from before the *_people_*.
 * `Exo 14:5` And it was told to the king of Egypt that the *_people_* fled. And the heart of Pharaoh and of his servants was turned against the *_people_*, and they said, "Why have we done this that we have let Israel go from serving us?"
 * `Exo 14:6` And he made ready his chariot and took his *_people_* with him.
 * `Exo 14:13` And Moses said to the *_people_*, "Do not fear. Stand still and see the salvation of the LORD which he will show to you today. For the Egyptians whom you have seen today, you shall see them again no more forever.

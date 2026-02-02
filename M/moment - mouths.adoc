@@ -389,7 +389,7 @@ _1 verse containing MONTHLY_
 == MONTHS
 
 * `Gen 38:24` And it came to pass about three *_months_* after, that it was told to Judah, saying, "Tamar your daughter-in-law has played the harlot, and also, behold she is with child by lewdness." And Judah said, "Bring her forth and let her be burnt."
-* `Exo 2:2` And the woman conceived and bore a son. And when she saw him that he was a handsome child, she hid him three *_months_*.
+* `Exo 2:2` And the woman conceived and bore a son. And when she saw him that he was a handsome child, she hid him for three *_months_*.
 * `Exo 12:2` "This month shall be to you the beginning of *_months_*. It shall be the first month of the year to you.
 * `Num 10:10` Also in the day of your gladness, in your solemn days, and in the beginnings of your *_months_*, you shall blow with the trumpets over your burnt-offerings and over the sacrifices of your peace-offerings so that they may be to you for a memorial before your God. I am the LORD your God."
 * `Num 28:11` 'And in the beginnings of your *_months_* you shall offer a burnt-offering to the LORD: two young bulls, one ram, and seven lambs of the first year without spot;
@@ -614,7 +614,7 @@ _52 verses containing MORDECAI_
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no *_more_* mighty thunderings and hail, and I will let you go, and you shall stay no longer."
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I will spread abroad my hands to the LORD, and the thunder shall cease, neither shall there be any *_more_* hail, so that you may know that the earth is the LORD'S.
 * `Exo 10:28` And Pharaoh said to him, "Depart from me. Take heed to yourself that you see my face no *_more_*. For in that day you see my face, you shall die."
-* `Exo 11:1` And the LORD said to Moses, "Yet I will bring one *_more_* plague upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the LORD said to Moses, "Yet I will bring one *_more_* plague upon Pharaoh and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 14:13` And Moses said to the people, "Do not fear. Stand still and see the salvation of the LORD which he will show to you today. For the Egyptians whom you have seen today, you shall see them again no *_more_* forever.
 * `Exo 16:17` And the children of Israel did so and gathered, some *_more_*, some less.
 * `Exo 30:15` The rich shall not give *_more_* and the poor shall not give less than half a shekel when they give an offering to the LORD to make an atonement for your souls.
@@ -1558,26 +1558,26 @@ _2 verses containing MOSEROTH_
 * `Exo 3:13` And *_Moses_* said to God, "Behold, when I come to the children of Israel and say to them, 'The God of your fathers has sent me to you,' they may say to me, 'What is his name?' What shall I say to them?"
 * `Exo 3:14` And God said to *_Moses_*, "I AM WHO I AM." And he said, "Thus you shall say to the children of Israel: 'I AM has sent me to you.'"
 * `Exo 3:15` And God said again to *_Moses_*, "Thus you shall say to the children of Israel: 'The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob has sent me to you.' This is my name forever, and this is my memorial to all generations.
-* `Exo 4:1` And *_Moses_* answered and said, "But behold, they will not believe me, nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
+* `Exo 4:1` And *_Moses_* answered and said, "But behold, they will not believe me nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
 * `Exo 4:3` And he said, "Cast it on the ground." And he cast it on the ground, and it became a serpent. And *_Moses_* fled from before it.
 * `Exo 4:4` And the LORD said to *_Moses_*, "Put forth your hand and take it by the tail." And he put forth his hand and caught it, and it became a rod in his hand.
-* `Exo 4:10` And *_Moses_* said to the LORD, "O my Lord, I am not eloquent, neither before, nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
+* `Exo 4:10` And *_Moses_* said to the LORD, "O my Lord, I am not eloquent, neither before nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
 * `Exo 4:14` And the anger of the LORD was kindled against *_Moses_* and he said, "Is there not Aaron the Levite your brother? I know that he can speak well. And also behold, he comes forth to meet you. And when he sees you, he will be glad in his heart.
 * `Exo 4:18` And *_Moses_* went and returned to Jethro his father-in-law and said to him, "Let me go, I pray you, and return to my brothers who are in Egypt and see whether they are still alive." And Jethro said to *_Moses_*, "Go in peace."
-* `Exo 4:19` And the LORD said to *_Moses_* in Midian, "Go, return into Egypt. For all the men are dead who sought your life."
+* `Exo 4:19` And the LORD said to *_Moses_* in Midian, "Go, return to Egypt. For all the men are dead who sought your life."
 * `Exo 4:20` And *_Moses_* took his wife and his sons and set them upon a donkey, and he returned to the land of Egypt. And *_Moses_* took the rod of God in his hand.
 * `Exo 4:21` And the LORD said to *_Moses_*, "When you go to return into Egypt, see that you perform all those wonders before Pharaoh which I have put in your hand. But I will harden his heart so that he shall not let the people go.
 * `Exo 4:27` And the LORD said to Aaron, "Go into the wilderness to meet *_Moses_*." And he went and met him on the mountain of God and kissed him.
 * `Exo 4:28` And *_Moses_* told Aaron all the words of the LORD who had sent him and all the signs which he had commanded him.
 * `Exo 4:29` And *_Moses_* and Aaron went and assembled all the elders of the children of Israel.
 * `Exo 4:30` And Aaron spoke all the words which the LORD had spoken to *_Moses_* and performed the signs in the sight of the people.
-* `Exo 5:1` And afterward *_Moses_* and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, *_Moses_* and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:4` And the king of Egypt said to them, "Why do you, *_Moses_* and Aaron, hinder the people from their works? Go to your burdens."
 * `Exo 5:20` And they met *_Moses_* and Aaron, who stood in the way, as they came forth from Pharaoh,
 * `Exo 5:22` And *_Moses_* returned to the LORD and said, "Lord, why have you so ill treated this people? Why is it that you have sent me?
 * `Exo 6:1` Then the LORD said to *_Moses_*, "Now you shall see what I will do to Pharaoh. For with a strong hand he shall let them go, and with a strong hand he shall drive them from his land."
 * `Exo 6:2` And God spoke to *_Moses_* and said to him, "I am the LORD.
-* `Exo 6:9` And *_Moses_* thus spoke to the children of Israel, but they did not listen to *_Moses_* by reason of anguish of spirit and cruel bondage.
+* `Exo 6:9` And *_Moses_* told this to the children of Israel, but they did not listen to *_Moses_* by reason of anguish of spirit and cruel bondage.
 * `Exo 6:10` And the LORD spoke to *_Moses_*, saying,
 * `Exo 6:12` And *_Moses_* spoke before the LORD, saying, "Behold, the children of Israel have not listened to me. How then shall Pharaoh hear me, who am of uncircumcised lips?"
 * `Exo 6:13` And the LORD spoke to *_Moses_* and to Aaron and gave them a charge to the children of Israel and to Pharaoh, king of Egypt, to bring the children of Israel out of the land of Egypt.
@@ -1618,7 +1618,7 @@ _2 verses containing MOSEROTH_
 * `Exo 9:23` And *_Moses_* stretched forth his rod toward heaven, and the LORD sent thunder and hail, and the fire ran along upon the ground, and the LORD rained hail upon the land of Egypt.
 * `Exo 9:27` And Pharaoh sent and called for *_Moses_* and Aaron and said to them, "I have sinned this time. The LORD is righteous, and I and my people are wicked.
 * `Exo 9:29` And *_Moses_* said to him, "As soon as I am gone out of the city, I will spread abroad my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
-* `Exo 9:33` And *_Moses_* went out of the city from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And *_Moses_* went out of the city from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 9:35` And the heart of Pharaoh was hardened, neither would he let the children of Israel go, as the LORD had spoken by *_Moses_*.
 * `Exo 10:1` And the LORD said to *_Moses_*, "Go to Pharaoh, for I have hardened his heart and the heart of his servants, so that I might show these signs of mine before him,
 * `Exo 10:3` And *_Moses_* and Aaron came to Pharaoh and said to him, "Thus says the LORD God of the Hebrews: 'How long will you refuse to humble yourself before me? Let my people go so that they may serve me.
@@ -1628,11 +1628,11 @@ _2 verses containing MOSEROTH_
 * `Exo 10:13` And *_Moses_* stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day and all that night. And when it was morning, the east wind brought the locusts.
 * `Exo 10:16` Then Pharaoh called for *_Moses_* and Aaron in haste and he said, "I have sinned against the LORD your God and against you.
 * `Exo 10:21` And the LORD said to *_Moses_*, "Stretch out your hand toward heaven so that there may be darkness over the land of Egypt, even darkness which may be felt."
-* `Exo 10:22` And *_Moses_* stretched forth his hand toward heaven, and there was a thick darkness in all the land of Egypt three days.
+* `Exo 10:22` And *_Moses_* stretched forth his hand toward heaven, and there was a thick darkness in all the land of Egypt for three days.
 * `Exo 10:24` And Pharaoh called to *_Moses_* and said, "Go, serve the LORD. Only leave your flocks and your herds. Let your little ones also go with you."
 * `Exo 10:25` And *_Moses_* said, "You must also give us sacrifices and burnt-offerings so that we may sacrifice to the LORD our God.
 * `Exo 10:29` And *_Moses_* said, "You have spoken well. I will never see your face again."
-* `Exo 11:1` And the LORD said to *_Moses_*, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the LORD said to *_Moses_*, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 11:3` And the LORD gave the people favor in the sight of the Egyptians. Moreover, the man *_Moses_* was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people.
 * `Exo 11:4` And *_Moses_* said, "Thus says the LORD: 'About midnight I will go out into the midst of Egypt.
 * `Exo 11:9` And the LORD said to *_Moses_*, "Pharaoh will not listen to you so that my wonders may be multiplied in the land of Egypt."

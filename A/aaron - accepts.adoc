@@ -8,7 +8,7 @@
 * `Exo 4:28` And Moses told *_Aaron_* all the words of the LORD who had sent him and all the signs which he had commanded him.
 * `Exo 4:29` And Moses and *_Aaron_* went and assembled all the elders of the children of Israel.
 * `Exo 4:30` And *_Aaron_* spoke all the words which the LORD had spoken to Moses and performed the signs in the sight of the people.
-* `Exo 5:1` And afterward Moses and *_Aaron_* went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, Moses and *_Aaron_* went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:4` And the king of Egypt said to them, "Why do you, Moses and *_Aaron_*, hinder the people from their works? Go to your burdens."
 * `Exo 5:20` And they met Moses and *_Aaron_*, who stood in the way, as they came forth from Pharaoh,
 * `Exo 6:13` And the LORD spoke to Moses and to *_Aaron_* and gave them a charge to the children of Israel and to Pharaoh, king of Egypt, to bring the children of Israel out of the land of Egypt.
@@ -1670,6 +1670,7 @@ _3 verses containing ABOUNDS_
 * `Exo 9:18` Behold, tomorrow *_about_* this time I will cause it to rain a very grievous hail such as has not been in Egypt since its foundation even until now.
 * `Exo 11:4` And Moses said, "Thus says the LORD: '*_About_* midnight I will go out into the midst of Egypt.
 * `Exo 12:37` And the children of Israel journeyed from Rameses to Succoth, *_about_* six hundred thousand on foot who were men, besides children.
+* `Exo 14:3` For Pharaoh will say *_about_* the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
 * `Exo 18:7` And Moses went out to meet his father-in-law and did obeisance and kissed him. And they asked each other *_about_* their welfare and they came into the tent.
 * `Exo 32:28` And the children of Levi did according to the word of Moses. And there fell of the people that day *_about_* three thousand men.
 * `Lev 6:5` Or all that *_about_* which he has sworn falsely. He shall even restore it in the principal and shall add to it the fifth part more and give it to him to whom it belongs in the day of his trespass-offering.
@@ -1852,7 +1853,7 @@ _3 verses containing ABOUNDS_
 * `Rev 10:7` But in the days of the voice of the seventh angel, when he is *_about_* to sound, then the mystery of God is finished, as he has declared to his servants the prophets.
 * `Rev 16:21` And there fell upon men a great hail out of heaven, every stone *_about_* the weight of a talent. And men blasphemed God because of the plague of the hail, because its plague was exceedingly great.
 
-_196 verses containing ABOUT_
+_197 verses containing ABOUT_
 
 == ABOVE
 
@@ -2351,7 +2352,7 @@ _51 verses containing ABRAM_
 * `Gen 28:14` And your offspring shall be like the dust of the earth, and you shall spread *_abroad_* to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
 * `Exo 5:12` So the people were scattered *_abroad_* throughout all the land of Egypt to gather stubble instead of straw.
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I will spread *_abroad_* my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
-* `Exo 9:33` And Moses went out of the city from Pharaoh and spread *_abroad_* his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And Moses went out of the city from Pharaoh and spread *_abroad_* his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 12:46` In one house it shall be eaten. You shall not carry anything of the flesh *_abroad_* out of the house, neither shall you break a bone of it.
 * `Exo 21:19` If he rises again and walks *_abroad_* upon his staff, then he who smote him shall be acquitted. Only he shall pay for the loss of his time and shall cause him to be thoroughly healed.
 * `Exo 40:19` And he spread *_abroad_* the tent over the tabernacle and put the covering of the tent above upon it, as the LORD commanded Moses.

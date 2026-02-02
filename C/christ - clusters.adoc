@@ -1412,7 +1412,7 @@ _1 verse containing CITIZENSHIP_
 * `Gen 44:4` And when they had gone out of the *_city_* and were not yet far off, Joseph said to his steward, "Arise, follow after the men. And when you overtake them, say to them, 'Why have you rewarded evil for good?
 * `Gen 44:13` Then they rent their clothes and each loaded his donkey and returned to the *_city_*.
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the *_city_*, I will spread abroad my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
-* `Exo 9:33` And Moses went out of the *_city_* from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And Moses went out of the *_city_* from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Lev 14:40` Then the priest shall command that they take away the stones in which the plague is, and they shall cast them into an unclean place outside the *_city_*.
 * `Lev 14:41` And he shall cause the house to be scraped inside on all sides, and they shall pour out the dust that they scrape off outside the *_city_* into an unclean place.
 * `Lev 14:45` And he shall break down the house, its stones, its timber, and all the mortar of the house, and he shall carry them forth out of the *_city_* to an unclean place.
@@ -3101,7 +3101,7 @@ _7 verses containing CLOTHS_
 * `Gen 9:14` And it shall come to pass when I bring a *_cloud_* over the earth, that the bow shall be seen in the *_cloud_*,
 * `Gen 9:16` And the bow shall be in the *_cloud_*, and I will look upon it so that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
 * `Exo 13:21` And the LORD went before them by day in a pillar of a *_cloud_* to lead them in the way, and by night in a pillar of fire to give them light, to go by day and night.
-* `Exo 13:22` He did not take away the pillar of the *_cloud_* by day, nor the pillar of fire by night from before the people.
+* `Exo 13:22` He did not take away the pillar of the *_cloud_* by day nor the pillar of fire by night from before the people.
 * `Exo 14:19` And the angel of God, who went before the camp of Israel, moved and went behind them. And the pillar of the *_cloud_* went from before their face and stood behind them.
 * `Exo 14:20` And it came between the camp of the Egyptians and the camp of Israel. It was a *_cloud_* and darkness to them, but it gave light by night to these, so that one did not come near the other all the night.
 * `Exo 14:24` And it came to pass, that in the morning-watch, the LORD looked to the host of the Egyptians through the pillar of fire and of the *_cloud_* and troubled the host of the Egyptians,

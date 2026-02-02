@@ -107,7 +107,7 @@ _1 verse containing REPEATS_
 == REPENT
 
 * `Gen 6:7` And the LORD said, "I will destroy man whom I have created from the face of the earth—man, beast, the creeping animal, and the birds of the air. For I *_repent_* that I have made them."
-* `Exo 13:17` And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people *_repent_* when they see war and they return to Egypt."
+* `Exo 13:17` And it came to pass when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people *_repent_* when they see war and they return to Egypt."
 * `Exo 32:12` Why should the Egyptians speak and say, 'For evil he brought them out to slay them in the mountains and to consume them from the face of the earth'? Turn from your fierce wrath and *_repent_* of this evil against your people.
 * `Num 23:19` God is not a man that he should lie, neither the son of man that he should *_repent_*. Has he said, and shall he not do it? Or has he spoken, and shall he not make it good?
 * `1Sa 15:11` "I *_repent_* that I have set up Saul to be king, for he has turned back from following me and has not performed my commandments." And it grieved Samuel and he cried to the LORD all night.
@@ -1653,9 +1653,9 @@ _2 verses containing RETIRED_
 * `Gen 45:9` Hasten, *_return_* to my father, and say to him, 'Thus says your son Joseph: "God has made me lord of all Egypt. Come down to me. Do not delay.
 * `Gen 45:17` And Pharaoh said to Joseph, "Say to your brothers, 'Do this: load your beasts and go, *_return_* to the land of Canaan,
 * `Exo 4:18` And Moses went and returned to Jethro his father-in-law and said to him, "Let me go, I pray you, and *_return_* to my brothers who are in Egypt and see whether they are still alive." And Jethro said to Moses, "Go in peace."
-* `Exo 4:19` And the LORD said to Moses in Midian, "Go, *_return_* into Egypt. For all the men are dead who sought your life."
+* `Exo 4:19` And the LORD said to Moses in Midian, "Go, *_return_* to Egypt. For all the men are dead who sought your life."
 * `Exo 4:21` And the LORD said to Moses, "When you go to *_return_* into Egypt, see that you perform all those wonders before Pharaoh which I have put in your hand. But I will harden his heart so that he shall not let the people go.
-* `Exo 13:17` And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they *_return_* to Egypt."
+* `Exo 13:17` And it came to pass when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they *_return_* to Egypt."
 * `Lev 25:10` And you shall hallow the fiftieth year and proclaim liberty throughout all the land to all its inhabitants. It shall be a jubilee to you, and you shall *_return_* every man to his possession and *_return_* every man to his family.
 * `Lev 25:13` 'In the year of this jubilee you shall *_return_* every man to his possession.
 * `Lev 25:27` Then let him count the years of its sale and restore the surplus to the man to whom he sold it so that he may *_return_* to his possession.

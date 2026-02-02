@@ -61,7 +61,7 @@ _1 verse containing MEAL-TIME_
 
 * `Gen 21:29` And Abimelech said to Abraham, "What do these seven ewe-lambs *_mean_* which you have set by themselves?"
 * `Gen 33:8` And he said, "What do you *_mean_* by all this drove which I met?" And he said, "These are to find grace in the sight of my lord."
-* `Exo 12:26` And it shall come to pass, when your children say to you, 'What do you *_mean_* by this service?'
+* `Exo 12:26` And it shall come to pass when your children say to you, 'What do you *_mean_* by this service?'
 * `Deu 6:20` "And when your son asks you in time to come, saying, 'What do the testimonies, the statutes, and the judgments *_mean_* which the LORD our God has commanded you?'
 * `Deu 29:24` Then all the nations shall say, 'Why has the LORD done so to this land? What does the heat of this great anger *_mean_*?'
 * `Jsh 4:6` So that this may be a sign among you, that when your children ask their fathers in time to come, saying, 'What do you *_mean_* by these stones?'
@@ -1118,8 +1118,8 @@ _3 verses containing MEMUCAN_
 * `Gen 46:32` And the *_men_* are shepherds, for their employment has been to feed livestock. And they have brought their flocks, their herds, and all that they have.'
 * `Gen 47:2` And he took some of his brothers, even five *_men_*, and presented them to Pharaoh.
 * `Gen 47:6` The land of Egypt is before you. In the best of the land make your father and brothers to dwell. In the land of Goshen let them dwell. And if you know any able *_men_* among them, then make them rulers over my livestock."
-* `Exo 2:13` And when he went out the second day, behold, two *_men_* of the Hebrews strove together. And he said to him who did the wrong, "Why do you smite your fellow?"
-* `Exo 4:19` And the LORD said to Moses in Midian, "Go, return into Egypt. For all the *_men_* are dead who sought your life."
+* `Exo 2:13` And when he went out the second day, behold, two Hebrew *_men_* strove together. And he said to him who did the wrong, "Why do you smite your fellow?"
+* `Exo 4:19` And the LORD said to Moses in Midian, "Go, return to Egypt. For all the *_men_* are dead who sought your life."
 * `Exo 5:9` Let more work be laid upon the *_men_* so that they may labor therein, and do not let them regard vain words."
 * `Exo 7:11` Then Pharaoh also called the wise-*_men_* and the sorcerers. And the magicians of Egypt also did in like manner with their enchantments.
 * `Exo 10:7` And Pharaoh's servants said to him, "How long shall this man be a snare to us? Let the *_men_* go so that they may serve the LORD their God. Do you not yet know that Egypt is destroyed?"

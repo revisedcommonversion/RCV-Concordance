@@ -1267,16 +1267,16 @@ _1 verse containing LOP_
 * `Exo 3:15` And God said again to Moses, "Thus you shall say to the children of Israel: 'The *_LORD_* God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob has sent me to you.' This is my name forever, and this is my memorial to all generations.
 * `Exo 3:16` Go and assemble the elders of Israel and say to them, 'The *_LORD_* God of your fathers, the God of Abraham, of Isaac, and of Jacob appeared to me, saying, "I have surely visited you and seen that which is done to you in Egypt.
 * `Exo 3:18` And they shall listen to your voice, and you shall come—you and the elders of Israel—to the king of Egypt, and you shall say to him, 'The *_LORD_* God of the Hebrews has met with us. And now let us go (we implore you) three days journey into the wilderness so that we may sacrifice to the *_LORD_* our God.'
-* `Exo 4:1` And Moses answered and said, "But behold, they will not believe me, nor listen to my voice, for they will say, 'The *_LORD_* has not appeared to you.'"
+* `Exo 4:1` And Moses answered and said, "But behold, they will not believe me nor listen to my voice, for they will say, 'The *_LORD_* has not appeared to you.'"
 * `Exo 4:2` And the *_LORD_* said to him, "What is that in your hand?" And he said, "A rod."
 * `Exo 4:4` And the *_LORD_* said to Moses, "Put forth your hand and take it by the tail." And he put forth his hand and caught it, and it became a rod in his hand.
 * `Exo 4:5` "This is so that they may believe that the *_LORD_* God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob has appeared to you."
 * `Exo 4:6` And the *_LORD_* said furthermore to him, "Now put your hand into your bosom." And he put his hand into his bosom. And when he took it out, behold, his hand was leprous as snow.
-* `Exo 4:10` And Moses said to the *_LORD_*, "O my *_Lord_*, I am not eloquent, neither before, nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
+* `Exo 4:10` And Moses said to the *_LORD_*, "O my *_Lord_*, I am not eloquent, neither before nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
 * `Exo 4:11` And the *_LORD_* said to him, "Who has made man's mouth? Or who makes the mute, the deaf, the seeing, or the blind? Is it not I, the *_LORD_*?
 * `Exo 4:13` And he said, "O my *_Lord_*, send, I pray you, by the hand of him whom you will send."
 * `Exo 4:14` And the anger of the *_LORD_* was kindled against Moses and he said, "Is there not Aaron the Levite your brother? I know that he can speak well. And also behold, he comes forth to meet you. And when he sees you, he will be glad in his heart.
-* `Exo 4:19` And the *_LORD_* said to Moses in Midian, "Go, return into Egypt. For all the men are dead who sought your life."
+* `Exo 4:19` And the *_LORD_* said to Moses in Midian, "Go, return to Egypt. For all the men are dead who sought your life."
 * `Exo 4:21` And the *_LORD_* said to Moses, "When you go to return into Egypt, see that you perform all those wonders before Pharaoh which I have put in your hand. But I will harden his heart so that he shall not let the people go.
 * `Exo 4:22` And you shall say to Pharaoh, 'Thus says the *_LORD_*: "Israel is my son, even my first-born.
 * `Exo 4:24` And it came to pass on the way at a lodging place, that the *_LORD_* met him and sought to kill him.
@@ -1284,7 +1284,7 @@ _1 verse containing LOP_
 * `Exo 4:28` And Moses told Aaron all the words of the *_LORD_* who had sent him and all the signs which he had commanded him.
 * `Exo 4:30` And Aaron spoke all the words which the *_LORD_* had spoken to Moses and performed the signs in the sight of the people.
 * `Exo 4:31` And the people believed. And when they heard that the *_LORD_* had visited the children of Israel and that he had looked upon their affliction, then they bowed their heads and worshiped.
-* `Exo 5:1` And afterward Moses and Aaron went in and told Pharaoh, "Thus says the *_LORD_* God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, Moses and Aaron went in and told Pharaoh, "Thus says the *_LORD_* God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:2` And Pharaoh said, "Who is the *_LORD_* that I should obey his voice to let Israel go? I do not know the *_LORD_*, neither will I let Israel go."
 * `Exo 5:3` And they said, "The God of the Hebrews has met with us. Let us go, we pray you, three days' journey into the desert and sacrifice to the *_LORD_* our God, lest he fall upon us with pestilence or with the sword."
 * `Exo 5:17` But he said, "You are idle. You are idle. Therefore, you say, 'Let us go and do sacrifice to the *_LORD_*.'
@@ -1349,7 +1349,7 @@ _1 verse containing LOP_
 * `Exo 9:28` Entreat the *_LORD_* (for it is enough) that there be no more mighty thunderings and hail, and I will let you go, and you shall stay no longer."
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I will spread abroad my hands to the *_LORD_*, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the *_LORD_*'S.
 * `Exo 9:30` But as for you and your servants, I know that you will not yet fear the *_LORD_* God."
-* `Exo 9:33` And Moses went out of the city from Pharaoh and spread abroad his hands to the *_LORD_*, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And Moses went out of the city from Pharaoh and spread abroad his hands to the *_LORD_*, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 9:35` And the heart of Pharaoh was hardened, neither would he let the children of Israel go, as the *_LORD_* had spoken by Moses.
 * `Exo 10:1` And the *_LORD_* said to Moses, "Go to Pharaoh, for I have hardened his heart and the heart of his servants, so that I might show these signs of mine before him,
 * `Exo 10:2` And that you may tell in the ears of your son and of your son's son what things I have wrought in Egypt, and my signs which I have done among them, so that you may know that I am the *_LORD_*."
@@ -1371,7 +1371,7 @@ _1 verse containing LOP_
 * `Exo 10:25` And Moses said, "You must also give us sacrifices and burnt-offerings so that we may sacrifice to the *_LORD_* our God.
 * `Exo 10:26` Our livestock shall also go with us. Not a hoof shall be left behind. For from them we will take some to serve the *_LORD_* our God, and we do not know with what we must serve the *_LORD_* until we get there."
 * `Exo 10:27` But the *_LORD_* hardened Pharaoh's heart, and he would not let them go.
-* `Exo 11:1` And the *_LORD_* said to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the *_LORD_* said to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 11:3` And the *_LORD_* gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people.
 * `Exo 11:4` And Moses said, "Thus says the *_LORD_*: 'About midnight I will go out into the midst of Egypt.
 * `Exo 11:7` But against any of the children of Israel a dog shall not move his tongue, against man or beast, so that you may know how the *_LORD_* puts a difference between the Egyptians and Israel.'
@@ -1381,14 +1381,14 @@ _1 verse containing LOP_
 * `Exo 12:11` And thus you shall eat it: with your loins girded, your shoes on your feet, and your staff in your hand. And you shall eat it in haste. It is the *_LORD_*'S passover.
 * `Exo 12:12` For I will pass through the land of Egypt this night and will smite all the first-born in the land of Egypt, both man and beast. And against all the gods of Egypt I will execute judgment. I am the *_LORD_*.
 * `Exo 12:14` 'And this day shall be to you for a memorial, and you shall keep it a feast to the *_LORD_* throughout your generations. You shall keep it a feast by an ordinance forever.
-* `Exo 12:23` For the *_LORD_* will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the *_LORD_* will pass over the door and will not allow the destroyer to come in to your houses to smite you.
-* `Exo 12:25` And it shall come to pass, when you have come to the land which the *_LORD_* will give you, according as he has promised, that you shall keep this service.
+* `Exo 12:23` For the *_LORD_* will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the *_LORD_* will pass over the door and will not allow the destroyer to come into your houses to smite you.
+* `Exo 12:25` And it shall come to pass when you have come to the land which the *_LORD_* will give you, according as he has promised, that you shall keep this service.
 * `Exo 12:27` You shall say, 'It is the sacrifice of the *_LORD_*'S passover, who passed over the houses of the children of Israel in Egypt when he smote the Egyptians and delivered our houses.'" And the people bowed the head and worshiped.
 * `Exo 12:28` And the children of Israel went away and did as the *_LORD_* had commanded Moses and Aaron. And they did so.
 * `Exo 12:29` And it came to pass, that at midnight the *_LORD_* smote all the first-born in the land of Egypt, from the first-born of Pharaoh who sat on his throne to the first-born of the captive who was in the dungeon, and all the first-born of livestock.
 * `Exo 12:31` And he called for Moses and Aaron by night and said, "Arise, and depart from among my people, both you and the children of Israel, and go, serve the *_LORD_* as you have said.
 * `Exo 12:36` And the *_LORD_* gave the people favor in the sight of the Egyptians so that they let them have such things as they requested. And they plundered the Egyptians.
-* `Exo 12:41` And it came to pass, at the end of the four hundred and thirty years, even the same day it came to pass, that all the hosts of the *_LORD_* departed from the land of Egypt.
+* `Exo 12:41` And it came to pass at the end of the four hundred and thirty years, even the same day it came to pass, that all the hosts of the *_LORD_* departed from the land of Egypt.
 * `Exo 12:42` It is a night to be much observed to the *_LORD_* for bringing them out from the land of Egypt. This is that night of the *_LORD_* to be observed by all the children of Israel in their generations.
 * `Exo 12:43` And the *_LORD_* said to Moses and Aaron, "This is the ordinance of the passover: no stranger shall eat it,
 * `Exo 12:48` And when a stranger sojourns with you and wishes to keep the passover to the *_LORD_*, let all his males be circumcised and then let him come near and keep it, and he shall be as one who is born in the land. For no uncircumcised person shall eat it.
@@ -1403,7 +1403,7 @@ _1 verse containing LOP_
 * `Exo 13:11` "And it shall be when the *_LORD_* brings you into the land of the Canaanites, as he swore to you and to your fathers, and gives it to you,
 * `Exo 13:12` That you shall set apart to the *_LORD_* all that opens the womb. And of every first-born that comes from a beast which you have, the males shall be the *_LORD_*'S.
 * `Exo 13:14` And it shall be that your son shall ask you in time to come, saying, 'What is this?' Then you shall say to him, 'By strength of hand the *_LORD_* brought us out from Egypt, from the house of bondage.
-* `Exo 13:15` And it came to pass, when Pharaoh would hardly let us go, that the *_LORD_* slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the *_LORD_* all that opens the womb, being males, but all the first-born of my children I redeem.'
+* `Exo 13:15` And it came to pass when Pharaoh would hardly let us go, that the *_LORD_* slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the *_LORD_* all that opens the womb, being males, but all the first-born of my children I redeem.'
 * `Exo 13:16` And it shall be for a token upon your hand and for frontlets between your eyes. For by strength of hand the *_LORD_* brought us forth out of Egypt."
 * `Exo 13:21` And the *_LORD_* went before them by day in a pillar of a cloud to lead them in the way, and by night in a pillar of fire to give them light, to go by day and night.
 * `Exo 14:1` And the *_LORD_* spoke to Moses, saying,

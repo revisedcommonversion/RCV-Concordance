@@ -758,7 +758,7 @@ _1 verse containing FELLING_
 
 == FELLOW
 
-* `Exo 2:13` And when he went out the second day, behold, two men of the Hebrews strove together. And he said to him who did the wrong, "Why do you smite your *_fellow_*?"
+* `Exo 2:13` And when he went out the second day, behold, two Hebrew men strove together. And he said to him who did the wrong, "Why do you smite your *_fellow_*?"
 * `Jdg 7:13` And when Gideon had come, behold, there was a man who told a dream to his *_fellow_*, and said, "Behold, I dreamed a dream, and behold, a cake of barley-bread rolled into the host of Midian, came to a tent, and smote it so that it fell and overturned it so that the tent lay flat."
 * `Jdg 7:14` And his *_fellow_* answered, and said, "This is nothing else but the sword of Gideon the son of Joash, a man of Israel. For into his hand, God has delivered Midian and all the host."
 * `Jdg 7:22` And the three hundred blew the trumpets, and the LORD set every man's sword against his *_fellow_*, even throughout all the host. And the host fled to Beth-shittah in Zereroth and to the border of Abel-meholah near Tabbath.
@@ -2290,7 +2290,7 @@ _0 verses containing FILE_
 * `Gen 1:22` And God blessed them, saying, "Be fruitful, multiply, *_fill_* the waters in the seas, and let birds multiply on the earth."
 * `Gen 42:25` Then Joseph commanded to *_fill_* their sacks with grain, to restore every man's money into his sack, and to give them provision for the way. And thus he did to them.
 * `Gen 44:1` And he commanded the steward of his house, saying, "*_Fill_* the men's sacks with food, as much as they can carry, and put each man's money in his sack's mouth.
-* `Exo 10:6` And they shall *_fill_* your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers, nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from Pharaoh.
+* `Exo 10:6` And they shall *_fill_* your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from Pharaoh.
 * `Exo 16:32` And Moses said, "This is the thing which the LORD commanded, '*_Fill_* an omer with it to be kept for your generations so that they may see the bread with which I fed you in the wilderness when I brought you forth from the land of Egypt.'"
 * `Lev 25:19` And the land shall yield her fruit, and you shall eat your *_fill_* and dwell in it in safety.
 * `Deu 6:11` And houses full of all good things which you did not *_fill_*, and wells dug which you did not dig, vineyards and olive-trees which you did not plant, when you have eaten and are full,

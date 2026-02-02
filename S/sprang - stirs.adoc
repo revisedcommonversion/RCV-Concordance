@@ -19,7 +19,7 @@ _7 verses containing SPRANG_
 * `Gen 33:19` And he bought a part of a field where he had *_spread_* his tent at the hand of the children of Hamor, Shechem's father, for one hundred pieces of money.
 * `Gen 35:21` And Israel journeyed and *_spread_* his tent beyond the tower of Edar.
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I will *_spread_* abroad my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
-* `Exo 9:33` And Moses went out of the city from Pharaoh and *_spread_* abroad his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And Moses went out of the city from Pharaoh and *_spread_* abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 37:9` And the cherubim *_spread_* out their wings on high, covering the mercy-seat with their wings, with their faces to one another, even toward the mercy-seat were the faces of the cherubim.
 * `Exo 40:19` And he *_spread_* abroad the tent over the tabernacle and put the covering of the tent above upon it, as the LORD commanded Moses.
 * `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a stay and the plague does not *_spread_* in the skin, then the priest shall shut him up seven more days.
@@ -1966,8 +1966,7 @@ _1 verse containing STIFFENED_
 * `Gen 45:28` And Israel said, "It is enough. Joseph my son is *_still_* alive. I will go and see him before I die."
 * `Gen 46:30` And Israel said to Joseph, "Now let me die since I have seen your face, because you are *_still_* alive."
 * `Exo 4:18` And Moses went and returned to Jethro his father-in-law and said to him, "Let me go, I pray you, and return to my brothers who are in Egypt and see whether they are *_still_* alive." And Jethro said to Moses, "Go in peace."
-* `Exo 9:2` For if you refuse to let them go and will hold them *_still_*,
-* `Exo 9:17` *_Still_* you exalt yourself against my people so that you will not let them go.
+* `Exo 9:17` *_Still_* you exalt yourself against my people and will not let them go.
 * `Exo 14:13` And Moses said to the people, "Do not fear. Stand *_still_* and see the salvation of the LORD which he will show to you today. For the Egyptians whom you have seen today, you shall see them again no more forever.
 * `Exo 15:16` Fear and dread shall fall upon them. By the greatness of your arm they shall be as *_still_* as a stone until your people pass over, O LORD, until the people pass over, which you have purchased.
 * `Exo 23:11` But the seventh year you shall let it rest and lie *_still_* so that the poor of your people may eat. And what they leave, the beasts of the field shall eat. In like manner you shall deal with your vineyard and with your olive-grove.
@@ -2147,7 +2146,7 @@ _1 verse containing STIFFENED_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues *_still_* did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, hear, nor walk.
 * `Rev 22:11` He who is unjust, let him be unjust *_still_*. He who is filthy, let him be filthy *_still_*. He who is righteous, let him be righteous *_still_*. He who is holy, let him be holy *_still_*."
 
-_198 verses containing STILL_
+_197 verses containing STILL_
 
 == STILLED
 

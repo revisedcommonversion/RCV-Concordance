@@ -343,7 +343,7 @@ _1 verse containing SACRED_
 * `Exo 8:29` And Moses said, "Behold, I go out from you, and I will entreat the LORD so that the swarms of flies may depart from Pharaoh, from his servants, and from his people tomorrow. But do not let Pharaoh deal deceitfully anymore in not letting the people go to *_sacrifice_* to the LORD."
 * `Exo 10:25` And Moses said, "You must also give us sacrifices and burnt-offerings so that we may *_sacrifice_* to the LORD our God.
 * `Exo 12:27` You shall say, 'It is the *_sacrifice_* of the LORD'S passover, who passed over the houses of the children of Israel in Egypt when he smote the Egyptians and delivered our houses.'" And the people bowed the head and worshiped.
-* `Exo 13:15` And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I *_sacrifice_* to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
+* `Exo 13:15` And it came to pass when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I *_sacrifice_* to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
 * `Exo 20:24` An altar of earth you shall make to me and shall *_sacrifice_* thereon your burnt-offerings, your peace-offerings, your sheep, and your oxen. In all places where I record my name I will come to you and I will bless you.
 * `Exo 23:18` "You shall not offer the blood of my *_sacrifice_* with leavened bread, neither shall the fat of my *_sacrifice_* remain until the morning.
 * `Exo 29:28` And it shall be Aaron's and his sons' by a statute forever from the children of Israel, for it is a heave-offering. And it shall be a heave-offering from the children of Israel from the *_sacrifice_* of their peace-offerings, even their heave-offering to the LORD.
@@ -1250,12 +1250,12 @@ _1 verse containing SAFFRON_
 * `Exo 1:9` And he *_said_* to his people, "Behold, the people of the children of Israel are more and mightier than we are.
 * `Exo 1:16` And he *_said_*, "When you do the service of a midwife to the Hebrew women and see them upon the stools, if it is a son, then you shall kill him, but if it is a daughter, then she shall live."
 * `Exo 1:18` And the king of Egypt called for the midwives and *_said_* to them, "Why have you done this thing and have saved the male children alive?"
-* `Exo 1:19` And the midwives *_said_* to Pharaoh, "Because the Hebrew women are not as the Egyptian women. For they are lively and deliver before the midwives come to them."
+* `Exo 1:19` And the midwives *_said_* to Pharaoh, "Because the Hebrew women are not like the Egyptian women. For they are lively and deliver before the midwives come to them."
 * `Exo 2:6` And when she had opened it, she saw the child, and behold, the baby wept. And she had compassion on him, and *_said_*, "This is one of the Hebrews' children."
-* `Exo 2:7` Then his sister *_said_* to Pharaoh's daughter, "Shall I go and call for you a nurse of the Hebrew women so that she may nurse the child for you?"
+* `Exo 2:7` Then his sister *_said_* to Pharaoh's daughter, "Shall I go and call for you a nurse from the Hebrew women so that she may nurse the child for you?"
 * `Exo 2:8` And Pharaoh's daughter *_said_* to her, "Go." And the young woman went and called the child's mother.
 * `Exo 2:9` And Pharaoh's daughter *_said_* to her, "Take this child away and nurse it for me, and I will give you your wages." And the woman took the child and nursed it.
-* `Exo 2:13` And when he went out the second day, behold, two men of the Hebrews strove together. And he *_said_* to him who did the wrong, "Why do you smite your fellow?"
+* `Exo 2:13` And when he went out the second day, behold, two Hebrew men strove together. And he *_said_* to him who did the wrong, "Why do you smite your fellow?"
 * `Exo 2:14` And he *_said_*, "Who made you a prince and a judge over us? Do you intend to kill me as you killed the Egyptian?" And Moses feared and *_said_*, "Surely this thing is known."
 * `Exo 2:18` And when they came to Reuel their father, he *_said_*, "How is it that you have come so soon today?"
 * `Exo 2:19` And they *_said_*, "An Egyptian delivered us from the hand of the shepherds, and also drew enough water for us and watered the flock."
@@ -1272,18 +1272,18 @@ _1 verse containing SAFFRON_
 * `Exo 3:14` And God *_said_* to Moses, "I AM WHO I AM." And he *_said_*, "Thus you shall say to the children of Israel: 'I AM has sent me to you.'"
 * `Exo 3:15` And God *_said_* again to Moses, "Thus you shall say to the children of Israel: 'The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob has sent me to you.' This is my name forever, and this is my memorial to all generations.
 * `Exo 3:17` And I have *_said_* I will bring you out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, to a land flowing with milk and honey."'
-* `Exo 4:1` And Moses answered and *_said_*, "But behold, they will not believe me, nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
+* `Exo 4:1` And Moses answered and *_said_*, "But behold, they will not believe me nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
 * `Exo 4:2` And the LORD *_said_* to him, "What is that in your hand?" And he *_said_*, "A rod."
 * `Exo 4:3` And he *_said_*, "Cast it on the ground." And he cast it on the ground, and it became a serpent. And Moses fled from before it.
 * `Exo 4:4` And the LORD *_said_* to Moses, "Put forth your hand and take it by the tail." And he put forth his hand and caught it, and it became a rod in his hand.
 * `Exo 4:6` And the LORD *_said_* furthermore to him, "Now put your hand into your bosom." And he put his hand into his bosom. And when he took it out, behold, his hand was leprous as snow.
 * `Exo 4:7` And he *_said_*, "Put your hand into your bosom again." And he put his hand into his bosom again and drew it out of his bosom, and behold, it was turned again as his other flesh.
-* `Exo 4:10` And Moses *_said_* to the LORD, "O my Lord, I am not eloquent, neither before, nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
+* `Exo 4:10` And Moses *_said_* to the LORD, "O my Lord, I am not eloquent, neither before nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
 * `Exo 4:11` And the LORD *_said_* to him, "Who has made man's mouth? Or who makes the mute, the deaf, the seeing, or the blind? Is it not I, the LORD?
 * `Exo 4:13` And he *_said_*, "O my Lord, send, I pray you, by the hand of him whom you will send."
 * `Exo 4:14` And the anger of the LORD was kindled against Moses and he *_said_*, "Is there not Aaron the Levite your brother? I know that he can speak well. And also behold, he comes forth to meet you. And when he sees you, he will be glad in his heart.
 * `Exo 4:18` And Moses went and returned to Jethro his father-in-law and *_said_* to him, "Let me go, I pray you, and return to my brothers who are in Egypt and see whether they are still alive." And Jethro *_said_* to Moses, "Go in peace."
-* `Exo 4:19` And the LORD *_said_* to Moses in Midian, "Go, return into Egypt. For all the men are dead who sought your life."
+* `Exo 4:19` And the LORD *_said_* to Moses in Midian, "Go, return to Egypt. For all the men are dead who sought your life."
 * `Exo 4:21` And the LORD *_said_* to Moses, "When you go to return into Egypt, see that you perform all those wonders before Pharaoh which I have put in your hand. But I will harden his heart so that he shall not let the people go.
 * `Exo 4:25` Then Zipporah took a sharp stone, cut off the foreskin of her son, and cast it at his feet, and *_said_*, "Surely a bloody husband you are to me."
 * `Exo 4:26` So he let him go. Then she *_said_*, "A bloody husband you are because of the circumcision."
@@ -1334,16 +1334,16 @@ _1 verse containing SAFFRON_
 * `Exo 10:25` And Moses *_said_*, "You must also give us sacrifices and burnt-offerings so that we may sacrifice to the LORD our God.
 * `Exo 10:28` And Pharaoh *_said_* to him, "Depart from me. Take heed to yourself that you see my face no more. For in that day you see my face, you shall die."
 * `Exo 10:29` And Moses *_said_*, "You have spoken well. I will never see your face again."
-* `Exo 11:1` And the LORD *_said_* to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the LORD *_said_* to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 11:4` And Moses *_said_*, "Thus says the LORD: 'About midnight I will go out into the midst of Egypt.
 * `Exo 11:9` And the LORD *_said_* to Moses, "Pharaoh will not listen to you so that my wonders may be multiplied in the land of Egypt."
 * `Exo 12:21` Then Moses called for all the elders of Israel and *_said_* to them, "Draw out and take a lamb, according to your families, and kill the passover.
 * `Exo 12:31` And he called for Moses and Aaron by night and *_said_*, "Arise, and depart from among my people, both you and the children of Israel, and go, serve the LORD as you have *_said_*.
-* `Exo 12:32` Also take your flocks and your herds, as you have *_said_*, and be gone, and bless me also."
+* `Exo 12:32` Also, take your flocks and your herds, as you have *_said_*, and be gone, and bless me also."
 * `Exo 12:33` And the Egyptians were urgent upon the people so that they might send them out of the land in haste, for they *_said_*, "We are all dead men."
 * `Exo 12:43` And the LORD *_said_* to Moses and Aaron, "This is the ordinance of the passover: no stranger shall eat it,
 * `Exo 13:3` And Moses *_said_* to the people, "Remember this day in which you came out from Egypt, out of the house of bondage, for by strength of hand the LORD brought you out from this place. There shall no leavened bread be eaten.
-* `Exo 13:17` And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God *_said_*, "Lest perhaps the people repent when they see war and they return to Egypt."
+* `Exo 13:17` And it came to pass when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God *_said_*, "Lest perhaps the people repent when they see war and they return to Egypt."
 * `Exo 14:5` And it was told to the king of Egypt that the people fled. And the heart of Pharaoh and of his servants was turned against the people, and they *_said_*, "Why have we done this that we have let Israel go from serving us?"
 * `Exo 14:11` And they *_said_* to Moses, "Because there were no graves in Egypt, have you taken us away to die in the wilderness? Why have you dealt with us in this way to conduct us out of Egypt?
 * `Exo 14:13` And Moses *_said_* to the people, "Do not fear. Stand still and see the salvation of the LORD which he will show to you today. For the Egyptians whom you have seen today, you shall see them again no more forever.
@@ -5365,7 +5365,7 @@ _7 verses containing SAMARITANS_
 * `Exo 5:6` And Pharaoh commanded the *_same_* day the task-masters of the people and their officers, saying,
 * `Exo 12:6` And you shall keep it until the fourteenth day of the *_same_* month. And the whole assembly of the congregation of Israel shall kill it in the evening.
 * `Exo 12:17` And you shall observe the feast of unleavened bread, for on this *_same_* day I have brought your armies out of the land of Egypt. Therefore, you shall observe this day in your generations by an ordinance forever.
-* `Exo 12:41` And it came to pass, at the end of the four hundred and thirty years, even the *_same_* day it came to pass, that all the hosts of the LORD departed from the land of Egypt.
+* `Exo 12:41` And it came to pass at the end of the four hundred and thirty years, even the *_same_* day it came to pass, that all the hosts of the LORD departed from the land of Egypt.
 * `Exo 12:51` And it came to pass the *_same_* day, that the LORD brought the children of Israel out of the land of Egypt by their armies.
 * `Exo 19:1` In the third month, when the children of Israel had gone forth from the land of Egypt, the *_same_* day they came into the wilderness of Sinai.
 * `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten work the candlestick shall be made. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the *_same_*.

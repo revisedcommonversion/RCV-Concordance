@@ -23,7 +23,7 @@
 * `Gen 47:15` And when money failed in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, "Give us bread. For *_why_* should we die in your presence? For the money fails."
 * `Gen 47:19` *_Why_* shall we die before your eyes—both we and our land? Buy us and our land for bread, and we and our land will be servants to Pharaoh. And give us seed so that we may live and not die, so that the land may not be desolate."
 * `Exo 1:18` And the king of Egypt called for the midwives and said to them, "*_Why_* have you done this thing and have saved the male children alive?"
-* `Exo 2:13` And when he went out the second day, behold, two men of the Hebrews strove together. And he said to him who did the wrong, "*_Why_* do you smite your fellow?"
+* `Exo 2:13` And when he went out the second day, behold, two Hebrew men strove together. And he said to him who did the wrong, "*_Why_* do you smite your fellow?"
 * `Exo 2:20` And he said to his daughters, "And where is he? *_Why_* is it that you have left the man? Call him so that he may eat bread."
 * `Exo 3:3` And Moses said, "I will now turn aside and see this great sight, *_why_* the bush is not burnt."
 * `Exo 5:4` And the king of Egypt said to them, "*_Why_* do you, Moses and Aaron, hinder the people from their works? Go to your burdens."
@@ -1460,13 +1460,13 @@ _1 verse containing WILD-GOAT_
 * `Gen 37:22` And Reuben said to them, "Shed no blood. Cast him into this pit that is in the *_wilderness_* and lay no hand upon him," so that he might deliver him from their hands to bring him back to his father.
 * `Exo 3:18` And they shall listen to your voice, and you shall come—you and the elders of Israel—to the king of Egypt, and you shall say to him, 'The LORD God of the Hebrews has met with us. And now let us go (we implore you) three days journey into the *_wilderness_* so that we may sacrifice to the LORD our God.'
 * `Exo 4:27` And the LORD said to Aaron, "Go into the *_wilderness_* to meet Moses." And he went and met him on the mountain of God and kissed him.
-* `Exo 5:1` And afterward Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the *_wilderness_*.'"
+* `Exo 5:1` And afterward, Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the *_wilderness_*.'"
 * `Exo 7:16` And you shall say to him, 'The LORD God of the Hebrews has sent me to you, saying, "Let my people go so that they may serve me in the *_wilderness_*. And behold, until now you would not hear."
 * `Exo 8:27` We will go three days' journey into the *_wilderness_* and sacrifice to the LORD our God as he commands us."
 * `Exo 8:28` And Pharaoh said, "I will let you go so that you may sacrifice to the LORD your God in the *_wilderness_*. Only you shall not go very far away. Entreat for me."
 * `Exo 13:18` But God led the people around through the way of the *_wilderness_* of the Red Sea. And the children of Israel went up armed from the land of Egypt.
 * `Exo 13:20` And they took their journey from Succoth and encamped in Etham on the edge of the *_wilderness_*.
-* `Exo 14:3` For Pharaoh will say of the children of Israel, 'They wander aimlessly in the land. The *_wilderness_* has shut them in.'
+* `Exo 14:3` For Pharaoh will say about the children of Israel, 'They wander aimlessly in the land. The *_wilderness_* has shut them in.'
 * `Exo 14:11` And they said to Moses, "Because there were no graves in Egypt, have you taken us away to die in the *_wilderness_*? Why have you dealt with us in this way to conduct us out of Egypt?
 * `Exo 14:12` Is this not the word that we told you in Egypt, saying, 'Leave us alone so that we may serve the Egyptians'? For it had been better for us to serve the Egyptians than that we should die in the *_wilderness_*."
 * `Exo 15:22` So Moses brought Israel from the Red Sea, and they went out into the *_wilderness_* of Shur. And they went three days in the *_wilderness_* and found no water.
@@ -1936,9 +1936,9 @@ _2 verses containing WILES_
 * `Exo 3:12` And he said, "Certainly I *_will_* be with you. And this shall be a token to you that I have sent you: when you have brought forth the people out of Egypt, you shall serve God upon this mountain."
 * `Exo 3:17` And I have said I *_will_* bring you out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, to a land flowing with milk and honey."'
 * `Exo 3:19` And I am sure that the king of Egypt *_will_* not let you go, not even by a mighty hand.
-* `Exo 3:20` And I *_will_* stretch out my hand and smite Egypt with all my wonders which I *_will_* do in the midst thereof. And after that he *_will_* let you go.
+* `Exo 3:20` And I *_will_* stretch out my hand and smite Egypt with all my wonders which I *_will_* do in the midst thereof. And after that, he *_will_* let you go.
 * `Exo 3:21` And I *_will_* give this people favor in the sight of the Egyptians. And it shall come to pass, that when you go, you shall not go empty,
-* `Exo 4:1` And Moses answered and said, "But behold, they *_will_* not believe me, nor listen to my voice, for they *_will_* say, 'The LORD has not appeared to you.'"
+* `Exo 4:1` And Moses answered and said, "But behold, they *_will_* not believe me nor listen to my voice, for they *_will_* say, 'The LORD has not appeared to you.'"
 * `Exo 4:8` "And it shall come to pass, if they *_will_* not believe you, neither listen to the voice of the first sign, that they *_will_* believe the voice of the latter sign.
 * `Exo 4:9` And it shall come to pass, if they *_will_* not believe even these two signs, neither listen to your voice, that you shall take some of the water from the river and pour it upon the dry land. And the water which you take out of the river shall become blood upon the dry land."
 * `Exo 4:12` Now therefore, go, and I *_will_* be with your mouth and teach you what you shall say."
@@ -1965,11 +1965,10 @@ _2 verses containing WILES_
 * `Exo 8:27` We *_will_* go three days' journey into the wilderness and sacrifice to the LORD our God as he commands us."
 * `Exo 8:28` And Pharaoh said, "I *_will_* let you go so that you may sacrifice to the LORD your God in the wilderness. Only you shall not go very far away. Entreat for me."
 * `Exo 8:29` And Moses said, "Behold, I go out from you, and I *_will_* entreat the LORD so that the swarms of flies may depart from Pharaoh, from his servants, and from his people tomorrow. But do not let Pharaoh deal deceitfully anymore in not letting the people go to sacrifice to the LORD."
-* `Exo 9:2` For if you refuse to let them go and *_will_* hold them still,
 * `Exo 9:5` And the LORD appointed a set time, saying, "Tomorrow the LORD *_will_* do this thing in the land."
 * `Exo 9:14` For I *_will_* at this time send all my plagues upon your heart, upon your servants, and upon your people so that you may know that there is no one like me in all the earth.
 * `Exo 9:15` For now I *_will_* stretch out my hand so that I may smite you and your people with pestilence, and you shall be cut off from the earth.
-* `Exo 9:17` Still you exalt yourself against my people so that you *_will_* not let them go.
+* `Exo 9:17` Still you exalt yourself against my people and *_will_* not let them go.
 * `Exo 9:18` Behold, tomorrow about this time I *_will_* cause it to rain a very grievous hail such as has not been in Egypt since its foundation even until now.
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail, and I *_will_* let you go, and you shall stay no longer."
 * `Exo 9:29` And Moses said to him, "As soon as I am gone out of the city, I *_will_* spread abroad my hands to the LORD, and the thunder shall cease, neither shall there be any more hail, so that you may know that the earth is the LORD'S.
@@ -1981,21 +1980,21 @@ _2 verses containing WILES_
 * `Exo 10:14` And the locusts went up over all the land of Egypt and rested in all the borders of Egypt. They were very grievous. Before them there had never been [so many] locusts as this, neither after them *_will_* there be such.
 * `Exo 10:26` Our livestock shall also go with us. Not a hoof shall be left behind. For from them we *_will_* take some to serve the LORD our God, and we do not know with what we must serve the LORD until we get there."
 * `Exo 10:29` And Moses said, "You have spoken well. I *_will_* never see your face again."
-* `Exo 11:1` And the LORD said to Moses, "Yet I *_will_* bring one more plague upon Pharaoh and upon Egypt. Afterward he *_will_* let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the LORD said to Moses, "Yet I *_will_* bring one more plague upon Pharaoh and upon Egypt. Afterward, he *_will_* let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 11:4` And Moses said, "Thus says the LORD: 'About midnight I *_will_* go out into the midst of Egypt.
-* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that I *_will_* depart." And he went out from Pharaoh in a great anger.
+* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that, I *_will_* depart." And he went out from Pharaoh in a great anger.
 * `Exo 11:9` And the LORD said to Moses, "Pharaoh *_will_* not listen to you so that my wonders may be multiplied in the land of Egypt."
 * `Exo 12:12` For I *_will_* pass through the land of Egypt this night and *_will_* smite all the first-born in the land of Egypt, both man and beast. And against all the gods of Egypt I *_will_* execute judgment. I am the LORD.
 * `Exo 12:13` And the blood shall be to you for a token upon the houses where you are. And when I see the blood, I *_will_* pass over you, and the plague shall not be upon you to destroy you when I smite the land of Egypt.
-* `Exo 12:23` For the LORD *_will_* pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD *_will_* pass over the door and *_will_* not allow the destroyer to come in to your houses to smite you.
-* `Exo 12:25` And it shall come to pass, when you have come to the land which the LORD *_will_* give you, according as he has promised, that you shall keep this service.
+* `Exo 12:23` For the LORD *_will_* pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD *_will_* pass over the door and *_will_* not allow the destroyer to come into your houses to smite you.
+* `Exo 12:25` And it shall come to pass when you have come to the land which the LORD *_will_* give you, according as he has promised, that you shall keep this service.
 * `Exo 13:13` And every first-born of a donkey you shall redeem with a lamb. And if you *_will_* not redeem it, then you shall break his neck. And all the first-born of man among your children you shall redeem.
 * `Exo 13:19` And Moses took the bones of Joseph with him, for he had made the children of Israel swear, saying, "God *_will_* surely visit you and you shall carry up my bones from here with you."
-* `Exo 14:3` For Pharaoh *_will_* say of the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
+* `Exo 14:3` For Pharaoh *_will_* say about the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
 * `Exo 14:4` And I *_will_* harden Pharaoh's heart, and he shall follow them. And I *_will_* be honored upon Pharaoh and upon all his host so that the Egyptians may know that I am the LORD." And they did so.
 * `Exo 14:13` And Moses said to the people, "Do not fear. Stand still and see the salvation of the LORD which he *_will_* show to you today. For the Egyptians whom you have seen today, you shall see them again no more forever.
 * `Exo 14:14` The LORD *_will_* fight for you, and you shall hold your peace."
-* `Exo 14:17` And I, behold I, *_will_* harden the hearts of the Egyptians, and they shall follow them, and I *_will_* get myself honor upon Pharaoh and upon all his host, upon his chariots and upon his horsemen.
+* `Exo 14:17` And I, behold, I *_will_* harden the hearts of the Egyptians, and they shall follow them, and I *_will_* get myself honor upon Pharaoh and upon all his host, upon his chariots and upon his horsemen.
 * `Exo 15:1` Then Moses and the children of Israel sang this song to the LORD, and spoke, saying, "I *_will_* sing to the LORD, for he has triumphed gloriously. The horse and his rider he has thrown into the sea.
 * `Exo 15:2` The LORD is my strength and song, and he has become my salvation. He is my God, and I *_will_* prepare him a habitation, my father's God, and I *_will_* exalt him.
 * `Exo 15:9` The enemy said, 'I *_will_* pursue and I *_will_* overtake. I *_will_* divide the plunder. My lust shall be satisfied upon them. I *_will_* draw my sword. My hand shall destroy them.'
@@ -5188,7 +5187,7 @@ _2 verses containing WILES_
 * `Rev 22:18` For I testify to every man who hears the words of the prophecy of this book, if any man adds to these things, God *_will_* add to him the plagues that are written in this book.
 * `Rev 22:19` And if any man takes away from the words of the book of this prophecy, God *_will_* take away his part out of the tree of life, out of the holy city, and from the things which are written in this book.
 
-_3429 verses containing WILL_
+_3428 verses containing WILL_
 
 == WILL-WORSHIP
 
@@ -5325,7 +5324,7 @@ _2 verses containing WIN_
 * `Exo 10:13` And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east *_wind_* upon the land all that day and all that night. And when it was morning, the east *_wind_* brought the locusts.
 * `Exo 10:19` And the LORD turned a mighty strong west *_wind_* which took away the locusts and cast them into the Red Sea. There did not remain one locust in all the borders of Egypt.
 * `Exo 14:21` And Moses stretched out his hand over the sea, and the LORD caused the sea to go back by a strong east *_wind_* all that night and made the sea dry land, and the waters were divided.
-* `Exo 15:10` You blew with your *_wind_*, the sea covered them. They sunk as lead in the mighty waters.
+* `Exo 15:10` You blew with your *_wind_*, the sea covered them. They sunk like lead in the mighty waters.
 * `Num 11:31` And a *_wind_* went forth from the LORD, brought quails from the sea, and let them fall by the camp, about a day's journey on this side and about a day's journey on the other side around the camp, and about two cubits high upon the face of the earth.
 * `2Sa 22:11` And he rode upon a cherub and flew, and he was seen upon the wings of the *_wind_*.
 * `1Ki 18:45` And it came to pass in a little while, that the heaven was black with clouds and *_wind_* and there was a great rain. And Ahab rode and went to Jezreel.

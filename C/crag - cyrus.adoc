@@ -309,7 +309,7 @@ _1 verse containing CRICKET_
 * `Gen 41:43` And he made him to ride in the second chariot which he had. And they *_cried_* before him, "Bow the knee." And he made him ruler over all the land of Egypt.
 * `Gen 41:55` And when all the land of Egypt was famished, the people *_cried_* to Pharaoh for bread. And Pharaoh said to all the Egyptians, "Go to Joseph. What he says to you, do."
 * `Gen 45:1` Then Joseph could not refrain himself before all those who stood by him. And he *_cried_*, "Cause every man to go out from me." And there stood no man with him while Joseph made himself known to his brothers.
-* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they *_cried_*. And their cry ascended to God, by reason of the bondage.
+* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they *_cried_*. And their cry because of the bondage ascended to God.
 * `Exo 5:15` Then the officers of the children of Israel came and *_cried_* to Pharaoh, saying, "Why do you deal thus with your servants?
 * `Exo 8:12` And Moses and Aaron went out from Pharaoh. And Moses *_cried_* to the LORD because of the frogs which he had brought against Pharaoh.
 * `Exo 14:10` And when Pharaoh drew near, the children of Israel lifted up their eyes, and behold, the Egyptians marched after them, and they were greatly afraid. And the children of Israel *_cried_* to the LORD.
@@ -863,7 +863,7 @@ _11 verses containing CRUCIFY_
 == CRUEL
 
 * `Gen 49:7` Cursed is their anger, for it was fierce, and their wrath, for it was *_cruel_*. I will divide them in Jacob and scatter them in Israel.
-* `Exo 6:9` And Moses thus spoke to the children of Israel, but they did not listen to Moses by reason of anguish of spirit and *_cruel_* bondage.
+* `Exo 6:9` And Moses told this to the children of Israel, but they did not listen to Moses by reason of anguish of spirit and *_cruel_* bondage.
 * `Deu 32:33` Their wine is the poison of serpents and the *_cruel_* venom of asps.
 * `Job 30:21` You have become *_cruel_* to me. With your strong hand you oppose yourself against me.
 * `Psa 25:19` [QOF] Consider my enemies, for they are many, and they hate me with *_cruel_* hatred.
@@ -949,12 +949,12 @@ _7 verses containing CRUSHED_
 * `Gen 18:21` I will go down now and see whether they have done altogether according to its *_cry_* which has come to me, and if not, I will know."
 * `Gen 19:13` For we will destroy this place, because their *_cry_* has become great before the face of the LORD, and the LORD has sent us to destroy it."
 * `Gen 27:34` And when Esau heard the words of his father, he cried with a great and exceedingly bitter *_cry_* and said to his father, "Bless me, even me also, O my father."
-* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their *_cry_* ascended to God, by reason of the bondage.
+* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their *_cry_* because of the bondage ascended to God.
 * `Exo 3:7` And the LORD said, "I have surely seen the affliction of my people who are in Egypt and have heard their *_cry_* by reason of their task-masters. For I know their sorrows,
 * `Exo 3:9` Now therefore, behold, the *_cry_* of the children of Israel has come to me, and I have also seen the oppression with which the Egyptians oppress them.
 * `Exo 5:8` And the number of the bricks which they made before, you shall lay upon them. You shall not diminish anything thereof. Because they are idle, therefore they *_cry_*, saying, 'Let us go and sacrifice to our God.'
 * `Exo 11:6` And there shall be a great *_cry_* throughout all the land of Egypt, such as there has been none like it, nor shall be like it anymore.
-* `Exo 12:30` And Pharaoh rose in the night—he, all his servants, and all the Egyptians—and there was a great *_cry_* in Egypt, for there was not a house where there was not one dead.
+* `Exo 12:30` And Pharaoh rose in the night—he, all his servants, and all the Egyptians—and there was a great *_cry_* in Egypt, for there was not a house where there was not someone dead.
 * `Exo 14:15` And the LORD said to Moses, "Why do you *_cry_* to me? Speak to the children of Israel that they go forward.
 * `Exo 22:23` If you afflict them in any way, and they *_cry_* at all to me, I will surely hear their *_cry_*.
 * `Exo 32:18` And he said, "It is not the voice of those who shout for mastery, neither is it the voice of those who *_cry_* for being overcome, but the noise of those who sing I hear."
@@ -1924,7 +1924,7 @@ _7 verses containing CUSTOMS_
 * `Exo 4:25` Then Zipporah took a sharp stone, *_cut_* off the foreskin of her son, and cast it at his feet, and said, "Surely a bloody husband you are to me."
 * `Exo 9:15` For now I will stretch out my hand so that I may smite you and your people with pestilence, and you shall be *_cut_* off from the earth.
 * `Exo 12:15` Seven days you shall eat unleavened bread. Even the first day you shall put away leaven out of your houses. For whoever eats leavened bread from the first day until the seventh day, that soul shall be *_cut_* off from Israel.
-* `Exo 12:19` Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be *_cut_* off from the congregation of Israel, whether he is a stranger, or born in the land.
+* `Exo 12:19` Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be *_cut_* off from the congregation of Israel, whether he is a stranger or born in the land.
 * `Exo 23:23` For my Angel shall go before you and bring you to the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, and I will *_cut_* them off.
 * `Exo 29:17` And you shall *_cut_* the ram in pieces and wash his inwards and his legs and put them with his pieces and with his head.
 * `Exo 30:33` Whoever compounds any like it, or whoever puts any of it upon a stranger, shall even be *_cut_* off from his people.'"

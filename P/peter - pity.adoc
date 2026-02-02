@@ -333,10 +333,10 @@ _1 verse containing PHANUEL_
 * `Gen 50:6` And *_Pharaoh_* said, "Go up and bury your father, according as he made you swear."
 * `Gen 50:7` And Joseph went up to bury his father. And with him went all the servants of *_Pharaoh_*, the elders of his house, all the elders of the land of Egypt,
 * `Exo 1:11` Therefore, they set over them task-masters to afflict them with their burdens. And they built for *_Pharaoh_* treasure-cities: Pithom and Raamses.
-* `Exo 1:19` And the midwives said to *_Pharaoh_*, "Because the Hebrew women are not as the Egyptian women. For they are lively and deliver before the midwives come to them."
+* `Exo 1:19` And the midwives said to *_Pharaoh_*, "Because the Hebrew women are not like the Egyptian women. For they are lively and deliver before the midwives come to them."
 * `Exo 1:22` And *_Pharaoh_* charged all his people, saying, "Every son who is born you shall cast into the river, and every daughter you shall save alive."
 * `Exo 2:5` And the daughter of *_Pharaoh_* came down to wash herself at the river, and her attendants walked along by the river's side. And when she saw the basket among the reeds, she sent her servant to fetch it.
-* `Exo 2:7` Then his sister said to *_Pharaoh_*'s daughter, "Shall I go and call for you a nurse of the Hebrew women so that she may nurse the child for you?"
+* `Exo 2:7` Then his sister said to *_Pharaoh_*'s daughter, "Shall I go and call for you a nurse from the Hebrew women so that she may nurse the child for you?"
 * `Exo 2:8` And *_Pharaoh_*'s daughter said to her, "Go." And the young woman went and called the child's mother.
 * `Exo 2:9` And *_Pharaoh_*'s daughter said to her, "Take this child away and nurse it for me, and I will give you your wages." And the woman took the child and nursed it.
 * `Exo 2:10` And the child grew, and she brought him to *_Pharaoh_*'s daughter, and he became her son. And she called his name Moses, saying, "Because I drew him out of the water."
@@ -345,7 +345,7 @@ _1 verse containing PHANUEL_
 * `Exo 3:11` And Moses said to God, "Who am I that I should go to *_Pharaoh_* and that I should bring forth the children of Israel out of Egypt?"
 * `Exo 4:21` And the LORD said to Moses, "When you go to return into Egypt, see that you perform all those wonders before *_Pharaoh_* which I have put in your hand. But I will harden his heart so that he shall not let the people go.
 * `Exo 4:22` And you shall say to *_Pharaoh_*, 'Thus says the LORD: "Israel is my son, even my first-born.
-* `Exo 5:1` And afterward Moses and Aaron went in and told *_Pharaoh_*, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, Moses and Aaron went in and told *_Pharaoh_*, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:2` And *_Pharaoh_* said, "Who is the LORD that I should obey his voice to let Israel go? I do not know the LORD, neither will I let Israel go."
 * `Exo 5:5` And *_Pharaoh_* said, "Behold, the people of the land are now many, and you make them rest from their burdens."
 * `Exo 5:6` And *_Pharaoh_* commanded the same day the task-masters of the people and their officers, saying,
@@ -398,12 +398,12 @@ _1 verse containing PHANUEL_
 * `Exo 9:13` And the LORD said to Moses, "Rise early in the morning and stand before *_Pharaoh_* and say to him, 'Thus says the LORD God of the Hebrews: "Let my people go so that they may serve me.
 * `Exo 9:20` He who feared the word of the LORD among the servants of *_Pharaoh_* made his servants and his livestock flee into the houses.
 * `Exo 9:27` And *_Pharaoh_* sent and called for Moses and Aaron and said to them, "I have sinned this time. The LORD is righteous, and I and my people are wicked.
-* `Exo 9:33` And Moses went out of the city from *_Pharaoh_* and spread abroad his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+* `Exo 9:33` And Moses went out of the city from *_Pharaoh_* and spread abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 9:34` And when *_Pharaoh_* saw that the rain and the hail and the thunders had ceased, he sinned yet again and hardened his heart—he and his servants.
 * `Exo 9:35` And the heart of *_Pharaoh_* was hardened, neither would he let the children of Israel go, as the LORD had spoken by Moses.
 * `Exo 10:1` And the LORD said to Moses, "Go to *_Pharaoh_*, for I have hardened his heart and the heart of his servants, so that I might show these signs of mine before him,
 * `Exo 10:3` And Moses and Aaron came to *_Pharaoh_* and said to him, "Thus says the LORD God of the Hebrews: 'How long will you refuse to humble yourself before me? Let my people go so that they may serve me.
-* `Exo 10:6` And they shall fill your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers, nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from *_Pharaoh_*.
+* `Exo 10:6` And they shall fill your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from *_Pharaoh_*.
 * `Exo 10:7` And *_Pharaoh_*'s servants said to him, "How long shall this man be a snare to us? Let the men go so that they may serve the LORD their God. Do you not yet know that Egypt is destroyed?"
 * `Exo 10:8` And Moses and Aaron were brought back to *_Pharaoh_*, and he said to them, "Go, serve the LORD your God, but who are those who shall go?"
 * `Exo 10:11` Not so. Go now you who are men and serve the LORD, for that you desired." And they were driven out from *_Pharaoh_*'s presence.
@@ -413,23 +413,23 @@ _1 verse containing PHANUEL_
 * `Exo 10:24` And *_Pharaoh_* called to Moses and said, "Go, serve the LORD. Only leave your flocks and your herds. Let your little ones also go with you."
 * `Exo 10:27` But the LORD hardened *_Pharaoh_*'s heart, and he would not let them go.
 * `Exo 10:28` And *_Pharaoh_* said to him, "Depart from me. Take heed to yourself that you see my face no more. For in that day you see my face, you shall die."
-* `Exo 11:1` And the LORD said to Moses, "Yet I will bring one more plague upon *_Pharaoh_* and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+* `Exo 11:1` And the LORD said to Moses, "Yet I will bring one more plague upon *_Pharaoh_* and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 * `Exo 11:3` And the LORD gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of *_Pharaoh_*'s servants, and in the sight of the people.
 * `Exo 11:5` And all the first-born in the land of Egypt shall die, from the first-born of *_Pharaoh_* who sits upon his throne, even to the first-born of the woman-servant who is behind the mill, and all the first-born of beasts.
-* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that I will depart." And he went out from *_Pharaoh_* in a great anger.
+* `Exo 11:8` And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that, I will depart." And he went out from *_Pharaoh_* in a great anger.
 * `Exo 11:9` And the LORD said to Moses, "*_Pharaoh_* will not listen to you so that my wonders may be multiplied in the land of Egypt."
 * `Exo 11:10` And Moses and Aaron did all these wonders before *_Pharaoh_*, and the LORD hardened *_Pharaoh_*'s heart so that he would not let the children of Israel depart from his land.
 * `Exo 12:29` And it came to pass, that at midnight the LORD smote all the first-born in the land of Egypt, from the first-born of *_Pharaoh_* who sat on his throne to the first-born of the captive who was in the dungeon, and all the first-born of livestock.
-* `Exo 12:30` And *_Pharaoh_* rose in the night—he, all his servants, and all the Egyptians—and there was a great cry in Egypt, for there was not a house where there was not one dead.
-* `Exo 13:15` And it came to pass, when *_Pharaoh_* would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
-* `Exo 13:17` And it came to pass, when *_Pharaoh_* had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
-* `Exo 14:3` For *_Pharaoh_* will say of the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
+* `Exo 12:30` And *_Pharaoh_* rose in the night—he, all his servants, and all the Egyptians—and there was a great cry in Egypt, for there was not a house where there was not someone dead.
+* `Exo 13:15` And it came to pass when *_Pharaoh_* would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
+* `Exo 13:17` And it came to pass when *_Pharaoh_* had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
+* `Exo 14:3` For *_Pharaoh_* will say about the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
 * `Exo 14:4` And I will harden *_Pharaoh_*'s heart, and he shall follow them. And I will be honored upon *_Pharaoh_* and upon all his host so that the Egyptians may know that I am the LORD." And they did so.
 * `Exo 14:5` And it was told to the king of Egypt that the people fled. And the heart of *_Pharaoh_* and of his servants was turned against the people, and they said, "Why have we done this that we have let Israel go from serving us?"
 * `Exo 14:8` And the LORD hardened the heart of *_Pharaoh_* king of Egypt, and he pursued the children of Israel. And the children of Israel went out with a high hand.
 * `Exo 14:9` But the Egyptians pursued them (all the horses and chariots of *_Pharaoh_*, his horsemen, and his army) and overtook them encamping by the sea, beside Pi-hahiroth, before Baal-zephon.
 * `Exo 14:10` And when *_Pharaoh_* drew near, the children of Israel lifted up their eyes, and behold, the Egyptians marched after them, and they were greatly afraid. And the children of Israel cried to the LORD.
-* `Exo 14:17` And I, behold I, will harden the hearts of the Egyptians, and they shall follow them, and I will get myself honor upon *_Pharaoh_* and upon all his host, upon his chariots and upon his horsemen.
+* `Exo 14:17` And I, behold, I will harden the hearts of the Egyptians, and they shall follow them, and I will get myself honor upon *_Pharaoh_* and upon all his host, upon his chariots and upon his horsemen.
 * `Exo 14:18` And the Egyptians shall know that I am the LORD when I have gotten myself honor upon *_Pharaoh_*, upon his chariots, and upon his horsemen."
 * `Exo 14:23` And the Egyptians pursued and went in after them to the midst of the sea, even all *_Pharaoh_*'s horses, his chariots, and his horsemen.
 * `Exo 14:28` And the waters returned and covered the chariots, the horsemen, and all the host of *_Pharaoh_* that came into the sea after them. There did not remain so much as one of them.
@@ -824,7 +824,7 @@ _28 verses containing PHILISTINE_
 * `Gen 26:14` For he had possessions of flocks and possessions of herds, and very many servants. And the *_Philistines_* envied him.
 * `Gen 26:15` For all the wells which his father's servants had dug in the days of Abraham his father, the *_Philistines_* had stopped them and filled them with earth.
 * `Gen 26:18` And Isaac dug again the wells of water which they had dug in the days of Abraham his father, for the *_Philistines_* had stopped them after the death of Abraham. And he called their names after the names by which his father had called them.
-* `Exo 13:17` And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the *_Philistines_*, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
+* `Exo 13:17` And it came to pass when Pharaoh had let the people go, that God did not lead them through the way of the land of the *_Philistines_*, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
 * `Exo 23:31` And I will set your bounds from the Red Sea even to the sea of the *_Philistines_*, and from the desert to the river, for I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.
 * `Jsh 13:2` This is the land that yet remains: all the borders of the *_Philistines_*, and all Geshuri,
 * `Jsh 13:3` From Sihor, which is before Egypt, even to the borders of Ekron northward, which is counted to the Canaanite; five lords of the *_Philistines_*, the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites,
@@ -1547,7 +1547,7 @@ _1 verse containing PILLAGED_
 * `Gen 35:14` And Jacob set up a *_pillar_* in the place where he talked with him, even a *_pillar_* of stone, and he poured a drink-offering thereon and he poured oil thereon.
 * `Gen 35:20` And Jacob set a *_pillar_* on her grave. That is the *_pillar_* of Rachel's grave to this day.
 * `Exo 13:21` And the LORD went before them by day in a *_pillar_* of a cloud to lead them in the way, and by night in a *_pillar_* of fire to give them light, to go by day and night.
-* `Exo 13:22` He did not take away the *_pillar_* of the cloud by day, nor the *_pillar_* of fire by night from before the people.
+* `Exo 13:22` He did not take away the *_pillar_* of the cloud by day nor the *_pillar_* of fire by night from before the people.
 * `Exo 14:19` And the angel of God, who went before the camp of Israel, moved and went behind them. And the *_pillar_* of the cloud went from before their face and stood behind them.
 * `Exo 14:24` And it came to pass, that in the morning-watch, the LORD looked to the host of the Egyptians through the *_pillar_* of fire and of the cloud and troubled the host of the Egyptians,
 * `Exo 33:9` And it came to pass, as Moses entered into the tabernacle, the cloudy *_pillar_* descended and stood at the door of the tabernacle, and the LORD talked with Moses.

@@ -1556,7 +1556,7 @@ _150 verses containing BEAST_
 * `Gen 36:6` And Esau took his wives, his sons, his daughters, all the persons of his house, his livestock, all his *_beasts_*, and all his substance which he had acquired in the land of Canaan, and went into the country from the face of his brother Jacob.
 * `Gen 45:17` And Pharaoh said to Joseph, "Say to your brothers, 'Do this: load your *_beasts_* and go, return to the land of Canaan,
 * `Exo 11:5` And all the first-born in the land of Egypt shall die, from the first-born of Pharaoh who sits upon his throne, even to the first-born of the woman-servant who is behind the mill, and all the first-born of *_beasts_*.
-* `Exo 13:15` And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of *_beasts_*. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
+* `Exo 13:15` And it came to pass when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of *_beasts_*. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
 * `Exo 22:31` "And you shall be holy men to me; therefore, you shall not eat any flesh that is torn by *_beasts_* in the field. You shall cast it to the dogs."
 * `Exo 23:11` But the seventh year you shall let it rest and lie still so that the poor of your people may eat. And what they leave, the *_beasts_* of the field shall eat. In like manner you shall deal with your vineyard and with your olive-grove.
 * `Lev 7:24` And the fat of the beast that dies of itself and the fat of that which is torn by *_beasts_* may be used for any other purpose, but you shall in no way eat it.
@@ -2110,9 +2110,10 @@ _123 verses containing BECAME_
 * `Gen 47:20` And Joseph bought all the land of Egypt for Pharaoh, for the Egyptians each sold his field *_because_* the famine prevailed over them. So the land became Pharaoh's.
 * `Gen 49:4` Unstable as water, you shall not excel *_because_* you went up to your father's bed. Then you defiled it—he went up to my couch.
 * `Exo 1:12` But the more they afflicted them, the more they multiplied and grew. And they were grieved *_because_* of the children of Israel.
-* `Exo 1:19` And the midwives said to Pharaoh, "*_Because_* the Hebrew women are not as the Egyptian women. For they are lively and deliver before the midwives come to them."
+* `Exo 1:19` And the midwives said to Pharaoh, "*_Because_* the Hebrew women are not like the Egyptian women. For they are lively and deliver before the midwives come to them."
 * `Exo 1:21` And it came to pass, *_because_* the midwives feared God, that he made them houses.
 * `Exo 2:10` And the child grew, and she brought him to Pharaoh's daughter, and he became her son. And she called his name Moses, saying, "*_Because_* I drew him out of the water."
+* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their cry *_because_* of the bondage ascended to God.
 * `Exo 3:6` Moreover, he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob." And Moses hid his face *_because_* he was afraid to look upon God.
 * `Exo 4:26` So he let him go. Then she said, "A bloody husband you are *_because_* of the circumcision."
 * `Exo 5:8` And the number of the bricks which they made before, you shall lay upon them. You shall not diminish anything thereof. *_Because_* they are idle, therefore they cry, saying, 'Let us go and sacrifice to our God.'
@@ -2120,6 +2121,7 @@ _123 verses containing BECAME_
 * `Exo 7:24` And all the Egyptians dug all around the river for water to drink *_because_* they could not drink the water from the river.
 * `Exo 8:12` And Moses and Aaron went out from Pharaoh. And Moses cried to the LORD *_because_* of the frogs which he had brought against Pharaoh.
 * `Exo 9:11` And the magicians could not stand before Moses *_because_* of the boil, for the boil was upon the magicians and upon all the Egyptians.
+* `Exo 9:32` But the wheat and the spelt were not smitten, *_because_* they were late.
 * `Exo 12:39` And they baked unleavened cakes of the dough which they brought from Egypt, for it was not leavened *_because_* they were driven from Egypt and could not delay, neither had they prepared for themselves any food.
 * `Exo 13:8` And you shall show your son in that day, saying, 'This is done *_because_* of that which the LORD did to me when I came forth out of Egypt.'
 * `Exo 14:11` And they said to Moses, "*_Because_* there were no graves in Egypt, have you taken us away to die in the wilderness? Why have you dealt with us in this way to conduct us out of Egypt?
@@ -3256,7 +3258,7 @@ _123 verses containing BECAME_
 * `Rev 21:4` And God will wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain, *_because_* the former things have passed away."
 * `Rev 22:5` And there shall be no night there. They need no candle, neither light of the sun, *_because_* the Lord God gives them light. And they shall reign forever and ever.
 
-_1218 verses containing BECAUSE_
+_1220 verses containing BECAUSE_
 
 == BECHER
 

@@ -816,7 +816,7 @@ _1 verse containing ISPAH_
 * `Exo 1:9` And he said to his people, "Behold, the people of the children of *_Israel_* are more and mightier than we are.
 * `Exo 1:12` But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of *_Israel_*.
 * `Exo 1:13` And the Egyptians made the children of *_Israel_* to serve with rigor.
-* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of *_Israel_* sighed by reason of the bondage and they cried. And their cry ascended to God, by reason of the bondage.
+* `Exo 2:23` And it came to pass in process of time, that the king of Egypt died, and the children of *_Israel_* sighed by reason of the bondage and they cried. And their cry because of the bondage ascended to God.
 * `Exo 2:25` And God looked upon the children of *_Israel_*, and God took notice of them.
 * `Exo 3:9` Now therefore, behold, the cry of the children of *_Israel_* has come to me, and I have also seen the oppression with which the Egyptians oppress them.
 * `Exo 3:10` "Come now therefore, and I will send you to Pharaoh so that you may bring forth my people the children of *_Israel_* out of Egypt."
@@ -829,14 +829,14 @@ _1 verse containing ISPAH_
 * `Exo 4:22` And you shall say to Pharaoh, 'Thus says the LORD: "*_Israel_* is my son, even my first-born.
 * `Exo 4:29` And Moses and Aaron went and assembled all the elders of the children of *_Israel_*.
 * `Exo 4:31` And the people believed. And when they heard that the LORD had visited the children of *_Israel_* and that he had looked upon their affliction, then they bowed their heads and worshiped.
-* `Exo 5:1` And afterward Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of *_Israel_*: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+* `Exo 5:1` And afterward, Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of *_Israel_*: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 * `Exo 5:2` And Pharaoh said, "Who is the LORD that I should obey his voice to let *_Israel_* go? I do not know the LORD, neither will I let *_Israel_* go."
 * `Exo 5:14` And the officers of the children of *_Israel_*, which Pharaoh's task-masters had set over them, were beaten and were demanded, "Why have you not fulfilled your task in making brick, both yesterday and today, as before?"
 * `Exo 5:15` Then the officers of the children of *_Israel_* came and cried to Pharaoh, saying, "Why do you deal thus with your servants?
 * `Exo 5:19` And the officers of the children of *_Israel_* saw that they were in evil case after it was said, "You shall not diminish anything from your bricks of your daily task."
 * `Exo 6:5` And I have also heard the groaning of the children of *_Israel_*, whom the Egyptians keep in bondage, and I have remembered my covenant.
 * `Exo 6:6` Therefore, say to the children of *_Israel_*, 'I am the LORD, and I will bring you from under the burdens of the Egyptians and deliver you from their bondage and redeem you with an out-stretched arm and with great judgments.
-* `Exo 6:9` And Moses thus spoke to the children of *_Israel_*, but they did not listen to Moses by reason of anguish of spirit and cruel bondage.
+* `Exo 6:9` And Moses told this to the children of *_Israel_*, but they did not listen to Moses by reason of anguish of spirit and cruel bondage.
 * `Exo 6:11` "Go in, speak to Pharaoh, king of Egypt, that he let the children of *_Israel_* depart from his land."
 * `Exo 6:12` And Moses spoke before the LORD, saying, "Behold, the children of *_Israel_* have not listened to me. How then shall Pharaoh hear me, who am of uncircumcised lips?"
 * `Exo 6:13` And the LORD spoke to Moses and to Aaron and gave them a charge to the children of *_Israel_* and to Pharaoh, king of Egypt, to bring the children of *_Israel_* out of the land of Egypt.
@@ -857,7 +857,7 @@ _1 verse containing ISPAH_
 * `Exo 12:3` Speak to all the congregation of *_Israel_*, saying, 'On the tenth day of this month they shall each take for themselves a lamb, according to the house of their fathers, a lamb for a house.
 * `Exo 12:6` And you shall keep it until the fourteenth day of the same month. And the whole assembly of the congregation of *_Israel_* shall kill it in the evening.
 * `Exo 12:15` Seven days you shall eat unleavened bread. Even the first day you shall put away leaven out of your houses. For whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from *_Israel_*.
-* `Exo 12:19` Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be cut off from the congregation of *_Israel_*, whether he is a stranger, or born in the land.
+* `Exo 12:19` Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be cut off from the congregation of *_Israel_*, whether he is a stranger or born in the land.
 * `Exo 12:21` Then Moses called for all the elders of *_Israel_* and said to them, "Draw out and take a lamb, according to your families, and kill the passover.
 * `Exo 12:27` You shall say, 'It is the sacrifice of the LORD'S passover, who passed over the houses of the children of *_Israel_* in Egypt when he smote the Egyptians and delivered our houses.'" And the people bowed the head and worshiped.
 * `Exo 12:28` And the children of *_Israel_* went away and did as the LORD had commanded Moses and Aaron. And they did so.
@@ -873,7 +873,7 @@ _1 verse containing ISPAH_
 * `Exo 13:18` But God led the people around through the way of the wilderness of the Red Sea. And the children of *_Israel_* went up armed from the land of Egypt.
 * `Exo 13:19` And Moses took the bones of Joseph with him, for he had made the children of *_Israel_* swear, saying, "God will surely visit you and you shall carry up my bones from here with you."
 * `Exo 14:2` "Speak to the children of *_Israel_* that they turn and encamp before Pi-hahiroth, between Migdol and the sea, over against Baal-zephon. Before it you shall encamp by the sea.
-* `Exo 14:3` For Pharaoh will say of the children of *_Israel_*, 'They wander aimlessly in the land. The wilderness has shut them in.'
+* `Exo 14:3` For Pharaoh will say about the children of *_Israel_*, 'They wander aimlessly in the land. The wilderness has shut them in.'
 * `Exo 14:5` And it was told to the king of Egypt that the people fled. And the heart of Pharaoh and of his servants was turned against the people, and they said, "Why have we done this that we have let *_Israel_* go from serving us?"
 * `Exo 14:8` And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued the children of *_Israel_*. And the children of *_Israel_* went out with a high hand.
 * `Exo 14:10` And when Pharaoh drew near, the children of *_Israel_* lifted up their eyes, and behold, the Egyptians marched after them, and they were greatly afraid. And the children of *_Israel_* cried to the LORD.
@@ -3379,7 +3379,7 @@ _1 verse containing ITHRITES_
 * `Gen 40:18` And Joseph answered and said, "This is *_its_* interpretation: The three baskets are three days.
 * `Gen 50:11` And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, "This is a grievous mourning for the Egyptians." Therefore, *_its_* name was called Abel-mizraim, which is beyond the Jordan.
 * `Exo 9:18` Behold, tomorrow about this time I will cause it to rain a very grievous hail such as has not been in Egypt since *_its_* foundation even until now.
-* `Exo 12:9` Do not eat any of it raw, nor boiled at all with water, but roasted with fire, *_its_* head with *_its_* legs and with *_its_* entrails.
+* `Exo 12:9` Do not eat any of it raw or boiled at all with water, but roasted with fire, *_its_* head with *_its_* legs and with *_its_* entrails.
 * `Exo 13:10` You shall therefore keep this ordinance in *_its_* season from year to year.
 * `Exo 14:27` And Moses stretched forth his hand over the sea, and the sea returned to *_its_* strength when the morning appeared. And the Egyptians fled against it, but the LORD overthrew the Egyptians in the midst of the sea.
 * `Exo 15:23` And when they came to Marah, they could not drink the waters of Marah because they were bitter. Therefore, *_its_* name was called Marah.
