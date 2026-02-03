@@ -89,7 +89,7 @@ _2 verses containing STOMACH_
 * `Exo 17:4` And Moses cried to the LORD, saying, "What shall I do to this people? They are almost ready to *_stone_* me."
 * `Exo 17:12` But Moses's hands were heavy, and they took a *_stone_* and put it under him, and he sat upon it. And Aaron and Hur supported his hands, one on one side and the other on the other side. And his hands were steady until the going down of the sun.
 * `Exo 20:25` And if you will make me an altar of *_stone_*, you shall not build it of hewn *_stone_*, for if you lift up your tool upon it, you have polluted it.
-* `Exo 21:18` "And if men contend together, and one smites another with a *_stone_* or with his fist and he does not die but remains in his bed,
+* `Exo 21:18` "And if men contend together, and one smites another with a *_stone_* or with his fist, and he does not die but remains in his bed,
 * `Exo 24:10` And they saw the God of Israel, and there was under his feet something like a paved work of a sapphire-*_stone_* and like the body of heaven in its clearness.
 * `Exo 24:12` And the LORD said to Moses, "Come up to me on the mountain and be there, and I will give you tablets of *_stone_* with the law and the commandments which I have written so that you may teach them."
 * `Exo 28:10` Six of their names on one *_stone_* and the six names of the rest on the other *_stone_* according to their birth.
@@ -265,7 +265,7 @@ _1 verse containing STONE-SQUARERS_
 * `Exo 19:13` No hand shall touch him, but he shall surely be *_stoned_* or shot through. Whether it be beast or man, it shall not live.' When the trumpet sounds long, they shall come up to the mountain."
 * `Exo 21:28` "If an ox gores a man or a woman so that they die, then the ox shall surely be *_stoned_* and its flesh shall not be eaten, but the owner of the ox shall be acquitted.
 * `Exo 21:29` But if the ox was accustomed to push with its horn in time past, and it has been testified to its owner and he has not restrained it, and it has killed a man or a woman, the ox shall be *_stoned_* and its owner shall also be put to death.
-* `Exo 21:32` If the ox gores a man-servant or woman-servant, he shall give to their master thirty shekels of silver and the ox shall be *_stoned_*.
+* `Exo 21:32` If the ox gores a man-servant or woman-servant, he shall give to their master thirty shekels of silver, and the ox shall be *_stoned_*.
 * `Num 15:36` And all the congregation brought him outside the camp and *_stoned_* him with stones, and he died, as the LORD commanded Moses.
 * `Jsh 7:25` And Joshua said, "Why have you troubled us? The LORD shall trouble you this day." And all Israel *_stoned_* him with stones. And they burned them with fire after they had *_stoned_* them with stones.
 * `1Ki 12:18` Then king Rehoboam sent Adoram, who was over the tribute. And all Israel *_stoned_* him with stones so that he died. Therefore, king Rehoboam made speed to enter his chariot to flee to Jerusalem.
@@ -1140,9 +1140,9 @@ _1 verse containing STRANGELY_
 * `Exo 12:48` And when a *_stranger_* sojourns with you and wishes to keep the passover to the LORD, let all his males be circumcised and then let him come near and keep it, and he shall be as one who is born in the land. For no uncircumcised person shall eat it.
 * `Exo 12:49` One law shall be to him who is home-born and to the *_stranger_* who sojourns among you."
 * `Exo 20:10` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your woman-servant, your livestock, nor your *_stranger_* who is within your gates.
-* `Exo 22:21` "You shall neither vex a *_stranger_*, nor oppress him, for you were strangers in the land of Egypt.
-* `Exo 23:9` "Also you shall not oppress a *_stranger_*, for you know the heart of a *_stranger_*, seeing you were strangers in the land of Egypt.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the *_stranger_* may be refreshed.
+* `Exo 22:21` "You shall neither vex a *_stranger_* nor oppress him, for you were strangers in the land of Egypt.
+* `Exo 23:9` "Also, you shall not oppress a *_stranger_*, for you know the heart of a *_stranger_*, seeing you were strangers in the land of Egypt.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the *_stranger_* may be refreshed.
 * `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a *_stranger_* shall not eat of them because they are holy.
 * `Exo 30:33` Whoever compounds any like it, or whoever puts any of it upon a *_stranger_*, shall even be cut off from his people.'"
 * `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do no work at all, whether it be one of your own country or a *_stranger_* who sojourns among you.
@@ -1260,8 +1260,8 @@ _123 verses containing STRANGER_
 * `Gen 31:15` Are we not regarded by him as *_strangers_*? For he has sold us and has also quite consumed our money.
 * `Gen 36:7` For their riches were too abundant for them to dwell together, and the land wherein they were *_strangers_* could not sustain them because of their livestock.
 * `Exo 6:4` And I have also established my covenant with them to give them the land of Canaan, the land of their pilgrimage, in which they were *_strangers_*.
-* `Exo 22:21` "You shall neither vex a stranger, nor oppress him, for you were *_strangers_* in the land of Egypt.
-* `Exo 23:9` "Also you shall not oppress a stranger, for you know the heart of a stranger, seeing you were *_strangers_* in the land of Egypt.
+* `Exo 22:21` "You shall neither vex a stranger nor oppress him, for you were *_strangers_* in the land of Egypt.
+* `Exo 23:9` "Also, you shall not oppress a stranger, for you know the heart of a stranger, seeing you were *_strangers_* in the land of Egypt.
 * `Lev 17:8` "And you shall say to them, 'Whatever man there may be of the house of Israel or of the *_strangers_* which sojourn among you who offers a burnt-offering or sacrifice,
 * `Lev 17:10` 'And whatever man there may be of the house of Israel or of the *_strangers_* who sojourn among you who eats any manner of blood, I will even set my face against that soul who eats blood and will cut him off from among his people.
 * `Lev 17:13` And whatever man there may be of the children of Israel or of the *_strangers_* who sojourn among you who hunts and catches any beast or bird that may be eaten, he shall even pour out its blood and cover it with dust.

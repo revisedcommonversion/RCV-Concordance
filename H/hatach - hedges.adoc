@@ -23,7 +23,7 @@ _3 verses containing HATCH_
 * `Gen 24:60` And they blessed Rebekah, and said to her, "You are our sister—may you be the mother of thousands of millions, and let your offspring possess the gate of those who *_hate_* them."
 * `Gen 26:27` And Isaac said to them, "Why do you come to me, seeing that you *_hate_* me and have sent me away from you?"
 * `Gen 50:15` And when Joseph's brothers saw that their father was dead, they said, "Joseph will perhaps *_hate_* us and will certainly requite us all the evil which we did to him."
-* `Exo 20:5` You shall not bow down yourself to them, nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who *_hate_* me,
+* `Exo 20:5` You shall not bow down yourself to them nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who *_hate_* me,
 * `Lev 19:17` 'You shall not *_hate_* your brother in your heart. You shall certainly rebuke your neighbor and not bear sin because of him.
 * `Lev 26:17` And I will set my face against you, and you shall be slain before your enemies. Those who *_hate_* you shall reign over you, and you shall flee when no one pursues you.
 * `Num 10:35` And it came to pass when the ark moved forward, that Moses said, "Arise, LORD, and let your enemies be scattered, and let those who *_hate_* you flee before you."
@@ -2133,7 +2133,7 @@ _523 verses containing HEAR_
 * `Exo 4:31` And the people believed. And when they *_heard_* that the LORD had visited the children of Israel and that he had looked upon their affliction, then they bowed their heads and worshiped.
 * `Exo 6:5` And I have also *_heard_* the groaning of the children of Israel, whom the Egyptians keep in bondage, and I have remembered my covenant.
 * `Exo 16:9` And Moses spoke to Aaron, "Say to all the congregation of the children of Israel, 'Come near before the LORD, for he has *_heard_* your murmurings.'"
-* `Exo 16:12` "I have *_heard_* the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall eat flesh and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
+* `Exo 16:12` "I have *_heard_* the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall eat flesh, and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
 * `Exo 18:1` When Jethro the priest of Midian, Moses's father-in-law, *_heard_* of all that God had done for Moses and for Israel his people, and that the LORD had brought Israel out of Egypt,
 * `Exo 23:13` And in all things that I have said to you be circumspect. And make no mention of the names of other gods, neither let it be *_heard_* from your mouth.
 * `Exo 28:35` And it shall be upon Aaron to minister. And his sound shall be *_heard_* when he goes into the holy place before the LORD and when he comes out so that he may not die.
@@ -2880,7 +2880,7 @@ _56 verses containing HEARS_
 * `Exo 14:5` And it was told to the king of Egypt that the people fled. And the *_heart_* of Pharaoh and of his servants was turned against the people, and they said, "Why have we done this that we have let Israel go from serving us?"
 * `Exo 14:8` And the LORD hardened the *_heart_* of Pharaoh king of Egypt, and he pursued the children of Israel. And the children of Israel went out with a high hand.
 * `Exo 15:8` And with the blast of your nostrils the waters were collected, the floods stood upright like a heap, and the depths were congealed in the *_heart_* of the sea.
-* `Exo 23:9` "Also you shall not oppress a stranger, for you know the *_heart_* of a stranger, seeing you were strangers in the land of Egypt.
+* `Exo 23:9` "Also, you shall not oppress a stranger, for you know the *_heart_* of a stranger, seeing you were strangers in the land of Egypt.
 * `Exo 25:2` "Speak to the children of Israel that they bring me an offering. From every man who gives it willingly with his *_heart_* you shall take my offering.
 * `Exo 28:3` And you shall speak to all who are wise in *_heart_*, whom I have filled with the spirit of wisdom, so that they may make Aaron's garments to consecrate him so that he may minister to me in the priest's office.
 * `Exo 28:29` And Aaron shall bear the names of the children of Israel in the breast-plate of judgment upon his *_heart_* when he enters into the holy place for a memorial before the LORD continually.
@@ -4082,9 +4082,9 @@ _1 verse containing HEAVED_
 * `Exo 9:23` And Moses stretched forth his rod toward *_heaven_*, and the LORD sent thunder and hail, and the fire ran along upon the ground, and the LORD rained hail upon the land of Egypt.
 * `Exo 10:21` And the LORD said to Moses, "Stretch out your hand toward *_heaven_* so that there may be darkness over the land of Egypt, even darkness which may be felt."
 * `Exo 10:22` And Moses stretched forth his hand toward *_heaven_*, and there was a thick darkness in all the land of Egypt for three days.
-* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from *_heaven_* for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my law, or not.
+* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from *_heaven_* for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my law or not.
 * `Exo 17:14` And the LORD said to Moses, "Write this for a memorial in a book and rehearse it in the ears of Joshua, for I will utterly blot out the remembrance of Amalek from under *_heaven_*."
-* `Exo 20:4` "You shall not make for yourself any engraved image, or any likeness of anything that is in *_heaven_* above, or that is in the earth beneath, or that is in the water under the earth.
+* `Exo 20:4` "You shall not make for yourself any engraved image or any likeness of anything that is in *_heaven_* above, or that is in the earth beneath, or that is in the water under the earth.
 * `Exo 20:11` For in six days the LORD made *_heaven_* and earth, the sea, and all that is in them, and rested the seventh day; therefore, the LORD blessed the sabbath-day and hallowed it.
 * `Exo 20:22` And the LORD said to Moses, "Thus you shall say to the children of Israel: 'You have seen that I have talked with you from *_heaven_*.
 * `Exo 24:10` And they saw the God of Israel, and there was under his feet something like a paved work of a sapphire-stone and like the body of *_heaven_* in its clearness.

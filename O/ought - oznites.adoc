@@ -2365,7 +2365,7 @@ _2 verses containing OWNS_
 * `Exo 20:17` "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, his man-servant, his woman-servant, his *_ox_*, his donkey, nor anything that is your neighbor's."
 * `Exo 21:28` "If an *_ox_* gores a man or a woman so that they die, then the *_ox_* shall surely be stoned and its flesh shall not be eaten, but the owner of the *_ox_* shall be acquitted.
 * `Exo 21:29` But if the *_ox_* was accustomed to push with its horn in time past, and it has been testified to its owner and he has not restrained it, and it has killed a man or a woman, the *_ox_* shall be stoned and its owner shall also be put to death.
-* `Exo 21:32` If the *_ox_* gores a man-servant or woman-servant, he shall give to their master thirty shekels of silver and the *_ox_* shall be stoned.
+* `Exo 21:32` If the *_ox_* gores a man-servant or woman-servant, he shall give to their master thirty shekels of silver, and the *_ox_* shall be stoned.
 * `Exo 21:33` "And if a man opens a pit, or if a man digs a pit, and does not cover it, and an *_ox_* or a donkey falls into it,
 * `Exo 21:35` "And if one man's *_ox_* hurts another's so that he dies, then they shall sell the live *_ox_* and divide its money. And they shall also divide the dead *_ox_*.
 * `Exo 21:36` Or if it is known that the *_ox_* is one accustomed to gore in time past and his owner has not restrained him, he shall surely pay *_ox_* for *_ox_*, and the dead shall be his own."
@@ -2374,7 +2374,7 @@ _2 verses containing OWNS_
 * `Exo 22:9` For all manner of trespass, whether it is for *_ox_*, for donkey, for sheep, for clothing, or for any manner of lost thing which another challenges to be his, the cause of both parties shall come before the judges. And he whom the judges condemn shall pay double to his neighbor.
 * `Exo 22:10` "If a man delivers to his neighbor a donkey, an *_ox_*, a sheep, or any beast to keep and it dies, is hurt, or is driven away, no man seeing it,
 * `Exo 23:4` "If you meet your enemy's *_ox_* or his donkey going astray, you shall surely bring it back to him again.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your *_ox_* and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your *_ox_* and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
 * `Exo 34:19` "Every first-born is mine, even every first-born among your livestock, whether *_ox_* or sheep, that is male.
 * `Lev 7:23` "Speak to the children of Israel, saying, 'You shall eat no manner of fat from an *_ox_*, a sheep, or a goat.
 * `Lev 17:3` "Whatever man there may be of the house of Israel who kills an *_ox_*, lamb, or goat in the camp, or who kills it out of the camp,
@@ -2442,7 +2442,7 @@ _1 verse containing OX-GOAD_
 * `Exo 20:24` An altar of earth you shall make to me and shall sacrifice thereon your burnt-offerings, your peace-offerings, your sheep, and your *_oxen_*. In all places where I record my name I will come to you and I will bless you.
 * `Exo 22:1` "If a man steals an ox or a sheep and kills it or sells it, he shall restore five *_oxen_* for an ox and four sheep for a sheep.
 * `Exo 22:30` You shall do likewise with your *_oxen_* and with your sheep. Seven days it shall be with his mother. On the eighth day you shall give it to me.
-* `Exo 24:5` And he sent young men of the children of Israel who offered burnt-offerings and sacrificed peace-offerings of *_oxen_* to the LORD.
+* `Exo 24:5` Then he sent young men of the children of Israel, who offered burnt-offerings and sacrificed peace-offerings of *_oxen_* to the LORD.
 * `Num 7:3` And they brought their offering before the LORD: six covered wagons and twelve *_oxen_*—a wagon for two of the princes and for each one an ox. And they brought them before the tabernacle.
 * `Num 7:6` And Moses took the wagons and the *_oxen_* and gave them to the Levites.
 * `Num 7:7` Two wagons and four *_oxen_* he gave to the sons of Gershon according to their service.

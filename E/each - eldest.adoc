@@ -490,7 +490,7 @@ _114 verses containing EAR_
 * `Gen 31:55` And *_early_* in the morning Laban arose, kissed his sons and his daughters, and blessed them. And Laban departed and returned to his place.
 * `Exo 8:20` And the LORD said to Moses, "Rise *_early_* in the morning and stand before Pharaoh (behold, he comes forth to the water) and say to him, 'Thus says the LORD: "Let my people go so that they may serve me.
 * `Exo 9:13` And the LORD said to Moses, "Rise *_early_* in the morning and stand before Pharaoh and say to him, 'Thus says the LORD God of the Hebrews: "Let my people go so that they may serve me.
-* `Exo 24:4` And Moses wrote all the words of the LORD, and rose *_early_* in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of Israel.
+* `Exo 24:4` And Moses wrote all the words of the LORD. Then he rose *_early_* in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of Israel.
 * `Exo 32:6` And they rose *_early_* on the next day and offered burnt-offerings and brought peace-offerings. And the people sat down to eat and to drink and rose up to play.
 * `Exo 34:4` And he hewed two tablets of stone like the first. And Moses rose up *_early_* in the morning and went up to mount Sinai, as the LORD had commanded him, and took in his hand the two tablets of stone.
 * `Num 14:40` And they rose *_early_* in the morning and ascended to the top of the mountain, saying, "Behold, we are here and will go up to the place which the LORD has promised, for we have sinned."
@@ -874,7 +874,7 @@ _120 verses containing EARS_
 * `Exo 10:15` For they covered the face of the whole *_earth_* so that the land was darkened. And they ate every herb of the land and all the fruit of the trees which the hail had left. And there did not remain any green thing on the trees, or in the herbs of the field, through all the land of Egypt.
 * `Exo 15:12` You stretched out your right hand, the *_earth_* swallowed them.
 * `Exo 19:5` Now therefore, if you will obey my voice indeed and keep my covenant, then you shall be a peculiar treasure to me above all people, for all the *_earth_* is mine.
-* `Exo 20:4` "You shall not make for yourself any engraved image, or any likeness of anything that is in heaven above, or that is in the *_earth_* beneath, or that is in the water under the *_earth_*.
+* `Exo 20:4` "You shall not make for yourself any engraved image or any likeness of anything that is in heaven above, or that is in the *_earth_* beneath, or that is in the water under the *_earth_*.
 * `Exo 20:11` For in six days the LORD made heaven and *_earth_*, the sea, and all that is in them, and rested the seventh day; therefore, the LORD blessed the sabbath-day and hallowed it.
 * `Exo 20:24` An altar of *_earth_* you shall make to me and shall sacrifice thereon your burnt-offerings, your peace-offerings, your sheep, and your oxen. In all places where I record my name I will come to you and I will bless you.
 * `Exo 31:17` It is a sign between me and the children of Israel forever, for in six days the LORD made heaven and *_earth_* and on the seventh day he rested and was refreshed.'"
@@ -2054,13 +2054,13 @@ _4 verses containing EASY_
 * `Exo 12:48` And when a stranger sojourns with you and wishes to keep the passover to the LORD, let all his males be circumcised and then let him come near and keep it, and he shall be as one who is born in the land. For no uncircumcised person shall *_eat_* it.
 * `Exo 13:6` Seven days you shall *_eat_* unleavened bread, and on the seventh day there shall be a feast to the LORD.
 * `Exo 16:8` And Moses said, "This shall be when the LORD gives you flesh to *_eat_* in the evening and bread to the full in the morning, for the LORD hears your murmurings which you murmur against him. And what are we? Your murmurings are not against us, but against the LORD."
-* `Exo 16:12` "I have heard the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall *_eat_* flesh and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
+* `Exo 16:12` "I have heard the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall *_eat_* flesh, and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
 * `Exo 16:15` And when the children of Israel saw it, they said to one another, "It is manna," for they did not know what it was. And Moses said to them, "This is the bread which the LORD has given you to *_eat_*.
 * `Exo 16:25` And Moses said, "*_Eat_* that today, for today is a sabbath to the LORD. Today you will not find it in the field.
 * `Exo 18:12` And Jethro, Moses's father-in-law, took a burnt-offering and sacrifices for God. And Aaron came with all the elders of Israel to *_eat_* bread with Moses's father-in-law before God.
 * `Exo 22:31` "And you shall be holy men to me; therefore, you shall not *_eat_* any flesh that is torn by beasts in the field. You shall cast it to the dogs."
 * `Exo 23:11` But the seventh year you shall let it rest and lie still so that the poor of your people may *_eat_*. And what they leave, the beasts of the field shall *_eat_*. In like manner you shall deal with your vineyard and with your olive-grove.
-* `Exo 23:15` You shall keep the feast of unleavened bread (you shall *_eat_* unleavened bread seven days, as I commanded you, in the time appointed of the month Abib, for in it you came out from Egypt, and no one shall appear before me empty);
+* `Exo 23:15` You shall keep the feast of unleavened bread (you shall *_eat_* unleavened bread for seven days, as I commanded you, at the time appointed in the month Abib, for in it you came out from Egypt, and no one shall appear before me empty);
 * `Exo 29:32` And Aaron and his sons shall *_eat_* the flesh of the ram and the bread that is in the basket by the door of the Tabernacle of the Congregation.
 * `Exo 29:33` And they shall *_eat_* those things with which the atonement was made to consecrate and to sanctify them, but a stranger shall not *_eat_* of them because they are holy.
 * `Exo 32:6` And they rose early on the next day and offered burnt-offerings and brought peace-offerings. And the people sat down to *_eat_* and to drink and rose up to play.
@@ -3375,9 +3375,9 @@ _12 verses containing EGLON_
 * `Exo 18:1` When Jethro the priest of Midian, Moses's father-in-law, heard of all that God had done for Moses and for Israel his people, and that the LORD had brought Israel out of *_Egypt_*,
 * `Exo 19:1` In the third month, when the children of Israel had gone forth from the land of *_Egypt_*, the same day they came into the wilderness of Sinai.
 * `Exo 20:2` "I am the LORD your God who has brought you out of the land of *_Egypt_*, out of the house of bondage.
-* `Exo 22:21` "You shall neither vex a stranger, nor oppress him, for you were strangers in the land of *_Egypt_*.
-* `Exo 23:9` "Also you shall not oppress a stranger, for you know the heart of a stranger, seeing you were strangers in the land of *_Egypt_*.
-* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread seven days, as I commanded you, in the time appointed of the month Abib, for in it you came out from *_Egypt_*, and no one shall appear before me empty);
+* `Exo 22:21` "You shall neither vex a stranger nor oppress him, for you were strangers in the land of *_Egypt_*.
+* `Exo 23:9` "Also, you shall not oppress a stranger, for you know the heart of a stranger, seeing you were strangers in the land of *_Egypt_*.
+* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread for seven days, as I commanded you, at the time appointed in the month Abib, for in it you came out from *_Egypt_*, and no one shall appear before me empty);
 * `Exo 29:46` And they shall know that I am the LORD their God who brought them forth out of the land of *_Egypt_* so that I may dwell among them. I am the LORD their God."
 * `Exo 32:1` And when the people saw that Moses delayed to come down from the mountain, the people assembled themselves to Aaron and said to him, "Arise, make us gods which shall go before us. For as for this Moses, the man who brought us out of the land of *_Egypt_*, we do not know what has become of him."
 * `Exo 32:4` And he received them at their hand and fashioned it with an engraving tool and made it a molten calf. And they said, "These are your gods, O Israel, which brought you out of the land of *_Egypt_*."

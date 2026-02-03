@@ -894,12 +894,12 @@ _1 verse containing ISPAH_
 * `Exo 16:3` And the children of *_Israel_* said to them, "O that we had died by the hand of the LORD in the land of Egypt when we sat by the flesh-pots and when we ate bread to the full, for you have brought us forth into this wilderness to kill this whole assembly with hunger."
 * `Exo 16:6` And Moses and Aaron said to all the children of *_Israel_*, "At evening you shall know that the LORD has brought you out from the land of Egypt,
 * `Exo 16:9` And Moses spoke to Aaron, "Say to all the congregation of the children of *_Israel_*, 'Come near before the LORD, for he has heard your murmurings.'"
-* `Exo 16:10` And it came to pass, as Aaron spoke to the whole congregation of the children of *_Israel_*, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
-* `Exo 16:12` "I have heard the murmurings of the children of *_Israel_*. Speak to them, saying, 'At evening you shall eat flesh and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
+* `Exo 16:10` And it came to pass as Aaron spoke to the whole congregation of the children of *_Israel_*, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
+* `Exo 16:12` "I have heard the murmurings of the children of *_Israel_*. Speak to them, saying, 'At evening you shall eat flesh, and in the morning you shall be filled with bread. Then you shall know that I am the LORD your God.'"
 * `Exo 16:15` And when the children of *_Israel_* saw it, they said to one another, "It is manna," for they did not know what it was. And Moses said to them, "This is the bread which the LORD has given you to eat.
 * `Exo 16:17` And the children of *_Israel_* did so and gathered, some more, some less.
 * `Exo 16:31` And the house of *_Israel_* called its name Manna. And it was like coriander-seed, white, and its taste was like wafers made with honey.
-* `Exo 16:35` And the children of *_Israel_* ate manna forty years until they came to a land inhabited. They ate manna until they came to the borders of the land of Canaan.
+* `Exo 16:35` And the children of *_Israel_* ate manna for forty years until they came to a land inhabited. They ate manna until they came to the borders of the land of Canaan.
 * `Exo 17:1` And all the congregation of the children of *_Israel_* journeyed from the wilderness of Sin after their journeys, according to the commandment of the LORD, and encamped in Rephidim. And there was no water for the people to drink.
 * `Exo 17:5` And the LORD said to Moses, "Go on before the people and take with you some of the elders of *_Israel_*. And also take in your hand your rod with which you smote the river, and go.
 * `Exo 17:6` Behold, I will stand before you there on the rock in Horeb. And you shall smite the rock, and water shall come out of it so that the people may drink." And Moses did so in the sight of the elders of *_Israel_*.
@@ -917,14 +917,14 @@ _1 verse containing ISPAH_
 * `Exo 19:6` And you shall be to me a kingdom of priests and a holy nation.' These are the words which you shall speak to the children of *_Israel_*."
 * `Exo 20:22` And the LORD said to Moses, "Thus you shall say to the children of *_Israel_*: 'You have seen that I have talked with you from heaven.
 * `Exo 24:1` And he said to Moses, "Come up to the LORD—you, Aaron, Nadab, Abihu, and seventy of the elders of *_Israel_*—and worship afar off.
-* `Exo 24:4` And Moses wrote all the words of the LORD, and rose early in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of *_Israel_*.
-* `Exo 24:5` And he sent young men of the children of *_Israel_* who offered burnt-offerings and sacrificed peace-offerings of oxen to the LORD.
+* `Exo 24:4` And Moses wrote all the words of the LORD. Then he rose early in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of *_Israel_*.
+* `Exo 24:5` Then he sent young men of the children of *_Israel_*, who offered burnt-offerings and sacrificed peace-offerings of oxen to the LORD.
 * `Exo 24:9` Then Moses went up, along with Aaron, Nadab, Abihu, and seventy of the elders of *_Israel_*,
 * `Exo 24:10` And they saw the God of *_Israel_*, and there was under his feet something like a paved work of a sapphire-stone and like the body of heaven in its clearness.
 * `Exo 24:11` And upon the nobles of the children of *_Israel_* he did not lay his hand. They also saw God and ate and drank.
 * `Exo 24:17` And the sight of the glory of the LORD was like devouring fire on the top of the mountain in the eyes of the children of *_Israel_*.
 * `Exo 25:2` "Speak to the children of *_Israel_* that they bring me an offering. From every man who gives it willingly with his heart you shall take my offering.
-* `Exo 25:22` And there I will meet with you, and I will speak with you from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give you in commandment to the children of *_Israel_*.
+* `Exo 25:22` And there I will meet with you, and I will speak with you from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, about all things which I will give you in commandment to the children of *_Israel_*.
 * `Exo 27:20` "And you shall command the children of *_Israel_* that they bring the pure olive-oil beaten for the light to cause the lamp to always burn.
 * `Exo 27:21` In the Tabernacle of the Congregation outside the veil, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD. It shall be a statute forever to their generations on behalf of the children of *_Israel_*."
 * `Exo 28:1` "And bring to you Aaron your brother and his sons with him from among the children of *_Israel_* so that he may minister to me in the priest's office, even Aaron and Nadab, Abihu, Eleazar, and Ithamar, Aaron's sons.
@@ -3385,8 +3385,8 @@ _1 verse containing ITHRITES_
 * `Exo 15:23` And when they came to Marah, they could not drink the waters of Marah because they were bitter. Therefore, *_its_* name was called Marah.
 * `Exo 16:31` And the house of Israel called *_its_* name Manna. And it was like coriander-seed, white, and *_its_* taste was like wafers made with honey.
 * `Exo 17:15` And Moses built an altar and called *_its_* name Yahweh is My Banner,
-* `Exo 19:12` And you shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain, or touch *_its_* border. Whoever touches the mountain shall surely be put to death.
-* `Exo 19:18` And mount Sinai was altogether in a smoke because the LORD descended upon it in fire. And *_its_* smoke ascended as the smoke of a furnace, and the whole mountain trembled greatly.
+* `Exo 19:12` And you shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain or touch *_its_* border. Whoever touches the mountain shall surely be put to death.
+* `Exo 19:18` And mount Sinai was altogether in a smoke because the LORD descended upon it in fire. And *_its_* smoke ascended like the smoke of a furnace, and the whole mountain trembled greatly.
 * `Exo 21:28` "If an ox gores a man or a woman so that they die, then the ox shall surely be stoned and *_its_* flesh shall not be eaten, but the owner of the ox shall be acquitted.
 * `Exo 21:29` But if the ox was accustomed to push with *_its_* horn in time past, and it has been testified to *_its_* owner and he has not restrained it, and it has killed a man or a woman, the ox shall be stoned and *_its_* owner shall also be put to death.
 * `Exo 21:34` The owner of the pit shall make compensation and give money to *_its_* owner, and the dead beast shall be his.
@@ -3400,7 +3400,7 @@ _1 verse containing ITHRITES_
 * `Exo 25:10` "And they shall make an ark of shittim wood. Two and a half cubits shall be *_its_* length, a cubit and a half *_its_* breadth, and a cubit and a half *_its_* height.
 * `Exo 25:12` And you shall cast four rings of gold for it and put them on *_its_* four corners, and two rings shall be on one side of it and two rings on the other side of it.
 * `Exo 25:17` "And you shall make a mercy-seat of pure gold. Two and a half cubits shall be *_its_* length and a cubit and a half *_its_* breadth.
-* `Exo 25:19` And make one cherub on one end and the other cherub on the other end, of one piece with the mercy-seat you shall make the cherubim at *_its_* two ends.
+* `Exo 25:19` And make one cherub on one end and the other cherub on the other end. Of one piece with the mercy-seat you shall make the cherubim at *_its_* two ends.
 * `Exo 25:23` "You shall also make a table of shittim wood. *_Its_* length shall be two cubits, *_its_* breadth a cubit, and *_its_* height a cubit and a half.
 * `Exo 25:25` And you shall make for it a border of a hand-breadth around it, and you shall make a golden crown for *_its_* border around it.
 * `Exo 25:26` And you shall make for it four rings of gold and put the rings on the four corners that are on *_its_* four feet.

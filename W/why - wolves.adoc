@@ -1115,7 +1115,7 @@ _1 verse containing WIDTH_
 * `Exo 18:6` And he said to Moses, "I, your father-in-law Jethro, your *_wife_*, and her two sons with her have come to you."
 * `Exo 20:17` "You shall not covet your neighbor's house. You shall not covet your neighbor's *_wife_*, his man-servant, his woman-servant, his ox, his donkey, nor anything that is your neighbor's."
 * `Exo 21:3` If he came in by himself, he shall depart by himself. If he was married, then his *_wife_* shall depart with him.
-* `Exo 21:4` If his master has given him a *_wife_* and she has borne him sons or daughters, the *_wife_* and her children shall be her master's and he shall depart by himself.
+* `Exo 21:4` If his master has given him a *_wife_* and she has borne him sons or daughters, the *_wife_* and her children shall be her master's, and he shall depart by himself.
 * `Exo 21:5` And if the servant plainly says, 'I love my master, my *_wife_*, and my children. I will not depart free,'
 * `Exo 21:10` If he takes for himself another *_wife_*, her food, her clothing, and her duty of marriage he shall not diminish.
 * `Exo 22:16` "And if a man entices a virgin who is not betrothed and lies with her, he shall surely endow her to be his *_wife_*.
@@ -1473,7 +1473,7 @@ _1 verse containing WILD-GOAT_
 * `Exo 16:1` And they took their journey from Elim, and all the congregation of the children of Israel came to the *_wilderness_* of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departure from the land of Egypt.
 * `Exo 16:2` And the whole congregation of the children of Israel murmured against Moses and Aaron in the *_wilderness_*.
 * `Exo 16:3` And the children of Israel said to them, "O that we had died by the hand of the LORD in the land of Egypt when we sat by the flesh-pots and when we ate bread to the full, for you have brought us forth into this *_wilderness_* to kill this whole assembly with hunger."
-* `Exo 16:10` And it came to pass, as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the *_wilderness_*, and behold, the glory of the LORD appeared in the cloud.
+* `Exo 16:10` And it came to pass as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the *_wilderness_*, and behold, the glory of the LORD appeared in the cloud.
 * `Exo 16:14` And when the dew that lay had gone up, behold, upon the face of the *_wilderness_* there lay a small round thing, as small as the hoar frost on the ground.
 * `Exo 16:32` And Moses said, "This is the thing which the LORD commanded, 'Fill an omer with it to be kept for your generations so that they may see the bread with which I fed you in the *_wilderness_* when I brought you forth from the land of Egypt.'"
 * `Exo 17:1` And all the congregation of the children of Israel journeyed from the *_wilderness_* of Sin after their journeys, according to the commandment of the LORD, and encamped in Rephidim. And there was no water for the people to drink.
@@ -1999,7 +1999,7 @@ _2 verses containing WILES_
 * `Exo 15:2` The LORD is my strength and song, and he has become my salvation. He is my God, and I *_will_* prepare him a habitation, my father's God, and I *_will_* exalt him.
 * `Exo 15:9` The enemy said, 'I *_will_* pursue and I *_will_* overtake. I *_will_* divide the plunder. My lust shall be satisfied upon them. I *_will_* draw my sword. My hand shall destroy them.'
 * `Exo 15:26` And said, "If you *_will_* diligently listen to the voice of the LORD your God, do that which is right in his sight, and give ear to his commandments and keep all his statutes, I *_will_* put none of these diseases upon you which I have brought upon the Egyptians, for I am the LORD who heals you."
-* `Exo 16:4` Then the LORD said to Moses, "Behold, I *_will_* rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they *_will_* walk in my law, or not.
+* `Exo 16:4` Then the LORD said to Moses, "Behold, I *_will_* rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they *_will_* walk in my law or not.
 * `Exo 16:23` And he said to them, "This is that which the LORD has said, 'Tomorrow is the rest of the holy sabbath to the LORD. Bake that which you *_will_* bake today and boil that which you *_will_* boil. And that which is left over, lay up for yourselves to be kept until the morning.'"
 * `Exo 16:25` And Moses said, "Eat that today, for today is a sabbath to the LORD. Today you *_will_* not find it in the field.
 * `Exo 16:26` Six days you shall gather it, but on the seventh day, which is the sabbath, in it there *_will_* be none."
@@ -2027,7 +2027,7 @@ _2 verses containing WILES_
 * `Exo 23:22` But if you indeed obey his voice and do all that I speak, then I *_will_* be an enemy to your enemies and an adversary to your adversaries.
 * `Exo 23:23` For my Angel shall go before you and bring you to the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, and I *_will_* cut them off.
 * `Exo 23:25` And you shall serve the LORD your God, and he *_will_* bless your bread and your water, and I *_will_* take sickness away from the midst of you.
-* `Exo 23:26` None shall miscarry their young, nor be barren in your land. I *_will_* complete the number of your days.
+* `Exo 23:26` None shall miscarry their young nor be barren in your land. I *_will_* complete the number of your days.
 * `Exo 23:27` I *_will_* send my fear before you and *_will_* destroy all the people to whom you shall come, and I *_will_* make all your enemies turn their backs to you.
 * `Exo 23:28` And I *_will_* send hornets before you, which shall drive out the Hivite, the Canaanite, and the Hittite from before you.
 * `Exo 23:29` I *_will_* not drive them out from before you in one year, lest the land should become desolate and the beast of the field should multiply against you.
@@ -2037,7 +2037,7 @@ _2 verses containing WILES_
 * `Exo 24:3` And Moses came and told the people all the words of the LORD and all the judgments. And all the people answered with one voice and said, "All the words which the LORD has said we *_will_* perform."
 * `Exo 24:7` And he took the book of the covenant and read in the audience of the people. And they said, "All that the LORD has said we *_will_* do and be obedient."
 * `Exo 24:12` And the LORD said to Moses, "Come up to me on the mountain and be there, and I *_will_* give you tablets of stone with the law and the commandments which I have written so that you may teach them."
-* `Exo 25:22` And there I *_will_* meet with you, and I *_will_* speak with you from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I *_will_* give you in commandment to the children of Israel.
+* `Exo 25:22` And there I *_will_* meet with you, and I *_will_* speak with you from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, about all things which I *_will_* give you in commandment to the children of Israel.
 * `Exo 29:42` This shall be a continual burnt-offering throughout your generations at the door of the Tabernacle of the Congregation before the LORD, where I *_will_* meet you to speak there to you.
 * `Exo 29:43` And there I *_will_* meet with the children of Israel, and the tabernacle shall be sanctified by my glory.
 * `Exo 29:44` And I *_will_* sanctify the Tabernacle of the Congregation and the altar. I *_will_* also sanctify both Aaron and his sons to minister to me in the priest's office.

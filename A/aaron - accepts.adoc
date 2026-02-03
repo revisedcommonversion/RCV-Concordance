@@ -49,7 +49,7 @@
 * `Exo 16:2` And the whole congregation of the children of Israel murmured against Moses and *_Aaron_* in the wilderness.
 * `Exo 16:6` And Moses and *_Aaron_* said to all the children of Israel, "At evening you shall know that the LORD has brought you out from the land of Egypt,
 * `Exo 16:9` And Moses spoke to *_Aaron_*, "Say to all the congregation of the children of Israel, 'Come near before the LORD, for he has heard your murmurings.'"
-* `Exo 16:10` And it came to pass, as *_Aaron_* spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
+* `Exo 16:10` And it came to pass as *_Aaron_* spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
 * `Exo 16:33` And Moses said to *_Aaron_*, "Take a pot and put an omer full of manna therein, and lay it up before the LORD to be kept for your generations."
 * `Exo 16:34` As the LORD commanded Moses, so *_Aaron_* laid it up before the Testimony to be kept.
 * `Exo 17:10` So Joshua did as Moses had said to him and fought with Amalek. And Moses, *_Aaron_*, and Hur went up to the top of the hill.
@@ -693,7 +693,7 @@ _29 verses containing ABIATHAR_
 == ABIB
 
 * `Exo 13:4` This day you came out in the month *_Abib_*.
-* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread seven days, as I commanded you, in the time appointed of the month *_Abib_*, for in it you came out from Egypt, and no one shall appear before me empty);
+* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread for seven days, as I commanded you, at the time appointed in the month *_Abib_*, for in it you came out from Egypt, and no one shall appear before me empty);
 * `Exo 34:18` "The feast of unleavened bread you shall keep. Seven days you shall eat unleavened bread, as I commanded you, in the time of the month *_Abib_*, for in the month *_Abib_* you came out from Egypt.
 * `Deu 16:1` "Observe the month *_Abib_*, and keep the passover to the LORD your God. For in the month of *_Abib_* the LORD your God brought you forth from Egypt by night.
 * `Ezk 3:15` Then I came to those who were in captivity at Tel-*_abib_*, who dwelt by the river of Kebar, and I sat where they sat and remained there astonished among them seven days.
@@ -1672,6 +1672,7 @@ _3 verses containing ABOUNDS_
 * `Exo 12:37` And the children of Israel journeyed from Rameses to Succoth, *_about_* six hundred thousand on foot who were men, besides children.
 * `Exo 14:3` For Pharaoh will say *_about_* the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
 * `Exo 18:7` And Moses went out to meet his father-in-law and did obeisance and kissed him. And they asked each other *_about_* their welfare and they came into the tent.
+* `Exo 25:22` And there I will meet with you, and I will speak with you from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, *_about_* all things which I will give you in commandment to the children of Israel.
 * `Exo 32:28` And the children of Levi did according to the word of Moses. And there fell of the people that day *_about_* three thousand men.
 * `Lev 6:5` Or all that *_about_* which he has sworn falsely. He shall even restore it in the principal and shall add to it the fifth part more and give it to him to whom it belongs in the day of his trespass-offering.
 * `Num 11:31` And a wind went forth from the LORD, brought quails from the sea, and let them fall by the camp, *_about_* a day's journey on this side and *_about_* a day's journey on the other side around the camp, and *_about_* two cubits high upon the face of the earth.
@@ -1853,7 +1854,7 @@ _3 verses containing ABOUNDS_
 * `Rev 10:7` But in the days of the voice of the seventh angel, when he is *_about_* to sound, then the mystery of God is finished, as he has declared to his servants the prophets.
 * `Rev 16:21` And there fell upon men a great hail out of heaven, every stone *_about_* the weight of a talent. And men blasphemed God because of the plague of the hail, because its plague was exceedingly great.
 
-_197 verses containing ABOUT_
+_198 verses containing ABOUT_
 
 == ABOVE
 
@@ -1868,9 +1869,9 @@ _197 verses containing ABOUT_
 * `Gen 49:26` The blessings of your father have prevailed *_above_* the blessings of my progenitors to the utmost bound of the everlasting hills. They shall be on the head of Joseph, and on the crown of the head of him who was separate from his brothers.
 * `Exo 18:11` Now I know that the LORD is greater than all gods, for in the thing in which they dealt proudly, he was *_above_* them."
 * `Exo 19:5` Now therefore, if you will obey my voice indeed and keep my covenant, then you shall be a peculiar treasure to me *_above_* all people, for all the earth is mine.
-* `Exo 20:4` "You shall not make for yourself any engraved image, or any likeness of anything that is in heaven *_above_*, or that is in the earth beneath, or that is in the water under the earth.
+* `Exo 20:4` "You shall not make for yourself any engraved image or any likeness of anything that is in heaven *_above_*, or that is in the earth beneath, or that is in the water under the earth.
 * `Exo 25:21` And you shall put the mercy-seat *_above_* upon the ark. And in the ark you shall put the testimony that I shall give you.
-* `Exo 25:22` And there I will meet with you, and I will speak with you from *_above_* the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give you in commandment to the children of Israel.
+* `Exo 25:22` And there I will meet with you, and I will speak with you from *_above_* the mercy-seat, from between the two cherubim which are upon the ark of the testimony, about all things which I will give you in commandment to the children of Israel.
 * `Exo 26:14` And you shall make a covering for the tent of rams' skins dyed red and a covering *_above_* of badgers' skins.
 * `Exo 26:24` And they shall be coupled together beneath, and they shall be coupled together *_above_* its head to one ring. Thus it shall be for them both. They shall be for the two corners.
 * `Exo 28:27` And two other rings of gold you shall make and shall put them on the two sides of the ephod underneath, toward its forepart, over against the other coupling thereof, *_above_* the skillfully woven girdle of the ephod.

@@ -786,7 +786,7 @@ _13 verses containing BLOCK_
 * `Exo 22:2` "If a thief is found breaking through and is smitten so that he dies, there shall no *_blood_* be shed for him.
 * `Exo 22:3` If the sun has risen upon him, there shall be *_blood_* shed for him, for he should make full restitution. If he has nothing, then he shall be sold for his theft.
 * `Exo 23:18` "You shall not offer the *_blood_* of my sacrifice with leavened bread, neither shall the fat of my sacrifice remain until the morning.
-* `Exo 24:6` And Moses took half of the *_blood_* and put it in basins and half of the *_blood_* he sprinkled on the altar.
+* `Exo 24:6` And Moses took half of the *_blood_* and put it in basins, and half of the *_blood_* he sprinkled on the altar.
 * `Exo 24:8` And Moses took the *_blood_* and sprinkled it on the people and said, "Behold, the *_blood_* of the covenant which the LORD has made with you concerning all these words."
 * `Exo 29:12` And you shall take some of the *_blood_* of the bull and put it upon the horns of the altar with your finger, and pour all the *_blood_* beside the bottom of the altar.
 * `Exo 29:16` And you shall slay the ram and take his *_blood_* and sprinkle it around upon the altar.
@@ -2443,7 +2443,7 @@ _7 verses containing BOOTHS_
 * `Gen 10:19` And the *_border_* of the Canaanites was from Sidon, as far as to Gerar, to Gaza, as far as to Sodom, Gomorrah, Admah, and Zeboim, even to Lashah.
 * `Gen 49:13` "Zebulun shall dwell at the haven of the sea, and he shall be for a haven of ships. And his *_border_* shall be to Zidon.
 * `Exo 10:4` Or else, if you refuse to let my people go, behold, tomorrow I will bring the locusts into your *_border_*.
-* `Exo 19:12` And you shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain, or touch its *_border_*. Whoever touches the mountain shall surely be put to death.
+* `Exo 19:12` And you shall set bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain or touch its *_border_*. Whoever touches the mountain shall surely be put to death.
 * `Exo 25:25` And you shall make for it a *_border_* of a hand-breadth around it, and you shall make a golden crown for its *_border_* around it.
 * `Exo 25:27` The rings shall be over against the *_border_* as holders for the staffs to bear the table.
 * `Exo 28:26` And you shall make two rings of gold, and you shall put them upon the two ends of the breast-plate in its *_border_*, which is in the side of the ephod inward.
@@ -2603,7 +2603,7 @@ _153 verses containing BORDER_
 * `Exo 8:2` And if you refuse to let them go, behold, I will smite all your *_borders_* with frogs.
 * `Exo 10:14` And the locusts went up over all the land of Egypt and rested in all the *_borders_* of Egypt. They were very grievous. Before them there had never been [so many] locusts as this, neither after them will there be such.
 * `Exo 10:19` And the LORD turned a mighty strong west wind which took away the locusts and cast them into the Red Sea. There did not remain one locust in all the *_borders_* of Egypt.
-* `Exo 16:35` And the children of Israel ate manna forty years until they came to a land inhabited. They ate manna until they came to the *_borders_* of the land of Canaan.
+* `Exo 16:35` And the children of Israel ate manna for forty years until they came to a land inhabited. They ate manna until they came to the *_borders_* of the land of Canaan.
 * `Exo 34:24` For I will drive out the nations before you and enlarge your *_borders_*. No man shall desire your land when you go up to appear before the LORD your God three times in the year.
 * `Num 15:38` "Speak to the children of Israel and bid them that they make themselves fringes on the *_borders_* of their garments throughout their generations, and that they put a thread of blue upon the fringe of the *_borders_*.
 * `Num 20:17` Let us pass, I pray you, through your country. We will not pass through the fields or through the vineyards, neither will we drink water from the wells. We will go by the king's highway. We will not turn to the right hand nor to the left until we have passed your *_borders_*.'"
@@ -3126,7 +3126,7 @@ _249 verses containing BORN_
 * `Gen 30:20` And Leah said, "God has endowed me with a good dower. Now my husband will dwell with me because I have *_borne_* him six sons." And she called his name Zebulun.
 * `Gen 30:25` And it came to pass when Rachel had *_borne_* Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
 * `Gen 31:43` And Laban answered and said to Jacob, "These daughters are my daughters, these children are my children, the flocks are my flocks, and all that you see is mine. But what can I do this day to these daughters of mine, or to their children which they have *_borne_*?
-* `Exo 21:4` If his master has given him a wife and she has *_borne_* him sons or daughters, the wife and her children shall be her master's and he shall depart by himself.
+* `Exo 21:4` If his master has given him a wife and she has *_borne_* him sons or daughters, the wife and her children shall be her master's, and he shall depart by himself.
 * `Exo 25:14` And you shall put the staffs into the rings by the sides of the ark so that the ark may be *_borne_* with them.
 * `Exo 25:28` And you shall make the staffs of shittim wood and overlay them with gold so that the table may be *_borne_* with them.
 * `Lev 12:7` And he shall offer it before the LORD and make an atonement for her, and she shall be cleansed from the issue of her blood. This is the law for her who has *_borne_* a male or a female.
@@ -3853,7 +3853,7 @@ _1 verse containing BOUNDING_
 
 == BOUNDS
 
-* `Exo 19:12` And you shall set *_bounds_* for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain, or touch its border. Whoever touches the mountain shall surely be put to death.
+* `Exo 19:12` And you shall set *_bounds_* for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain or touch its border. Whoever touches the mountain shall surely be put to death.
 * `Exo 19:23` And Moses said to the LORD, "The people cannot come up to mount Sinai, for you charged us, saying, 'Set *_bounds_* around the mountain and sanctify it.'"
 * `Exo 23:31` And I will set your *_bounds_* from the Red Sea even to the sea of the Philistines, and from the desert to the river, for I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.
 * `Deu 32:8` When the Most High divided to the nations their inheritance when he separated the sons of Adam, he set the *_bounds_* of the people according to the number of the children of Israel.

@@ -917,8 +917,8 @@ _1 verse containing FORTUNATUS_
 * `Gen 32:15` Thirty milk camels with their colts, *_forty_* cows, ten bulls, twenty female donkeys, and ten foals.
 * `Gen 47:28` And Jacob lived in the land of Egypt for seventeen years. So the whole age of Jacob was one hundred and *_forty_*-seven years.
 * `Gen 50:3` And *_forty_* days were fulfilled for him (for thus they fulfilled the days of those who are embalmed), and the Egyptians mourned for him seventy days.
-* `Exo 16:35` And the children of Israel ate manna *_forty_* years until they came to a land inhabited. They ate manna until they came to the borders of the land of Canaan.
-* `Exo 24:18` And Moses went into the midst of the cloud and ascended the mountain. And Moses was on the mountain *_forty_* days and *_forty_* nights.
+* `Exo 16:35` And the children of Israel ate manna for *_forty_* years until they came to a land inhabited. They ate manna until they came to the borders of the land of Canaan.
+* `Exo 24:18` And Moses went into the midst of the cloud and ascended the mountain. And Moses was on the mountain for *_forty_* days and *_forty_* nights.
 * `Exo 26:19` And you shall make *_forty_* sockets of silver under the twenty boards, two sockets under one board for its two tenons and two sockets under another board for its two tenons;
 * `Exo 26:21` And their *_forty_* sockets of silver, two sockets under one board and two sockets under another board;
 * `Exo 34:28` And he was there with the LORD *_forty_* days and *_forty_* nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
@@ -2227,7 +2227,7 @@ _25 verses containing FOURTEENTH_
 * `Gen 1:19` And the evening and the morning were the *_fourth_* day.
 * `Gen 2:14` And the name of the third river is Hiddekel, which flows toward the east of Assyria. And the *_fourth_* river is Euphrates.
 * `Gen 15:16` But in the *_fourth_* generation they shall come here again, for the iniquity of the Amorites is not yet full."
-* `Exo 20:5` You shall not bow down yourself to them, nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and *_fourth_* generation of those who hate me,
+* `Exo 20:5` You shall not bow down yourself to them nor serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and *_fourth_* generation of those who hate me,
 * `Exo 28:20` And the *_fourth_* row a beryl, an onyx, and a jasper. They shall be set in gold in their enclosings.
 * `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the *_fourth_* part of a hin of beaten oil and the *_fourth_* part of a hin of wine for a drink-offering.
 * `Exo 34:7` Keeping mercy for thousands, forgiving iniquity and transgression and sin, and who will by no means clear the guilty, visiting the iniquity of the fathers upon the children and upon the children's children to the third and to the *_fourth_* generation."
@@ -3684,7 +3684,7 @@ _5 verses containing FURLONGS_
 * `Gen 19:28` And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and behold, the smoke of the country went up like the smoke of a *_furnace_*.
 * `Exo 9:8` And the LORD said to Moses and to Aaron, "Take for yourselves handfuls of ashes from the *_furnace_* and let Moses sprinkle it toward heaven in the sight of Pharaoh.
 * `Exo 9:10` And they took ashes from the *_furnace_* and stood before Pharaoh, and Moses sprinkled it toward heaven, and it became a boil breaking forth with sores upon man and upon beast.
-* `Exo 19:18` And mount Sinai was altogether in a smoke because the LORD descended upon it in fire. And its smoke ascended as the smoke of a *_furnace_*, and the whole mountain trembled greatly.
+* `Exo 19:18` And mount Sinai was altogether in a smoke because the LORD descended upon it in fire. And its smoke ascended like the smoke of a *_furnace_*, and the whole mountain trembled greatly.
 * `Deu 4:20` But the LORD has taken you and brought you out of the iron *_furnace_*, even from Egypt, to be to him a people of inheritance, as you are this day.
 * `1Ki 8:51` (For they are your people and your inheritance which you brought out of Egypt, from the midst of the *_furnace_* of iron),
 * `Psa 12:6` The words of the LORD are pure words, like silver tried in a *_furnace_* of earth, purified seven times.

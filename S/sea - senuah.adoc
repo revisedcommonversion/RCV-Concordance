@@ -724,10 +724,10 @@ _10 verses containing SEASONS_
 
 * `Exo 25:17` "And you shall make a mercy-*_seat_* of pure gold. Two and a half cubits shall be its length and a cubit and a half its breadth.
 * `Exo 25:18` And you shall make two cherubim of gold, of beaten work you shall make them, at the two ends of the mercy-*_seat_*.
-* `Exo 25:19` And make one cherub on one end and the other cherub on the other end, of one piece with the mercy-*_seat_* you shall make the cherubim at its two ends.
+* `Exo 25:19` And make one cherub on one end and the other cherub on the other end. Of one piece with the mercy-*_seat_* you shall make the cherubim at its two ends.
 * `Exo 25:20` And the cherubim shall stretch forth their wings on high, covering the mercy-*_seat_* with their wings, and their faces shall look to one another. Toward the mercy-*_seat_* the faces of the cherubim shall be.
 * `Exo 25:21` And you shall put the mercy-*_seat_* above upon the ark. And in the ark you shall put the testimony that I shall give you.
-* `Exo 25:22` And there I will meet with you, and I will speak with you from above the mercy-*_seat_*, from between the two cherubim which are upon the ark of the testimony, of all things which I will give you in commandment to the children of Israel.
+* `Exo 25:22` And there I will meet with you, and I will speak with you from above the mercy-*_seat_*, from between the two cherubim which are upon the ark of the testimony, about all things which I will give you in commandment to the children of Israel.
 * `Exo 26:34` And you shall put the mercy-*_seat_* upon the ark of the testimony in the holy of holies.
 * `Exo 30:6` And you shall put it before the veil that is by the ark of the testimony, before the mercy-*_seat_* that is over the testimony, where I will meet with you.
 * `Exo 31:7` The Tabernacle of the Congregation, the ark of the testimony, the mercy-*_seat_* that is upon it, all the vessels of the tabernacle,
@@ -1919,7 +1919,7 @@ _4 verses containing SEEDS_
 * `Exo 4:11` And the LORD said to him, "Who has made man's mouth? Or who makes the mute, the deaf, the *_seeing_*, or the blind? Is it not I, the LORD?
 * `Exo 21:8` If she shall not please her master who has betrothed her to himself, then he shall let her be redeemed. He shall have no power to sell her to a strange nation, *_seeing_* he has dealt deceitfully with her.
 * `Exo 22:10` "If a man delivers to his neighbor a donkey, an ox, a sheep, or any beast to keep and it dies, is hurt, or is driven away, no man *_seeing_* it,
-* `Exo 23:9` "Also you shall not oppress a stranger, for you know the heart of a stranger, *_seeing_* you were strangers in the land of Egypt.
+* `Exo 23:9` "Also, you shall not oppress a stranger, for you know the heart of a stranger, *_seeing_* you were strangers in the land of Egypt.
 * `Lev 10:17` "Why have you not eaten the sin-offering in the holy place, *_seeing_* it is most holy, and God has given it to you to bear the iniquity of the congregation to make atonement for them before the LORD?
 * `Num 15:26` And all the congregation of the children of Israel shall be forgiven, and also the stranger who sojourns among them, *_seeing_* all the people were in ignorance.
 * `Num 16:3` And they assembled themselves against Moses and against Aaron and said to them, "You take too much upon yourselves, *_seeing_* all the congregation are holy, each of them, and the LORD is among them. Why then do you raise yourselves above the congregation of the LORD?"
@@ -3517,7 +3517,7 @@ _2 verses containing SENSUAL_
 * `Exo 9:27` And Pharaoh *_sent_* and called for Moses and Aaron and said to them, "I have sinned this time. The LORD is righteous, and I and my people are wicked.
 * `Exo 15:7` And in the greatness of your excellence you have overthrown those who rose up against you. You *_sent_* forth your wrath, which consumed them like stubble.
 * `Exo 18:2` Jethro, Moses's father-in-law, took Zipporah, Moses's wife, after he had *_sent_* her back,
-* `Exo 24:5` And he *_sent_* young men of the children of Israel who offered burnt-offerings and sacrificed peace-offerings of oxen to the LORD.
+* `Exo 24:5` Then he *_sent_* young men of the children of Israel, who offered burnt-offerings and sacrificed peace-offerings of oxen to the LORD.
 * `Num 5:4` And the children of Israel did so and *_sent_* them outside the camp. As the LORD spoke to Moses, so the children of Israel did.
 * `Num 13:3` And Moses, by the commandment of the LORD, *_sent_* them from the wilderness of Paran. All those men were heads of the children of Israel.
 * `Num 13:16` These are the names of the men whom Moses *_sent_* to explore the land. And Moses called Oshea the son of Nun, Jehoshua.

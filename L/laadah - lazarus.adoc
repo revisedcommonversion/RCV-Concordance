@@ -1463,17 +1463,17 @@ _1 verse containing LANCETS_
 * `Exo 16:3` And the children of Israel said to them, "O that we had died by the hand of the LORD in the *_land_* of Egypt when we sat by the flesh-pots and when we ate bread to the full, for you have brought us forth into this wilderness to kill this whole assembly with hunger."
 * `Exo 16:6` And Moses and Aaron said to all the children of Israel, "At evening you shall know that the LORD has brought you out from the *_land_* of Egypt,
 * `Exo 16:32` And Moses said, "This is the thing which the LORD commanded, 'Fill an omer with it to be kept for your generations so that they may see the bread with which I fed you in the wilderness when I brought you forth from the *_land_* of Egypt.'"
-* `Exo 16:35` And the children of Israel ate manna forty years until they came to a *_land_* inhabited. They ate manna until they came to the borders of the *_land_* of Canaan.
+* `Exo 16:35` And the children of Israel ate manna for forty years until they came to a *_land_* inhabited. They ate manna until they came to the borders of the *_land_* of Canaan.
 * `Exo 18:3` And her two sons, of which the name of one was Gershom (for he said, "I have been a foreigner in a strange *_land_*"),
 * `Exo 18:27` And Moses let his father-in-law depart. And he went his way into his own *_land_*.
 * `Exo 19:1` In the third month, when the children of Israel had gone forth from the *_land_* of Egypt, the same day they came into the wilderness of Sinai.
 * `Exo 20:2` "I am the LORD your God who has brought you out of the *_land_* of Egypt, out of the house of bondage.
 * `Exo 20:12` "Honor your father and your mother so that your days may be long upon the *_land_* which the LORD your God gives you.
-* `Exo 22:21` "You shall neither vex a stranger, nor oppress him, for you were strangers in the *_land_* of Egypt.
-* `Exo 23:9` "Also you shall not oppress a stranger, for you know the heart of a stranger, seeing you were strangers in the *_land_* of Egypt.
+* `Exo 22:21` "You shall neither vex a stranger nor oppress him, for you were strangers in the *_land_* of Egypt.
+* `Exo 23:9` "Also, you shall not oppress a stranger, for you know the heart of a stranger, seeing you were strangers in the *_land_* of Egypt.
 * `Exo 23:10` "And six years you shall sow your *_land_* and shall gather in the fruits thereof.
 * `Exo 23:19` "The first of the first-fruits of your *_land_* you shall bring into the house of the LORD your God. You shall not boil a kid in his mother's milk.
-* `Exo 23:26` None shall miscarry their young, nor be barren in your *_land_*. I will complete the number of your days.
+* `Exo 23:26` None shall miscarry their young nor be barren in your *_land_*. I will complete the number of your days.
 * `Exo 23:29` I will not drive them out from before you in one year, lest the *_land_* should become desolate and the beast of the field should multiply against you.
 * `Exo 23:30` Little by little I will drive them out from before you until you have increased and inherit the *_land_*.
 * `Exo 23:31` And I will set your bounds from the Red Sea even to the sea of the Philistines, and from the desert to the river, for I will deliver the inhabitants of the *_land_* into your hand, and you shall drive them out before you.
@@ -3371,7 +3371,7 @@ _1 verse containing LAVISH_
 * `Exo 4:18` And Moses went and returned to Jethro his father-in-*_law_* and said to him, "Let me go, I pray you, and return to my brothers who are in Egypt and see whether they are still alive." And Jethro said to Moses, "Go in peace."
 * `Exo 12:49` One *_law_* shall be to him who is home-born and to the stranger who sojourns among you."
 * `Exo 13:9` And it shall be for a sign to you upon your hand and for a memorial between your eyes so that the LORD'S *_law_* may be in your mouth. For with a strong hand the LORD has brought you out of Egypt.
-* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my *_law_*, or not.
+* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my *_law_* or not.
 * `Exo 18:1` When Jethro the priest of Midian, Moses's father-in-*_law_*, heard of all that God had done for Moses and for Israel his people, and that the LORD had brought Israel out of Egypt,
 * `Exo 18:2` Jethro, Moses's father-in-*_law_*, took Zipporah, Moses's wife, after he had sent her back,
 * `Exo 18:5` And Jethro, Moses's father-in-*_law_*, came with his sons and his wife to Moses into the wilderness where he encamped at the mountain of God.

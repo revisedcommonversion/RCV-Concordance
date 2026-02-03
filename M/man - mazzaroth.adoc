@@ -134,12 +134,12 @@
 * `Exo 21:13` And if the *_man_* did not lie in wait, but God has delivered him into his hand, then I will appoint you a place where he shall flee.
 * `Exo 21:14` But if a *_man_* comes presumptuously upon his neighbor to slay him with guile, you shall take him from my altar so that he may die.
 * `Exo 21:16` "And he who steals a *_man_* and sells him, or if he is found in his hand, he shall surely be put to death.
-* `Exo 21:20` "And if a *_man_* smites his *_man_*-servant or his woman-servant with a rod and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a *_man_* smites his *_man_*-servant or his woman-servant with a rod, and he dies under his hand, he shall surely be punished.
 * `Exo 21:26` "And if a *_man_* smites the eye of his *_man_*-servant or the eye of his woman-servant so that it perishes, he shall let him go free for his eye's sake.
 * `Exo 21:27` And if he smites out his *_man_*-servant's tooth or his woman-servant's tooth, he shall let him go free for his tooth's sake.
 * `Exo 21:28` "If an ox gores a *_man_* or a woman so that they die, then the ox shall surely be stoned and its flesh shall not be eaten, but the owner of the ox shall be acquitted.
 * `Exo 21:29` But if the ox was accustomed to push with its horn in time past, and it has been testified to its owner and he has not restrained it, and it has killed a *_man_* or a woman, the ox shall be stoned and its owner shall also be put to death.
-* `Exo 21:32` If the ox gores a *_man_*-servant or woman-servant, he shall give to their master thirty shekels of silver and the ox shall be stoned.
+* `Exo 21:32` If the ox gores a *_man_*-servant or woman-servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.
 * `Exo 21:33` "And if a *_man_* opens a pit, or if a *_man_* digs a pit, and does not cover it, and an ox or a donkey falls into it,
 * `Exo 21:35` "And if one *_man_*'s ox hurts another's so that he dies, then they shall sell the live ox and divide its money. And they shall also divide the dead ox.
 * `Exo 22:1` "If a *_man_* steals an ox or a sheep and kills it or sells it, he shall restore five oxen for an ox and four sheep for a sheep.
@@ -2353,10 +2353,10 @@ _2343 verses containing MAN_
 
 * `Exo 20:10` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your *_man-servant_*, your woman-servant, your livestock, nor your stranger who is within your gates.
 * `Exo 20:17` "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, his *_man-servant_*, his woman-servant, his ox, his donkey, nor anything that is your neighbor's."
-* `Exo 21:20` "And if a man smites his *_man-servant_* or his woman-servant with a rod and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a man smites his *_man-servant_* or his woman-servant with a rod, and he dies under his hand, he shall surely be punished.
 * `Exo 21:26` "And if a man smites the eye of his *_man-servant_* or the eye of his woman-servant so that it perishes, he shall let him go free for his eye's sake.
 * `Exo 21:27` And if he smites out his *_man-servant_*'s tooth or his woman-servant's tooth, he shall let him go free for his tooth's sake.
-* `Exo 21:32` If the ox gores a *_man-servant_* or woman-servant, he shall give to their master thirty shekels of silver and the ox shall be stoned.
+* `Exo 21:32` If the ox gores a *_man-servant_* or woman-servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.
 * `Lev 25:6` And the sabbath of the land shall be food for you—for you, for your *_man-servant_*, for your woman-servant, for your hired servant, for your stranger who sojourns with you,
 * `Deu 5:14` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your *_man-servant_*, your woman-servant, your ox, your donkey, any of your livestock, nor your stranger who is within your gates—so that your *_man-servant_* and your woman-servant may rest as well as you.
 * `Deu 5:21` 'You shall not desire your neighbor's wife, neither shall you covet your neighbor's house, his field, his *_man-servant_*, his woman-servant, his ox, his donkey, or anything that is your neighbor's.'
@@ -2684,7 +2684,7 @@ _6 verses containing MANKIND_
 * `Exo 16:15` And when the children of Israel saw it, they said to one another, "It is *_manna_*," for they did not know what it was. And Moses said to them, "This is the bread which the LORD has given you to eat.
 * `Exo 16:31` And the house of Israel called its name *_Manna_*. And it was like coriander-seed, white, and its taste was like wafers made with honey.
 * `Exo 16:33` And Moses said to Aaron, "Take a pot and put an omer full of *_manna_* therein, and lay it up before the LORD to be kept for your generations."
-* `Exo 16:35` And the children of Israel ate *_manna_* forty years until they came to a land inhabited. They ate *_manna_* until they came to the borders of the land of Canaan.
+* `Exo 16:35` And the children of Israel ate *_manna_* for forty years until they came to a land inhabited. They ate *_manna_* until they came to the borders of the land of Canaan.
 * `Num 11:6` But now our soul is dried up. There is nothing at all besides this *_manna_* before our eyes."
 * `Num 11:7` And the *_manna_* was as coriander-seed, and its color as the color of bdellium.
 * `Num 11:9` And when the dew fell upon the camp in the night, the *_manna_* fell upon it.
@@ -4141,11 +4141,11 @@ _2 verses containing MAST_
 * `Gen 39:8` But he refused and said to his *_master_*'s wife, "Behold, my *_master_* does not know what is with me in the house, and he has committed all that he has to my hand.
 * `Gen 39:19` And it came to pass when his *_master_* heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
 * `Gen 39:20` And Joseph's *_master_* took him and put him into the prison, a place where the king's prisoners were bound, and he was there in the prison.
-* `Exo 21:4` If his *_master_* has given him a wife and she has borne him sons or daughters, the wife and her children shall be her *_master_*'s and he shall depart by himself.
+* `Exo 21:4` If his *_master_* has given him a wife and she has borne him sons or daughters, the wife and her children shall be her *_master_*'s, and he shall depart by himself.
 * `Exo 21:5` And if the servant plainly says, 'I love my *_master_*, my wife, and my children. I will not depart free,'
 * `Exo 21:6` Then his *_master_* shall bring him to the judges. He shall also bring him to the door, or to the door-post, and his *_master_* shall bore his ear through with an awl, and he shall serve him forever.
 * `Exo 21:8` If she shall not please her *_master_* who has betrothed her to himself, then he shall let her be redeemed. He shall have no power to sell her to a strange nation, seeing he has dealt deceitfully with her.
-* `Exo 21:32` If the ox gores a man-servant or woman-servant, he shall give to their *_master_* thirty shekels of silver and the ox shall be stoned.
+* `Exo 21:32` If the ox gores a man-servant or woman-servant, he shall give to their *_master_* thirty shekels of silver, and the ox shall be stoned.
 * `Exo 22:8` If the thief is not found, then the *_master_* of the house shall be brought to the judges, to see whether he has put his hand to his neighbor's goods.
 * `Deu 23:15` "You shall not deliver to his *_master_* the servant who has escaped from his *_master_* to you.
 * `Jdg 19:11` And when they were by Jebus, the day was far spent. And the servant said to his *_master_*, "Come, I pray you, and let us turn in to this city of the Jebusites and lodge in it."
@@ -4717,7 +4717,7 @@ _1 verse containing MAUL_
 * `Exo 14:4` And I will harden Pharaoh's heart, and he shall follow them. And I will be honored upon Pharaoh and upon all his host so that the Egyptians *_may_* know that I am the LORD." And they did so.
 * `Exo 14:12` Is this not the word that we told you in Egypt, saying, 'Leave us alone so that we *_may_* serve the Egyptians'? For it had been better for us to serve the Egyptians than that we should die in the wilderness."
 * `Exo 14:26` And the LORD said to Moses, "Stretch out your hand over the sea so that the waters *_may_* come back upon the Egyptians, upon their chariots, and upon their horsemen."
-* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I *_may_* prove them, whether they will walk in my law, or not.
+* `Exo 16:4` Then the LORD said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I *_may_* prove them, whether they will walk in my law or not.
 * `Exo 16:32` And Moses said, "This is the thing which the LORD commanded, 'Fill an omer with it to be kept for your generations so that they *_may_* see the bread with which I fed you in the wilderness when I brought you forth from the land of Egypt.'"
 * `Exo 17:2` Therefore, the people contended with Moses and said, "Give us water so that we *_may_* drink." And Moses said to them, "Why do you chide with me? Why do you test the LORD?"
 * `Exo 17:6` Behold, I will stand before you there on the rock in Horeb. And you shall smite the rock, and water shall come out of it so that the people *_may_* drink." And Moses did so in the sight of the elders of Israel.
@@ -4727,7 +4727,7 @@ _1 verse containing MAUL_
 * `Exo 20:20` And Moses said to the people, "Do not fear, for God has come to prove you, so that his fear *_may_* be before your faces and that you do not sin."
 * `Exo 21:14` But if a man comes presumptuously upon his neighbor to slay him with guile, you shall take him from my altar so that he *_may_* die.
 * `Exo 23:11` But the seventh year you shall let it rest and lie still so that the poor of your people *_may_* eat. And what they leave, the beasts of the field shall eat. In like manner you shall deal with your vineyard and with your olive-grove.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your ox and your donkey *_may_* rest, and the son of your woman-servant and the stranger *_may_* be refreshed.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey *_may_* rest, and the son of your woman-servant and the stranger *_may_* be refreshed.
 * `Exo 24:12` And the LORD said to Moses, "Come up to me on the mountain and be there, and I will give you tablets of stone with the law and the commandments which I have written so that you *_may_* teach them."
 * `Exo 25:8` And let them make me a sanctuary so that I *_may_* dwell among them.
 * `Exo 25:14` And you shall put the staffs into the rings by the sides of the ark so that the ark *_may_* be borne with them.

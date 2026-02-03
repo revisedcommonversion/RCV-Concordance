@@ -453,11 +453,11 @@ _6 verses containing SERUG_
 * `Exo 21:2` "If you buy a Hebrew *_servant_*, six years he shall serve. And in the seventh he shall depart free for nothing.
 * `Exo 21:5` And if the *_servant_* plainly says, 'I love my master, my wife, and my children. I will not depart free,'
 * `Exo 21:7` "And if a man sells his daughter to be a woman-*_servant_*, she shall not depart as the men-servants do.
-* `Exo 21:20` "And if a man smites his man-*_servant_* or his woman-*_servant_* with a rod and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a man smites his man-*_servant_* or his woman-*_servant_* with a rod, and he dies under his hand, he shall surely be punished.
 * `Exo 21:26` "And if a man smites the eye of his man-*_servant_* or the eye of his woman-*_servant_* so that it perishes, he shall let him go free for his eye's sake.
 * `Exo 21:27` And if he smites out his man-*_servant_*'s tooth or his woman-*_servant_*'s tooth, he shall let him go free for his tooth's sake.
-* `Exo 21:32` If the ox gores a man-*_servant_* or woman-*_servant_*, he shall give to their master thirty shekels of silver and the ox shall be stoned.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-*_servant_* and the stranger may be refreshed.
+* `Exo 21:32` If the ox gores a man-*_servant_* or woman-*_servant_*, he shall give to their master thirty shekels of silver, and the ox shall be stoned.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-*_servant_* and the stranger may be refreshed.
 * `Exo 33:11` And the LORD spoke to Moses face to face, as a man speaks to his friend. And he turned back into the camp, but his *_servant_* Joshua the son of Nun, a young man, did not depart out of the tabernacle.
 * `Lev 19:20` 'And whoever lies carnally with a woman who is a *_servant_* betrothed to a husband and not at all redeemed, nor freedom given to her, she shall be scourged. They shall not be put to death because she was not free.
 * `Lev 22:10` 'No stranger shall eat the holy thing. A sojourner of the priest or a hired *_servant_* shall not eat the holy thing.
@@ -1431,7 +1431,7 @@ _467 verses containing SERVANTS_
 * `Exo 10:26` Our livestock shall also go with us. Not a hoof shall be left behind. For from them we will take some to *_serve_* the LORD our God, and we do not know with what we must *_serve_* the LORD until we get there."
 * `Exo 12:31` And he called for Moses and Aaron by night and said, "Arise, and depart from among my people, both you and the children of Israel, and go, *_serve_* the LORD as you have said.
 * `Exo 14:12` Is this not the word that we told you in Egypt, saying, 'Leave us alone so that we may *_serve_* the Egyptians'? For it had been better for us to *_serve_* the Egyptians than that we should die in the wilderness."
-* `Exo 20:5` You shall not bow down yourself to them, nor *_serve_* them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
+* `Exo 20:5` You shall not bow down yourself to them nor *_serve_* them, for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
 * `Exo 21:2` "If you buy a Hebrew servant, six years he shall *_serve_*. And in the seventh he shall depart free for nothing.
 * `Exo 21:6` Then his master shall bring him to the judges. He shall also bring him to the door, or to the door-post, and his master shall bore his ear through with an awl, and he shall *_serve_* him forever.
 * `Exo 23:24` You shall not bow down to their gods, nor *_serve_* them, nor do after their works, but you shall utterly overthrow them and quite break down their images.
@@ -1895,7 +1895,7 @@ _2 verses containing SERVITUDE_
 * `Exo 8:22` And in that day I will *_set_* apart the land of Goshen, in which my people dwell, so that no swarms of flies shall be there, to the end you may know that I am the LORD in the midst of the earth.
 * `Exo 9:5` And the LORD appointed a *_set_* time, saying, "Tomorrow the LORD will do this thing in the land."
 * `Exo 13:12` That you shall *_set_* apart to the LORD all that opens the womb. And of every first-born that comes from a beast which you have, the males shall be the LORD'S.
-* `Exo 19:12` And you shall *_set_* bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain, or touch its border. Whoever touches the mountain shall surely be put to death.
+* `Exo 19:12` And you shall *_set_* bounds for the people all around, saying, 'Take heed to yourselves that you do not go up upon the mountain or touch its border. Whoever touches the mountain shall surely be put to death.
 * `Exo 19:23` And Moses said to the LORD, "The people cannot come up to mount Sinai, for you charged us, saying, '*_Set_* bounds around the mountain and sanctify it.'"
 * `Exo 21:1` "Now these are the judgments which you shall *_set_* before them.
 * `Exo 23:31` And I will *_set_* your bounds from the Red Sea even to the sea of the Philistines, and from the desert to the river, for I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.
@@ -2673,7 +2673,7 @@ _1 verse containing SETTLES_
 * `Exo 13:6` *_Seven_* days you shall eat unleavened bread, and on the seventh day there shall be a feast to the LORD.
 * `Exo 13:7` Unleavened bread shall be eaten *_seven_* days. And there shall no leavened bread be seen with you, neither shall there be leaven seen with you in all your quarters.
 * `Exo 22:30` You shall do likewise with your oxen and with your sheep. *_Seven_* days it shall be with his mother. On the eighth day you shall give it to me.
-* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread *_seven_* days, as I commanded you, in the time appointed of the month Abib, for in it you came out from Egypt, and no one shall appear before me empty);
+* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread for *_seven_* days, as I commanded you, at the time appointed in the month Abib, for in it you came out from Egypt, and no one shall appear before me empty);
 * `Exo 25:37` And you shall make its *_seven_* lamps. And they shall light its lamps so that they may give light over against it.
 * `Exo 29:30` And that son, who is priest in his stead, shall put them on *_seven_* days when he comes into the Tabernacle of the Congregation to minister in the holy place.
 * `Exo 29:35` "And thus you shall do to Aaron and to his sons according to all things which I have commanded you. *_Seven_* days you shall consecrate them.
@@ -3071,8 +3071,8 @@ _6 verses containing SEVENTEENTH_
 * `Exo 20:11` For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested the *_seventh_* day; therefore, the LORD blessed the sabbath-day and hallowed it.
 * `Exo 21:2` "If you buy a Hebrew servant, six years he shall serve. And in the *_seventh_* he shall depart free for nothing.
 * `Exo 23:11` But the *_seventh_* year you shall let it rest and lie still so that the poor of your people may eat. And what they leave, the beasts of the field shall eat. In like manner you shall deal with your vineyard and with your olive-grove.
-* `Exo 23:12` "Six days you shall do your work and on the *_seventh_* day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
-* `Exo 24:16` And the glory of the LORD stayed upon mount Sinai, and the cloud covered it six days. And on the *_seventh_* day he called to Moses from the midst of the cloud.
+* `Exo 23:12` "Six days you shall do your work, and on the *_seventh_* day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
+* `Exo 24:16` And the glory of the LORD stayed upon mount Sinai, and the cloud covered it for six days. And on the *_seventh_* day he called to Moses from the midst of the cloud.
 * `Exo 31:15` Six days work may be done, but on the *_seventh_* is the sabbath of rest, holy to the LORD. Whoever does any work on the sabbath-day, he shall surely be put to death.
 * `Exo 31:17` It is a sign between me and the children of Israel forever, for in six days the LORD made heaven and earth and on the *_seventh_* day he rested and was refreshed.'"
 * `Exo 34:21` "Six days you shall work, but on the *_seventh_* day you shall rest. In time of plowing and in harvest you shall rest.

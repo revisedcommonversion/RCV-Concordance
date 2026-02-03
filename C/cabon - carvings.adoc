@@ -604,7 +604,7 @@ _183 verses containing CALL_
 * `Exo 19:3` And Moses went up to God, and the LORD *_called_* to him from the mountain, saying, "Thus you shall say to the house of Jacob, and tell the children of Israel:
 * `Exo 19:7` And Moses came and *_called_* for the elders of the people and laid before their faces all these words which the LORD commanded him.
 * `Exo 19:20` And the LORD came down upon mount Sinai, on the top of the mountain. And the LORD *_called_* Moses to the top of the mountain, and Moses went up.
-* `Exo 24:16` And the glory of the LORD stayed upon mount Sinai, and the cloud covered it six days. And on the seventh day he *_called_* to Moses from the midst of the cloud.
+* `Exo 24:16` And the glory of the LORD stayed upon mount Sinai, and the cloud covered it for six days. And on the seventh day he *_called_* to Moses from the midst of the cloud.
 * `Exo 31:2` "Behold, I have *_called_* by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah,
 * `Exo 33:7` And Moses took the tabernacle and pitched it outside the camp far from the camp and *_called_* it the Tabernacle of the Congregation. And it came to pass, that everyone who sought the LORD went out to the Tabernacle of the Congregation, which was outside the camp.
 * `Exo 34:31` And Moses *_called_* to them, and Aaron and all the rulers of the congregation returned to him, and Moses talked with them.
@@ -1422,11 +1422,11 @@ _25 verses containing CALVES_
 * `Exo 15:23` And when they *_came_* to Marah, they could not drink the waters of Marah because they were bitter. Therefore, its name was called Marah.
 * `Exo 15:27` And they *_came_* to Elim, where there were twelve wells of water and seventy palm-trees. And they encamped there by the waters.
 * `Exo 16:1` And they took their journey from Elim, and all the congregation of the children of Israel *_came_* to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departure from the land of Egypt.
-* `Exo 16:10` And it *_came_* to pass, as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
+* `Exo 16:10` And it *_came_* to pass as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
 * `Exo 16:13` And it *_came_* to pass, that at evening the quails *_came_* up and covered the camp, and in the morning the dew lay around the host.
 * `Exo 16:22` And it *_came_* to pass, that on the sixth day they gathered twice as much bread, two omers for one man. And all the rulers of the congregation *_came_* and told Moses.
 * `Exo 16:27` And it *_came_* to pass, that some of the people went out on the seventh day to gather and they found none.
-* `Exo 16:35` And the children of Israel ate manna forty years until they *_came_* to a land inhabited. They ate manna until they *_came_* to the borders of the land of Canaan.
+* `Exo 16:35` And the children of Israel ate manna for forty years until they *_came_* to a land inhabited. They ate manna until they *_came_* to the borders of the land of Canaan.
 * `Exo 17:8` Then Amalek *_came_* and fought with Israel in Rephidim.
 * `Exo 17:11` And it *_came_* to pass, when Moses held up his hand, that Israel prevailed. And when he let down his hand, Amalek prevailed.
 * `Exo 18:5` And Jethro, Moses's father-in-law, *_came_* with his sons and his wife to Moses into the wilderness where he encamped at the mountain of God.
@@ -1439,7 +1439,7 @@ _25 verses containing CALVES_
 * `Exo 19:20` And the LORD *_came_* down upon mount Sinai, on the top of the mountain. And the LORD called Moses to the top of the mountain, and Moses went up.
 * `Exo 21:3` If he *_came_* in by himself, he shall depart by himself. If he was married, then his wife shall depart with him.
 * `Exo 22:15` But if its owner is with it, he shall not make it good. If it is a hired thing, it *_came_* for his hire.
-* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread seven days, as I commanded you, in the time appointed of the month Abib, for in it you *_came_* out from Egypt, and no one shall appear before me empty);
+* `Exo 23:15` You shall keep the feast of unleavened bread (you shall eat unleavened bread for seven days, as I commanded you, at the time appointed in the month Abib, for in it you *_came_* out from Egypt, and no one shall appear before me empty);
 * `Exo 24:3` And Moses *_came_* and told the people all the words of the LORD and all the judgments. And all the people answered with one voice and said, "All the words which the LORD has said we will perform."
 * `Exo 32:19` And it *_came_* to pass as soon as he *_came_* near the camp, that he saw the calf and the dancing. And Moses's anger waxed hot, and he cast the tablets from his hands and broke them beneath the mountain.
 * `Exo 32:24` And I said to them, 'Whoever has any gold, let them break it off.' So they gave it to me. Then I cast it into the fire, and this calf *_came_* out."
@@ -3672,7 +3672,7 @@ _4 verses containing CANA_
 * `Gen 50:13` For his sons carried him into the land of *_Canaan_* and buried him in the cave of the field of Machpelah near Mamre, which Abraham bought with the field as a possession for a burying-place from Ephron the Hittite.
 * `Exo 6:4` And I have also established my covenant with them to give them the land of *_Canaan_*, the land of their pilgrimage, in which they were strangers.
 * `Exo 15:15` Then the chiefs of Edom shall be amazed. The mighty men of Moab, trembling shall take hold upon them. All the inhabitants of *_Canaan_* shall melt away.
-* `Exo 16:35` And the children of Israel ate manna forty years until they came to a land inhabited. They ate manna until they came to the borders of the land of *_Canaan_*.
+* `Exo 16:35` And the children of Israel ate manna for forty years until they came to a land inhabited. They ate manna until they came to the borders of the land of *_Canaan_*.
 * `Lev 14:34` "When you have come into the land of *_Canaan_*, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession,
 * `Lev 18:3` After the doings of the land of Egypt in which you dwelt, you shall not do, and after the doings of the land of *_Canaan_* where I bring you, you shall not do, neither shall you walk in their ordinances.
 * `Lev 25:38` I am the LORD your God who brought you out of the land of Egypt to give you the land of *_Canaan_* and to be your God.

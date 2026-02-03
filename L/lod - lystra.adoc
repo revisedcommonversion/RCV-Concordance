@@ -798,7 +798,7 @@ _143 verses containing LOOK_
 * `Exo 3:2` And the angel of the LORD appeared to him in a flame of fire out of the midst of a bush. And he *_looked_*, and behold, the bush burned with fire, and the bush was not consumed.
 * `Exo 4:31` And the people believed. And when they heard that the LORD had visited the children of Israel and that he had *_looked_* upon their affliction, then they bowed their heads and worshiped.
 * `Exo 14:24` And it came to pass, that in the morning-watch, the LORD *_looked_* to the host of the Egyptians through the pillar of fire and of the cloud and troubled the host of the Egyptians,
-* `Exo 16:10` And it came to pass, as Aaron spoke to the whole congregation of the children of Israel, that they *_looked_* toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
+* `Exo 16:10` And it came to pass as Aaron spoke to the whole congregation of the children of Israel, that they *_looked_* toward the wilderness, and behold, the glory of the LORD appeared in the cloud.
 * `Exo 39:43` And Moses *_looked_* upon all the work, and behold, they had done it. As the LORD had commanded, even so they had done it. And Moses blessed them.
 * `Num 12:10` And the cloud departed from off the tabernacle, and behold, Miriam became leprous, white as snow. And Aaron *_looked_* upon Miriam, and behold, she was leprous.
 * `Num 16:42` And it came to pass when the congregation was gathered against Moses and against Aaron, that they *_looked_* toward the Tabernacle of the Congregation, and behold, the cloud covered it and the glory of the LORD appeared.
@@ -1434,14 +1434,14 @@ _1 verse containing LOP_
 * `Exo 15:25` And he cried to the *_LORD_*, and the *_LORD_* showed him a tree, which he cast into the waters, and the waters were made sweet. There he made for them a statute and an ordinance, and there he proved them,
 * `Exo 15:26` And said, "If you will diligently listen to the voice of the *_LORD_* your God, do that which is right in his sight, and give ear to his commandments and keep all his statutes, I will put none of these diseases upon you which I have brought upon the Egyptians, for I am the *_LORD_* who heals you."
 * `Exo 16:3` And the children of Israel said to them, "O that we had died by the hand of the *_LORD_* in the land of Egypt when we sat by the flesh-pots and when we ate bread to the full, for you have brought us forth into this wilderness to kill this whole assembly with hunger."
-* `Exo 16:4` Then the *_LORD_* said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my law, or not.
+* `Exo 16:4` Then the *_LORD_* said to Moses, "Behold, I will rain bread from heaven for you. And the people shall go out and gather a certain rate every day so that I may prove them, whether they will walk in my law or not.
 * `Exo 16:6` And Moses and Aaron said to all the children of Israel, "At evening you shall know that the *_LORD_* has brought you out from the land of Egypt,
 * `Exo 16:7` And in the morning you shall see the glory of the *_LORD_*, for he hears your murmurings against the *_LORD_*. And what are we that you murmur against us?"
 * `Exo 16:8` And Moses said, "This shall be when the *_LORD_* gives you flesh to eat in the evening and bread to the full in the morning, for the *_LORD_* hears your murmurings which you murmur against him. And what are we? Your murmurings are not against us, but against the *_LORD_*."
 * `Exo 16:9` And Moses spoke to Aaron, "Say to all the congregation of the children of Israel, 'Come near before the *_LORD_*, for he has heard your murmurings.'"
-* `Exo 16:10` And it came to pass, as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the *_LORD_* appeared in the cloud.
+* `Exo 16:10` And it came to pass as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the *_LORD_* appeared in the cloud.
 * `Exo 16:11` And the *_LORD_* spoke to Moses, saying,
-* `Exo 16:12` "I have heard the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall eat flesh and in the morning you shall be filled with bread. Then you shall know that I am the *_LORD_* your God.'"
+* `Exo 16:12` "I have heard the murmurings of the children of Israel. Speak to them, saying, 'At evening you shall eat flesh, and in the morning you shall be filled with bread. Then you shall know that I am the *_LORD_* your God.'"
 * `Exo 16:15` And when the children of Israel saw it, they said to one another, "It is manna," for they did not know what it was. And Moses said to them, "This is the bread which the *_LORD_* has given you to eat.
 * `Exo 16:16` This is the thing which the *_LORD_* has commanded: 'Every man is to gather from it according to his eating. You shall take an omer for every man according to the number of your persons, each for those who are in his tent.'"
 * `Exo 16:23` And he said to them, "This is that which the *_LORD_* has said, 'Tomorrow is the rest of the holy sabbath to the *_LORD_*. Bake that which you will bake today and boil that which you will boil. And that which is left over, lay up for yourselves to be kept until the morning.'"
@@ -1469,14 +1469,14 @@ _1 verse containing LOP_
 * `Exo 19:9` And the *_LORD_* said to Moses, "Behold, I come to you in a thick cloud so that the people may hear when I speak with you and believe you forever." And Moses told the words of the people to the *_LORD_*.
 * `Exo 19:10` And the *_LORD_* said to Moses, "Go to the people and sanctify them today and tomorrow, and let them wash their clothes
 * `Exo 19:11` And be ready for the third day. For on the third day the *_LORD_* will come down in the sight of all the people upon mount Sinai.
-* `Exo 19:18` And mount Sinai was altogether in a smoke because the *_LORD_* descended upon it in fire. And its smoke ascended as the smoke of a furnace, and the whole mountain trembled greatly.
+* `Exo 19:18` And mount Sinai was altogether in a smoke because the *_LORD_* descended upon it in fire. And its smoke ascended like the smoke of a furnace, and the whole mountain trembled greatly.
 * `Exo 19:20` And the *_LORD_* came down upon mount Sinai, on the top of the mountain. And the *_LORD_* called Moses to the top of the mountain, and Moses went up.
 * `Exo 19:21` And the *_LORD_* said to Moses, "Go down, charge the people, lest they break through to the *_LORD_* to gaze and many of them perish.
 * `Exo 19:22` And let the priests also who come near the *_LORD_* sanctify themselves, lest the *_LORD_* break forth upon them."
 * `Exo 19:23` And Moses said to the *_LORD_*, "The people cannot come up to mount Sinai, for you charged us, saying, 'Set bounds around the mountain and sanctify it.'"
 * `Exo 19:24` And the *_LORD_* said to him, "Go, descend, and then you shall come up—you and Aaron with you. But do not let the priests and the people break through to come up to the *_LORD_*, lest he break forth upon them."
 * `Exo 20:2` "I am the *_LORD_* your God who has brought you out of the land of Egypt, out of the house of bondage.
-* `Exo 20:5` You shall not bow down yourself to them, nor serve them, for I, the *_LORD_* your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
+* `Exo 20:5` You shall not bow down yourself to them nor serve them, for I, the *_LORD_* your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
 * `Exo 20:7` "You shall not take the name of the *_LORD_* your God in vain, for the *_LORD_* will not hold him guiltless who takes his name in vain.
 * `Exo 20:10` But the seventh day is the sabbath of the *_LORD_* your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your woman-servant, your livestock, nor your stranger who is within your gates.
 * `Exo 20:11` For in six days the *_LORD_* made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore, the *_LORD_* blessed the sabbath-day and hallowed it.
@@ -1490,12 +1490,12 @@ _1 verse containing LOP_
 * `Exo 24:1` And he said to Moses, "Come up to the *_LORD_*—you, Aaron, Nadab, Abihu, and seventy of the elders of Israel—and worship afar off.
 * `Exo 24:2` And Moses alone shall come near the *_LORD_*, but they shall not come near, neither shall the people go up with him."
 * `Exo 24:3` And Moses came and told the people all the words of the *_LORD_* and all the judgments. And all the people answered with one voice and said, "All the words which the *_LORD_* has said we will perform."
-* `Exo 24:4` And Moses wrote all the words of the *_LORD_*, and rose early in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of Israel.
-* `Exo 24:5` And he sent young men of the children of Israel who offered burnt-offerings and sacrificed peace-offerings of oxen to the *_LORD_*.
+* `Exo 24:4` And Moses wrote all the words of the *_LORD_*. Then he rose early in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of Israel.
+* `Exo 24:5` Then he sent young men of the children of Israel, who offered burnt-offerings and sacrificed peace-offerings of oxen to the *_LORD_*.
 * `Exo 24:7` And he took the book of the covenant and read in the audience of the people. And they said, "All that the *_LORD_* has said we will do and be obedient."
 * `Exo 24:8` And Moses took the blood and sprinkled it on the people and said, "Behold, the blood of the covenant which the *_LORD_* has made with you concerning all these words."
 * `Exo 24:12` And the *_LORD_* said to Moses, "Come up to me on the mountain and be there, and I will give you tablets of stone with the law and the commandments which I have written so that you may teach them."
-* `Exo 24:16` And the glory of the *_LORD_* stayed upon mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses from the midst of the cloud.
+* `Exo 24:16` And the glory of the *_LORD_* stayed upon mount Sinai, and the cloud covered it for six days. And on the seventh day he called to Moses from the midst of the cloud.
 * `Exo 24:17` And the sight of the glory of the *_LORD_* was like devouring fire on the top of the mountain in the eyes of the children of Israel.
 * `Exo 25:1` And the *_LORD_* spoke to Moses, saying,
 * `Exo 27:21` In the Tabernacle of the Congregation outside the veil, which is before the testimony, Aaron and his sons shall order it from evening to morning before the *_LORD_*. It shall be a statute forever to their generations on behalf of the children of Israel."

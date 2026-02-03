@@ -396,7 +396,7 @@ _22 verses containing ROCKS_
 * `Exo 14:16` But lift your *_rod_* and stretch out your hand over the sea and divide it. And the children of Israel shall go on dry ground through the midst of the sea.
 * `Exo 17:5` And the LORD said to Moses, "Go on before the people and take with you some of the elders of Israel. And also take in your hand your *_rod_* with which you smote the river, and go.
 * `Exo 17:9` And Moses said to Joshua, "Choose for us men, and go out and fight with Amalek. Tomorrow I will stand on the top of the hill with the *_rod_* of God in my hand."
-* `Exo 21:20` "And if a man smites his man-servant or his woman-servant with a *_rod_* and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a man smites his man-servant or his woman-servant with a *_rod_*, and he dies under his hand, he shall surely be punished.
 * `Lev 27:32` And concerning the tithe of the herd or of the flock, even of whatever passes under the *_rod_*, the tenth shall be holy to the LORD.
 * `Num 17:2` "Speak to the children of Israel and take from each of them a *_rod_* according to the house of their fathers, from all their princes according to the house of their fathers, twelve rods. Write every man's name upon his *_rod_*.
 * `Num 17:3` And you shall write Aaron's name upon the *_rod_* of Levi, for one *_rod_* shall be for the head of the house of their fathers.
@@ -778,7 +778,7 @@ _13 verses containing ROPES_
 * `Gen 46:5` And Jacob *_rose_* up from Beer-sheba. And the sons of Israel carried Jacob their father, their little ones, and their wives in the wagons which Pharaoh had sent to carry him.
 * `Exo 12:30` And Pharaoh *_rose_* in the night—he, all his servants, and all the Egyptians—and there was a great cry in Egypt, for there was not a house where there was not someone dead.
 * `Exo 15:7` And in the greatness of your excellence you have overthrown those who *_rose_* up against you. You sent forth your wrath, which consumed them like stubble.
-* `Exo 24:4` And Moses wrote all the words of the LORD, and *_rose_* early in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of Israel.
+* `Exo 24:4` And Moses wrote all the words of the LORD. Then he *_rose_* early in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of Israel.
 * `Exo 24:13` And Moses *_rose_* up with his minister Joshua, and Moses went up upon the mountain of God.
 * `Exo 32:6` And they *_rose_* early on the next day and offered burnt-offerings and brought peace-offerings. And the people sat down to eat and to drink and *_rose_* up to play.
 * `Exo 33:8` And it came to pass when Moses went out to the tabernacle, that all the people *_rose_*, and each stood at his tent-door and watched Moses until he had gone into the tabernacle.

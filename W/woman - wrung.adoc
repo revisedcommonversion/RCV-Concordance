@@ -44,14 +44,14 @@
 * `Exo 20:10` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your *_woman_*-servant, your livestock, nor your stranger who is within your gates.
 * `Exo 20:17` "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, his man-servant, his *_woman_*-servant, his ox, his donkey, nor anything that is your neighbor's."
 * `Exo 21:7` "And if a man sells his daughter to be a *_woman_*-servant, she shall not depart as the men-servants do.
-* `Exo 21:20` "And if a man smites his man-servant or his *_woman_*-servant with a rod and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a man smites his man-servant or his *_woman_*-servant with a rod, and he dies under his hand, he shall surely be punished.
 * `Exo 21:22` "If men contend and hurt a *_woman_* with child so that her fruit departs from her, and yet no mischief follows, he shall surely be punished according as the *_woman_*'s husband will lay upon him. And he shall pay as the judges determine.
 * `Exo 21:26` "And if a man smites the eye of his man-servant or the eye of his *_woman_*-servant so that it perishes, he shall let him go free for his eye's sake.
 * `Exo 21:27` And if he smites out his man-servant's tooth or his *_woman_*-servant's tooth, he shall let him go free for his tooth's sake.
 * `Exo 21:28` "If an ox gores a man or a *_woman_* so that they die, then the ox shall surely be stoned and its flesh shall not be eaten, but the owner of the ox shall be acquitted.
 * `Exo 21:29` But if the ox was accustomed to push with its horn in time past, and it has been testified to its owner and he has not restrained it, and it has killed a man or a *_woman_*, the ox shall be stoned and its owner shall also be put to death.
-* `Exo 21:32` If the ox gores a man-servant or *_woman_*-servant, he shall give to their master thirty shekels of silver and the ox shall be stoned.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your *_woman_*-servant and the stranger may be refreshed.
+* `Exo 21:32` If the ox gores a man-servant or *_woman_*-servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your *_woman_*-servant and the stranger may be refreshed.
 * `Exo 35:29` The children of Israel brought a willing offering to the LORD, every man and *_woman_*, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
 * `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor *_woman_* make any more work for the offering of the sanctuary." So the people were restrained from bringing.
 * `Lev 12:2` "Speak to the children of Israel, saying, 'If a *_woman_* conceives and gives birth to a male child, then she shall be unclean seven days. According to the days of the separation for her infirmity she shall be unclean.
@@ -435,11 +435,11 @@ _420 verses containing WOMAN_
 * `Exo 20:10` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your *_woman-servant_*, your livestock, nor your stranger who is within your gates.
 * `Exo 20:17` "You shall not covet your neighbor's house. You shall not covet your neighbor's wife, his man-servant, his *_woman-servant_*, his ox, his donkey, nor anything that is your neighbor's."
 * `Exo 21:7` "And if a man sells his daughter to be a *_woman-servant_*, she shall not depart as the men-servants do.
-* `Exo 21:20` "And if a man smites his man-servant or his *_woman-servant_* with a rod and he dies under his hand, he shall surely be punished.
+* `Exo 21:20` "And if a man smites his man-servant or his *_woman-servant_* with a rod, and he dies under his hand, he shall surely be punished.
 * `Exo 21:26` "And if a man smites the eye of his man-servant or the eye of his *_woman-servant_* so that it perishes, he shall let him go free for his eye's sake.
 * `Exo 21:27` And if he smites out his man-servant's tooth or his *_woman-servant_*'s tooth, he shall let him go free for his tooth's sake.
-* `Exo 21:32` If the ox gores a man-servant or *_woman-servant_*, he shall give to their master thirty shekels of silver and the ox shall be stoned.
-* `Exo 23:12` "Six days you shall do your work and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your *_woman-servant_* and the stranger may be refreshed.
+* `Exo 21:32` If the ox gores a man-servant or *_woman-servant_*, he shall give to their master thirty shekels of silver, and the ox shall be stoned.
+* `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your *_woman-servant_* and the stranger may be refreshed.
 * `Lev 25:6` And the sabbath of the land shall be food for you—for you, for your man-servant, for your *_woman-servant_*, for your hired servant, for your stranger who sojourns with you,
 * `Deu 5:14` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your *_woman-servant_*, your ox, your donkey, any of your livestock, nor your stranger who is within your gates—so that your man-servant and your *_woman-servant_* may rest as well as you.
 * `Deu 5:21` 'You shall not desire your neighbor's wife, neither shall you covet your neighbor's house, his field, his man-servant, his *_woman-servant_*, his ox, his donkey, or anything that is your neighbor's.'
@@ -1890,7 +1890,7 @@ _680 verses containing WORD_
 * `Exo 20:1` And God spoke all these *_words_*, saying,
 * `Exo 23:8` "And you shall take no gift, for the gift blinds the wise and perverts the *_words_* of the righteous.
 * `Exo 24:3` And Moses came and told the people all the *_words_* of the LORD and all the judgments. And all the people answered with one voice and said, "All the *_words_* which the LORD has said we will perform."
-* `Exo 24:4` And Moses wrote all the *_words_* of the LORD, and rose early in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of Israel.
+* `Exo 24:4` And Moses wrote all the *_words_* of the LORD. Then he rose early in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of Israel.
 * `Exo 24:8` And Moses took the blood and sprinkled it on the people and said, "Behold, the blood of the covenant which the LORD has made with you concerning all these *_words_*."
 * `Exo 34:1` And the LORD said to Moses, "Hew two tablets of stone like the first, and I will write upon these tablets the *_words_* that were on the first tablets which you broke.
 * `Exo 34:27` And the LORD said to Moses, "Write these *_words_*. For after the tenor of these *_words_* I have made a covenant with you and with Israel."
@@ -2408,7 +2408,7 @@ _2 verses containing WORE_
 * `Exo 18:20` And you shall teach them ordinances and laws and show them the way in which they must walk and the *_work_* that they must do.
 * `Exo 20:9` Six days you shall labor and do all your *_work_*,
 * `Exo 20:10` But the seventh day is the sabbath of the LORD your God. In it you shall not do any *_work_*—you, your son, your daughter, your man-servant, your woman-servant, your livestock, nor your stranger who is within your gates.
-* `Exo 23:12` "Six days you shall do your *_work_* and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
+* `Exo 23:12` "Six days you shall do your *_work_*, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the stranger may be refreshed.
 * `Exo 24:10` And they saw the God of Israel, and there was under his feet something like a paved *_work_* of a sapphire-stone and like the body of heaven in its clearness.
 * `Exo 25:18` And you shall make two cherubim of gold, of beaten *_work_* you shall make them, at the two ends of the mercy-seat.
 * `Exo 25:31` "And you shall make a candlestick of pure gold. Of beaten *_work_* the candlestick shall be made. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the same.
@@ -5229,7 +5229,7 @@ _1 verse containing WRONGS_
 
 == WROTE
 
-* `Exo 24:4` And Moses *_wrote_* all the words of the LORD, and rose early in the morning and built an altar under the hill and twelve pillars according to the twelve tribes of Israel.
+* `Exo 24:4` And Moses *_wrote_* all the words of the LORD. Then he rose early in the morning and built an altar under the hill, along with twelve pillars according to the twelve tribes of Israel.
 * `Exo 34:28` And he was there with the LORD forty days and forty nights. He neither ate bread nor drank water. And he *_wrote_* upon the tablets the words of the covenant, the Ten Commandments.
 * `Exo 39:30` And they made the plate of the holy crown of pure gold, and *_wrote_* upon it a writing like the engravings of a signet, 'HOLINESS TO THE LORD.'
 * `Num 33:2` And Moses *_wrote_* their outgoings according to their journeys by the commandment of the LORD. And these are their journeys according to their outgoings.
