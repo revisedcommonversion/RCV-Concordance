@@ -2058,8 +2058,8 @@ _2 verses containing WILES_
 * `Exo 33:14` And [the LORD] said, "My presence shall go with you and I *_will_* give you rest."
 * `Exo 33:17` And the LORD said to Moses, "I *_will_* do this thing also that you have spoken, for you have found grace in my sight and I know you by name."
 * `Exo 33:19` And [the LORD] said, "I *_will_* make all my goodness pass before you, and I *_will_* proclaim the name of the LORD before you. I *_will_* be gracious to whom I *_will_* be gracious and *_will_* show mercy on whom I *_will_* show mercy."
-* `Exo 33:22` And it shall come to pass, while my glory passes by, that I *_will_* put you in a cleft of the rock and *_will_* cover you with my hand while I pass by.
-* `Exo 33:23` Then I *_will_* take away my hand and you shall see my back, but my face shall not be seen."
+* `Exo 33:22` And it shall come to pass while my glory passes by, that I *_will_* put you in a cleft of the rock and *_will_* cover you with my hand while I pass by.
+* `Exo 33:23` Then I *_will_* take away my hand, and you shall see my back, but my face shall not be seen."
 * `Exo 34:1` And the LORD said to Moses, "Hew two tablets of stone like the first, and I *_will_* write upon these tablets the words that were on the first tablets which you broke.
 * `Exo 34:7` Keeping mercy for thousands, forgiving iniquity and transgression and sin, and who *_will_* by no means clear the guilty, visiting the iniquity of the fathers upon the children and upon the children's children to the third and to the fourth generation."
 * `Exo 34:10` And he said, "Behold, I make a covenant. Before all your people I *_will_* do wonders such as have not been done in all the earth, nor in any nation. And all the people among which you are shall see the work of the LORD, for it is an awesome thing that I *_will_* do with you.
@@ -5206,7 +5206,7 @@ _1 verse containing WILLFULLY_
 * `Gen 24:5` And the servant said to him, "It may be that the woman will not be *_willing_* to follow me to this land. Must I bring your son back to the land from where you came?"
 * `Gen 24:8` And if the woman is not *_willing_* to follow you, then you shall be clear from this oath of mine. Only do not bring my son there again."
 * `Exo 35:5` 'Take from among you an offering to the LORD. Whoever is of a *_willing_* heart, let him bring it, an offering of the LORD: gold, silver, brass,
-* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made *_willing_*, and they brought the LORD'S offering to the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
+* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made *_willing_*, and they brought the LORD'S offering for the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
 * `Exo 35:22` And they came, both men and women, as many as were *_willing_*-hearted, and brought bracelets, earrings, rings, tablets, all jewels of gold. And every man who offered, offered an offering of gold to the LORD.
 * `Exo 35:29` The children of Israel brought a *_willing_* offering to the LORD, every man and woman, whose heart made them *_willing_* to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
 * `1Ch 28:9` "And you, Solomon my son, know the God of your father and serve him with a perfect heart and with a *_willing_* mind, for the LORD searches all hearts and understands all the imaginations of the thoughts. If you seek him, he will be found by you, but if you forsake him, he will cast you off forever.
@@ -5540,7 +5540,7 @@ _1 verse containing WINDY_
 * `Gen 27:37` And Isaac answered and said to Esau, "Behold, I have made him your lord, and all his brothers I have given to him for servants, and with grain and *_wine_* I have sustained him. And what shall I do now to you, my son?"
 * `Gen 49:11` Binding his foal to the vine and his donkey's colt to the choice vine, he washed his garments in *_wine_* and his clothes in the blood of grapes.
 * `Gen 49:12` His eyes shall be red with *_wine_* and his teeth white with milk.
-* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of *_wine_* for a drink-offering.
+* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of *_wine_* for a drink-offering.
 * `Lev 10:9` "Do not drink *_wine_* nor strong drink—you, nor your sons with you—when you go into the Tabernacle of the Congregation, lest you die. It shall be a statute forever throughout your generations,
 * `Lev 23:13` And the food-offering thereof shall be two tenth-parts of fine flour mingled with oil, an offering made by fire to the LORD for a sweet savor. And the drink-offering thereof shall be a fourth part of a hin of *_wine_*.
 * `Num 6:3` He shall separate himself from *_wine_* and strong drink and shall drink no vinegar of *_wine_* or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist or dried grapes.
@@ -6027,7 +6027,7 @@ _1 verse containing WIRES_
 * `Exo 31:6` And I, behold, I have given with him Aholiab the son of Ahisamach of the tribe of Dan. And in the hearts of all who are wise-hearted I have put *_wisdom_* so that they may make all that I have commanded you:
 * `Exo 35:26` And all the women whose heart moved them in *_wisdom_* spun goats' hair.
 * `Exo 35:31` And he has filled him with the Spirit of God, in *_wisdom_*, in understanding, in knowledge, in all manner of workmanship,
-* `Exo 35:35` He has filled them with *_wisdom_* of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any work, and of those who devise skillful work."
+* `Exo 35:35` He has filled them with *_wisdom_* of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any work and of those who devise skillful work."
 * `Exo 36:1` "Then Bezaleel, Aholiab, and every wise-hearted man, in whom the LORD put *_wisdom_* and understanding to know how to work all manner of work for the service of the sanctuary, shall do according to all that the LORD has commanded."
 * `Exo 36:2` And Moses called Bezaleel, Aholiab, and every wise-hearted man, in whose heart the LORD had put *_wisdom_*, even everyone whose heart excited him to come to the work to do it,
 * `Deu 4:6` Therefore, keep and do them, for this is your *_wisdom_* and your understanding in the sight of the nations which will hear all these statutes, and say, 'Surely this great nation is a wise and understanding people.'
@@ -6258,7 +6258,7 @@ _222 verses containing WISDOM_
 * `Exo 28:3` And you shall speak to all who are *_wise_* in heart, whom I have filled with the spirit of wisdom, so that they may make Aaron's garments to consecrate him so that he may minister to me in the priest's office.
 * `Exo 31:6` And I, behold, I have given with him Aholiab the son of Ahisamach of the tribe of Dan. And in the hearts of all who are *_wise_*-hearted I have put wisdom so that they may make all that I have commanded you:
 * `Exo 35:10` 'And every *_wise_*-hearted among you shall come and make all that the LORD has commanded:
-* `Exo 35:25` And all the women who were *_wise_*-hearted spun with their hands and brought that which they had spun, both of blue, of purple, of scarlet, and of fine linen.
+* `Exo 35:25` And all the women who were *_wise_*-hearted spun with their hands and brought that which they had spun: the blue, purple, scarlet, and fine linen.
 * `Exo 36:1` "Then Bezaleel, Aholiab, and every *_wise_*-hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, shall do according to all that the LORD has commanded."
 * `Exo 36:2` And Moses called Bezaleel, Aholiab, and every *_wise_*-hearted man, in whose heart the LORD had put wisdom, even everyone whose heart excited him to come to the work to do it,
 * `Exo 36:4` And all the *_wise_* men, who wrought all the work of the sanctuary, each came from his work which they made.
@@ -6462,7 +6462,7 @@ _206 verses containing WISE_
 
 * `Exo 31:6` And I, behold, I have given with him Aholiab the son of Ahisamach of the tribe of Dan. And in the hearts of all who are *_wise-hearted_* I have put wisdom so that they may make all that I have commanded you:
 * `Exo 35:10` 'And every *_wise-hearted_* among you shall come and make all that the LORD has commanded:
-* `Exo 35:25` And all the women who were *_wise-hearted_* spun with their hands and brought that which they had spun, both of blue, of purple, of scarlet, and of fine linen.
+* `Exo 35:25` And all the women who were *_wise-hearted_* spun with their hands and brought that which they had spun: the blue, purple, scarlet, and fine linen.
 * `Exo 36:1` "Then Bezaleel, Aholiab, and every *_wise-hearted_* man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, shall do according to all that the LORD has commanded."
 * `Exo 36:2` And Moses called Bezaleel, Aholiab, and every *_wise-hearted_* man, in whose heart the LORD had put wisdom, even everyone whose heart excited him to come to the work to do it,
 * `Exo 36:8` And every *_wise-hearted_* man among those who wrought the work of the tabernacle made ten curtains of fine twined linen, blue, purple, and scarlet. He made them with cherubim of skillful work.

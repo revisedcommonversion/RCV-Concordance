@@ -950,11 +950,11 @@ _1 verse containing ISPAH_
 * `Exo 32:20` And he took the calf which they had made, burnt it in the fire, ground it to powder, scattered it upon the water, and made the children of *_Israel_* drink it.
 * `Exo 32:27` And he said to them, "Thus says the LORD God of *_Israel_*: 'Every man put his sword by his side and go in and out from gate to gate throughout the camp, and each slay his brother, each his companion, and each his neighbor.'"
 * `Exo 33:5` For the LORD had said to Moses, "Say to the children of *_Israel_*, 'You are a stiff-necked people. I will come up into the midst of you in a moment and consume you. And now, take off your ornaments from you so that I may know what to do to you.'"
-* `Exo 33:6` And the children of *_Israel_* stripped themselves of their ornaments by the mount Horeb.
+* `Exo 33:6` And the children of *_Israel_* stripped themselves of their ornaments by mount Horeb.
 * `Exo 34:23` Three times in the year all your male children shall appear before the Lord GOD, the God of *_Israel_*.
 * `Exo 34:27` And the LORD said to Moses, "Write these words. For after the tenor of these words I have made a covenant with you and with *_Israel_*."
 * `Exo 34:30` And when Aaron and all the children of *_Israel_* saw Moses, behold, the skin of his face shone, and they were afraid to come near him.
-* `Exo 34:32` And afterward all the children of *_Israel_* came near, and he gave them in commandment all that the LORD had spoken with him on mount Sinai.
+* `Exo 34:32` And afterward, all the children of *_Israel_* came near, and he gave them in commandment all that the LORD had spoken with him on mount Sinai.
 * `Exo 34:34` But when Moses went in before the LORD to speak with him, he took the veil off until he came out. And he came out and spoke to the children of *_Israel_* that which he was commanded.
 * `Exo 34:35` And the children of *_Israel_* saw the face of Moses, that the skin of Moses's face shone. And Moses put the veil upon his face again until he went in to speak with him.
 * `Exo 35:1` And Moses assembled all the congregation of the children of *_Israel_* and said to them, "These are the words which the LORD has commanded, that you should do them.
@@ -3422,7 +3422,7 @@ _1 verse containing ITHRITES_
 * `Exo 28:26` And you shall make two rings of gold, and you shall put them upon the two ends of the breast-plate in *_its_* border, which is in the side of the ephod inward.
 * `Exo 28:27` And two other rings of gold you shall make and shall put them on the two sides of the ephod underneath, toward *_its_* forepart, over against the other coupling thereof, above the skillfully woven girdle of the ephod.
 * `Exo 28:28` And they shall bind the breast-plate by *_its_* rings to the rings of the ephod with a lace of blue so that it may be above the skillfully woven girdle of the ephod and that the breast-plate does not come loose from the ephod.
-* `Exo 28:32` And there shall be a hole in *_its_* top in the midst of it. It shall have a binding of woven work around *_its_* hole, as the hole of a habergeon, so that it is not rent.
+* `Exo 28:32` And there shall be a hole in *_its_* top in the midst of it. It shall have a binding of woven work around *_its_* hole, like the hole of a habergeon, so that it is not rent.
 * `Exo 28:33` And beneath, upon *_its_* hem you shall make pomegranates of blue, of purple, and of scarlet around *_its_* hem and bells of gold between them around it:
 * `Exo 30:2` A cubit shall be *_its_* length and a cubit *_its_* breadth. It shall be square and two cubits shall be *_its_* height. *_Its_* horns shall be of the same.
 * `Exo 30:3` And you shall overlay it with pure gold, *_its_* top and *_its_* sides all around and *_its_* horns, and you shall make for it a crown of gold all around.

@@ -35,8 +35,8 @@ _1 verse containing HABAZINIAH_
 
 == HABERGEON
 
-* `Exo 28:32` And there shall be a hole in its top in the midst of it. It shall have a binding of woven work around its hole, as the hole of a *_habergeon_*, so that it is not rent.
-* `Exo 39:23` And there was a hole in the midst of the robe, as the hole of a *_habergeon_*, with a band around the hole so that it should not rend.
+* `Exo 28:32` And there shall be a hole in its top in the midst of it. It shall have a binding of woven work around its hole, like the hole of a *_habergeon_*, so that it is not rent.
+* `Exo 39:23` And there was a hole in the midst of the robe, like the hole of a *_habergeon_*, with a band around the hole so that it should not rend.
 * `Job 41:26` The sword of him who attacks him cannot hold, nor the spear, the dart, or the *_habergeon_*.
 
 _3 verses containing HABERGEON_
@@ -619,10 +619,10 @@ _2 verses containing HALAK_
 * `Exo 25:17` "And you shall make a mercy-seat of pure gold. Two and a *_half_* cubits shall be its length and a cubit and a *_half_* its breadth.
 * `Exo 25:23` "You shall also make a table of shittim wood. Its length shall be two cubits, its breadth a cubit, and its height a cubit and a *_half_*.
 * `Exo 26:12` And the remnant that remains of the curtains of the tent, the *_half_* curtain that remains, shall hang over the back of the tabernacle.
-* `Exo 26:16` Ten cubits shall be the length of a board and a cubit and a *_half_* shall be the breadth of one board.
+* `Exo 26:16` Ten cubits shall be the length of a board and a cubit and a *_half_* shall be the breadth of each board.
 * `Exo 30:13` This they shall give, everyone who passes among those who are numbered: *_half_* a shekel after the shekel of the sanctuary (a shekel is twenty gerahs). A *_half_* shekel shall be the offering of the LORD.
 * `Exo 30:15` The rich shall not give more and the poor shall not give less than *_half_* a shekel when they give an offering to the LORD to make an atonement for your souls.
-* `Exo 30:23` "Take also for yourself principal spices: of pure myrrh five hundred shekels, of sweet cinnamon *_half_* as much, even two hundred and fifty shekels, of sweet calamus two hundred and fifty shekels,
+* `Exo 30:23` "Take also for yourself principal spices: of pure myrrh five hundred shekels, of sweet cinnamon *_half_* as much (even two hundred and fifty shekels), of sweet calamus two hundred and fifty shekels,
 * `Exo 36:21` The length of a board was ten cubits and the breadth of a board one cubit and a *_half_*.
 * `Exo 37:1` And Bezaleel made the ark of shittim wood. Two and a *_half_* cubits was its length, a cubit and a *_half_* its breadth, and a cubit and a *_half_* its height.
 * `Exo 37:6` And he made the mercy-seat of pure gold. Two and a *_half_* cubits was its length and one cubit and a *_half_* its breadth.
@@ -1337,8 +1337,8 @@ _28 verses containing HANANIAH_
 * `Exo 32:4` And he received them at their *_hand_* and fashioned it with an engraving tool and made it a molten calf. And they said, "These are your gods, O Israel, which brought you out of the land of Egypt."
 * `Exo 32:11` And Moses implored the LORD his God and said, "LORD, why does your wrath wax hot against your people which you have brought forth from the land of Egypt with great power and with a mighty *_hand_*?
 * `Exo 32:15` And Moses turned and went down from the mountain, and the two tablets of the testimony were in his *_hand_*. The tablets were written on both sides—on one side and on the other they were written.
-* `Exo 33:22` And it shall come to pass, while my glory passes by, that I will put you in a cleft of the rock and will cover you with my *_hand_* while I pass by.
-* `Exo 33:23` Then I will take away my *_hand_* and you shall see my back, but my face shall not be seen."
+* `Exo 33:22` And it shall come to pass while my glory passes by, that I will put you in a cleft of the rock and will cover you with my *_hand_* while I pass by.
+* `Exo 33:23` Then I will take away my *_hand_*, and you shall see my back, but my face shall not be seen."
 * `Exo 34:4` And he hewed two tablets of stone like the first. And Moses rose up early in the morning and went up to mount Sinai, as the LORD had commanded him, and took in his *_hand_* the two tablets of stone.
 * `Exo 34:29` And it came to pass when Moses came down from mount Sinai (with the two tablets of testimony in Moses's *_hand_*, when he came down from the mountain) that Moses did not know that the skin of his face shone while he talked with him.
 * `Exo 35:29` The children of Israel brought a willing offering to the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the *_hand_* of Moses.
@@ -2635,7 +2635,7 @@ _2 verses containing HANDLING_
 * `Exo 30:19` For Aaron and his sons shall wash their *_hands_* and their feet in it.
 * `Exo 30:21` Thus they shall wash their *_hands_* and their feet so that they do not die. And it shall be a statute forever to them, even to him and to his offspring throughout their generations."
 * `Exo 32:19` And it came to pass as soon as he came near the camp, that he saw the calf and the dancing. And Moses's anger waxed hot, and he cast the tablets from his *_hands_* and broke them beneath the mountain.
-* `Exo 35:25` And all the women who were wise-hearted spun with their *_hands_* and brought that which they had spun, both of blue, of purple, of scarlet, and of fine linen.
+* `Exo 35:25` And all the women who were wise-hearted spun with their *_hands_* and brought that which they had spun: the blue, purple, scarlet, and fine linen.
 * `Exo 40:31` And Moses and Aaron and his sons washed their *_hands_* and their feet in it.
 * `Lev 4:15` And the elders of the congregation shall lay their *_hands_* upon the head of the bull before the LORD, and the bull shall be killed before the LORD.
 * `Lev 7:30` His own *_hands_* shall bring the offerings of the LORD made by fire. The fat with the breast, those he shall bring so that the breast may be waved for a wave-offering before the LORD.

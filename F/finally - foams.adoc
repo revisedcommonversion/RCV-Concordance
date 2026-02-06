@@ -252,8 +252,8 @@ _37 verses containing FINDS_
 * `Exo 28:39` "And you shall embroider the coat of *_fine_* linen, you shall make the miter of *_fine_* linen, and you shall make the girdle of needle-work.
 * `Exo 35:6` Blue, purple, scarlet, *_fine_* linen, goats' hair,
 * `Exo 35:23` And every man, with whom was found blue, purple, scarlet, *_fine_* linen, goats' hair, red skins of rams, and badgers' skins, brought them.
-* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun, both of blue, of purple, of scarlet, and of *_fine_* linen.
-* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in purple, in scarlet, and in *_fine_* linen, and of the weaver, even of those who do any work, and of those who devise skillful work."
+* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun: the blue, purple, scarlet, and *_fine_* linen.
+* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in purple, in scarlet, and in *_fine_* linen, and of the weaver, even of those who do any work and of those who devise skillful work."
 * `Exo 36:8` And every wise-hearted man among those who wrought the work of the tabernacle made ten curtains of *_fine_* twined linen, blue, purple, and scarlet. He made them with cherubim of skillful work.
 * `Exo 36:35` And he made a veil of blue, purple, scarlet, and *_fine_* twined linen. With cherubim he made it of skillful work.
 * `Exo 36:37` And he made a hanging for the tabernacle door of blue, purple, scarlet, and *_fine_* twined linen, of needle-work,
@@ -263,7 +263,7 @@ _37 verses containing FINDS_
 * `Exo 38:23` And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, a skillful workman, and an embroiderer in blue, in purple, in scarlet, and *_fine_* linen.
 * `Exo 39:2` And he made the ephod of gold, blue, purple, scarlet, and *_fine_* twined linen.
 * `Exo 39:3` And they beat the gold into thin plates and cut it into wires to work it in the blue, in the purple, in the scarlet, and in the *_fine_* linen with skillful work.
-* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, purple, scarlet, and *_fine_* twined linen, as the LORD commanded Moses.
+* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, purple, scarlet, and *_fine_* twined linen, as the LORD commanded Moses.
 * `Exo 39:8` And he made the breast-plate of skillful work like the work of the ephod of gold, blue, purple, scarlet, and *_fine_* twined linen.
 * `Exo 39:27` And they made coats of *_fine_* linen of woven work for Aaron and for his sons,
 * `Exo 39:28` And a miter of *_fine_* linen, fancy caps of *_fine_* linen, linen breeches of *_fine_* twined linen,
@@ -574,9 +574,9 @@ _6 verses containing FIR-TREES_
 * `Exo 29:14` But the flesh of the bull, his skin, and his dung you shall burn with *_fire_* outside the camp. It is a sin-offering.
 * `Exo 29:18` And you shall burn the whole ram upon the altar. It is a burnt-offering to the LORD. It is a sweet savor, an offering made by *_fire_* to the LORD.
 * `Exo 29:25` And you shall receive them from their hands and burn them upon the altar for a burnt-offering for a sweet savor before the LORD. It is an offering made by *_fire_* to the LORD.
-* `Exo 29:34` And if anything of the flesh of the consecration, or of the bread, remains until the morning, then you shall burn the remainder with *_fire_*. It shall not be eaten because it is holy.
+* `Exo 29:34` And if anything of the flesh of the consecration or of the bread remains until the morning, then you shall burn the remainder with *_fire_*. It shall not be eaten because it is holy.
 * `Exo 29:41` And the other lamb you shall offer at evening, and shall do to it according to the food-offering of the morning and according to the drink-offering thereof for a sweet savor, an offering made by *_fire_* to the LORD.
-* `Exo 30:20` When they go into the Tabernacle of the Congregation, they shall wash with water so that they do not die, or when they come near to the altar to minister, to burn an offering made by *_fire_* to the LORD.
+* `Exo 30:20` When they go into the Tabernacle of the Congregation or when they come near to the altar to minister to burn an offering made by *_fire_* to the LORD, they shall wash with water so that they do not die.
 * `Exo 32:20` And he took the calf which they had made, burnt it in the *_fire_*, ground it to powder, scattered it upon the water, and made the children of Israel drink it.
 * `Exo 32:24` And I said to them, 'Whoever has any gold, let them break it off.' So they gave it to me. Then I cast it into the *_fire_*, and this calf came out."
 * `Exo 35:3` You shall kindle no *_fire_* throughout your habitations upon the sabbath-day.'"
@@ -1227,7 +1227,7 @@ _17 verses containing FIRMLY_
 * `Exo 34:4` And he hewed two tablets of stone like the *_first_*. And Moses rose up early in the morning and went up to mount Sinai, as the LORD had commanded him, and took in his hand the two tablets of stone.
 * `Exo 34:19` "Every *_first_*-born is mine, even every *_first_*-born among your livestock, whether ox or sheep, that is male.
 * `Exo 34:20` But the *_first_*-born of a donkey you shall redeem with a lamb. And if you will not redeem him, then you shall break his neck. All the *_first_*-born of your sons you shall redeem. And no one shall appear before me empty.
-* `Exo 34:22` And you shall observe the feast of weeks, of the *_first_*-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
+* `Exo 34:22` And you shall observe the feast of weeks with the *_first_*-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
 * `Exo 34:26` "The *_first_* of the *_first_*-fruits of your land you shall bring to the house of the LORD your God. You shall not boil a kid in his mother's milk."
 * `Exo 39:10` And they set in it four rows of stones: the *_first_* row was a sardius, a topaz, and a carbuncle (this was the *_first_* row);
 * `Exo 40:2` "On the *_first_* day of the *_first_* month you shall set up the tabernacle of the tent of the congregation.
@@ -1854,7 +1854,7 @@ _1 verse containing FIRST-FRUIT_
 
 * `Exo 23:16` And the feast of harvest, the *_first-fruits_* of your labors, which you have sown in the field; and the feast of in-gathering, which is at the end of the year, when you have gathered in your labors out of the field.
 * `Exo 23:19` "The first of the *_first-fruits_* of your land you shall bring into the house of the LORD your God. You shall not boil a kid in his mother's milk.
-* `Exo 34:22` And you shall observe the feast of weeks, of the *_first-fruits_* of wheat-harvest, and the feast of in-gathering at the year's end.
+* `Exo 34:22` And you shall observe the feast of weeks with the *_first-fruits_* of wheat-harvest, and the feast of in-gathering at the year's end.
 * `Exo 34:26` "The first of the *_first-fruits_* of your land you shall bring to the house of the LORD your God. You shall not boil a kid in his mother's milk."
 * `Lev 2:12` As for the oblation of the *_first-fruits_*, you shall offer them to the LORD, but they shall not be burnt on the altar for a sweet savor.
 * `Lev 2:14` 'And if you offer a food-offering of your *_first-fruits_* to the LORD, you shall offer for the food-offering of your *_first-fruits_* green heads of grain dried by the fire, even grain beaten out of full heads.
@@ -2100,8 +2100,8 @@ _9 verses containing FITTING_
 * `Exo 26:37` And you shall make for the hanging *_five_* pillars of shittim wood and overlay them with gold, and their hooks shall be of gold. And you shall cast *_five_* sockets of brass for them."
 * `Exo 27:1` "And you shall make an altar of shittim wood *_five_* cubits long and *_five_* cubits broad. The altar shall be square, and its height shall be three cubits.
 * `Exo 27:18` The length of the court shall be one hundred cubits, the breadth fifty everywhere, and the height *_five_* cubits of fine twined linen, and their sockets of brass.
-* `Exo 30:23` "Take also for yourself principal spices: of pure myrrh *_five_* hundred shekels, of sweet cinnamon half as much, even two hundred and fifty shekels, of sweet calamus two hundred and fifty shekels,
-* `Exo 30:24` Of cassia *_five_* hundred shekels, after the shekel of the sanctuary, and of olive-oil a hin.
+* `Exo 30:23` "Take also for yourself principal spices: of pure myrrh *_five_* hundred shekels, of sweet cinnamon half as much (even two hundred and fifty shekels), of sweet calamus two hundred and fifty shekels,
+* `Exo 30:24` Of cassia *_five_* hundred shekels (after the shekel of the sanctuary), and of olive-oil a hin.
 * `Exo 36:10` And he coupled the *_five_* curtains to one another and the other *_five_* curtains he coupled to one another.
 * `Exo 36:16` And he coupled *_five_* curtains by themselves and six curtains by themselves.
 * `Exo 36:31` And he made bars of shittim wood: *_five_* for the boards of one side of the tabernacle,
@@ -2109,7 +2109,7 @@ _9 verses containing FITTING_
 * `Exo 36:38` And its *_five_* pillars with their hooks. And he overlaid their capitals and their fillets with gold, but their *_five_* sockets were of brass.
 * `Exo 38:1` And he made the altar of burnt-offering of shittim wood. *_Five_* cubits was its length and *_five_* cubits its breadth. It was square and its height was three cubits.
 * `Exo 38:18` And the hanging for the gate of the court was needle-work of blue, purple, scarlet, and fine twined linen. And twenty cubits was the length, and the height in the breadth was *_five_* cubits, corresponding to the hangings of the court.
-* `Exo 38:25` And the silver of those who were numbered of the congregation was one hundred talents and one thousand seven hundred and seventy-*_five_* shekels, after the shekel of the sanctuary,
+* `Exo 38:25` And the silver of those who were numbered of the congregation was one hundred talents and one thousand seven hundred and seventy-*_five_* shekels, after the shekel of the sanctuary—
 * `Exo 38:26` A bekah for every man (that is, half a shekel, after the shekel of the sanctuary), for everyone who went to be numbered, from twenty years old and upward, for six hundred and three thousand *_five_* hundred and fifty men.
 * `Exo 38:28` And from the one thousand seven hundred and seventy-*_five_* shekels he made hooks for the pillars, overlaid their capitals, and filleted them.
 * `Lev 26:8` And *_five_* of you shall chase one hundred, and one hundred of you shall put ten thousand to flight. And your enemies shall fall before you by the sword.
@@ -2866,7 +2866,7 @@ _10 verses containing FLEES_
 * `Exo 29:14` But the *_flesh_* of the bull, his skin, and his dung you shall burn with fire outside the camp. It is a sin-offering.
 * `Exo 29:31` "And you shall take the ram of the consecration and boil his *_flesh_* in the holy place.
 * `Exo 29:32` And Aaron and his sons shall eat the *_flesh_* of the ram and the bread that is in the basket by the door of the Tabernacle of the Congregation.
-* `Exo 29:34` And if anything of the *_flesh_* of the consecration, or of the bread, remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
+* `Exo 29:34` And if anything of the *_flesh_* of the consecration or of the bread remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
 * `Exo 30:32` Upon man's *_flesh_* it shall not be poured, neither shall you make any other like it after its composition. It is holy and it shall be holy to you.
 * `Exo 38:3` And he made all the vessels of the altar: the pots, the shovels, the basins, the *_flesh_*-hooks, and the fire-pans. All its vessels he made of brass.
 * `Lev 4:11` And the skin of the bull and all its *_flesh_*, with its head, its legs, its inwards, and its dung,
@@ -3157,7 +3157,7 @@ _10 verses containing FLEES_
 * `Gal 5:24` And those who are Christ's have crucified the *_flesh_* with the affections and lusts.
 * `Gal 6:8` For he who sows to his *_flesh_* shall reap corruption from the *_flesh_*, but he who sows to the Spirit shall reap life everlasting from the Spirit.
 * `Gal 6:12` As many as desire to make a fair show in the *_flesh_*, they constrain you to be circumcised—only lest they should suffer persecution for the cross of Christ.
-* `Gal 6:13` For neither they themselves who are circumcised keep the law, but desire to have you circumcised so that they may glory in your *_flesh_*.
+* `Gal 6:13` For even they who are circumcised do not keep the law themselves, but desire to have you circumcised so that they may glory in your *_flesh_*.
 * `Eph 2:3` Among whom also we all had our manner of life in times past in the lusts of our *_flesh_*, fulfilling the desires of the *_flesh_* and of the mind and were by nature the children of wrath, even as others.
 * `Eph 2:11` Therefore, remember, that you, being in time past Gentiles in the *_flesh_*, who are called Uncircumcision by that which is called the Circumcision (made in the *_flesh_* by hands),
 * `Eph 2:15` Having abolished in his *_flesh_* the enmity, even the law of commandments contained in ordinances, to make in himself one new man of the two, so making peace,
@@ -3619,7 +3619,7 @@ _3 verses containing FLOORS_
 == FLOUR
 
 * `Exo 29:2` And also unleavened bread, unleavened cakes tempered with oil, and unleavened wafers anointed with oil. Of wheat *_flour_* you shall make them.
-* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of *_flour_* mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-offering.
+* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of *_flour_* mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 * `Lev 2:1` "'And when anyone will offer a food-offering to the LORD, his offering shall be of fine *_flour_*. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:2` And he shall bring it to Aaron's sons the priests. And he shall take from it his handful of *_flour_* and oil, with all its frankincense, and the priest shall burn its memorial upon the altar to be an offering made by fire, a sweet savor to the LORD.
 * `Lev 2:4` 'And if you bring an oblation of a food-offering baked in the oven, it shall be unleavened cakes of fine *_flour_* mingled with oil, or unleavened wafers anointed with oil.

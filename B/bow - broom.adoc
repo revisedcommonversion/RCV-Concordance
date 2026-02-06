@@ -714,7 +714,7 @@ _1 verse containing BRAYED_
 * `Exo 35:16` The altar of burnt-offering with its *_brazen_* grate, its staffs, and all its vessels; the basin and its foot;
 * `Exo 38:4` And he made for the altar a *_brazen_* grate of net-work under its ledge around it beneath, up to the middle of it.
 * `Exo 38:10` Their pillars were twenty and their *_brazen_* sockets twenty. The hooks of the pillars and their fillets were of silver.
-* `Exo 38:30` And with this he made the sockets to the door of the Tabernacle of the Congregation, the *_brazen_* altar, the *_brazen_* grate for it, all the vessels of the altar,
+* `Exo 38:30` And with this he made the sockets for the door of the Tabernacle of the Congregation, the *_brazen_* altar, the *_brazen_* grate for it, all the vessels of the altar,
 * `Exo 39:39` The *_brazen_* altar, its grate of brass, its staffs, and all its vessels; the basin and its foot;
 * `Lev 6:28` But the earthen vessel in which it is boiled shall be broken. And if it is boiled in a *_brazen_* pot, it shall be both scoured and rinsed in water.
 * `Num 16:39` And Eleazar the priest took the *_brazen_* censers, with which those who were burnt had offered, and they were made broad plates for a covering of the altar
@@ -835,9 +835,9 @@ _13 verses containing BREACHES_
 * `Exo 29:2` And also unleavened *_bread_*, unleavened cakes tempered with oil, and unleavened wafers anointed with oil. Of wheat flour you shall make them.
 * `Exo 29:23` One loaf of *_bread_*, one cake of oiled *_bread_*, and one wafer out of the basket of the unleavened *_bread_* that is before the LORD.
 * `Exo 29:32` And Aaron and his sons shall eat the flesh of the ram and the *_bread_* that is in the basket by the door of the Tabernacle of the Congregation.
-* `Exo 29:34` And if anything of the flesh of the consecration, or of the *_bread_*, remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
+* `Exo 29:34` And if anything of the flesh of the consecration or of the *_bread_* remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
 * `Exo 34:18` "The feast of unleavened *_bread_* you shall keep. Seven days you shall eat unleavened *_bread_*, as I commanded you, in the time of the month Abib, for in the month Abib you came out from Egypt.
-* `Exo 34:28` And he was there with the LORD forty days and forty nights. He neither ate *_bread_* nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
+* `Exo 34:28` And he was there with the LORD for forty days and forty nights. He neither ate *_bread_* nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
 * `Exo 35:13` The table and its staffs, all its vessels, and the show-*_bread_*;
 * `Exo 39:36` The table, all its vessels, and the show-*_bread_*;
 * `Exo 40:23` And he set the *_bread_* in order upon it before the LORD, as the LORD had commanded Moses.
@@ -1154,7 +1154,7 @@ _1 verse containing BREAD-GRAIN_
 * `Exo 25:25` And you shall make for it a border of a hand-*_breadth_* around it, and you shall make a golden crown for its border around it.
 * `Exo 26:2` The length of one curtain shall be twenty-eight cubits and the *_breadth_* of one curtain four cubits, and each of the curtains shall have one measure.
 * `Exo 26:8` The length of one curtain shall be thirty cubits and the *_breadth_* of one curtain four cubits, and the eleven curtains shall be all of one measure.
-* `Exo 26:16` Ten cubits shall be the length of a board and a cubit and a half shall be the *_breadth_* of one board.
+* `Exo 26:16` Ten cubits shall be the length of a board and a cubit and a half shall be the *_breadth_* of each board.
 * `Exo 27:12` And for the *_breadth_* of the court on the west side shall be hangings of fifty cubits with their ten pillars and their ten sockets.
 * `Exo 27:13` And the *_breadth_* of the court on the east side eastward shall be fifty cubits.
 * `Exo 27:18` The length of the court shall be one hundred cubits, the *_breadth_* fifty everywhere, and the height five cubits of fine twined linen, and their sockets of brass.
@@ -2621,7 +2621,7 @@ _719 verses containing BRING_
 == BRINGING
 
 * `Exo 12:42` It is a night to be much observed to the LORD for *_bringing_* them out from the land of Egypt. This is that night of the LORD to be observed by all the children of Israel in their generations.
-* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from *_bringing_*.
+* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from *_bringing_*,
 * `Num 5:15` Then the man shall bring his wife to the priest and bring her offering for her, the tenth part of an ephah of barley-meal. He shall pour no oil upon it, nor put frankincense upon it, for it is an offering of jealousy, an offering of memorial, *_bringing_* iniquity to remembrance.
 * `Num 14:36` And the men whom Moses sent to search the land, who returned and made all the congregation to murmur against him by *_bringing_* a slander upon the land,
 * `2Sa 19:10` And Absalom, whom we anointed over us, is dead in battle. Now therefore, why do you not speak a word of *_bringing_* the king back?"

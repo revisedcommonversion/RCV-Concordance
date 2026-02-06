@@ -491,7 +491,7 @@ _1 verse containing PURCHASES_
 * `Exo 28:22` And you shall make upon the breast-plate chains at the ends of wreathed work of *_pure_* gold.
 * `Exo 28:36` "And you shall make a plate of *_pure_* gold and engrave upon it, like the engravings of a signet, 'HOLINESS TO THE LORD.'
 * `Exo 30:3` And you shall overlay it with *_pure_* gold, its top and its sides all around and its horns, and you shall make for it a crown of gold all around.
-* `Exo 30:23` "Take also for yourself principal spices: of *_pure_* myrrh five hundred shekels, of sweet cinnamon half as much, even two hundred and fifty shekels, of sweet calamus two hundred and fifty shekels,
+* `Exo 30:23` "Take also for yourself principal spices: of *_pure_* myrrh five hundred shekels, of sweet cinnamon half as much (even two hundred and fifty shekels), of sweet calamus two hundred and fifty shekels,
 * `Exo 30:34` And the LORD said to Moses, "Take for yourself sweet spices: stacte, onycha, and galbanum, these sweet spices with *_pure_* frankincense (of each there shall be a similar weight).
 * `Exo 30:35` And you shall make it a perfume, a confection after the art of the perfumer, tempered together, *_pure_* and holy.
 * `Exo 31:8` The table and its vessels, the *_pure_* candlestick with all its vessels, the altar of incense,
@@ -739,8 +739,8 @@ _2 verses containing PURITY_
 * `Exo 28:33` And beneath, upon its hem you shall make pomegranates of blue, of *_purple_*, and of scarlet around its hem and bells of gold between them around it:
 * `Exo 35:6` Blue, *_purple_*, scarlet, fine linen, goats' hair,
 * `Exo 35:23` And every man, with whom was found blue, *_purple_*, scarlet, fine linen, goats' hair, red skins of rams, and badgers' skins, brought them.
-* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun, both of blue, of *_purple_*, of scarlet, and of fine linen.
-* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in *_purple_*, in scarlet, and in fine linen, and of the weaver, even of those who do any work, and of those who devise skillful work."
+* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun: the blue, *_purple_*, scarlet, and fine linen.
+* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in *_purple_*, in scarlet, and in fine linen, and of the weaver, even of those who do any work and of those who devise skillful work."
 * `Exo 36:8` And every wise-hearted man among those who wrought the work of the tabernacle made ten curtains of fine twined linen, blue, *_purple_*, and scarlet. He made them with cherubim of skillful work.
 * `Exo 36:35` And he made a veil of blue, *_purple_*, scarlet, and fine twined linen. With cherubim he made it of skillful work.
 * `Exo 36:37` And he made a hanging for the tabernacle door of blue, *_purple_*, scarlet, and fine twined linen, of needle-work,
@@ -749,7 +749,7 @@ _2 verses containing PURITY_
 * `Exo 39:1` And from the blue, *_purple_*, and scarlet, they made clothes of service, to do service in the holy place, and made the holy garments for Aaron, as the LORD commanded Moses.
 * `Exo 39:2` And he made the ephod of gold, blue, *_purple_*, scarlet, and fine twined linen.
 * `Exo 39:3` And they beat the gold into thin plates and cut it into wires to work it in the blue, in the *_purple_*, in the scarlet, and in the fine linen with skillful work.
-* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, *_purple_*, scarlet, and fine twined linen, as the LORD commanded Moses.
+* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, *_purple_*, scarlet, and fine twined linen, as the LORD commanded Moses.
 * `Exo 39:8` And he made the breast-plate of skillful work like the work of the ephod of gold, blue, *_purple_*, scarlet, and fine twined linen.
 * `Exo 39:24` And they made upon the hems of the robe pomegranates of blue, *_purple_*, scarlet, and twined linen.
 * `Exo 39:29` And a girdle of fine twined linen and blue, *_purple_*, and scarlet, of needle-work, as the LORD commanded Moses.
@@ -1121,7 +1121,7 @@ _1 verse containing PUSHES_
 * `Exo 29:19` "And you shall take the other ram, and Aaron and his sons shall *_put_* their hands upon the head of the ram.
 * `Exo 29:20` Then you shall kill the ram and take some of his blood and *_put_* it upon the tip of the right ear of Aaron, upon the tip of the right ear of his sons, upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood around upon the altar.
 * `Exo 29:24` And you shall *_put_* all in the hands of Aaron and in the hands of his sons, and shall wave them for a wave-offering before the LORD.
-* `Exo 29:30` And that son, who is priest in his stead, shall *_put_* them on seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
+* `Exo 29:30` And that son, who is priest in his stead, shall *_put_* them on for seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
 * `Exo 30:6` And you shall *_put_* it before the veil that is by the ark of the testimony, before the mercy-seat that is over the testimony, where I will meet with you.
 * `Exo 30:18` "You shall also make a basin of brass, and its foot also of brass, to wash in. And you shall *_put_* it between the Tabernacle of the Congregation and the altar, and you shall *_put_* water therein.
 * `Exo 30:36` And you shall beat some of it very small and *_put_* some of it before the testimony in the Tabernacle of the Congregation where I will meet with you. It shall be to you most holy.
@@ -1130,7 +1130,7 @@ _1 verse containing PUSHES_
 * `Exo 31:15` Six days work may be done, but on the seventh is the sabbath of rest, holy to the LORD. Whoever does any work on the sabbath-day, he shall surely be *_put_* to death.
 * `Exo 32:27` And he said to them, "Thus says the LORD God of Israel: 'Every man *_put_* his sword by his side and go in and out from gate to gate throughout the camp, and each slay his brother, each his companion, and each his neighbor.'"
 * `Exo 33:4` And when the people heard these evil tidings, they mourned, and no man *_put_* on his ornaments.
-* `Exo 33:22` And it shall come to pass, while my glory passes by, that I will *_put_* you in a cleft of the rock and will cover you with my hand while I pass by.
+* `Exo 33:22` And it shall come to pass while my glory passes by, that I will *_put_* you in a cleft of the rock and will cover you with my hand while I pass by.
 * `Exo 34:33` And until Moses had finished speaking with them, he *_put_* a veil on his face.
 * `Exo 34:35` And the children of Israel saw the face of Moses, that the skin of Moses's face shone. And Moses *_put_* the veil upon his face again until he went in to speak with him.
 * `Exo 35:2` 'Six days work shall be done, but on the seventh day there shall be to you a holy day, a sabbath of rest to the LORD. Whoever does work therein shall be *_put_* to death.

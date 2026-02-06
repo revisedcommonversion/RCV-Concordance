@@ -483,7 +483,7 @@ _1 verse containing OBSERVATION_
 * `Exo 12:24` "And you shall *_observe_* this thing for an ordinance to you and to your sons forever.
 * `Exo 31:16` Therefore, the children of Israel shall keep the sabbath to *_observe_* the sabbath throughout their generations for a perpetual covenant.
 * `Exo 34:11` "*_Observe_* that which I command you this day. Behold, I drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
-* `Exo 34:22` And you shall *_observe_* the feast of weeks, of the first-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
+* `Exo 34:22` And you shall *_observe_* the feast of weeks with the first-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
 * `Lev 19:26` 'You shall not eat anything with the blood. You shall not use enchantment, nor *_observe_* times.
 * `Lev 19:37` Therefore, you shall *_observe_* all my statutes and all my judgments and do them. I am the LORD.'"
 * `Num 28:2` "Command the children of Israel and say to them, 'My offering and my bread for my sacrifices made by fire for a sweet savor to me, you shall *_observe_* to offer to me in their due season.'
@@ -1346,8 +1346,8 @@ _7 verses containing OFFENSIVE_
 * `Exo 23:18` "You shall not *_offer_* the blood of my sacrifice with leavened bread, neither shall the fat of my sacrifice remain until the morning.
 * `Exo 29:36` And you shall *_offer_* every day a bull for a sin-offering for atonement. And you shall cleanse the altar when you have made an atonement for it and you shall anoint it to sanctify it.
 * `Exo 29:38` "Now this is that which you shall *_offer_* upon the altar: two lambs of the first year, day by day continually.
-* `Exo 29:39` One lamb you shall *_offer_* in the morning and the other lamb you shall *_offer_* at evening.
-* `Exo 29:40` And with one lamb [you shall *_offer_*] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-offering.
+* `Exo 29:39` One lamb you shall *_offer_* in the morning, and the other lamb you shall *_offer_* at evening.
+* `Exo 29:40` And with one lamb [you shall *_offer_*] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 * `Exo 29:41` And the other lamb you shall *_offer_* at evening, and shall do to it according to the food-offering of the morning and according to the drink-offering thereof for a sweet savor, an offering made by fire to the LORD.
 * `Exo 30:9` You shall *_offer_* no strange incense upon it, nor burnt-sacrifice, nor food-offering, neither shall you pour drink-offering upon it.
 * `Exo 34:25` "You shall not *_offer_* the blood of my sacrifice with leaven, neither shall the sacrifice of the feast of the passover be left until the morning.
@@ -1727,7 +1727,7 @@ _146 verses containing OFFERED_
 * `Exo 29:27` And you shall sanctify the breast of the wave-*_offering_* and the shoulder of the heave-*_offering_*, which is waved and which is heaved up from the ram of the consecration, even from that which is for Aaron and from that which is for his sons.
 * `Exo 29:28` And it shall be Aaron's and his sons' by a statute forever from the children of Israel, for it is a heave-*_offering_*. And it shall be a heave-*_offering_* from the children of Israel from the sacrifice of their peace-offerings, even their heave-*_offering_* to the LORD.
 * `Exo 29:36` And you shall offer every day a bull for a sin-*_offering_* for atonement. And you shall cleanse the altar when you have made an atonement for it and you shall anoint it to sanctify it.
-* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-*_offering_*.
+* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-*_offering_*.
 * `Exo 29:41` And the other lamb you shall offer at evening, and shall do to it according to the food-*_offering_* of the morning and according to the drink-*_offering_* thereof for a sweet savor, an *_offering_* made by fire to the LORD.
 * `Exo 29:42` This shall be a continual burnt-*_offering_* throughout your generations at the door of the Tabernacle of the Congregation before the LORD, where I will meet you to speak there to you.
 * `Exo 30:9` You shall offer no strange incense upon it, nor burnt-sacrifice, nor food-*_offering_*, neither shall you pour drink-*_offering_* upon it.
@@ -1735,17 +1735,17 @@ _146 verses containing OFFERED_
 * `Exo 30:13` This they shall give, everyone who passes among those who are numbered: half a shekel after the shekel of the sanctuary (a shekel is twenty gerahs). A half shekel shall be the *_offering_* of the LORD.
 * `Exo 30:14` Everyone who passes among those who are numbered from twenty years old and above shall give an *_offering_* to the LORD.
 * `Exo 30:15` The rich shall not give more and the poor shall not give less than half a shekel when they give an *_offering_* to the LORD to make an atonement for your souls.
-* `Exo 30:20` When they go into the Tabernacle of the Congregation, they shall wash with water so that they do not die, or when they come near to the altar to minister, to burn an *_offering_* made by fire to the LORD.
+* `Exo 30:20` When they go into the Tabernacle of the Congregation or when they come near to the altar to minister to burn an *_offering_* made by fire to the LORD, they shall wash with water so that they do not die.
 * `Exo 30:28` The altar of burnt-*_offering_* with all its vessels, and the basin and its foot.
 * `Exo 31:9` The altar of burnt-*_offering_* with all its vessels, the basin and its foot,
 * `Exo 35:5` 'Take from among you an *_offering_* to the LORD. Whoever is of a willing heart, let him bring it, an *_offering_* of the LORD: gold, silver, brass,
 * `Exo 35:16` The altar of burnt-*_offering_* with its brazen grate, its staffs, and all its vessels; the basin and its foot;
-* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the LORD'S *_offering_* to the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
+* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the LORD'S *_offering_* for the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
 * `Exo 35:22` And they came, both men and women, as many as were willing-hearted, and brought bracelets, earrings, rings, tablets, all jewels of gold. And every man who offered, offered an *_offering_* of gold to the LORD.
 * `Exo 35:24` Everyone who offered an *_offering_* of silver and brass brought the LORD'S *_offering_*. And every man with whom was found shittim wood for any work of the service brought it.
 * `Exo 35:29` The children of Israel brought a willing *_offering_* to the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
 * `Exo 36:3` And they received from Moses all the *_offering_* which the children of Israel had brought for the work of the service of the sanctuary to make it. And they still brought to him voluntary-offerings every morning.
-* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the *_offering_* of the sanctuary." So the people were restrained from bringing.
+* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the *_offering_* of the sanctuary." So the people were restrained from bringing,
 * `Exo 38:1` And he made the altar of burnt-*_offering_* of shittim wood. Five cubits was its length and five cubits its breadth. It was square and its height was three cubits.
 * `Exo 38:24` All the gold that was occupied for the work in all the work of the holy place, even the gold of the *_offering_*, was twenty-nine talents and seven hundred and thirty shekels, after the shekel of the sanctuary.
 * `Exo 38:29` And the brass of the *_offering_* was seventy talents and two thousand and four hundred shekels.
@@ -2886,8 +2886,8 @@ _1 verse containing OHEL_
 * `Exo 29:2` And also unleavened bread, unleavened cakes tempered with *_oil_*, and unleavened wafers anointed with *_oil_*. Of wheat flour you shall make them.
 * `Exo 29:7` Then you shall take the anointing *_oil_* and pour it upon his head and anoint him.
 * `Exo 29:21` And you shall take some of the blood that is upon the altar and some of the anointing *_oil_* and sprinkle it upon Aaron, upon his garments, upon his sons, and upon the garments of his sons with him. And he and his garments shall be hallowed, along with his sons and his sons' garments.
-* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten *_oil_* and the fourth part of a hin of wine for a drink-offering.
-* `Exo 30:24` Of cassia five hundred shekels, after the shekel of the sanctuary, and of olive-*_oil_* a hin.
+* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten *_oil_*, and the fourth part of a hin of wine for a drink-offering.
+* `Exo 30:24` Of cassia five hundred shekels (after the shekel of the sanctuary), and of olive-*_oil_* a hin.
 * `Exo 30:25` And you shall make it an *_oil_* of holy ointment, an ointment compound after the art of the perfumer. It shall be a holy anointing *_oil_*.
 * `Exo 30:31` And you shall speak to the children of Israel, saying, 'This shall be a holy anointing *_oil_* to me throughout your generations.
 * `Exo 31:11` And the anointing *_oil_* and sweet incense for the holy place. According to all that I have commanded you, they shall do."
@@ -3486,7 +3486,7 @@ _1 verse containing OLDNESS_
 * `Gen 8:11` And the dove returned to him in the evening, and behold, in her mouth was an *_olive_*-leaf plucked off. So Noah knew that the waters were abated from off the earth.
 * `Exo 23:11` But the seventh year you shall let it rest and lie still so that the poor of your people may eat. And what they leave, the beasts of the field shall eat. In like manner you shall deal with your vineyard and with your *_olive_*-grove.
 * `Exo 27:20` "And you shall command the children of Israel that they bring the pure *_olive_*-oil beaten for the light to cause the lamp to always burn.
-* `Exo 30:24` Of cassia five hundred shekels, after the shekel of the sanctuary, and of *_olive_*-oil a hin.
+* `Exo 30:24` Of cassia five hundred shekels (after the shekel of the sanctuary), and of *_olive_*-oil a hin.
 * `Lev 24:2` "Command the children of Israel that they bring to you pure *_olive_* oil beaten for the light to cause the lamps to burn continually.
 * `Deu 6:11` And houses full of all good things which you did not fill, and wells dug which you did not dig, vineyards and *_olive_*-trees which you did not plant, when you have eaten and are full,
 * `Deu 8:8` A land of wheat, barley, vines, fig-trees, and pomegranates; a land of *_olive_*-oil and honey;
@@ -3557,7 +3557,7 @@ _1 verse containing OLIVE-LEAF_
 == OLIVE-OIL
 
 * `Exo 27:20` "And you shall command the children of Israel that they bring the pure *_olive-oil_* beaten for the light to cause the lamp to always burn.
-* `Exo 30:24` Of cassia five hundred shekels, after the shekel of the sanctuary, and of *_olive-oil_* a hin.
+* `Exo 30:24` Of cassia five hundred shekels (after the shekel of the sanctuary), and of *_olive-oil_* a hin.
 * `Deu 8:8` A land of wheat, barley, vines, fig-trees, and pomegranates; a land of *_olive-oil_* and honey;
 * `2Ki 18:32` Until I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards, a land of *_olive-oil_* and of honey, so that you may live and not die." And do not listen to Hezekiah when he persuades you, saying, "The LORD will deliver us."
 

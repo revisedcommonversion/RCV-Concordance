@@ -1173,7 +1173,7 @@ _5 verses containing CRYSTAL_
 * `Exo 25:17` "And you shall make a mercy-seat of pure gold. Two and a half cubits shall be its length and a *_cubit_* and a half its breadth.
 * `Exo 25:23` "You shall also make a table of shittim wood. Its length shall be two cubits, its breadth a *_cubit_*, and its height a *_cubit_* and a half.
 * `Exo 26:13` And a *_cubit_* on one side and a *_cubit_* on the other side of that which remains in the length of the curtains of the tent shall hang over the sides of the tabernacle on this side and on that side to cover it.
-* `Exo 26:16` Ten cubits shall be the length of a board and a *_cubit_* and a half shall be the breadth of one board.
+* `Exo 26:16` Ten cubits shall be the length of a board and a *_cubit_* and a half shall be the breadth of each board.
 * `Exo 30:2` A *_cubit_* shall be its length and a *_cubit_* its breadth. It shall be square and two cubits shall be its height. Its horns shall be of the same.
 * `Exo 36:21` The length of a board was ten cubits and the breadth of a board one *_cubit_* and a half.
 * `Exo 37:1` And Bezaleel made the ark of shittim wood. Two and a half cubits was its length, a *_cubit_* and a half its breadth, and a *_cubit_* and a half its height.
@@ -1208,7 +1208,7 @@ _28 verses containing CUBIT_
 * `Exo 25:23` "You shall also make a table of shittim wood. Its length shall be two *_cubits_*, its breadth a cubit, and its height a cubit and a half.
 * `Exo 26:2` The length of one curtain shall be twenty-eight *_cubits_* and the breadth of one curtain four *_cubits_*, and each of the curtains shall have one measure.
 * `Exo 26:8` The length of one curtain shall be thirty *_cubits_* and the breadth of one curtain four *_cubits_*, and the eleven curtains shall be all of one measure.
-* `Exo 26:16` Ten *_cubits_* shall be the length of a board and a cubit and a half shall be the breadth of one board.
+* `Exo 26:16` Ten *_cubits_* shall be the length of a board and a cubit and a half shall be the breadth of each board.
 * `Exo 27:1` "And you shall make an altar of shittim wood five *_cubits_* long and five *_cubits_* broad. The altar shall be square, and its height shall be three *_cubits_*.
 * `Exo 27:9` "And you shall make the court of the tabernacle. For the south side southward there shall be hangings for the court of fine twined linen of one hundred *_cubits_* long for one side.
 * `Exo 27:11` And likewise for the north side in length there shall be hangings of one hundred *_cubits_* long, and its twenty pillars and their twenty sockets of brass. The hooks of the pillars and their fillets shall be of silver.
@@ -1753,7 +1753,7 @@ _15 verses containing CURTAIN_
 * `Exo 26:1` "Moreover, you shall make the tabernacle with ten *_curtains_* of fine twined linen and blue, purple, and scarlet. With cherubim of skillful work you shall make them.
 * `Exo 26:2` The length of one curtain shall be twenty-eight cubits and the breadth of one curtain four cubits, and each of the *_curtains_* shall have one measure.
 * `Exo 26:3` Five *_curtains_* shall be coupled together to one another and the other five *_curtains_* shall be coupled to one another.
-* `Exo 26:6` And you shall make fifty buttons of gold, and couple the *_curtains_* together with the buttons. And it shall be one tabernacle.
+* `Exo 26:6` And you shall make fifty buttons of gold and couple the *_curtains_* together with the buttons. And it shall be one tabernacle.
 * `Exo 26:7` "And you shall make *_curtains_* of goats' hair to be a covering upon the tabernacle. Eleven *_curtains_* you shall make.
 * `Exo 26:8` The length of one curtain shall be thirty cubits and the breadth of one curtain four cubits, and the eleven *_curtains_* shall be all of one measure.
 * `Exo 26:9` And you shall couple five *_curtains_* by themselves and six *_curtains_* by themselves, and shall double the sixth curtain in the front of the tabernacle.

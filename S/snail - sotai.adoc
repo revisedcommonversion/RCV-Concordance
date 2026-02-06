@@ -298,7 +298,7 @@ _1 verse containing SOCKET_
 * `Exo 38:17` And the *_sockets_* for the pillars were of brass. The hooks of the pillars and their fillets were made of silver. And the overlaying of their capitals were made of silver. And all the pillars of the court were filleted with silver.
 * `Exo 38:19` And their pillars were four and their *_sockets_* of brass four. Their hooks were made of silver and also the overlaying of their capitals and their fillets were made of silver.
 * `Exo 38:27` And from the hundred talents of silver the *_sockets_* of the sanctuary and the *_sockets_* of the veil were cast—one hundred *_sockets_* from the hundred talents, a talent for a socket.
-* `Exo 38:30` And with this he made the *_sockets_* to the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the vessels of the altar,
+* `Exo 38:30` And with this he made the *_sockets_* for the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the vessels of the altar,
 * `Exo 38:31` The *_sockets_* of the court all around, the *_sockets_* of the court gate, all the pins of the tabernacle, and all the pins of the court all around.
 * `Exo 39:33` And they brought the tabernacle to Moses: the tent, all its vessels, its buttons, its boards, its bars, its pillars, and its *_sockets_*;
 * `Exo 39:40` The hangings of the court with its pillars and its *_sockets_*, the hanging for the court-gate with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
@@ -1753,7 +1753,7 @@ _12 verses containing SOMEWHAT_
 * `Exo 21:9` And if he has betrothed her to his *_son_*, he shall deal with her after the manner of daughters.
 * `Exo 21:31` Whether it has gored a *_son_* or has gored a daughter, according to this judgment it shall be done to him.
 * `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the *_son_* of your woman-servant and the stranger may be refreshed.
-* `Exo 29:30` And that *_son_*, who is priest in his stead, shall put them on seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
+* `Exo 29:30` And that *_son_*, who is priest in his stead, shall put them on for seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
 * `Exo 31:2` "Behold, I have called by name Bezaleel the *_son_* of Uri, the *_son_* of Hur, of the tribe of Judah,
 * `Exo 31:6` And I, behold, I have given with him Aholiab the *_son_* of Ahisamach of the tribe of Dan. And in the hearts of all who are wise-hearted I have put wisdom so that they may make all that I have commanded you:
 * `Exo 32:29` For Moses had said, "Consecrate yourselves today to the LORD, even every man upon his *_son_* and upon his brother, so that he may bestow upon you a blessing this day."
@@ -3685,7 +3685,7 @@ _20 verses containing SONGS_
 * `Exo 27:21` In the Tabernacle of the Congregation outside the veil, which is before the testimony, Aaron and his *_sons_* shall order it from evening to morning before the LORD. It shall be a statute forever to their generations on behalf of the children of Israel."
 * `Exo 28:1` "And bring to you Aaron your brother and his *_sons_* with him from among the children of Israel so that he may minister to me in the priest's office, even Aaron and Nadab, Abihu, Eleazar, and Ithamar, Aaron's *_sons_*.
 * `Exo 28:4` And these are the garments which they shall make: a breast-plate, an ephod, a robe, an embroidered coat, a miter, and a girdle. And they shall make holy garments for Aaron your brother and his *_sons_* so that he may minister to me in the priest's office.
-* `Exo 28:40` "And for Aaron's *_sons_* you shall make coats, and you shall make for them girdles and you shall make for them caps for glory and for beauty.
+* `Exo 28:40` "And for Aaron's *_sons_* you shall make coats, you shall make for them girdles, and you shall make for them caps, for glory and for beauty.
 * `Exo 28:41` And you shall put them upon Aaron your brother and on his *_sons_* with him and shall anoint them, consecrate them, and sanctify them so that they may minister to me in the priest's office.
 * `Exo 28:43` And they shall be upon Aaron and upon his *_sons_* when they enter into the Tabernacle of the Congregation or when they come near to the altar to minister in the holy place so that they do not bear iniquity and die. It shall be a statute forever to him and to his offspring after him."
 * `Exo 29:4` And you shall bring Aaron and his *_sons_* to the door of the Tabernacle of the Congregation and shall wash them with water.

@@ -1221,7 +1221,7 @@ _6 verses containing SAVORY_
 * `Exo 32:1` And when the people *_saw_* that Moses delayed to come down from the mountain, the people assembled themselves to Aaron and said to him, "Arise, make us gods which shall go before us. For as for this Moses, the man who brought us out of the land of Egypt, we do not know what has become of him."
 * `Exo 32:5` And when Aaron *_saw_* it, he built an altar before it. And Aaron made proclamation and said, "Tomorrow is a feast to the LORD."
 * `Exo 32:19` And it came to pass as soon as he came near the camp, that he *_saw_* the calf and the dancing. And Moses's anger waxed hot, and he cast the tablets from his hands and broke them beneath the mountain.
-* `Exo 32:25` And when Moses *_saw_* that the people were naked (for Aaron had made them naked to their shame, among their enemies),
+* `Exo 32:25` And when Moses *_saw_* that the people were naked (for Aaron had made them naked to their shame among their enemies),
 * `Exo 33:10` And all the people *_saw_* the cloudy pillar stand at the tabernacle door, and all the people rose and worshiped, each in his tent-door.
 * `Exo 34:30` And when Aaron and all the children of Israel *_saw_* Moses, behold, the skin of his face shone, and they were afraid to come near him.
 * `Exo 34:35` And the children of Israel *_saw_* the face of Moses, that the skin of Moses's face shone. And Moses put the veil upon his face again until he went in to speak with him.
@@ -2855,7 +2855,7 @@ _1010 verses containing SAY_
 * `Exo 33:1` And the LORD said to Moses, "Depart and go up from here—you and the people which you have conducted from the land of Egypt—to the land which I swore to Abraham, to Isaac, and to Jacob, *_saying_*, 'To your offspring I will give it.'
 * `Exo 35:4` And Moses spoke to all the congregation of the children of Israel, *_saying_*, "This is the thing which the LORD commanded, *_saying_*,
 * `Exo 36:5` And they spoke to Moses, *_saying_*, "The people bring much more than enough for the service of the work which the LORD commanded to make."
-* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, *_saying_*, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from bringing.
+* `Exo 36:6` And Moses gave commandment, and they caused it to be proclaimed throughout the camp, *_saying_*, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from bringing,
 * `Exo 40:1` And the LORD spoke to Moses, *_saying_*,
 * `Lev 1:1` And the LORD called to Moses and spoke to him out of the Tabernacle of the Congregation, *_saying_*,
 * `Lev 4:1` And the LORD spoke to Moses, *_saying_*,
@@ -5516,8 +5516,8 @@ _1 verse containing SCARE_
 * `Exo 28:33` And beneath, upon its hem you shall make pomegranates of blue, of purple, and of *_scarlet_* around its hem and bells of gold between them around it:
 * `Exo 35:6` Blue, purple, *_scarlet_*, fine linen, goats' hair,
 * `Exo 35:23` And every man, with whom was found blue, purple, *_scarlet_*, fine linen, goats' hair, red skins of rams, and badgers' skins, brought them.
-* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun, both of blue, of purple, of *_scarlet_*, and of fine linen.
-* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in purple, in *_scarlet_*, and in fine linen, and of the weaver, even of those who do any work, and of those who devise skillful work."
+* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun: the blue, purple, *_scarlet_*, and fine linen.
+* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in purple, in *_scarlet_*, and in fine linen, and of the weaver, even of those who do any work and of those who devise skillful work."
 * `Exo 36:8` And every wise-hearted man among those who wrought the work of the tabernacle made ten curtains of fine twined linen, blue, purple, and *_scarlet_*. He made them with cherubim of skillful work.
 * `Exo 36:35` And he made a veil of blue, purple, *_scarlet_*, and fine twined linen. With cherubim he made it of skillful work.
 * `Exo 36:37` And he made a hanging for the tabernacle door of blue, purple, *_scarlet_*, and fine twined linen, of needle-work,
@@ -5526,7 +5526,7 @@ _1 verse containing SCARE_
 * `Exo 39:1` And from the blue, purple, and *_scarlet_*, they made clothes of service, to do service in the holy place, and made the holy garments for Aaron, as the LORD commanded Moses.
 * `Exo 39:2` And he made the ephod of gold, blue, purple, *_scarlet_*, and fine twined linen.
 * `Exo 39:3` And they beat the gold into thin plates and cut it into wires to work it in the blue, in the purple, in the *_scarlet_*, and in the fine linen with skillful work.
-* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, purple, *_scarlet_*, and fine twined linen, as the LORD commanded Moses.
+* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, purple, *_scarlet_*, and fine twined linen, as the LORD commanded Moses.
 * `Exo 39:8` And he made the breast-plate of skillful work like the work of the ephod of gold, blue, purple, *_scarlet_*, and fine twined linen.
 * `Exo 39:24` And they made upon the hems of the robe pomegranates of blue, purple, *_scarlet_*, and twined linen.
 * `Exo 39:29` And a girdle of fine twined linen and blue, purple, and *_scarlet_*, of needle-work, as the LORD commanded Moses.

@@ -1740,7 +1740,7 @@ _38 verses containing BEAT_
 * `Exo 25:31` "And you shall make a candlestick of pure gold. Of *_beaten_* work the candlestick shall be made. Its shaft, its branches, its bowls, its buds, and its flowers shall be of the same.
 * `Exo 25:36` Their buds and their branches shall be of the same. All of it shall be one *_beaten_* work of pure gold.
 * `Exo 27:20` "And you shall command the children of Israel that they bring the pure olive-oil *_beaten_* for the light to cause the lamp to always burn.
-* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of *_beaten_* oil and the fourth part of a hin of wine for a drink-offering.
+* `Exo 29:40` And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of *_beaten_* oil, and the fourth part of a hin of wine for a drink-offering.
 * `Exo 37:7` And he made two cherubim of gold, *_beaten_* out of one piece he made them, on the two ends of the mercy-seat:
 * `Exo 37:17` And he made the candlestick of pure gold. Of *_beaten_* work he made the candlestick. Its shaft, its branch, its bowls, its buds, and its flowers were of the same.
 * `Exo 37:22` Their buds and their branches were of the same. All of it was one *_beaten_* work of pure gold.
@@ -1845,7 +1845,7 @@ _3 verses containing BEAUTIFY_
 == BEAUTY
 
 * `Exo 28:2` And you shall make holy garments for Aaron your brother, for glory and for *_beauty_*.
-* `Exo 28:40` "And for Aaron's sons you shall make coats, and you shall make for them girdles and you shall make for them caps for glory and for *_beauty_*.
+* `Exo 28:40` "And for Aaron's sons you shall make coats, you shall make for them girdles, and you shall make for them caps, for glory and for *_beauty_*.
 * `2Sa 1:19` "The *_beauty_* of Israel is slain upon your high places. How the mighty have fallen!
 * `2Sa 14:25` But in all Israel there was no one to be so much praised as Absalom for his *_beauty_*. From the sole of his foot even to the crown of his head there was no blemish in him.
 * `1Ch 16:29` Give to the LORD the glory due to his name. Bring an offering and come before him. Worship the LORD in the *_beauty_* of holiness.
@@ -2131,8 +2131,8 @@ _123 verses containing BECAME_
 * `Exo 17:16` For he said, "*_Because_* the LORD has sworn that the LORD will have war with Amalek from generation to generation."
 * `Exo 18:15` And Moses said to his father-in-law, "*_Because_* the people come to me to inquire of God.
 * `Exo 19:18` And mount Sinai was altogether in a smoke *_because_* the LORD descended upon it in fire. And its smoke ascended like the smoke of a furnace, and the whole mountain trembled greatly.
-* `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a stranger shall not eat of them *_because_* they are holy.
-* `Exo 29:34` And if anything of the flesh of the consecration, or of the bread, remains until the morning, then you shall burn the remainder with fire. It shall not be eaten *_because_* it is holy.
+* `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a stranger shall not eat them *_because_* they are holy.
+* `Exo 29:34` And if anything of the flesh of the consecration or of the bread remains until the morning, then you shall burn the remainder with fire. It shall not be eaten *_because_* it is holy.
 * `Exo 32:35` And the LORD afflicted the people *_because_* they made the calf, the one Aaron made.
 * `Exo 40:35` And Moses was not able to enter into the tent of the congregation *_because_* the cloud stayed upon it and the glory of the LORD filled the tabernacle.
 * `Lev 6:4` Then it shall be, *_because_* he has sinned and is guilty, that he shall restore that which he took by force, the thing which he obtained by deceit, that which was delivered to him to keep, the lost thing which he found,

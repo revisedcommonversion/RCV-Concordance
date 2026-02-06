@@ -1403,6 +1403,7 @@ _1 verse containing LIGN-ALOES_
 * `Exo 25:34` And in the candlesticks there shall be four bowls made *_like_* almonds with their buds and their flowers.
 * `Exo 28:11` With the work of an engraver in stone, *_like_* the engravings of a signet, you shall engrave the two stones with the names of the children of Israel. You shall make them to be set in settings of gold.
 * `Exo 28:21` And the stones shall be with the names of the children of Israel, twelve, according to their names, *_like_* the engravings of a signet, each with his name they shall be according to the twelve tribes.
+* `Exo 28:32` And there shall be a hole in its top in the midst of it. It shall have a binding of woven work around its hole, *_like_* the hole of a habergeon, so that it is not rent.
 * `Exo 28:36` "And you shall make a plate of pure gold and engrave upon it, *_like_* the engravings of a signet, 'HOLINESS TO THE LORD.'
 * `Exo 30:32` Upon man's flesh it shall not be poured, neither shall you make any other *_like_* it after its composition. It is holy and it shall be holy to you.
 * `Exo 30:33` Whoever compounds any *_like_* it, or whoever puts any of it upon a stranger, shall even be cut off from his people.'"
@@ -1413,6 +1414,7 @@ _1 verse containing LIGN-ALOES_
 * `Exo 37:20` And in the candlestick there were four bowls made *_like_* almonds, its buds and its flowers,
 * `Exo 39:8` And he made the breast-plate of skillful work *_like_* the work of the ephod of gold, blue, purple, scarlet, and fine twined linen.
 * `Exo 39:14` And the stones were according to the names of the children of Israel, twelve, according to their names, *_like_* the engravings of a signet, each with his name, according to the twelve tribes.
+* `Exo 39:23` And there was a hole in the midst of the robe, *_like_* the hole of a habergeon, with a band around the hole so that it should not rend.
 * `Exo 39:30` And they made the plate of the holy crown of pure gold, and wrote upon it a writing *_like_* the engravings of a signet, 'HOLINESS TO THE LORD.'
 * `Lev 13:2` "When a man has in the skin of his flesh a rising, a scab, or bright spot, and it is in the skin of his flesh *_like_* the plague of leprosy, then he shall be brought to Aaron the priest or to one of his sons the priests.
 * `Lev 14:35` And he who owns the house comes and tells the priest, saying, 'It seems to me there is something *_like_* a plague in the house,'
@@ -2200,7 +2202,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_827 verses containing LIKE_
+_829 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -2255,7 +2257,7 @@ _28 verses containing LIKENESS_
 * `Exo 22:30` You shall do *_likewise_* with your oxen and with your sheep. Seven days it shall be with his mother. On the eighth day you shall give it to me.
 * `Exo 25:33` Three bowls shall be made like almonds with a bud and a flower in one branch, and three bowls made like almonds in the other branch with a bud and a flower—*_likewise_* in the six branches that project from the candlestick.
 * `Exo 26:4` And you shall make loops of blue upon the edge of one curtain from the selvage in the coupling. And you shall do *_likewise_* in the uttermost edge of another curtain in the coupling of the second.
-* `Exo 26:17` There shall be two tenons in one board, set in order one against another. You shall do *_likewise_* for all the boards of the tabernacle.
+* `Exo 26:17` There shall be two tenons in each board, set in order one against another. You shall do *_likewise_* for all the boards of the tabernacle.
 * `Exo 27:11` And *_likewise_* for the north side in length there shall be hangings of one hundred cubits long, and its twenty pillars and their twenty sockets of brass. The hooks of the pillars and their fillets shall be of silver.
 * `Exo 36:11` And he made loops of blue on the edge of one curtain from the selvage in the coupling. He did *_likewise_* in the extremity of another curtain in the coupling of the second.
 * `Exo 37:19` Three bowls were made after the fashion of almonds in one branch, a bud and a flower, and three bowls were made like almonds in another branch, a bud and a flower—*_likewise_* throughout the six branches proceeding from the candlestick.
@@ -2533,8 +2535,8 @@ _1 verse containing LINEAGE_
 * `Exo 28:42` And you shall make them *_linen_* breeches to cover their nakedness. From the loins even to the thighs they shall reach.
 * `Exo 35:6` Blue, purple, scarlet, fine *_linen_*, goats' hair,
 * `Exo 35:23` And every man, with whom was found blue, purple, scarlet, fine *_linen_*, goats' hair, red skins of rams, and badgers' skins, brought them.
-* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun, both of blue, of purple, of scarlet, and of fine *_linen_*.
-* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in purple, in scarlet, and in fine *_linen_*, and of the weaver, even of those who do any work, and of those who devise skillful work."
+* `Exo 35:25` And all the women who were wise-hearted spun with their hands and brought that which they had spun: the blue, purple, scarlet, and fine *_linen_*.
+* `Exo 35:35` He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in purple, in scarlet, and in fine *_linen_*, and of the weaver, even of those who do any work and of those who devise skillful work."
 * `Exo 36:8` And every wise-hearted man among those who wrought the work of the tabernacle made ten curtains of fine twined *_linen_*, blue, purple, and scarlet. He made them with cherubim of skillful work.
 * `Exo 36:35` And he made a veil of blue, purple, scarlet, and fine twined *_linen_*. With cherubim he made it of skillful work.
 * `Exo 36:37` And he made a hanging for the tabernacle door of blue, purple, scarlet, and fine twined *_linen_*, of needle-work,
@@ -2544,7 +2546,7 @@ _1 verse containing LINEAGE_
 * `Exo 38:23` And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, a skillful workman, and an embroiderer in blue, in purple, in scarlet, and fine *_linen_*.
 * `Exo 39:2` And he made the ephod of gold, blue, purple, scarlet, and fine twined *_linen_*.
 * `Exo 39:3` And they beat the gold into thin plates and cut it into wires to work it in the blue, in the purple, in the scarlet, and in the fine *_linen_* with skillful work.
-* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined *_linen_*, as the LORD commanded Moses.
+* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined *_linen_*, as the LORD commanded Moses.
 * `Exo 39:8` And he made the breast-plate of skillful work like the work of the ephod of gold, blue, purple, scarlet, and fine twined *_linen_*.
 * `Exo 39:24` And they made upon the hems of the robe pomegranates of blue, purple, scarlet, and twined *_linen_*.
 * `Exo 39:27` And they made coats of fine *_linen_* of woven work for Aaron and for his sons,

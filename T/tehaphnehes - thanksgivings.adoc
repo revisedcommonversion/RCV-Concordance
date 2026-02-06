@@ -761,9 +761,9 @@ _3 verses containing TEMPTING_
 * `Gen 50:22` And Joseph dwelt in Egypt—he and his father's house. And Joseph lived one hundred and *_ten_* years.
 * `Gen 50:26` So Joseph died, being one hundred and *_ten_* years old. And they embalmed him, and he was put in a coffin in Egypt.
 * `Exo 26:1` "Moreover, you shall make the tabernacle with *_ten_* curtains of fine twined linen and blue, purple, and scarlet. With cherubim of skillful work you shall make them.
-* `Exo 26:16` *_Ten_* cubits shall be the length of a board and a cubit and a half shall be the breadth of one board.
+* `Exo 26:16` *_Ten_* cubits shall be the length of a board and a cubit and a half shall be the breadth of each board.
 * `Exo 27:12` And for the breadth of the court on the west side shall be hangings of fifty cubits with their *_ten_* pillars and their *_ten_* sockets.
-* `Exo 34:28` And he was there with the LORD forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the *_Ten_* Commandments.
+* `Exo 34:28` And he was there with the LORD for forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the *_Ten_* Commandments.
 * `Exo 36:8` And every wise-hearted man among those who wrought the work of the tabernacle made *_ten_* curtains of fine twined linen, blue, purple, and scarlet. He made them with cherubim of skillful work.
 * `Exo 36:21` The length of a board was *_ten_* cubits and the breadth of a board one cubit and a half.
 * `Exo 38:12` And for the west side were hangings of fifty cubits, their pillars *_ten_* and their sockets *_ten_*. The hooks of the pillars and their fillets were made of silver.
@@ -1028,7 +1028,7 @@ _5 verses containing TENDS_
 
 == TENONS
 
-* `Exo 26:17` There shall be two *_tenons_* in one board, set in order one against another. You shall do likewise for all the boards of the tabernacle.
+* `Exo 26:17` There shall be two *_tenons_* in each board, set in order one against another. You shall do likewise for all the boards of the tabernacle.
 * `Exo 26:19` And you shall make forty sockets of silver under the twenty boards, two sockets under one board for its two *_tenons_* and two sockets under another board for its two *_tenons_*;
 * `Exo 36:22` One board had two *_tenons_*, equally distant from one another. He did this for all the boards of the tabernacle.
 * `Exo 36:24` And forty sockets of silver he made under the twenty boards, two sockets under one board for its two *_tenons_* and two sockets under another board for its two *_tenons_*.
@@ -1173,7 +1173,7 @@ _1 verse containing TENT-MAKERS_
 * `Gen 28:22` And this stone which I have set for a pillar shall be God's house. And of all that you give me, I will surely give the *_tenth_* to you."
 * `Exo 12:3` Speak to all the congregation of Israel, saying, 'On the *_tenth_* day of this month they shall each take for themselves a lamb, according to the house of their fathers, a lamb for a house.
 * `Exo 16:36` (Now an omer is the *_tenth_* part of an ephah.)
-* `Exo 29:40` And with one lamb [you shall offer] a *_tenth_*-portion of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-offering.
+* `Exo 29:40` And with one lamb [you shall offer] a *_tenth_*-portion of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 * `Lev 5:11` 'But if he is not able to bring two turtle-doves or two young pigeons, then he who sinned shall bring for his offering the *_tenth_* part of an ephah of fine flour for a sin-offering. He shall put no oil upon it, neither shall he put any frankincense upon it, for it is a sin-offering.
 * `Lev 6:20` "This is the offering of Aaron and of his sons, which they shall offer to the LORD in the day when he is anointed: the *_tenth_* part of an ephah of fine flour for a perpetual food-offering, half of it in the morning and half of it at night.
 * `Lev 14:10` "And on the eighth day he shall take two male lambs without blemish, one ewe-lamb of the first year without blemish, three *_tenth_*-parts of fine flour for a food-offering mingled with oil, and one log of oil.
@@ -1270,7 +1270,7 @@ _11 verses containing TENTH-PARTS_
 
 == TENTH-PORTION
 
-* `Exo 29:40` And with one lamb [you shall offer] a *_tenth-portion_* of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-offering.
+* `Exo 29:40` And with one lamb [you shall offer] a *_tenth-portion_* of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 
 _1 verse containing TENTH-PORTION_
 

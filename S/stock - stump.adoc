@@ -1143,7 +1143,7 @@ _1 verse containing STRANGELY_
 * `Exo 22:21` "You shall neither vex a *_stranger_* nor oppress him, for you were strangers in the land of Egypt.
 * `Exo 23:9` "Also, you shall not oppress a *_stranger_*, for you know the heart of a *_stranger_*, seeing you were strangers in the land of Egypt.
 * `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the *_stranger_* may be refreshed.
-* `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a *_stranger_* shall not eat of them because they are holy.
+* `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a *_stranger_* shall not eat them because they are holy.
 * `Exo 30:33` Whoever compounds any like it, or whoever puts any of it upon a *_stranger_*, shall even be cut off from his people.'"
 * `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do no work at all, whether it be one of your own country or a *_stranger_* who sojourns among you.
 * `Lev 17:12` Therefore, I said to the children of Israel, 'No soul of you shall eat blood, neither shall any *_stranger_* who sojourns among you eat blood.'
@@ -2203,7 +2203,7 @@ _15 verses containing STRIPES_
 == STRIPPED
 
 * `Gen 37:23` And it came to pass when Joseph had come to his brothers, that they *_stripped_* Joseph of his coat, his coat of many colors that was on him.
-* `Exo 33:6` And the children of Israel *_stripped_* themselves of their ornaments by the mount Horeb.
+* `Exo 33:6` And the children of Israel *_stripped_* themselves of their ornaments by mount Horeb.
 * `Num 20:28` And Moses *_stripped_* Aaron of his garments and put them upon Eleazar his son. And Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 * `1Sa 18:4` And Jonathan *_stripped_* himself of the robe that was upon him and gave it to David, along with his garments, even to his sword, to his bow, and to his girdle.
 * `1Sa 19:24` And he *_stripped_* off his clothes also and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Therefore, they say, "Is Saul also among the prophets?"

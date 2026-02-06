@@ -1524,7 +1524,7 @@ _1 verse containing LOP_
 * `Exo 30:15` The rich shall not give more and the poor shall not give less than half a shekel when they give an offering to the *_LORD_* to make an atonement for your souls.
 * `Exo 30:16` And you shall take the atonement-money of the children of Israel and shall appoint it for the service of the Tabernacle of the Congregation so that it may be a memorial to the children of Israel before the *_LORD_* to make an atonement for your souls."
 * `Exo 30:17` And the *_LORD_* spoke to Moses, saying,
-* `Exo 30:20` When they go into the Tabernacle of the Congregation, they shall wash with water so that they do not die, or when they come near to the altar to minister, to burn an offering made by fire to the *_LORD_*.
+* `Exo 30:20` When they go into the Tabernacle of the Congregation or when they come near to the altar to minister to burn an offering made by fire to the *_LORD_*, they shall wash with water so that they do not die.
 * `Exo 30:22` Moreover, the *_LORD_* spoke to Moses, saying,
 * `Exo 30:34` And the *_LORD_* said to Moses, "Take for yourself sweet spices: stacte, onycha, and galbanum, these sweet spices with pure frankincense (of each there shall be a similar weight).
 * `Exo 30:37` And as for the perfume which you shall make, you shall not make for yourselves according to its composition. It shall be to you holy for the *_LORD_*.
@@ -1548,7 +1548,7 @@ _1 verse containing LOP_
 * `Exo 32:35` And the *_LORD_* afflicted the people because they made the calf, the one Aaron made.
 * `Exo 33:1` And the *_LORD_* said to Moses, "Depart and go up from here—you and the people which you have conducted from the land of Egypt—to the land which I swore to Abraham, to Isaac, and to Jacob, saying, 'To your offspring I will give it.'
 * `Exo 33:5` For the *_LORD_* had said to Moses, "Say to the children of Israel, 'You are a stiff-necked people. I will come up into the midst of you in a moment and consume you. And now, take off your ornaments from you so that I may know what to do to you.'"
-* `Exo 33:7` And Moses took the tabernacle and pitched it outside the camp far from the camp and called it the Tabernacle of the Congregation. And it came to pass, that everyone who sought the *_LORD_* went out to the Tabernacle of the Congregation, which was outside the camp.
+* `Exo 33:7` And Moses took the tabernacle and pitched it outside the camp, far from the camp, and called it the Tabernacle of the Congregation. And it came to pass, that everyone who sought the *_LORD_* went out to the Tabernacle of the Congregation, which was outside the camp.
 * `Exo 33:9` And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended and stood at the door of the tabernacle, and the *_LORD_* talked with Moses.
 * `Exo 33:11` And the *_LORD_* spoke to Moses face to face, as a man speaks to his friend. And he turned back into the camp, but his servant Joshua the son of Nun, a young man, did not depart out of the tabernacle.
 * `Exo 33:12` And Moses said to the *_LORD_*, "Behold, you say to me, 'Bring up this people,' and you have not let me know whom you will send with me. Yet you have said, 'I know you by name and you have also found grace in my sight.'
@@ -1567,15 +1567,15 @@ _1 verse containing LOP_
 * `Exo 34:24` For I will drive out the nations before you and enlarge your borders. No man shall desire your land when you go up to appear before the *_LORD_* your God three times in the year.
 * `Exo 34:26` "The first of the first-fruits of your land you shall bring to the house of the *_LORD_* your God. You shall not boil a kid in his mother's milk."
 * `Exo 34:27` And the *_LORD_* said to Moses, "Write these words. For after the tenor of these words I have made a covenant with you and with Israel."
-* `Exo 34:28` And he was there with the *_LORD_* forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
-* `Exo 34:32` And afterward all the children of Israel came near, and he gave them in commandment all that the *_LORD_* had spoken with him on mount Sinai.
+* `Exo 34:28` And he was there with the *_LORD_* for forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
+* `Exo 34:32` And afterward, all the children of Israel came near, and he gave them in commandment all that the *_LORD_* had spoken with him on mount Sinai.
 * `Exo 34:34` But when Moses went in before the *_LORD_* to speak with him, he took the veil off until he came out. And he came out and spoke to the children of Israel that which he was commanded.
 * `Exo 35:1` And Moses assembled all the congregation of the children of Israel and said to them, "These are the words which the *_LORD_* has commanded, that you should do them.
 * `Exo 35:2` 'Six days work shall be done, but on the seventh day there shall be to you a holy day, a sabbath of rest to the *_LORD_*. Whoever does work therein shall be put to death.
 * `Exo 35:4` And Moses spoke to all the congregation of the children of Israel, saying, "This is the thing which the *_LORD_* commanded, saying,
 * `Exo 35:5` 'Take from among you an offering to the *_LORD_*. Whoever is of a willing heart, let him bring it, an offering of the *_LORD_*: gold, silver, brass,
 * `Exo 35:10` 'And every wise-hearted among you shall come and make all that the *_LORD_* has commanded:
-* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the *_LORD_*'S offering to the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
+* `Exo 35:21` And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the *_LORD_*'S offering for the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
 * `Exo 35:22` And they came, both men and women, as many as were willing-hearted, and brought bracelets, earrings, rings, tablets, all jewels of gold. And every man who offered, offered an offering of gold to the *_LORD_*.
 * `Exo 35:24` Everyone who offered an offering of silver and brass brought the *_LORD_*'S offering. And every man with whom was found shittim wood for any work of the service brought it.
 * `Exo 35:29` The children of Israel brought a willing offering to the *_LORD_*, every man and woman, whose heart made them willing to bring for all manner of work, which the *_LORD_* had commanded to be made by the hand of Moses.
@@ -1585,7 +1585,7 @@ _1 verse containing LOP_
 * `Exo 36:5` And they spoke to Moses, saying, "The people bring much more than enough for the service of the work which the *_LORD_* commanded to make."
 * `Exo 38:22` And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the *_LORD_* commanded Moses.
 * `Exo 39:1` And from the blue, purple, and scarlet, they made clothes of service, to do service in the holy place, and made the holy garments for Aaron, as the *_LORD_* commanded Moses.
-* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined linen, as the *_LORD_* commanded Moses.
+* `Exo 39:5` And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined linen, as the *_LORD_* commanded Moses.
 * `Exo 39:7` And he put them on the shoulders of the ephod so that they should be stones for a memorial to the children of Israel, as the *_LORD_* commanded Moses.
 * `Exo 39:21` And they bound the breast-plate by its rings to the rings of the ephod with a lace of blue so that it might be above the skillfully woven girdle of the ephod and that the breast-plate might not come loose from the ephod, as the *_LORD_* commanded Moses.
 * `Exo 39:26` A bell and a pomegranate, a bell and a pomegranate, around the hem of the robe to minister in, as the *_LORD_* commanded Moses.
