@@ -157,7 +157,7 @@ _2 verses containing SIGHS_
 * `Exo 34:9` And he said, "If now I have found grace in your *_sight_*, O Lord, let my Lord, I pray you, go among us (for it is a stiff-necked people) and pardon our iniquity and our sin and take us for your inheritance."
 * `Exo 40:38` So the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the *_sight_* of all the house of Israel throughout all their journeys.
 * `Lev 10:19` And Aaron said to Moses, "Behold, this day they have offered their sin-offering and their burnt-offering before the LORD, and such things have befallen me. And if I had eaten the sin-offering today, would it have been accepted in the *_sight_* of the LORD?"
-* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his *_sight_* is at a stay and the plague does not spread in the skin, then the priest shall shut him up seven more days.
+* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his *_sight_* is at a stay and the plague does not spread in the skin, then the priest shall shut him up for seven more days.
 * `Lev 14:37` And he shall look at the plague, and behold, if the plague is in the walls of the house with hollow streaks, greenish or reddish, which in *_sight_* are lower than the wall,
 * `Lev 20:17` 'And if a man takes his sister, his father's daughter, or his mother's daughter, and sees her nakedness, and she sees his nakedness, it is a wicked thing, and they shall be cut off in the *_sight_* of their people. He has uncovered his sister's nakedness. He shall bear his iniquity.
 * `Lev 25:53` And as a yearly hired servant he shall be with him. And the other shall not rule with rigor over him in your *_sight_*.
@@ -1398,7 +1398,7 @@ _1 verse containing SIMRI_
 * `Lev 12:6` 'And when the days of her purifying are fulfilled for a son or for a daughter, she shall bring to the priest at the door of the Tabernacle of the Congregation a lamb of the first year for a burnt-offering and a young pigeon or a turtle-dove for a *_sin_*-offering.
 * `Lev 12:8` And if she is not able to bring a lamb, then she shall bring two turtle-doves or two young pigeons, one for the burnt-offering and the other for a *_sin_*-offering. And the priest shall make an atonement for her, and she shall be clean.'"
 * `Lev 14:13` And he shall slay the lamb in the place where he kills the *_sin_*-offering and the burnt-offering, in the holy-place. As the *_sin_*-offering is the priest's, so is the trespass-offering. It is most holy.
-* `Lev 14:19` And the priest shall offer the *_sin_*-offering and make an atonement for him who is to be cleansed from his uncleanness, and afterward he shall kill the burnt-offering.
+* `Lev 14:19` And the priest shall offer the *_sin_*-offering and make an atonement for him who is to be cleansed from his uncleanness, and afterward, he shall kill the burnt-offering.
 * `Lev 14:22` And two turtle-doves or two young pigeons, such as he is able to afford, and one shall be a *_sin_*-offering and the other a burnt-offering.
 * `Lev 14:31` Even such as he is able to afford, one for a *_sin_*-offering and the other for a burnt-offering, with the food-offering. And the priest shall make an atonement for him who is to be cleansed before the LORD.
 * `Lev 15:15` And the priest shall offer them, one for a *_sin_*-offering and the other for a burnt-offering. And the priest shall make an atonement for him before the LORD for his issue.
@@ -1780,7 +1780,7 @@ _1 verse containing SIN-MONEY_
 * `Lev 12:6` 'And when the days of her purifying are fulfilled for a son or for a daughter, she shall bring to the priest at the door of the Tabernacle of the Congregation a lamb of the first year for a burnt-offering and a young pigeon or a turtle-dove for a *_sin-offering_*.
 * `Lev 12:8` And if she is not able to bring a lamb, then she shall bring two turtle-doves or two young pigeons, one for the burnt-offering and the other for a *_sin-offering_*. And the priest shall make an atonement for her, and she shall be clean.'"
 * `Lev 14:13` And he shall slay the lamb in the place where he kills the *_sin-offering_* and the burnt-offering, in the holy-place. As the *_sin-offering_* is the priest's, so is the trespass-offering. It is most holy.
-* `Lev 14:19` And the priest shall offer the *_sin-offering_* and make an atonement for him who is to be cleansed from his uncleanness, and afterward he shall kill the burnt-offering.
+* `Lev 14:19` And the priest shall offer the *_sin-offering_* and make an atonement for him who is to be cleansed from his uncleanness, and afterward, he shall kill the burnt-offering.
 * `Lev 14:22` And two turtle-doves or two young pigeons, such as he is able to afford, and one shall be a *_sin-offering_* and the other a burnt-offering.
 * `Lev 14:31` Even such as he is able to afford, one for a *_sin-offering_* and the other for a burnt-offering, with the food-offering. And the priest shall make an atonement for him who is to be cleansed before the LORD.
 * `Lev 15:15` And the priest shall offer them, one for a *_sin-offering_* and the other for a burnt-offering. And the priest shall make an atonement for him before the LORD for his issue.

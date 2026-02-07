@@ -916,9 +916,9 @@ _25 verses containing DARIUS_
 == DARK
 
 * `Gen 15:17` And it came to pass, that when the sun had gone down and it was *_dark_*, behold, a smoking furnace, and a burning lamp that passed between those pieces.
-* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat *_dark_* and the plague does not spread in the skin, the priest shall pronounce him clean. It is but a scab. And he shall wash his clothes and be clean.
-* `Lev 13:21` But if the priest looks at it, and behold, there are no white hairs in it and if it is not lower than the skin, but somewhat *_dark_*, then the priest shall shut him up seven days.
-* `Lev 13:26` But if the priest looks at it, and behold, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat *_dark_*, then the priest shall shut him up seven days.
+* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat *_dark_* and the plague does not spread in the skin, the priest shall pronounce him clean. It is only a scab. And he shall wash his clothes and be clean.
+* `Lev 13:21` But if the priest looks at it, and behold, there are no white hairs in it and if it is not lower than the skin, but somewhat *_dark_*, then the priest shall shut him up for seven days.
+* `Lev 13:26` But if the priest looks at it, and behold, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat *_dark_*, then the priest shall shut him up for seven days.
 * `Lev 13:28` And if the bright spot stays in its place and does not spread in the skin, but is somewhat *_dark_*, it is a rising of the burning, and the priest shall pronounce him clean, for it is an inflammation of the burning.
 * `Lev 13:56` "And if the priest looks, and behold, the plague is somewhat *_dark_* after its washing, then he shall rend it out of the garment, out of the skin, out of the warp, or out of the woof.
 * `Num 12:8` With him I will speak mouth to mouth, even apparently and not in *_dark_* speeches, and the similitude of the LORD he shall behold. Why then were you not afraid to speak against my servant Moses?"
@@ -2941,17 +2941,17 @@ _1 verse containing DAWNS_
 * `Lev 9:1` And it came to pass on the eighth *_day_*, that Moses called Aaron and his sons and the elders of Israel.
 * `Lev 10:19` And Aaron said to Moses, "Behold, this *_day_* they have offered their sin-offering and their burnt-offering before the LORD, and such things have befallen me. And if I had eaten the sin-offering today, would it have been accepted in the sight of the LORD?"
 * `Lev 12:3` And on the eighth *_day_* the flesh of his foreskin shall be circumcised.
-* `Lev 13:5` And the priest shall look at him on the seventh *_day_*, and behold, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up seven more days.
-* `Lev 13:6` And the priest shall look at him again on the seventh *_day_*, and behold, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is but a scab. And he shall wash his clothes and be clean.
+* `Lev 13:5` And the priest shall look at him on the seventh *_day_*, and behold, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up for seven more days.
+* `Lev 13:6` And the priest shall look at him again on the seventh *_day_*, and behold, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is only a scab. And he shall wash his clothes and be clean.
 * `Lev 13:27` And the priest shall look upon him on the seventh *_day_*. And if it is spread much in the skin, then the priest shall pronounce him unclean. It is the plague of leprosy.
 * `Lev 13:32` And on the seventh *_day_* the priest shall look at the plague, and behold, if the itch does not spread and there is in it no yellow hair and the itch does not appear deeper than the skin,
 * `Lev 13:34` And on the seventh *_day_* the priest shall look at the itch, and behold, if the itch has not spread in the skin and does not appear deeper than the skin, then the priest shall pronounce him clean. And he shall wash his clothes and be clean.
 * `Lev 13:51` And he shall look at the plague on the seventh *_day_*. If the plague has spread in the garment, either in the warp or in the woof, or in a skin or in any work that is made of skin, the plague is a fretting leprosy, it is unclean.
 * `Lev 14:2` "This shall be the law of the leper in the *_day_* of his cleansing. He shall be brought to the priest.
-* `Lev 14:9` But it shall be on the seventh *_day_*, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall wash his clothes and also he shall wash his flesh in water and he shall be clean.
+* `Lev 14:9` But it shall be on the seventh *_day_*, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall wash his clothes and wash his flesh in water, and he shall be clean.
 * `Lev 14:10` "And on the eighth *_day_* he shall take two male lambs without blemish, one ewe-lamb of the first year without blemish, three tenth-parts of fine flour for a food-offering mingled with oil, and one log of oil.
 * `Lev 14:23` And he shall bring them on the eighth *_day_* for his cleansing to the priest at the door of the Tabernacle of the Congregation before the LORD.
-* `Lev 14:39` And the priest shall come back the seventh *_day_* and shall look, and behold, if the plague is spread in the walls of the house,
+* `Lev 14:39` And the priest shall come back on the seventh *_day_* and shall look, and behold, if the plague is spread in the walls of the house,
 * `Lev 15:14` And on the eighth *_day_* he shall take for himself two turtle-doves or two young pigeons, come before the LORD at the door of the Tabernacle of the Congregation, and give them to the priest.
 * `Lev 15:29` And on the eighth *_day_* she shall take for herself two turtle-doves or two young pigeons, and bring them to the priest at the door of the Tabernacle of the Congregation.
 * `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth *_day_* of the month, you shall afflict your souls and do no work at all, whether it be one of your own country or a stranger who sojourns among you.
@@ -4441,23 +4441,23 @@ _8 verses containing DAY-TIME_
 * `Lev 12:4` And she shall then continue in the blood of her purifying for thirty-three *_days_*. She shall not touch any hallowed thing or come into the sanctuary until the *_days_* of her purifying are fulfilled.
 * `Lev 12:5` But if she bears a female child, then she shall be unclean for two weeks, as in her separation. And she shall continue in the blood of her purifying for sixty-six *_days_*.
 * `Lev 12:6` 'And when the *_days_* of her purifying are fulfilled for a son or for a daughter, she shall bring to the priest at the door of the Tabernacle of the Congregation a lamb of the first year for a burnt-offering and a young pigeon or a turtle-dove for a sin-offering.
-* `Lev 13:4` If the bright spot is white in the skin of his flesh and does not appear to be deeper than the skin, and its hair not turned white, then the priest shall shut him up who has the plague seven *_days_*.
-* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up seven more *_days_*.
-* `Lev 13:21` But if the priest looks at it, and behold, there are no white hairs in it and if it is not lower than the skin, but somewhat dark, then the priest shall shut him up seven *_days_*.
-* `Lev 13:26` But if the priest looks at it, and behold, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat dark, then the priest shall shut him up seven *_days_*.
-* `Lev 13:31` And if the priest looks at the plague of the itching, and behold, it does not appear deeper than the skin and no black hair in it, then the priest shall shut him up who has the plague of the itching seven *_days_*.
-* `Lev 13:33` He shall be shaved, but the itch he shall not shave, and the priest shall shut him up who has the itch seven more *_days_*.
+* `Lev 13:4` If the bright spot is white in the skin of his flesh and does not appear to be deeper than the skin, and its hair not turned white, then the priest shall shut him up who has the plague for seven *_days_*.
+* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up for seven more *_days_*.
+* `Lev 13:21` But if the priest looks at it, and behold, there are no white hairs in it and if it is not lower than the skin, but somewhat dark, then the priest shall shut him up for seven *_days_*.
+* `Lev 13:26` But if the priest looks at it, and behold, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat dark, then the priest shall shut him up for seven *_days_*.
+* `Lev 13:31` And if the priest looks at the plague of the itching, and behold, it does not appear deeper than the skin and no black hair in it, then the priest shall shut him up who has the plague of the itching for seven *_days_*.
+* `Lev 13:33` He shall be shaved, but the itch he shall not shave, and the priest shall shut him up who has the itch for seven more *_days_*.
 * `Lev 13:46` All the *_days_* in which the plague is in him he shall be defiled. He is unclean. He shall dwell alone. His dwelling shall be outside the camp.
-* `Lev 13:50` And the priest shall look upon the plague and shut up that which has the plague seven *_days_*.
-* `Lev 13:54` Then the priest shall command that they wash the thing in which the plague is and he shall shut it up seven more *_days_*.
-* `Lev 14:8` And he who is to be cleansed shall wash his clothes, shave off all his hair, and wash himself in water so that he may be clean. And after that he shall come into the camp and shall dwell outside his tent seven *_days_*.
-* `Lev 14:38` Then the priest shall go out of the house to the door of the house and shut the house up seven *_days_*.
+* `Lev 13:50` And the priest shall look upon the plague and shut up that which has the plague for seven *_days_*.
+* `Lev 13:54` Then the priest shall command that they wash the thing in which the plague is and he shall shut it up for seven more *_days_*.
+* `Lev 14:8` And he who is to be cleansed shall wash his clothes, shave off all his hair, and wash himself in water so that he may be clean. And after that, he shall come into the camp and shall dwell outside his tent for seven *_days_*.
+* `Lev 14:38` Then the priest shall go out of the house to the door of the house and shut the house up for seven *_days_*.
 * `Lev 15:13` 'And when he who has an issue is cleansed of his issue, he shall number to himself seven *_days_* for his cleansing, wash his clothes, and bathe his flesh in running water, and shall be clean.
-* `Lev 15:19` 'And if a woman has an issue, and her issue in her flesh is blood, she shall be put apart seven *_days_*. And whoever touches her shall be unclean until the evening.
+* `Lev 15:19` 'And if a woman has an issue, and her issue in her flesh is blood, she shall be in her separation for seven *_days_*. And whoever touches her shall be unclean until the evening.
 * `Lev 15:24` And if any man lies with her at all, and her flowers are upon him, he shall be unclean seven *_days_*. And every bed on which he lies shall be unclean.
-* `Lev 15:25` 'And if a woman has an issue of her blood many *_days_* out of the time of her separation, or if it runs beyond the time of her separation, all the *_days_* of the issue of her uncleanness shall be as the *_days_* of her separation. She shall be unclean.
+* `Lev 15:25` 'And if a woman has an issue of her blood for many *_days_* not in the time of her separation, or if it runs beyond the time of her separation, all the *_days_* of the issue of her uncleanness shall be as the *_days_* of her separation. She shall be unclean.
 * `Lev 15:26` Every bed on which she lies all the *_days_* of her issue shall be to her as the bed of her separation. And whatever she sits upon shall be unclean as the uncleanness of her separation.
-* `Lev 15:28` But if she is cleansed of her issue, then she shall number to herself seven *_days_*, and after that she shall be clean.
+* `Lev 15:28` But if she is cleansed of her issue, then she shall number to herself seven *_days_*, and after that, she shall be clean.
 * `Lev 22:27` "When a bull, a sheep, or a goat is brought forth, it shall remain seven *_days_* with its mother. And from the eighth day and thereafter it shall be accepted for an offering made by fire to the LORD.
 * `Lev 23:3` 'Six *_days_* work shall be done, but the seventh day is the sabbath of rest, a holy convocation. You shall do no work. It is the sabbath of the LORD in all your dwellings.
 * `Lev 23:6` And on the fifteenth day of the same month is the feast of unleavened bread to the LORD. Seven *_days_* you must eat unleavened bread.

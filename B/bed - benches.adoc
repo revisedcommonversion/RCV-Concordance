@@ -953,7 +953,7 @@ _4 verses containing BEFELL_
 * `Lev 10:19` And Aaron said to Moses, "Behold, this day they have offered their sin-offering and their burnt-offering *_before_* the LORD, and such things have befallen me. And if I had eaten the sin-offering today, would it have been accepted in the sight of the LORD?"
 * `Lev 12:7` And he shall offer it *_before_* the LORD and make an atonement for her, and she shall be cleansed from the issue of her blood. This is the law for her who has borne a male or a female.
 * `Lev 14:11` And the priest who makes him clean shall present the man who is to be made clean and those things *_before_* the LORD at the door of the Tabernacle of the Congregation.
-* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, and the log of oil, and wave them for a wave-offering *_before_* the LORD.
+* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, along with the log of oil, and wave them for a wave-offering *_before_* the LORD.
 * `Lev 14:16` And the priest shall dip his right finger in the oil that is in his left hand and shall sprinkle some of the oil with his finger seven times *_before_* the LORD.
 * `Lev 14:18` And the remnant of the oil that is in the priest's hand he shall pour upon the head of him who is to be cleansed. And the priest shall make an atonement for him *_before_* the LORD.
 * `Lev 14:23` And he shall bring them on the eighth day for his cleansing to the priest at the door of the Tabernacle of the Congregation *_before_* the LORD.
@@ -3423,29 +3423,29 @@ _65 verses containing BEHIND_
 * `Lev 10:16` And Moses diligently sought the goat of the sin-offering, and *_behold_*, it was burnt. And he was angry with Eleazar and Ithamar, the sons of Aaron who were left alive, saying,
 * `Lev 10:18` *_Behold_*, its blood was not brought within the holy place. You should indeed have eaten it in the holy place, as I commanded."
 * `Lev 10:19` And Aaron said to Moses, "*_Behold_*, this day they have offered their sin-offering and their burnt-offering before the LORD, and such things have befallen me. And if I had eaten the sin-offering today, would it have been accepted in the sight of the LORD?"
-* `Lev 13:5` And the priest shall look at him on the seventh day, and *_behold_*, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up seven more days.
-* `Lev 13:6` And the priest shall look at him again on the seventh day, and *_behold_*, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is but a scab. And he shall wash his clothes and be clean.
+* `Lev 13:5` And the priest shall look at him on the seventh day, and *_behold_*, if the plague in his sight is at a stay and the plague does not spread in the skin, then the priest shall shut him up for seven more days.
+* `Lev 13:6` And the priest shall look at him again on the seventh day, and *_behold_*, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is only a scab. And he shall wash his clothes and be clean.
 * `Lev 13:8` And if the priest sees, and *_behold_*, the scab spreads in the skin, then the priest shall pronounce him unclean. It is a leprosy.
 * `Lev 13:10` And the priest shall see him, and *_behold_*, if the rising is white in the skin and it has turned the hair white and there is raw flesh in the rising,
 * `Lev 13:13` Then the priest shall consider, and *_behold_*, if the leprosy has covered all his flesh, he shall pronounce him clean who has the plague. It is all turned white. He is clean.
 * `Lev 13:17` And the priest shall see him, and *_behold_*, if the plague is turned into white, then the priest shall pronounce him clean who has the plague. He is clean.
 * `Lev 13:20` And if when the priest sees it, *_behold_*, it appears lower than the skin and its hair is turned white, the priest shall pronounce him unclean. It is a plague of leprosy broken out of the boil.
-* `Lev 13:21` But if the priest looks at it, and *_behold_*, there are no white hairs in it and if it is not lower than the skin, but somewhat dark, then the priest shall shut him up seven days.
+* `Lev 13:21` But if the priest looks at it, and *_behold_*, there are no white hairs in it and if it is not lower than the skin, but somewhat dark, then the priest shall shut him up for seven days.
 * `Lev 13:25` Then the priest shall look upon it, and *_behold_*, if the hair in the bright spot is turned white and it appears deeper than the skin, it is a leprosy broken out of the burning; therefore, the priest shall pronounce him unclean. It is the plague of leprosy.
-* `Lev 13:26` But if the priest looks at it, and *_behold_*, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat dark, then the priest shall shut him up seven days.
+* `Lev 13:26` But if the priest looks at it, and *_behold_*, there is no white hair in the bright spot and it is no lower than the other skin, but is somewhat dark, then the priest shall shut him up for seven days.
 * `Lev 13:30` Then the priest shall see the plague, and *_behold_*, if it appears deeper than the skin and there is in it a yellow thin hair, then the priest shall pronounce him unclean. It is an itch, even a leprosy upon the head or beard.
-* `Lev 13:31` And if the priest looks at the plague of the itching, and *_behold_*, it does not appear deeper than the skin and no black hair in it, then the priest shall shut him up who has the plague of the itching seven days.
+* `Lev 13:31` And if the priest looks at the plague of the itching, and *_behold_*, it does not appear deeper than the skin and no black hair in it, then the priest shall shut him up who has the plague of the itching for seven days.
 * `Lev 13:32` And on the seventh day the priest shall look at the plague, and *_behold_*, if the itch does not spread and there is in it no yellow hair and the itch does not appear deeper than the skin,
 * `Lev 13:34` And on the seventh day the priest shall look at the itch, and *_behold_*, if the itch has not spread in the skin and does not appear deeper than the skin, then the priest shall pronounce him clean. And he shall wash his clothes and be clean.
 * `Lev 13:36` Then the priest shall look at him, and *_behold_*, if the itch has spread in the skin, the priest shall not seek for yellow hair. He is unclean.
 * `Lev 13:39` Then the priest shall look, and *_behold_*, if the bright spots in the skin of their flesh are darkish white, it is a freckled spot that grows in the skin. He is clean.
-* `Lev 13:43` Then the priest shall look upon it, and *_behold_*, if the rising of the sore is white reddish on his bald head, or on his bald forehead, as the leprosy appears in the skin of the flesh,
+* `Lev 13:43` Then the priest shall look upon it, and *_behold_*, if the rising of the sore is white reddish on his bald head or on his bald forehead, as the leprosy appears in the skin of the flesh,
 * `Lev 13:53` "And if the priest looks, and *_behold_*, the plague has not spread in the garment, either in the warp or in the woof, or in anything of skin,
 * `Lev 13:55` And the priest shall look at the plague after it is washed, and *_behold_*, if the plague has not changed its color, even though the plague has not spread, it is unclean. You shall burn it in the fire. It is a fret, whether it is bare inside or outside.
 * `Lev 13:56` "And if the priest looks, and *_behold_*, the plague is somewhat dark after its washing, then he shall rend it out of the garment, out of the skin, out of the warp, or out of the woof.
 * `Lev 14:3` And the priest shall go forth out of the camp and the priest shall look, and *_behold_*, if the plague of leprosy is healed in the leper,
 * `Lev 14:37` And he shall look at the plague, and *_behold_*, if the plague is in the walls of the house with hollow streaks, greenish or reddish, which in sight are lower than the wall,
-* `Lev 14:39` And the priest shall come back the seventh day and shall look, and *_behold_*, if the plague is spread in the walls of the house,
+* `Lev 14:39` And the priest shall come back on the seventh day and shall look, and *_behold_*, if the plague is spread in the walls of the house,
 * `Lev 14:44` Then the priest shall come and look, and *_behold_*, if the plague is spread in the house, it is a fretting leprosy in the house. It is unclean.
 * `Lev 14:48` "And if the priest comes in and looks upon it, and *_behold_*, the plague has not spread in the house after the house was plastered, then the priest shall pronounce the house clean because the plague is healed.
 * `Lev 25:20` And if you say, "What shall we eat the seventh year? *_Behold_*, we shall not sow nor gather in our increase,"

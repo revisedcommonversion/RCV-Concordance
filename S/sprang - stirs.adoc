@@ -22,8 +22,8 @@ _7 verses containing SPRANG_
 * `Exo 9:33` And Moses went out of the city from Pharaoh and *_spread_* abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 * `Exo 37:9` And the cherubim *_spread_* out their wings on high, covering the mercy-seat with their wings, with their faces to one another, even toward the mercy-seat were the faces of the cherubim.
 * `Exo 40:19` And he *_spread_* abroad the tent over the tabernacle and put the covering of the tent above upon it, as the LORD commanded Moses.
-* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a stay and the plague does not *_spread_* in the skin, then the priest shall shut him up seven more days.
-* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat dark and the plague does not *_spread_* in the skin, the priest shall pronounce him clean. It is but a scab. And he shall wash his clothes and be clean.
+* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a stay and the plague does not *_spread_* in the skin, then the priest shall shut him up for seven more days.
+* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat dark and the plague does not *_spread_* in the skin, the priest shall pronounce him clean. It is only a scab. And he shall wash his clothes and be clean.
 * `Lev 13:22` And if it has *_spread_* much in the skin, then the priest shall pronounce him unclean. It is a plague.
 * `Lev 13:23` But if the bright spot stays in its place and does not *_spread_*, it is a burning boil, and the priest shall pronounce him clean.
 * `Lev 13:27` And the priest shall look upon him on the seventh day. And if it is *_spread_* much in the skin, then the priest shall pronounce him unclean. It is the plague of leprosy.
@@ -34,7 +34,7 @@ _7 verses containing SPRANG_
 * `Lev 13:51` And he shall look at the plague on the seventh day. If the plague has *_spread_* in the garment, either in the warp or in the woof, or in a skin or in any work that is made of skin, the plague is a fretting leprosy, it is unclean.
 * `Lev 13:53` "And if the priest looks, and behold, the plague has not *_spread_* in the garment, either in the warp or in the woof, or in anything of skin,
 * `Lev 13:55` And the priest shall look at the plague after it is washed, and behold, if the plague has not changed its color, even though the plague has not *_spread_*, it is unclean. You shall burn it in the fire. It is a fret, whether it is bare inside or outside.
-* `Lev 14:39` And the priest shall come back the seventh day and shall look, and behold, if the plague is *_spread_* in the walls of the house,
+* `Lev 14:39` And the priest shall come back on the seventh day and shall look, and behold, if the plague is *_spread_* in the walls of the house,
 * `Lev 14:44` Then the priest shall come and look, and behold, if the plague is *_spread_* in the house, it is a fretting leprosy in the house. It is unclean.
 * `Lev 14:48` "And if the priest comes in and looks upon it, and behold, the plague has not *_spread_* in the house after the house was plastered, then the priest shall pronounce the house clean because the plague is healed.
 * `Num 4:6` Then they shall put the covering of badgers' skins on it, *_spread_* a cloth wholly of blue over it, and put in its staffs.
@@ -323,7 +323,7 @@ _1 verse containing SPROUT_
 
 * `Gen 41:6` And behold, seven heads, thin and blasted with the east wind, *_sprung_* up after them.
 * `Gen 41:23` And behold, seven heads, withered, thin, and blasted with the east wind, *_sprung_* up after them.
-* `Lev 13:42` And if there is in the bald head or bald forehead a white reddish sore, it is a leprosy *_sprung_* up on his bald head, or his bald forehead.
+* `Lev 13:42` And if there is in the bald head or bald forehead a white reddish sore, it is a leprosy *_sprung_* up on his bald head or his bald forehead.
 * `Mth 13:5` Some fell upon stony places where they did not have much earth. And immediately they *_sprung_* up because they had no deepness of earth.
 * `Mth 13:7` And some fell among thorns, and the thorns *_sprung_* up and choked them.
 * `Mth 13:26` But when the blade had *_sprung_* up and brought forth fruit, the tares also appeared.
@@ -1384,7 +1384,7 @@ _131 verses containing STATUTES_
 * `Gen 27:44` And *_stay_* with him a few days until your brother's fury turns away,
 * `Gen 30:27` And Laban said to him, "I pray you, if I have found favor in your eyes, *_stay_*, for I have learned by experience that the LORD has blessed me for your sake."
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail, and I will let you go, and you shall *_stay_* no longer."
-* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a *_stay_* and the plague does not spread in the skin, then the priest shall shut him up seven more days.
+* `Lev 13:5` And the priest shall look at him on the seventh day, and behold, if the plague in his sight is at a *_stay_* and the plague does not spread in the skin, then the priest shall shut him up for seven more days.
 * `Lev 13:37` But if the itch appears to be at a *_stay_* and there is black hair grown in it, the itch is healed and he is clean. And the priest shall pronounce him clean.
 * `Num 22:19` Now therefore you also, I pray you, *_stay_* here this night so that I may know what more the LORD will say to me."
 * `Jsh 10:19` And do not *_stay_*, but pursue your enemies and smite the hindmost of them. Do not allow them to enter into their cities, for the LORD your God has delivered them into your hand."

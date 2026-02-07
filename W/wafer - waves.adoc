@@ -964,7 +964,7 @@ _1 verse containing WALLOWING_
 == WALLS
 
 * `Lev 14:37` And he shall look at the plague, and behold, if the plague is in the *_walls_* of the house with hollow streaks, greenish or reddish, which in sight are lower than the wall,
-* `Lev 14:39` And the priest shall come back the seventh day and shall look, and behold, if the plague is spread in the *_walls_* of the house,
+* `Lev 14:39` And the priest shall come back on the seventh day and shall look, and behold, if the plague is spread in the *_walls_* of the house,
 * `Lev 25:31` But the houses of the villages which have no *_walls_* around them shall be counted as the fields of the country. They may be redeemed and they shall go out in the jubilee.
 * `Deu 3:5` All these cities were fortified with high *_walls_*, gates, and bars, besides a great number of unwalled towns.
 * `Deu 28:52` And he shall besiege you in all your gates until your high and fortified *_walls_* in which you trusted come down throughout all your land. And he shall besiege you in all your gates throughout all your land which the LORD your God has given you.
@@ -1592,12 +1592,12 @@ _14 verses containing WARS_
 * `Lev 11:25` And whoever bears anything of their carcass shall *_wash_* his clothes and be unclean until the evening.
 * `Lev 11:28` And he who bears their carcass shall *_wash_* his clothes and be unclean until the evening. They are unclean to you.
 * `Lev 11:40` And he who eats from its carcass shall *_wash_* his clothes and be unclean until the evening. He also who bears its carcass shall *_wash_* his clothes and be unclean until the evening.
-* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is but a scab. And he shall *_wash_* his clothes and be clean.
+* `Lev 13:6` And the priest shall look at him again on the seventh day, and behold, if the plague is somewhat dark and the plague does not spread in the skin, the priest shall pronounce him clean. It is only a scab. And he shall *_wash_* his clothes and be clean.
 * `Lev 13:34` And on the seventh day the priest shall look at the itch, and behold, if the itch has not spread in the skin and does not appear deeper than the skin, then the priest shall pronounce him clean. And he shall *_wash_* his clothes and be clean.
-* `Lev 13:54` Then the priest shall command that they *_wash_* the thing in which the plague is and he shall shut it up seven more days.
+* `Lev 13:54` Then the priest shall command that they *_wash_* the thing in which the plague is and he shall shut it up for seven more days.
 * `Lev 13:58` And the garment, either warp or woof, or whatever thing of skin it is, which you shall *_wash_*, if the plague has departed from them, then it shall be washed a second time and shall be clean."
-* `Lev 14:8` And he who is to be cleansed shall *_wash_* his clothes, shave off all his hair, and *_wash_* himself in water so that he may be clean. And after that he shall come into the camp and shall dwell outside his tent seven days.
-* `Lev 14:9` But it shall be on the seventh day, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall *_wash_* his clothes and also he shall *_wash_* his flesh in water and he shall be clean.
+* `Lev 14:8` And he who is to be cleansed shall *_wash_* his clothes, shave off all his hair, and *_wash_* himself in water so that he may be clean. And after that, he shall come into the camp and shall dwell outside his tent for seven days.
+* `Lev 14:9` But it shall be on the seventh day, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall *_wash_* his clothes and *_wash_* his flesh in water, and he shall be clean.
 * `Lev 14:47` He who lies in the house shall *_wash_* his clothes, and he who eats in the house shall *_wash_* his clothes.
 * `Lev 15:5` And whoever touches his bed shall *_wash_* his clothes and bathe himself in water and be unclean until the evening.
 * `Lev 15:6` And he who sits on anything on which he sat who has the issue shall *_wash_* his clothes and bathe himself in water and be unclean until the evening.
@@ -2138,8 +2138,8 @@ _12 verses containing WATCHMEN_
 * `Lev 11:38` But if any *_water_* is put upon the seed, and any part of their carcass falls on it, it shall be unclean to you.
 * `Lev 14:5` And the priest shall command that one of the birds be killed in an earthen vessel over running *_water_*.
 * `Lev 14:6` As for the living bird, he shall take it, the cedar-wood, the scarlet, and the hyssop and shall dip them and the living bird in the blood of the bird that was killed over the running *_water_*.
-* `Lev 14:8` And he who is to be cleansed shall wash his clothes, shave off all his hair, and wash himself in *_water_* so that he may be clean. And after that he shall come into the camp and shall dwell outside his tent seven days.
-* `Lev 14:9` But it shall be on the seventh day, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall wash his clothes and also he shall wash his flesh in *_water_* and he shall be clean.
+* `Lev 14:8` And he who is to be cleansed shall wash his clothes, shave off all his hair, and wash himself in *_water_* so that he may be clean. And after that, he shall come into the camp and shall dwell outside his tent for seven days.
+* `Lev 14:9` But it shall be on the seventh day, that he shall shave all his hair off his head, his beard, and his eye-brows, even all his hair he shall shave off. And he shall wash his clothes and wash his flesh in *_water_*, and he shall be clean.
 * `Lev 14:50` And he shall kill one of the birds in an earthen vessel over running *_water_*,
 * `Lev 14:51` And he shall take the cedar-wood, the hyssop, the scarlet, and the living bird and dip them in the blood of the slain bird and in the running *_water_*, and sprinkle the house seven times.
 * `Lev 14:52` And he shall cleanse the house with the blood of the bird, with the running *_water_*, with the living bird, with the cedar-wood, with the hyssop, and with the scarlet.
@@ -2806,7 +2806,7 @@ _263 verses containing WATERS_
 * `Lev 9:21` And the breasts and the right shoulder Aaron waved for a *_wave_*-offering before the LORD, as Moses commanded.
 * `Lev 10:14` And the *_wave_*-breast and heave-shoulder you shall eat in a clean place—you, your sons, and your daughters with you—for they are your due and your sons' due, which are given out of the sacrifices of peace-offerings of the children of Israel.
 * `Lev 10:15` The heave-shoulder and the *_wave_*-breast they shall bring, with the offerings made by fire of the fat, to *_wave_* it for a *_wave_*-offering before the LORD, and it shall be yours and your sons' with you by a statute forever, as the LORD has commanded."
-* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, and the log of oil, and *_wave_* them for a *_wave_*-offering before the LORD.
+* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, along with the log of oil, and *_wave_* them for a *_wave_*-offering before the LORD.
 * `Lev 14:24` And the priest shall take the lamb of the trespass-offering and the log of oil, and the priest shall *_wave_* them for a *_wave_*-offering before the LORD.
 * `Lev 23:11` And he shall *_wave_* the sheaf before the LORD to be accepted for you. On the next day after the sabbath the priest shall *_wave_* it.
 * `Lev 23:12` And you shall offer on the day when you *_wave_* the sheaf a male lamb without blemish of the first year for a burnt-offering to the LORD.
@@ -2847,7 +2847,7 @@ _1 verse containing WAVE-LOAVES_
 * `Lev 8:29` And Moses took the breast and waved it for a *_wave-offering_* before the LORD. It was Moses's part of the ram of consecration, as the LORD commanded Moses.
 * `Lev 9:21` And the breasts and the right shoulder Aaron waved for a *_wave-offering_* before the LORD, as Moses commanded.
 * `Lev 10:15` The heave-shoulder and the wave-breast they shall bring, with the offerings made by fire of the fat, to wave it for a *_wave-offering_* before the LORD, and it shall be yours and your sons' with you by a statute forever, as the LORD has commanded."
-* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, and the log of oil, and wave them for a *_wave-offering_* before the LORD.
+* `Lev 14:12` And the priest shall take one male lamb and offer him for a trespass-offering, along with the log of oil, and wave them for a *_wave-offering_* before the LORD.
 * `Lev 14:24` And the priest shall take the lamb of the trespass-offering and the log of oil, and the priest shall wave them for a *_wave-offering_* before the LORD.
 * `Lev 23:15` 'And you shall count for yourselves from the next day after the sabbath, from the day that you brought the sheaf of the *_wave-offering_*, seven complete sabbaths.
 * `Lev 23:20` And the priest shall wave them with the bread of the first-fruits for a *_wave-offering_* before the LORD, with the two lambs. They shall be holy to the LORD for the priest.

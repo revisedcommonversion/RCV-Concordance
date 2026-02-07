@@ -779,7 +779,7 @@ _7 verses containing TRENCH_
 * `Lev 7:5` And the priest shall burn them upon the altar for an offering made by fire to the LORD. It is a *_trespass_*-offering.
 * `Lev 7:7` As the sin-offering is, so is the *_trespass_*-offering. There is one law for them. The priest who makes atonement with it shall have it.
 * `Lev 7:37` This is the law of the burnt-offering, of the food-offering, of the sin-offering, of the *_trespass_*-offering, of the consecrations, and of the sacrifice of the peace-offerings,
-* `Lev 14:12` And the priest shall take one male lamb and offer him for a *_trespass_*-offering, and the log of oil, and wave them for a wave-offering before the LORD.
+* `Lev 14:12` And the priest shall take one male lamb and offer him for a *_trespass_*-offering, along with the log of oil, and wave them for a wave-offering before the LORD.
 * `Lev 14:13` And he shall slay the lamb in the place where he kills the sin-offering and the burnt-offering, in the holy-place. As the sin-offering is the priest's, so is the *_trespass_*-offering. It is most holy.
 * `Lev 14:14` And the priest shall take some of the blood of the *_trespass_*-offering, and the priest shall put it upon the tip of the right ear of him who is to be cleansed, upon the thumb of his right hand, and upon the great toe of his right foot.
 * `Lev 14:17` And the priest shall put some of the rest of the oil that is in his hand upon the tip of the right ear of him who is to be cleansed, upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the *_trespass_*-offering.
@@ -853,7 +853,7 @@ _1 verse containing TRESPASS-MONEY_
 * `Lev 7:5` And the priest shall burn them upon the altar for an offering made by fire to the LORD. It is a *_trespass-offering_*.
 * `Lev 7:7` As the sin-offering is, so is the *_trespass-offering_*. There is one law for them. The priest who makes atonement with it shall have it.
 * `Lev 7:37` This is the law of the burnt-offering, of the food-offering, of the sin-offering, of the *_trespass-offering_*, of the consecrations, and of the sacrifice of the peace-offerings,
-* `Lev 14:12` And the priest shall take one male lamb and offer him for a *_trespass-offering_*, and the log of oil, and wave them for a wave-offering before the LORD.
+* `Lev 14:12` And the priest shall take one male lamb and offer him for a *_trespass-offering_*, along with the log of oil, and wave them for a wave-offering before the LORD.
 * `Lev 14:13` And he shall slay the lamb in the place where he kills the sin-offering and the burnt-offering, in the holy-place. As the sin-offering is the priest's, so is the *_trespass-offering_*. It is most holy.
 * `Lev 14:14` And the priest shall take some of the blood of the *_trespass-offering_*, and the priest shall put it upon the tip of the right ear of him who is to be cleansed, upon the thumb of his right hand, and upon the great toe of his right foot.
 * `Lev 14:17` And the priest shall put some of the rest of the oil that is in his hand upon the tip of the right ear of him who is to be cleansed, upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the *_trespass-offering_*.
