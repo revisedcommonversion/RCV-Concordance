@@ -404,7 +404,7 @@ _4 verses containing OBJECT_
 
 == OBLATION
 
-* `Lev 2:4` 'And if you bring an *_oblation_* of a food-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+* `Lev 2:4` 'And if you bring an *_oblation_* of a food-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with oil or unleavened wafers anointed with oil.
 * `Lev 2:5` And if your *_oblation_* is a food-offering baked in a pan, it shall be of fine flour unleavened, mingled with oil.
 * `Lev 2:7` And if your *_oblation_* is a food-offering baked in the frying-pan, it shall be made of fine flour with oil.
 * `Lev 2:12` As for the *_oblation_* of the first-fruits, you shall offer them to the LORD, but they shall not be burnt on the altar for a sweet savor.
@@ -828,8 +828,8 @@ _7 verses containing ODORS_
 * `Lev 4:31` And he shall take away all its fat, as the fat is taken away from *_off_* the sacrifice of peace-offerings, and the priest shall burn it upon the altar for a sweet savor to the LORD. And the priest shall make an atonement for him, and he shall be forgiven.
 * `Lev 5:8` And he shall bring them to the priest who shall offer that which is for the sin-offering first and wring *_off_* its head from its neck, but shall not divide it apart.
 * `Lev 6:11` And he shall take *_off_* his garments and put on other garments and carry forth the ashes outside the camp to a clean place.
-* `Lev 7:20` But the soul who eats of the flesh of the sacrifice of peace-offerings that pertain to the LORD, having his uncleanness upon him, even that soul shall be cut *_off_* from his people.
-* `Lev 7:21` Moreover, the soul who touches any unclean thing, as the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats of the flesh of the sacrifice of peace-offerings which pertain to the LORD, even that soul shall be cut *_off_* from his people.'"
+* `Lev 7:20` But the soul who eats the flesh of the sacrifice of peace-offerings that pertain to the LORD, having his uncleanness upon him, even that soul shall be cut *_off_* from his people.
+* `Lev 7:21` Moreover, the soul who touches any unclean thing, whether the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats the flesh of the sacrifice of peace-offerings which pertain to the LORD, even that soul shall be cut *_off_* from his people.'"
 * `Lev 7:25` For whoever eats the fat of the beast, of which men offer an offering made by fire to the LORD, even the soul who eats it shall be cut *_off_* from his people.
 * `Lev 7:27` Whatever soul it may be who eats any manner of blood, even that soul shall be cut *_off_* from his people.'"
 * `Lev 8:28` And Moses took them from *_off_* their hands and burnt them on the altar upon the burnt-offering. They were consecrations for a sweet savor. It is an offering made by fire to the LORD.
@@ -1351,7 +1351,7 @@ _7 verses containing OFFENSIVE_
 * `Exo 29:41` And the other lamb you shall *_offer_* at evening, and shall do to it according to the food-offering of the morning and according to the drink-offering thereof for a sweet savor, an offering made by fire to the LORD.
 * `Exo 30:9` You shall *_offer_* no strange incense upon it, nor burnt-sacrifice, nor food-offering, neither shall you pour drink-offering upon it.
 * `Exo 34:25` "You shall not *_offer_* the blood of my sacrifice with leaven, neither shall the sacrifice of the feast of the passover be left until the morning.
-* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him *_offer_* a male without blemish. He shall *_offer_* it of his own voluntary will at the door of the Tabernacle of the Congregation before the LORD.
+* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him *_offer_* a male without blemish. He shall *_offer_* it at the door of the Tabernacle of the Congregation so that he may be accepted before the LORD.
 * `Lev 2:1` "'And when anyone will *_offer_* a food-offering to the LORD, his offering shall be of fine flour. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:12` As for the oblation of the first-fruits, you shall *_offer_* them to the LORD, but they shall not be burnt on the altar for a sweet savor.
 * `Lev 2:13` And every oblation of your food-offering you shall season with salt, neither shall you allow the salt of the covenant of your God to be lacking from your food-offering. With all your offerings you shall *_offer_* salt.
@@ -1753,18 +1753,18 @@ _146 verses containing OFFERED_
 * `Exo 40:10` And you shall anoint the altar of the burnt-*_offering_* and all its vessels and sanctify the altar, and it shall be an altar most holy.
 * `Exo 40:29` And he put the altar of burnt-*_offering_* by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt-*_offering_* and the food-*_offering_*, as the LORD commanded Moses.
 * `Lev 1:2` "Speak to the children of Israel and say to them, 'If any man among you brings an *_offering_* to the LORD, you shall bring your *_offering_* from the livestock, even from the herd and from the flock.
-* `Lev 1:3` If his *_offering_* is a burnt-sacrifice from the herd, let him offer a male without blemish. He shall offer it of his own voluntary will at the door of the Tabernacle of the Congregation before the LORD.
+* `Lev 1:3` If his *_offering_* is a burnt-sacrifice from the herd, let him offer a male without blemish. He shall offer it at the door of the Tabernacle of the Congregation so that he may be accepted before the LORD.
 * `Lev 1:4` And he shall put his hand upon the head of the burnt-*_offering_*, and it shall be accepted for him to make atonement for him.
 * `Lev 1:6` And he shall flay the burnt-*_offering_* and cut it into its pieces.
 * `Lev 1:9` But his inwards and his legs he shall wash in water. And the priest shall burn all on the altar to be a burnt-sacrifice, an *_offering_* made by fire, a sweet savor to the LORD.
 * `Lev 1:10` 'And if his *_offering_* is from the flocks, namely, from the sheep or from the goats, for a burnt-sacrifice, he shall bring it a male without blemish.
 * `Lev 1:13` But he shall wash the inwards and the legs with water. And the priest shall bring it all and burn it upon the altar. It is a burnt sacrifice, an *_offering_* made by fire, a sweet savor to the LORD.
-* `Lev 1:14` 'And if the burnt sacrifice for his *_offering_* to the LORD is of birds, then he shall bring his *_offering_* of turtle-doves, or of young pigeons.
+* `Lev 1:14` 'And if the burnt sacrifice for his *_offering_* to the LORD is of birds, then he shall bring his *_offering_* of turtle-doves or of young pigeons.
 * `Lev 1:17` And he shall cleave it with its wings, but shall not divide it apart. And the priest shall burn it upon the altar, upon the wood that is upon the fire. It is a burnt sacrifice, an *_offering_* made by fire, a sweet savor to the LORD.'"
 * `Lev 2:1` "'And when anyone will offer a food-*_offering_* to the LORD, his *_offering_* shall be of fine flour. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:2` And he shall bring it to Aaron's sons the priests. And he shall take from it his handful of flour and oil, with all its frankincense, and the priest shall burn its memorial upon the altar to be an *_offering_* made by fire, a sweet savor to the LORD.
 * `Lev 2:3` And the remnant of the food-*_offering_* shall be Aaron's and his sons'. It is a thing most holy of the offerings of the LORD made by fire.
-* `Lev 2:4` 'And if you bring an oblation of a food-*_offering_* baked in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+* `Lev 2:4` 'And if you bring an oblation of a food-*_offering_* baked in the oven, it shall be unleavened cakes of fine flour mingled with oil or unleavened wafers anointed with oil.
 * `Lev 2:5` And if your oblation is a food-*_offering_* baked in a pan, it shall be of fine flour unleavened, mingled with oil.
 * `Lev 2:6` You shall part it in pieces and pour oil upon it. It is a food-*_offering_*.
 * `Lev 2:7` And if your oblation is a food-*_offering_* baked in the frying-pan, it shall be made of fine flour with oil.
@@ -1812,7 +1812,7 @@ _146 verses containing OFFERED_
 * `Lev 5:11` 'But if he is not able to bring two turtle-doves or two young pigeons, then he who sinned shall bring for his *_offering_* the tenth part of an ephah of fine flour for a sin-*_offering_*. He shall put no oil upon it, neither shall he put any frankincense upon it, for it is a sin-*_offering_*.
 * `Lev 5:12` Then he shall bring it to the priest, and the priest shall take a handful of it, even a memorial of it, and burn it on the altar, according to the offerings made by fire to the LORD. It is a sin-*_offering_*.
 * `Lev 5:13` And the priest shall make an atonement for him as concerning his sin that he has sinned in one of these, and he shall be forgiven. And the remnant shall be the priest's as a food-*_offering_*.'"
-* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without blemish out of the flocks, with your estimation by shekels of silver after the shekel of the sanctuary, for a trespass-*_offering_*.
+* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without blemish out of the flocks, with your estimation in shekels of silver after the shekel of the sanctuary, for a trespass-*_offering_*.
 * `Lev 5:16` And he shall make amends for the harm that he has done in the holy thing, and shall add to it the fifth part and give it to the priest. And the priest shall make an atonement for him with the ram of the trespass-*_offering_*, and he shall be forgiven.
 * `Lev 5:18` And he shall bring a ram without blemish out of the flock, with your estimation, for a trespass-*_offering_* to the priest. And the priest shall make an atonement for him concerning his ignorance wherein he erred and did not know it, and he shall be forgiven.
 * `Lev 5:19` It is a trespass-*_offering_*. He has certainly trespassed against the LORD."
@@ -1868,7 +1868,7 @@ _146 verses containing OFFERED_
 * `Lev 10:12` And Moses spoke to Aaron and to Eleazar and Ithamar, his sons who were left, "Take the food-*_offering_* that remains of the offerings of the LORD made by fire and eat it without leaven beside the altar, for it is most holy.
 * `Lev 10:15` The heave-shoulder and the wave-breast they shall bring, with the offerings made by fire of the fat, to wave it for a wave-*_offering_* before the LORD, and it shall be yours and your sons' with you by a statute forever, as the LORD has commanded."
 * `Lev 10:16` And Moses diligently sought the goat of the sin-*_offering_*, and behold, it was burnt. And he was angry with Eleazar and Ithamar, the sons of Aaron who were left alive, saying,
-* `Lev 10:17` "Why have you not eaten the sin-*_offering_* in the holy place, seeing it is most holy, and God has given it to you to bear the iniquity of the congregation to make atonement for them before the LORD?
+* `Lev 10:17` "Why have you not eaten the sin-*_offering_* in the holy place? For it is most holy, and God has given it to you to bear the iniquity of the congregation to make atonement for them before the LORD.
 * `Lev 10:19` And Aaron said to Moses, "Behold, this day they have offered their sin-*_offering_* and their burnt-*_offering_* before the LORD, and such things have befallen me. And if I had eaten the sin-*_offering_* today, would it have been accepted in the sight of the LORD?"
 * `Lev 12:6` 'And when the days of her purifying are fulfilled for a son or for a daughter, she shall bring to the priest at the door of the Tabernacle of the Congregation a lamb of the first year for a burnt-*_offering_* and a young pigeon or a turtle-dove for a sin-*_offering_*.
 * `Lev 12:8` And if she is not able to bring a lamb, then she shall bring two turtle-doves or two young pigeons, one for the burnt-*_offering_* and the other for a sin-*_offering_*. And the priest shall make an atonement for her, and she shall be clean.'"
@@ -2239,9 +2239,9 @@ _506 verses containing OFFERING_
 * `Lev 7:13` Besides the cakes, he shall offer for his offering leavened bread with the sacrifice of thanksgiving of his peace-*_offerings_*.
 * `Lev 7:14` And from it he shall offer one out of the whole oblation for a heave-offering to the LORD, and it shall be the priest's who sprinkles the blood of the peace-*_offerings_*.
 * `Lev 7:15` 'And the flesh of the sacrifice of his peace-*_offerings_* for thanksgiving shall be eaten the same day that it is offered. He shall not leave any of it until the morning.
-* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-*_offerings_* is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats of it shall bear his iniquity.
-* `Lev 7:20` But the soul who eats of the flesh of the sacrifice of peace-*_offerings_* that pertain to the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.
-* `Lev 7:21` Moreover, the soul who touches any unclean thing, as the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats of the flesh of the sacrifice of peace-*_offerings_* which pertain to the LORD, even that soul shall be cut off from his people.'"
+* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-*_offerings_* is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats it shall bear his iniquity.
+* `Lev 7:20` But the soul who eats the flesh of the sacrifice of peace-*_offerings_* that pertain to the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.
+* `Lev 7:21` Moreover, the soul who touches any unclean thing, whether the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats the flesh of the sacrifice of peace-*_offerings_* which pertain to the LORD, even that soul shall be cut off from his people.'"
 * `Lev 7:29` "Speak to the children of Israel, saying, 'He who offers the sacrifice of his peace-*_offerings_* to the LORD shall bring his oblation to the LORD from the sacrifice of his peace-*_offerings_*.
 * `Lev 7:30` His own hands shall bring the *_offerings_* of the LORD made by fire. The fat with the breast, those he shall bring so that the breast may be waved for a wave-offering before the LORD.
 * `Lev 7:32` And the right shoulder you shall give to the priest for a heave-offering from the sacrifices of your peace-*_offerings_*.
@@ -2439,7 +2439,7 @@ _210 verses containing OFFERINGS_
 * `Lev 7:9` And all the food-offering that is baked in the oven and all that is dressed in the frying-pan and on the griddle shall be the priest's who *_offers_* it.
 * `Lev 7:12` If he *_offers_* it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, unleavened wafers anointed with oil, and cakes mingled with oil of fine flour, fried.
 * `Lev 7:16` But if the sacrifice of his offering is a vow or a voluntary offering, it shall be eaten the same day that he *_offers_* his sacrifice, and on the next day also its remainder shall be eaten.
-* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who *_offers_* it. It shall be an abomination. And the soul who eats of it shall bear his iniquity.
+* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who *_offers_* it. It shall be an abomination. And the soul who eats it shall bear his iniquity.
 * `Lev 7:29` "Speak to the children of Israel, saying, 'He who *_offers_* the sacrifice of his peace-offerings to the LORD shall bring his oblation to the LORD from the sacrifice of his peace-offerings.
 * `Lev 7:33` He among the sons of Aaron who *_offers_* the blood of the peace-offerings and the fat shall have the right shoulder for his part.
 * `Lev 17:8` "And you shall say to them, 'Whatever man there may be of the house of Israel or of the strangers which sojourn among you who *_offers_* a burnt-offering or sacrifice,
@@ -2901,7 +2901,7 @@ _1 verse containing OHEL_
 * `Exo 40:9` And you shall take the anointing *_oil_* and anoint the tabernacle and all that is in it, and shall hallow it and all its vessels, and it shall be holy.
 * `Lev 2:1` "'And when anyone will offer a food-offering to the LORD, his offering shall be of fine flour. And he shall pour *_oil_* upon it and put frankincense upon it.
 * `Lev 2:2` And he shall bring it to Aaron's sons the priests. And he shall take from it his handful of flour and *_oil_*, with all its frankincense, and the priest shall burn its memorial upon the altar to be an offering made by fire, a sweet savor to the LORD.
-* `Lev 2:4` 'And if you bring an oblation of a food-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with *_oil_*, or unleavened wafers anointed with *_oil_*.
+* `Lev 2:4` 'And if you bring an oblation of a food-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with *_oil_* or unleavened wafers anointed with *_oil_*.
 * `Lev 2:5` And if your oblation is a food-offering baked in a pan, it shall be of fine flour unleavened, mingled with *_oil_*.
 * `Lev 2:6` You shall part it in pieces and pour *_oil_* upon it. It is a food-offering.
 * `Lev 2:7` And if your oblation is a food-offering baked in the frying-pan, it shall be made of fine flour with *_oil_*.

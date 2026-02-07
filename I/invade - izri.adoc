@@ -980,11 +980,11 @@ _1 verse containing ISPAH_
 * `Lev 7:38` Which the LORD commanded Moses on mount Sinai in the day that he commanded the children of *_Israel_* to offer their oblations to the LORD in the wilderness of Sinai.
 * `Lev 9:1` And it came to pass on the eighth day, that Moses called Aaron and his sons and the elders of *_Israel_*.
 * `Lev 9:3` And to the children of *_Israel_* you shall speak, saying, 'Take a kid of the goats for a sin-offering and a calf and a lamb, both of the first year, without blemish, for a burnt-offering,
-* `Lev 10:6` And Moses said to Aaron and to Eleazar and to Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of *_Israel_*, bewail the burning which the LORD has kindled.
+* `Lev 10:6` And Moses said to Aaron and to Eleazar and Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of *_Israel_*, bewail the burning which the LORD has kindled.
 * `Lev 10:11` And that you may teach the children of *_Israel_* all the statutes which the LORD has spoken to them by the hand of Moses."
 * `Lev 10:14` And the wave-breast and heave-shoulder you shall eat in a clean place—you, your sons, and your daughters with you—for they are your due and your sons' due, which are given out of the sacrifices of peace-offerings of the children of *_Israel_*.
 * `Lev 11:2` "Speak to the children of *_Israel_*, saying, 'These are the beasts which you may eat among all the beasts that are on the earth.
-* `Lev 12:2` "Speak to the children of *_Israel_*, saying, 'If a woman conceives and gives birth to a male child, then she shall be unclean seven days. According to the days of the separation for her infirmity she shall be unclean.
+* `Lev 12:2` "Speak to the children of *_Israel_*, saying, 'If a woman conceives and gives birth to a male child, then she shall be unclean for seven days. According to the days of the separation for her infirmity she shall be unclean.
 * `Lev 15:2` "Speak to the children of *_Israel_* and say to them, 'When any man has a running issue out of his flesh, because of his issue he is unclean.
 * `Lev 15:31` "Thus you shall separate the children of *_Israel_* from their uncleanness so that they do not die in their uncleanness when they defile my tabernacle that is among them."
 * `Lev 16:5` And he shall take from the congregation of the children of *_Israel_* two kids of the goats for a sin-offering and one ram for a burnt-offering.
@@ -3276,7 +3276,7 @@ _1 verse containing ITHAI_
 * `Exo 6:23` And Aaron took for himself Elisheba, daughter of Amminadab, sister of Naashon, for a wife. And she bore him Nadab, Abihu, Eleazar, and *_Ithamar_*.
 * `Exo 28:1` "And bring to you Aaron your brother and his sons with him from among the children of Israel so that he may minister to me in the priest's office, even Aaron and Nadab, Abihu, Eleazar, and *_Ithamar_*, Aaron's sons.
 * `Exo 38:21` This is the sum of the tabernacle, even of the tabernacle of testimony, as it was counted, according to the commandment of Moses, for the service of the Levites, by the hand of *_Ithamar_*, son to Aaron the priest.
-* `Lev 10:6` And Moses said to Aaron and to Eleazar and to *_Ithamar_* his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has kindled.
+* `Lev 10:6` And Moses said to Aaron and to Eleazar and *_Ithamar_* his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has kindled.
 * `Lev 10:12` And Moses spoke to Aaron and to Eleazar and *_Ithamar_*, his sons who were left, "Take the food-offering that remains of the offerings of the LORD made by fire and eat it without leaven beside the altar, for it is most holy.
 * `Lev 10:16` And Moses diligently sought the goat of the sin-offering, and behold, it was burnt. And he was angry with Eleazar and *_Ithamar_*, the sons of Aaron who were left alive, saying,
 * `Num 3:2` And these are the names of the sons of Aaron: Nadab the first-born, Abihu, Eleazar, and *_Ithamar_*.
@@ -3509,6 +3509,10 @@ _1 verse containing ITHRITES_
 * `Lev 8:23` And Moses slew it and took some of *_its_* blood and put it upon the tip of Aaron's right ear, upon the thumb of his right hand, and upon the great toe of his right foot.
 * `Lev 9:13` And they presented the burnt-offering to him, with *_its_* pieces and the head, and he burnt them upon the altar.
 * `Lev 10:18` Behold, *_its_* blood was not brought within the holy place. You should indeed have eaten it in the holy place, as I commanded."
+* `Lev 11:14` The falcon, the kite after *_its_* kind,
+* `Lev 11:15` Every raven after *_its_* kind,
+* `Lev 11:16` The owl, the night-hawk, the gull, the hawk after *_its_* kind,
+* `Lev 11:19` The stork, the heron after *_its_* kind, the lapwing, and the bat.
 * `Lev 11:22` Even these of them you may eat: the swarming-locust after *_its_* kind, the consuming-locust after *_its_* kind, the cricket after *_its_* kind, and the locust after *_its_* kind.
 * `Lev 11:27` And whatever goes upon *_its_* paws, among all manner of beasts that go on all four, those are unclean to you. Whoever touches their carcass shall be unclean until the evening.
 * `Lev 11:29` 'These also shall be unclean to you among the creeping animals that creep upon the earth: the weasel, the mouse, the great lizard after *_its_* kind,
@@ -4131,7 +4135,7 @@ _1 verse containing ITHRITES_
 * `Rev 21:25` And *_its_* gates shall not be shut by day, for there shall be no night there.
 * `Rev 22:2` In the midst of *_its_* street. And on each side of the river was the tree of life, which bore twelve kinds of fruits and yielded her fruit every month. And the leaves of the tree were for the healing of the nations.
 
-_779 verses containing ITS_
+_783 verses containing ITS_
 
 == ITSELF
 

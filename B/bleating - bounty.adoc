@@ -17,7 +17,7 @@ _1 verse containing BLEATINGS_
 
 * `Exo 12:5` Your lamb shall be without *_blemish_*, a male of the first year. You shall take it from the sheep or from the goats,
 * `Exo 29:1` "And this is the thing that you shall do to them to hallow them, to minister to me in the priest's office. Take one young bull and two rams without *_blemish_*,
-* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him offer a male without *_blemish_*. He shall offer it of his own voluntary will at the door of the Tabernacle of the Congregation before the LORD.
+* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him offer a male without *_blemish_*. He shall offer it at the door of the Tabernacle of the Congregation so that he may be accepted before the LORD.
 * `Lev 1:10` 'And if his offering is from the flocks, namely, from the sheep or from the goats, for a burnt-sacrifice, he shall bring it a male without *_blemish_*.
 * `Lev 3:1` "'And if his oblation is a sacrifice of peace-offering, if he offers it from the herd, whether a male or female, he shall offer it without *_blemish_* before the LORD.
 * `Lev 3:6` 'And if his offering for a sacrifice of peace-offering to the LORD is from the flock, male or female, he shall offer it without *_blemish_*.
@@ -25,7 +25,7 @@ _1 verse containing BLEATINGS_
 * `Lev 4:23` Or if his sin, in which he has sinned, comes to his knowledge, he shall bring his offering, a kid of the goats, a male without *_blemish_*.
 * `Lev 4:28` Or if his sin which he has sinned comes to his knowledge, then he shall bring his offering, a kid of the goats, a female without *_blemish_*, for his sin which he has sinned.
 * `Lev 4:32` 'And if he brings a lamb for a sin-offering, he shall bring it a female without *_blemish_*.
-* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without *_blemish_* out of the flocks, with your estimation by shekels of silver after the shekel of the sanctuary, for a trespass-offering.
+* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without *_blemish_* out of the flocks, with your estimation in shekels of silver after the shekel of the sanctuary, for a trespass-offering.
 * `Lev 5:18` And he shall bring a ram without *_blemish_* out of the flock, with your estimation, for a trespass-offering to the priest. And the priest shall make an atonement for him concerning his ignorance wherein he erred and did not know it, and he shall be forgiven.
 * `Lev 6:6` And he shall bring to the priest his trespass-offering to the LORD, a ram without *_blemish_* out of the flock, with your estimation, for a trespass-offering.
 * `Lev 9:2` And he said to Aaron, "Take a young calf for a sin-offering and a ram for a burnt-offering, without *_blemish_*, and offer them before the LORD.
@@ -252,7 +252,7 @@ _119 verses containing BLESS_
 * `Exo 20:11` For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore, the LORD *_blessed_* the sabbath-day and hallowed it.
 * `Exo 39:43` And Moses looked upon all the work, and behold, they had done it. As the LORD had commanded, even so they had done it. And Moses *_blessed_* them.
 * `Lev 9:22` And Aaron lifted up his hand toward the people and *_blessed_* them, and he came down from offering the sin-offering, the burnt-offering, and peace-offerings.
-* `Lev 9:23` And Moses and Aaron went into the Tabernacle of the Congregation, and came out and *_blessed_* the people. And the glory of the LORD appeared to all the people.
+* `Lev 9:23` And Moses and Aaron went into the Tabernacle of the Congregation, and then came out and *_blessed_* the people. And the glory of the LORD appeared to all the people.
 * `Num 22:6` Come now therefore, I pray you, curse this people for me, for they are too mighty for me. It may be that I shall prevail, that we may smite them, and that I may drive them out of the land. For I know that he whom you bless is *_blessed_*, and he whom you curse is cursed."
 * `Num 22:12` And God said to Balaam, "You shall not go with them. You shall not curse the people, for they are *_blessed_*."
 * `Num 23:11` And Balak said to Balaam, "What have you done to me? I took you to curse my enemies, and behold, you have *_blessed_* them altogether."
@@ -827,8 +827,8 @@ _13 verses containing BLOCK_
 * `Lev 9:12` And he slew the burnt-offering. And Aaron's sons presented to him the *_blood_*, which he sprinkled around upon the altar.
 * `Lev 9:18` He also slew the bull and the ram for a sacrifice of peace-offerings, which was for the people. And Aaron's sons presented to him the *_blood_*, which he sprinkled around upon the altar,
 * `Lev 10:18` Behold, its *_blood_* was not brought within the holy place. You should indeed have eaten it in the holy place, as I commanded."
-* `Lev 12:4` And she shall then continue in the *_blood_* of her purifying thirty-three days. She shall not touch any hallowed thing or come into the sanctuary until the days of her purifying are fulfilled.
-* `Lev 12:5` But if she bears a female child, then she shall be unclean two weeks, as in her separation. And she shall continue in the *_blood_* of her purifying sixty-six days.
+* `Lev 12:4` And she shall then continue in the *_blood_* of her purifying for thirty-three days. She shall not touch any hallowed thing or come into the sanctuary until the days of her purifying are fulfilled.
+* `Lev 12:5` But if she bears a female child, then she shall be unclean for two weeks, as in her separation. And she shall continue in the *_blood_* of her purifying for sixty-six days.
 * `Lev 12:7` And he shall offer it before the LORD and make an atonement for her, and she shall be cleansed from the issue of her *_blood_*. This is the law for her who has borne a male or a female.
 * `Lev 14:6` As for the living bird, he shall take it, the cedar-wood, the scarlet, and the hyssop and shall dip them and the living bird in the *_blood_* of the bird that was killed over the running water.
 * `Lev 14:14` And the priest shall take some of the *_blood_* of the trespass-offering, and the priest shall put it upon the tip of the right ear of him who is to be cleansed, upon the thumb of his right hand, and upon the great toe of his right foot.

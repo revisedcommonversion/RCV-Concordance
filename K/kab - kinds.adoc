@@ -283,7 +283,7 @@ _1 verse containing KEEN_
 * `Exo 34:18` "The feast of unleavened bread you shall *_keep_*. Seven days you shall eat unleavened bread, as I commanded you, in the time of the month Abib, for in the month Abib you came out from Egypt.
 * `Lev 6:2` "If a soul sins and commits a trespass against the LORD and lies to his neighbor in that which was delivered to him to *_keep_*, in a pledge, or in a thing taken away by violence, has deceived his neighbor,
 * `Lev 6:4` Then it shall be, because he has sinned and is guilty, that he shall restore that which he took by force, the thing which he obtained by deceit, that which was delivered to him to *_keep_*, the lost thing which he found,
-* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and night seven days and *_keep_* the charge of the LORD so that you do not die, for so I am commanded."
+* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and night for seven days and *_keep_* the charge of the LORD so that you do not die, for so I am commanded."
 * `Lev 18:4` You shall perform my judgments and *_keep_* my ordinances to walk in them. I am the LORD your God.
 * `Lev 18:5` You shall therefore *_keep_* my statutes and my judgments, which if a man does, he shall live in them. I am the LORD.
 * `Lev 18:26` You shall therefore *_keep_* my statutes and my judgments and shall not commit any of these abominations, neither any of your own nation, nor any stranger who sojourns among you
@@ -1177,10 +1177,10 @@ _1 verse containing KIDNAPPERS_
 * `Exo 29:13` And you shall take all the fat that covers the inwards and the lobe of the liver, and the two *_kidneys_* with the fat that is upon them, and burn them upon the altar.
 * `Exo 29:22` "Also you shall take from the ram the fat and the rump, the fat that covers the inwards and the lobe of the liver, the two *_kidneys_* and the fat that is upon them, the right shoulder (for it is a ram of consecration),
 * `Lev 3:4` The two *_kidneys_* and the fat that is on them, which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
-* `Lev 3:10` The two *_kidneys_* and the fat that is upon them which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
-* `Lev 3:15` The two *_kidneys_* and the fat that is upon them which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
+* `Lev 3:10` The two *_kidneys_* and the fat that is upon them, which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
+* `Lev 3:15` The two *_kidneys_* and the fat that is upon them, which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
 * `Lev 4:9` The two *_kidneys_* and the fat that is upon them which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*,
-* `Lev 7:4` The two *_kidneys_* and the fat that is on them which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
+* `Lev 7:4` The two *_kidneys_* and the fat that is on them, which is by the loins, and the lobe of the liver which he shall take away with the *_kidneys_*.
 * `Lev 8:16` And he took all the fat that was upon the inwards, the lobe of the liver, and the two *_kidneys_* and their fat, and Moses burned it upon the altar.
 * `Lev 8:25` And he took the fat, the rump, all the fat that was upon the inwards, the lobe of the liver, the two *_kidneys_* and their fat, and the right shoulder.
 * `Lev 9:10` But the fat, the *_kidneys_*, and the lobe of the liver of the sin-offering, he burnt upon the altar, as the LORD commanded Moses.
@@ -1484,10 +1484,10 @@ _1 verse containing KINAH_
 * `Gen 1:25` And God made the beast of the earth after its *_kind_*, livestock after their *_kind_*, and every animal that creeps upon the earth after its *_kind_*. And God saw that it was good.
 * `Gen 6:20` Of birds after their *_kind_*, of livestock after their *_kind_*, and of every creeping animal of the earth after its *_kind_*, two of every sort shall come to you to keep them alive.
 * `Gen 7:14` They, every beast after its *_kind_*, all the livestock after their *_kind_*, every creeping animal that creeps upon the earth after its *_kind_*, and every bird after its *_kind_*, every bird of every sort.
-* `Lev 11:14` The falcon, the kite after his *_kind_*,
-* `Lev 11:15` Every raven after his *_kind_*,
-* `Lev 11:16` The owl, the night-hawk, the gull, the hawk after his *_kind_*,
-* `Lev 11:19` The stork, the heron after her *_kind_*, the lapwing, and the bat.
+* `Lev 11:14` The falcon, the kite after its *_kind_*,
+* `Lev 11:15` Every raven after its *_kind_*,
+* `Lev 11:16` The owl, the night-hawk, the gull, the hawk after its *_kind_*,
+* `Lev 11:19` The stork, the heron after its *_kind_*, the lapwing, and the bat.
 * `Lev 11:22` Even these of them you may eat: the swarming-locust after its *_kind_*, the consuming-locust after its *_kind_*, the cricket after its *_kind_*, and the locust after its *_kind_*.
 * `Lev 11:29` 'These also shall be unclean to you among the creeping animals that creep upon the earth: the weasel, the mouse, the great lizard after its *_kind_*,
 * `Lev 19:19` 'You shall keep my statutes. You shall not let your livestock engender with a diverse *_kind_*. You shall not sow your field with mingled seed, neither shall a garment mingled of linen and woolen come upon you.
@@ -1541,7 +1541,7 @@ _18 verses containing KINDLE_
 * `Gen 39:19` And it came to pass when his master heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was *_kindled_*.
 * `Exo 4:14` And the anger of the LORD was *_kindled_* against Moses and he said, "Is there not Aaron the Levite your brother? I know that he can speak well. And also behold, he comes forth to meet you. And when he sees you, he will be glad in his heart.
 * `Exo 22:6` "If fire breaks out and catches in thorns and then stacks of grain, standing grain, or a field is consumed, he who *_kindled_* the fire shall surely make restitution.
-* `Lev 10:6` And Moses said to Aaron and to Eleazar and to Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has *_kindled_*.
+* `Lev 10:6` And Moses said to Aaron and to Eleazar and Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has *_kindled_*.
 * `Num 11:1` And when the people complained, it displeased the LORD. And the LORD heard it and his anger was *_kindled_*, and the fire of the LORD burnt among them and consumed those who were in the uttermost parts of the camp.
 * `Num 11:10` Then Moses heard the people weeping throughout their families, each in the door of his tent. And the anger of the LORD was *_kindled_* greatly, and Moses was also displeased.
 * `Num 11:33` And while the flesh was still between their teeth, before it was chewed, the wrath of the LORD was *_kindled_* against the people and the LORD smote the people with a very great plague.

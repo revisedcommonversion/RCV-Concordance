@@ -677,7 +677,7 @@ _1 verse containing BASMATH_
 
 == BAT
 
-* `Lev 11:19` The stork, the heron after her kind, the lapwing, and the *_bat_*.
+* `Lev 11:19` The stork, the heron after its kind, the lapwing, and the *_bat_*.
 * `Deu 14:18` The stork, the heron after her kind, the lapwing, and the *_bat_*.
 
 _2 verses containing BAT_
@@ -1113,8 +1113,8 @@ _2 verses containing BEANS_
 * `Exo 38:7` And he put the staffs into the rings on the sides of the altar to *_bear_* it with. He made the altar hollow with boards.
 * `Lev 5:1` "'And if a soul sins and hears the voice of swearing and is a witness, whether he has seen or known of it, if he does not report it, then he shall *_bear_* his iniquity.
 * `Lev 5:17` "And if a soul sins and commits any of these things which are forbidden to be done by the commandments of the LORD, though he did not know it, yet he is guilty. He shall *_bear_* his iniquity.
-* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats of it shall *_bear_* his iniquity.
-* `Lev 10:17` "Why have you not eaten the sin-offering in the holy place, seeing it is most holy, and God has given it to you to *_bear_* the iniquity of the congregation to make atonement for them before the LORD?
+* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats it shall *_bear_* his iniquity.
+* `Lev 10:17` "Why have you not eaten the sin-offering in the holy place? For it is most holy, and God has given it to you to *_bear_* the iniquity of the congregation to make atonement for them before the LORD.
 * `Lev 16:22` And the goat shall *_bear_* upon itself all their iniquities to a land not inhabited. And he shall let the goat go in the wilderness.
 * `Lev 17:16` But if he does not wash them, nor bathe his flesh, then he shall *_bear_* his iniquity."
 * `Lev 19:8` Therefore, everyone who eats it shall *_bear_* his iniquity because he has profaned the hallowed thing of the LORD. And that soul shall be cut off from among his people.
@@ -1366,7 +1366,7 @@ _22 verses containing BEARING_
 * `Lev 11:25` And whoever *_bears_* anything of their carcass shall wash his clothes and be unclean until the evening.
 * `Lev 11:28` And he who *_bears_* their carcass shall wash his clothes and be unclean until the evening. They are unclean to you.
 * `Lev 11:40` And he who eats from its carcass shall wash his clothes and be unclean until the evening. He also who *_bears_* its carcass shall wash his clothes and be unclean until the evening.
-* `Lev 12:5` But if she *_bears_* a female child, then she shall be unclean two weeks, as in her separation. And she shall continue in the blood of her purifying sixty-six days.
+* `Lev 12:5` But if she *_bears_* a female child, then she shall be unclean for two weeks, as in her separation. And she shall continue in the blood of her purifying for sixty-six days.
 * `Lev 15:10` And whoever touches anything that was under him shall be unclean until the evening. And he who *_bears_* any of those things shall wash his clothes and bathe himself in water and be unclean until the evening.
 * `Num 11:12` Have I conceived all this people? Have I begotten them that you should say to me, 'Carry them in your bosom, as a foster father *_bears_* the nursing child, to the land which you swore to their fathers'?
 * `Deu 1:31` And in the wilderness, where you have seen how the LORD your God bore you, as a man *_bears_* his son, in all the way that you went until you came into this place.'
@@ -1432,7 +1432,7 @@ _27 verses containing BEARS_
 * `Exo 22:19` "Whoever lies with a *_beast_* shall surely be put to death.
 * `Exo 23:29` I will not drive them out from before you in one year, lest the land should become desolate and the *_beast_* of the field should multiply against you.
 * `Lev 5:2` Or if a soul touches any unclean thing, whether a carcass of an unclean *_beast_*, a carcass of unclean livestock, or the carcass of unclean creeping animals, and it is hidden from him, he also shall be unclean and guilty.
-* `Lev 7:21` Moreover, the soul who touches any unclean thing, as the uncleanness of man, any unclean *_beast_*, or any abominable unclean thing, and eats of the flesh of the sacrifice of peace-offerings which pertain to the LORD, even that soul shall be cut off from his people.'"
+* `Lev 7:21` Moreover, the soul who touches any unclean thing, whether the uncleanness of man, any unclean *_beast_*, or any abominable unclean thing, and eats the flesh of the sacrifice of peace-offerings which pertain to the LORD, even that soul shall be cut off from his people.'"
 * `Lev 7:24` And the fat of the *_beast_* that dies of itself and the fat of that which is torn by beasts may be used for any other purpose, but you shall in no way eat it.
 * `Lev 7:25` For whoever eats the fat of the *_beast_*, of which men offer an offering made by fire to the LORD, even the soul who eats it shall be cut off from his people.
 * `Lev 7:26` Moreover, you shall eat no manner of blood, whether of bird or *_beast_*, in any of your dwellings.

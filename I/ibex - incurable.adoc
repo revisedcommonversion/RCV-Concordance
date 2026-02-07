@@ -325,7 +325,7 @@ _1 verse containing IGNOMINY_
 * `Lev 4:13` 'And if the whole congregation of Israel sins through *_ignorance_*, and the thing is hid from the eyes of the assembly, and they have done something against any of the commandments of the LORD concerning things which should not be done, and are guilty,
 * `Lev 4:22` 'When a ruler has sinned and done something through *_ignorance_* against any of the commandments of the LORD his God concerning things which should not be done, and is guilty,
 * `Lev 4:27` 'And if anyone of the common people sins through *_ignorance_*, while he does something against any of the commandments of the LORD concerning things which ought not to be done, and is guilty,
-* `Lev 5:15` "If a soul commits a trespass and sins through *_ignorance_* in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without blemish out of the flocks, with your estimation by shekels of silver after the shekel of the sanctuary, for a trespass-offering.
+* `Lev 5:15` "If a soul commits a trespass and sins through *_ignorance_* in the holy things of the LORD, then he shall bring for his trespass to the LORD a ram without blemish out of the flocks, with your estimation in shekels of silver after the shekel of the sanctuary, for a trespass-offering.
 * `Lev 5:18` And he shall bring a ram without blemish out of the flock, with your estimation, for a trespass-offering to the priest. And the priest shall make an atonement for him concerning his *_ignorance_* wherein he erred and did not know it, and he shall be forgiven.
 * `Num 15:24` Then it shall be, if anything is committed by *_ignorance_* without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt-offering for a sweet savor to the LORD, with his food-offering and his drink-offering, according to the manner, and one kid of the goats for a sin-offering.
 * `Num 15:25` And the priest shall make an atonement for all the congregation of the children of Israel, and they shall be forgiven, for it is *_ignorance_*. And they shall bring their offering, a sacrifice made by fire to the LORD, and their sin-offering before the LORD for their *_ignorance_*.
@@ -1179,7 +1179,7 @@ _4 verses containing IMPUTE_
 
 == IMPUTED
 
-* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be *_imputed_* to him who offers it. It shall be an abomination. And the soul who eats of it shall bear his iniquity.
+* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, neither shall it be *_imputed_* to him who offers it. It shall be an abomination. And the soul who eats it shall bear his iniquity.
 * `Lev 17:4` And does not bring it to the door of the Tabernacle of the Congregation to offer an offering to the LORD before the tabernacle of the LORD, blood shall be *_imputed_* to that man. He has shed blood, and that man shall be cut off from among his people.
 * `Rom 4:11` And he received the sign of circumcision, a seal of the righteousness of the faith, which he had while still uncircumcised, so that he might be the father of all those who believe, though they are not circumcised, so that righteousness might be *_imputed_* to them also;
 * `Rom 4:22` And therefore, it was "*_imputed_* to him for righteousness."

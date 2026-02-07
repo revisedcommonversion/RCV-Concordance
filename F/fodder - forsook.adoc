@@ -445,7 +445,7 @@ _37 verses containing FOLLY_
 * `Exo 40:29` And he put the altar of burnt-offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt-offering and the *_food_*-offering, as the LORD commanded Moses.
 * `Lev 2:1` "'And when anyone will offer a *_food_*-offering to the LORD, his offering shall be of fine flour. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:3` And the remnant of the *_food_*-offering shall be Aaron's and his sons'. It is a thing most holy of the offerings of the LORD made by fire.
-* `Lev 2:4` 'And if you bring an oblation of a *_food_*-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+* `Lev 2:4` 'And if you bring an oblation of a *_food_*-offering baked in the oven, it shall be unleavened cakes of fine flour mingled with oil or unleavened wafers anointed with oil.
 * `Lev 2:5` And if your oblation is a *_food_*-offering baked in a pan, it shall be of fine flour unleavened, mingled with oil.
 * `Lev 2:6` You shall part it in pieces and pour oil upon it. It is a *_food_*-offering.
 * `Lev 2:7` And if your oblation is a *_food_*-offering baked in the frying-pan, it shall be made of fine flour with oil.
@@ -718,7 +718,7 @@ _299 verses containing FOOD_
 * `Exo 40:29` And he put the altar of burnt-offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt-offering and the *_food-offering_*, as the LORD commanded Moses.
 * `Lev 2:1` "'And when anyone will offer a *_food-offering_* to the LORD, his offering shall be of fine flour. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:3` And the remnant of the *_food-offering_* shall be Aaron's and his sons'. It is a thing most holy of the offerings of the LORD made by fire.
-* `Lev 2:4` 'And if you bring an oblation of a *_food-offering_* baked in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+* `Lev 2:4` 'And if you bring an oblation of a *_food-offering_* baked in the oven, it shall be unleavened cakes of fine flour mingled with oil or unleavened wafers anointed with oil.
 * `Lev 2:5` And if your oblation is a *_food-offering_* baked in a pan, it shall be of fine flour unleavened, mingled with oil.
 * `Lev 2:6` You shall part it in pieces and pour oil upon it. It is a *_food-offering_*.
 * `Lev 2:7` And if your oblation is a *_food-offering_* baked in the frying-pan, it shall be made of fine flour with oil.
@@ -1702,7 +1702,7 @@ _3 verses containing FORETOLD_
 * `Lev 6:22` And the priest from among his sons who is anointed in his stead shall offer it. It is a statute *_forever_* to the LORD. It shall be wholly burnt.
 * `Lev 7:34` For the wave-breast and the heave-shoulder I have taken from the children of Israel out of the sacrifices of their peace-offerings, and have given them to Aaron the priest and to his sons by a statute *_forever_* from among the children of Israel.'"
 * `Lev 7:36` Which the LORD commanded to be given to them by the children of Israel in the day that he anointed them by a statute *_forever_* throughout their generations.
-* `Lev 10:9` "Do not drink wine nor strong drink—you, nor your sons with you—when you go into the Tabernacle of the Congregation, lest you die. It shall be a statute *_forever_* throughout your generations,
+* `Lev 10:9` "Do not drink wine nor strong drink—you, nor your sons with you—when you go into the Tabernacle of the Congregation, lest you die. It shall be a statute *_forever_* throughout your generations
 * `Lev 10:15` The heave-shoulder and the wave-breast they shall bring, with the offerings made by fire of the fat, to wave it for a wave-offering before the LORD, and it shall be yours and your sons' with you by a statute *_forever_*, as the LORD has commanded."
 * `Lev 16:29` "And this shall be a statute *_forever_* to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do no work at all, whether it be one of your own country or a stranger who sojourns among you.
 * `Lev 16:31` It shall be a sabbath of rest to you, and you shall afflict your souls by a statute *_forever_*.

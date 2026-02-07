@@ -283,8 +283,8 @@ _1 verse containing NEIGHINGS_
 * `Lev 2:13` And every oblation of your food-offering you shall season with salt, *_neither_* shall you allow the salt of the covenant of your God to be lacking from your food-offering. With all your offerings you shall offer salt.
 * `Lev 3:17` It shall be a perpetual statute for your generations throughout all your dwellings that you eat *_neither_* fat nor blood.'"
 * `Lev 5:11` 'But if he is not able to bring two turtle-doves or two young pigeons, then he who sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin-offering. He shall put no oil upon it, *_neither_* shall he put any frankincense upon it, for it is a sin-offering.
-* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, *_neither_* shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats of it shall bear his iniquity.
-* `Lev 10:6` And Moses said to Aaron and to Eleazar and to Ithamar his sons, "Do not uncover your heads, *_neither_* rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has kindled.
+* `Lev 7:18` And if any of the flesh of the sacrifice of his peace-offerings is eaten at all on the third day, it shall not be accepted, *_neither_* shall it be imputed to him who offers it. It shall be an abomination. And the soul who eats it shall bear his iniquity.
+* `Lev 10:6` And Moses said to Aaron and to Eleazar and Ithamar his sons, "Do not uncover your heads, *_neither_* rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the LORD has kindled.
 * `Lev 11:43` You shall not make your selves abominable with any creeping animal that creeps, *_neither_* shall you make yourselves unclean with them and become defiled by them.
 * `Lev 17:12` Therefore, I said to the children of Israel, 'No soul of you shall eat blood, *_neither_* shall any stranger who sojourns among you eat blood.'
 * `Lev 18:3` After the doings of the land of Egypt in which you dwelt, you shall not do, and after the doings of the land of Canaan where I bring you, you shall not do, *_neither_* shall you walk in their ordinances.
@@ -1936,8 +1936,8 @@ _1 verse containing NIGER_
 * `Exo 40:38` So the cloud of the LORD was upon the tabernacle by day, and fire was on it by *_night_*, in the sight of all the house of Israel throughout all their journeys.
 * `Lev 6:9` "Command Aaron and his sons, saying, 'This is the law of the burnt-offering. It is the burnt-offering because of the burning upon the altar all *_night_* until the morning, and the fire of the altar shall be burning in it.
 * `Lev 6:20` "This is the offering of Aaron and of his sons, which they shall offer to the LORD in the day when he is anointed: the tenth part of an ephah of fine flour for a perpetual food-offering, half of it in the morning and half of it at *_night_*.
-* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and *_night_* seven days and keep the charge of the LORD so that you do not die, for so I am commanded."
-* `Lev 11:16` The owl, the *_night_*-hawk, the gull, the hawk after his kind,
+* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and *_night_* for seven days and keep the charge of the LORD so that you do not die, for so I am commanded."
+* `Lev 11:16` The owl, the *_night_*-hawk, the gull, the hawk after its kind,
 * `Lev 19:13` 'You shall not defraud your neighbor, neither rob him. The wages of him who is hired shall not abide with you all *_night_* until the morning.
 * `Num 9:16` Thus it always was: the cloud covered it by day, and the appearance of fire by *_night_*.
 * `Num 9:21` And sometimes the cloud stayed from evening until the morning. And when the cloud was taken up in the morning, then they journeyed. Whether it was by day or by *_night_* that the cloud was taken up, they journeyed.
@@ -2193,7 +2193,7 @@ _294 verses containing NIGHT_
 
 == NIGHT-HAWK
 
-* `Lev 11:16` The owl, the *_night-hawk_*, the gull, the hawk after his kind,
+* `Lev 11:16` The owl, the *_night-hawk_*, the gull, the hawk after its kind,
 * `Deu 14:15` The owl, the *_night-hawk_*, the gull, the hawk after his kind,
 
 _2 verses containing NIGHT-HAWK_

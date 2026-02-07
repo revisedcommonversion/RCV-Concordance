@@ -2880,7 +2880,7 @@ _1010 verses containing SAY_
 * `Lev 11:1` And the LORD spoke to Moses and to Aaron, *_saying_* to them,
 * `Lev 11:2` "Speak to the children of Israel, *_saying_*, 'These are the beasts which you may eat among all the beasts that are on the earth.
 * `Lev 12:1` And the LORD spoke to Moses, *_saying_*,
-* `Lev 12:2` "Speak to the children of Israel, *_saying_*, 'If a woman conceives and gives birth to a male child, then she shall be unclean seven days. According to the days of the separation for her infirmity she shall be unclean.
+* `Lev 12:2` "Speak to the children of Israel, *_saying_*, 'If a woman conceives and gives birth to a male child, then she shall be unclean for seven days. According to the days of the separation for her infirmity she shall be unclean.
 * `Lev 13:1` And the LORD spoke to Moses and Aaron, *_saying_*,
 * `Lev 14:1` And the LORD spoke to Moses, *_saying_*,
 * `Lev 14:33` And the LORD spoke to Moses and to Aaron, *_saying_*,

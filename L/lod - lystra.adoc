@@ -150,10 +150,10 @@ _5 verses containing LOG_
 * `Exo 12:11` And thus you shall eat it: with your *_loins_* girded, your shoes on your feet, and your staff in your hand. And you shall eat it in haste. It is the LORD'S passover.
 * `Exo 28:42` And you shall make them linen breeches to cover their nakedness. From the *_loins_* even to the thighs they shall reach.
 * `Lev 3:4` The two kidneys and the fat that is on them, which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
-* `Lev 3:10` The two kidneys and the fat that is upon them which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
-* `Lev 3:15` The two kidneys and the fat that is upon them which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
+* `Lev 3:10` The two kidneys and the fat that is upon them, which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
+* `Lev 3:15` The two kidneys and the fat that is upon them, which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
 * `Lev 4:9` The two kidneys and the fat that is upon them which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys,
-* `Lev 7:4` The two kidneys and the fat that is on them which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
+* `Lev 7:4` The two kidneys and the fat that is on them, which is by the *_loins_*, and the lobe of the liver which he shall take away with the kidneys.
 * `Deu 33:11` Bless, LORD, his substance, and accept the work of his hands. Smite through the *_loins_* of those who rise against him and of those who hate him, so that they do not rise again."
 * `2Sa 20:8` When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded to him, and upon it a girdle with a sword fastened upon his *_loins_* in its sheath, and as he went forth it fell out.
 * `1Ki 2:5` "Moreover, you also know what Joab the son of Zeruiah did to me and what he did to the two captains of the armies of Israel, to Abner the son of Ner, and to Amasa the son of Jether, whom he slew, shedding the blood of war in peace and putting the blood of war upon his girdle that was around his *_loins_* and in his shoes that were on his feet.
@@ -1609,12 +1609,12 @@ _1 verse containing LOP_
 * `Exo 40:38` So the cloud of the *_LORD_* was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel throughout all their journeys.
 * `Lev 1:1` And the *_LORD_* called to Moses and spoke to him out of the Tabernacle of the Congregation, saying,
 * `Lev 1:2` "Speak to the children of Israel and say to them, 'If any man among you brings an offering to the *_LORD_*, you shall bring your offering from the livestock, even from the herd and from the flock.
-* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him offer a male without blemish. He shall offer it of his own voluntary will at the door of the Tabernacle of the Congregation before the *_LORD_*.
+* `Lev 1:3` If his offering is a burnt-sacrifice from the herd, let him offer a male without blemish. He shall offer it at the door of the Tabernacle of the Congregation so that he may be accepted before the *_LORD_*.
 * `Lev 1:5` And he shall kill the bull before the *_LORD_*. And the priests, Aaron's sons, shall bring the blood and sprinkle the blood around upon the altar that is by the door of the Tabernacle of the Congregation.
 * `Lev 1:9` But his inwards and his legs he shall wash in water. And the priest shall burn all on the altar to be a burnt-sacrifice, an offering made by fire, a sweet savor to the *_LORD_*.
 * `Lev 1:11` And he shall kill it on the side of the altar northward before the *_LORD_*. And the priests, Aaron's sons, shall sprinkle his blood around upon the altar.
 * `Lev 1:13` But he shall wash the inwards and the legs with water. And the priest shall bring it all and burn it upon the altar. It is a burnt sacrifice, an offering made by fire, a sweet savor to the *_LORD_*.
-* `Lev 1:14` 'And if the burnt sacrifice for his offering to the *_LORD_* is of birds, then he shall bring his offering of turtle-doves, or of young pigeons.
+* `Lev 1:14` 'And if the burnt sacrifice for his offering to the *_LORD_* is of birds, then he shall bring his offering of turtle-doves or of young pigeons.
 * `Lev 1:17` And he shall cleave it with its wings, but shall not divide it apart. And the priest shall burn it upon the altar, upon the wood that is upon the fire. It is a burnt sacrifice, an offering made by fire, a sweet savor to the *_LORD_*.'"
 * `Lev 2:1` "'And when anyone will offer a food-offering to the *_LORD_*, his offering shall be of fine flour. And he shall pour oil upon it and put frankincense upon it.
 * `Lev 2:2` And he shall bring it to Aaron's sons the priests. And he shall take from it his handful of flour and oil, with all its frankincense, and the priest shall burn its memorial upon the altar to be an offering made by fire, a sweet savor to the *_LORD_*.
@@ -1655,7 +1655,7 @@ _1 verse containing LOP_
 * `Lev 5:7` 'And if he is not able to bring a lamb, then he shall bring to the *_LORD_* two turtle-doves or two young pigeons for his trespass which he has committed: one for a sin-offering and the other for a burnt-offering.
 * `Lev 5:12` Then he shall bring it to the priest, and the priest shall take a handful of it, even a memorial of it, and burn it on the altar, according to the offerings made by fire to the *_LORD_*. It is a sin-offering.
 * `Lev 5:14` And the *_LORD_* spoke to Moses, saying,
-* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the *_LORD_*, then he shall bring for his trespass to the *_LORD_* a ram without blemish out of the flocks, with your estimation by shekels of silver after the shekel of the sanctuary, for a trespass-offering.
+* `Lev 5:15` "If a soul commits a trespass and sins through ignorance in the holy things of the *_LORD_*, then he shall bring for his trespass to the *_LORD_* a ram without blemish out of the flocks, with your estimation in shekels of silver after the shekel of the sanctuary, for a trespass-offering.
 * `Lev 5:17` "And if a soul sins and commits any of these things which are forbidden to be done by the commandments of the *_LORD_*, though he did not know it, yet he is guilty. He shall bear his iniquity.
 * `Lev 5:19` It is a trespass-offering. He has certainly trespassed against the *_LORD_*."
 * `Lev 6:1` And the *_LORD_* spoke to Moses, saying,
@@ -1675,8 +1675,8 @@ _1 verse containing LOP_
 * `Lev 7:5` And the priest shall burn them upon the altar for an offering made by fire to the *_LORD_*. It is a trespass-offering.
 * `Lev 7:11` 'And this is the law of the sacrifice of peace-offerings which he shall offer to the *_LORD_*.
 * `Lev 7:14` And from it he shall offer one out of the whole oblation for a heave-offering to the *_LORD_*, and it shall be the priest's who sprinkles the blood of the peace-offerings.
-* `Lev 7:20` But the soul who eats of the flesh of the sacrifice of peace-offerings that pertain to the *_LORD_*, having his uncleanness upon him, even that soul shall be cut off from his people.
-* `Lev 7:21` Moreover, the soul who touches any unclean thing, as the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats of the flesh of the sacrifice of peace-offerings which pertain to the *_LORD_*, even that soul shall be cut off from his people.'"
+* `Lev 7:20` But the soul who eats the flesh of the sacrifice of peace-offerings that pertain to the *_LORD_*, having his uncleanness upon him, even that soul shall be cut off from his people.
+* `Lev 7:21` Moreover, the soul who touches any unclean thing, whether the uncleanness of man, any unclean beast, or any abominable unclean thing, and eats the flesh of the sacrifice of peace-offerings which pertain to the *_LORD_*, even that soul shall be cut off from his people.'"
 * `Lev 7:22` And the *_LORD_* spoke to Moses, saying,
 * `Lev 7:25` For whoever eats the fat of the beast, of which men offer an offering made by fire to the *_LORD_*, even the soul who eats it shall be cut off from his people.
 * `Lev 7:28` And the *_LORD_* spoke to Moses, saying,
@@ -1697,7 +1697,7 @@ _1 verse containing LOP_
 * `Lev 8:28` And Moses took them from off their hands and burnt them on the altar upon the burnt-offering. They were consecrations for a sweet savor. It is an offering made by fire to the *_LORD_*.
 * `Lev 8:29` And Moses took the breast and waved it for a wave-offering before the *_LORD_*. It was Moses's part of the ram of consecration, as the *_LORD_* commanded Moses.
 * `Lev 8:34` As he has done this day, so the *_LORD_* has commanded to do, to make an atonement for you.
-* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and night seven days and keep the charge of the *_LORD_* so that you do not die, for so I am commanded."
+* `Lev 8:35` Therefore, you shall abide at the door of the Tabernacle of the Congregation day and night for seven days and keep the charge of the *_LORD_* so that you do not die, for so I am commanded."
 * `Lev 8:36` So Aaron and his sons did all things which the *_LORD_* commanded by the hand of Moses.
 * `Lev 9:2` And he said to Aaron, "Take a young calf for a sin-offering and a ram for a burnt-offering, without blemish, and offer them before the *_LORD_*.
 * `Lev 9:4` And also a bull and a ram for peace-offerings, to sacrifice before the *_LORD_*, and a food-offering mingled with oil, for today the *_LORD_* will appear to you.'"
@@ -1706,19 +1706,19 @@ _1 verse containing LOP_
 * `Lev 9:7` And Moses said to Aaron, "Go to the altar and offer your sin-offering and your burnt-offering and make an atonement for yourself and for the people. And offer the offering of the people and make an atonement for them, as the *_LORD_* commanded."
 * `Lev 9:10` But the fat, the kidneys, and the lobe of the liver of the sin-offering, he burnt upon the altar, as the *_LORD_* commanded Moses.
 * `Lev 9:21` And the breasts and the right shoulder Aaron waved for a wave-offering before the *_LORD_*, as Moses commanded.
-* `Lev 9:23` And Moses and Aaron went into the Tabernacle of the Congregation, and came out and blessed the people. And the glory of the *_LORD_* appeared to all the people.
+* `Lev 9:23` And Moses and Aaron went into the Tabernacle of the Congregation, and then came out and blessed the people. And the glory of the *_LORD_* appeared to all the people.
 * `Lev 9:24` And a fire came out from before the *_LORD_* and consumed upon the altar the burnt-offering and the fat, which when all the people saw, they shouted and fell on their faces.
 * `Lev 10:1` And Nadab and Abihu, the sons of Aaron, each took his censer, put fire in it, put incense on it, and offered strange fire before the *_LORD_*, which he did not command them.
 * `Lev 10:2` And fire went out from the *_LORD_* and devoured them, and they died before the *_LORD_*.
 * `Lev 10:3` Then Moses said to Aaron, "This is what the *_LORD_* spoke, saying, 'I will be sanctified in those who come near me, and before all the people I will be glorified.'" And Aaron held his peace.
-* `Lev 10:6` And Moses said to Aaron and to Eleazar and to Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the *_LORD_* has kindled.
+* `Lev 10:6` And Moses said to Aaron and to Eleazar and Ithamar his sons, "Do not uncover your heads, neither rend your clothes, lest you die, and lest wrath come upon all the people. But let your brothers, the whole house of Israel, bewail the burning which the *_LORD_* has kindled.
 * `Lev 10:7` And you shall not go out from the door of the Tabernacle of the Congregation, lest you die, for the anointing oil of the *_LORD_* is upon you." And they did according to the word of Moses.
 * `Lev 10:8` And the *_LORD_* spoke to Aaron, saying,
 * `Lev 10:11` And that you may teach the children of Israel all the statutes which the *_LORD_* has spoken to them by the hand of Moses."
 * `Lev 10:12` And Moses spoke to Aaron and to Eleazar and Ithamar, his sons who were left, "Take the food-offering that remains of the offerings of the *_LORD_* made by fire and eat it without leaven beside the altar, for it is most holy.
 * `Lev 10:13` And you shall eat it in the holy place because it is your due and your sons' due of the sacrifices of the *_LORD_* made by fire, for so I am commanded.
 * `Lev 10:15` The heave-shoulder and the wave-breast they shall bring, with the offerings made by fire of the fat, to wave it for a wave-offering before the *_LORD_*, and it shall be yours and your sons' with you by a statute forever, as the *_LORD_* has commanded."
-* `Lev 10:17` "Why have you not eaten the sin-offering in the holy place, seeing it is most holy, and God has given it to you to bear the iniquity of the congregation to make atonement for them before the *_LORD_*?
+* `Lev 10:17` "Why have you not eaten the sin-offering in the holy place? For it is most holy, and God has given it to you to bear the iniquity of the congregation to make atonement for them before the *_LORD_*.
 * `Lev 10:19` And Aaron said to Moses, "Behold, this day they have offered their sin-offering and their burnt-offering before the *_LORD_*, and such things have befallen me. And if I had eaten the sin-offering today, would it have been accepted in the sight of the *_LORD_*?"
 * `Lev 11:1` And the *_LORD_* spoke to Moses and to Aaron, saying to them,
 * `Lev 11:44` For I am the *_LORD_* your God. You shall therefore sanctify yourselves, and you shall be holy, for I am holy. You shall not defile yourselves with any manner of creeping animal that creeps upon the earth.
