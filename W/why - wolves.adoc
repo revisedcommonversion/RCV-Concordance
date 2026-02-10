@@ -911,8 +911,8 @@ _16 verses containing WIDE_
 * `Gen 38:11` Then Judah said to Tamar his daughter-in-law, "Remain a *_widow_* at your father's house until Shelah my son is grown," for he said, "Lest perhaps he die also as his brothers did." And Tamar went and dwelt in her father's house.
 * `Gen 38:14` And she took off her *_widow_*'s garments and covered herself with a veil, wrapped herself, and sat in an open place, which is by the way to Timnath, for she saw that Shelah was grown and she was not given to him for a wife.
 * `Exo 22:22` You shall not afflict any *_widow_* or fatherless child.
-* `Lev 21:14` A *_widow_*, a divorced woman, profane, or a harlot, these he shall not take, but he shall take a virgin of his own people for a wife,
-* `Lev 22:13` But if the priest's daughter is a *_widow_* or divorced, and has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no stranger shall eat it.
+* `Lev 21:14` A *_widow_*, a divorced woman, a profane woman, or a harlot, these he shall not take, but he shall take a virgin of his own people for a wife,
+* `Lev 22:13` But if the priest's daughter is a *_widow_* or divorced, has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no stranger shall eat it.
 * `Num 30:9` "But every vow of a *_widow_* and of her who is divorced, with which they have bound their souls, shall stand against her.
 * `Deu 10:18` He executes the judgment of the fatherless and *_widow_*, and he loves the stranger, giving him food and clothing.
 * `Deu 14:29` Then the Levite (because he has no part nor inheritance with you), the stranger, the fatherless, and the *_widow_* who are within your gates shall come and shall eat and be satisfied so that the LORD your God may bless you in all the work of your hand which you do."
@@ -1131,9 +1131,9 @@ _1 verse containing WIDTH_
 * `Lev 20:14` And if a man takes a *_wife_* and her mother, it is wickedness. They shall be burnt with fire—both he and they—so that there is no wickedness among you.
 * `Lev 20:20` And if a man lies with his uncle's *_wife_*, he has uncovered his uncle's nakedness. They shall bear their sin. They shall die childless.
 * `Lev 20:21` And if a man takes his brother's *_wife_*, it is an unclean thing. He has uncovered his brother's nakedness. They shall be childless.
-* `Lev 21:7` They shall not take a *_wife_* who is a lewd woman, or profane, neither shall they take a woman put away from her husband, for he is holy to his God.
+* `Lev 21:7` They shall not take a *_wife_* who is a lewd woman or profane, neither shall they take a woman put away from her husband, for he is holy to his God.
 * `Lev 21:13` And he shall take a *_wife_* in her virginity.
-* `Lev 21:14` A widow, a divorced woman, profane, or a harlot, these he shall not take, but he shall take a virgin of his own people for a *_wife_*,
+* `Lev 21:14` A widow, a divorced woman, a profane woman, or a harlot, these he shall not take, but he shall take a virgin of his own people for a *_wife_*,
 * `Num 5:12` "Speak to the children of Israel and say to them, 'If any man's *_wife_* goes astray and commits a trespass against him,
 * `Num 5:14` And the spirit of jealousy comes upon him and he is jealous of his *_wife_* and she is defiled, or if the spirit of jealousy comes upon him and he is jealous of his *_wife_* and she is not defiled,
 * `Num 5:15` Then the man shall bring his *_wife_* to the priest and bring her offering for her, the tenth part of an ephah of barley-meal. He shall pour no oil upon it, nor put frankincense upon it, for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
@@ -2073,9 +2073,9 @@ _2 verses containing WILES_
 * `Lev 17:10` 'And whatever man there may be of the house of Israel or of the strangers who sojourn among you who eats any manner of blood, I *_will_* even set my face against that soul who eats blood and *_will_* cut him off from among his people.
 * `Lev 19:5` 'And if you offer a sacrifice of peace-offerings to the LORD, you shall offer it at your own *_will_*.
 * `Lev 20:3` And I *_will_* set my face against that man and *_will_* cut him off from among his people because he has given his children to Molech to defile my sanctuary and to profane my holy name.
-* `Lev 20:5` Then I *_will_* set my face against that man and against his family and *_will_* cut him off and all who go astray after him to commit lewdness with Molech from among their people.
+* `Lev 20:5` Then I *_will_* set my face against that man and against his family and *_will_* cut off from among their people both him and all who go astray after him to commit lewdness with Molech.
 * `Lev 20:6` 'And the soul who turns after those who have familiar spirits and after wizards to go astray after them, I *_will_* even set my face against that soul and *_will_* cut him off from among his people.
-* `Lev 20:24` But I have said to you, "You shall inherit their land, and I *_will_* give it to you to possess it, a land that flows with milk and honey." I am the LORD your God, who has separated you from other people.
+* `Lev 20:24` But I have said to you, "You shall inherit their land, and I *_will_* give it to you to possess it, a land that flows with milk and honey." I am the LORD your God who has separated you from other people.
 * `Lev 22:18` "Speak to Aaron and to his sons and to all the children of Israel and say to them, 'Any man of the house of Israel or of the strangers in Israel who *_will_* offer his oblation for all his vows and for all his voluntary-offerings, which they *_will_* offer to the LORD for a burnt-offering,
 * `Lev 22:19` You shall offer at your own *_will_* a male without blemish from the bulls, from the sheep, or from the goats.
 * `Lev 22:29` And when you *_will_* offer a sacrifice of thanksgiving to the LORD, offer it at your own *_will_*.
@@ -7572,7 +7572,7 @@ _48 verses containing WITNESSES_
 * `1Co 7:29` But I say this, brothers, the time is short, so that from now on, those who have *_wives_* may be as though they had none,
 * `Eph 5:22` *_Wives_*, submit yourselves to your own husbands, as to the Lord.
 * `Eph 5:24` Therefore, as the church is subject to Christ, so let *_wives_* be to their own husbands in everything.
-* `Eph 5:25` Husbands, love your *_wives_*, even as Christ also loved the church and gave himself for it,
+* `Eph 5:25` Husbands, love your *_wives_*, even as Christ also loved the church and gave himself for it
 * `Eph 5:28` Likewise, men also ought to love their *_wives_* as their own bodies. He who loves his wife, loves himself.
 * `Col 3:18` *_Wives_*, submit yourselves to your own husbands, as it is fit in the Lord.
 * `Col 3:19` Husbands, love your *_wives_* and do not be bitter against them.
@@ -7584,7 +7584,7 @@ _121 verses containing WIVES_
 
 == WIZARD
 
-* `Lev 20:27` 'Also a man or a woman who has a familiar spirit or who is a *_wizard_* shall surely be put to death. They shall stone them with stones. Their blood shall be upon them.'"
+* `Lev 20:27` 'Also, a man or a woman who has a familiar spirit or who is a *_wizard_* shall surely be put to death. They shall stone them with stones. Their blood shall be upon them.'"
 * `Deu 18:11` A charmer, a consulter with familiar spirits, a *_wizard_*, or a necromancer.
 
 _2 verses containing WIZARD_

@@ -207,7 +207,7 @@ _1 verse containing MONSTERS_
 * `Exo 34:18` "The feast of unleavened bread you shall keep. Seven days you shall eat unleavened bread, as I commanded you, in the time of the *_month_* Abib, for in the *_month_* Abib you came out from Egypt.
 * `Exo 40:2` "On the first day of the first *_month_* you shall set up the tabernacle of the tent of the congregation.
 * `Exo 40:17` And it came to pass in the first *_month_*, in the second year, on the first day of the *_month_*, that the tabernacle was reared up.
-* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh *_month_*, on the tenth day of the *_month_*, you shall afflict your souls and do no work at all, whether it be one of your own country or a stranger who sojourns among you.
+* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh *_month_*, on the tenth day of the *_month_*, you shall afflict your souls and do no work at all, whether it be someone of your own country or a stranger who sojourns among you.
 * `Lev 23:5` On the fourteenth day of the first *_month_* at evening is the LORD'S passover.
 * `Lev 23:6` And on the fifteenth day of the same *_month_* is the feast of unleavened bread to the LORD. Seven days you must eat unleavened bread.
 * `Lev 23:24` "Speak to the children of Israel, saying, 'In the seventh *_month_*, on the first day of the *_month_*, you shall have a sabbath, a memorial of blowing of trumpets, a holy convocation.
@@ -2537,7 +2537,7 @@ _2 verses containing MOTH-EATEN_
 * `Lev 20:17` 'And if a man takes his sister, his father's daughter, or his *_mother_*'s daughter, and sees her nakedness, and she sees his nakedness, it is a wicked thing, and they shall be cut off in the sight of their people. He has uncovered his sister's nakedness. He shall bear his iniquity.
 * `Lev 20:19` And you shall not uncover the nakedness of your *_mother_*'s sister, nor of your father's sister, for he uncovers his near kin. They shall bear their iniquity.
 * `Lev 21:2` But for his kin who are near to him, for his *_mother_*, for his father, for his son, for his daughter, for his brother,
-* `Lev 21:11` Neither shall he go near any dead body, nor defile himself for his father or for his *_mother_*,
+* `Lev 21:11` Neither shall he go near any dead body nor defile himself, even for his father or for his *_mother_*;
 * `Lev 22:27` "When a bull, a sheep, or a goat is brought forth, it shall remain seven days with its *_mother_*. And from the eighth day and thereafter it shall be accepted for an offering made by fire to the LORD.
 * `Lev 24:11` And the Israelite woman's son blasphemed the name of the LORD and cursed. And they brought him to Moses (and his *_mother_*'s name was Shelomith, the daughter of Dibri, of the tribe of Dan),
 * `Num 6:7` He shall not make himself unclean for his father, for his *_mother_*, for his brother, or for his sister when they die because the consecration of his God is upon his head.

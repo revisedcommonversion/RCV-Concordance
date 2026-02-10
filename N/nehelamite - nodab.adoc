@@ -71,10 +71,10 @@ _1 verse containing NEIEL_
 * `Lev 6:2` "If a soul sins and commits a trespass against the LORD and lies to his *_neighbor_* in that which was delivered to him to keep, in a pledge, or in a thing taken away by violence, has deceived his *_neighbor_*,
 * `Lev 18:20` Moreover, you shall not lie carnally with your *_neighbor_*'s wife to defile yourself with her.
 * `Lev 19:13` 'You shall not defraud your *_neighbor_*, neither rob him. The wages of him who is hired shall not abide with you all night until the morning.
-* `Lev 19:15` 'You shall do no unrighteousness in judgment. You shall not respect the person of the poor, nor honor the person of the mighty, but in righteousness you shall judge your *_neighbor_*.
+* `Lev 19:15` 'You shall do no unrighteousness in judgment. You shall not respect the person of the poor nor honor the person of the mighty, but in righteousness you shall judge your *_neighbor_*.
 * `Lev 19:16` You shall not go up and down as a gossiper among your people, neither shall you stand against the blood of your *_neighbor_*. I am the LORD.
 * `Lev 19:17` 'You shall not hate your brother in your heart. You shall certainly rebuke your *_neighbor_* and not bear sin because of him.
-* `Lev 19:18` You shall not avenge, nor bear any grudge against the children of your people, but you shall love your *_neighbor_* as yourself. I am the LORD.
+* `Lev 19:18` You shall not avenge nor bear any grudge against the children of your people, but you shall love your *_neighbor_* as yourself. I am the LORD.
 * `Lev 20:10` 'And the man who commits adultery with another man's wife, even he who commits adultery with his *_neighbor_*'s wife, the adulterer and the adulteress shall surely be put to death.
 * `Lev 24:19` And if a man causes a blemish in his *_neighbor_*, as he has done, so it shall be done to him,
 * `Lev 25:14` And if you sell anything to your *_neighbor_* or buy anything from your *_neighbor_*'s hand, you shall not oppress one another.
@@ -292,7 +292,7 @@ _1 verse containing NEIGHINGS_
 * `Lev 18:18` *_Neither_* shall you take a wife in addition to her sister as a rival to uncover her nakedness in opposition to her in her life-time.
 * `Lev 18:21` And you shall not let any of your children pass through the fire to Molech, *_neither_* shall you profane the name of your God. I am the LORD.
 * `Lev 18:23` You shall not lie with any beast to defile yourself therewith, *_neither_* shall any woman stand before a beast to lie down thereto. It is a perversion.
-* `Lev 18:26` You shall therefore keep my statutes and my judgments and shall not commit any of these abominations, *_neither_* any of your own nation, nor any stranger who sojourns among you
+* `Lev 18:26` You shall therefore keep my statutes and my judgments and shall not commit any of these abominations, *_neither_* any of your own nation nor any stranger who sojourns among you
 * `Lev 19:9` 'And when you reap the harvest of your land, you shall not wholly reap the corners of your field, *_neither_* shall you gather the gleanings of your harvest.
 * `Lev 19:10` And you shall not glean your vineyard, *_neither_* shall you gather every grape of your vineyard. You shall leave them for the poor and stranger. I am the LORD your God.
 * `Lev 19:11` 'You shall not steal, *_neither_* deal falsely, *_neither_* lie to one another.
@@ -302,13 +302,13 @@ _1 verse containing NEIGHINGS_
 * `Lev 19:19` 'You shall keep my statutes. You shall not let your livestock engender with a diverse kind. You shall not sow your field with mingled seed, *_neither_* shall a garment mingled of linen and woolen come upon you.
 * `Lev 19:27` You shall not round the corners of your heads, *_neither_* shall you mar the corners of your beard.
 * `Lev 19:31` 'Do not regard those who have familiar spirits, *_neither_* seek after wizards to be defiled by them. I am the LORD your God.
-* `Lev 21:5` They shall not make baldness upon their head, *_neither_* shall they shave off the corner of their beard, nor make any cuttings in their flesh.
-* `Lev 21:7` They shall not take a wife who is a lewd woman, or profane, *_neither_* shall they take a woman put away from her husband, for he is holy to his God.
-* `Lev 21:11` *_Neither_* shall he go near any dead body, nor defile himself for his father or for his mother,
-* `Lev 21:12` *_Neither_* shall he go out of the sanctuary, nor profane the sanctuary of his God, for the crown of the anointing oil of his God is upon him. I am the LORD.
+* `Lev 21:5` They shall not make baldness upon their head, *_neither_* shall they shave off the corner of their beard nor make any cuttings in their flesh.
+* `Lev 21:7` They shall not take a wife who is a lewd woman or profane, *_neither_* shall they take a woman put away from her husband, for he is holy to his God.
+* `Lev 21:11` *_Neither_* shall he go near any dead body nor defile himself, even for his father or for his mother;
+* `Lev 21:12` *_Neither_* shall he go out of the sanctuary nor profane the sanctuary of his God, for the crown of the anointing oil of his God is upon him. I am the LORD.
 * `Lev 21:15` *_Neither_* shall he profane his offspring among his people. For I, the LORD, sanctify him.'"
 * `Lev 22:24` You shall not offer to the LORD that which is bruised, crushed, broken, or cut, *_neither_* shall you make any offering thereof in your land,
-* `Lev 22:25` *_Neither_* from a stranger's hand shall you offer the bread of your God of any of these, because their corruption is in them and blemishes are in them. They shall not be accepted for you.'"
+* `Lev 22:25` *_Neither_* from a stranger's hand shall you offer the bread of your God from any of these, because their corruption is in them and blemishes are in them. They shall not be accepted for you.'"
 * `Lev 23:14` And you shall eat *_neither_* bread, parched grain, nor new grain until the same day that you have brought an offering to your God. It shall be a statute forever throughout your generations in all your dwellings.
 * `Lev 23:22` 'And when you reap the harvest of your land, you shall not make clean riddance of the corners of your field when you reap, *_neither_* shall you gather any gleaning of your harvest. You shall leave them for the poor and for the stranger. I am the LORD your God.'"
 * `Lev 25:4` But in the seventh year there shall be a sabbath of rest for the land, a sabbath for the LORD. You shall *_neither_* sow your field, nor prune your vineyard.
@@ -2582,19 +2582,19 @@ _2 verses containing NISROCH_
 * `Lev 13:31` And if the priest looks at the plague of the itching, and behold, it does not appear deeper than the skin and *_no_* black hair in it, then the priest shall shut him up who has the plague of the itching for seven days.
 * `Lev 13:32` And on the seventh day the priest shall look at the plague, and behold, if the itch does not spread and there is in it *_no_* yellow hair and the itch does not appear deeper than the skin,
 * `Lev 16:17` And there shall be *_no_* man in the Tabernacle of the Congregation when he goes in to make an atonement in the holy place until he comes out and has made an atonement for himself, for his household, and for all the congregation of Israel.
-* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do *_no_* work at all, whether it be one of your own country or a stranger who sojourns among you.
+* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do *_no_* work at all, whether it be someone of your own country or a stranger who sojourns among you.
 * `Lev 17:7` And they shall *_no_* longer offer their sacrifices to idols, with which they have committed idolatry. This shall be a statute forever to them throughout their generations."'
 * `Lev 17:12` Therefore, I said to the children of Israel, '*_No_* soul of you shall eat blood, neither shall any stranger who sojourns among you eat blood.'
 * `Lev 17:14` "For it is the life of all flesh, its blood is for its life; therefore, I said to the children of Israel, 'You shall eat the blood of *_no_* manner of flesh, for the life of all flesh is its blood.' Whoever eats it shall be cut off.
-* `Lev 19:15` 'You shall do *_no_* unrighteousness in judgment. You shall not respect the person of the poor, nor honor the person of the mighty, but in righteousness you shall judge your neighbor.
+* `Lev 19:15` 'You shall do *_no_* unrighteousness in judgment. You shall not respect the person of the poor nor honor the person of the mighty, but in righteousness you shall judge your neighbor.
 * `Lev 19:35` 'You shall do *_no_* unrighteousness in judgment, in measures of length, of weight, or of quantity.
 * `Lev 20:14` And if a man takes a wife and her mother, it is wickedness. They shall be burnt with fire—both he and they—so that there is *_no_* wickedness among you.
 * `Lev 21:1` And the LORD said to Moses, "Speak to the priests, the sons of Aaron, and say to them, '*_No_* one shall be defiled for the dead among his people,
 * `Lev 21:3` And for his sister, a virgin, who is near to him and has had *_no_* husband—for her he may be defiled.
 * `Lev 21:21` *_No_* man of the offspring of Aaron the priest who has a blemish shall come near to offer the offerings of the LORD made by fire. He has a blemish. He shall not come near to offer the bread of his God.
 * `Lev 22:10` '*_No_* stranger shall eat the holy thing. A sojourner of the priest or a hired servant shall not eat the holy thing.
-* `Lev 22:13` But if the priest's daughter is a widow or divorced, and has *_no_* child, and has returned to her father's house as in her youth, she shall eat her father's food, but *_no_* stranger shall eat it.
-* `Lev 22:21` And whoever offers a sacrifice of peace-offerings to the LORD to accomplish his vow, or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be *_no_* blemish in it.
+* `Lev 22:13` But if the priest's daughter is a widow or divorced, has *_no_* child, and has returned to her father's house as in her youth, she shall eat her father's food, but *_no_* stranger shall eat it.
+* `Lev 22:21` And whoever offers a sacrifice of peace-offerings to the LORD to accomplish his vow or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be *_no_* blemish in it.
 * `Lev 23:3` 'Six days work shall be done, but the seventh day is the sabbath of rest, a holy convocation. You shall do *_no_* work. It is the sabbath of the LORD in all your dwellings.
 * `Lev 23:7` On the first day you shall have a holy convocation. You shall do *_no_* servile work on it.
 * `Lev 23:8` But you shall offer an offering made by fire to the LORD seven days. On the seventh day is a holy convocation, you shall do *_no_* servile work on it.'"

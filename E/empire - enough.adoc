@@ -351,7 +351,7 @@ _1 verse containing ENCHANTERS_
 
 == ENCHANTMENT
 
-* `Lev 19:26` 'You shall not eat anything with the blood. You shall not use *_enchantment_*, nor observe times.
+* `Lev 19:26` 'You shall not eat anything with the blood. You shall not use *_enchantment_* nor observe times.
 * `Num 23:23` Surely there is no *_enchantment_* against Jacob, neither is there any divination against Israel. According to this time it shall be said of Jacob and of Israel, 'What God has wrought!'
 * `Ecc 10:11` Surely the serpent will bite without *_enchantment_*, and a babbler is no better.
 

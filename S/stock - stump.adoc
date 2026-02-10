@@ -98,7 +98,7 @@ _2 verses containing STOMACH_
 * `Exo 34:1` And the LORD said to Moses, "Hew two tablets of *_stone_* like the first, and I will write upon these tablets the words that were on the first tablets which you broke.
 * `Exo 34:4` And he hewed two tablets of *_stone_* like the first. And Moses rose up early in the morning and went up to mount Sinai, as the LORD had commanded him, and took in his hand the two tablets of *_stone_*.
 * `Lev 20:2` "Again you shall say to the children of Israel, 'Any man of the children of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech, he shall surely be put to death. The people of the land shall *_stone_* him with stones.
-* `Lev 20:27` 'Also a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall *_stone_* them with stones. Their blood shall be upon them.'"
+* `Lev 20:27` 'Also, a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall *_stone_* them with stones. Their blood shall be upon them.'"
 * `Lev 24:14` "Bring forth him who has cursed outside the camp, and let all who heard him lay their hands upon his head, and let all the congregation *_stone_* him.
 * `Lev 24:16` And he who blasphemes the name of the LORD, he shall surely be put to death, and all the congregation shall certainly *_stone_* him. The stranger, as well as he who is born in the land, when he blasphemes the name of the LORD, shall be put to death.
 * `Lev 24:23` And Moses spoke to the children of Israel that they should bring forth him who had cursed out of the camp and *_stone_* him with stones. And the children of Israel did as the LORD commanded Moses.
@@ -309,7 +309,7 @@ _21 verses containing STONED_
 * `Lev 14:43` "And if the plague returns and breaks out in the house after he has taken away the *_stones_*, after he has scraped the house, and after it is plastered,
 * `Lev 14:45` And he shall break down the house, its *_stones_*, its timber, and all the mortar of the house, and he shall carry them forth out of the city to an unclean place.
 * `Lev 20:2` "Again you shall say to the children of Israel, 'Any man of the children of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech, he shall surely be put to death. The people of the land shall stone him with *_stones_*.
-* `Lev 20:27` 'Also a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall stone them with *_stones_*. Their blood shall be upon them.'"
+* `Lev 20:27` 'Also, a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall stone them with *_stones_*. Their blood shall be upon them.'"
 * `Lev 24:23` And Moses spoke to the children of Israel that they should bring forth him who had cursed out of the camp and stone him with *_stones_*. And the children of Israel did as the LORD commanded Moses.
 * `Num 14:10` But all the congregation said to stone them with *_stones_*. And the glory of the LORD appeared in the Tabernacle of the Congregation before all the children of Israel.
 * `Num 15:35` And the LORD said to Moses, "The man shall surely be put to death. All the congregation shall stone him with *_stones_* outside the camp."
@@ -1145,17 +1145,17 @@ _1 verse containing STRANGELY_
 * `Exo 23:12` "Six days you shall do your work, and on the seventh day you shall rest so that your ox and your donkey may rest, and the son of your woman-servant and the *_stranger_* may be refreshed.
 * `Exo 29:33` And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a *_stranger_* shall not eat them because they are holy.
 * `Exo 30:33` Whoever compounds any like it, or whoever puts any of it upon a *_stranger_*, shall even be cut off from his people.'"
-* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do no work at all, whether it be one of your own country or a *_stranger_* who sojourns among you.
+* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall afflict your souls and do no work at all, whether it be someone of your own country or a *_stranger_* who sojourns among you.
 * `Lev 17:12` Therefore, I said to the children of Israel, 'No soul of you shall eat blood, neither shall any *_stranger_* who sojourns among you eat blood.'
 * `Lev 17:15` And every soul who eats that which died of itself or that which was torn by beasts (whether it is someone of your own country or a *_stranger_*), he shall both wash his clothes and bathe himself in water, and be unclean until the evening. Then he shall be clean.
-* `Lev 18:26` You shall therefore keep my statutes and my judgments and shall not commit any of these abominations, neither any of your own nation, nor any *_stranger_* who sojourns among you
+* `Lev 18:26` You shall therefore keep my statutes and my judgments and shall not commit any of these abominations, neither any of your own nation nor any *_stranger_* who sojourns among you
 * `Lev 19:10` And you shall not glean your vineyard, neither shall you gather every grape of your vineyard. You shall leave them for the poor and *_stranger_*. I am the LORD your God.
 * `Lev 19:33` 'And if a *_stranger_* sojourns with you in your land, you shall not oppress him.
 * `Lev 19:34` But the *_stranger_* who dwells with you shall be to you as one born among you, and you shall love him as yourself, for you were strangers in the land of Egypt. I am the LORD your God.
 * `Lev 22:10` 'No *_stranger_* shall eat the holy thing. A sojourner of the priest or a hired servant shall not eat the holy thing.
 * `Lev 22:12` If the priest's daughter also is married to a *_stranger_*, she may not eat an offering of the holy things.
-* `Lev 22:13` But if the priest's daughter is a widow or divorced, and has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no *_stranger_* shall eat it.
-* `Lev 22:25` Neither from a *_stranger_*'s hand shall you offer the bread of your God of any of these, because their corruption is in them and blemishes are in them. They shall not be accepted for you.'"
+* `Lev 22:13` But if the priest's daughter is a widow or divorced, has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no *_stranger_* shall eat it.
+* `Lev 22:25` Neither from a *_stranger_*'s hand shall you offer the bread of your God from any of these, because their corruption is in them and blemishes are in them. They shall not be accepted for you.'"
 * `Lev 23:22` 'And when you reap the harvest of your land, you shall not make clean riddance of the corners of your field when you reap, neither shall you gather any gleaning of your harvest. You shall leave them for the poor and for the *_stranger_*. I am the LORD your God.'"
 * `Lev 24:16` And he who blasphemes the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him. The *_stranger_*, as well as he who is born in the land, when he blasphemes the name of the LORD, shall be put to death.
 * `Lev 24:22` You shall have one manner of law for the *_stranger_* as well as for someone of your own country. For I am the LORD your God.'"
@@ -2746,7 +2746,7 @@ _3 verses containing STUMBLES_
 
 == STUMBLING
 
-* `Lev 19:14` You shall not curse the deaf, nor put a *_stumbling_*-block before the blind, but shall fear your God. I am the LORD.
+* `Lev 19:14` You shall not curse the deaf nor put a *_stumbling_*-block before the blind, but you shall fear your God. I am the LORD.
 * `Isa 8:14` And he will be for a sanctuary, but for a stone of *_stumbling_* and for a rock of offense to both the houses of Israel, for a trap and for a snare to the inhabitants of Jerusalem.
 * `Isa 57:14` He shall say, "Cast up, cast up, prepare the way, take up the *_stumbling_*-block out of the way of my people."
 * `Jer 6:21` Therefore, thus says the LORD: "Behold, I will lay *_stumbling_*-blocks before this people, and the fathers and the sons together shall fall upon them. The neighbor and his friend shall perish."
@@ -2771,7 +2771,7 @@ _20 verses containing STUMBLING_
 
 == STUMBLING-BLOCK
 
-* `Lev 19:14` You shall not curse the deaf, nor put a *_stumbling-block_* before the blind, but shall fear your God. I am the LORD.
+* `Lev 19:14` You shall not curse the deaf nor put a *_stumbling-block_* before the blind, but you shall fear your God. I am the LORD.
 * `Isa 57:14` He shall say, "Cast up, cast up, prepare the way, take up the *_stumbling-block_* out of the way of my people."
 * `Ezk 3:20` Again, when a righteous man turns from his righteousness and commits iniquity, and I lay a *_stumbling-block_* before him, he shall die. Because you have not given him warning, he shall die in his sin, and his righteousness which he has done shall not be remembered, but his blood I will require at your hand.
 * `Ezk 7:19` They shall cast their silver in the streets, and their gold shall be as an unclean thing. Their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD. They shall not satisfy their souls nor fill their bowels because it is the *_stumbling-block_* of their iniquity.

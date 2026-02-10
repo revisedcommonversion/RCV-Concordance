@@ -35,10 +35,10 @@ _1 verse containing BLEATINGS_
 * `Lev 21:18` For whatever man he may be who has a *_blemish_*, he shall not approach: a blind man, a lame, or he who has a flat nose, or anything superfluous,
 * `Lev 21:20` Crooked-backed, a dwarf, who has a *_blemish_* in his eye, has scurvy, is scabbed, or has his peculiar members broken.
 * `Lev 21:21` No man of the offspring of Aaron the priest who has a *_blemish_* shall come near to offer the offerings of the LORD made by fire. He has a *_blemish_*. He shall not come near to offer the bread of his God.
-* `Lev 21:23` Only he shall not go in to the veil, nor come near to the altar, because he has a *_blemish_*, so that he may not profane my sanctuaries. For I, the LORD, sanctify them.'"
+* `Lev 21:23` Only he shall not go in to the veil nor come near to the altar, because he has a *_blemish_*, so that he may not profane my sanctuaries. For I, the LORD, sanctify them.'"
 * `Lev 22:19` You shall offer at your own will a male without *_blemish_* from the bulls, from the sheep, or from the goats.
 * `Lev 22:20` But whatever has a *_blemish_*, you shall not offer, for it shall not be acceptable for you.
-* `Lev 22:21` And whoever offers a sacrifice of peace-offerings to the LORD to accomplish his vow, or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be no *_blemish_* in it.
+* `Lev 22:21` And whoever offers a sacrifice of peace-offerings to the LORD to accomplish his vow or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be no *_blemish_* in it.
 * `Lev 23:12` And you shall offer on the day when you wave the sheaf a male lamb without *_blemish_* of the first year for a burnt-offering to the LORD.
 * `Lev 23:18` And you shall offer with the bread seven lambs without *_blemish_* of the first year, and one young bull and two rams. They shall be for a burnt-offering to the LORD, with their food-offering and their drink offerings, even an offering made by fire, a sweet savor to the LORD.
 * `Lev 24:19` And if a man causes a *_blemish_* in his neighbor, as he has done, so it shall be done to him,
@@ -74,7 +74,7 @@ _54 verses containing BLEMISH_
 
 == BLEMISHES
 
-* `Lev 22:25` Neither from a stranger's hand shall you offer the bread of your God of any of these, because their corruption is in them and *_blemishes_* are in them. They shall not be accepted for you.'"
+* `Lev 22:25` Neither from a stranger's hand shall you offer the bread of your God from any of these, because their corruption is in them and *_blemishes_* are in them. They shall not be accepted for you.'"
 * `2Pe 2:13` And shall receive the reward of unrighteousness, as those who count it pleasure to riot in the day-time. They are spots and *_blemishes_*, reveling in their own deceptions while they feast with you,
 
 _2 verses containing BLEMISHES_
@@ -635,9 +635,9 @@ _26 verses containing BLEW_
 == BLIND
 
 * `Exo 4:11` And the LORD said to him, "Who has made man's mouth? Or who makes the mute, the deaf, the seeing, or the *_blind_*? Is it not I, the LORD?
-* `Lev 19:14` You shall not curse the deaf, nor put a stumbling-block before the *_blind_*, but shall fear your God. I am the LORD.
+* `Lev 19:14` You shall not curse the deaf nor put a stumbling-block before the *_blind_*, but you shall fear your God. I am the LORD.
 * `Lev 21:18` For whatever man he may be who has a blemish, he shall not approach: a *_blind_* man, a lame, or he who has a flat nose, or anything superfluous,
-* `Lev 22:22` *_Blind_*, broken, maimed, having a wen, scurvy, or scabbed, you shall not offer these to the LORD, nor make an offering by fire of them upon the altar to the LORD.
+* `Lev 22:22` *_Blind_*, broken, maimed, having a wen, scurvy, or scabbed, you shall not offer these to the LORD nor make an offering by fire of them upon the altar to the LORD.
 * `Deu 15:21` And if there is any blemish in it, as if it is lame, *_blind_*, or has any ill blemish, you shall not sacrifice it to the LORD your God.
 * `Deu 27:18` 'Cursed is he who makes the *_blind_* to wander out of the way.' And all the people shall say, 'Amen.'
 * `Deu 28:29` You shall grope at noon-day, as the *_blind_* gropes in darkness. You shall not prosper in your ways. You shall only be oppressed and plundered evermore, and no man shall save you.
@@ -746,7 +746,7 @@ _2 verses containing BLINDS_
 
 == BLOCK
 
-* `Lev 19:14` You shall not curse the deaf, nor put a stumbling-*_block_* before the blind, but shall fear your God. I am the LORD.
+* `Lev 19:14` You shall not curse the deaf nor put a stumbling-*_block_* before the blind, but you shall fear your God. I am the LORD.
 * `Isa 57:14` He shall say, "Cast up, cast up, prepare the way, take up the stumbling-*_block_* out of the way of my people."
 * `Ezk 3:20` Again, when a righteous man turns from his righteousness and commits iniquity, and I lay a stumbling-*_block_* before him, he shall die. Because you have not given him warning, he shall die in his sin, and his righteousness which he has done shall not be remembered, but his blood I will require at your hand.
 * `Ezk 7:19` They shall cast their silver in the streets, and their gold shall be as an unclean thing. Their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD. They shall not satisfy their souls nor fill their bowels because it is the stumbling-*_block_* of their iniquity.
@@ -852,14 +852,14 @@ _13 verses containing BLOCK_
 * `Lev 17:13` And whatever man there may be of the children of Israel or of the strangers who sojourn among you who hunts and catches any beast or bird that may be eaten, he shall even pour out its *_blood_* and cover it with dust.
 * `Lev 17:14` "For it is the life of all flesh, its *_blood_* is for its life; therefore, I said to the children of Israel, 'You shall eat the *_blood_* of no manner of flesh, for the life of all flesh is its *_blood_*.' Whoever eats it shall be cut off.
 * `Lev 19:16` You shall not go up and down as a gossiper among your people, neither shall you stand against the *_blood_* of your neighbor. I am the LORD.
-* `Lev 19:26` 'You shall not eat anything with the *_blood_*. You shall not use enchantment, nor observe times.
+* `Lev 19:26` 'You shall not eat anything with the *_blood_*. You shall not use enchantment nor observe times.
 * `Lev 20:9` 'For everyone who curses his father or his mother shall surely be put to death. He has cursed his father or his mother. His *_blood_* shall be upon him.
 * `Lev 20:11` And the man who lies with his father's wife has uncovered his father's nakedness. Both of them shall surely be put to death. Their *_blood_* shall be upon them.
 * `Lev 20:12` And if a man lies with his daughter-in-law, both of them shall surely be put to death. They have committed a perversion. Their *_blood_* shall be upon them.
 * `Lev 20:13` If a man also lies with mankind, as he lies with a woman, both of them have committed an abomination. They shall surely be put to death. Their *_blood_* shall be upon them.
 * `Lev 20:16` And if a woman approaches any beast and lies down thereto, you shall kill the woman and the beast. They shall surely be put to death. Their *_blood_* shall be upon them.
 * `Lev 20:18` And if a man lies with a woman having her sickness and uncovers her nakedness, he has discovered her fountain, and she has uncovered the fountain of her *_blood_*, and both of them shall be cut off from among their people.
-* `Lev 20:27` 'Also a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall stone them with stones. Their *_blood_* shall be upon them.'"
+* `Lev 20:27` 'Also, a man or a woman who has a familiar spirit or who is a wizard shall surely be put to death. They shall stone them with stones. Their *_blood_* shall be upon them.'"
 * `Num 18:17` But the first-born of a cow, the first-born of a sheep, or the first-born of a goat, you shall not redeem. They are holy. You shall sprinkle their *_blood_* upon the altar and burn their fat for an offering made by fire for a sweet savor to the LORD.
 * `Num 19:4` And Eleazar the priest shall take some of her *_blood_* with his finger and sprinkle some of her *_blood_* directly before the Tabernacle of the Congregation seven times.
 * `Num 19:5` And someone shall burn the heifer in his sight—her skin, her flesh, and her *_blood_*, with her dung, he shall burn.
@@ -1695,7 +1695,7 @@ _4 verses containing BODILY_
 * `Exo 24:10` And they saw the God of Israel, and there was under his feet something like a paved work of a sapphire-stone and like the *_body_* of heaven in its clearness.
 * `Lev 6:10` And the priest shall put on his linen garment and put his linen breeches on his *_body_*. And he shall take up the ashes which the fire has consumed with the burnt-offering on the altar and put them beside the altar.
 * `Lev 16:4` He shall put on the holy linen coat and have the linen breeches upon his *_body_*, and he shall be girded with the linen girdle, and with the linen miter he shall be attired. These are holy garments; therefore, he shall wash his flesh in water and put them on in this manner.
-* `Lev 21:11` Neither shall he go near any dead *_body_*, nor defile himself for his father or for his mother,
+* `Lev 21:11` Neither shall he go near any dead *_body_* nor defile himself, even for his father or for his mother;
 * `Num 6:6` 'All the days that he separates himself to the LORD, he shall come near to no dead *_body_*.
 * `Num 9:6` And there were some men who were defiled by the dead *_body_* of a man and they could not keep the passover on that day. And they came before Moses and before Aaron on that day,
 * `Num 9:7` And those men said to him, "We are defiled by the dead *_body_* of a man. Why are we kept back so that we may not offer an offering of the LORD in its appointed season among the children of Israel?"
@@ -3292,6 +3292,7 @@ _1 verse containing BOSSES_
 * `Lev 15:18` The woman also with whom a man lies with seed of copulation, they shall *_both_* bathe themselves in water and be unclean until the evening.
 * `Lev 16:21` And Aaron shall lay *_both_* his hands upon the head of the live goat and confess over it all the iniquities of the children of Israel and all their transgressions in all their sins, putting them upon the head of the goat, and shall send it away by the hand of a fit man into the wilderness.
 * `Lev 17:15` And every soul who eats that which died of itself or that which was torn by beasts (whether it is someone of your own country or a stranger), he shall *_both_* wash his clothes and bathe himself in water, and be unclean until the evening. Then he shall be clean.
+* `Lev 20:5` Then I will set my face against that man and against his family and will cut off from among their people *_both_* him and all who go astray after him to commit lewdness with Molech.
 * `Lev 20:11` And the man who lies with his father's wife has uncovered his father's nakedness. *_Both_* of them shall surely be put to death. Their blood shall be upon them.
 * `Lev 20:12` And if a man lies with his daughter-in-law, *_both_* of them shall surely be put to death. They have committed a perversion. Their blood shall be upon them.
 * `Lev 20:13` If a man also lies with mankind, as he lies with a woman, *_both_* of them have committed an abomination. They shall surely be put to death. Their blood shall be upon them.
@@ -3572,7 +3573,7 @@ _1 verse containing BOSSES_
 * `Rev 19:18` So that you may eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and of those who sit on them, and the flesh of all men, *_both_* free and bond, *_both_* small and great."
 * `Rev 19:20` And the beast was taken, and with him the false prophet who wrought miracles before him, with which he deceived those who had received the mark of the beast and those who worshiped his image. These were *_both_* cast alive into a lake of fire burning with brimstone.
 
-_325 verses containing BOTH_
+_326 verses containing BOTH_
 
 == BOTTLE
 

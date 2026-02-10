@@ -1141,8 +1141,8 @@ _1 verse containing DIVORCE_
 
 == DIVORCED
 
-* `Lev 21:14` A widow, a *_divorced_* woman, profane, or a harlot, these he shall not take, but he shall take a virgin of his own people for a wife,
-* `Lev 22:13` But if the priest's daughter is a widow or *_divorced_*, and has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no stranger shall eat it.
+* `Lev 21:14` A widow, a *_divorced_* woman, a profane woman, or a harlot, these he shall not take, but he shall take a virgin of his own people for a wife,
+* `Lev 22:13` But if the priest's daughter is a widow or *_divorced_*, has no child, and has returned to her father's house as in her youth, she shall eat her father's food, but no stranger shall eat it.
 * `Num 30:9` "But every vow of a widow and of her who is *_divorced_*, with which they have bound their souls, shall stand against her.
 * `Mth 5:32` But I say to you, that whoever puts away his wife, except for the cause of lewdness, causes her to commit adultery. And whoever marries her who is *_divorced_*, commits adultery.
 

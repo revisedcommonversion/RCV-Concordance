@@ -382,7 +382,7 @@ _1 verse containing SACRED_
 * `Lev 9:18` He also slew the bull and the ram for a *_sacrifice_* of peace-offerings, which was for the people. And Aaron's sons presented to him the blood, which he sprinkled around upon the altar,
 * `Lev 17:8` "And you shall say to them, 'Whatever man there may be of the house of Israel or of the strangers which sojourn among you who offers a burnt-offering or *_sacrifice_*,
 * `Lev 19:5` 'And if you offer a *_sacrifice_* of peace-offerings to the LORD, you shall offer it at your own will.
-* `Lev 22:21` And whoever offers a *_sacrifice_* of peace-offerings to the LORD to accomplish his vow, or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be no blemish in it.
+* `Lev 22:21` And whoever offers a *_sacrifice_* of peace-offerings to the LORD to accomplish his vow or a voluntary-offering in bulls or sheep, it shall be perfect to be accepted. There shall be no blemish in it.
 * `Lev 22:29` And when you will offer a *_sacrifice_* of thanksgiving to the LORD, offer it at your own will.
 * `Lev 23:19` Then you shall *_sacrifice_* one kid of the goats for a sin-offering and two lambs of the first year for a *_sacrifice_* of peace-offerings.
 * `Lev 23:37` 'These are the feasts of the LORD which you shall proclaim to be holy convocations to offer an offering made by fire to the LORD, a burnt-offering, a food-offering, a *_sacrifice_*, and drink-offerings, everything upon its day,
@@ -522,7 +522,7 @@ _1 verse containing SACRED_
 * `1Co 10:19` What then do I say? That the idol is anything, or that which is offered in *_sacrifice_* to idols is anything?
 * `1Co 10:20` But I say, that the things which the Gentiles *_sacrifice_*, "they *_sacrifice_* to demons and not to God," and I do not wish that you should have fellowship with demons.
 * `1Co 10:28` But if any man says to you, "This is offered in *_sacrifice_* to idols," do not eat for his sake who showed it and for the sake of conscience. For "the earth is the Lord's, and its fullness."
-* `Eph 5:2` And walk in love, as Christ also has loved us and has given himself for us an offering and a *_sacrifice_* to God for a sweet-smelling savor.
+* `Eph 5:2` And walk in love, as Christ also has loved us and has given himself for us as an offering and a *_sacrifice_* to God for a sweet-smelling savor.
 * `Phl 2:17` And if I am even offered upon the *_sacrifice_* and service of your faith, I am glad and rejoice with you all.
 * `Phl 4:18` But I have all and abound. I am full, having received from Epaphroditus the things which were sent from you, an odor of a sweet smell, a *_sacrifice_* acceptable, well-pleasing to God.
 * `Heb 7:27` Who does not need daily, as those high priests, to offer up *_sacrifice_*, first for his own sins and then for the people's. For this he did once when he offered up himself.
@@ -1446,7 +1446,7 @@ _1 verse containing SAFFRON_
 * `Lev 16:2` And the LORD *_said_* to Moses, "Speak to Aaron your brother that he shall not come at all times into the holy place within the veil before the mercy-seat, which is upon the ark, so that he may not die. For I will appear in the cloud upon the mercy-seat.
 * `Lev 17:12` Therefore, I *_said_* to the children of Israel, 'No soul of you shall eat blood, neither shall any stranger who sojourns among you eat blood.'
 * `Lev 17:14` "For it is the life of all flesh, its blood is for its life; therefore, I *_said_* to the children of Israel, 'You shall eat the blood of no manner of flesh, for the life of all flesh is its blood.' Whoever eats it shall be cut off.
-* `Lev 20:24` But I have *_said_* to you, "You shall inherit their land, and I will give it to you to possess it, a land that flows with milk and honey." I am the LORD your God, who has separated you from other people.
+* `Lev 20:24` But I have *_said_* to you, "You shall inherit their land, and I will give it to you to possess it, a land that flows with milk and honey." I am the LORD your God who has separated you from other people.
 * `Lev 21:1` And the LORD *_said_* to Moses, "Speak to the priests, the sons of Aaron, and say to them, 'No one shall be defiled for the dead among his people,
 * `Num 3:40` And the LORD *_said_* to Moses, "Number all the first-born of the males of the children of Israel from a month old and upward, and take the number of their names.
 * `Num 7:11` And the LORD *_said_* to Moses, "They shall offer their offering, each prince on his day, for the dedicating of the altar."
@@ -6012,9 +6012,9 @@ _11 verses containing SANCTIFIES_
 * `Lev 20:7` *_Sanctify_* yourselves therefore and be holy, for I am the LORD your God.
 * `Lev 21:8` You shall *_sanctify_* him therefore, for he offers the bread of your God. He shall be holy to you. For I, the LORD, who *_sanctify_* you, am holy.
 * `Lev 21:15` Neither shall he profane his offspring among his people. For I, the LORD, *_sanctify_* him.'"
-* `Lev 21:23` Only he shall not go in to the veil, nor come near to the altar, because he has a blemish, so that he may not profane my sanctuaries. For I, the LORD, *_sanctify_* them.'"
+* `Lev 21:23` Only he shall not go in to the veil nor come near to the altar, because he has a blemish, so that he may not profane my sanctuaries. For I, the LORD, *_sanctify_* them.'"
 * `Lev 22:9` They shall therefore keep my ordinance, lest they bear sin for it and die therein, if they profane it. I, the LORD, *_sanctify_* them.
-* `Lev 22:16` Or allow them to bear the iniquity of trespass, when they eat their holy things. For I, the LORD, *_sanctify_* them.'"
+* `Lev 22:16` And so cause them to bear the iniquity of trespass when they eat their holy things. For I, the LORD, *_sanctify_* them.'"
 * `Lev 27:26` 'Only the first-born of the beasts, which should be the LORD'S first-born, no man shall *_sanctify_* it, whether ox or sheep. It is the LORD'S.
 * `Num 11:18` And say to the people, '*_Sanctify_* yourselves for tomorrow, and you shall eat flesh, for you have wept in the ears of the LORD, saying, "Who shall give us flesh to eat? For it was well with us in Egypt." Therefore, the LORD will give you flesh, and you shall eat.
 * `Num 20:12` And the LORD spoke to Moses and Aaron, "Because you did not believe me, to *_sanctify_* me in the eyes of the children of Israel, therefore you shall not bring this congregation into the land which I have given them."
@@ -6056,7 +6056,7 @@ _59 verses containing SANCTIFY_
 
 == SANCTUARIES
 
-* `Lev 21:23` Only he shall not go in to the veil, nor come near to the altar, because he has a blemish, so that he may not profane my *_sanctuaries_*. For I, the LORD, sanctify them.'"
+* `Lev 21:23` Only he shall not go in to the veil nor come near to the altar, because he has a blemish, so that he may not profane my *_sanctuaries_*. For I, the LORD, sanctify them.'"
 * `Lev 26:31` And I will make your cities waste and bring your *_sanctuaries_* to desolation, and I will not smell the savor of your sweet odors.
 * `Jer 51:51` We are confounded because we have heard reproach. Shame has covered our faces, for strangers have come into the *_sanctuaries_* of the LORD'S house.
 * `Ezk 28:18` You have defiled your *_sanctuaries_* by the multitude of your iniquities, by the iniquity of your traffic; therefore, I will bring forth a fire from the midst of you. It shall devour you, and I will bring you to ashes upon the earth in the sight of all those who behold you.
@@ -6085,7 +6085,7 @@ _5 verses containing SANCTUARIES_
 * `Lev 16:33` And he shall make an atonement for the holy *_sanctuary_* and shall make an atonement for the Tabernacle of the Congregation and for the altar. And he shall make an atonement for the priests and for all the people of the congregation.
 * `Lev 19:30` You shall keep my sabbaths and reverence my *_sanctuary_*. I am the LORD.
 * `Lev 20:3` And I will set my face against that man and will cut him off from among his people because he has given his children to Molech to defile my *_sanctuary_* and to profane my holy name.
-* `Lev 21:12` Neither shall he go out of the *_sanctuary_*, nor profane the *_sanctuary_* of his God, for the crown of the anointing oil of his God is upon him. I am the LORD.
+* `Lev 21:12` Neither shall he go out of the *_sanctuary_* nor profane the *_sanctuary_* of his God, for the crown of the anointing oil of his God is upon him. I am the LORD.
 * `Lev 26:2` You shall keep my sabbaths and reverence my *_sanctuary_*. I am the LORD.
 * `Lev 27:3` And your estimation of a male from twenty years old even to sixty years old, even your estimation shall be fifty shekels of silver after the shekel of the *_sanctuary_*.
 * `Lev 27:25` And all your estimations shall be according to the shekel of the *_sanctuary_*. Twenty gerahs shall be the shekel.

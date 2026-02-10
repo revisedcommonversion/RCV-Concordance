@@ -582,7 +582,7 @@ _3 verses containing AFFIRMED_
 * `Exo 1:11` Therefore, they set over them task-masters to *_afflict_* them with their burdens. And they built for Pharaoh treasure-cities: Pithom and Raamses.
 * `Exo 22:22` You shall not *_afflict_* any widow or fatherless child.
 * `Exo 22:23` If you *_afflict_* them in any way, and they cry at all to me, I will surely hear their cry.
-* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall *_afflict_* your souls and do no work at all, whether it be one of your own country or a stranger who sojourns among you.
+* `Lev 16:29` "And this shall be a statute forever to you, that in the seventh month, on the tenth day of the month, you shall *_afflict_* your souls and do no work at all, whether it be someone of your own country or a stranger who sojourns among you.
 * `Lev 16:31` It shall be a sabbath of rest to you, and you shall *_afflict_* your souls by a statute forever.
 * `Lev 23:27` "Also on the tenth day of this seventh month there shall be a day of atonement. It shall be a holy convocation to you, and you shall *_afflict_* your souls and offer an offering made by fire to the LORD.
 * `Lev 23:32` It shall be to you a sabbath of rest, and you shall *_afflict_* your souls on the ninth day of the month at evening. From evening to evening you shall celebrate your sabbath."
@@ -1127,7 +1127,7 @@ _183 verses containing AFRAID_
 * `Lev 16:1` And the LORD spoke to Moses *_after_* the death of the two sons of Aaron when they offered before the LORD and died.
 * `Lev 18:3` *_After_* the doings of the land of Egypt in which you dwelt, you shall not do, and *_after_* the doings of the land of Canaan where I bring you, you shall not do, neither shall you walk in their ordinances.
 * `Lev 19:31` 'Do not regard those who have familiar spirits, neither seek *_after_* wizards to be defiled by them. I am the LORD your God.
-* `Lev 20:5` Then I will set my face against that man and against his family and will cut him off and all who go astray *_after_* him to commit lewdness with Molech from among their people.
+* `Lev 20:5` Then I will set my face against that man and against his family and will cut off from among their people both him and all who go astray *_after_* him to commit lewdness with Molech.
 * `Lev 20:6` 'And the soul who turns *_after_* those who have familiar spirits and *_after_* wizards to go astray *_after_* them, I will even set my face against that soul and will cut him off from among his people.
 * `Lev 23:11` And he shall wave the sheaf before the LORD to be accepted for you. On the next day *_after_* the sabbath the priest shall wave it.
 * `Lev 23:15` 'And you shall count for yourselves from the next day *_after_* the sabbath, from the day that you brought the sheaf of the wave-offering, seven complete sabbaths.
@@ -1990,9 +1990,9 @@ _1 verse containing AFTERNOON_
 * `Exo 34:32` And *_afterward_*, all the children of Israel came near, and he gave them in commandment all that the LORD had spoken with him on mount Sinai.
 * `Lev 14:19` And the priest shall offer the sin-offering and make an atonement for him who is to be cleansed from his uncleanness, and *_afterward_*, he shall kill the burnt-offering.
 * `Lev 14:36` The priest shall command that they empty the house before the priest enters to see the plague so that all that is in the house may not be made unclean. And *_afterward_*, the priest shall go in to see the house.
-* `Lev 16:26` And he who let the goat go for the scape-goat shall wash his clothes, bathe his flesh in water, and *_afterward_* come into the camp.
-* `Lev 16:28` And he who burns them shall wash his clothes, bathe his flesh in water, and *_afterward_* he shall come into the camp.
-* `Lev 22:7` And when the sun is set, he shall be clean, and *_afterward_* he may eat the holy things, because it is his food.
+* `Lev 16:26` And he who let the goat go for the scape-goat shall wash his clothes and bathe his flesh in water. And *_afterward_*, he shall come into the camp.
+* `Lev 16:28` And he who burns them shall wash his clothes and bathe his flesh in water. And *_afterward_*, he shall come into the camp.
+* `Lev 22:7` And when the sun is set, he shall be clean. And *_afterward_*, he may eat the holy things, because it is his food.
 * `Num 5:26` And the priest shall take a handful of the offering, even its memorial, and burn it upon the altar, and *_afterward_* shall cause the woman to drink the water.
 * `Num 12:16` And *_afterward_*, the people departed from Hazeroth and encamped in the wilderness of Paran.
 * `Num 19:7` Then the priest shall wash his clothes and bathe his flesh in water, and *_afterward_* he shall come into the camp, and the priest shall be unclean until the evening.
@@ -2604,9 +2604,9 @@ _440 verses containing AGAIN_
 * `Lev 6:2` "If a soul sins and commits a trespass *_against_* the LORD and lies to his neighbor in that which was delivered to him to keep, in a pledge, or in a thing taken away by violence, has deceived his neighbor,
 * `Lev 17:10` 'And whatever man there may be of the house of Israel or of the strangers who sojourn among you who eats any manner of blood, I will even set my face *_against_* that soul who eats blood and will cut him off from among his people.
 * `Lev 19:16` You shall not go up and down as a gossiper among your people, neither shall you stand *_against_* the blood of your neighbor. I am the LORD.
-* `Lev 19:18` You shall not avenge, nor bear any grudge *_against_* the children of your people, but you shall love your neighbor as yourself. I am the LORD.
+* `Lev 19:18` You shall not avenge nor bear any grudge *_against_* the children of your people, but you shall love your neighbor as yourself. I am the LORD.
 * `Lev 20:3` And I will set my face *_against_* that man and will cut him off from among his people because he has given his children to Molech to defile my sanctuary and to profane my holy name.
-* `Lev 20:5` Then I will set my face *_against_* that man and *_against_* his family and will cut him off and all who go astray after him to commit lewdness with Molech from among their people.
+* `Lev 20:5` Then I will set my face *_against_* that man and *_against_* his family and will cut off from among their people both him and all who go astray after him to commit lewdness with Molech.
 * `Lev 20:6` 'And the soul who turns after those who have familiar spirits and after wizards to go astray after them, I will even set my face *_against_* that soul and will cut him off from among his people.
 * `Lev 26:17` And I will set my face *_against_* you, and you shall be slain before your enemies. Those who hate you shall reign over you, and you shall flee when no one pursues you.
 * `Lev 26:40` 'If they confess their iniquity and the iniquity of their fathers, with their trespass which they trespassed *_against_* me, and that they also have walked contrary to me,
