@@ -531,7 +531,7 @@ _8 verses containing BLESSES_
 * `Gen 39:5` And it came to pass from the time that he had made him overseer in his house and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake. And the *_blessing_* of the LORD was on all that he had in the house and in the field.
 * `Gen 49:28` All these are the twelve tribes of Israel. And this is that which their father spoke to them and blessed them. Each according to his *_blessing_* he blessed them.
 * `Exo 32:29` For Moses had said, "Consecrate yourselves today to the LORD, even every man upon his son and upon his brother, so that he may bestow upon you a *_blessing_* this day."
-* `Lev 25:21` Then I will command my *_blessing_* upon you in the sixth year and it shall bring forth fruit for three years.
+* `Lev 25:21` Then I will command my *_blessing_* upon you in the sixth year, and it shall bring forth fruit for three years.
 * `Deu 11:26` "Behold, I set before you this day a *_blessing_* and a curse:
 * `Deu 11:27` A *_blessing_*, if you obey the commandments of the LORD your God which I command you this day,
 * `Deu 11:29` "And it shall come to pass when the LORD your God has brought you in to the land where you go to possess it, that you shall put the *_blessing_* upon mount Gerizim and the curse upon mount Ebal.
@@ -2429,7 +2429,7 @@ _2 verses containing BOOTH_
 == BOOTHS
 
 * `Gen 33:17` And Jacob journeyed to Succoth and built himself a house and made *_booths_* for his livestock. Therefore, the name of the place is called Succoth.
-* `Lev 23:42` You shall dwell in *_booths_* seven days. All who are natives of Israel shall dwell in *_booths_*,
+* `Lev 23:42` You shall dwell in *_booths_* for seven days. All who are natives of Israel shall dwell in *_booths_*,
 * `Lev 23:43` So that your generations may know that I made the children of Israel to dwell in *_booths_* when I brought them out of the land of Egypt. I am the LORD your God.'"
 * `Neh 8:14` And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in *_booths_* during the feast of the seventh month,
 * `Neh 8:15` And that they should publish and proclaim in all their cities and in Jerusalem, saying, "Go forth to the mountain and fetch olive branches, pine branches, myrtle branches, palm branches, and branches of thick trees to make *_booths_*, as it is written."
@@ -3699,7 +3699,7 @@ _17 verses containing BOUGHS_
 * `Gen 49:30` In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham *_bought_* with the field of Ephron the Hittite as a possession for a burying-place.
 * `Gen 50:13` For his sons carried him into the land of Canaan and buried him in the cave of the field of Machpelah near Mamre, which Abraham *_bought_* with the field as a possession for a burying-place from Ephron the Hittite.
 * `Exo 12:44` But every man's servant who is *_bought_* for money, when you have circumcised him, then he shall eat it.
-* `Lev 25:28` But if he is not able to restore it to him, then that which is sold shall remain in the hand of him who has *_bought_* it until the year of jubilee. And in the jubilee it shall go out and he shall return to his possession.
+* `Lev 25:28` But if he is not able to restore it to him, then that which is sold shall remain in the hand of him who has *_bought_* it until the year of jubilee. And in the jubilee it shall go out, and he shall return to his possession.
 * `Lev 25:30` And if it is not redeemed within the time of a full year, then the house that is in the walled city shall be established forever to him who *_bought_* it throughout his generations. It shall not go out in the jubilee.
 * `Lev 25:50` And he shall reckon with him who *_bought_* him from the year that he was sold to him to the year of jubilee, and the price of his sale shall be according to the number of years, according to the time of a hired servant it shall be with him.
 * `Lev 25:51` If many years still remain, according to them he shall give back the price of his redemption out of the money that he was *_bought_* for.

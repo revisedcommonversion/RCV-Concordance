@@ -642,7 +642,7 @@ _6 verses containing FIR-TREES_
 * `Lev 21:21` No man of the offspring of Aaron the priest who has a blemish shall come near to offer the offerings of the LORD made by *_fire_*. He has a blemish. He shall not come near to offer the bread of his God.
 * `Lev 22:22` Blind, broken, maimed, having a wen, scurvy, or scabbed, you shall not offer these to the LORD nor make an offering by *_fire_* of them upon the altar to the LORD.
 * `Lev 22:27` "When a bull, a sheep, or a goat is brought forth, it shall remain seven days with its mother. And from the eighth day and thereafter it shall be accepted for an offering made by *_fire_* to the LORD.
-* `Lev 23:8` But you shall offer an offering made by *_fire_* to the LORD seven days. On the seventh day is a holy convocation, you shall do no servile work on it.'"
+* `Lev 23:8` But you shall offer an offering made by *_fire_* to the LORD for seven days. On the seventh day is a holy convocation, you shall do no servile work on it.'"
 * `Lev 23:13` And the food-offering thereof shall be two tenth-parts of fine flour mingled with oil, an offering made by *_fire_* to the LORD for a sweet savor. And the drink-offering thereof shall be a fourth part of a hin of wine.
 * `Lev 23:18` And you shall offer with the bread seven lambs without blemish of the first year, and one young bull and two rams. They shall be for a burnt-offering to the LORD, with their food-offering and their drink offerings, even an offering made by *_fire_*, a sweet savor to the LORD.
 * `Lev 23:25` You shall do no servile work on it, but you shall offer an offering made by *_fire_* to the LORD.'"
@@ -1250,7 +1250,7 @@ _17 verses containing FIRMLY_
 * `Lev 23:20` And the priest shall wave them with the bread of the *_first_*-fruits for a wave-offering before the LORD, with the two lambs. They shall be holy to the LORD for the priest.
 * `Lev 23:24` "Speak to the children of Israel, saying, 'In the seventh month, on the *_first_* day of the month, you shall have a sabbath, a memorial of blowing of trumpets, a holy convocation.
 * `Lev 23:35` On the *_first_* day there shall be a holy convocation. You shall do no servile work on it.
-* `Lev 23:39` 'Also on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep a feast to the LORD seven days. On the *_first_* day there shall be a sabbath and on the eighth day there shall be a sabbath.
+* `Lev 23:39` 'Also, on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep a feast to the LORD for seven days. On the *_first_* day there shall be a sabbath, and on the eighth day there shall be a sabbath.
 * `Lev 23:40` And you shall take for yourselves on the *_first_* day the boughs of beautiful trees—branches of palm-trees, the boughs of thick trees, and willows of the brook—and you shall rejoice before the LORD your God seven days.
 * `Lev 27:26` 'Only the *_first_*-born of the beasts, which should be the LORD'S *_first_*-born, no man shall sanctify it, whether ox or sheep. It is the LORD'S.
 * `Num 1:1` And the LORD spoke to Moses in the wilderness of Sinai, in the Tabernacle of the Congregation, on the *_first_* day of the second month, in the second year after they had come out of the land of Egypt, saying,
@@ -2698,7 +2698,7 @@ _143 verses containing FLED_
 * `Exo 14:25` And took off their chariot-wheels and made them to move heavily, so that the Egyptians said, "Let us *_flee_* from the face of Israel, for the LORD fights for them against the Egyptians."
 * `Exo 21:13` And if the man did not lie in wait, but God has delivered him into his hand, then I will appoint you a place where he shall *_flee_*.
 * `Lev 26:17` And I will set my face against you, and you shall be slain before your enemies. Those who hate you shall reign over you, and you shall *_flee_* when no one pursues you.
-* `Lev 26:36` And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall *_flee_* as fleeing from a sword, and they shall fall when no one pursues.
+* `Lev 26:36` And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall *_flee_* as one flees from the sword, and they shall fall when no one pursues.
 * `Num 10:35` And it came to pass when the ark moved forward, that Moses said, "Arise, LORD, and let your enemies be scattered, and let those who hate you *_flee_* before you."
 * `Num 24:11` And now, *_flee_* to your place. I thought to promote you to great honor, but behold, the LORD has kept you back from honor."
 * `Num 35:6` "And among the cities which you shall give to the Levites there shall be six cities for refuge, which you shall appoint for the man-slayer so that he may *_flee_* there. And to them you shall add forty-two cities.
@@ -2805,14 +2805,14 @@ _6 verses containing FLEECE_
 
 == FLEEING
 
-* `Lev 26:36` And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall flee as *_fleeing_* from a sword, and they shall fall when no one pursues.
 * `Deu 4:42` So that the slayer might flee there who kills his neighbor unintentionally and without having hated him in times past, and that *_fleeing_* to one of these cities he might live:
 * `Job 30:3` For lack and famine they were solitary, *_fleeing_* into the wilderness in former time desolate and waste.
 
-_3 verses containing FLEEING_
+_2 verses containing FLEEING_
 
 == FLEES
 
+* `Lev 26:36` And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall flee as one *_flees_* from the sword, and they shall fall when no one pursues.
 * `Deu 19:4` "And this is the case of the slayer who *_flees_* there so that he may live. Whoever kills his neighbor ignorantly, whom he did not hate in time past,
 * `Deu 19:11` "But if any man hates his neighbor and lies in wait for him, rises up against him, and smites him mortally so that he dies, and he *_flees_* into one of these cities,
 * `Jsh 20:4` And when he who *_flees_* to one of those cities stands at the entering of the gate of the city and declares his cause in the ears of the elders of that city, they shall take him into the city to them and give him a place so that he may dwell among them.
@@ -2824,7 +2824,7 @@ _3 verses containing FLEEING_
 * `Jhn 10:12` But he who is a hireling and not the shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and *_flees_*, and the wolf catches them and scatters the sheep.
 * `Jhn 10:13` The hireling *_flees_* because he is a hireling and does not care for the sheep.
 
-_10 verses containing FLEES_
+_11 verses containing FLEES_
 
 == FLESH
 

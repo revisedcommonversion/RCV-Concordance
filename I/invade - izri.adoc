@@ -1014,7 +1014,7 @@ _1 verse containing ISPAH_
 * `Lev 23:10` "Speak to the children of *_Israel_* and say to them, 'When you come into the land which I give to you and reap the harvest thereof, you shall bring a sheaf of the first-fruits of your harvest to the priest.
 * `Lev 23:24` "Speak to the children of *_Israel_*, saying, 'In the seventh month, on the first day of the month, you shall have a sabbath, a memorial of blowing of trumpets, a holy convocation.
 * `Lev 23:34` "Speak to the children of *_Israel_*, saying, 'The fifteenth day of this seventh month shall be the feast of tabernacles for seven days to the LORD.
-* `Lev 23:42` You shall dwell in booths seven days. All who are natives of *_Israel_* shall dwell in booths,
+* `Lev 23:42` You shall dwell in booths for seven days. All who are natives of *_Israel_* shall dwell in booths,
 * `Lev 23:43` So that your generations may know that I made the children of *_Israel_* to dwell in booths when I brought them out of the land of Egypt. I am the LORD your God.'"
 * `Lev 23:44` And Moses declared to the children of *_Israel_* the feasts of the LORD.
 * `Lev 24:2` "Command the children of *_Israel_* that they bring to you pure olive oil beaten for the light to cause the lamps to burn continually.
@@ -3539,11 +3539,11 @@ _1 verse containing ITHRITES_
 * `Lev 25:7` For your livestock, and for the beasts that are in your land. All of *_its_* increase shall be food.
 * `Lev 25:10` And you shall hallow the fiftieth year and proclaim liberty throughout all the land to all *_its_* inhabitants. It shall be a jubilee to you, and you shall return every man to his possession and return every man to his family.
 * `Lev 25:12` For it is the jubilee. It shall be holy to you. You shall eat *_its_* increase out of the field.
-* `Lev 25:16` According to the multitude of years you shall increase *_its_* price and according to the fewness of years you shall diminish *_its_* price, for according to the number of the years of the fruits he sells to you.
+* `Lev 25:16` According to the multitude of years you shall increase *_its_* price, and according to the fewness of years you shall diminish *_its_* price, for he is selling to you according to the number of the years of the fruits.
 * `Lev 25:22` And you shall sow the eighth year and eat old fruit until the ninth year. Until *_its_* fruits come in you shall eat the old store.
 * `Lev 25:27` Then let him count the years of *_its_* sale and restore the surplus to the man to whom he sold it so that he may return to his possession.
 * `Lev 26:34` 'Then the land shall enjoy *_its_* sabbaths as long as it lies desolate and you are in your enemies' land. Even then the land shall rest and enjoy *_its_* sabbaths.
-* `Lev 27:10` He shall not alter it, nor exchange it, a good for a bad or a bad for a good. And if he at all exchanges beast for beast, then it and *_its_* exchange shall be holy.
+* `Lev 27:10` He shall not alter it nor exchange it, a good for a bad or a bad for a good. And if he at all exchanges beast for beast, then it and *_its_* exchange shall be holy.
 * `Lev 27:16` 'And if a man sanctifies to the LORD some part of a field of his possession, then your estimation shall be according to *_its_* seed. A homer of barley seed shall be valued at fifty shekels of silver.
 * `Lev 27:21` But the field, when it goes out in the jubilee, shall be holy to the LORD as a field devoted. *_Its_* possession shall be the priest's.
 * `Lev 27:31` And if a man will at all redeem anything of his tithes, he shall add to it *_its_* fifth part.

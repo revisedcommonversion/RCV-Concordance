@@ -67,7 +67,7 @@ _22 verses containing MOMENT_
 * `Exo 22:25` "If you lend *_money_* to any of my people who is poor by you, you shall not be to him as a creditor, neither shall you lay upon him usury.
 * `Exo 30:16` And you shall take the atonement-*_money_* of the children of Israel and shall appoint it for the service of the Tabernacle of the Congregation so that it may be a memorial to the children of Israel before the LORD to make an atonement for your souls."
 * `Lev 22:11` But if the priest buys any soul with his *_money_*, he shall eat it, and also he who is born in his house, they shall eat his food.
-* `Lev 25:37` You shall not give him your *_money_* upon interest, nor lend him your food for increase.
+* `Lev 25:37` You shall not give him your *_money_* upon interest nor lend him your food for increase.
 * `Lev 25:51` If many years still remain, according to them he shall give back the price of his redemption out of the *_money_* that he was bought for.
 * `Lev 27:15` And if he who sanctified it will redeem his house, then he shall add the fifth part of the *_money_* of your estimation to it and it shall be his.
 * `Lev 27:18` But if he sanctifies his field after the jubilee, then the priest shall reckon to him the *_money_* according to the years that remain, even to the year of the jubilee, and it shall be abated from your estimation.
@@ -214,8 +214,8 @@ _1 verse containing MONSTERS_
 * `Lev 23:27` "Also on the tenth day of this seventh *_month_* there shall be a day of atonement. It shall be a holy convocation to you, and you shall afflict your souls and offer an offering made by fire to the LORD.
 * `Lev 23:32` It shall be to you a sabbath of rest, and you shall afflict your souls on the ninth day of the *_month_* at evening. From evening to evening you shall celebrate your sabbath."
 * `Lev 23:34` "Speak to the children of Israel, saying, 'The fifteenth day of this seventh *_month_* shall be the feast of tabernacles for seven days to the LORD.
-* `Lev 23:39` 'Also on the fifteenth day of the seventh *_month_*, when you have gathered in the fruit of the land, you shall keep a feast to the LORD seven days. On the first day there shall be a sabbath and on the eighth day there shall be a sabbath.
-* `Lev 23:41` And you shall keep it a feast to the LORD seven days in the year. It shall be a statute forever in your generations. You shall celebrate it in the seventh *_month_*.
+* `Lev 23:39` 'Also, on the fifteenth day of the seventh *_month_*, when you have gathered in the fruit of the land, you shall keep a feast to the LORD for seven days. On the first day there shall be a sabbath, and on the eighth day there shall be a sabbath.
+* `Lev 23:41` And you shall keep it a feast to the LORD for seven days in the year. It shall be a statute forever in your generations. You shall celebrate it in the seventh *_month_*.
 * `Lev 25:9` Then you shall cause the trumpet of the jubilee to sound on the tenth day of the seventh *_month_*. On the day of atonement you shall make the trumpet sound throughout all your land.
 * `Lev 27:6` And if it is from a *_month_* old even to five years old, then your estimation of a male shall be five shekels of silver, and for a female your estimation shall be three shekels of silver.
 * `Num 1:1` And the LORD spoke to Moses in the wilderness of Sinai, in the Tabernacle of the Congregation, on the first day of the second *_month_*, in the second year after they had come out of the land of Egypt, saying,
