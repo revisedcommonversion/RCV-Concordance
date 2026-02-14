@@ -451,7 +451,7 @@ _3 verses containing LEATHER_
 * `Lev 19:10` And you shall not glean your vineyard, neither shall you gather every grape of your vineyard. You shall *_leave_* them for the poor and stranger. I am the LORD your God.
 * `Lev 22:30` On the same day it shall be eaten up. You shall *_leave_* none of it until the next day. I am the LORD.
 * `Lev 23:22` 'And when you reap the harvest of your land, you shall not make clean riddance of the corners of your field when you reap, neither shall you gather any gleaning of your harvest. You shall *_leave_* them for the poor and for the stranger. I am the LORD your God.'"
-* `Num 9:12` They shall *_leave_* none of it until the morning, nor break any bone of it. According to all the ordinances of the passover they shall keep it.
+* `Num 9:12` They shall *_leave_* none of it until the morning nor break any bone of it. According to all the ordinances of the passover they shall keep it.
 * `Num 10:31` And he said, "Do not *_leave_* us, I pray you, because you know how we are to encamp in the wilderness, and you can be our eyes.
 * `Num 22:13` And Balaam rose in the morning and said to the princes of Balak, "Depart into your land, for the LORD refuses to give me *_leave_* to go with you."
 * `Num 32:15` For if you turn away from after him, he will yet again *_leave_* them in the wilderness and he will destroy all this people."
@@ -1990,14 +1990,14 @@ _223 verses containing LEST_
 * `Num 11:15` And if you deal thus with me, kill me, I pray you, out of hand, if I have found favor in your sight, and do not *_let_* me see my wretchedness."
 * `Num 11:31` And a wind went forth from the LORD, brought quails from the sea, and *_let_* them fall by the camp, about a day's journey on this side and about a day's journey on the other side around the camp, and about two cubits high upon the face of the earth.
 * `Num 12:12` Do not *_let_* her be as one dead, of whom the flesh is half consumed at the time of his birth."
-* `Num 12:14` And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? *_Let_* her be shut out from the camp seven days, and after that *_let_* her be received again."
+* `Num 12:14` And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? *_Let_* her be shut out from the camp seven days, and after that, *_let_* her be received again."
 * `Num 13:30` And Caleb stilled the people before Moses, and said, "*_Let_* us go up at once and possess it, for we are well able to overcome it."
 * `Num 14:4` And they said to one another, "*_Let_* us make a captain and *_let_* us return into Egypt."
 * `Num 14:17` And now, I implore you, *_let_* the power of my Lord be great, according as you have spoken, saying,
 * `Num 16:38` The censers of these sinners against their own souls, *_let_* them be made broad plates for a covering of the altar. Because they offered them before the LORD, therefore they are hallowed. And they shall be a sign to the children of Israel."
 * `Num 20:17` *_Let_* us pass, I pray you, through your country. We will not pass through the fields or through the vineyards, neither will we drink water from the wells. We will go by the king's highway. We will not turn to the right hand nor to the left until we have passed your borders.'"
 * `Num 21:22` "*_Let_* me pass through your land. We will not turn into the fields or into the vineyards. We will not drink the waters of the well. But we will go along by the king's highway until we have passed your borders."
-* `Num 21:27` Therefore, those who speak in proverbs say, "Come into Heshbon, *_let_* the city of Sihon be built and prepared.
+* `Num 21:27` Therefore, those who speak in proverbs say, "Come into Heshbon. *_Let_* the city of Sihon be built and prepared.
 * `Num 22:16` And they came to Balaam and said to him, "Thus says Balak the son of Zippor: '*_Let_* nothing, I pray you, hinder you from coming to me.
 * `Num 23:10` Who can count the dust of Jacob and the number of the fourth part of Israel? *_Let_* me die the death of the righteous, and *_let_* my last end be like his!"
 * `Num 27:16` "*_Let_* the LORD, the God of the spirits of all flesh, set a man over the congregation
@@ -3256,7 +3256,7 @@ _28 verses containing LEVITE_
 * `Num 2:17` "Then the Tabernacle of the Congregation shall move forward with the camp of the *_Levites_* in the midst of the camp. As they encamp, so they shall move forward, every man in his place by their standards.
 * `Num 2:33` But the *_Levites_* were not numbered among the children of Israel as the LORD commanded Moses.
 * `Num 3:9` And you shall give the *_Levites_* to Aaron and to his sons. They are wholly given to him out of the children of Israel.
-* `Num 3:12` "And I, behold, I have taken the *_Levites_* from among the children of Israel instead of all the first-born who opens the womb among the children of Israel. Therefore, the *_Levites_* shall be mine,
+* `Num 3:12` "And I, behold, I have taken the *_Levites_* from among the children of Israel instead of every first-born who opens the womb among the children of Israel. Therefore, the *_Levites_* shall be mine,
 * `Num 3:20` And the sons of Merari by their families: Mahli and Mushi. These are the families of the *_Levites_* according to the house of their fathers.
 * `Num 3:32` And Eleazar the son of Aaron the priest shall be chief over the chief of the *_Levites_* and have the oversight of those who keep the charge of the sanctuary.
 * `Num 3:39` All who were numbered of the *_Levites_*, whom Moses and Aaron numbered at the commandment of the LORD, by their families, all the males from a month old and upward, were twenty-two thousand.
@@ -3275,18 +3275,18 @@ _28 verses containing LEVITE_
 * `Num 8:12` And the *_Levites_* shall lay their hands upon the heads of the bulls. And you shall offer one for a sin-offering and the other for a burnt-offering to the LORD to make an atonement for the *_Levites_*.
 * `Num 8:13` And you shall set the *_Levites_* before Aaron and before his sons and offer them for an offering to the LORD.
 * `Num 8:14` "Thus you shall separate the *_Levites_* from among the children of Israel, and the *_Levites_* shall be mine.
-* `Num 8:15` And after that the *_Levites_* shall go in to perform the service of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
+* `Num 8:15` And after that, the *_Levites_* shall go in to perform the service of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
 * `Num 8:18` And I have taken the *_Levites_* instead of all the first-born of the children of Israel.
 * `Num 8:19` And I have given the *_Levites_* as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the Tabernacle of the Congregation and to make an atonement for the children of Israel, so that there may be no plague among the children of Israel when the children of Israel come near to the sanctuary."
 * `Num 8:20` And Moses, Aaron, and all the congregation of the children of Israel did to the *_Levites_* according to all that the LORD commanded Moses concerning the *_Levites_*. And the children of Israel did so to them.
 * `Num 8:21` And the *_Levites_* were purified and they washed their clothes. And Aaron offered them as an offering before the LORD. And Aaron made an atonement for them to cleanse them.
 * `Num 8:22` And after that, the *_Levites_* went in to perform their service in the Tabernacle of the Congregation before Aaron and before his sons. As the LORD had commanded Moses concerning the *_Levites_*, so they did to them.
 * `Num 8:24` "This is that which pertains to the *_Levites_*: from twenty-five years old and upward they shall go in to wait upon the service of the Tabernacle of the Congregation,
-* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge and shall do no service. Thus you shall do to the *_Levites_* concerning their charge."
+* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge, and shall do no service. Thus you shall do to the *_Levites_* concerning their charge."
 * `Num 18:6` And I, behold, I have taken your brothers the *_Levites_* from among the children of Israel. To you they are given as a gift for the LORD to do the service of the Tabernacle of the Congregation.
 * `Num 18:23` But the *_Levites_* shall do the service of the Tabernacle of the Congregation, and they shall bear their iniquity. It shall be a statute forever throughout your generations, that among the children of Israel they have no inheritance.
 * `Num 18:24` But the tithes of the children of Israel which they offer as a heave-offering to the LORD, I have given to the *_Levites_* to inherit. Therefore, I have said to them, 'Among the children of Israel they shall have no inheritance.'"
-* `Num 18:26` "Thus speak to the *_Levites_* and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the LORD, even a tenth part of the tithe.
+* `Num 18:26` "You shall also speak to the *_Levites_* and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the LORD, even a tenth part of the tithe.
 * `Num 18:30` Therefore, you shall say to them, 'When you have offered its best from it, it shall be counted to the *_Levites_* as the increase of the threshing-floor and as the increase of the wine-press.
 * `Num 26:57` And these are those who were numbered of the *_Levites_* after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
 * `Num 26:58` These are the families of the *_Levites_*: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begot Amram.

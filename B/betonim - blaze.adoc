@@ -271,7 +271,7 @@ _115 verses containing BETTER_
 * `Lev 20:25` You shall therefore distinguish *_between_* clean beasts and unclean and *_between_* unclean birds and clean. And you shall not make your souls abominable by beast or by bird, or by any manner of living animal that creeps on the ground, which I have separated from you as unclean.
 * `Lev 26:46` These are the statutes, judgments, and laws which the LORD made *_between_* him and the children of Israel on mount Sinai by the hand of Moses.
 * `Num 7:89` And when Moses had entered into the Tabernacle of the Congregation to speak with him, he heard the voice speaking to him from above the mercy-seat that was upon the ark of testimony, from *_between_* the two cherubim. And he spoke to him.
-* `Num 11:33` And while the flesh was still *_between_* their teeth, before it was chewed, the wrath of the LORD was kindled against the people and the LORD smote the people with a very great plague.
+* `Num 11:33` And while the flesh was still *_between_* their teeth, before it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
 * `Num 13:23` And they came to the brook of Eshcol and cut down from there a branch with one cluster of grapes, and they bore it *_between_* two upon a staff, and they brought some of the pomegranates and some of the figs.
 * `Num 16:48` And he stood *_between_* the dead and the living, and the plague was stayed.
 * `Num 21:13` From there they departed and pitched on the other side of Arnon, which is in the wilderness that comes out of the border of the Amorites, for Arnon is the border of Moab *_between_* Moab and the Amorites.
@@ -1161,7 +1161,7 @@ _1 verse containing BITS_
 == BITTEN
 
 * `Num 21:8` And the LORD said to Moses, "Make for yourself a fiery serpent and set it upon a pole. And it shall come to pass, that everyone who is *_bitten_*, when he looks upon it, shall live."
-* `Num 21:9` And Moses made a serpent of brass and put it upon a pole, and it came to pass, that if a serpent had *_bitten_* any man, when he beheld the serpent of brass, he lived.
+* `Num 21:9` And Moses made a serpent of brass and put it upon a pole. And it came to pass, that if a serpent had *_bitten_* any man, when he beheld the serpent of brass, he lived.
 * `Job 18:12` His strength shall be hunger-*_bitten_*, and destruction shall be ready at his side.
 
 _3 verses containing BITTEN_

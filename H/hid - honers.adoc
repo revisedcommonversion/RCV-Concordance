@@ -1121,12 +1121,12 @@ _1 verse containing HILT_
 * `Lev 25:47` 'And if a sojourner or a stranger becomes rich by you, and your brother who dwells by him becomes poor and sells *_himself_* to the stranger or sojourner by you, or to the stock of the stranger's family,
 * `Lev 25:49` His uncle or his uncle's son may redeem him, or anyone who is near of kin to him of his family may redeem him, or if he is able, he may redeem *_himself_*.
 * `Lev 27:8` But if he is poorer than your estimation, then he shall present *_himself_* before the priest, and the priest shall value him. According to the ability of him who vowed the priest shall value him.
-* `Num 6:3` He shall separate *_himself_* from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist or dried grapes.
+* `Num 6:3` He shall separate *_himself_* from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes nor eat moist or dried grapes.
 * `Num 6:5` 'All the days of the vow of his separation no razor shall come upon his head. Until the days are fulfilled in which he separates *_himself_* to the LORD, he shall be holy and shall let the locks of the hair of his head grow.
 * `Num 6:6` 'All the days that he separates *_himself_* to the LORD, he shall come near to no dead body.
 * `Num 6:7` He shall not make *_himself_* unclean for his father, for his mother, for his brother, or for his sister when they die because the consecration of his God is upon his head.
 * `Num 16:9` Is it a small thing to you that the God of Israel has separated you from the congregation of Israel to bring you near to *_himself_* to do the service of the tabernacle of the LORD and to stand before the congregation to minister to them?
-* `Num 19:12` He shall purify *_himself_* with water on the third day, and on the seventh day he shall be clean. But if he does not purify *_himself_* the third day, then the seventh day he shall not be clean.
+* `Num 19:12` He shall purify *_himself_* with water on the third day, and on the seventh day he shall be clean. But if he does not purify *_himself_* on the third day, then on the seventh day he shall not be clean.
 * `Num 19:13` Whoever touches the dead body of any man who is dead and does not purify *_himself_*, defiles the tabernacle of the LORD, and that soul shall be cut off from Israel. Because the water of separation was not sprinkled upon him, he shall be unclean. His uncleanness is still upon him.
 * `Num 19:19` And the clean person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify *_himself_*, wash his clothes, bathe *_himself_* in water, and shall be clean at evening.
 * `Num 19:20` 'But the man who is unclean and does not purify *_himself_*, that soul shall be cut off from among the congregation because he has defiled the sanctuary of the LORD. The water of separation has not been sprinkled upon him. He is unclean.
@@ -2551,7 +2551,7 @@ _3 verses containing HOLON_
 * `Num 4:19` But do thus to them so that they may live and not die when they approach the most *_holy_* things: Aaron and his sons shall go in and appoint them each to his service and to his burden,
 * `Num 4:20` But they shall not go in to see when the *_holy_* things are covered, lest they die."
 * `Num 5:9` And every offering of all the *_holy_* things of the children of Israel which they bring to the priest shall be his.
-* `Num 5:17` And the priest shall take *_holy_* water in an earthen vessel, and some of the dust that is on the floor of the tabernacle the priest shall take and put it into the water.
+* `Num 5:17` And the priest shall take *_holy_* water in an earthen vessel, and the priest shall take some of the dust that is on the floor of the tabernacle and put it into the water.
 * `Num 6:5` 'All the days of the vow of his separation no razor shall come upon his head. Until the days are fulfilled in which he separates himself to the LORD, he shall be *_holy_* and shall let the locks of the hair of his head grow.
 * `Num 6:8` All the days of his separation he is *_holy_* to the LORD.
 * `Num 6:20` And the priest shall wave them for a wave-offering before the LORD. This is the *_holy_* portion for the priest, with the wave-breast and heave-shoulder. And after that, the Nazarite may drink wine.'
@@ -3112,7 +3112,7 @@ _1 verse containing HONESTY_
 * `Num 13:27` And they told him and said, "We came to the land where you sent us, and surely it flows with milk and *_honey_*. And this is its fruit.
 * `Num 14:8` If the LORD delights in us, then he will bring us into this land and give it to us, a land which flows with milk and *_honey_*.
 * `Num 16:13` Is it a small thing that you have brought us out of a land that flows with milk and *_honey_* to kill us in the wilderness, but you also make yourself altogether a prince over us?
-* `Num 16:14` Moreover, you have not brought us into a land that flows with milk and *_honey_*, or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
+* `Num 16:14` Moreover, you have not brought us into a land that flows with milk and *_honey_* or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
 * `Deu 6:3` Hear therefore, O Israel, and observe to do it so that it may be well with you and that you may increase mightily, as the LORD God of your fathers has promised you, in the land that flows with milk and *_honey_*.
 * `Deu 8:8` A land of wheat, barley, vines, fig-trees, and pomegranates; a land of olive-oil and *_honey_*;
 * `Deu 11:9` And that you may prolong your days in the land which the LORD swore to your fathers to give to them and to their posterity, a land that flows with milk and *_honey_*.

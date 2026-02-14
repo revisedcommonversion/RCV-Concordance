@@ -1559,8 +1559,8 @@ _1 verse containing LANCETS_
 * `Num 13:2` "Send men so that they may search the *_land_* of Canaan, which I give to the children of Israel. Of every tribe of their fathers you shall send a man, each a ruler among them."
 * `Num 13:16` These are the names of the men whom Moses sent to explore the *_land_*. And Moses called Oshea the son of Nun, Jehoshua.
 * `Num 13:17` And Moses sent them to explore the *_land_* of Canaan and said to them, "Go up this way southward and ascend the mountain,
-* `Num 13:18` And see the *_land_*, what it is, and the people who dwell therein, whether they are strong or weak, few or many,
-* `Num 13:19` And what the *_land_* is that they dwell in, whether it is good or bad, and what cities they are that they dwell in, whether in tents or in strongholds,
+* `Num 13:18` And see the *_land_*, what it is, and the people who dwell therein, whether they are strong or weak, few or many;
+* `Num 13:19` And what the *_land_* is that they dwell in, whether it is good or bad, and what cities they are that they dwell in, whether in tents or in strongholds;
 * `Num 13:20` And what the *_land_* is, whether it is fertile or barren, whether there are trees in it or not. And be of good courage, and bring some of the fruit of the *_land_*." Now the time was the time of the first ripe grapes.
 * `Num 13:21` So they went up and searched the *_land_* from the wilderness of Zin to Rehob, as men come to Hamath.
 * `Num 13:25` And they returned from exploring the *_land_* after forty days.
@@ -1587,11 +1587,11 @@ _1 verse containing LANCETS_
 * `Num 14:38` But Joshua the son of Nun and Caleb the son of Jephunneh, who were among the men who went to search the *_land_*, lived still.
 * `Num 15:2` "Speak to the children of Israel and say to them, 'When you come into the *_land_* of your habitations which I give to you,
 * `Num 15:18` "Speak to the children of Israel and say to them, 'When you come into the *_land_* where I bring you,
-* `Num 15:19` It shall be, that when you eat of the bread of the *_land_*, you shall offer up a heave-offering to the LORD.
+* `Num 15:19` It shall be, that when you eat the bread of the *_land_*, you shall offer up a heave-offering to the LORD.
 * `Num 15:30` But the soul who does anything presumptuously, whether he is born in the *_land_* or a stranger, the same reproaches the LORD, and that soul shall be cut off from among his people.
 * `Num 15:41` I am the LORD your God who brought you out of the *_land_* of Egypt to be your God. I am the LORD your God."
 * `Num 16:13` Is it a small thing that you have brought us out of a *_land_* that flows with milk and honey to kill us in the wilderness, but you also make yourself altogether a prince over us?
-* `Num 16:14` Moreover, you have not brought us into a *_land_* that flows with milk and honey, or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
+* `Num 16:14` Moreover, you have not brought us into a *_land_* that flows with milk and honey or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
 * `Num 18:13` And whatever is first ripe in the *_land_*, which they bring to the LORD, shall be yours. Everyone who is clean in your house shall eat it.
 * `Num 18:20` And the LORD spoke to Aaron, "You shall have no inheritance in their *_land_*, neither shall you have any part among them. I am your part and your inheritance among the children of Israel.
 * `Num 20:12` And the LORD spoke to Moses and Aaron, "Because you did not believe me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this congregation into the *_land_* which I have given them."
@@ -3411,7 +3411,7 @@ _1 verse containing LAVISH_
 * `Num 15:16` One *_law_* and one manner shall be for you and for the stranger who sojourns with you.'"
 * `Num 15:29` You shall have one *_law_* for him who sins through ignorance, both for him who is born among the children of Israel and for the stranger who sojourns among them.
 * `Num 19:2` "This is the ordinance of the *_law_* which the LORD has commanded, saying, 'Speak to the children of Israel that they bring you a red heifer without spot, in which is no blemish and upon which never came a yoke.
-* `Num 19:14` 'This is the *_law_* when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean seven days.
+* `Num 19:14` 'This is the *_law_* when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean for seven days.
 * `Num 31:21` And Eleazar the priest said to the men of war who went to the battle, "This is the ordinance of the *_law_* which the LORD commanded Moses:
 * `Deu 1:5` On the east side of the Jordan, in the land of Moab, Moses began to declare this *_law_*, saying,
 * `Deu 4:8` And what nation is there so great that has statutes and judgments so righteous as all this *_law_*, which I set before you this day?

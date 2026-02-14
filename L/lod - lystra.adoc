@@ -1972,7 +1972,7 @@ _1 verse containing LOP_
 * `Num 9:23` At the commandment of the *_LORD_* they rested in the tents, and at the commandment of the *_LORD_* they journeyed. They kept the charge of the *_LORD_* at the commandment of the *_LORD_* by the hand of Moses.
 * `Num 10:1` And the *_LORD_* spoke to Moses, saying,
 * `Num 10:9` And if you go to war in your land against the enemy who oppresses you, then you shall blow an alarm with the trumpets, and you shall be remembered before the *_LORD_* your God and be saved from your enemies.
-* `Num 10:10` Also in the day of your gladness, in your solemn days, and in the beginnings of your months, you shall blow with the trumpets over your burnt-offerings and over the sacrifices of your peace-offerings so that they may be to you for a memorial before your God. I am the *_LORD_* your God."
+* `Num 10:10` Also, in the day of your gladness, in your solemn days, and in the beginnings of your months, you shall blow with the trumpets over your burnt-offerings and over the sacrifices of your peace-offerings so that they may be to you for a memorial before your God. I am the *_LORD_* your God."
 * `Num 10:13` And they first took their journey according to the commandment of the *_LORD_* by the hand of Moses.
 * `Num 10:29` And Moses said to Hobab, the son of Raguel the Midianite, Moses's father-in-law, "We are journeying to the place of which the *_LORD_* said, 'I will give it to you.' Come with us, and we will do you good, for the *_LORD_* has spoken good concerning Israel."
 * `Num 10:32` And it shall be, if you will go with us, indeed, it shall be, that what goodness the *_LORD_* does to us, the same we will do to you."
@@ -1994,7 +1994,7 @@ _1 verse containing LOP_
 * `Num 11:28` And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, "My *_lord_*, Moses, forbid them."
 * `Num 11:29` And Moses said to him, "Do you envy for my sake? I wish that all the *_LORD_*'S people were prophets and that the *_LORD_* would put his Spirit upon them."
 * `Num 11:31` And a wind went forth from the *_LORD_*, brought quails from the sea, and let them fall by the camp, about a day's journey on this side and about a day's journey on the other side around the camp, and about two cubits high upon the face of the earth.
-* `Num 11:33` And while the flesh was still between their teeth, before it was chewed, the wrath of the *_LORD_* was kindled against the people and the *_LORD_* smote the people with a very great plague.
+* `Num 11:33` And while the flesh was still between their teeth, before it was chewed, the wrath of the *_LORD_* was kindled against the people, and the *_LORD_* smote the people with a very great plague.
 * `Num 12:2` And they said, "Has the *_LORD_* indeed spoken only by Moses? Has he not spoken also by us?" And the *_LORD_* heard it.
 * `Num 12:4` And the *_LORD_* spoke suddenly to Moses, to Aaron, and to Miriam, "Come out, you three, to the Tabernacle of the Congregation." And the three of them came out.
 * `Num 12:5` And the *_LORD_* came down in the pillar of the cloud and stood in the door of the tabernacle and called Aaron and Miriam, and they both came forth.
@@ -2003,7 +2003,7 @@ _1 verse containing LOP_
 * `Num 12:9` And the anger of the *_LORD_* was kindled against them, and he departed.
 * `Num 12:11` And Aaron said to Moses, "Alas, my *_lord_*, I implore you, do not lay the sin upon us in which we have done foolishly and in which we have sinned.
 * `Num 12:13` And Moses cried to the *_LORD_*, saying, "Heal her now, O God, I implore you."
-* `Num 12:14` And the *_LORD_* said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? Let her be shut out from the camp seven days, and after that let her be received again."
+* `Num 12:14` And the *_LORD_* said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? Let her be shut out from the camp seven days, and after that, let her be received again."
 * `Num 13:1` And the *_LORD_* spoke to Moses, saying,
 * `Num 13:3` And Moses, by the commandment of the *_LORD_*, sent them from the wilderness of Paran. All those men were heads of the children of Israel.
 * `Num 14:3` Why has the *_LORD_* brought us to this land to fall by the sword so that our wives and our children should be plunder? Would it not be better for us to return into Egypt?"
@@ -2037,7 +2037,7 @@ _1 verse containing LOP_
 * `Num 15:14` 'And if a stranger sojourns with you, or whoever is among you in your generations, and will offer an offering made by fire, a sweet savor to the *_LORD_*, he shall do as you do.
 * `Num 15:15` One ordinance shall be both for you of the congregation and also for the stranger who sojourns with you, an ordinance forever in your generations. As you are, so the stranger shall be before the *_LORD_*.
 * `Num 15:17` And the *_LORD_* spoke to Moses, saying,
-* `Num 15:19` It shall be, that when you eat of the bread of the land, you shall offer up a heave-offering to the *_LORD_*.
+* `Num 15:19` It shall be, that when you eat the bread of the land, you shall offer up a heave-offering to the *_LORD_*.
 * `Num 15:21` From the first of your dough, you shall give to the *_LORD_* a heave-offering in your generations.
 * `Num 15:22` 'And if you have erred and not observed all these commandments which the *_LORD_* has spoken to Moses,
 * `Num 15:23` Even all that the *_LORD_* has commanded you by the hand of Moses, from the day that the *_LORD_* commanded Moses and from now on among your generations,
@@ -2090,7 +2090,7 @@ _1 verse containing LOP_
 * `Num 18:20` And the *_LORD_* spoke to Aaron, "You shall have no inheritance in their land, neither shall you have any part among them. I am your part and your inheritance among the children of Israel.
 * `Num 18:24` But the tithes of the children of Israel which they offer as a heave-offering to the *_LORD_*, I have given to the Levites to inherit. Therefore, I have said to them, 'Among the children of Israel they shall have no inheritance.'"
 * `Num 18:25` And the *_LORD_* spoke to Moses, saying,
-* `Num 18:26` "Thus speak to the Levites and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the *_LORD_*, even a tenth part of the tithe.
+* `Num 18:26` "You shall also speak to the Levites and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the *_LORD_*, even a tenth part of the tithe.
 * `Num 18:28` Thus you also shall offer a heave-offering to the *_LORD_* of all your tithes which you receive of the children of Israel. And from them you shall give the *_LORD_*'S heave-offering to Aaron the priest.
 * `Num 18:29` Out of all your gifts you shall offer every heave-offering of the *_LORD_*, from all the best of it, even the hallowed part of it.'
 * `Num 19:1` And the *_LORD_* spoke to Moses and to Aaron, saying,
@@ -2104,7 +2104,7 @@ _1 verse containing LOP_
 * `Num 20:9` And Moses took the rod from before the *_LORD_*, as he commanded him.
 * `Num 20:12` And the *_LORD_* spoke to Moses and Aaron, "Because you did not believe me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this congregation into the land which I have given them."
 * `Num 20:13` This is the water of Meribah because the children of Israel strove with the *_LORD_*, and he was sanctified in them.
-* `Num 20:16` And when we cried to the *_LORD_*, he heard our voice and sent an angel and has brought us forth from Egypt, and behold, we are in Kadesh, a city in the uttermost of your border.
+* `Num 20:16` And when we cried to the *_LORD_*, he heard our voice and sent an angel and has brought us forth from Egypt. And behold, we are in Kadesh, a city in the uttermost of your border.
 * `Num 20:23` And the *_LORD_* spoke to Moses and Aaron at mount Hor by the border of the land of Edom, saying,
 * `Num 20:27` And Moses did as the *_LORD_* commanded. And they ascended mount Hor in the sight of all the congregation.
 * `Num 21:2` And Israel vowed a vow to the *_LORD_* and said, "If you will indeed deliver this people into my hand, then I will utterly destroy their cities."

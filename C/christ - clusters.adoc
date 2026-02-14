@@ -969,7 +969,7 @@ _1 verse containing CISTERNS_
 * `Lev 26:25` And I will bring a sword upon you that shall avenge the quarrel of my covenant. And when you are gathered within your *_cities_*, I will send the pestilence among you, and you shall be delivered into the hand of the enemy.
 * `Lev 26:31` And I will make your *_cities_* waste and bring your sanctuaries to desolation, and I will not smell the savor of your sweet odors.
 * `Lev 26:33` And I will scatter you among the heathen and will draw out a sword after you, and your land shall be desolate and your *_cities_* waste.
-* `Num 13:19` And what the land is that they dwell in, whether it is good or bad, and what *_cities_* they are that they dwell in, whether in tents or in strongholds,
+* `Num 13:19` And what the land is that they dwell in, whether it is good or bad, and what *_cities_* they are that they dwell in, whether in tents or in strongholds;
 * `Num 13:28` Nevertheless, the people are strong who dwell in the land, and the *_cities_* are walled and very great. And moreover, we saw the children of Anak there.
 * `Num 21:2` And Israel vowed a vow to the LORD and said, "If you will indeed deliver this people into my hand, then I will utterly destroy their *_cities_*."
 * `Num 21:3` And the LORD listened to the voice of Israel and delivered up the Canaanites, and they utterly destroyed them and their *_cities_*. And he called the name of the place Hormah.
@@ -1420,9 +1420,9 @@ _1 verse containing CITIZENSHIP_
 * `Lev 25:29` 'And if a man sells a dwelling-house in a walled *_city_*, then he may redeem it within a whole year after it is sold. Within a full year he may redeem it.
 * `Lev 25:30` And if it is not redeemed within the time of a full year, then the house that is in the walled *_city_* shall be established forever to him who bought it throughout his generations. It shall not go out in the jubilee.
 * `Lev 25:33` And if a man purchases from the Levites, then the house that was sold and the *_city_* of his possession shall go out in the year of jubilee, for the houses of the cities of the Levites are their possession among the children of Israel.
-* `Num 20:16` And when we cried to the LORD, he heard our voice and sent an angel and has brought us forth from Egypt, and behold, we are in Kadesh, a *_city_* in the uttermost of your border.
+* `Num 20:16` And when we cried to the LORD, he heard our voice and sent an angel and has brought us forth from Egypt. And behold, we are in Kadesh, a *_city_* in the uttermost of your border.
 * `Num 21:26` For Heshbon was the *_city_* of Sihon the king of the Amorites, who had fought against the former king of Moab and taken all his land out of his hand, even to Arnon.
-* `Num 21:27` Therefore, those who speak in proverbs say, "Come into Heshbon, let the *_city_* of Sihon be built and prepared.
+* `Num 21:27` Therefore, those who speak in proverbs say, "Come into Heshbon. Let the *_city_* of Sihon be built and prepared.
 * `Num 21:28` For a fire has gone out of Heshbon, a flame from the *_city_* of Sihon. It has consumed Ar of Moab and the lords of the high places of Arnon.
 * `Num 22:36` And when Balak heard that Balaam had come, he went out to meet him at the *_city_* of Moab, which is in the border of Arnon, which is in the utmost limit.
 * `Num 24:19` Out of Jacob shall come he who has dominion, and shall destroy him who remains of the *_city_*."
@@ -2308,7 +2308,7 @@ _30 verses containing CLAY_
 * `Num 18:11` And this is yours: the heave-offering of their gift with all the wave-offerings of the children of Israel. I have given them to you, to your sons, and to your daughters with you by a statute forever. Everyone who is *_clean_* in your house shall eat it.
 * `Num 18:13` And whatever is first ripe in the land, which they bring to the LORD, shall be yours. Everyone who is *_clean_* in your house shall eat it.
 * `Num 19:9` And a man who is *_clean_* shall gather the ashes of the heifer and lay them outside the camp in a *_clean_* place, and it shall be kept for the congregation of the children of Israel for a water of separation. It is a purification for sin.
-* `Num 19:12` He shall purify himself with water on the third day, and on the seventh day he shall be *_clean_*. But if he does not purify himself the third day, then the seventh day he shall not be *_clean_*.
+* `Num 19:12` He shall purify himself with water on the third day, and on the seventh day he shall be *_clean_*. But if he does not purify himself on the third day, then on the seventh day he shall not be *_clean_*.
 * `Num 19:18` And a *_clean_* person shall take hyssop, dip it in the water, and sprinkle it upon the tent, upon all the vessels, upon the persons who were there, and upon him who touched a bone, someone slain, someone dead, or a grave.
 * `Num 19:19` And the *_clean_* person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify himself, wash his clothes, bathe himself in water, and shall be *_clean_* at evening.
 * `Num 31:23` Everything that may abide in the fire, you shall make it go through the fire and it shall be *_clean_*. Nevertheless, it shall be purified with the water of separation. And all that does not abide in the fire you shall make go through the water.
@@ -2396,7 +2396,7 @@ _1 verse containing CLEANS_
 * `Lev 16:30` For on that day the priest shall make an atonement for you to *_cleanse_* you so that you may be clean from all your sins before the LORD.
 * `Num 8:6` "Take the Levites from among the children of Israel and *_cleanse_* them.
 * `Num 8:7` And thus you shall do to them to *_cleanse_* them: sprinkle water of purifying upon them, and let them shave all their flesh and wash their clothes, and so make themselves clean.
-* `Num 8:15` And after that the Levites shall go in to perform the service of the Tabernacle of the Congregation. And you shall *_cleanse_* them and offer them for an offering,
+* `Num 8:15` And after that, the Levites shall go in to perform the service of the Tabernacle of the Congregation. And you shall *_cleanse_* them and offer them for an offering,
 * `Num 8:21` And the Levites were purified and they washed their clothes. And Aaron offered them as an offering before the LORD. And Aaron made an atonement for them to *_cleanse_* them.
 * `2Ch 29:15` And they assembled their brothers, sanctified themselves, and came to *_cleanse_* the house of the LORD according to the commandment of the king, by the words of the LORD.
 * `2Ch 29:16` And the priests went into the inner part of the house of the LORD to *_cleanse_* it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it and carried it out abroad into the brook Kidron.
@@ -2583,7 +2583,7 @@ _26 verses containing CLEAVE_
 == CLEAVED
 
 * `Gen 34:3` And his soul *_cleaved_* to Dinah the daughter of Jacob, and he loved the young woman and spoke kindly to the young woman.
-* `Num 16:31` And it came to pass, as he had made an end of speaking all these words, that the ground that was under them *_cleaved_* apart,
+* `Num 16:31` And it came to pass as he had made an end of speaking all these words, that the ground that was under them *_cleaved_* apart,
 * `Jdg 15:19` But God *_cleaved_* a hollow place that was in the jaw, and water came out of it. And when he had drank, his spirit came back, and he revived. Therefore, he called its name, En-hakkore, which is in Lehi to this day.
 * `Rth 1:14` And they lifted up their voice and wept again. And Orpah kissed her mother-in-law, but Ruth *_cleaved_* to her.
 * `1Sa 6:14` And the cart came into the field of Joshua, a Beth-shemite, and stood there where there was a great stone. And they *_cleaved_* the wood of the cart and offered the cows as a burnt-offering to the LORD.
@@ -2940,7 +2940,7 @@ _71 verses containing CLOTHED_
 * `Num 8:7` And thus you shall do to them to cleanse them: sprinkle water of purifying upon them, and let them shave all their flesh and wash their *_clothes_*, and so make themselves clean.
 * `Num 8:21` And the Levites were purified and they washed their *_clothes_*. And Aaron offered them as an offering before the LORD. And Aaron made an atonement for them to cleanse them.
 * `Num 14:6` And Joshua the son of Nun and Caleb the son of Jephunneh, who were among those who searched the land, rent their *_clothes_*,
-* `Num 19:7` Then the priest shall wash his *_clothes_* and bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the evening.
+* `Num 19:7` Then the priest shall wash his *_clothes_* and bathe his flesh in water. And afterward, he shall come into the camp, and the priest shall be unclean until the evening.
 * `Num 19:8` And he who burns her shall wash his *_clothes_* in water and bathe his flesh in water and be unclean until the evening.
 * `Num 19:10` And he who gathers the ashes of the heifer shall wash his *_clothes_* and be unclean until the evening. And it shall be to the children of Israel and to the stranger who sojourns among them for a statute forever.
 * `Num 19:19` And the clean person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify himself, wash his *_clothes_*, bathe himself in water, and shall be clean at evening.
@@ -3121,7 +3121,7 @@ _7 verses containing CLOTHS_
 * `Lev 16:13` And he shall put the incense upon the fire before the LORD, and the *_cloud_* of the incense shall cover the mercy-seat that is upon the testimony so that he will not die.
 * `Num 9:15` And on the day that the tabernacle was erected, the *_cloud_* covered the tabernacle, namely, the tent of the testimony. And at evening, there was upon the tabernacle something like the appearance of fire until the morning.
 * `Num 9:16` Thus it always was: the *_cloud_* covered it by day, and the appearance of fire by night.
-* `Num 9:17` And when the *_cloud_* was taken up from the tabernacle, after that the children of Israel journeyed. And in the place where the *_cloud_* stayed, there the children of Israel pitched their tents.
+* `Num 9:17` And when the *_cloud_* was taken up from the tabernacle, after that, the children of Israel journeyed. And in the place where the *_cloud_* stayed, there the children of Israel pitched their tents.
 * `Num 9:18` At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they encamped. As long as the *_cloud_* stayed upon the tabernacle, they rested in their tents.
 * `Num 9:19` And when the *_cloud_* remained upon the tabernacle many days, the children of Israel kept the charge of the LORD and did not journey.
 * `Num 9:20` And sometimes the *_cloud_* was a few days upon the tabernacle. Then according to the commandment of the LORD they stayed in their tents, and according to the commandment of the LORD they journeyed.

@@ -1297,7 +1297,7 @@ _1 verse containing SEDUCING_
 * `Num 4:20` But they shall not go in to *_see_* when the holy things are covered, lest they die."
 * `Num 11:15` And if you deal thus with me, kill me, I pray you, out of hand, if I have found favor in your sight, and do not let me *_see_* my wretchedness."
 * `Num 11:23` And the LORD said to Moses, "Is the LORD'S hand shortened? You shall *_see_* now whether my word shall come to pass for you or not."
-* `Num 13:18` And *_see_* the land, what it is, and the people who dwell therein, whether they are strong or weak, few or many,
+* `Num 13:18` And *_see_* the land, what it is, and the people who dwell therein, whether they are strong or weak, few or many;
 * `Num 14:23` Surely they shall not *_see_* the land which I swore to their fathers, neither shall any of those who provoked me *_see_* it.
 * `Num 22:41` And it came to pass on the next day, that Balak took Balaam and conducted him to the high places of Baal so that from there he might *_see_* the utmost part of the people.
 * `Num 23:9` For from the top of the rocks I *_see_* him, and from the hills I behold him. Behold, the people shall dwell alone and shall not be reckoned among the nations.
@@ -1840,7 +1840,7 @@ _578 verses containing SEE_
 * `Lev 26:16` I also will do this to you: I will even appoint over you terror, consumption, and the fever that shall consume the eyes and cause sorrow of heart. And you shall sow your *_seed_* in vain, for your enemies shall eat it.
 * `Lev 27:16` 'And if a man sanctifies to the LORD some part of a field of his possession, then your estimation shall be according to its *_seed_*. A homer of barley *_seed_* shall be valued at fifty shekels of silver.
 * `Lev 27:30` 'And all the tithe of the land, whether from the *_seed_* of the land or from the fruit of the tree, is the LORD'S. It is holy to the LORD.
-* `Num 11:7` And the manna was as coriander-*_seed_*, and its color as the color of bdellium.
+* `Num 11:7` And the manna was like coriander-*_seed_*, and its color like the color of bdellium.
 * `Num 20:5` And why have you conducted us from Egypt to bring us to this evil place? It is no place of *_seed_*, of figs, of vines, or of pomegranates, neither is there any water to drink."
 * `Num 24:7` He shall pour the water out of his buckets and his *_seed_* shall be in many waters, and his king shall be higher than Agag and his kingdom shall be exalted.
 * `Deu 11:10` For the land that you are entering to possess is not like the land of Egypt, from where you came out, where you sowed your *_seed_* and watered it with your foot like a garden of herbs.
@@ -1899,12 +1899,13 @@ _1 verse containing SEED-TIME_
 
 == SEEDS
 
+* `Num 6:4` All the days of his separation he shall eat nothing that is made from the vine-tree, from the *_seeds_* even to the skins.
 * `Deu 22:9` "You shall not sow your vineyard with diverse *_seeds_*, lest the fruit of your seed which you have sown and the fruit of your vineyard should be defiled.
 * `Mth 13:4` And when he sowed, some *_seeds_* fell by the wayside, and the birds came and devoured them.
 * `Mth 13:32` Which indeed is the least of all *_seeds_*, but when it is grown, it is the greatest among herbs and becomes a tree so that the 'birds of the air come and lodge on its branches.'"
 * `Mrk 4:31` It is like a grain of mustard-seed, which, when it is sown in the earth, is less than all the *_seeds_* that are in the earth.
 
-_4 verses containing SEEDS_
+_5 verses containing SEEDS_
 
 == SEEING
 
@@ -3526,7 +3527,7 @@ _2 verses containing SENSUAL_
 * `Num 16:28` And Moses said, "By this you shall know that the LORD has *_sent_* me to do all these works, for I have not done them of my own mind.
 * `Num 16:29` If these men die the common death of all men, or if they are visited after the visitation of all men, then the LORD has not *_sent_* me.
 * `Num 20:14` And Moses *_sent_* messengers from Kadesh to the king of Edom, "Thus says your brother Israel: 'You know all the travail that has befallen us:
-* `Num 20:16` And when we cried to the LORD, he heard our voice and *_sent_* an angel and has brought us forth from Egypt, and behold, we are in Kadesh, a city in the uttermost of your border.
+* `Num 20:16` And when we cried to the LORD, he heard our voice and *_sent_* an angel and has brought us forth from Egypt. And behold, we are in Kadesh, a city in the uttermost of your border.
 * `Num 21:6` And the LORD *_sent_* fiery serpents among the people, and they bit the people, and many people of Israel died.
 * `Num 21:21` And Israel *_sent_* messengers to Sihon king of the Amorites, saying,
 * `Num 21:32` And Moses *_sent_* to explore Jaazer, and they took its villages and drove out the Amorites who were there.

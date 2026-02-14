@@ -14,7 +14,7 @@ _1 verse containing SEORIM_
 * `Lev 15:31` "Thus you shall *_separate_* the children of Israel from their uncleanness so that they do not die in their uncleanness when they defile my tabernacle that is among them."
 * `Lev 22:2` "Speak to Aaron and to his sons that they *_separate_* themselves from the holy things of the children of Israel and that they do not profane my holy name in those things which they hallow to me. I am the LORD.
 * `Num 6:2` "Speak to the children of Israel and say to them, 'When either man or woman separates themselves to vow a vow of a Nazarite, to *_separate_* themselves to the LORD,
-* `Num 6:3` He shall *_separate_* himself from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist or dried grapes.
+* `Num 6:3` He shall *_separate_* himself from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes nor eat moist or dried grapes.
 * `Num 8:14` "Thus you shall *_separate_* the Levites from among the children of Israel, and the Levites shall be mine.
 * `Num 16:21` "*_Separate_* yourselves from among this congregation so that I may consume them in a moment."
 * `Deu 19:2` You shall *_separate_* three cities for yourself in the midst of your land which the LORD your God gives you to possess it.
@@ -128,7 +128,7 @@ _2 verses containing SEPARATING_
 * `Lev 15:20` And everything that she lies upon in her *_separation_* shall be unclean. Everything that she sits upon shall also be unclean.
 * `Lev 15:25` 'And if a woman has an issue of her blood for many days not in the time of her *_separation_*, or if it runs beyond the time of her *_separation_*, all the days of the issue of her uncleanness shall be as the days of her *_separation_*. She shall be unclean.
 * `Lev 15:26` Every bed on which she lies all the days of her issue shall be to her as the bed of her *_separation_*. And whatever she sits upon shall be unclean as the uncleanness of her *_separation_*.
-* `Num 6:4` All the days of his *_separation_* he shall eat nothing that is made of the vine-tree, from the kernels even to the husk.
+* `Num 6:4` All the days of his *_separation_* he shall eat nothing that is made from the vine-tree, from the seeds even to the skins.
 * `Num 6:5` 'All the days of the vow of his *_separation_* no razor shall come upon his head. Until the days are fulfilled in which he separates himself to the LORD, he shall be holy and shall let the locks of the hair of his head grow.
 * `Num 6:8` All the days of his *_separation_* he is holy to the LORD.
 * `Num 6:12` And he shall consecrate to the LORD the days of his *_separation_* and shall bring a lamb of the first year for a trespass-offering. But the days that were before shall be lost because his *_separation_* was defiled.
@@ -321,7 +321,7 @@ _1 verse containing SERGIUS_
 * `Exo 7:10` And Moses and Aaron went to Pharaoh and they did so as the LORD had commanded. And Aaron cast down his rod before Pharaoh and before his servants, and it became a *_serpent_*.
 * `Exo 7:15` Go to Pharaoh in the morning, behold, he goes out to the water, and you shall stand by the river's bank to meet him. And the rod which was turned to a *_serpent_* you shall take in your hand.
 * `Num 21:8` And the LORD said to Moses, "Make for yourself a fiery *_serpent_* and set it upon a pole. And it shall come to pass, that everyone who is bitten, when he looks upon it, shall live."
-* `Num 21:9` And Moses made a *_serpent_* of brass and put it upon a pole, and it came to pass, that if a *_serpent_* had bitten any man, when he beheld the *_serpent_* of brass, he lived.
+* `Num 21:9` And Moses made a *_serpent_* of brass and put it upon a pole. And it came to pass, that if a *_serpent_* had bitten any man, when he beheld the *_serpent_* of brass, he lived.
 * `2Ki 18:4` He removed the high places, broke the images, cut down the groves, and broke in pieces the brazen *_serpent_* that Moses had made, for until those days the children of Israel burnt incense to it. And he called it Nehushtan.
 * `Job 26:13` By his Spirit he has garnished the heavens. His hand has formed the crooked *_serpent_*.
 * `Psa 58:4` Their poison is like the poison of a *_serpent_*. They are like the deaf adder that stops her ear,
@@ -1741,12 +1741,12 @@ _8 verses containing SERVES_
 * `Num 7:8` And four wagons and eight oxen he gave to the sons of Merari according to their *_service_*, under the hand of Ithamar the son of Aaron the priest.
 * `Num 7:9` But to the sons of Kohath he gave none, because the *_service_* of the sanctuary belonging to them was that they should bear upon their shoulders.
 * `Num 8:11` And Aaron shall offer the Levites before the LORD for an offering of the children of Israel so that they may execute the *_service_* of the LORD.
-* `Num 8:15` And after that the Levites shall go in to perform the *_service_* of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
+* `Num 8:15` And after that, the Levites shall go in to perform the *_service_* of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
 * `Num 8:19` And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the *_service_* of the children of Israel in the Tabernacle of the Congregation and to make an atonement for the children of Israel, so that there may be no plague among the children of Israel when the children of Israel come near to the sanctuary."
 * `Num 8:22` And after that, the Levites went in to perform their *_service_* in the Tabernacle of the Congregation before Aaron and before his sons. As the LORD had commanded Moses concerning the Levites, so they did to them.
 * `Num 8:24` "This is that which pertains to the Levites: from twenty-five years old and upward they shall go in to wait upon the *_service_* of the Tabernacle of the Congregation,
 * `Num 8:25` And from the age of fifty years they shall cease waiting upon its *_service_* and shall serve no more,
-* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge and shall do no *_service_*. Thus you shall do to the Levites concerning their charge."
+* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge, and shall do no *_service_*. Thus you shall do to the Levites concerning their charge."
 * `Num 16:9` Is it a small thing to you that the God of Israel has separated you from the congregation of Israel to bring you near to himself to do the *_service_* of the tabernacle of the LORD and to stand before the congregation to minister to them?
 * `Num 18:4` And they shall be joined to you and keep the charge of the Tabernacle of the Congregation for all the *_service_* of the tabernacle. And a stranger shall not come near you.
 * `Num 18:6` And I, behold, I have taken your brothers the Levites from among the children of Israel. To you they are given as a gift for the LORD to do the *_service_* of the Tabernacle of the Congregation.
@@ -2734,14 +2734,14 @@ _1 verse containing SETTLES_
 * `Num 3:22` Those who were numbered of them, according to the number of all the males, from a month old and upward, even those who were numbered of them were *_seven_* thousand and five hundred.
 * `Num 4:36` And those who were numbered of them by their families were two thousand *_seven_* hundred and fifty.
 * `Num 8:2` "Speak to Aaron and say to him, 'When you light the lamps, the *_seven_* lamps shall give light over against the candlestick.'"
-* `Num 12:14` And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed *_seven_* days? Let her be shut out from the camp *_seven_* days, and after that let her be received again."
+* `Num 12:14` And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed *_seven_* days? Let her be shut out from the camp *_seven_* days, and after that, let her be received again."
 * `Num 12:15` And Miriam was shut out from the camp *_seven_* days. And the people did not journey until Miriam was brought in again.
 * `Num 13:22` And they ascended by the south and came to Hebron where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built *_seven_* years before Zoan in Egypt.)
 * `Num 16:49` Now those who died in the plague were fourteen thousand and *_seven_* hundred, besides those who died on account of the matter with Korah.
 * `Num 19:4` And Eleazar the priest shall take some of her blood with his finger and sprinkle some of her blood directly before the Tabernacle of the Congregation *_seven_* times.
-* `Num 19:11` 'He who touches the dead body of any man shall be unclean *_seven_* days.
-* `Num 19:14` 'This is the law when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean *_seven_* days.
-* `Num 19:16` And whoever touches someone who is slain with a sword in the open fields, or a dead body, a bone of a man, or a grave, shall be unclean *_seven_* days.
+* `Num 19:11` 'He who touches the dead body of any man shall be unclean for *_seven_* days.
+* `Num 19:14` 'This is the law when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean for *_seven_* days.
+* `Num 19:16` And whoever touches someone who is slain with a sword in the open fields, or a dead body, a bone of a man, or a grave, shall be unclean for *_seven_* days.
 * `Num 23:1` And Balaam said to Balak, "Build me *_seven_* altars here and prepare me *_seven_* oxen and *_seven_* rams here."
 * `Num 23:4` And God met Balaam. And he said to him, "I have prepared *_seven_* altars and I have offered upon every altar a bull and a ram."
 * `Num 23:14` And he brought him into the field of Zophim, to the top of Pisgah, and built *_seven_* altars and offered a bull and a ram on every altar.
@@ -3100,7 +3100,7 @@ _6 verses containing SEVENTEENTH_
 * `Lev 25:20` And if you say, "What shall we eat the *_seventh_* year? Behold, we shall not sow nor gather in our increase,"
 * `Num 6:9` 'And if any man dies very suddenly by him and he has defiled the head of his consecration, then he shall shave his head on the day of his cleansing. On the *_seventh_* day he shall shave it.
 * `Num 7:48` On the *_seventh_* day Elishama the son of Ammihud, prince of the children of Ephraim, offered.
-* `Num 19:12` He shall purify himself with water on the third day, and on the *_seventh_* day he shall be clean. But if he does not purify himself the third day, then the *_seventh_* day he shall not be clean.
+* `Num 19:12` He shall purify himself with water on the third day, and on the *_seventh_* day he shall be clean. But if he does not purify himself on the third day, then on the *_seventh_* day he shall not be clean.
 * `Num 19:19` And the clean person shall sprinkle upon the unclean on the third day and on the *_seventh_* day. And on the *_seventh_* day he shall purify himself, wash his clothes, bathe himself in water, and shall be clean at evening.
 * `Num 28:25` And on the *_seventh_* day you shall have a holy convocation. You shall do no servile work.
 * `Num 29:1` "'And in the *_seventh_* month, on the first day of the month, you shall have a holy convocation. You shall do no servile work. It is a day of blowing the trumpets for you.

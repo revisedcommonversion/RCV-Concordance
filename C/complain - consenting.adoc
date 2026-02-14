@@ -296,7 +296,7 @@ _1 verse containing CONCERNED_
 * `Lev 27:32` And *_concerning_* the tithe of the herd or of the flock, even of whatever passes under the rod, the tenth shall be holy to the LORD.
 * `Num 8:20` And Moses, Aaron, and all the congregation of the children of Israel did to the Levites according to all that the LORD commanded Moses *_concerning_* the Levites. And the children of Israel did so to them.
 * `Num 8:22` And after that, the Levites went in to perform their service in the Tabernacle of the Congregation before Aaron and before his sons. As the LORD had commanded Moses *_concerning_* the Levites, so they did to them.
-* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge and shall do no service. Thus you shall do to the Levites *_concerning_* their charge."
+* `Num 8:26` But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge, and shall do no service. Thus you shall do to the Levites *_concerning_* their charge."
 * `Num 9:8` And Moses said to them, "Stand still, and I will hear what the LORD will command *_concerning_* you."
 * `Num 10:29` And Moses said to Hobab, the son of Raguel the Midianite, Moses's father-in-law, "We are journeying to the place of which the LORD said, 'I will give it to you.' Come with us, and we will do you good, for the LORD has spoken good *_concerning_* Israel."
 * `Num 14:30` Doubtless you shall not come into the land *_concerning_* which I swore to make you dwell therein, except Caleb the son of Jephunneh and Joshua the son of Nun.
@@ -1364,12 +1364,12 @@ _1 verse containing CONGRATULATE_
 * `Num 7:5` "Take it from them so that they may be used to perform the service of the Tabernacle of the *_Congregation_*, and you shall give them to the Levites, to each according to his service."
 * `Num 7:89` And when Moses had entered into the Tabernacle of the *_Congregation_* to speak with him, he heard the voice speaking to him from above the mercy-seat that was upon the ark of testimony, from between the two cherubim. And he spoke to him.
 * `Num 8:9` And you shall bring the Levites before the Tabernacle of the *_Congregation_* and you shall convene the whole assembly of the children of Israel.
-* `Num 8:15` And after that the Levites shall go in to perform the service of the Tabernacle of the *_Congregation_*. And you shall cleanse them and offer them for an offering,
+* `Num 8:15` And after that, the Levites shall go in to perform the service of the Tabernacle of the *_Congregation_*. And you shall cleanse them and offer them for an offering,
 * `Num 8:19` And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the Tabernacle of the *_Congregation_* and to make an atonement for the children of Israel, so that there may be no plague among the children of Israel when the children of Israel come near to the sanctuary."
 * `Num 8:20` And Moses, Aaron, and all the *_congregation_* of the children of Israel did to the Levites according to all that the LORD commanded Moses concerning the Levites. And the children of Israel did so to them.
 * `Num 8:22` And after that, the Levites went in to perform their service in the Tabernacle of the *_Congregation_* before Aaron and before his sons. As the LORD had commanded Moses concerning the Levites, so they did to them.
 * `Num 8:24` "This is that which pertains to the Levites: from twenty-five years old and upward they shall go in to wait upon the service of the Tabernacle of the *_Congregation_*,
-* `Num 8:26` But shall minister with their brothers in the Tabernacle of the *_Congregation_* to keep the charge and shall do no service. Thus you shall do to the Levites concerning their charge."
+* `Num 8:26` But shall minister with their brothers in the Tabernacle of the *_Congregation_* to keep the charge, and shall do no service. Thus you shall do to the Levites concerning their charge."
 * `Num 10:3` And when they blow with them, all the assembly shall assemble themselves to you at the door of the Tabernacle of the *_Congregation_*.
 * `Num 10:7` But when the *_congregation_* is to be convened, you shall blow, but you shall not sound an alarm.
 * `Num 11:16` And the LORD said to Moses, "Gather to me seventy men of the elders of Israel whom you know to be the elders of the people, and officers over them, and bring them to the Tabernacle of the *_Congregation_* so that they may stand there with you.
@@ -1426,7 +1426,7 @@ _1 verse containing CONGRATULATE_
 * `Num 20:12` And the LORD spoke to Moses and Aaron, "Because you did not believe me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this *_congregation_* into the land which I have given them."
 * `Num 20:22` And the children of Israel, even the whole *_congregation_*, journeyed from Kadesh and came to mount Hor.
 * `Num 20:27` And Moses did as the LORD commanded. And they ascended mount Hor in the sight of all the *_congregation_*.
-* `Num 20:29` And when all the *_congregation_* saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel.
+* `Num 20:29` And when all the *_congregation_* saw that Aaron was dead, they mourned for Aaron for thirty days, even all the house of Israel.
 * `Num 25:6` And, behold, one of the children of Israel came and brought to his brothers a Midianitish woman in the sight of Moses and in the sight of all the *_congregation_* of the children of Israel, who were weeping before the door of the Tabernacle of the *_Congregation_*.
 * `Num 25:7` And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose from among the *_congregation_* and took a javelin in his hand.
 * `Num 26:2` "Take the sum of all the *_congregation_* of the children of Israel from twenty years old and upward throughout their fathers' house, all who are able to go to war in Israel."
