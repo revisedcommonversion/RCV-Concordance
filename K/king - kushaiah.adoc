@@ -46,7 +46,7 @@
 * `Num 22:10` And Balaam said to God, "Balak the son of Zippor, *_king_* of Moab, has sent to me, saying,
 * `Num 23:7` And he took up his parable and said, "Balak the *_king_* of Moab has brought me from Aram, out of the mountains of the east, saying, 'Come, curse Jacob for me, and come, defy Israel.'
 * `Num 23:21` He has not beheld iniquity in Jacob, neither has he seen perverseness in Israel. The LORD his God is with him, and the shout of a *_king_* is among them.
-* `Num 24:7` He shall pour the water out of his buckets and his seed shall be in many waters, and his *_king_* shall be higher than Agag and his kingdom shall be exalted.
+* `Num 24:7` He shall pour the water out of his buckets, and his seed shall be in many waters. His *_king_* shall be higher than Agag, and his kingdom shall be exalted.
 * `Num 32:33` And Moses gave to them, even to the children of Gad, to the children of Reuben, and to half the tribe of Manasseh the son of Joseph, the kingdom of Sihon *_king_* of the Amorites and the kingdom of Og *_king_* of Bashan, the land with its cities in the borders, even the cities of the country around.
 * `Num 33:40` And *_king_* Arad the Canaanite who dwelt in the south in the land of Canaan heard about the coming of the children of Israel.
 * `Deu 1:4` After he had slain Sihon the *_king_* of the Amorites, who dwelt in Heshbon, and Og the *_king_* of Bashan, who dwelt at Astaroth in Edrei.
@@ -1929,7 +1929,7 @@ _1918 verses containing KING_
 * `Gen 10:10` And the beginning of his *_kingdom_* was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 * `Gen 20:9` Then Abimelech called Abraham and said to him, "What have you done to us? And in what have I offended you that you have brought on me and on my *_kingdom_* a great sin? You have done deeds to me that ought not to be done."
 * `Exo 19:6` And you shall be to me a *_kingdom_* of priests and a holy nation.' These are the words which you shall speak to the children of Israel."
-* `Num 24:7` He shall pour the water out of his buckets and his seed shall be in many waters, and his king shall be higher than Agag and his *_kingdom_* shall be exalted.
+* `Num 24:7` He shall pour the water out of his buckets, and his seed shall be in many waters. His king shall be higher than Agag, and his *_kingdom_* shall be exalted.
 * `Num 32:33` And Moses gave to them, even to the children of Gad, to the children of Reuben, and to half the tribe of Manasseh the son of Joseph, the *_kingdom_* of Sihon king of the Amorites and the *_kingdom_* of Og king of Bashan, the land with its cities in the borders, even the cities of the country around.
 * `Deu 3:4` And we took all his cities at that time. There was not a city which we did not take from them, sixty cities, all the region of Argob, the *_kingdom_* of Og in Bashan.
 * `Deu 3:10` All the cities of the plain, all Gilead, and all Bashan, to Salchah and Edrei, cities of the *_kingdom_* of Og in Bashan.

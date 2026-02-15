@@ -2104,6 +2104,7 @@ _1 verse containing ONIONS_
 * `Num 20:19` And the children of Israel said to him, "We will go by the highway, and if I and my livestock drink your water, then I will pay for it. I will *_only_*, without doing anything else, go through on my feet."
 * `Num 22:20` And God came to Balaam at night and said to him, "If the men come to call you, rise and go with them, but *_only_* the word which I shall say to you, you shall perform."
 * `Num 22:35` And the angel of the LORD said to Balaam, "Go with the men. But *_only_* the word that I speak to you, you shall speak." So Balaam went with the princes of Balak.
+* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another place, from where you may see them. You shall see *_only_* the utmost part of them, but not all of them. And from there curse them for me."
 * `Num 31:22` *_Only_* the gold, the silver, the brass, the iron, the tin, and the lead,
 * `Num 36:6` This is the thing which the LORD commands concerning the daughters of Zelophehad, saying, 'Let them marry to whom they think best. *_Only_* to the family of the tribe of their father they shall marry.'
 * `Deu 2:28` You shall sell me food for money so that I may eat, and give me water for money so that I may drink. *_Only_* let me pass through on my feet
@@ -2356,7 +2357,7 @@ _1 verse containing ONIONS_
 * `Rev 12:12` Therefore, rejoice, you heavens and you who dwell in them. Woe to the earth and to the sea! For the devil has come down to you having great wrath because he knows that he has *_only_* a short time."
 * `Rev 15:4` 'Who shall not fear you,' O Lord, 'and glorify your name'? For you *_only_* are holy. For 'all nations shall come and worship before you,' because your judgments are made manifest."
 
-_291 verses containing ONLY_
+_292 verses containing ONLY_
 
 == ONLY-BEGOTTEN
 
@@ -2566,7 +2567,7 @@ _128 verses containing OPEN_
 * `Exo 2:6` And when she had *_opened_* it, she saw the child, and behold, the baby wept. And she had compassion on him, and said, "This is one of the Hebrews' children."
 * `Num 16:32` And the earth *_opened_* her mouth and swallowed them up, their houses, all the men who belonged to Korah, and all their goods.
 * `Num 22:28` And the LORD *_opened_* the mouth of the donkey, and she said to Balaam, "What have I done to you that you have smitten me these three times?"
-* `Num 22:31` Then the LORD *_opened_* the eyes of Balaam, and he saw the angel of the LORD standing in the way and his sword drawn in his hand. And he bowed down his head and fell flat on his face.
+* `Num 22:31` Then the LORD *_opened_* the eyes of Balaam, and he saw the angel of the LORD standing in the way with his sword drawn in his hand. And he bowed down his head and fell flat on his face.
 * `Num 26:10` And the earth *_opened_* her mouth and swallowed them up together with Korah, when that company died when the fire devoured two hundred and fifty men, and they became a sign.
 * `Deu 11:6` And what he did to Dathan and Abiram, the sons of Eliab, the son of Reuben, how the earth *_opened_* her mouth, and swallowed them up, along with their households, their tents, and all the substance that was in their possession, in the midst of all Israel.
 * `Jdg 3:25` And they waited until they were ashamed. And behold, he did not open the doors of the parlor; therefore, they took a key and *_opened_* them, and behold, their lord lay dead on the earth.

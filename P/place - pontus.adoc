@@ -129,7 +129,7 @@
 * `Num 21:3` And the LORD listened to the voice of Israel and delivered up the Canaanites, and they utterly destroyed them and their cities. And he called the name of the *_place_* Hormah.
 * `Num 22:26` And the angel of the LORD went further and stood in a narrow *_place_* where there was no way to turn either to the right hand or to the left.
 * `Num 23:3` And Balaam said to Balak, "Stand by your burnt-offering, and I will go. It may be that the LORD will come to meet me. And whatever he shows me I will tell you." And he went to a high *_place_*.
-* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another *_place_*, from where you may see them. You shall see but the utmost part of them, and shall not see them all. And from there curse them for me."
+* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another *_place_*, from where you may see them. You shall see only the utmost part of them, but not all of them. And from there curse them for me."
 * `Num 23:27` And Balak said to Balaam, "Come, I pray you, I will bring you to another *_place_*. Perhaps it will please God that you may from there curse them for me."
 * `Num 24:11` And now, flee to your *_place_*. I thought to promote you to great honor, but behold, the LORD has kept you back from honor."
 * `Num 24:21` And he looked at the Kenites and took up his parable and said, "Your dwelling-*_place_* is strong and you put your nest in a rock.
@@ -1268,7 +1268,7 @@ _1 verse containing PLANTATION_
 * `Gen 9:20` And Noah began to be a farmer and he *_planted_* a vineyard.
 * `Gen 21:33` And Abraham *_planted_* a grove in Beer-sheba and there called on the name of the LORD, the Everlasting God.
 * `Lev 19:23` 'And when you come into the land and have *_planted_* all manner of trees for food, then you shall count its fruit as uncircumcised. Three years it shall be as uncircumcised to you. It shall not be eaten.
-* `Num 24:6` As the valleys they are spread forth, as gardens by the river's side, as the trees of lign-aloes which the LORD has *_planted_*, and as cedar-trees beside the waters.
+* `Num 24:6` Like the valleys they are spread forth, like gardens by the river's side, like the trees of lign-aloes which the LORD has *_planted_*, and like cedar-trees beside the waters.
 * `Deu 20:6` And what man is he who has *_planted_* a vineyard and has not yet eaten of it? Let him also go and return to his house, lest he should die in the battle and another man should eat of it.
 * `Psa 1:3` And he shall be like a tree *_planted_* by the rivers of water that brings forth its fruit in season, and its leaf shall not wither. And whatever he does shall prosper.
 * `Psa 44:2` How you drove out the heathen with your hand and *_planted_* them, how you afflicted the people and cast them out.

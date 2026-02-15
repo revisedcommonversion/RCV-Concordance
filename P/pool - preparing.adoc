@@ -664,7 +664,7 @@ _1 verse containing POSSESSING_
 * `Lev 27:22` And if a man sanctifies to the LORD a field which he has bought, which is not part of the fields of his *_possession_*,
 * `Lev 27:24` In the year of the jubilee, the field shall return to him from whom it was bought, even to him to whom the *_possession_* of the land belonged.
 * `Lev 27:28` 'But no devoted thing that a man devotes to the LORD of all that he has, both of man and beast and of the field of his *_possession_*, shall be sold or redeemed. Every devoted thing is most holy to the LORD.
-* `Num 24:18` And Edom shall be a *_possession_*, Seir also shall be a *_possession_* for his enemies. And Israel shall do valiantly.
+* `Num 24:18` And Edom shall be a *_possession_*. Seir also shall be a *_possession_* for his enemies. And Israel shall do valiantly.
 * `Num 26:56` According to the lot its *_possession_* shall be divided between many and few."
 * `Num 27:4` Why should the name of our father be done away from among his family because he has no son? Give to us therefore a *_possession_* among the brothers of our father."
 * `Num 27:7` "The daughters of Zelophehad speak what is right. You shall surely give them a *_possession_* of an inheritance among their father's brothers, and you shall cause the inheritance of their father to pass to them.
@@ -1030,7 +1030,7 @@ _1 verse containing POUNDS_
 * `Lev 14:41` And he shall cause the house to be scraped inside on all sides, and they shall *_pour_* out the dust that they scrape off outside the city into an unclean place.
 * `Lev 17:13` And whatever man there may be of the children of Israel or of the strangers who sojourn among you who hunts and catches any beast or bird that may be eaten, he shall even *_pour_* out its blood and cover it with dust.
 * `Num 5:15` Then the man shall bring his wife to the priest and bring her offering for her, the tenth part of an ephah of barley-meal. He shall *_pour_* no oil upon it nor put frankincense upon it, for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
-* `Num 24:7` He shall *_pour_* the water out of his buckets and his seed shall be in many waters, and his king shall be higher than Agag and his kingdom shall be exalted.
+* `Num 24:7` He shall *_pour_* the water out of his buckets, and his seed shall be in many waters. His king shall be higher than Agag, and his kingdom shall be exalted.
 * `Deu 12:16` Only you shall not eat the blood. You shall *_pour_* it upon the earth as water.
 * `Deu 12:24` You shall not eat it. You shall *_pour_* it upon the earth as water.
 * `Deu 15:23` Only you shall not eat its blood. You shall *_pour_* it upon the ground as water."
@@ -1936,7 +1936,7 @@ _3 verses containing PRATING_
 * `Num 22:16` And they came to Balaam and said to him, "Thus says Balak the son of Zippor: 'Let nothing, I *_pray_* you, hinder you from coming to me.
 * `Num 22:17` For I will promote you to very great honor and I will do whatever you say to me. Come therefore, I *_pray_* you, curse this people for me.'"
 * `Num 22:19` Now therefore you also, I *_pray_* you, stay here this night so that I may know what more the LORD will say to me."
-* `Num 23:13` And Balak said to him, "Come, I *_pray_* you, with me to another place, from where you may see them. You shall see but the utmost part of them, and shall not see them all. And from there curse them for me."
+* `Num 23:13` And Balak said to him, "Come, I *_pray_* you, with me to another place, from where you may see them. You shall see only the utmost part of them, but not all of them. And from there curse them for me."
 * `Num 23:27` And Balak said to Balaam, "Come, I *_pray_* you, I will bring you to another place. Perhaps it will please God that you may from there curse them for me."
 * `Deu 3:25` I *_pray_* you, let me go over and see the good land that is beyond the Jordan, that good mountain and Lebanon.'
 * `Jsh 2:12` Now therefore, I *_pray_* you, swear to me by the LORD, since I have shown you kindness, that you will also show kindness to my father's house, and give me a true token
@@ -2817,8 +2817,8 @@ _1 verse containing PREPARATIONS_
 * `Num 15:6` Or for a ram, you shall *_prepare_* for a food-offering two tenth parts of flour mingled with the third part of a hin of oil.
 * `Num 15:8` And when you *_prepare_* a bull for a burnt-offering, or for a sacrifice in performing a vow, or for peace-offerings to the LORD,
 * `Num 15:12` According to the number that you *_prepare_*, so you shall do to everyone according to their number.
-* `Num 23:1` And Balaam said to Balak, "Build me seven altars here and *_prepare_* me seven oxen and seven rams here."
-* `Num 23:29` And Balaam said to Balak, "Build me seven altars here and *_prepare_* me seven bulls and seven rams here."
+* `Num 23:1` And Balaam said to Balak, "Build for me seven altars here and *_prepare_* for me seven oxen and seven rams here."
+* `Num 23:29` And Balaam said to Balak, "Build for me seven altars here and *_prepare_* for me seven bulls and seven rams here."
 * `Deu 19:3` You shall *_prepare_* yourself a way and divide into three parts the limits of your land which the LORD your God gives you to inherit so that every slayer may flee there.
 * `Jsh 1:11` "Pass through the host and command the people, saying, '*_Prepare_* yourselves provisions, for within three days you shall pass over this Jordan to go in to possess the land which the LORD your God gives you to possess it.'"
 * `Jsh 22:26` "Therefore, we said, 'Let us now *_prepare_* to build ourselves an altar, not for burnt-offering or for sacrifice,

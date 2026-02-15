@@ -1301,7 +1301,7 @@ _1 verse containing SEDUCING_
 * `Num 14:23` Surely they shall not *_see_* the land which I swore to their fathers, neither shall any of those who provoked me *_see_* it.
 * `Num 22:41` And it came to pass on the next day, that Balak took Balaam and conducted him to the high places of Baal so that from there he might *_see_* the utmost part of the people.
 * `Num 23:9` For from the top of the rocks I *_see_* him, and from the hills I behold him. Behold, the people shall dwell alone and shall not be reckoned among the nations.
-* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another place, from where you may *_see_* them. You shall *_see_* but the utmost part of them, and shall not *_see_* them all. And from there curse them for me."
+* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another place, from where you may *_see_* them. You shall *_see_* only the utmost part of them, but not all of them. And from there curse them for me."
 * `Num 24:17` I shall *_see_* him, but not now. I shall behold him, but not near. There shall come a Star out of Jacob, and a Scepter shall rise out of Israel and shall smite the corners of Moab and destroy all the children of Sheth.
 * `Num 27:12` And the LORD said to Moses, "Ascend this mount Abarim and *_see_* the land which I have given to the children of Israel.
 * `Num 32:8` Thus your fathers did when I sent them from Kadesh-barnea to *_see_* the land.
@@ -1842,7 +1842,7 @@ _578 verses containing SEE_
 * `Lev 27:30` 'And all the tithe of the land, whether from the *_seed_* of the land or from the fruit of the tree, is the LORD'S. It is holy to the LORD.
 * `Num 11:7` And the manna was like coriander-*_seed_*, and its color like the color of bdellium.
 * `Num 20:5` And why have you conducted us from Egypt to bring us to this evil place? It is no place of *_seed_*, of figs, of vines, or of pomegranates, neither is there any water to drink."
-* `Num 24:7` He shall pour the water out of his buckets and his *_seed_* shall be in many waters, and his king shall be higher than Agag and his kingdom shall be exalted.
+* `Num 24:7` He shall pour the water out of his buckets, and his *_seed_* shall be in many waters. His king shall be higher than Agag, and his kingdom shall be exalted.
 * `Deu 11:10` For the land that you are entering to possess is not like the land of Egypt, from where you came out, where you sowed your *_seed_* and watered it with your foot like a garden of herbs.
 * `Deu 14:22` "You shall truly tithe all the increase of your *_seed_* that the field brings forth year by year.
 * `Deu 22:9` "You shall not sow your vineyard with diverse seeds, lest the fruit of your *_seed_* which you have sown and the fruit of your vineyard should be defiled.
@@ -2811,7 +2811,7 @@ _3 verses containing SEGUB_
 * `Gen 36:20` These are the sons of *_Seir_* the Horite who inhabited the land: Lotan, Shobal, Zibeon, Anah,
 * `Gen 36:21` Dishon, Ezer, and Dishan. These are the chiefs of the Horites, the children of *_Seir_* in the land of Edom.
 * `Gen 36:30` Chief Dishon, chief Ezer, chief Dishan. These are the chiefs, descendants of Hori, among their chiefs in the land of *_Seir_*.
-* `Num 24:18` And Edom shall be a possession, *_Seir_* also shall be a possession for his enemies. And Israel shall do valiantly.
+* `Num 24:18` And Edom shall be a possession. *_Seir_* also shall be a possession for his enemies. And Israel shall do valiantly.
 * `Deu 1:2` (There are eleven days journey from Horeb by the way of mount *_Seir_* to Kadesh-barnea.)
 * `Deu 1:44` And the Amorites, who dwelt on that mountain, came out against you and chased you, as bees do, and destroyed you in *_Seir_*, even to Hormah.
 * `Deu 2:1` "Then we turned, and took our journey into the wilderness by the way of the Red Sea, as the LORD spoke to me. And we compassed mount *_Seir_* many days.

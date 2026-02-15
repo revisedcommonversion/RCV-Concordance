@@ -1533,7 +1533,7 @@ _1 verse containing CURRENT_
 * `Num 23:7` And he took up his parable and said, "Balak the king of Moab has brought me from Aram, out of the mountains of the east, saying, 'Come, *_curse_* Jacob for me, and come, defy Israel.'
 * `Num 23:8` How shall I *_curse_* whom God has not cursed? And how shall I defy whom the LORD has not defied?
 * `Num 23:11` And Balak said to Balaam, "What have you done to me? I took you to *_curse_* my enemies, and behold, you have blessed them altogether."
-* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another place, from where you may see them. You shall see but the utmost part of them, and shall not see them all. And from there *_curse_* them for me."
+* `Num 23:13` And Balak said to him, "Come, I pray you, with me to another place, from where you may see them. You shall see only the utmost part of them, but not all of them. And from there *_curse_* them for me."
 * `Num 23:25` And Balak said to Balaam, "Neither *_curse_* them at all nor bless them at all."
 * `Num 23:27` And Balak said to Balaam, "Come, I pray you, I will bring you to another place. Perhaps it will please God that you may from there *_curse_* them for me."
 * `Num 24:10` And Balak's anger was kindled against Balaam and he smote his hands together. And Balak said to Balaam, "I called you to *_curse_* my enemies, and behold, you have altogether blessed them these three times.
@@ -1622,7 +1622,7 @@ _90 verses containing CURSE_
 * `Lev 24:23` And Moses spoke to the children of Israel that they should bring forth him who had *_cursed_* out of the camp and stone him with stones. And the children of Israel did as the LORD commanded Moses.
 * `Num 22:6` Come now therefore, I pray you, curse this people for me, for they are too mighty for me. It may be that I shall prevail, that we may smite them, and that I may drive them out of the land. For I know that he whom you bless is blessed, and he whom you curse is *_cursed_*."
 * `Num 23:8` How shall I curse whom God has not *_cursed_*? And how shall I defy whom the LORD has not defied?
-* `Num 24:9` He couched, he lay down as a lion and as a great lion. Who shall rouse him? Blessed is he who blesses you, and *_cursed_* is he who curses you."
+* `Num 24:9` He couched, he lay down like a lion and like a great lion. Who shall rouse him? Blessed is he who blesses you, and *_cursed_* is he who curses you."
 * `Deu 7:26` You shall not bring an abomination into your house, lest you should be a *_cursed_* thing like it. But you shall utterly detest it and you shall utterly abhor it, for it is a *_cursed_* thing."
 * `Deu 13:17` And nothing of the *_cursed_* thing shall cleave to your hand, so that the LORD will turn from the fierceness of his anger, show you mercy, have compassion upon you, and multiply you, as he has sworn to your fathers,
 * `Deu 27:15` '*_Cursed_* is the man who makes any engraved or molten image, an abomination to the LORD, the work of the hands of the craftsman, and puts it in a secret place.' And all the people shall answer and say, 'Amen.'
@@ -1688,7 +1688,7 @@ _68 verses containing CURSED_
 * `Lev 20:9` 'For everyone who *_curses_* his father or his mother shall surely be put to death. He has cursed his father or his mother. His blood shall be upon him.
 * `Lev 24:15` And you shall speak to the children of Israel, saying, 'Whoever *_curses_* his God shall bear his sin.
 * `Num 5:23` 'And the priest shall write these *_curses_* in a book and he shall blot them out with the bitter water.
-* `Num 24:9` He couched, he lay down as a lion and as a great lion. Who shall rouse him? Blessed is he who blesses you, and cursed is he who *_curses_* you."
+* `Num 24:9` He couched, he lay down like a lion and like a great lion. Who shall rouse him? Blessed is he who blesses you, and cursed is he who *_curses_* you."
 * `Deu 28:15` "But it shall come to pass, if you will not listen to the voice of the LORD your God to observe to do all his commandments and his statutes which I command you this day, that all these *_curses_* shall come upon you and overtake you.
 * `Deu 28:45` "Moreover, all these *_curses_* shall come upon you and shall pursue you and overtake you until you are destroyed, because you did not listen to the voice of the LORD your God to keep his commandments and his statutes which he commanded you.
 * `Deu 29:20` The LORD will not spare him. But then the anger of the LORD and his jealousy shall smoke against that man, and all the *_curses_* that are written in this book shall lie upon him. And the LORD shall blot out his name from under heaven.
