@@ -664,7 +664,7 @@ _1 verse containing STANCHED_
 * `Num 23:3` And Balaam said to Balak, "*_Stand_* by your burnt-offering, and I will go. It may be that the LORD will come to meet me. And whatever he shows me I will tell you." And he went to a high place.
 * `Num 23:15` And he said to Balak, "*_Stand_* here by your burnt-offering while I meet the LORD yonder."
 * `Num 27:21` And he shall *_stand_* before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD. At his word they shall go out and at his word they shall come in—both he and all the children of Israel with him, even all the congregation."
-* `Num 30:4` And her father hears her vow and her bond with which she has bound her soul and her father holds his peace at her, then all her vows shall *_stand_* and every bond with which she has bound her soul shall *_stand_*.
+* `Num 30:4` And her father hears her vow and her bond with which she has bound her soul, and her father holds his peace at her, then all her vows shall *_stand_* and every bond with which she has bound her soul shall *_stand_*.
 * `Num 30:5` But if her father disallows her in the day that he hears, none of her vows or of her bonds with which she has bound her soul shall *_stand_*. And the LORD shall forgive her because her father disallowed her.
 * `Num 30:7` And her husband heard it and held his peace at her in the day that he heard it, then her vows shall *_stand_* and her bonds with which she bound her soul shall *_stand_*.
 * `Num 30:9` "But every vow of a widow and of her who is divorced, with which they have bound their souls, shall *_stand_* against her.
@@ -1266,7 +1266,7 @@ _35 verses containing STATUTE_
 * `Deu 4:14` And the LORD commanded me at that time to teach you *_statutes_* and judgments so that you might do them in the land where you go over to possess it.
 * `Deu 4:40` Therefore, you shall keep his *_statutes_* and his commandments which I command you this day so that it may be well with you and with your children after you, and that you may prolong your days upon the earth which the LORD your God gives you forever."
 * `Deu 4:45` These are the testimonies, the *_statutes_*, and the judgments which Moses spoke to the children of Israel after they came forth from Egypt,
-* `Deu 5:1` And Moses called all Israel, and said to them, "Hear, O Israel, the *_statutes_* and judgments which I speak in your ears this day so that you may learn them and observe to do them.
+* `Deu 5:1` And Moses called all Israel and said to them, "Hear, O Israel, the *_statutes_* and judgments which I speak in your ears this day so that you may learn them and observe to do them.
 * `Deu 5:31` But as for you, stand here by me and I will speak to you all the commandments, the *_statutes_*, and the judgments which you shall teach them so that they may do them in the land which I give them to possess it.'
 * `Deu 6:1` "Now these are the commandments, the *_statutes_*, and the judgments which the LORD your God commanded to teach you so that you may do them in the land where you go to possess it,
 * `Deu 6:2` And that you may fear the LORD your God to keep all his *_statutes_* and his commandments which I command you—you, your son, and your son's son—all the days of your life, and that your days may be prolonged.
@@ -1916,7 +1916,7 @@ _7 verses containing STICKS_
 * `Exo 34:9` And he said, "If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us (for it is a *_stiff_*-necked people) and pardon our iniquity and our sin and take us for your inheritance."
 * `Deu 9:6` "Understand therefore, that the LORD your God does not give you this good land to possess it for your righteousness, for you are a *_stiff_*-necked people.
 * `Deu 9:13` Furthermore, the LORD spoke to me, saying, 'I have seen this people, and behold, it is a *_stiff_*-necked people.
-* `Deu 10:16` Therefore, circumcise the foreskin of your heart, and be *_stiff_*-necked no longer.
+* `Deu 10:16` Therefore, circumcise the foreskin of your heart and be *_stiff_*-necked no longer.
 * `Deu 31:27` For I know your rebellion and your *_stiff_* neck. Behold, while I am still alive with you this day, you have been rebellious against the LORD. And how much more after my death?
 * `2Ch 30:8` Now do not be *_stiff_*-necked as your fathers were, but yield yourselves to the LORD and enter into his sanctuary which he has sanctified forever, and serve the LORD your God so that the fierceness of his wrath may turn away from you.
 * `Job 15:26` He runs upon him with a *_stiff_* neck, with the thick bosses of his bucklers,
@@ -1934,7 +1934,7 @@ _13 verses containing STIFF_
 * `Exo 34:9` And he said, "If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us (for it is a *_stiff-necked_* people) and pardon our iniquity and our sin and take us for your inheritance."
 * `Deu 9:6` "Understand therefore, that the LORD your God does not give you this good land to possess it for your righteousness, for you are a *_stiff-necked_* people.
 * `Deu 9:13` Furthermore, the LORD spoke to me, saying, 'I have seen this people, and behold, it is a *_stiff-necked_* people.
-* `Deu 10:16` Therefore, circumcise the foreskin of your heart, and be *_stiff-necked_* no longer.
+* `Deu 10:16` Therefore, circumcise the foreskin of your heart and be *_stiff-necked_* no longer.
 * `2Ch 30:8` Now do not be *_stiff-necked_* as your fathers were, but yield yourselves to the LORD and enter into his sanctuary which he has sanctified forever, and serve the LORD your God so that the fierceness of his wrath may turn away from you.
 * `Act 7:51` "You *_stiff-necked_* and uncircumcised in heart and ears, you always resist the Holy Spirit. As your fathers did, so do you.
 

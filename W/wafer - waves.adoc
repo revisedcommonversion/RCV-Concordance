@@ -1182,7 +1182,7 @@ _2 verses containing WANTS_
 * `Num 32:27` But your servants will pass over, every man armed for *_war_*, before the LORD to battle, as my lord says."
 * `Deu 1:41` "Then you answered and said to me, 'We have sinned against the LORD. We will go up and fight, according to all that the LORD our God commanded us.' And when you had each girded on his weapons of *_war_*, you were ready to ascend the hill.
 * `Deu 2:14` And the time in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of *_war_* were wasted from among the host, as the LORD swore to them.
-* `Deu 2:16` "So it came to pass, when all the men of *_war_* were consumed and dead from among the people,
+* `Deu 2:16` "So it came to pass when all the men of *_war_* were consumed and dead from among the people,
 * `Deu 3:18` "And I commanded you at that time, saying, 'The LORD your God has given you this land to possess it. You shall pass over armed before your brothers the children of Israel, all who are suitable for the *_war_*.
 * `Deu 4:34` Or has God essayed to go and take for himself a nation from the midst of another nation, by trials, by signs, by wonders, by *_war_*, by a mighty hand, by an out-stretched arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?
 * `Deu 20:12` And if it will make no peace with you, but will make *_war_* against you, then you shall besiege it.
@@ -1622,7 +1622,7 @@ _14 verses containing WARS_
 * `Num 19:10` And he who gathers the ashes of the heifer shall *_wash_* his clothes and be unclean until the evening. And it shall be to the children of Israel and to the stranger who sojourns among them for a statute forever.
 * `Num 19:19` And the clean person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify himself, *_wash_* his clothes, bathe himself in water, and shall be clean at evening.
 * `Num 19:21` And it shall be a perpetual statute to them, that he who sprinkles the water of separation shall *_wash_* his clothes, and he who touches the water of separation shall be unclean until the evening.
-* `Num 31:24` And you shall *_wash_* your clothes on the seventh day and you shall be clean, and afterward you shall come into the camp."
+* `Num 31:24` And you shall *_wash_* your clothes on the seventh day and you shall be clean. And afterward, you shall come into the camp."
 * `Deu 21:6` And all the elders of that city who are next to the slain man shall *_wash_* their hands over the heifer that is beheaded in the valley.
 * `Deu 23:11` But it shall be, when evening comes near, he shall *_wash_* himself with water, and when the sun is down, he shall come into the camp again.
 * `Rth 3:3` Therefore, *_wash_* yourself, anoint yourself, put your clothing upon yourself, and go down to the floor, but do not make yourself known to the man until he has finished eating and drinking.
@@ -2208,7 +2208,7 @@ _12 verses containing WATCHMEN_
 * `Deu 11:11` But the land that you are entering to possess is a land of hills and valleys, and drinks *_water_* from the rain of heaven,
 * `Deu 12:16` Only you shall not eat the blood. You shall pour it upon the earth as *_water_*.
 * `Deu 12:24` You shall not eat it. You shall pour it upon the earth as *_water_*.
-* `Deu 15:23` Only you shall not eat its blood. You shall pour it upon the ground as *_water_*."
+* `Deu 15:23` Only you shall not eat its blood. You shall pour it upon the ground like *_water_*."
 * `Deu 23:4` Because they did not meet you with bread and with *_water_* in the way when you came forth from Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia to curse you.
 * `Deu 23:11` But it shall be, when evening comes near, he shall wash himself with *_water_*, and when the sun is down, he shall come into the camp again.
 * `Deu 29:11` Your little ones, your wives, and your stranger who is in your camp, from the hewer of your wood to the drawer of your *_water_*—

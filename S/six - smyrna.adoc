@@ -56,7 +56,7 @@
 * `Num 11:21` And Moses said, "The people among whom I am, are *_six_* hundred thousand footmen, and you have said, 'I will give them flesh so that they may eat a whole month.'
 * `Num 26:22` These are the families of Judah according to those who were numbered of them, seventy-*_six_* thousand and five hundred.
 * `Num 26:41` These are the sons of Benjamin after their families. And those who were numbered of them were forty-five thousand and *_six_* hundred.
-* `Num 26:51` These were the numbered of the children of Israel, *_six_* hundred and one thousand seven hundred and thirty.
+* `Num 26:51` These are those who were numbered of the children of Israel, *_six_* hundred and one thousand seven hundred and thirty.
 * `Num 31:32` And the captives, being the rest of the plunder which the men of war had taken, was *_six_* hundred and seventy-five thousand sheep,
 * `Num 31:37` And the LORD'S tribute of the sheep was *_six_* hundred and seventy-five;
 * `Num 31:38` And the bulls were thirty-*_six_* thousand, of which the LORD'S tribute was seventy-two;
@@ -1154,10 +1154,10 @@ _2 verses containing SLAYED_
 * `Num 35:11` You shall appoint for yourselves cities to be cities of refuge for you so that the *_slayer_* may flee there who kills any person unintentionally.
 * `Num 35:12` And they shall be to you cities for refuge from the avenger so that the man-*_slayer_* may not die until he stands before the congregation in judgment.
 * `Num 35:24` Then the congregation shall judge between the *_slayer_* and the avenger of blood according to these judgments.
-* `Num 35:25` And the congregation shall deliver the *_slayer_* out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy oil.
+* `Num 35:25` And the congregation shall deliver the *_slayer_* out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy oil.
 * `Num 35:26` But if the *_slayer_* at anytime comes outside the border of the city of his refuge where he had fled,
 * `Num 35:27` And the avenger of blood finds him outside the borders of the city of his refuge, and the avenger of blood kills the *_slayer_*, he shall not be guilty of blood,
-* `Num 35:28` Because he should have remained in the city of his refuge until the death of the high priest. But after the death of the high priest the *_slayer_* shall return into the land of his possession.
+* `Num 35:28` Because he should have remained in the city of his refuge until the death of the high priest. But after the death of the high priest, the *_slayer_* shall return into the land of his possession.
 * `Deu 4:42` So that the *_slayer_* might flee there who kills his neighbor unintentionally and without having hated him in times past, and that fleeing to one of these cities he might live:
 * `Deu 19:3` You shall prepare yourself a way and divide into three parts the limits of your land which the LORD your God gives you to inherit so that every *_slayer_* may flee there.
 * `Deu 19:4` "And this is the case of the *_slayer_* who flees there so that he may live. Whoever kills his neighbor ignorantly, whom he did not hate in time past,

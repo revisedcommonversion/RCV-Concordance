@@ -181,7 +181,7 @@ _117 verses containing SOUGHT_
 * `Num 21:4` And they journeyed from mount Hor by the way of the Red Sea to compass the land of Edom. And the *_soul_* of the people was much discouraged because of the way.
 * `Num 21:5` And the people spoke against God and against Moses, "Why have you brought us out of Egypt to die in the wilderness? For there is no bread, neither is there any water, and our *_soul_* loathes this light bread."
 * `Num 30:2` If a man vows a vow to the LORD or swears an oath to bind his *_soul_* with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth.
-* `Num 30:4` And her father hears her vow and her bond with which she has bound her *_soul_* and her father holds his peace at her, then all her vows shall stand and every bond with which she has bound her *_soul_* shall stand.
+* `Num 30:4` And her father hears her vow and her bond with which she has bound her *_soul_*, and her father holds his peace at her, then all her vows shall stand and every bond with which she has bound her *_soul_* shall stand.
 * `Num 30:5` But if her father disallows her in the day that he hears, none of her vows or of her bonds with which she has bound her *_soul_* shall stand. And the LORD shall forgive her because her father disallowed her.
 * `Num 30:6` "And if she had a husband when she vowed or uttered anything from her lips with which she bound her *_soul_*,
 * `Num 30:7` And her husband heard it and held his peace at her in the day that he heard it, then her vows shall stand and her bonds with which she bound her *_soul_* shall stand.
@@ -202,7 +202,7 @@ _117 verses containing SOUGHT_
 * `Deu 12:21` If the place which the LORD your God has chosen to put his name there is too far from you, then you shall kill from your herd and from your flock which the LORD has given you, as I have commanded you, and you shall eat in your gates whatever your *_soul_* desires.
 * `Deu 13:3` You shall not listen to the words of that prophet or that dreamer of dreams. For the LORD your God proves you, to know whether you love the LORD your God with all your heart and with all your *_soul_*.
 * `Deu 13:6` "If your brother, the son of your mother, your son, your daughter, the wife of your bosom, or your friend who is as your own *_soul_*, entices you secretly, saying, 'Let us go and serve other gods,' which you have not known—you, nor your fathers—
-* `Deu 14:26` And you shall bestow that money for whatever your *_soul_* desires, for oxen, for sheep, for wine, for strong drink, or for whatever your *_soul_* desires. And you shall eat there before the LORD your God, and you shall rejoice—you, and your household.
+* `Deu 14:26` And you shall bestow that money for whatever your *_soul_* desires, for oxen, for sheep, for wine, for strong drink, or for whatever your *_soul_* desires. And you shall eat there before the LORD your God, and you shall rejoice—you and your household.
 * `Deu 26:16` "This day the LORD your God has commanded you to perform these statutes and judgments. You shall therefore keep and do them with all your heart and with all your *_soul_*.
 * `Deu 30:2` And return to the LORD your God and obey his voice according to all that I command you this day—you and your children—with all your heart and with all your *_soul_*,
 * `Deu 30:6` "And the LORD your God will circumcise your heart and the heart of your offspring, to love the LORD your God with all your heart and with all your *_soul_*, so that you may live.
@@ -1138,7 +1138,7 @@ _1 verse containing SPANNED_
 
 * `Gen 18:24` Perhaps there are fifty righteous within the city. Will you also destroy and not *_spare_* the place for the fifty righteous who are in it?
 * `Gen 18:26` And the LORD said, "If I find in Sodom fifty righteous within the city, then I will *_spare_* the whole place for their sakes."
-* `Deu 13:8` You shall not consent to him, nor listen to him, neither shall your eye pity him, neither shall you *_spare_*, neither shall you conceal him.
+* `Deu 13:8` You shall not consent to him nor listen to him, neither shall your eye pity him, neither shall you *_spare_*, neither shall you conceal him.
 * `Deu 29:20` The LORD will not *_spare_* him. But then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him. And the LORD shall blot out his name from under heaven.
 * `1Sa 15:3` Now go and smite Amalek and utterly destroy all that they have, and do not *_spare_* them, but slay both man and woman, child and infant, ox and sheep, camel and donkey.'"
 * `Neh 13:22` And I commanded the Levites that they should cleanse themselves and that they should come and keep the gates to sanctify the sabbath day. Remember me, O my God, concerning this also, and *_spare_* me according to the greatness of your mercy.
@@ -1355,7 +1355,7 @@ _4 verses containing SPARROWS_
 * `Num 33:51` "*_Speak_* to the children of Israel and say to them, 'When you have passed over the Jordan into the land of Canaan,
 * `Num 35:10` "*_Speak_* to the children of Israel and say to them, 'When you have passed over the Jordan into the land of Canaan,
 * `Deu 3:26` But the LORD was angry with me for your sakes and would not hear me. And the LORD said to me, 'Let it suffice you. *_Speak_* no more to me of this matter.
-* `Deu 5:1` And Moses called all Israel, and said to them, "Hear, O Israel, the statutes and judgments which I *_speak_* in your ears this day so that you may learn them and observe to do them.
+* `Deu 5:1` And Moses called all Israel and said to them, "Hear, O Israel, the statutes and judgments which I *_speak_* in your ears this day so that you may learn them and observe to do them.
 * `Deu 5:27` Go near and hear all that the LORD our God says, and *_speak_* to us all that the LORD our God speaks to you, and we will hear it and do it.'
 * `Deu 5:31` But as for you, stand here by me and I will *_speak_* to you all the commandments, the statutes, and the judgments which you shall teach them so that they may do them in the land which I give them to possess it.'
 * `Deu 9:4` "Do not *_speak_* in your heart after the LORD your God has cast them out from before you, saying, 'For my righteousness the LORD has brought me in to possess this land.' It is because of the wickedness of these nations that the LORD drives them out from before you.
@@ -3265,7 +3265,7 @@ _4 verses containing SPLIT_
 * `Deu 1:6` "The LORD our God *_spoke_* to us in Horeb, saying, 'You have dwelt long enough at this mountain.
 * `Deu 1:9` "And I *_spoke_* to you at that time, saying, 'I am not able to bear you myself alone.
 * `Deu 1:43` So I *_spoke_* to you, and you would not hear, but rebelled against the commandment of the LORD and presumptuously ascended the hill.
-* `Deu 2:1` "Then we turned, and took our journey into the wilderness by the way of the Red Sea, as the LORD *_spoke_* to me. And we compassed mount Seir many days.
+* `Deu 2:1` "Then we turned and took our journey into the wilderness by the way of the Red Sea, as the LORD *_spoke_* to me. And we compassed mount Seir many days.
 * `Deu 2:2` And the LORD *_spoke_* to me, saying,
 * `Deu 2:17` That the LORD *_spoke_* to me, saying,
 * `Deu 4:12` And the LORD *_spoke_* to you out of the midst of the fire. You heard the voice of the words, but saw no similitude. You only heard a voice.

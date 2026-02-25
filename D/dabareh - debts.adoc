@@ -3040,7 +3040,7 @@ _1 verse containing DAWNS_
 * `Num 28:17` And on the fifteenth *_day_* of this month is the feast. Seven days unleavened bread shall be eaten.
 * `Num 28:18` On the first *_day_* there shall be a holy convocation. You shall do no manner of servile work.
 * `Num 28:25` And on the seventh *_day_* you shall have a holy convocation. You shall do no servile work.
-* `Num 28:26` 'Also in the *_day_* of the first-fruits, when you bring a new food-offering to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
+* `Num 28:26` 'Also, in the *_day_* of the first-fruits, when you bring a new food-offering to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
 * `Num 29:1` "'And in the seventh month, on the first *_day_* of the month, you shall have a holy convocation. You shall do no servile work. It is a *_day_* of blowing the trumpets for you.
 * `Num 29:7` 'And you shall have on the tenth *_day_* of this seventh month a holy convocation, and you shall afflict your souls. You shall not do any work.
 * `Num 29:12` 'And on the fifteenth *_day_* of the seventh month you shall have a holy convocation. You shall do no servile work and you shall keep a feast to the LORD seven days.
@@ -3057,12 +3057,12 @@ _1 verse containing DAWNS_
 * `Num 30:12` But if her husband has utterly made them void on the *_day_* he heard them, then whatever proceeded out of her lips concerning her vows or concerning the bond of her soul shall not stand. Her husband has made them void, and the LORD shall forgive her.
 * `Num 30:14` But if her husband altogether holds his peace at her from *_day_* to *_day_*, then he establishes all her vows or all her bonds which are upon her. He confirms them because he held his peace at her in the *_day_* that he heard them.
 * `Num 31:19` And you, abide outside the camp seven days. Whoever has killed any person and whoever has touched any slain, purify both yourselves and your captives on the third *_day_* and on the seventh *_day_*.
-* `Num 31:24` And you shall wash your clothes on the seventh *_day_* and you shall be clean, and afterward you shall come into the camp."
+* `Num 31:24` And you shall wash your clothes on the seventh *_day_* and you shall be clean. And afterward, you shall come into the camp."
 * `Num 33:3` And they departed from Rameses in the first month, on the fifteenth *_day_* of the first month. On the next *_day_* after the passover, the children of Israel went out with a high hand in the sight of all the Egyptians,
 * `Num 33:38` And Aaron the priest ascended mount Hor at the commandment of the LORD and died there, in the fortieth year after the children of Israel departed from the land of Egypt, on the first *_day_* of the fifth month.
 * `Deu 1:3` And it came to pass in the fortieth year, in the eleventh month, on the first *_day_* of the month, that Moses spoke to the children of Israel according to all that the LORD had given him in commandment to them,
 * `Deu 1:10` The LORD your God has multiplied you, and behold, you are this *_day_* as the stars of heaven for multitude.
-* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go, and in a cloud by *_day_*.
+* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go and in a cloud by *_day_*.
 * `Deu 1:39` Moreover, your little ones, which you said should be a prey, and your children, which in that *_day_* had no knowledge between good and evil, they shall go in there, and I will give it to them, and they shall possess it.
 * `Deu 2:22` As he did to the children of Esau, who dwelt in Seir when he destroyed the Horims from before them. And they succeeded them and dwelt in their stead even to this *_day_*.
 * `Deu 2:25` This *_day_* I will begin to put the dread of you and the fear of you upon the nations who are under the whole heaven, who shall hear report of you, shall tremble, and be in anguish because of you.'
@@ -3078,7 +3078,7 @@ _1 verse containing DAWNS_
 * `Deu 4:38` To drive out from before you nations greater and mightier than you are, and to bring you in and give you their land for an inheritance, as it is this *_day_*.
 * `Deu 4:39` Know therefore this *_day_*, and consider it in your heart, that the LORD, he is God in heaven above and upon the earth beneath. There is no one else.
 * `Deu 4:40` Therefore, you shall keep his statutes and his commandments which I command you this *_day_* so that it may be well with you and with your children after you, and that you may prolong your days upon the earth which the LORD your God gives you forever."
-* `Deu 5:1` And Moses called all Israel, and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this *_day_* so that you may learn them and observe to do them.
+* `Deu 5:1` And Moses called all Israel and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this *_day_* so that you may learn them and observe to do them.
 * `Deu 5:3` The LORD did not make this covenant with our fathers, but with us, even us, who are all of us here alive this *_day_*.
 * `Deu 5:12` 'Keep the sabbath-*_day_* to sanctify it, as the LORD your God has commanded you.
 * `Deu 5:14` But the seventh *_day_* is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your man-servant, your woman-servant, your ox, your donkey, any of your livestock, nor your stranger who is within your gates—so that your man-servant and your woman-servant may rest as well as you.
@@ -4497,7 +4497,7 @@ _8 verses containing DAY-TIME_
 * `Num 33:8` And they departed from before Pi-hahiroth and passed through the midst of the sea into the wilderness, and went three *_days_*' journey in the wilderness of Etham and encamped in Marah.
 * `Deu 1:2` (There are eleven *_days_* journey from Horeb by the way of mount Seir to Kadesh-barnea.)
 * `Deu 1:46` So you stayed in Kadesh many *_days_*, according to the *_days_* that you stayed there."
-* `Deu 2:1` "Then we turned, and took our journey into the wilderness by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many *_days_*.
+* `Deu 2:1` "Then we turned and took our journey into the wilderness by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many *_days_*.
 * `Deu 4:9` "Only take heed to yourself and keep your soul diligently, lest you should forget the things which your eyes have seen, and lest they depart from your heart all the *_days_* of your life. But teach them to your sons and your sons' sons,
 * `Deu 4:10` Especially the day that you stood before the LORD your God in Horeb, when the LORD said to me, 'Assemble the people to me, and I will make them hear my words so that they may learn to fear me all the *_days_* that they shall live upon the earth, and that they may teach their children.'
 * `Deu 4:26` I call heaven and earth to witness against you this day, that you shall soon utterly perish from the land to which you go over the Jordan to possess it. You shall not prolong your *_days_* upon it, but shall be utterly destroyed.
@@ -5198,8 +5198,8 @@ _3 verses containing DEACONS_
 * `Num 19:16` And whoever touches someone who is slain with a sword in the open fields, or a *_dead_* body, a bone of a man, or a grave, shall be unclean for seven days.
 * `Num 19:18` And a clean person shall take hyssop, dip it in the water, and sprinkle it upon the tent, upon all the vessels, upon the persons who were there, and upon him who touched a bone, someone slain, someone *_dead_*, or a grave.
 * `Num 20:29` And when all the congregation saw that Aaron was *_dead_*, they mourned for Aaron for thirty days, even all the house of Israel.
-* `Deu 2:16` "So it came to pass, when all the men of war were consumed and *_dead_* from among the people,
-* `Deu 14:1` "You are the children of the LORD your God. You shall not cut yourselves, nor make any baldness between your eyes for the *_dead_*.
+* `Deu 2:16` "So it came to pass when all the men of war were consumed and *_dead_* from among the people,
+* `Deu 14:1` "You are the children of the LORD your God. You shall not cut yourselves nor make any baldness between your eyes for the *_dead_*.
 * `Deu 14:8` And the swine, because it divides the hoof but does not chew the cud, is unclean to you. You shall not eat their flesh nor touch their *_dead_* carcass.
 * `Deu 25:5` "If brothers dwell together, and one of them dies and has no child, the wife of the *_dead_* shall not marry outside to a stranger. Her husband's brother shall go in to her and take her for himself for a wife and perform the duty of a husband's brother to her.
 * `Deu 25:6` And it shall be, that the first-born which she bears shall succeed in the name of his brother who is *_dead_*, so that his name may not become extinct in Israel.
@@ -5760,13 +5760,13 @@ _9 verses containing DEARLY_
 * `Num 35:17` And if he smites him by throwing a stone, by which he may die, and he dies, he is a murderer. The murderer shall surely be put to *_death_*.
 * `Num 35:18` Or if he smites him with a hand-weapon of wood, with which he may die, and he dies, he is a murderer. The murderer shall surely be put to *_death_*.
 * `Num 35:21` Or in enmity smites him with his hand so that he dies, he who smote him shall surely be put to *_death_*, for he is a murderer. The avenger of blood shall slay the murderer when he meets him.
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it to the *_death_* of the high priest who was anointed with the holy oil.
-* `Num 35:28` Because he should have remained in the city of his refuge until the *_death_* of the high priest. But after the *_death_* of the high priest the slayer shall return into the land of his possession.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it until the *_death_* of the high priest who was anointed with the holy oil.
+* `Num 35:28` Because he should have remained in the city of his refuge until the *_death_* of the high priest. But after the *_death_* of the high priest, the slayer shall return into the land of his possession.
 * `Num 35:30` 'Whoever kills any person, the murderer shall be put to *_death_* by the mouth of witnesses. But one witness shall not testify against any person to cause him to die.
 * `Num 35:31` Moreover, you shall take no satisfaction for the life of a murderer who is guilty of *_death_*, but he shall surely be put to *_death_*.
 * `Num 35:32` And you shall take no satisfaction for him who has fled to the city of his refuge, that he should come back to dwell in the land until the *_death_* of the priest.
 * `Deu 13:5` And that prophet or that dreamer of dreams shall be put to *_death_*, because he has spoken to turn you away from the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of bondage, and to thrust you out of the way which the LORD your God commanded you to walk in. Thus you shall remove the evil from the midst of you.
-* `Deu 13:9` But you shall surely kill him. Your hand shall be first upon him to put him to *_death_*, and afterward the hand of all the people.
+* `Deu 13:9` But you shall surely kill him. Your hand shall be first upon him to put him to *_death_*, and afterward, the hand of all the people.
 * `Deu 17:6` At the mouth of two witnesses or three witnesses, he who is worthy of *_death_* shall be put to *_death_*, but at the mouth of one witness he shall not be put to *_death_*.
 * `Deu 17:7` The hands of the witnesses shall be first upon him to put him to *_death_*, and afterward, the hands of all the people. Thus you shall remove the evil from among you.
 * `Deu 19:6` Lest the avenger of blood pursue the slayer while his heart is hot and overtake him, because the way is long, and slay him, whereas he was not worthy of *_death_*, since he did not hate him in time past.

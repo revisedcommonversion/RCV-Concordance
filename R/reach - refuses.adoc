@@ -997,8 +997,8 @@ _178 verses containing RECEIVE_
 * `Num 23:20` Behold, I have *_received_* commandment to bless. And he has blessed, and I cannot reverse it.
 * `Num 34:14` For the tribe of the children of Reuben according to the house of their fathers and the tribe of the children of Gad according to the house of their fathers have *_received_* their inheritance, and also half the tribe of Manasseh have *_received_* their inheritance.
 * `Num 34:15` The two tribes and the half tribe have *_received_* their inheritance on this side of the Jordan near Jericho eastward toward the sunrise."
-* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be put to the inheritance of the tribe into which they are *_received_*. So it will be taken from the lot of our inheritance.
-* `Num 36:4` And when the jubilee of the children of Israel shall be, then their inheritance will be put to the inheritance of the tribe into which they are *_received_*. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
+* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be added to the inheritance of the tribe into which they are *_received_*. So it will be taken from the lot of our inheritance.
+* `Num 36:4` And when the jubilee of the children of Israel comes, then their inheritance will be added to the inheritance of the tribe into which they are *_received_*. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
 * `Jsh 13:8` With him the Reubenites and the Gadites have *_received_* their inheritance, which Moses gave them, beyond the Jordan eastward, even as Moses the servant of the LORD gave them:
 * `Jsh 18:2` And there remained among the children of Israel seven tribes which had not yet *_received_* their inheritance.
 * `Jsh 18:7` But the Levites have no part among you, for the priesthood of the LORD is their inheritance. And Gad, Reuben, and half the tribe of Manasseh have *_received_* their inheritance beyond the Jordan on the east, which Moses the servant of the LORD gave them."
@@ -1508,7 +1508,7 @@ _1 verse containing RECOVERING_
 * `Num 33:10` And they departed from Elim and encamped by the *_Red_* Sea.
 * `Num 33:11` And they departed from the *_Red_* Sea and encamped in the wilderness of Sin.
 * `Deu 1:40` But as for you, turn, and take your journey into the wilderness by the way of the *_Red_* Sea.'
-* `Deu 2:1` "Then we turned, and took our journey into the wilderness by the way of the *_Red_* Sea, as the LORD spoke to me. And we compassed mount Seir many days.
+* `Deu 2:1` "Then we turned and took our journey into the wilderness by the way of the *_Red_* Sea, as the LORD spoke to me. And we compassed mount Seir many days.
 * `Deu 11:4` And what he did to the army of Egypt, to their horses, and to their chariots, how he made the water of the *_Red_* Sea to overflow them as they pursued after you, and how the LORD has destroyed them to this day;
 * `Jsh 2:10` For we have heard how the LORD dried up the water of the *_Red_* Sea for you when you came out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the Jordan, Sihon and Og, whom you utterly destroyed.
 * `Jsh 4:23` For the LORD your God dried up the waters of the Jordan from before you until you had passed over, as the LORD your God did to the *_Red_* Sea, which he dried up from before us until we had gone over,
@@ -1928,10 +1928,10 @@ _2 verses containing REFRESHING_
 * `Num 35:13` And of these cities which you shall give, six cities you shall have for *_refuge_*.
 * `Num 35:14` You shall give three cities on this side of the Jordan and three cities you shall give in the land of Canaan, which shall be cities of *_refuge_*.
 * `Num 35:15` These six cities shall be a *_refuge_* for the children of Israel, for the stranger, and for the sojourner among them so that everyone who kills any person unintentionally may flee there.
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his *_refuge_* where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy oil.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his *_refuge_* where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy oil.
 * `Num 35:26` But if the slayer at anytime comes outside the border of the city of his *_refuge_* where he had fled,
 * `Num 35:27` And the avenger of blood finds him outside the borders of the city of his *_refuge_*, and the avenger of blood kills the slayer, he shall not be guilty of blood,
-* `Num 35:28` Because he should have remained in the city of his *_refuge_* until the death of the high priest. But after the death of the high priest the slayer shall return into the land of his possession.
+* `Num 35:28` Because he should have remained in the city of his *_refuge_* until the death of the high priest. But after the death of the high priest, the slayer shall return into the land of his possession.
 * `Num 35:32` And you shall take no satisfaction for him who has fled to the city of his *_refuge_*, that he should come back to dwell in the land until the death of the priest.
 * `Deu 33:27` The eternal God is your *_refuge_*, and underneath are the everlasting arms. And he shall thrust out the enemy from before you, and shall say, 'Destroy them.'
 * `Jsh 20:2` "Speak to the children of Israel, saying, 'Appoint for yourselves cities of *_refuge_*, of which I spoke to you by the hand of Moses,

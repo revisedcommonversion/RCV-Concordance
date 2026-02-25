@@ -867,13 +867,13 @@ _13 verses containing BLOCK_
 * `Num 35:19` The avenger of *_blood_* himself shall slay the murderer. When he meets him, he shall slay him.
 * `Num 35:21` Or in enmity smites him with his hand so that he dies, he who smote him shall surely be put to death, for he is a murderer. The avenger of *_blood_* shall slay the murderer when he meets him.
 * `Num 35:24` Then the congregation shall judge between the slayer and the avenger of *_blood_* according to these judgments.
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of *_blood_*, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy oil.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of *_blood_*, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy oil.
 * `Num 35:27` And the avenger of *_blood_* finds him outside the borders of the city of his refuge, and the avenger of *_blood_* kills the slayer, he shall not be guilty of *_blood_*,
 * `Num 35:33` So you shall not pollute the land in which you are, for *_blood_* defiles the land, and the land cannot be cleansed of the *_blood_* that is shed in it except by the *_blood_* of him who shed it.
 * `Deu 12:16` Only you shall not eat the *_blood_*. You shall pour it upon the earth as water.
 * `Deu 12:23` Only be sure that you do not eat the *_blood_*, for the *_blood_* is the life, and you may not eat the life with the flesh.
 * `Deu 12:27` And you shall offer your burnt-offerings, the flesh and the *_blood_*, upon the altar of the LORD your God. And the *_blood_* of your sacrifices shall be poured out upon the altar of the LORD your God, and you shall eat the flesh.
-* `Deu 15:23` Only you shall not eat its *_blood_*. You shall pour it upon the ground as water."
+* `Deu 15:23` Only you shall not eat its *_blood_*. You shall pour it upon the ground like water."
 * `Deu 17:8` "If there arises a matter too hard for you in judgment between *_blood_* and *_blood_*, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise and go up to the place which the LORD your God chooses.
 * `Deu 19:6` Lest the avenger of *_blood_* pursue the slayer while his heart is hot and overtake him, because the way is long, and slay him, whereas he was not worthy of death, since he did not hate him in time past.
 * `Deu 19:10` So that innocent *_blood_* may not be shed in your land, which the LORD your God gives you for an inheritance, and thus *_blood_* be upon you.
@@ -2003,7 +2003,7 @@ _1 verse containing BOLTED_
 
 * `Num 30:2` If a man vows a vow to the LORD or swears an oath to bind his soul with a *_bond_*, he shall not break his word. He shall do according to all that proceeds out of his mouth.
 * `Num 30:3` "If a woman also vows a vow to the LORD and binds herself by a *_bond_*, being in her father's house in her youth,
-* `Num 30:4` And her father hears her vow and her *_bond_* with which she has bound her soul and her father holds his peace at her, then all her vows shall stand and every *_bond_* with which she has bound her soul shall stand.
+* `Num 30:4` And her father hears her vow and her *_bond_* with which she has bound her soul, and her father holds his peace at her, then all her vows shall stand and every *_bond_* with which she has bound her soul shall stand.
 * `Num 30:10` And if she vowed in her husband's house or bound her soul by a *_bond_* with an oath,
 * `Num 30:11` And her husband heard it and held his peace at her and did not disallow her, then all her vows shall stand and every *_bond_* with which she bound her soul shall stand.
 * `Num 30:12` But if her husband has utterly made them void on the day he heard them, then whatever proceeded out of her lips concerning her vows or concerning the *_bond_* of her soul shall not stand. Her husband has made them void, and the LORD shall forgive her.
@@ -3747,7 +3747,7 @@ _42 verses containing BOUGHT_
 * `Exo 39:21` And they *_bound_* the breast-plate by its rings to the rings of the ephod with a lace of blue so that it might be above the skillfully woven girdle of the ephod and that the breast-plate might not come loose from the ephod, as the LORD commanded Moses.
 * `Lev 8:7` And he put upon him the coat, girded him with the girdle, clothed him with the robe, and put the ephod upon him. And he girded him with the skillfully woven girdle of the ephod and *_bound_* it to him with it.
 * `Num 19:15` And every open vessel which has no covering *_bound_* upon it is unclean.
-* `Num 30:4` And her father hears her vow and her bond with which she has *_bound_* her soul and her father holds his peace at her, then all her vows shall stand and every bond with which she has *_bound_* her soul shall stand.
+* `Num 30:4` And her father hears her vow and her bond with which she has *_bound_* her soul, and her father holds his peace at her, then all her vows shall stand and every bond with which she has *_bound_* her soul shall stand.
 * `Num 30:5` But if her father disallows her in the day that he hears, none of her vows or of her bonds with which she has *_bound_* her soul shall stand. And the LORD shall forgive her because her father disallowed her.
 * `Num 30:6` "And if she had a husband when she vowed or uttered anything from her lips with which she *_bound_* her soul,
 * `Num 30:7` And her husband heard it and held his peace at her in the day that he heard it, then her vows shall stand and her bonds with which she *_bound_* her soul shall stand.

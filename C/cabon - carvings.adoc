@@ -625,7 +625,7 @@ _183 verses containing CALL_
 * `Num 32:42` And Nobah went and took Kenath and its villages and *_called_* it Nobah after his own name.
 * `Deu 3:13` And the rest of Gilead, and all Bashan, being the kingdom of Og, I gave to the half-tribe of Manasseh, all the region of Argob, with all Bashan, which was *_called_* the land of Rephaim.
 * `Deu 3:14` Jair the son of Manasseh took all the country of Argob to the borders of Geshuri and Maachathi and *_called_* them after his own name, Bashan-havoth-jair, to this day.
-* `Deu 5:1` And Moses *_called_* all Israel, and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
+* `Deu 5:1` And Moses *_called_* all Israel and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
 * `Deu 15:2` And this is the manner of the release: every creditor who lends anything to his neighbor shall release it. He shall not exact it from his neighbor or from his brother, because it is *_called_* the LORD'S release.
 * `Deu 25:10` And his name shall be *_called_* in Israel, 'The house of him who has his shoe removed.'
 * `Deu 28:10` And all the people of the earth shall see that you are *_called_* by the name of the LORD, and they shall be afraid of you.
@@ -1516,7 +1516,7 @@ _25 verses containing CALVES_
 * `Deu 1:31` And in the wilderness, where you have seen how the LORD your God bore you, as a man bears his son, in all the way that you went until you *_came_* into this place.'
 * `Deu 1:44` And the Amorites, who dwelt on that mountain, *_came_* out against you and chased you, as bees do, and destroyed you in Seir, even to Hormah.
 * `Deu 2:14` And the time in which we *_came_* from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
-* `Deu 2:16` "So it *_came_* to pass, when all the men of war were consumed and dead from among the people,
+* `Deu 2:16` "So it *_came_* to pass when all the men of war were consumed and dead from among the people,
 * `Deu 2:23` And the Avims who dwelt in Hazerim even to Azzah, the Caphtorims, who *_came_* forth from Caphtor, destroyed them and dwelt in their stead.)
 * `Deu 2:32` "Then Sihon *_came_* out against us—he and all his people—to fight at Jahaz.
 * `Deu 3:1` "Then we turned and went up the way to Bashan. And Og the king of Bashan *_came_* out against us—he and all his people—to battle at Edrei.
@@ -3286,7 +3286,7 @@ _1 verse containing CAMON_
 * `Num 31:12` And they brought the captives, the plunder, and the loot to Moses and Eleazar the priest and to the congregation of the children of Israel, to the *_camp_* at the plains of Moab, which are by the Jordan near Jericho.
 * `Num 31:13` And Moses and Eleazar the priest and all the princes of the congregation went forth to meet them outside the *_camp_*.
 * `Num 31:19` And you, abide outside the *_camp_* seven days. Whoever has killed any person and whoever has touched any slain, purify both yourselves and your captives on the third day and on the seventh day.
-* `Num 31:24` And you shall wash your clothes on the seventh day and you shall be clean, and afterward you shall come into the *_camp_*."
+* `Num 31:24` And you shall wash your clothes on the seventh day and you shall be clean. And afterward, you shall come into the *_camp_*."
 * `Deu 23:10` "If there is among you any man who is not clean by reason of uncleanness that happens to him by night, then he shall go abroad out of the *_camp_*. He shall not come within the *_camp_*.
 * `Deu 23:11` But it shall be, when evening comes near, he shall wash himself with water, and when the sun is down, he shall come into the *_camp_* again.
 * `Deu 23:12` "You shall have a place also outside the *_camp_* where you shall go forth abroad.
@@ -4448,6 +4448,7 @@ _102 verses containing CAPTAINS_
 * `Gen 34:29` And all their wealth, all their little ones, and their wives they took *_captive_* and plundered even all that was in the house.
 * `Exo 12:29` And it came to pass, that at midnight the LORD smote all the first-born in the land of Egypt, from the first-born of Pharaoh who sat on his throne to the first-born of the *_captive_* who was in the dungeon, and all the first-born of livestock.
 * `Num 24:22` Nevertheless, the Kenite shall be wasted until Asher carries you away *_captive_*."
+* `Num 31:9` And the children of Israel took all the women of Midian *_captive_* with their little ones, and took as plunder all their livestock, all their flocks, and all their goods.
 * `Deu 21:10` "When you go forth to war against your enemies, and the LORD your God has delivered them into your hands and you have taken them *_captive_*,
 * `Jdg 5:12` "Awake, awake, Deborah. Awake, awake, utter a song. Arise, Barak, and lead your captivity *_captive_*, son of Abinoam.
 * `1Sa 30:2` And had taken the women *_captive_* who were in it. They did not slay any, either great or small, but carried them away and went on their way.
@@ -4510,12 +4511,11 @@ _102 verses containing CAPTAINS_
 * `2Ti 2:26` And that they may recover themselves out of the snare of the devil, who are taken *_captive_* by him at his will.
 * `2Ti 3:6` For of this sort are those who creep into houses and lead *_captive_* silly women laden with sins, led away with diverse lusts,
 
-_65 verses containing CAPTIVE_
+_66 verses containing CAPTIVE_
 
 == CAPTIVES
 
 * `Gen 31:26` And Laban said to Jacob, "What have you done that you have deceived me and carried away my daughters as *_captives_* taken with the sword?
-* `Num 31:9` And the children of Israel took all the women of Midian *_captives_* with their little ones, and took as plunder all their livestock, all their flocks, and all their goods.
 * `Num 31:11` And they took all the *_captives_* and all the plunder, both of men and of beasts.
 * `Num 31:12` And they brought the *_captives_*, the plunder, and the loot to Moses and Eleazar the priest and to the congregation of the children of Israel, to the camp at the plains of Moab, which are by the Jordan near Jericho.
 * `Num 31:19` And you, abide outside the camp seven days. Whoever has killed any person and whoever has touched any slain, purify both yourselves and your *_captives_* on the third day and on the seventh day.
@@ -4552,7 +4552,7 @@ _65 verses containing CAPTIVE_
 * `Dan 2:25` Then Arioch brought in Daniel before the king in haste, and said thus to him: "I have found a man of the *_captives_* of Judah who will make known to the king the interpretation."
 * `Luk 4:18` "The Spirit of the Lord is upon me because he has anointed me to preach the gospel to the poor. He has sent me to heal the broken-hearted, to preach deliverance to the *_captives_*, and recovering of sight to the blind, to set at liberty those who are bruised,
 
-_37 verses containing CAPTIVES_
+_36 verses containing CAPTIVES_
 
 == CAPTIVITY
 

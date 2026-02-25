@@ -909,7 +909,7 @@ _1 verse containing GNAWED_
 * `Deu 1:22` "And each of you came near to me, and said, 'We will send men before us, and they shall explore the land for us and bring us word again by what way we must *_go_* up and into what cities we shall come.'
 * `Deu 1:26` "Yet, you would not *_go_* up, but rebelled against the commandment of the LORD your God.
 * `Deu 1:28` Where shall we *_go_* up? Our brothers have discouraged our heart, saying, "The people are greater and taller than we are. The cities are great and walled up to heaven. And moreover, we have seen the sons of the Anakims there."'
-* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should *_go_*, and in a cloud by day.
+* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should *_go_* and in a cloud by day.
 * `Deu 1:37` Also, the LORD was angry with me for your sakes, saying, 'You also shall not *_go_* in there.
 * `Deu 1:38` But Joshua the son of Nun, who stands before you, he shall *_go_* in there. Encourage him, for he shall cause Israel to inherit it.
 * `Deu 1:39` Moreover, your little ones, which you said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall *_go_* in there, and I will give it to them, and they shall possess it.
@@ -2724,13 +2724,13 @@ _1 verse containing GOBLET_
 * `Deu 13:12` "If you hear it said in one of your cities which the LORD your *_God_* has given you to dwell there,
 * `Deu 13:16` And you shall gather all its plunder into the midst of its street, and shall completely burn the city and all its plunder with fire for the LORD your *_God_*. And it shall be a heap forever. It shall not be built again.
 * `Deu 13:18` Because you listen to the voice of the LORD your *_God_*, keeping all his commandments which I command you this day, and doing that which is right in the eyes of the LORD your *_God_*."
-* `Deu 14:1` "You are the children of the LORD your *_God_*. You shall not cut yourselves, nor make any baldness between your eyes for the dead.
+* `Deu 14:1` "You are the children of the LORD your *_God_*. You shall not cut yourselves nor make any baldness between your eyes for the dead.
 * `Deu 14:2` For you are a holy people to the LORD your *_God_* and the LORD has chosen you to be a peculiar people for himself above all the nations who are upon the earth.
 * `Deu 14:21` "You shall not eat anything that dies of itself. You shall give it to the stranger who is in your gates so that he may eat it, or you may sell it to a foreigner, for you are a holy people to the LORD your *_God_*. You shall not boil a kid in his mother's milk.
 * `Deu 14:23` And you shall eat before the LORD your *_God_*, in the place which he chooses to place his name, the tithe of your grain, of your wine, of your oil, and the first-born of your herds and of your flocks, so that you may learn to fear the LORD your *_God_* always.
 * `Deu 14:24` And if the way is too long for you so that you are not able to carry it, because the place which the LORD your *_God_* chooses to set his name is too far from you, when the LORD your *_God_* has blessed you,
 * `Deu 14:25` Then you shall turn it into money, bind up the money in your hand, and go to the place which the LORD your *_God_* chooses.
-* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your *_God_*, and you shall rejoice—you, and your household.
+* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your *_God_*, and you shall rejoice—you and your household.
 * `Deu 14:29` Then the Levite (because he has no part nor inheritance with you), the stranger, the fatherless, and the widow who are within your gates shall come and shall eat and be satisfied so that the LORD your *_God_* may bless you in all the work of your hand which you do."
 * `Deu 15:4` However, there shall be no poor among you, for the LORD shall greatly bless you in the land which the LORD your *_God_* gives you for an inheritance to possess it,
 * `Deu 15:5` If only you carefully listen to the voice of the LORD your *_God_* to observe to do all these commandments which I command you this day.
@@ -7406,7 +7406,7 @@ _203 verses containing GONE_
 * `Deu 8:16` Who fed you in the wilderness with manna which your fathers did not know so that he might humble you and that he might prove you, to do you *_good_* at your latter end—
 * `Deu 9:6` "Understand therefore, that the LORD your God does not give you this *_good_* land to possess it for your righteousness, for you are a stiff-necked people.
 * `Deu 10:13` And to keep the commandments of the LORD, and his statutes, which I command you this day for your *_good_*?
-* `Deu 11:17` And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain and the land shall not yield her fruit; and lest you perish quickly from off the *_good_* land which the LORD gives you.
+* `Deu 11:17` And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain, and the land shall not yield her fruit; and lest you perish quickly from off the *_good_* land which the LORD gives you.
 * `Deu 12:28` "Observe and hear all these words which I command you so that it may be well with you and with your children after you forever, because you will be doing that which is *_good_* and right in the sight of the LORD your God.
 * `Deu 26:11` And you shall rejoice in every *_good_* thing which the LORD your God has given to you and to your house—you, the Levite, and the stranger who is among you.
 * `Deu 28:12` The LORD shall open to you his *_good_* treasure, the heavens, to give rain to your land in its season and to bless all the work of your hand. And you shall lend to many nations, and you shall not borrow.
@@ -8058,7 +8058,7 @@ _48 verses containing GOODNESS_
 * `Exo 22:8` If the thief is not found, then the master of the house shall be brought to the judges, to see whether he has put his hand to his neighbor's *_goods_*.
 * `Exo 22:11` Then an oath of the LORD shall be between them both that he has not put his hand to his neighbor's *_goods_*. And its owner shall accept it, and he shall not make restitution.
 * `Num 16:32` And the earth opened her mouth and swallowed them up, their houses, all the men who belonged to Korah, and all their *_goods_*.
-* `Num 31:9` And the children of Israel took all the women of Midian captives with their little ones, and took as plunder all their livestock, all their flocks, and all their *_goods_*.
+* `Num 31:9` And the children of Israel took all the women of Midian captive with their little ones, and took as plunder all their livestock, all their flocks, and all their *_goods_*.
 * `Num 35:3` And they shall have the cities to dwell in. And their suburbs shall be for their livestock, for their *_goods_*, and for all their beasts.
 * `Deu 28:11` And the LORD shall make you to abound in *_goods_*, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground in the land which the LORD swore to your fathers to give you.
 * `Jsh 7:11` Israel has sinned, and they have also transgressed my covenant which I commanded them, for they have even taken some of the accursed things, and they have also stolen, dissembled, and put them even among their own *_goods_*.

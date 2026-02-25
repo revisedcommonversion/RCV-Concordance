@@ -1183,7 +1183,7 @@ _1 verse containing ISPAH_
 * `Num 26:2` "Take the sum of all the congregation of the children of *_Israel_* from twenty years old and upward throughout their fathers' house, all who are able to go to war in *_Israel_*."
 * `Num 26:4` "Take the sum of the people from twenty years old and upward as the LORD commanded Moses and the children of *_Israel_*, who went forth from the land of Egypt."
 * `Num 26:5` Reuben, the eldest son of *_Israel_*—the children of Reuben: Hanoch, of whom comes the family of the Hanochites; Of Phallu, the family of the Phalluites;
-* `Num 26:51` These were the numbered of the children of *_Israel_*, six hundred and one thousand seven hundred and thirty.
+* `Num 26:51` These are those who were numbered of the children of *_Israel_*, six hundred and one thousand seven hundred and thirty.
 * `Num 26:62` And those who were numbered of them were twenty-three thousand, all males from a month old and upward, for they were not numbered among the children of *_Israel_* because there was no inheritance given to them among the children of *_Israel_*.
 * `Num 26:63` These are those who were numbered by Moses and Eleazar the priest, who numbered the children of *_Israel_* in the plains of Moab by the Jordan near Jericho.
 * `Num 26:64` But among these there was not a man of them whom Moses and Aaron the priest numbered when they numbered the children of *_Israel_* in the wilderness of Sinai.
@@ -1198,7 +1198,7 @@ _1 verse containing ISPAH_
 * `Num 31:2` "Take vengeance against the Midianites for the children of *_Israel_*. Afterward, you shall be gathered to your people."
 * `Num 31:4` Of every tribe one thousand throughout all the tribes of *_Israel_* you shall send to the war."
 * `Num 31:5` So there were delivered out of the thousands of *_Israel_* one thousand of every tribe, twelve thousand armed for war.
-* `Num 31:9` And the children of *_Israel_* took all the women of Midian captives with their little ones, and took as plunder all their livestock, all their flocks, and all their goods.
+* `Num 31:9` And the children of *_Israel_* took all the women of Midian captive with their little ones, and took as plunder all their livestock, all their flocks, and all their goods.
 * `Num 31:12` And they brought the captives, the plunder, and the loot to Moses and Eleazar the priest and to the congregation of the children of *_Israel_*, to the camp at the plains of Moab, which are by the Jordan near Jericho.
 * `Num 31:16` Behold, these caused the children of *_Israel_*, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD.
 * `Num 31:30` And of the children of *_Israel_*'s half, you shall take one portion of fifty of the persons, of the bulls, of the donkeys, and of the flocks, of all manner of beasts, and give them to the Levites who keep the charge of the tabernacle of the LORD."
@@ -1230,8 +1230,8 @@ _1 verse containing ISPAH_
 * `Num 35:34` Therefore, do not defile the land which you inhabit, in which I dwell, for I, the LORD, dwell among the children of *_Israel_*.'"
 * `Num 36:1` And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near and spoke before Moses and before the princes, the chief fathers of the children of *_Israel_*.
 * `Num 36:2` And they said, "The LORD commanded my lord to give the land for an inheritance by lot to the children of *_Israel_*. And my lord was commanded by the LORD to give the inheritance of Zelophehad our brother to his daughters.
-* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of *_Israel_*, then their inheritance will be taken from the inheritance of our fathers and will be put to the inheritance of the tribe into which they are received. So it will be taken from the lot of our inheritance.
-* `Num 36:4` And when the jubilee of the children of *_Israel_* shall be, then their inheritance will be put to the inheritance of the tribe into which they are received. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
+* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of *_Israel_*, then their inheritance will be taken from the inheritance of our fathers and will be added to the inheritance of the tribe into which they are received. So it will be taken from the lot of our inheritance.
+* `Num 36:4` And when the jubilee of the children of *_Israel_* comes, then their inheritance will be added to the inheritance of the tribe into which they are received. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
 * `Num 36:5` And Moses commanded the children of *_Israel_* according to the word of the LORD, saying, "The tribe of the sons of Joseph speaks what is right.
 * `Num 36:7` So the inheritance of the children of *_Israel_* shall not move from tribe to tribe, for each of the children of *_Israel_* shall keep himself to the inheritance of the tribe of his fathers.
 * `Num 36:8` And every daughter who possesses an inheritance in any tribe of the children of *_Israel_* shall be the wife of someone from the family of the tribe of her father so that the children of *_Israel_* may each enjoy the inheritance of his fathers.
@@ -1246,7 +1246,7 @@ _1 verse containing ISPAH_
 * `Deu 4:44` And this is the law which Moses set before the children of *_Israel_*.
 * `Deu 4:45` These are the testimonies, the statutes, and the judgments which Moses spoke to the children of *_Israel_* after they came forth from Egypt,
 * `Deu 4:46` On the east side of the Jordan, in the valley over against Beth-Peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of *_Israel_* smote after they had come forth from Egypt.
-* `Deu 5:1` And Moses called all *_Israel_*, and said to them, "Hear, O *_Israel_*, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
+* `Deu 5:1` And Moses called all *_Israel_* and said to them, "Hear, O *_Israel_*, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
 * `Deu 6:3` Hear therefore, O *_Israel_*, and observe to do it so that it may be well with you and that you may increase mightily, as the LORD God of your fathers has promised you, in the land that flows with milk and honey.
 * `Deu 6:4` "Hear, O *_Israel_*. The LORD our God, Yahweh, is one.
 * `Deu 9:1` "Hear, O *_Israel_*. You are to pass over the Jordan this day to go in and dispossess nations greater and mightier than yourself, cities great and fortified up to heaven,
@@ -3613,7 +3613,11 @@ _1 verse containing ITHRITES_
 * `Deu 11:14` That I will give you the rain of your land in *_its_* due season, the former rain and the latter rain, so that you may gather in your grain, your wine, and your oil.
 * `Deu 13:15` You shall surely smite the inhabitants of that city with the edge of the sword, utterly destroying it and all that is in it and *_its_* livestock with the edge of the sword.
 * `Deu 13:16` And you shall gather all *_its_* plunder into the midst of *_its_* street, and shall completely burn the city and all *_its_* plunder with fire for the LORD your God. And it shall be a heap forever. It shall not be built again.
-* `Deu 15:23` Only you shall not eat *_its_* blood. You shall pour it upon the ground as water."
+* `Deu 14:13` The glede, the kite, the falcon after *_its_* kind,
+* `Deu 14:14` Every raven after *_its_* kind,
+* `Deu 14:15` The owl, the night-hawk, the gull, the hawk after *_its_* kind,
+* `Deu 14:18` The stork, the heron after *_its_* kind, the lapwing, and the bat.
+* `Deu 15:23` Only you shall not eat *_its_* blood. You shall pour it upon the ground like water."
 * `Deu 20:14` But the women, the little ones, the livestock, and all that is in the city, even all *_its_* plunder, you shall take for yourself. And you shall eat the plunder of your enemies which the LORD your God has given you.
 * `Deu 20:19` "When you besiege a city a long time, in making war against it to take it, you shall not destroy *_its_* trees by forcing an ax against them. You may eat from them, but you shall not cut them down (for the tree of the field is man's life) to employ them in the siege.
 * `Deu 28:12` The LORD shall open to you his good treasure, the heavens, to give rain to your land in *_its_* season and to bless all the work of your hand. And you shall lend to many nations, and you shall not borrow.
@@ -4135,7 +4139,7 @@ _1 verse containing ITHRITES_
 * `Rev 21:25` And *_its_* gates shall not be shut by day, for there shall be no night there.
 * `Rev 22:2` In the midst of *_its_* street. And on each side of the river was the tree of life, which bore twelve kinds of fruits and yielded her fruit every month. And the leaves of the tree were for the healing of the nations.
 
-_783 verses containing ITS_
+_787 verses containing ITS_
 
 == ITSELF
 

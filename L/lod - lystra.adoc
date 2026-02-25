@@ -449,7 +449,7 @@ _9 verses containing LONGED_
 * `Exo 5:7` "You shall no *_longer_* give the people straw to make brick as before. Let them go and gather straw for themselves.
 * `Exo 9:28` Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail, and I will let you go, and you shall stay no *_longer_*."
 * `Lev 17:7` And they shall no *_longer_* offer their sacrifices to idols, with which they have committed idolatry. This shall be a statute forever to them throughout their generations."'
-* `Deu 10:16` Therefore, circumcise the foreskin of your heart, and be stiff-necked no *_longer_*.
+* `Deu 10:16` Therefore, circumcise the foreskin of your heart and be stiff-necked no *_longer_*.
 * `Deu 13:11` And all Israel shall hear and fear, and they shall no *_longer_* do any such wickedness as this among you.
 * `Deu 17:13` And all the people shall hear and fear and no *_longer_* act presumptuously.
 * `Deu 31:2` And he said to them, "I am one hundred and twenty years old this day. I can no *_longer_* go out and come in. Also the LORD has said to me, 'You shall not go over this Jordan.'
@@ -2176,7 +2176,7 @@ _1 verse containing LOP_
 * `Num 28:16` 'And on the fourteenth day of the first month is the passover of the *_LORD_*.
 * `Num 28:19` But you shall offer a sacrifice made by fire for a burnt-offering to the *_LORD_*: two young bulls, one ram, and seven lambs of the first year—they shall be to you without blemish;
 * `Num 28:24` After this manner you shall offer daily, throughout the seven days, the food of the sacrifice made by fire, a sweet savor to the *_LORD_*. It shall be offered besides the continual burnt-offering and its drink-offering.
-* `Num 28:26` 'Also in the day of the first-fruits, when you bring a new food-offering to the *_LORD_*, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
+* `Num 28:26` 'Also, in the day of the first-fruits, when you bring a new food-offering to the *_LORD_*, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
 * `Num 28:27` But you shall offer the burnt-offering for a sweet savor to the *_LORD_*: two young bulls, one ram, and seven lambs of the first year;
 * `Num 29:2` And you shall offer a burnt-offering for a sweet savor to the *_LORD_*: one young bull, one ram, and seven lambs of the first year without blemish;
 * `Num 29:6` Besides the burnt-offering of the month and its food-offering, the daily burnt-offering and its food-offering, and their drink-offerings, according to their manner, for a sweet savor, a sacrifice made by fire to the *_LORD_*.
@@ -2265,13 +2265,13 @@ _1 verse containing LOP_
 * `Deu 1:42` And the *_LORD_* said to me, 'Say to them, "Do not go up, neither fight, for I am not among you, lest you be smitten before your enemies."'
 * `Deu 1:43` So I spoke to you, and you would not hear, but rebelled against the commandment of the *_LORD_* and presumptuously ascended the hill.
 * `Deu 1:45` And you returned and wept before the *_LORD_*, but the *_LORD_* would not listen to your voice, nor give ear to you.
-* `Deu 2:1` "Then we turned, and took our journey into the wilderness by the way of the Red Sea, as the *_LORD_* spoke to me. And we compassed mount Seir many days.
+* `Deu 2:1` "Then we turned and took our journey into the wilderness by the way of the Red Sea, as the *_LORD_* spoke to me. And we compassed mount Seir many days.
 * `Deu 2:2` And the *_LORD_* spoke to me, saying,
 * `Deu 2:7` For the *_LORD_* your God has blessed you in all the works of your hand. He knows your walking through this great wilderness. These forty years the *_LORD_* your God has been with you. You have lacked nothing."'
 * `Deu 2:9` And the *_LORD_* said to me, 'Do not distress the Moabites, neither contend with them in battle, for I will not give you any of their land for a possession, because I have given Ar to the children of Lot for a possession.'
 * `Deu 2:12` The Horims also dwelt formerly in Seir, but the children of Esau succeeded them when they had destroyed them from before them and dwelt in their stead, as Israel did to the land of his possession, which the *_LORD_* gave to them.)
 * `Deu 2:14` And the time in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the *_LORD_* swore to them.
-* `Deu 2:15` For indeed the hand of the *_LORD_* was against them, to destroy them from among the host, until they were consumed.
+* `Deu 2:15` For indeed the hand of the *_LORD_* was against them, to destroy them from among the host until they were consumed.
 * `Deu 2:17` That the *_LORD_* spoke to me, saying,
 * `Deu 2:21` A people great and many and tall as the Anakims. But the *_LORD_* destroyed them before them, and they succeeded them and dwelt in their stead,
 * `Deu 2:29` (As the children of Esau who dwell in Seir and the Moabites who dwell in Ar did to me), until I pass over the Jordan into the land which the *_LORD_* our God gives us.'
@@ -2368,7 +2368,7 @@ _1 verse containing LOP_
 * `Deu 7:25` The engraved images of their gods you shall burn with fire. You shall not desire the silver or gold that is on them, nor take it for yourselves, lest you should be snared in it, for it is an abomination to the *_LORD_* your God.
 * `Deu 8:1` "All the commandments which I command you this day you shall observe to do so that you may live, multiply, and go in and possess the land which the *_LORD_* swore to your fathers.
 * `Deu 8:2` And you shall remember all the way which the *_LORD_* your God has led you these forty years in the wilderness, to humble you and to prove you, to know what was in your heart, whether you would keep his commandments or not.
-* `Deu 8:3` And he humbled you and allowed you to be hungry, and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that proceeds out of the mouth of the *_LORD_*.
+* `Deu 8:3` And he humbled you and allowed you to be hungry and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that proceeds out of the mouth of the *_LORD_*.
 * `Deu 8:5` You shall also consider in your heart, that as a man chastens his son, so the *_LORD_* your God chastens you.
 * `Deu 8:6` Therefore, you shall keep the commandments of the *_LORD_* your God, to walk in his ways and to fear him.
 * `Deu 8:7` For the *_LORD_* your God brings you into a good land, a land of brooks of water, of fountains, and depths that spring out of valleys and hills;
@@ -2420,7 +2420,7 @@ _1 verse containing LOP_
 * `Deu 11:9` And that you may prolong your days in the land which the *_LORD_* swore to your fathers to give to them and to their posterity, a land that flows with milk and honey.
 * `Deu 11:12` A land which the *_LORD_* your God cares for. The eyes of the *_LORD_* your God are always upon it, from the beginning of the year even to the end of the year.
 * `Deu 11:13` "And it shall come to pass, if you listen diligently to my commandments which I command you this day, to love the *_LORD_* your God and to serve him with all your heart and with all your soul,
-* `Deu 11:17` And the *_LORD_*'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain and the land shall not yield her fruit; and lest you perish quickly from off the good land which the *_LORD_* gives you.
+* `Deu 11:17` And the *_LORD_*'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain, and the land shall not yield her fruit; and lest you perish quickly from off the good land which the *_LORD_* gives you.
 * `Deu 11:21` So that your days and the days of your children may be multiplied in the land which the *_LORD_* swore to your fathers to give to them, as the days of heaven upon the earth.
 * `Deu 11:22` For if you diligently keep all these commandments which I command you, to do them, to love the *_LORD_* your God, to walk in all his ways, and to cleave to him,
 * `Deu 11:23` Then the *_LORD_* will drive out all these nations from before you, and you shall possess greater and mightier nations than yourselves.
@@ -2456,13 +2456,13 @@ _1 verse containing LOP_
 * `Deu 13:16` And you shall gather all its plunder into the midst of its street, and shall completely burn the city and all its plunder with fire for the *_LORD_* your God. And it shall be a heap forever. It shall not be built again.
 * `Deu 13:17` And nothing of the cursed thing shall cleave to your hand, so that the *_LORD_* will turn from the fierceness of his anger, show you mercy, have compassion upon you, and multiply you, as he has sworn to your fathers,
 * `Deu 13:18` Because you listen to the voice of the *_LORD_* your God, keeping all his commandments which I command you this day, and doing that which is right in the eyes of the *_LORD_* your God."
-* `Deu 14:1` "You are the children of the *_LORD_* your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead.
+* `Deu 14:1` "You are the children of the *_LORD_* your God. You shall not cut yourselves nor make any baldness between your eyes for the dead.
 * `Deu 14:2` For you are a holy people to the *_LORD_* your God and the *_LORD_* has chosen you to be a peculiar people for himself above all the nations who are upon the earth.
 * `Deu 14:21` "You shall not eat anything that dies of itself. You shall give it to the stranger who is in your gates so that he may eat it, or you may sell it to a foreigner, for you are a holy people to the *_LORD_* your God. You shall not boil a kid in his mother's milk.
 * `Deu 14:23` And you shall eat before the *_LORD_* your God, in the place which he chooses to place his name, the tithe of your grain, of your wine, of your oil, and the first-born of your herds and of your flocks, so that you may learn to fear the *_LORD_* your God always.
 * `Deu 14:24` And if the way is too long for you so that you are not able to carry it, because the place which the *_LORD_* your God chooses to set his name is too far from you, when the *_LORD_* your God has blessed you,
 * `Deu 14:25` Then you shall turn it into money, bind up the money in your hand, and go to the place which the *_LORD_* your God chooses.
-* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the *_LORD_* your God, and you shall rejoice—you, and your household.
+* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the *_LORD_* your God, and you shall rejoice—you and your household.
 * `Deu 14:29` Then the Levite (because he has no part nor inheritance with you), the stranger, the fatherless, and the widow who are within your gates shall come and shall eat and be satisfied so that the *_LORD_* your God may bless you in all the work of your hand which you do."
 * `Deu 15:2` And this is the manner of the release: every creditor who lends anything to his neighbor shall release it. He shall not exact it from his neighbor or from his brother, because it is called the *_LORD_*'S release.
 * `Deu 15:4` However, there shall be no poor among you, for the *_LORD_* shall greatly bless you in the land which the *_LORD_* your God gives you for an inheritance to possess it,
@@ -7997,9 +7997,9 @@ _32 verses containing LOST_
 * `Num 33:54` And you shall divide the land by *_lot_* for an inheritance among your families. To the more you shall give the more inheritance and to the fewer you shall give the less inheritance. Every man's inheritance shall be in the place where his *_lot_* falls. According to the tribes of your fathers you shall inherit.
 * `Num 34:13` And Moses commanded the children of Israel, saying, "This is the land which you shall inherit by *_lot_*, which the LORD commanded to give to the nine tribes and to the half tribe.
 * `Num 36:2` And they said, "The LORD commanded my lord to give the land for an inheritance by *_lot_* to the children of Israel. And my lord was commanded by the LORD to give the inheritance of Zelophehad our brother to his daughters.
-* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be put to the inheritance of the tribe into which they are received. So it will be taken from the *_lot_* of our inheritance.
+* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be added to the inheritance of the tribe into which they are received. So it will be taken from the *_lot_* of our inheritance.
 * `Deu 2:9` And the LORD said to me, 'Do not distress the Moabites, neither contend with them in battle, for I will not give you any of their land for a possession, because I have given Ar to the children of *_Lot_* for a possession.'
-* `Deu 2:19` And when you come near over against the children of Ammon, do not distress them, nor meddle with them, for I will not give you any possession of the land of the children of Ammon, because I have given it to the children of *_Lot_* for a possession.'
+* `Deu 2:19` And when you come near over against the children of Ammon, do not distress them nor meddle with them, for I will not give you any possession of the land of the children of Ammon, because I have given it to the children of *_Lot_* for a possession.'
 * `Deu 32:9` For the LORD'S portion is his people. Jacob is the *_lot_* of his inheritance.
 * `Jsh 13:6` And the inhabitants of the hill-country from Lebanon to Misrephoth-maim and all the Sidonians, I will drive them out from before the children of Israel. Only divide it by *_lot_* to the Israelites for an inheritance, as I have commanded you.
 * `Jsh 14:2` Their inheritance was by *_lot_*, as the LORD commanded by the hand of Moses, for the nine tribes and for the half-tribe.

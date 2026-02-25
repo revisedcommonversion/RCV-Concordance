@@ -487,7 +487,7 @@ _1 verse containing OBSERVATION_
 * `Lev 19:26` 'You shall not eat anything with the blood. You shall not use enchantment nor *_observe_* times.
 * `Lev 19:37` Therefore, you shall *_observe_* all my statutes and all my judgments and do them. I am the LORD.'"
 * `Num 28:2` "Command the children of Israel and say to them, 'My offering and my bread for my sacrifices made by fire for a sweet savor to me, you shall *_observe_* to offer to me in their due season.'
-* `Deu 5:1` And Moses called all Israel, and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and *_observe_* to do them.
+* `Deu 5:1` And Moses called all Israel and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and *_observe_* to do them.
 * `Deu 5:32` You shall *_observe_* to do therefore as the LORD your God has commanded you. You shall not turn aside to the right hand or to the left.
 * `Deu 6:3` Hear therefore, O Israel, and *_observe_* to do it so that it may be well with you and that you may increase mightily, as the LORD God of your fathers has promised you, in the land that flows with milk and honey.
 * `Deu 6:24` And the LORD commanded us to *_observe_* all these statutes and to fear the LORD our God, for our good always, so that he might preserve us alive, as it is at this day.
@@ -866,7 +866,7 @@ _7 verses containing ODORS_
 * `Num 19:13` Whoever touches the dead body of any man who is dead and does not purify himself, defiles the tabernacle of the LORD, and that soul shall be cut *_off_* from Israel. Because the water of separation was not sprinkled upon him, he shall be unclean. His uncleanness is still upon him.
 * `Num 19:20` 'But the man who is unclean and does not purify himself, that soul shall be cut *_off_* from among the congregation because he has defiled the sanctuary of the LORD. The water of separation has not been sprinkled upon him. He is unclean.
 * `Deu 6:15` (For the LORD your God is a jealous God among you), lest the anger of the LORD your God should be kindled against you and destroy you from *_off_* the face of the earth.
-* `Deu 11:17` And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain and the land shall not yield her fruit; and lest you perish quickly from *_off_* the good land which the LORD gives you.
+* `Deu 11:17` And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain, and the land shall not yield her fruit; and lest you perish quickly from *_off_* the good land which the LORD gives you.
 * `Deu 12:29` "When the LORD your God cuts *_off_* the nations from before you where you go to possess them, and you succeed them and dwell in their land,
 * `Deu 13:7` Namely, of the gods of the people who are around you, near to you, or far *_off_* from you, from one end of the earth even to the other end of the earth,
 * `Deu 19:1` "When the LORD your God has cut *_off_* the nations, whose land the LORD your God gives you, and you succeed them and dwell in their cities and in their houses,
@@ -2043,7 +2043,7 @@ _146 verses containing OFFERED_
 * `Num 28:22` And one goat for a sin-*_offering_*, to make an atonement for you.
 * `Num 28:23` You shall offer these besides the burnt-*_offering_* in the morning, which is for a continual burnt-*_offering_*.
 * `Num 28:24` After this manner you shall offer daily, throughout the seven days, the food of the sacrifice made by fire, a sweet savor to the LORD. It shall be offered besides the continual burnt-*_offering_* and its drink-*_offering_*.
-* `Num 28:26` 'Also in the day of the first-fruits, when you bring a new food-*_offering_* to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
+* `Num 28:26` 'Also, in the day of the first-fruits, when you bring a new food-*_offering_* to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
 * `Num 28:27` But you shall offer the burnt-*_offering_* for a sweet savor to the LORD: two young bulls, one ram, and seven lambs of the first year;
 * `Num 28:28` And their food-*_offering_* of flour mingled with oil—three tenth-parts to one bull, two tenth-parts to one ram,
 * `Num 28:31` You shall offer them besides the continual burnt-*_offering_* and its food-*_offering_* (they shall be to you without blemish) and their drink-offerings.'"
@@ -2965,7 +2965,7 @@ _1 verse containing OHEL_
 * `Num 29:3` And their food-offering shall be of flour mingled with *_oil_*—three tenth-parts for a bull, two tenth-parts for a ram,
 * `Num 29:9` And their food-offering shall be of flour mingled with *_oil_*—three tenth-parts to a bull, two tenth-parts to one ram,
 * `Num 29:14` And their food-offering shall be of flour mingled with *_oil_*—three tenth-parts to every bull of the thirteen bulls, two tenth-parts to each ram of the two rams,
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy *_oil_*.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy *_oil_*.
 * `Deu 7:13` And he will love you, bless you, and multiply you. He will also bless your children, and the fruit of your land, your grain, your wine, and your *_oil_*, the increase of your cows, and the flocks of your sheep, in the land which he swore to your fathers to give you.
 * `Deu 8:8` A land of wheat, barley, vines, fig-trees, and pomegranates; a land of olive-*_oil_* and honey;
 * `Deu 11:14` That I will give you the rain of your land in its due season, the former rain and the latter rain, so that you may gather in your grain, your wine, and your *_oil_*.

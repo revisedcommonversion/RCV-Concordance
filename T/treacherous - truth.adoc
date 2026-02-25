@@ -1021,8 +1021,8 @@ _3 verses containing TRIALS_
 * `Num 34:26` The prince of the *_tribe_* of the children of Issachar, Paltiel the son of Azzan;
 * `Num 34:27` The prince of the *_tribe_* of the children of Asher, Ahihud the son of Shelomi;
 * `Num 34:28` And the prince of the *_tribe_* of the children of Naphtali, Pedahel the son of Ammihud."
-* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be put to the inheritance of the *_tribe_* into which they are received. So it will be taken from the lot of our inheritance.
-* `Num 36:4` And when the jubilee of the children of Israel shall be, then their inheritance will be put to the inheritance of the *_tribe_* into which they are received. So their inheritance shall be taken away from the inheritance of the *_tribe_* of our fathers."
+* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be added to the inheritance of the *_tribe_* into which they are received. So it will be taken from the lot of our inheritance.
+* `Num 36:4` And when the jubilee of the children of Israel comes, then their inheritance will be added to the inheritance of the *_tribe_* into which they are received. So their inheritance shall be taken away from the inheritance of the *_tribe_* of our fathers."
 * `Num 36:5` And Moses commanded the children of Israel according to the word of the LORD, saying, "The *_tribe_* of the sons of Joseph speaks what is right.
 * `Num 36:6` This is the thing which the LORD commands concerning the daughters of Zelophehad, saying, 'Let them marry to whom they think best. Only to the family of the *_tribe_* of their father they shall marry.'
 * `Num 36:7` So the inheritance of the children of Israel shall not move from *_tribe_* to *_tribe_*, for each of the children of Israel shall keep himself to the inheritance of the *_tribe_* of his fathers.
@@ -1170,7 +1170,7 @@ _203 verses containing TRIBE_
 * `Num 33:54` And you shall divide the land by lot for an inheritance among your families. To the more you shall give the more inheritance and to the fewer you shall give the less inheritance. Every man's inheritance shall be in the place where his lot falls. According to the *_tribes_* of your fathers you shall inherit.
 * `Num 34:13` And Moses commanded the children of Israel, saying, "This is the land which you shall inherit by lot, which the LORD commanded to give to the nine *_tribes_* and to the half tribe.
 * `Num 34:15` The two *_tribes_* and the half tribe have received their inheritance on this side of the Jordan near Jericho eastward toward the sunrise."
-* `Num 36:3` And if they are married to any of the sons of the other *_tribes_* of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be put to the inheritance of the tribe into which they are received. So it will be taken from the lot of our inheritance.
+* `Num 36:3` And if they are married to any of the sons of the other *_tribes_* of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and will be added to the inheritance of the tribe into which they are received. So it will be taken from the lot of our inheritance.
 * `Num 36:9` The inheritance shall not move from one tribe to another tribe, but each of the *_tribes_* of the children of Israel shall keep himself to his own inheritance."
 * `Deu 1:13` Take wise men of understanding, and known among your *_tribes_*, and I will make them rulers over you.'
 * `Deu 1:15` So I took the chief of your *_tribes_*, wise men, and known, and made them heads over you, captains over thousands, captains over hundreds, captains over fifties, captains over tens, and officers among your *_tribes_*.

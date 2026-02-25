@@ -969,8 +969,8 @@ _47 verses containing PRIDE_
 * `Num 32:28` So concerning them Moses commanded Eleazar the *_priest_*, Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel,
 * `Num 33:38` And Aaron the *_priest_* ascended mount Hor at the commandment of the LORD and died there, in the fortieth year after the children of Israel departed from the land of Egypt, on the first day of the fifth month.
 * `Num 34:17` "These are the names of the men who shall divide the land to you: Eleazar the *_priest_* and Joshua the son of Nun.
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it to the death of the high *_priest_* who was anointed with the holy oil.
-* `Num 35:28` Because he should have remained in the city of his refuge until the death of the high *_priest_*. But after the death of the high *_priest_* the slayer shall return into the land of his possession.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge where he had fled. And he shall abide in it until the death of the high *_priest_* who was anointed with the holy oil.
+* `Num 35:28` Because he should have remained in the city of his refuge until the death of the high *_priest_*. But after the death of the high *_priest_*, the slayer shall return into the land of his possession.
 * `Num 35:32` And you shall take no satisfaction for him who has fled to the city of his refuge, that he should come back to dwell in the land until the death of the *_priest_*.
 * `Deu 10:6` "And the children of Israel took their journey from Beeroth of the children of Jakan to Mosira. Aaron died there, and he was buried there. And Eleazar his son ministered in the *_priest_*'s office in his stead.
 * `Deu 17:12` And the man who will do presumptuously and will not listen to the *_priest_* who stands to minister there before the LORD your God, or to the judge, even that man shall die. And you shall remove the evil from Israel.
@@ -2334,7 +2334,7 @@ _4 verses containing PROCEEDING_
 
 * `Gen 24:50` Then Laban and Bethuel answered, and said, "The thing *_proceeds_* from the LORD. We cannot speak to you bad or good.
 * `Num 30:2` If a man vows a vow to the LORD or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that *_proceeds_* out of his mouth.
-* `Deu 8:3` And he humbled you and allowed you to be hungry, and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that *_proceeds_* out of the mouth of the LORD.
+* `Deu 8:3` And he humbled you and allowed you to be hungry and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that *_proceeds_* out of the mouth of the LORD.
 * `1Sa 24:13` As the proverb of the ancients says, 'Wickedness *_proceeds_* from the wicked.' But my hand shall not be upon you.
 * `Ezr 5:8` May it be known to the king, that we went into the province of Judea to the house of the great God, which is being built with great stones and timber is laid in the walls. And this work *_proceeds_* rapidly and prospers in their hands.
 * `Ecc 10:5` There is an evil which I have seen under the sun, as an error which *_proceeds_* from the ruler:

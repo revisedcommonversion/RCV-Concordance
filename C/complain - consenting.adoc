@@ -123,7 +123,7 @@ _3 verses containing CONANIAH_
 == CONCEAL
 
 * `Gen 37:26` And Judah said to his brothers, "What profit is it if we slay our brother and *_conceal_* his blood.
-* `Deu 13:8` You shall not consent to him, nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you *_conceal_* him.
+* `Deu 13:8` You shall not consent to him nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you *_conceal_* him.
 * `Job 27:11` I will teach you by the hand of God. That which is with the Almighty I will not *_conceal_*.
 * `Job 41:12` I will not *_conceal_* his parts, nor his power, nor his orderly proportion.
 * `Pro 25:2` It is the glory of God to *_conceal_* a thing, but the honor of kings is to search out a matter.
@@ -1450,7 +1450,7 @@ _1 verse containing CONGRATULATE_
 * `Num 32:4` Even the country which the LORD smote before the *_congregation_* of Israel, is a land for livestock, and your servants have livestock.
 * `Num 35:12` And they shall be to you cities for refuge from the avenger so that the man-slayer may not die until he stands before the *_congregation_* in judgment.
 * `Num 35:24` Then the *_congregation_* shall judge between the slayer and the avenger of blood according to these judgments.
-* `Num 35:25` And the *_congregation_* shall deliver the slayer out of the hand of the avenger of blood, and the *_congregation_* shall restore him to the city of his refuge where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy oil.
+* `Num 35:25` And the *_congregation_* shall deliver the slayer out of the hand of the avenger of blood, and the *_congregation_* shall restore him to the city of his refuge where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy oil.
 * `Deu 23:1` "He who is wounded or mutilated in his secrets shall not enter into the *_congregation_* of the LORD.
 * `Deu 23:2` An illegitimate son shall not enter into the *_congregation_* of the LORD. Even to his tenth generation he shall not enter into the *_congregation_* of the LORD.
 * `Deu 23:3` An Ammonite or Moabite shall not enter into the *_congregation_* of the LORD. Even to their tenth generation they shall not enter into the *_congregation_* of the LORD forever,
@@ -1731,7 +1731,7 @@ _3 verses containing CONSECRATIONS_
 * `Gen 34:15` But in this we will *_consent_* to you: if you will be as we are, that every male of you shall be circumcised,
 * `Gen 34:22` Only herein will the men *_consent_* to us to dwell with us to be one people: if every male among us is circumcised, as they are circumcised.
 * `Gen 34:23` Will their livestock, their substance, and every beast of theirs not be ours? Only let us *_consent_* to them, and they will dwell with us."
-* `Deu 13:8` You shall not *_consent_* to him, nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you conceal him.
+* `Deu 13:8` You shall not *_consent_* to him nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you conceal him.
 * `Jdg 11:17` Israel sent messengers to the king of Edom, saying, "Let me, I pray you, pass through your land." But the king of Edom would not listen to it. And in like manner they sent to the king of Moab, but he would not *_consent_*. And Israel stayed in Kadesh.
 * `1Sa 11:7` And he took a yoke of oxen, hewed them in pieces, and sent them throughout all the borders of Israel by the hands of messengers, saying, "Whoever does not come forth after Saul and after Samuel, this is what shall be done to his oxen." And the fear of the LORD fell on the people, and they came out with one *_consent_*.
 * `1Ki 20:8` And all the elders and all the people said to him, "Do not listen to him, nor *_consent_*."

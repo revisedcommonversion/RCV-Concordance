@@ -515,7 +515,7 @@ _37 verses containing FOLLY_
 * `Num 28:13` And a single tenth-part of flour mingled with oil for a *_food_*-offering for one lamb, for a burnt-offering of a sweet savor, a sacrifice made by fire to the LORD.
 * `Num 28:20` And their *_food_*-offering shall be of flour mingled with oil; three tenth-parts you shall offer for a bull and two tenth-parts for a ram;
 * `Num 28:24` After this manner you shall offer daily, throughout the seven days, the *_food_* of the sacrifice made by fire, a sweet savor to the LORD. It shall be offered besides the continual burnt-offering and its drink-offering.
-* `Num 28:26` 'Also in the day of the first-fruits, when you bring a new *_food_*-offering to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
+* `Num 28:26` 'Also, in the day of the first-fruits, when you bring a new *_food_*-offering to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
 * `Num 28:28` And their *_food_*-offering of flour mingled with oil—three tenth-parts to one bull, two tenth-parts to one ram,
 * `Num 28:31` You shall offer them besides the continual burnt-offering and its *_food_*-offering (they shall be to you without blemish) and their drink-offerings.'"
 * `Num 29:3` And their *_food_*-offering shall be of flour mingled with oil—three tenth-parts for a bull, two tenth-parts for a ram,
@@ -777,7 +777,7 @@ _299 verses containing FOOD_
 * `Num 28:12` Three tenth-parts of flour for a *_food-offering_*, mingled with oil, for one bull; two tenth-parts of flour for a *_food-offering_*, mingled with oil, for one ram;
 * `Num 28:13` And a single tenth-part of flour mingled with oil for a *_food-offering_* for one lamb, for a burnt-offering of a sweet savor, a sacrifice made by fire to the LORD.
 * `Num 28:20` And their *_food-offering_* shall be of flour mingled with oil; three tenth-parts you shall offer for a bull and two tenth-parts for a ram;
-* `Num 28:26` 'Also in the day of the first-fruits, when you bring a new *_food-offering_* to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
+* `Num 28:26` 'Also, in the day of the first-fruits, when you bring a new *_food-offering_* to the LORD, after your weeks have ended, you shall have a holy convocation. You shall do no servile work.
 * `Num 28:28` And their *_food-offering_* of flour mingled with oil—three tenth-parts to one bull, two tenth-parts to one ram,
 * `Num 28:31` You shall offer them besides the continual burnt-offering and its *_food-offering_* (they shall be to you without blemish) and their drink-offerings.'"
 * `Num 29:3` And their *_food-offering_* shall be of flour mingled with oil—three tenth-parts for a bull, two tenth-parts for a ram,
@@ -1585,7 +1585,7 @@ _1 verse containing FORESHIP_
 * `Gen 17:25` And Ishmael his son was thirteen years old when he was circumcised in the flesh of his *_foreskin_*.
 * `Exo 4:25` Then Zipporah took a sharp stone, cut off the *_foreskin_* of her son, and cast it at his feet, and said, "Surely a bloody husband you are to me."
 * `Lev 12:3` And on the eighth day the flesh of his *_foreskin_* shall be circumcised.
-* `Deu 10:16` Therefore, circumcise the *_foreskin_* of your heart, and be stiff-necked no longer.
+* `Deu 10:16` Therefore, circumcise the *_foreskin_* of your heart and be stiff-necked no longer.
 
 _8 verses containing FORESKIN_
 

@@ -831,7 +831,7 @@ _1 verse containing CIRCUITS_
 == CIRCUMCISE
 
 * `Gen 17:11` And you shall *_circumcise_* the flesh of your foreskin, and it shall be a token of the covenant between me and you.
-* `Deu 10:16` Therefore, *_circumcise_* the foreskin of your heart, and be stiff-necked no longer.
+* `Deu 10:16` Therefore, *_circumcise_* the foreskin of your heart and be stiff-necked no longer.
 * `Deu 30:6` "And the LORD your God will *_circumcise_* your heart and the heart of your offspring, to love the LORD your God with all your heart and with all your soul, so that you may live.
 * `Jsh 5:2` At that time the LORD said to Joshua, "Make yourself sharp knives and *_circumcise_* the children of Israel again the second time."
 * `Jer 4:4` *_Circumcise_* yourselves to the LORD and take away the foreskins of your heart, men of Judah and inhabitants of Jerusalem, lest my fury come forth like fire and burn so that none can quench it because of the evil of your doings."
@@ -1428,10 +1428,10 @@ _1 verse containing CITIZENSHIP_
 * `Num 24:19` Out of Jacob shall come he who has dominion, and shall destroy him who remains of the *_city_*."
 * `Num 35:4` "And the suburbs of the cities which you shall give to the Levites shall reach from the wall of the *_city_* and outward one thousand cubits on all sides.
 * `Num 35:5` And you shall measure from outside the *_city_* on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits, and the *_city_* shall be in the midst. This shall be to them the suburbs of the cities.
-* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the *_city_* of his refuge where he had fled. And he shall abide in it to the death of the high priest who was anointed with the holy oil.
+* `Num 35:25` And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the *_city_* of his refuge where he had fled. And he shall abide in it until the death of the high priest who was anointed with the holy oil.
 * `Num 35:26` But if the slayer at anytime comes outside the border of the *_city_* of his refuge where he had fled,
 * `Num 35:27` And the avenger of blood finds him outside the borders of the *_city_* of his refuge, and the avenger of blood kills the slayer, he shall not be guilty of blood,
-* `Num 35:28` Because he should have remained in the *_city_* of his refuge until the death of the high priest. But after the death of the high priest the slayer shall return into the land of his possession.
+* `Num 35:28` Because he should have remained in the *_city_* of his refuge until the death of the high priest. But after the death of the high priest, the slayer shall return into the land of his possession.
 * `Num 35:32` And you shall take no satisfaction for him who has fled to the *_city_* of his refuge, that he should come back to dwell in the land until the death of the priest.
 * `Deu 2:34` And we took all his cities at that time and utterly destroyed the men, the women, and the little ones of every *_city_*. We left no one to remain.
 * `Deu 2:36` From Aroer, which is by the bank of the river of Arnon, and from the *_city_* that is by the river, even to Gilead, there was not one *_city_* too strong for us. The LORD our God delivered all to us.
@@ -2312,7 +2312,7 @@ _30 verses containing CLAY_
 * `Num 19:18` And a *_clean_* person shall take hyssop, dip it in the water, and sprinkle it upon the tent, upon all the vessels, upon the persons who were there, and upon him who touched a bone, someone slain, someone dead, or a grave.
 * `Num 19:19` And the *_clean_* person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify himself, wash his clothes, bathe himself in water, and shall be *_clean_* at evening.
 * `Num 31:23` Everything that may abide in the fire, you shall make it go through the fire and it shall be *_clean_*. Nevertheless, it shall be purified with the water of separation. And all that does not abide in the fire you shall make go through the water.
-* `Num 31:24` And you shall wash your clothes on the seventh day and you shall be *_clean_*, and afterward you shall come into the camp."
+* `Num 31:24` And you shall wash your clothes on the seventh day and you shall be *_clean_*. And afterward, you shall come into the camp."
 * `Deu 12:15` "However, you may kill and eat flesh in all your gates, whatever your soul desires, according to the blessing of the LORD your God which he has given you. The unclean and the *_clean_* may eat it, as they would the gazelle or the deer.
 * `Deu 12:22` Even as the gazelle and the deer are eaten, so you shall eat them. The unclean and the *_clean_* shall eat them alike.
 * `Deu 14:11` "All *_clean_* birds you may eat.
@@ -2945,7 +2945,7 @@ _71 verses containing CLOTHED_
 * `Num 19:10` And he who gathers the ashes of the heifer shall wash his *_clothes_* and be unclean until the evening. And it shall be to the children of Israel and to the stranger who sojourns among them for a statute forever.
 * `Num 19:19` And the clean person shall sprinkle upon the unclean on the third day and on the seventh day. And on the seventh day he shall purify himself, wash his *_clothes_*, bathe himself in water, and shall be clean at evening.
 * `Num 19:21` And it shall be a perpetual statute to them, that he who sprinkles the water of separation shall wash his *_clothes_*, and he who touches the water of separation shall be unclean until the evening.
-* `Num 31:24` And you shall wash your *_clothes_* on the seventh day and you shall be clean, and afterward you shall come into the camp."
+* `Num 31:24` And you shall wash your *_clothes_* on the seventh day and you shall be clean. And afterward, you shall come into the camp."
 * `Deu 29:5` And I have led you forty years in the wilderness. Your *_clothes_* have not become old upon you, and your shoe has not become old upon your foot.
 * `Jsh 7:6` And Joshua rent his *_clothes_* and fell to the earth upon his face before the ark of the LORD until the evening—he and the elders of Israel—and put dust upon their heads.
 * `Jsh 22:8` And he spoke to them, saying, "Return with great riches to your tents, and with a very large number of livestock, with silver, with gold, with brass, with iron, and with very many *_clothes_*. Divide the plunder of your enemies with your brothers."
@@ -3135,7 +3135,7 @@ _7 verses containing CLOTHS_
 * `Num 12:10` And the *_cloud_* departed from off the tabernacle, and behold, Miriam became leprous, white as snow. And Aaron looked upon Miriam, and behold, she was leprous.
 * `Num 14:14` And they will tell it to the inhabitants of this land, for they have heard that you LORD are among this people, that you LORD are seen face to face, that your *_cloud_* stands over them, and that you go before them in a pillar of a *_cloud_* by day and in a pillar of fire by night.
 * `Num 16:42` And it came to pass when the congregation was gathered against Moses and against Aaron, that they looked toward the Tabernacle of the Congregation, and behold, the *_cloud_* covered it and the glory of the LORD appeared.
-* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go, and in a *_cloud_* by day.
+* `Deu 1:33` Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go and in a *_cloud_* by day.
 * `Deu 5:22` "These words the LORD spoke to all your assembly on the mountain from the midst of the fire, of the *_cloud_*, and of the thick darkness with a great voice, and he added no more. And he wrote them on two tablets of stone and delivered them to me.
 * `Deu 31:15` And the LORD appeared in the tabernacle in a pillar of a *_cloud_*. And the pillar of the *_cloud_* stood over the door of the tabernacle.
 * `1Ki 8:10` And it came to pass, when the priests had come out of the holy place, that the *_cloud_* filled the house of the LORD

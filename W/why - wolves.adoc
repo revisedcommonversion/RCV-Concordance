@@ -1530,7 +1530,7 @@ _1 verse containing WILD-GOAT_
 * `Deu 1:19` "And when we departed from Horeb, we went through all that great and terrible *_wilderness_*, which you saw by the way of the mountain of the Amorites, as the LORD our God commanded us, and we came to Kadesh-barnea.
 * `Deu 1:31` And in the *_wilderness_*, where you have seen how the LORD your God bore you, as a man bears his son, in all the way that you went until you came into this place.'
 * `Deu 1:40` But as for you, turn, and take your journey into the *_wilderness_* by the way of the Red Sea.'
-* `Deu 2:1` "Then we turned, and took our journey into the *_wilderness_* by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many days.
+* `Deu 2:1` "Then we turned and took our journey into the *_wilderness_* by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many days.
 * `Deu 2:7` For the LORD your God has blessed you in all the works of your hand. He knows your walking through this great *_wilderness_*. These forty years the LORD your God has been with you. You have lacked nothing."'
 * `Deu 2:8` "And when we passed by from our brothers, the children of Esau, who dwelt in Seir, through the way of the plain from Elath and from Ezion-gaber, we turned and passed by the way of the *_wilderness_* of Moab.
 * `Deu 2:26` "And I sent messengers from the *_wilderness_* of Kedemoth to Sihon king of Heshbon with words of peace, saying,
@@ -2170,8 +2170,8 @@ _2 verses containing WILES_
 * `Num 32:31` And the children of Gad and the children of Reuben answered, saying, "As the LORD has said to your servants, so we *_will_* do.
 * `Num 32:32` We *_will_* pass over armed before the LORD into the land of Canaan so that the possession of our inheritance on this side of the Jordan may be ours."
 * `Num 33:55` But if you *_will_* not drive out the inhabitants of the land from before you, then it shall come to pass, that those which you let remain of them shall be prickles in your eyes and thorns in your sides, and shall harass you in the land in which you dwell.
-* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance *_will_* be taken from the inheritance of our fathers and *_will_* be put to the inheritance of the tribe into which they are received. So it *_will_* be taken from the lot of our inheritance.
-* `Num 36:4` And when the jubilee of the children of Israel shall be, then their inheritance *_will_* be put to the inheritance of the tribe into which they are received. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
+* `Num 36:3` And if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance *_will_* be taken from the inheritance of our fathers and *_will_* be added to the inheritance of the tribe into which they are received. So it *_will_* be taken from the lot of our inheritance.
+* `Num 36:4` And when the jubilee of the children of Israel comes, then their inheritance *_will_* be added to the inheritance of the tribe into which they are received. So their inheritance shall be taken away from the inheritance of the tribe of our fathers."
 * `Deu 1:13` Take wise men of understanding, and known among your tribes, and I *_will_* make them rulers over you.'
 * `Deu 1:17` You shall not respect persons in judgment, but you shall hear the small as well as the great. You shall not be afraid of the face of man, for the judgment is God's. And the cause that is too hard for you, bring to me, and I *_will_* hear it.'
 * `Deu 1:22` "And each of you came near to me, and said, 'We *_will_* send men before us, and they shall explore the land for us and bring us word again by what way we must go up and into what cities we shall come.'
@@ -2181,7 +2181,7 @@ _2 verses containing WILES_
 * `Deu 2:4` And command the people, saying, "You are to pass through the border of your brothers, the children of Esau, who dwell in Seir, and they *_will_* be afraid of you. Therefore, take good heed to yourselves.
 * `Deu 2:5` Do not meddle with them, for I *_will_* not give you any of their land, not even so much as a foot-breadth, because I have given mount Seir to Esau for a possession.
 * `Deu 2:9` And the LORD said to me, 'Do not distress the Moabites, neither contend with them in battle, for I *_will_* not give you any of their land for a possession, because I have given Ar to the children of Lot for a possession.'
-* `Deu 2:19` And when you come near over against the children of Ammon, do not distress them, nor meddle with them, for I *_will_* not give you any possession of the land of the children of Ammon, because I have given it to the children of Lot for a possession.'
+* `Deu 2:19` And when you come near over against the children of Ammon, do not distress them nor meddle with them, for I *_will_* not give you any possession of the land of the children of Ammon, because I have given it to the children of Lot for a possession.'
 * `Deu 2:25` This day I *_will_* begin to put the dread of you and the fear of you upon the nations who are under the whole heaven, who shall hear report of you, shall tremble, and be in anguish because of you.'
 * `Deu 2:27` 'Let me pass through your land. I *_will_* go along by the highway. I *_will_* neither turn to the right hand nor to the left.
 * `Deu 3:2` And the LORD said to me, 'Do not fear him, for I *_will_* deliver him, all his people, and his land into your hand. And you shall do to him as you did to Sihon king of the Amorites, who dwelt at Heshbon.'
@@ -5556,7 +5556,7 @@ _1 verse containing WINDY_
 * `Deu 11:14` That I will give you the rain of your land in its due season, the former rain and the latter rain, so that you may gather in your grain, your *_wine_*, and your oil.
 * `Deu 12:17` You may not eat within your gates the tithe of your grain, of your *_wine_*, of your oil, or the first-born of your herds or of your flock, nor any of your vows which you vow, nor your voluntary-offerings, or heave-offering of your hand.
 * `Deu 14:23` And you shall eat before the LORD your God, in the place which he chooses to place his name, the tithe of your grain, of your *_wine_*, of your oil, and the first-born of your herds and of your flocks, so that you may learn to fear the LORD your God always.
-* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for *_wine_*, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your God, and you shall rejoice—you, and your household.
+* `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for *_wine_*, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your God, and you shall rejoice—you and your household.
 * `Deu 15:14` You shall furnish him liberally out of your flock, out of your floor, and out of your *_wine_*-press. From that with which the LORD your God has blessed you, you shall give to him.
 * `Deu 16:13` "You shall observe the feast of tabernacles seven days after you have gathered in your grain and your *_wine_*.
 * `Deu 18:4` Also the first-fruit of your grain, of your *_wine_*, and of your oil, and the first of the fleece of your sheep, you shall give him.
