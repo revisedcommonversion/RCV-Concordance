@@ -645,7 +645,7 @@ _1 verse containing SKIPPING_
 
 == SKIRT
 
-* `Deu 22:30` "A man shall not take his father's wife, nor discover his father's *_skirt_*."
+* `Deu 22:30` "A man shall not take his father's wife nor discover his father's *_skirt_*."
 * `Deu 27:20` 'Cursed is he who lies with his father's wife, because he uncovers his father's *_skirt_*.' And all the people shall say, 'Amen.'
 * `Rth 3:9` And he said, "Who are you?" And she answered, "I am Ruth your servant. Therefore, spread your *_skirt_* over your servant, for you are a near kinsman."
 * `1Sa 15:27` And as Samuel turned around to depart, Saul laid hold upon the *_skirt_* of his mantle and it rent.
@@ -1204,7 +1204,7 @@ _5 verses containing SLAYS_
 * `Gen 28:16` And Jacob awoke out of his *_sleep_* and he said, "Surely the LORD is in this place, and I did not know it."
 * `Gen 31:40` Thus I was: in the day the drought consumed me, and the frost by night, and my *_sleep_* departed from my eyes.
 * `Exo 22:27` For that is his only covering, it is his clothing for his skin. Wherein shall he *_sleep_*? And it shall come to pass, when he cries to me, that I will hear, for I am gracious.
-* `Deu 24:12` And if the man is poor, you shall not *_sleep_* with his pledge.
+* `Deu 24:12` And if the man is poor, you shall not go to *_sleep_* with his pledge.
 * `Deu 24:13` In any case, you shall return the pledge to him when the sun goes down, so that he may *_sleep_* in his own clothing and bless you. And it shall be righteousness for you before the LORD your God.
 * `Deu 31:16` And the LORD said to Moses, "Behold, you shall *_sleep_* with your fathers, and this people will rise up and commit idolatry with the gods of the strangers of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
 * `Jdg 16:14` And she fastened it with the pin, and said to him, "The Philistines are upon you, Samson." And he awoke out of his *_sleep_* and went away with the pin of the beam and with the web.
@@ -1922,7 +1922,7 @@ _2 verses containing SMELLS_
 * `Num 25:17` "Distress the Midianites and *_smite_* them.
 * `Deu 7:2` And when the LORD your God delivers them before you, you shall *_smite_* them and utterly destroy them. You shall make no covenant with them nor show mercy to them.
 * `Deu 13:15` You shall surely *_smite_* the inhabitants of that city with the edge of the sword, utterly destroying it and all that is in it and its livestock with the edge of the sword.
-* `Deu 20:13` And when the LORD your God has delivered it into your hands, you shall *_smite_* every male of it with the edge of the sword,
+* `Deu 20:13` And when the LORD your God has delivered it into your hands, you shall *_smite_* every male in it with the edge of the sword,
 * `Deu 28:22` The LORD shall *_smite_* you with a consumption, with a fever, with an inflammation, with an extreme burning, with the sword, with blight, and with mildew. And they shall pursue you until you perish.
 * `Deu 28:27` "The LORD will *_smite_* you with the boil of Egypt, with the emerods, with the scab, and with the itch, of which you cannot be healed.
 * `Deu 28:28` The LORD shall *_smite_* you with the madness, blindness, and astonishment of heart.

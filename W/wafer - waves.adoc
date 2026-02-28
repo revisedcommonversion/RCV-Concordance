@@ -372,7 +372,7 @@ _1 verse containing WAKING_
 * `Deu 11:22` For if you diligently keep all these commandments which I command you, to do them, to love the LORD your God, to *_walk_* in all his ways, and to cleave to him,
 * `Deu 13:4` You shall *_walk_* after the LORD your God, fear him, keep his commandments, obey his voice, serve him, and cleave to him.
 * `Deu 13:5` And that prophet or that dreamer of dreams shall be put to death, because he has spoken to turn you away from the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of bondage, and to thrust you out of the way which the LORD your God commanded you to *_walk_* in. Thus you shall remove the evil from the midst of you.
-* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to *_walk_* ever in his ways, then you shall add three cities more for yourself, besides these three,
+* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to always *_walk_* in his ways, then you shall add three cities more for yourself, besides these three,
 * `Deu 26:17` You have avouched the LORD this day to be your God, and to *_walk_* in his ways, and to keep his statutes, his commandments, and his judgments, and to listen to his voice.
 * `Deu 28:9` The LORD shall establish you a holy people to himself, as he has sworn to you, if you keep the commandments of the LORD your God and *_walk_* in his ways.
 * `Deu 29:19` And it should come to pass, when he hears the words of this curse, that he should bless himself in his heart, saying, 'I shall have peace, though I *_walk_* in the imagination of my heart,' to sweep away the moist with the dry.
@@ -1188,7 +1188,7 @@ _2 verses containing WANTS_
 * `Deu 20:12` And if it will make no peace with you, but will make *_war_* against you, then you shall besiege it.
 * `Deu 20:19` "When you besiege a city a long time, in making *_war_* against it to take it, you shall not destroy its trees by forcing an ax against them. You may eat from them, but you shall not cut them down (for the tree of the field is man's life) to employ them in the siege.
 * `Deu 20:20` Only the trees which you know that are not trees for food you shall destroy and cut down. And you shall build bulwarks against the city that makes *_war_* with you until it is subdued."
-* `Deu 21:10` "When you go forth to *_war_* against your enemies, and the LORD your God has delivered them into your hands and you have taken them captive,
+* `Deu 21:10` "When you go forth to *_war_* against your enemies, and the LORD your God has delivered them into your hands, and you have taken them captive,
 * `Deu 24:5` "When a man has newly taken a wife, he shall not go out to *_war_*, neither shall he be charged with any business, but he shall be free at home one year and shall cheer his wife which he has taken.
 * `Jsh 4:13` About forty thousand prepared for *_war_* passed over before the LORD to battle, to the plains of Jericho.
 * `Jsh 5:4` And this is the cause why Joshua circumcised [them]: All the people who came out of Egypt, who were males, even all the men of *_war_* died in the wilderness by the way, after they came out of Egypt.
@@ -1624,7 +1624,7 @@ _14 verses containing WARS_
 * `Num 19:21` And it shall be a perpetual statute to them, that he who sprinkles the water of separation shall *_wash_* his clothes, and he who touches the water of separation shall be unclean until the evening.
 * `Num 31:24` And you shall *_wash_* your clothes on the seventh day and you shall be clean. And afterward, you shall come into the camp."
 * `Deu 21:6` And all the elders of that city who are next to the slain man shall *_wash_* their hands over the heifer that is beheaded in the valley.
-* `Deu 23:11` But it shall be, when evening comes near, he shall *_wash_* himself with water, and when the sun is down, he shall come into the camp again.
+* `Deu 23:11` But it shall be when evening comes near, that he shall *_wash_* himself with water, and when the sun is down, he shall come into the camp again.
 * `Rth 3:3` Therefore, *_wash_* yourself, anoint yourself, put your clothing upon yourself, and go down to the floor, but do not make yourself known to the man until he has finished eating and drinking.
 * `1Sa 25:41` And she arose and bowed herself on her face to the earth and said, "Behold, let your servant be a servant to *_wash_* the feet of the servants of my lord."
 * `2Sa 11:8` And David said to Uriah, "Go down to your house and *_wash_* your feet." And Uriah departed out of the king's house, and a gift from the king followed him.
@@ -2209,8 +2209,8 @@ _12 verses containing WATCHMEN_
 * `Deu 12:16` Only you shall not eat the blood. You shall pour it upon the earth as *_water_*.
 * `Deu 12:24` You shall not eat it. You shall pour it upon the earth as *_water_*.
 * `Deu 15:23` Only you shall not eat its blood. You shall pour it upon the ground like *_water_*."
-* `Deu 23:4` Because they did not meet you with bread and with *_water_* in the way when you came forth from Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia to curse you.
-* `Deu 23:11` But it shall be, when evening comes near, he shall wash himself with *_water_*, and when the sun is down, he shall come into the camp again.
+* `Deu 23:4` Because they did not meet you with bread and with *_water_* on the way when you came forth from Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia to curse you.
+* `Deu 23:11` But it shall be when evening comes near, that he shall wash himself with *_water_*, and when the sun is down, he shall come into the camp again.
 * `Deu 29:11` Your little ones, your wives, and your stranger who is in your camp, from the hewer of your wood to the drawer of your *_water_*—
 * `Jsh 2:10` For we have heard how the LORD dried up the *_water_* of the Red Sea for you when you came out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the Jordan, Sihon and Og, whom you utterly destroyed.
 * `Jsh 3:8` And you shall command the priests who bear the ark of the covenant, saying, 'When you come to the edge of the *_water_* of the Jordan, you shall stand still in the Jordan.'"

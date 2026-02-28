@@ -160,7 +160,7 @@
 * `Deu 16:6` But at the *_place_* which the LORD your God chooses to *_place_* his name in, there you shall sacrifice the passover at evening, at the setting of the sun, at the time of your departure from Egypt.
 * `Deu 16:7` And you shall roast and eat it in the *_place_* which the LORD your God chooses. And you shall turn in the morning and go to your tents.
 * `Deu 16:11` And you shall rejoice before the LORD your God—you, your son, your daughter, your man-servant, your woman-servant, the Levite who is within your gates, the stranger, the fatherless, and the widow who are among you—in the *_place_* which the LORD your God has chosen to *_place_* his name there.
-* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your God in the *_place_* which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands; therefore, you shall surely rejoice.
+* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your God in the *_place_* which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands, and you shall surely rejoice.
 * `Deu 16:16` "Three times in a year all your males shall appear before the LORD your God in the *_place_* which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of tabernacles. And they shall not appear before the LORD empty.
 * `Deu 17:8` "If there arises a matter too hard for you in judgment between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise and go up to the *_place_* which the LORD your God chooses.
 * `Deu 17:10` And you shall do according to the sentence, which those of that *_place_* which the LORD chooses shall show you. And you shall observe to do according to all that they inform you.
@@ -1269,7 +1269,7 @@ _1 verse containing PLANTATION_
 * `Gen 21:33` And Abraham *_planted_* a grove in Beer-sheba and there called on the name of the LORD, the Everlasting God.
 * `Lev 19:23` 'And when you come into the land and have *_planted_* all manner of trees for food, then you shall count its fruit as uncircumcised. Three years it shall be as uncircumcised to you. It shall not be eaten.
 * `Num 24:6` Like the valleys they are spread forth, like gardens by the river's side, like the trees of lign-aloes which the LORD has *_planted_*, and like cedar-trees beside the waters.
-* `Deu 20:6` And what man is he who has *_planted_* a vineyard and has not yet eaten of it? Let him also go and return to his house, lest he should die in the battle and another man should eat of it.
+* `Deu 20:6` And what man is he who has *_planted_* a vineyard and has not yet eaten any of it? Let him also go and return to his house, lest he should die in the battle and another man should make use of it.
 * `Psa 1:3` And he shall be like a tree *_planted_* by the rivers of water that brings forth its fruit in season, and its leaf shall not wither. And whatever he does shall prosper.
 * `Psa 44:2` How you drove out the heathen with your hand and *_planted_* them, how you afflicted the people and cast them out.
 * `Psa 80:8` You have brought a vine out of Egypt. You have cast out the heathen and *_planted_* it.
@@ -1876,9 +1876,9 @@ _8 verses containing PLEASURES_
 * `Deu 24:6` "No man shall take the nether or the upper millstone for a *_pledge_*, for he takes a man's life for a *_pledge_*.
 * `Deu 24:10` "When you lend your brother anything, you shall not go into his house to take his *_pledge_*.
 * `Deu 24:11` You shall stand abroad, and the man to whom you lend shall bring out the *_pledge_* abroad to you.
-* `Deu 24:12` And if the man is poor, you shall not sleep with his *_pledge_*.
+* `Deu 24:12` And if the man is poor, you shall not go to sleep with his *_pledge_*.
 * `Deu 24:13` In any case, you shall return the *_pledge_* to him when the sun goes down, so that he may sleep in his own clothing and bless you. And it shall be righteousness for you before the LORD your God.
-* `Deu 24:17` "You shall not pervert the judgment of the stranger, nor of the fatherless, nor take a widow's clothing for a *_pledge_*.
+* `Deu 24:17` "You shall not pervert the judgment of the stranger nor of the fatherless, nor take a widow's clothing for a *_pledge_*.
 * `1Sa 17:18` And carry these ten cheeses to the captain of their thousand. See how your brothers fare and take their *_pledge_*."
 * `Job 17:3` Give now a *_pledge_* and put me in a surety with you. Who is he who will strike hands with me?
 * `Job 22:6` For you have taken a *_pledge_* from your brother for nothing and stripped the naked of their clothing.

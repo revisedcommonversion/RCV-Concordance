@@ -333,7 +333,7 @@
 * `Deu 19:15` "One witness shall not rise up against a *_man_* for any iniquity or for any sin, in any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, the matter shall be established.
 * `Deu 19:16` If a false witness rises up against any *_man_* to testify against him that which is wrong,
 * `Deu 20:5` And the officers shall speak to the people, saying, 'What *_man_* is there who has built a new house and has not dedicated it? Let him go and return to his house, lest he should die in the battle and another *_man_* should dedicate it.
-* `Deu 20:6` And what *_man_* is he who has planted a vineyard and has not yet eaten of it? Let him also go and return to his house, lest he should die in the battle and another *_man_* should eat of it.
+* `Deu 20:6` And what *_man_* is he who has planted a vineyard and has not yet eaten any of it? Let him also go and return to his house, lest he should die in the battle and another *_man_* should make use of it.
 * `Deu 20:7` And what *_man_* is there who has betrothed a wife and has not taken her? Let him go and return to his house, lest he should die in battle and another *_man_* should take her.'
 * `Deu 20:8` And the officers shall speak further to the people, and they shall say, 'What *_man_* is there who is fearful and faint-hearted? Let him go and return to his house, lest his brothers' hearts should faint as well as his heart.'
 * `Deu 20:19` "When you besiege a city a long time, in making war against it to take it, you shall not destroy its trees by forcing an ax against them. You may eat from them, but you shall not cut them down (for the tree of the field is *_man_*'s life) to employ them in the siege.
@@ -354,7 +354,7 @@
 * `Deu 22:26` But to the young woman you shall do nothing. There is in the young woman no sin worthy of death. For as when a *_man_* rises against his neighbor and slays him, even so is this matter.
 * `Deu 22:28` "If a *_man_* finds a young woman who is a virgin, who is not betrothed, and lays hold upon her and lies with her, and they are found,
 * `Deu 22:29` Then the *_man_* who lay with her shall give to the young woman's father fifty shekels of silver, and she shall be his wife. Because he has humbled her, he may not put her away all his days.
-* `Deu 22:30` "A *_man_* shall not take his father's wife, nor discover his father's skirt."
+* `Deu 22:30` "A *_man_* shall not take his father's wife nor discover his father's skirt."
 * `Deu 23:10` "If there is among you any *_man_* who is not clean by reason of uncleanness that happens to him by night, then he shall go abroad out of the camp. He shall not come within the camp.
 * `Deu 24:1` "When a *_man_* has taken a wife and married her, and it comes to pass that she finds no favor in his eyes because he has found some uncleanness in her, let him write her a bill of divorcement, give it in her hand, and send her out of his house.
 * `Deu 24:2` And when she has departed from his house, she may go and be another *_man_*'s wife.
@@ -362,7 +362,7 @@
 * `Deu 24:6` "No *_man_* shall take the nether or the upper millstone for a pledge, for he takes a *_man_*'s life for a pledge.
 * `Deu 24:7` "If a *_man_* is found stealing any of his brothers of the children of Israel and makes merchandise of him or sells him, then that thief shall die, and you shall remove evil from among you.
 * `Deu 24:11` You shall stand abroad, and the *_man_* to whom you lend shall bring out the pledge abroad to you.
-* `Deu 24:12` And if the *_man_* is poor, you shall not sleep with his pledge.
+* `Deu 24:12` And if the *_man_* is poor, you shall not go to sleep with his pledge.
 * `Deu 24:16` "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers. Every *_man_* shall be put to death for his own sin.
 * `Deu 25:2` And it shall be, if the wicked *_man_* is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his fault, by a certain number.
 * `Deu 25:7` And if the *_man_* does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders, and say, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
@@ -4915,12 +4915,12 @@ _1 verse containing MAUL_
 * `Deu 19:13` Your eye shall not pity him, but you shall remove the guilt of innocent blood from Israel, so that it *_may_* be well with you.
 * `Deu 20:18` So that they *_may_* not teach you to do after all their abominations which they have done to their gods, and you sin against the LORD your God.
 * `Deu 20:19` "When you besiege a city a long time, in making war against it to take it, you shall not destroy its trees by forcing an ax against them. You *_may_* eat from them, but you shall not cut them down (for the tree of the field is man's life) to employ them in the siege.
-* `Deu 21:16` Then it shall be, when he makes his sons inherit that which he has, that he *_may_* not prefer the son of the beloved first-born before the son of the hated, which is indeed the first-born,
+* `Deu 21:16` Then it shall be, when he makes his sons inherit that which he has, that he *_may_* not make the son of the beloved the first-born over the son of the hated, who is indeed the first-born,
 * `Deu 21:21` And all the men of his city shall stone him with stones so that he *_may_* die. Thus you shall remove evil from among you, and all Israel shall hear and fear.
 * `Deu 22:3` Thus you shall do with his donkey and likewise with his clothing, and you shall do the same with all lost things of your brother's which he has lost and you have found. You *_may_* not hide yourself.
 * `Deu 22:7` But you shall surely let the mother go and take the young to you, so that it *_may_* be well with you and that you *_may_* prolong your days.
 * `Deu 22:8` "When you build a new house, you shall make a parapet for your roof so that you *_may_* not bring blood upon your house if any man falls from there.
-* `Deu 22:19` And they shall amerce him one hundred shekels of silver, and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his wife. He *_may_* not put her away all his days.
+* `Deu 22:19` And they shall amerce him one hundred shekels of silver and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his wife. He *_may_* not put her away all his days.
 * `Deu 22:21` Then they shall bring out the young woman to the door of her father's house, and the men of her city shall stone her with stones so that she *_may_* die, because she has wrought folly in Israel by being guilty of lewdness in her father's house. Thus you shall remove evil from among you.
 * `Deu 22:24` Then you shall bring them both out to the gate of that city and stone them with stones so that they *_may_* die—the young woman because she did not cry, though she was in the city, and the man because he has humbled his neighbor's wife. Thus you shall remove evil from among you.
 * `Deu 22:29` Then the man who lay with her shall give to the young woman's father fifty shekels of silver, and she shall be his wife. Because he has humbled her, he *_may_* not put her away all his days.

@@ -694,7 +694,7 @@ _1 verse containing REJECTS_
 * `Deu 14:26` And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your God, and you shall *_rejoice_*—you and your household.
 * `Deu 16:11` And you shall *_rejoice_* before the LORD your God—you, your son, your daughter, your man-servant, your woman-servant, the Levite who is within your gates, the stranger, the fatherless, and the widow who are among you—in the place which the LORD your God has chosen to place his name there.
 * `Deu 16:14` And you shall *_rejoice_* in your feast—you, your son, your daughter, your man-servant, your woman-servant, the Levite, the stranger, the fatherless, and the widow who are within your gates.
-* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your God in the place which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands; therefore, you shall surely *_rejoice_*.
+* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your God in the place which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands, and you shall surely *_rejoice_*.
 * `Deu 26:11` And you shall *_rejoice_* in every good thing which the LORD your God has given to you and to your house—you, the Levite, and the stranger who is among you.
 * `Deu 27:7` And you shall offer peace-offerings, and shall eat there and *_rejoice_* before the LORD your God.
 * `Deu 28:63` And it shall come to pass, that as the LORD rejoiced over you to do you good and to multiply you, so the LORD will *_rejoice_* over you to destroy you and to bring you to nothing. And you shall be plucked from off the land where you go to possess it.
@@ -1150,7 +1150,7 @@ _2 verses containing RELY_
 * `Deu 2:34` And we took all his cities at that time and utterly destroyed the men, the women, and the little ones of every city. We left no one to *_remain_*.
 * `Deu 16:4` And there shall be no leavened bread seen with you in all your borders for seven days, neither shall there anything of the flesh, which you sacrificed the first day at evening, *_remain_* all night until the morning.
 * `Deu 19:20` And those who *_remain_* shall hear and fear, and shall no more from now on commit any such evil among you.
-* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall *_remain_* in your house and bewail her father and her mother a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
+* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall *_remain_* in your house and bewail her father and her mother for a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
 * `Deu 21:23` His body shall not *_remain_* all night upon the tree, but you shall surely bury him that day (for he who is hanged is accursed of God) You shall not defile your land that the LORD your God gives you for an inheritance."
 * `Jsh 1:14` Your wives, your little ones, and your livestock shall *_remain_* in the land which Moses gave you on this side of the Jordan, but you shall pass before your brothers armed, all the mighty men of valor, and help them
 * `Jsh 2:11` And as soon as we had heard these things, our hearts melted, neither did there *_remain_* any more courage in any man, because of you, for the LORD your God, he is God in heaven above and in earth beneath.
@@ -1430,7 +1430,7 @@ _3 verses containing REMEDY_
 * `Deu 15:15` And you shall *_remember_* that you were a slave in the land of Egypt, and the LORD your God redeemed you. Therefore, I command you this thing this day.
 * `Deu 16:3` You shall eat no leavened bread with it. Seven days you shall eat unleavened bread with it, even the bread of affliction, for you came forth from the land of Egypt in haste, so that you may *_remember_* the day when you came forth from the land of Egypt all the days of your life.
 * `Deu 16:12` And you shall *_remember_* that you were a slave in Egypt. And you shall observe and do these statutes.
-* `Deu 24:9` *_Remember_* what the LORD your God did to Miriam by the way after you came forth from Egypt.
+* `Deu 24:9` *_Remember_* what the LORD your God did to Miriam on the way after you came forth from Egypt.
 * `Deu 24:18` But you shall *_remember_* that you were a slave in Egypt, and the LORD your God redeemed you from there. Therefore, I command you to do this thing.
 * `Deu 24:22` And you shall *_remember_* that you were a slave in the land of Egypt. Therefore, I command you to do this thing."
 * `Deu 25:17` "*_Remember_* what Amalek did to you by the way when you had come forth from Egypt,

@@ -249,7 +249,7 @@ _1 verse containing MONSTERS_
 * `Num 33:38` And Aaron the priest ascended mount Hor at the commandment of the LORD and died there, in the fortieth year after the children of Israel departed from the land of Egypt, on the first day of the fifth *_month_*.
 * `Deu 1:3` And it came to pass in the fortieth year, in the eleventh *_month_*, on the first day of the *_month_*, that Moses spoke to the children of Israel according to all that the LORD had given him in commandment to them,
 * `Deu 16:1` "Observe the *_month_* Abib, and keep the passover to the LORD your God. For in the *_month_* of Abib the LORD your God brought you forth from Egypt by night.
-* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother a full *_month_*. And after that, you shall go in to her and be her husband, and she shall be your wife.
+* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother for a full *_month_*. And after that, you shall go in to her and be her husband, and she shall be your wife.
 * `Jsh 4:19` And the people came up out of the Jordan on the tenth day of the first *_month_* and encamped in Gilgal, in the east border of Jericho.
 * `Jsh 5:10` And the children of Israel encamped in Gilgal and kept the passover on the fourteenth day of the *_month_* at evening in the plains of Jericho.
 * `1Sa 20:27` And it came to pass on the next day, which was the second day of the *_month_*, that David's place was empty. And Saul said to Jonathan his son, "Why does the son of Jesse not come to eat, neither yesterday, nor today?"
@@ -638,7 +638,7 @@ _52 verses containing MORDECAI_
 * `Deu 5:22` "These words the LORD spoke to all your assembly on the mountain from the midst of the fire, of the cloud, and of the thick darkness with a great voice, and he added no *_more_*. And he wrote them on two tablets of stone and delivered them to me.
 * `Deu 7:7` "The LORD did not set his love upon you nor choose you because you were *_more_* in number than any people, for you were the fewest of all people.
 * `Deu 7:17` "If you say in your heart, 'These nations are *_more_* than I. How can I dispossess them?'
-* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to walk ever in his ways, then you shall add three cities *_more_* for yourself, besides these three,
+* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to always walk in his ways, then you shall add three cities *_more_* for yourself, besides these three,
 * `Deu 19:20` And those who remain shall hear and fear, and shall no *_more_* from now on commit any such evil among you.
 * `Deu 20:1` "When you go out to battle against your enemies and see horses, chariots, and a people *_more_* than you, do not be afraid of them, for the LORD your God is with you, who brought you out of the land of Egypt.
 * `Deu 25:3` Forty stripes he may give him, but no *_more_*. Otherwise, if he should continue and beat him with many *_more_* stripes than these, then your brother would be dishonored in your eyes.
@@ -2545,7 +2545,7 @@ _2 verses containing MOTH-EATEN_
 * `Deu 5:16` 'Honor your father and your *_mother_*, as the LORD your God has commanded you, so that your days may be prolonged and that it may be well with you in the land which the LORD your God gives you.
 * `Deu 13:6` "If your brother, the son of your *_mother_*, your son, your daughter, the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, 'Let us go and serve other gods,' which you have not known—you, nor your fathers—
 * `Deu 14:21` "You shall not eat anything that dies of itself. You shall give it to the stranger who is in your gates so that he may eat it, or you may sell it to a foreigner, for you are a holy people to the LORD your God. You shall not boil a kid in his *_mother_*'s milk.
-* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her *_mother_* a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
+* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her *_mother_* for a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
 * `Deu 21:18` "If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his *_mother_*, and who, when they have chastened him, will not listen to them,
 * `Deu 21:19` Then his father and his *_mother_* shall lay hold upon him and bring him out to the elders of his city and to the gate of his place.
 * `Deu 22:6` "If a bird's nest happens to be before you in the way on any tree or on the ground, whether with young ones or eggs, and the *_mother_* sitting upon the young or upon the eggs, you shall not take the *_mother_* with the young.
@@ -3606,7 +3606,7 @@ _2 verses containing MOUSE_
 * `Deu 8:3` And he humbled you and allowed you to be hungry and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that proceeds out of the *_mouth_* of the LORD.
 * `Deu 11:6` And what he did to Dathan and Abiram, the sons of Eliab, the son of Reuben, how the earth opened her *_mouth_*, and swallowed them up, along with their households, their tents, and all the substance that was in their possession, in the midst of all Israel.
 * `Deu 17:6` At the *_mouth_* of two witnesses or three witnesses, he who is worthy of death shall be put to death, but at the *_mouth_* of one witness he shall not be put to death.
-* `Deu 18:18` I will raise up to them a prophet like you from among their brothers and will put my words in his *_mouth_*. And he shall speak to them all that I shall command him.
+* `Deu 18:18` I will raise up to them a Prophet like you from among their brothers and will put my words in his *_mouth_*. And he shall speak to them all that I shall command him.
 * `Deu 19:15` "One witness shall not rise up against a man for any iniquity or for any sin, in any sin that he sins. At the *_mouth_* of two witnesses, or at the *_mouth_* of three witnesses, the matter shall be established.
 * `Deu 23:23` That which is uttered by your lips you shall keep and perform, even a voluntary-offering, according as you have vowed to the LORD your God, which you have promised with your *_mouth_*.
 * `Deu 30:14` But the word is very near to you, in your *_mouth_* and in your heart, so that you may do it.

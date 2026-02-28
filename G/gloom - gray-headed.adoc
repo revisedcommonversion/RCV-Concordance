@@ -956,11 +956,11 @@ _1 verse containing GNAWED_
 * `Deu 19:21` And your eye shall not pity. But life shall *_go_* for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
 * `Deu 20:1` "When you *_go_* out to battle against your enemies and see horses, chariots, and a people more than you, do not be afraid of them, for the LORD your God is with you, who brought you out of the land of Egypt.
 * `Deu 20:5` And the officers shall speak to the people, saying, 'What man is there who has built a new house and has not dedicated it? Let him *_go_* and return to his house, lest he should die in the battle and another man should dedicate it.
-* `Deu 20:6` And what man is he who has planted a vineyard and has not yet eaten of it? Let him also *_go_* and return to his house, lest he should die in the battle and another man should eat of it.
+* `Deu 20:6` And what man is he who has planted a vineyard and has not yet eaten any of it? Let him also *_go_* and return to his house, lest he should die in the battle and another man should make use of it.
 * `Deu 20:7` And what man is there who has betrothed a wife and has not taken her? Let him *_go_* and return to his house, lest he should die in battle and another man should take her.'
 * `Deu 20:8` And the officers shall speak further to the people, and they shall say, 'What man is there who is fearful and faint-hearted? Let him *_go_* and return to his house, lest his brothers' hearts should faint as well as his heart.'
-* `Deu 21:10` "When you *_go_* forth to war against your enemies, and the LORD your God has delivered them into your hands and you have taken them captive,
-* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother a full month. And after that, you shall *_go_* in to her and be her husband, and she shall be your wife.
+* `Deu 21:10` "When you *_go_* forth to war against your enemies, and the LORD your God has delivered them into your hands, and you have taken them captive,
+* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother for a full month. And after that, you shall *_go_* in to her and be her husband, and she shall be your wife.
 * `Deu 21:14` And it shall be, if you have no delight in her, then you shall let her *_go_* where she wishes. But you shall not sell her at all for money and you shall not make merchandise of her, because you have humbled her.
 * `Deu 22:1` "You shall not see your brother's ox or his sheep *_go_* astray and hide yourself from them. You shall in any case bring them back to your brother.
 * `Deu 22:7` But you shall surely let the mother *_go_* and take the young to you, so that it may be well with you and that you may prolong your days.
@@ -970,6 +970,7 @@ _1 verse containing GNAWED_
 * `Deu 24:2` And when she has departed from his house, she may *_go_* and be another man's wife.
 * `Deu 24:5` "When a man has newly taken a wife, he shall not *_go_* out to war, neither shall he be charged with any business, but he shall be free at home one year and shall cheer his wife which he has taken.
 * `Deu 24:10` "When you lend your brother anything, you shall not *_go_* into his house to take his pledge.
+* `Deu 24:12` And if the man is poor, you shall not *_go_* to sleep with his pledge.
 * `Deu 24:15` At his day you shall give him his hire, neither shall the sun *_go_* down upon it, for he is poor and sets his heart upon it, lest he should cry against you to the LORD and it be sin to you.
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not *_go_* back to fetch it. It shall be for the stranger, for the fatherless, and for the widow, so that the LORD your God may bless you in all the work of your hands.
 * `Deu 24:20` When you beat your olive-tree, you shall not *_go_* over the boughs again. It shall be for the stranger, for the fatherless, and for the widow.
@@ -2027,7 +2028,7 @@ _1 verse containing GNAWED_
 * `Rev 17:8` The beast that you saw, it was and is no more. And it shall ascend out of the bottomless pit and *_go_* into perdition. And those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, is no more, and yet is.
 * `Rev 20:8` And shall *_go_* out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them to battle—the number of whom is as the sand of the sea.
 
-_1390 verses containing GO_
+_1391 verses containing GO_
 
 == GOADS
 
@@ -2751,7 +2752,7 @@ _1 verse containing GOBLET_
 * `Deu 16:8` Six days you shall eat unleavened bread, and on the seventh day shall be a solemn assembly to the LORD your *_God_*. In it you shall do no work.
 * `Deu 16:10` And you shall keep the feast of weeks to the LORD your *_God_* with a tribute of a voluntary-offering of your hand, which you shall give to the LORD your *_God_*, according as the LORD your *_God_* has blessed you.
 * `Deu 16:11` And you shall rejoice before the LORD your *_God_*—you, your son, your daughter, your man-servant, your woman-servant, the Levite who is within your gates, the stranger, the fatherless, and the widow who are among you—in the place which the LORD your *_God_* has chosen to place his name there.
-* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your *_God_* in the place which the LORD chooses, because the LORD your *_God_* shall bless you in all your increase and in all the works of your hands; therefore, you shall surely rejoice.
+* `Deu 16:15` Seven days you shall keep a solemn feast to the LORD your *_God_* in the place which the LORD chooses, because the LORD your *_God_* shall bless you in all your increase and in all the works of your hands, and you shall surely rejoice.
 * `Deu 16:16` "Three times in a year all your males shall appear before the LORD your *_God_* in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of tabernacles. And they shall not appear before the LORD empty.
 * `Deu 16:17` Every man shall give as he is able, according to the blessing of the LORD your *_God_* which he has given you.
 * `Deu 16:18` "You shall make judges and officers for yourself throughout your tribes in all your gates which the LORD your *_God_* gives you. And they shall judge the people with just judgment.
@@ -2762,7 +2763,7 @@ _1 verse containing GOBLET_
 * `Deu 17:2` "If there is found among you, within any of your gates which the LORD your *_God_* gives you, a man or woman who has wrought wickedness in the sight of the LORD your *_God_*, in transgressing his covenant,
 * `Deu 17:8` "If there arises a matter too hard for you in judgment between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise and go up to the place which the LORD your *_God_* chooses.
 * `Deu 17:12` And the man who will do presumptuously and will not listen to the priest who stands to minister there before the LORD your *_God_*, or to the judge, even that man shall die. And you shall remove the evil from Israel.
-* `Deu 17:14` "When you come into the land which the LORD your *_God_* gives you and possess it and dwell in it, and say, 'I will set a king over me like all the nations who are around me,'
+* `Deu 17:14` "When you come into the land which the LORD your *_God_* gives you and possess it and dwell in it and say, 'I will set a king over me like all the nations who are around me,'
 * `Deu 17:15` You shall surely set him king over you whom the LORD your *_God_* chooses. One from among your brothers you shall set king over you. You may not set a stranger over you who is not your brother.
 * `Deu 17:19` And it shall be with him, and he shall read in it all the days of his life so that he may learn to fear the LORD his *_God_*, to keep all the words of this law and these statutes, and to do them.
 * `Deu 18:5` For the LORD your *_God_* has chosen him out of all your tribes to stand to minister in the name of the LORD—him and his sons forever.
@@ -2777,19 +2778,19 @@ _1 verse containing GOBLET_
 * `Deu 19:2` You shall separate three cities for yourself in the midst of your land which the LORD your *_God_* gives you to possess it.
 * `Deu 19:3` You shall prepare yourself a way and divide into three parts the limits of your land which the LORD your *_God_* gives you to inherit so that every slayer may flee there.
 * `Deu 19:8` "And if the LORD your *_God_* enlarges your limits, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers,
-* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your *_God_* and to walk ever in his ways, then you shall add three cities more for yourself, besides these three,
+* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your *_God_* and to always walk in his ways, then you shall add three cities more for yourself, besides these three,
 * `Deu 19:10` So that innocent blood may not be shed in your land, which the LORD your *_God_* gives you for an inheritance, and thus blood be upon you.
 * `Deu 19:14` "You shall not remove your neighbor's landmark, which they of old time have set in your inheritance, which you shall inherit in the land that the LORD your *_God_* gives you to possess it.
 * `Deu 20:1` "When you go out to battle against your enemies and see horses, chariots, and a people more than you, do not be afraid of them, for the LORD your *_God_* is with you, who brought you out of the land of Egypt.
 * `Deu 20:4` For the LORD your *_God_* is he who goes with you to fight for you against your enemies to save you.'
-* `Deu 20:13` And when the LORD your *_God_* has delivered it into your hands, you shall smite every male of it with the edge of the sword,
+* `Deu 20:13` And when the LORD your *_God_* has delivered it into your hands, you shall smite every male in it with the edge of the sword,
 * `Deu 20:14` But the women, the little ones, the livestock, and all that is in the city, even all its plunder, you shall take for yourself. And you shall eat the plunder of your enemies which the LORD your *_God_* has given you.
 * `Deu 20:16` But of the cities of these people which the LORD your *_God_* gives you for an inheritance, you shall save alive nothing that breathes,
 * `Deu 20:17` But you shall utterly destroy them, namely, the Hittites, the Amorites, Canaanites, the Perizzites, Hivites, and the Jebusites, as the LORD your *_God_* has commanded you,
 * `Deu 20:18` So that they may not teach you to do after all their abominations which they have done to their gods, and you sin against the LORD your *_God_*.
 * `Deu 21:1` "If someone is found slain, lying in the field in the land which the LORD your *_God_* gives you to possess, and it is unknown who has slain him,
 * `Deu 21:5` And the priests the sons of Levi shall come near (for the LORD your *_God_* has chosen them to minister to him and to bless in the name of the LORD) and by their word every controversy and every stroke shall be tried.
-* `Deu 21:10` "When you go forth to war against your enemies, and the LORD your *_God_* has delivered them into your hands and you have taken them captive,
+* `Deu 21:10` "When you go forth to war against your enemies, and the LORD your *_God_* has delivered them into your hands, and you have taken them captive,
 * `Deu 21:23` His body shall not remain all night upon the tree, but you shall surely bury him that day (for he who is hanged is accursed of *_God_*) You shall not defile your land that the LORD your *_God_* gives you for an inheritance."
 * `Deu 22:5` "A woman shall not wear that which pertains to a man, neither shall a man put on a woman's garment, for all who do so are an abomination to the LORD your *_God_*.
 * `Deu 23:5` Nevertheless, the LORD your *_God_* would not listen to Balaam, but the LORD your *_God_* turned the curse into a blessing for you, because the LORD your *_God_* loved you.
@@ -2799,7 +2800,7 @@ _1 verse containing GOBLET_
 * `Deu 23:21` "When you vow a vow to the LORD your *_God_*, you shall not defer to pay it, for the LORD your *_God_* will surely require it of you, and it would be sin in you.
 * `Deu 23:23` That which is uttered by your lips you shall keep and perform, even a voluntary-offering, according as you have vowed to the LORD your *_God_*, which you have promised with your mouth.
 * `Deu 24:4` Her former husband who sent her away may not take her again to be his wife, since she is defiled, for that is abomination before the LORD. And you shall not cause the land to sin, which the LORD your *_God_* gives you for an inheritance.
-* `Deu 24:9` Remember what the LORD your *_God_* did to Miriam by the way after you came forth from Egypt.
+* `Deu 24:9` Remember what the LORD your *_God_* did to Miriam on the way after you came forth from Egypt.
 * `Deu 24:13` In any case, you shall return the pledge to him when the sun goes down, so that he may sleep in his own clothing and bless you. And it shall be righteousness for you before the LORD your *_God_*.
 * `Deu 24:18` But you shall remember that you were a slave in Egypt, and the LORD your *_God_* redeemed you from there. Therefore, I command you to do this thing.
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not go back to fetch it. It shall be for the stranger, for the fatherless, and for the widow, so that the LORD your *_God_* may bless you in all the work of your hands.

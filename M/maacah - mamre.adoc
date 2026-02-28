@@ -584,7 +584,7 @@ _2 verses containing MADAI_
 * `Deu 10:22` Your fathers went down into Egypt with seventy persons, and now the LORD your God has *_made_* you as the stars of heaven for multitude."
 * `Deu 11:4` And what he did to the army of Egypt, to their horses, and to their chariots, how he *_made_* the water of the Red Sea to overflow them as they pursued after you, and how the LORD has destroyed them to this day;
 * `Deu 18:1` "The priests the Levites, even all the tribe of Levi, shall have no part nor inheritance with Israel. They shall eat the offerings of the LORD *_made_* by fire and his inheritance.
-* `Deu 20:9` And it shall be, when the officers have *_made_* an end of speaking to the people, that they shall make captains of the armies to lead the people.
+* `Deu 20:9` And it shall be when the officers have *_made_* an end of speaking to the people, that they shall make captains of the armies to lead the people.
 * `Deu 26:12` "When you have *_made_* an end of tithing all the tithes of your increase the third year, which is the year of tithing, and have given it to the Levite, the stranger, the fatherless, and the widow, so that they may eat within your gates and be filled,
 * `Deu 26:19` And to make you high above all nations which he has *_made_*, in praise, in name, and in honor; and that you may be a holy people to the LORD your God, as he has spoken."
 * `Deu 29:1` These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he *_made_* with them in Horeb.
@@ -2352,9 +2352,11 @@ _1 verse containing MAKAZ_
 * `Deu 16:18` "You shall *_make_* judges and officers for yourself throughout your tribes in all your gates which the LORD your God gives you. And they shall judge the people with just judgment.
 * `Deu 16:21` "You shall not plant for yourself a grove of any trees near the altar of the LORD your God, which you shall *_make_* for yourself,
 * `Deu 19:18` And the judges shall *_make_* diligent inquisition, and behold, if the witness is a false witness and has testified falsely against his brother,
-* `Deu 20:9` And it shall be, when the officers have made an end of speaking to the people, that they shall *_make_* captains of the armies to lead the people.
+* `Deu 20:6` And what man is he who has planted a vineyard and has not yet eaten any of it? Let him also go and return to his house, lest he should die in the battle and another man should *_make_* use of it.
+* `Deu 20:9` And it shall be when the officers have made an end of speaking to the people, that they shall *_make_* captains of the armies to lead the people.
 * `Deu 20:12` And if it will *_make_* no peace with you, but will *_make_* war against you, then you shall besiege it.
 * `Deu 21:14` And it shall be, if you have no delight in her, then you shall let her go where she wishes. But you shall not sell her at all for money and you shall not *_make_* merchandise of her, because you have humbled her.
+* `Deu 21:16` Then it shall be, when he makes his sons inherit that which he has, that he may not *_make_* the son of the beloved the first-born over the son of the hated, who is indeed the first-born,
 * `Deu 22:8` "When you build a new house, you shall *_make_* a parapet for your roof so that you may not bring blood upon your house if any man falls from there.
 * `Deu 22:12` "You shall *_make_* yourself fringes upon the four quarters of your vesture with which you cover yourself.
 * `Deu 26:19` And to *_make_* you high above all nations which he has made, in praise, in name, and in honor; and that you may be a holy people to the LORD your God, as he has spoken."
@@ -3064,7 +3066,7 @@ _1 verse containing MAKAZ_
 * `Rev 19:19` And I saw the beast, the kings of the earth, and their armies assembled to *_make_* war against him who sat on the horse and against his army.
 * `Rev 21:5` And he who sat upon the throne said, "Behold, I *_make_* all things new." And he said to me, "Write, for these words are true and faithful."
 
-_970 verses containing MAKE_
+_972 verses containing MAKE_
 
 == MAKER
 
@@ -3112,7 +3114,7 @@ _3 verses containing MAKERS_
 * `Deu 19:5` As when a man goes into the forest with his neighbor to hew wood, and his hand *_makes_* a stroke with the ax to cut down the tree, and the head slips from the helve and falls upon his neighbor so that he dies, he shall flee to one of these cities and live,
 * `Deu 20:11` And it shall be, if it *_makes_* you an answer of peace and opens to you, then it shall be, that all the people who are found therein shall be tributaries to you and they shall serve you.
 * `Deu 20:20` Only the trees which you know that are not trees for food you shall destroy and cut down. And you shall build bulwarks against the city that *_makes_* war with you until it is subdued."
-* `Deu 21:16` Then it shall be, when he *_makes_* his sons inherit that which he has, that he may not prefer the son of the beloved first-born before the son of the hated, which is indeed the first-born,
+* `Deu 21:16` Then it shall be, when he *_makes_* his sons inherit that which he has, that he may not make the son of the beloved the first-born over the son of the hated, who is indeed the first-born,
 * `Deu 24:7` "If a man is found stealing any of his brothers of the children of Israel and *_makes_* merchandise of him or sells him, then that thief shall die, and you shall remove evil from among you.
 * `Deu 27:15` 'Cursed is the man who *_makes_* any engraved or molten image, an abomination to the LORD, the work of the hands of the craftsman, and puts it in a secret place.' And all the people shall answer and say, 'Amen.'
 * `Deu 27:18` 'Cursed is he who *_makes_* the blind to wander out of the way.' And all the people shall say, 'Amen.'
@@ -3430,7 +3432,7 @@ _1 verse containing MALCHUS_
 * `Num 31:17` Now therefore, kill every *_male_* among the little ones and kill every woman who has known man by lying with him.
 * `Deu 4:16` Lest you corrupt yourselves and make for yourselves an engraved image, the similitude of any figure, the likeness of *_male_* or female,
 * `Deu 7:14` You shall be blessed above all people. There shall not be *_male_* or female barren among you or among your livestock.
-* `Deu 20:13` And when the LORD your God has delivered it into your hands, you shall smite every *_male_* of it with the edge of the sword,
+* `Deu 20:13` And when the LORD your God has delivered it into your hands, you shall smite every *_male_* in it with the edge of the sword,
 * `Jsh 17:2` There was also a lot for the rest of the children of Manasseh by their families: for the children of Abiezer, for the children of Helek, for the children of Asriel, for the children of Shechem, for the children of Hepher, and for the children of Shemida. These were the *_male_* children of Manasseh the son of Joseph by their families.
 * `Jdg 21:11` And this is the thing that you shall do: you shall utterly destroy every *_male_* and every woman who has lain by man."
 * `Jdg 21:12` And they found among the inhabitants of Jabesh-gilead four hundred young virgins who had known no man by lying with any *_male_*, and they brought them to the camp to Shiloh, which is in the land of Canaan.

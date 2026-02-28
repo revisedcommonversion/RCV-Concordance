@@ -918,7 +918,7 @@ _16 verses containing WIDE_
 * `Deu 14:29` Then the Levite (because he has no part nor inheritance with you), the stranger, the fatherless, and the *_widow_* who are within your gates shall come and shall eat and be satisfied so that the LORD your God may bless you in all the work of your hand which you do."
 * `Deu 16:11` And you shall rejoice before the LORD your God—you, your son, your daughter, your man-servant, your woman-servant, the Levite who is within your gates, the stranger, the fatherless, and the *_widow_* who are among you—in the place which the LORD your God has chosen to place his name there.
 * `Deu 16:14` And you shall rejoice in your feast—you, your son, your daughter, your man-servant, your woman-servant, the Levite, the stranger, the fatherless, and the *_widow_* who are within your gates.
-* `Deu 24:17` "You shall not pervert the judgment of the stranger, nor of the fatherless, nor take a *_widow_*'s clothing for a pledge.
+* `Deu 24:17` "You shall not pervert the judgment of the stranger nor of the fatherless, nor take a *_widow_*'s clothing for a pledge.
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not go back to fetch it. It shall be for the stranger, for the fatherless, and for the *_widow_*, so that the LORD your God may bless you in all the work of your hands.
 * `Deu 24:20` When you beat your olive-tree, you shall not go over the boughs again. It shall be for the stranger, for the fatherless, and for the *_widow_*.
 * `Deu 24:21` "When you gather the grapes of your vineyard, you shall not glean it afterward. It shall be for the stranger, for the fatherless, and for the *_widow_*.
@@ -1146,13 +1146,13 @@ _1 verse containing WIDTH_
 * `Deu 13:6` "If your brother, the son of your mother, your son, your daughter, the *_wife_* of your bosom, or your friend who is as your own soul, entices you secretly, saying, 'Let us go and serve other gods,' which you have not known—you, nor your fathers—
 * `Deu 20:7` And what man is there who has betrothed a *_wife_* and has not taken her? Let him go and return to his house, lest he should die in battle and another man should take her.'
 * `Deu 21:11` And you see among the captives a beautiful woman and have a desire for her, that you would have her for your *_wife_*,
-* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother a full month. And after that, you shall go in to her and be her husband, and she shall be your *_wife_*.
+* `Deu 21:13` And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother for a full month. And after that, you shall go in to her and be her husband, and she shall be your *_wife_*.
 * `Deu 22:13` "If any man takes a *_wife_*, goes in to her, and then hates her,
 * `Deu 22:16` And the young woman's father shall say to the elders, 'I gave my daughter to this man for a *_wife_*, and he hates her,
-* `Deu 22:19` And they shall amerce him one hundred shekels of silver, and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his *_wife_*. He may not put her away all his days.
+* `Deu 22:19` And they shall amerce him one hundred shekels of silver and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his *_wife_*. He may not put her away all his days.
 * `Deu 22:24` Then you shall bring them both out to the gate of that city and stone them with stones so that they may die—the young woman because she did not cry, though she was in the city, and the man because he has humbled his neighbor's *_wife_*. Thus you shall remove evil from among you.
 * `Deu 22:29` Then the man who lay with her shall give to the young woman's father fifty shekels of silver, and she shall be his *_wife_*. Because he has humbled her, he may not put her away all his days.
-* `Deu 22:30` "A man shall not take his father's *_wife_*, nor discover his father's skirt."
+* `Deu 22:30` "A man shall not take his father's *_wife_* nor discover his father's skirt."
 * `Deu 24:1` "When a man has taken a *_wife_* and married her, and it comes to pass that she finds no favor in his eyes because he has found some uncleanness in her, let him write her a bill of divorcement, give it in her hand, and send her out of his house.
 * `Deu 24:2` And when she has departed from his house, she may go and be another man's *_wife_*.
 * `Deu 24:3` And if the latter husband hates her and writes her a bill of divorcement, gives it in her hand, and sends her out of his house, or if the latter husband dies, who took her to be his *_wife_*,
@@ -2214,10 +2214,10 @@ _2 verses containing WILES_
 * `Deu 15:9` Beware that there is not a thought in your wicked heart, saying, 'The seventh year, the year of release, is at hand,' and your eye is evil against your poor brother and you give him nothing. He *_will_* cry to the LORD against you, and it shall be sin to you.
 * `Deu 15:16` And it shall be, if he says to you, 'I *_will_* not leave you,' because he loves you and your house, because he is well with you,
 * `Deu 17:12` And the man who *_will_* do presumptuously and *_will_* not listen to the priest who stands to minister there before the LORD your God, or to the judge, even that man shall die. And you shall remove the evil from Israel.
-* `Deu 17:14` "When you come into the land which the LORD your God gives you and possess it and dwell in it, and say, 'I *_will_* set a king over me like all the nations who are around me,'
+* `Deu 17:14` "When you come into the land which the LORD your God gives you and possess it and dwell in it and say, 'I *_will_* set a king over me like all the nations who are around me,'
 * `Deu 17:20` Then his heart *_will_* not be lifted above his brothers, and he *_will_* not turn aside from the commandment, to the right hand or to the left, to the end that he may prolong his days in his kingdom—he and his children—in the midst of Israel."
 * `Deu 18:15` "The LORD your God *_will_* raise up for you a Prophet like me from the midst of you, out of your brothers. To him you shall listen.
-* `Deu 18:18` I *_will_* raise up to them a prophet like you from among their brothers and *_will_* put my words in his mouth. And he shall speak to them all that I shall command him.
+* `Deu 18:18` I *_will_* raise up to them a Prophet like you from among their brothers and *_will_* put my words in his mouth. And he shall speak to them all that I shall command him.
 * `Deu 18:19` And it shall come to pass, that whoever *_will_* not listen to my words which he shall speak in my name, I *_will_* require it of him.
 * `Deu 20:12` And if it *_will_* make no peace with you, but *_will_* make war against you, then you shall besiege it.
 * `Deu 21:18` "If a man has a stubborn and rebellious son who *_will_* not obey the voice of his father or the voice of his mother, and who, when they have chastened him, *_will_* not listen to them,

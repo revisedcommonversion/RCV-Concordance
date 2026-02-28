@@ -2485,7 +2485,7 @@ _1 verse containing LOP_
 * `Deu 16:8` Six days you shall eat unleavened bread, and on the seventh day shall be a solemn assembly to the *_LORD_* your God. In it you shall do no work.
 * `Deu 16:10` And you shall keep the feast of weeks to the *_LORD_* your God with a tribute of a voluntary-offering of your hand, which you shall give to the *_LORD_* your God, according as the *_LORD_* your God has blessed you.
 * `Deu 16:11` And you shall rejoice before the *_LORD_* your God—you, your son, your daughter, your man-servant, your woman-servant, the Levite who is within your gates, the stranger, the fatherless, and the widow who are among you—in the place which the *_LORD_* your God has chosen to place his name there.
-* `Deu 16:15` Seven days you shall keep a solemn feast to the *_LORD_* your God in the place which the *_LORD_* chooses, because the *_LORD_* your God shall bless you in all your increase and in all the works of your hands; therefore, you shall surely rejoice.
+* `Deu 16:15` Seven days you shall keep a solemn feast to the *_LORD_* your God in the place which the *_LORD_* chooses, because the *_LORD_* your God shall bless you in all your increase and in all the works of your hands, and you shall surely rejoice.
 * `Deu 16:16` "Three times in a year all your males shall appear before the *_LORD_* your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of tabernacles. And they shall not appear before the *_LORD_* empty.
 * `Deu 16:17` Every man shall give as he is able, according to the blessing of the *_LORD_* your God which he has given you.
 * `Deu 16:18` "You shall make judges and officers for yourself throughout your tribes in all your gates which the *_LORD_* your God gives you. And they shall judge the people with just judgment.
@@ -2497,9 +2497,9 @@ _1 verse containing LOP_
 * `Deu 17:8` "If there arises a matter too hard for you in judgment between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates, then you shall arise and go up to the place which the *_LORD_* your God chooses.
 * `Deu 17:10` And you shall do according to the sentence, which those of that place which the *_LORD_* chooses shall show you. And you shall observe to do according to all that they inform you.
 * `Deu 17:12` And the man who will do presumptuously and will not listen to the priest who stands to minister there before the *_LORD_* your God, or to the judge, even that man shall die. And you shall remove the evil from Israel.
-* `Deu 17:14` "When you come into the land which the *_LORD_* your God gives you and possess it and dwell in it, and say, 'I will set a king over me like all the nations who are around me,'
+* `Deu 17:14` "When you come into the land which the *_LORD_* your God gives you and possess it and dwell in it and say, 'I will set a king over me like all the nations who are around me,'
 * `Deu 17:15` You shall surely set him king over you whom the *_LORD_* your God chooses. One from among your brothers you shall set king over you. You may not set a stranger over you who is not your brother.
-* `Deu 17:16` But he shall not multiply horses for himself nor cause the people to return to Egypt, to the end that he should multiply horses, because the *_LORD_* has said to you, 'You shall not return that way anymore.'
+* `Deu 17:16` But he shall not multiply horses for himself nor cause the people to return to Egypt to multiply horses, because the *_LORD_* has said to you, 'You shall not return that way anymore.'
 * `Deu 17:19` And it shall be with him, and he shall read in it all the days of his life so that he may learn to fear the *_LORD_* his God, to keep all the words of this law and these statutes, and to do them.
 * `Deu 18:1` "The priests the Levites, even all the tribe of Levi, shall have no part nor inheritance with Israel. They shall eat the offerings of the *_LORD_* made by fire and his inheritance.
 * `Deu 18:2` Therefore, they shall have no inheritance among their brothers. The *_LORD_* is their inheritance, as he has said to them.
@@ -2519,13 +2519,13 @@ _1 verse containing LOP_
 * `Deu 19:2` You shall separate three cities for yourself in the midst of your land which the *_LORD_* your God gives you to possess it.
 * `Deu 19:3` You shall prepare yourself a way and divide into three parts the limits of your land which the *_LORD_* your God gives you to inherit so that every slayer may flee there.
 * `Deu 19:8` "And if the *_LORD_* your God enlarges your limits, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers,
-* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the *_LORD_* your God and to walk ever in his ways, then you shall add three cities more for yourself, besides these three,
+* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the *_LORD_* your God and to always walk in his ways, then you shall add three cities more for yourself, besides these three,
 * `Deu 19:10` So that innocent blood may not be shed in your land, which the *_LORD_* your God gives you for an inheritance, and thus blood be upon you.
 * `Deu 19:14` "You shall not remove your neighbor's landmark, which they of old time have set in your inheritance, which you shall inherit in the land that the *_LORD_* your God gives you to possess it.
 * `Deu 19:17` Then both the men between whom the controversy is shall stand before the *_LORD_*, before the priests and the judges who shall be in those days.
 * `Deu 20:1` "When you go out to battle against your enemies and see horses, chariots, and a people more than you, do not be afraid of them, for the *_LORD_* your God is with you, who brought you out of the land of Egypt.
 * `Deu 20:4` For the *_LORD_* your God is he who goes with you to fight for you against your enemies to save you.'
-* `Deu 20:13` And when the *_LORD_* your God has delivered it into your hands, you shall smite every male of it with the edge of the sword,
+* `Deu 20:13` And when the *_LORD_* your God has delivered it into your hands, you shall smite every male in it with the edge of the sword,
 * `Deu 20:14` But the women, the little ones, the livestock, and all that is in the city, even all its plunder, you shall take for yourself. And you shall eat the plunder of your enemies which the *_LORD_* your God has given you.
 * `Deu 20:16` But of the cities of these people which the *_LORD_* your God gives you for an inheritance, you shall save alive nothing that breathes,
 * `Deu 20:17` But you shall utterly destroy them, namely, the Hittites, the Amorites, Canaanites, the Perizzites, Hivites, and the Jebusites, as the *_LORD_* your God has commanded you,
@@ -2534,7 +2534,7 @@ _1 verse containing LOP_
 * `Deu 21:5` And the priests the sons of Levi shall come near (for the *_LORD_* your God has chosen them to minister to him and to bless in the name of the *_LORD_*) and by their word every controversy and every stroke shall be tried.
 * `Deu 21:8` Be merciful, O *_LORD_*, to your people Israel, whom you have redeemed, and do not lay innocent blood to the charge of your people Israel.' And the blood shall be forgiven.
 * `Deu 21:9` Thus you shall remove the guilt of innocent blood from among you, when you do that which is right in the sight of the *_LORD_*.
-* `Deu 21:10` "When you go forth to war against your enemies, and the *_LORD_* your God has delivered them into your hands and you have taken them captive,
+* `Deu 21:10` "When you go forth to war against your enemies, and the *_LORD_* your God has delivered them into your hands, and you have taken them captive,
 * `Deu 21:23` His body shall not remain all night upon the tree, but you shall surely bury him that day (for he who is hanged is accursed of God) You shall not defile your land that the *_LORD_* your God gives you for an inheritance."
 * `Deu 22:5` "A woman shall not wear that which pertains to a man, neither shall a man put on a woman's garment, for all who do so are an abomination to the *_LORD_* your God.
 * `Deu 23:1` "He who is wounded or mutilated in his secrets shall not enter into the congregation of the *_LORD_*.
@@ -2548,7 +2548,7 @@ _1 verse containing LOP_
 * `Deu 23:21` "When you vow a vow to the *_LORD_* your God, you shall not defer to pay it, for the *_LORD_* your God will surely require it of you, and it would be sin in you.
 * `Deu 23:23` That which is uttered by your lips you shall keep and perform, even a voluntary-offering, according as you have vowed to the *_LORD_* your God, which you have promised with your mouth.
 * `Deu 24:4` Her former husband who sent her away may not take her again to be his wife, since she is defiled, for that is abomination before the *_LORD_*. And you shall not cause the land to sin, which the *_LORD_* your God gives you for an inheritance.
-* `Deu 24:9` Remember what the *_LORD_* your God did to Miriam by the way after you came forth from Egypt.
+* `Deu 24:9` Remember what the *_LORD_* your God did to Miriam on the way after you came forth from Egypt.
 * `Deu 24:13` In any case, you shall return the pledge to him when the sun goes down, so that he may sleep in his own clothing and bless you. And it shall be righteousness for you before the *_LORD_* your God.
 * `Deu 24:15` At his day you shall give him his hire, neither shall the sun go down upon it, for he is poor and sets his heart upon it, lest he should cry against you to the *_LORD_* and it be sin to you.
 * `Deu 24:18` But you shall remember that you were a slave in Egypt, and the *_LORD_* your God redeemed you from there. Therefore, I command you to do this thing.
@@ -8198,7 +8198,7 @@ _1 verse containing LOUDER_
 * `Deu 11:13` "And it shall come to pass, if you listen diligently to my commandments which I command you this day, to *_love_* the LORD your God and to serve him with all your heart and with all your soul,
 * `Deu 11:22` For if you diligently keep all these commandments which I command you, to do them, to *_love_* the LORD your God, to walk in all his ways, and to cleave to him,
 * `Deu 13:3` You shall not listen to the words of that prophet or that dreamer of dreams. For the LORD your God proves you, to know whether you *_love_* the LORD your God with all your heart and with all your soul.
-* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to *_love_* the LORD your God and to walk ever in his ways, then you shall add three cities more for yourself, besides these three,
+* `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to *_love_* the LORD your God and to always walk in his ways, then you shall add three cities more for yourself, besides these three,
 * `Deu 30:6` "And the LORD your God will circumcise your heart and the heart of your offspring, to *_love_* the LORD your God with all your heart and with all your soul, so that you may live.
 * `Deu 30:16` In that I command you this day to *_love_* the LORD your God, to walk in his ways, and to keep his commandments, his statutes, and his judgments, so that you may live and multiply, and the LORD your God shall bless you in the land where you go to possess it.
 * `Deu 30:20` To *_love_* the LORD your God, to obey his voice, and to cleave to him (for he is your life and the length of your days), so that you may dwell in the land which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them."

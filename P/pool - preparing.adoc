@@ -57,7 +57,7 @@ _6 verses containing POOLS_
 * `Deu 15:7` "If there is among you a *_poor_* man, one of your brothers, within any of your gates in your land which the LORD your God gives you, you shall not harden your heart nor shut your hand from your *_poor_* brother.
 * `Deu 15:9` Beware that there is not a thought in your wicked heart, saying, 'The seventh year, the year of release, is at hand,' and your eye is evil against your *_poor_* brother and you give him nothing. He will cry to the LORD against you, and it shall be sin to you.
 * `Deu 15:11` For the *_poor_* shall never cease from the land. Therefore, I command you, saying, 'You shall open your hand wide to your brother, to your *_poor_*, and to your needy in your land.'
-* `Deu 24:12` And if the man is *_poor_*, you shall not sleep with his pledge.
+* `Deu 24:12` And if the man is *_poor_*, you shall not go to sleep with his pledge.
 * `Deu 24:14` "You shall not oppress a hired servant who is *_poor_* and needy, whether he is one of your brothers or one of your strangers who are in your land within your gates.
 * `Deu 24:15` At his day you shall give him his hire, neither shall the sun go down upon it, for he is *_poor_* and sets his heart upon it, lest he should cry against you to the LORD and it be sin to you.
 * `Jdg 6:15` And he said to him, "O my Lord, by what means shall I save Israel? Behold, my family is *_poor_* in Manasseh, and I am the least in my father's house."
@@ -514,7 +514,7 @@ _2 verses containing PORTRAYED_
 * `Deu 12:2` You shall utterly destroy all the places in which the nations which you shall *_possess_* served their gods: upon the high mountains, upon the hills, and under every green tree.
 * `Deu 12:29` "When the LORD your God cuts off the nations from before you where you go to *_possess_* them, and you succeed them and dwell in their land,
 * `Deu 15:4` However, there shall be no poor among you, for the LORD shall greatly bless you in the land which the LORD your God gives you for an inheritance to *_possess_* it,
-* `Deu 17:14` "When you come into the land which the LORD your God gives you and *_possess_* it and dwell in it, and say, 'I will set a king over me like all the nations who are around me,'
+* `Deu 17:14` "When you come into the land which the LORD your God gives you and *_possess_* it and dwell in it and say, 'I will set a king over me like all the nations who are around me,'
 * `Deu 18:14` For these nations, which you shall *_possess_*, listened to observers of times and to diviners. But as for you, the LORD your God has not allowed you to do so.
 * `Deu 19:2` You shall separate three cities for yourself in the midst of your land which the LORD your God gives you to *_possess_* it.
 * `Deu 19:14` "You shall not remove your neighbor's landmark, which they of old time have set in your inheritance, which you shall inherit in the land that the LORD your God gives you to *_possess_* it.
@@ -2756,10 +2756,9 @@ _1 verse containing PREDICTIONS_
 
 == PREFER
 
-* `Deu 21:16` Then it shall be, when he makes his sons inherit that which he has, that he may not *_prefer_* the son of the beloved first-born before the son of the hated, which is indeed the first-born,
 * `Psa 137:6` If I do not remember you, let my tongue cleave to the roof of my mouth, if I do not *_prefer_* Jerusalem above my chief joy.
 
-_2 verses containing PREFER_
+_1 verse containing PREFER_
 
 == PREFERRED
 
