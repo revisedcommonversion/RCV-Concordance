@@ -289,7 +289,7 @@ _22 verses containing LACHISH_
 * `Num 31:49` And they said to Moses, "Your servants have taken the sum of the men of war who are under our charge, and there does not *_lack_* one man of us.
 * `Deu 8:9` A land in which you shall eat bread without scarceness, you shall not *_lack_* anything in it; a land whose stones are iron and out of whose hills you may dig brass.
 * `Deu 28:48` Therefore you shall serve your enemies which the LORD shall send against you in hunger, in thirst, in nakedness, and in *_lack_* of all things. And he shall put a yoke of iron upon your neck until he has destroyed you.
-* `Deu 28:57` Toward her young one, her own offspring, and toward her children which she shall bear, for she shall eat them for *_lack_* of all things secretly in the siege and distress with which your enemy shall distress you in your gates.
+* `Deu 28:57` Toward her young one, her own offspring, and toward her children which she shall bear, for she shall eat them secretly for *_lack_* of all things in the siege and distress with which your enemy shall distress you in your gates.
 * `Jdg 18:10` When you go, you shall come to a secure people and to a large land, for God has given it into your hands, a place where there is no *_lack_* of anything that is on the earth."
 * `Jdg 19:19` Yet there is both straw and provender for our donkeys, and there is bread and wine also for me, for your woman-servant, and for the young man which is with your servants. There is no *_lack_* of anything."
 * `Job 4:11` The old lion perishes for *_lack_* of prey, and the stout lion's whelps are scattered abroad.
@@ -1754,13 +1754,13 @@ _1 verse containing LANCETS_
 * `Deu 24:22` And you shall remember that you were a slave in the *_land_* of Egypt. Therefore, I command you to do this thing."
 * `Deu 25:15` But you shall have a perfect and just weight, and you shall have a perfect and just measure, so that your days may be lengthened in the *_land_* which the LORD your God gives you.
 * `Deu 25:19` Therefore, it shall be, when the LORD your God has given you rest from all your enemies on all sides in the *_land_* which the LORD your God gives you for an inheritance to possess it, that you shall blot out the remembrance of Amalek from under heaven. You shall not forget it."
-* `Deu 26:1` "And it shall be, when you come in to the *_land_* which the LORD your God gives you for an inheritance and possess it and dwell therein,
+* `Deu 26:1` "And it shall be when you come in to the *_land_* which the LORD your God gives you for an inheritance and possess it and dwell therein,
 * `Deu 26:2` That you shall take some of the first of all the fruit of the earth, which you bring from your *_land_* that the LORD your God gives you, and shall put it in a basket, and shall go to the place which the LORD your God chooses to place his name there.
 * `Deu 26:9` And he has brought us into this place and has given us this *_land_*, even a *_land_* that flows with milk and honey.
 * `Deu 26:10` And now, behold, I have brought the first-fruits of the *_land_*, which you, O LORD, have given me.' And you shall set it before the LORD your God and worship before the LORD your God.
 * `Deu 26:15` Look down from your holy habitation, from heaven, and bless your people Israel and the *_land_* which you have given us, as you swore to our fathers, a *_land_* that flows with milk and honey.'
 * `Deu 27:2` And it shall be on the day when you pass over the Jordan to the *_land_* which the LORD your God gives you, that you shall set yourself up great stones and plaster them with plaster.
-* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter in to the *_land_* which the LORD your God gives you, a *_land_* that flows with milk and honey, as the LORD God of your fathers has promised you.
+* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter the *_land_* which the LORD your God gives you, a *_land_* that flows with milk and honey, as the LORD God of your fathers has promised you.
 * `Deu 28:8` The LORD shall command the blessing upon you in your store-houses and in all that you set your hand to. And he shall bless you in the *_land_* which the LORD your God gives you.
 * `Deu 28:11` And the LORD shall make you to abound in goods, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground in the *_land_* which the LORD swore to your fathers to give you.
 * `Deu 28:12` The LORD shall open to you his good treasure, the heavens, to give rain to your *_land_* in its season and to bless all the work of your hand. And you shall lend to many nations, and you shall not borrow.
@@ -1773,7 +1773,7 @@ _1 verse containing LANCETS_
 * `Deu 28:52` And he shall besiege you in all your gates until your high and fortified walls in which you trusted come down throughout all your *_land_*. And he shall besiege you in all your gates throughout all your *_land_* which the LORD your God has given you.
 * `Deu 28:63` And it shall come to pass, that as the LORD rejoiced over you to do you good and to multiply you, so the LORD will rejoice over you to destroy you and to bring you to nothing. And you shall be plucked from off the *_land_* where you go to possess it.
 * `Deu 29:1` These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the *_land_* of Moab, besides the covenant which he made with them in Horeb.
-* `Deu 29:2` And Moses called to all Israel, and said to them, "You have seen all that the LORD did before your eyes in the *_land_* of Egypt to Pharaoh, to all his servants, and to all his *_land_*—
+* `Deu 29:2` And Moses called to all Israel and said to them, "You have seen all that the LORD did before your eyes in the *_land_* of Egypt to Pharaoh, to all his servants, and to all his *_land_*—
 * `Deu 29:8` And we took their *_land_* and gave it for an inheritance to the Reubenites, to the Gadites, and to the half-tribe of Manasseh.
 * `Deu 29:16` (For you know how we have dwelt in the *_land_* of Egypt and how we came through the nations which you passed by,
 * `Deu 29:22` So that the generation to come of your children who arise after you and the stranger who comes from a distant *_land_* shall say—when they see the plagues of that *_land_* and the sicknesses which the LORD has laid upon it,
@@ -3167,9 +3167,10 @@ _1 verse containing LASTED_
 
 == LASTING
 
+* `Deu 28:59` Then the LORD will make your plagues and the plagues of your offspring wonderful, even great and *_lasting_* plagues, and severe and *_lasting_* sicknesses.
 * `Deu 33:15` For the chief things of the ancient mountains, for the precious things of the *_lasting_* hills,
 
-_1 verse containing LASTING_
+_2 verses containing LASTING_
 
 == LATCHET
 
@@ -3419,7 +3420,7 @@ _1 verse containing LAVISH_
 * `Deu 17:11` According to the sentence of the *_law_* which they teach you, and according to the judgment which they tell you, you shall do. You shall not decline from the sentence which they show you to the right hand nor to the left.
 * `Deu 17:18` "And it shall be when he sits upon the throne of his kingdom, that he shall write himself a copy of this *_law_* in a book out of that which is before the priests the Levites.
 * `Deu 17:19` And it shall be with him, and he shall read in it all the days of his life so that he may learn to fear the LORD his God, to keep all the words of this *_law_* and these statutes, and to do them.
-* `Deu 27:3` And you shall write upon them all the words of this *_law_* when you have passed over so that you may enter in to the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your fathers has promised you.
+* `Deu 27:3` And you shall write upon them all the words of this *_law_* when you have passed over so that you may enter the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your fathers has promised you.
 * `Deu 27:8` And you shall write upon the stones all the words of this *_law_* very plainly."
 * `Deu 27:23` 'Cursed is he who lies with his mother-in-*_law_*.' And all the people shall say, 'Amen.'
 * `Deu 27:26` 'Cursed is he who does not confirm all the words of this *_law_* to do them.' And all the people shall say, 'Amen.'"

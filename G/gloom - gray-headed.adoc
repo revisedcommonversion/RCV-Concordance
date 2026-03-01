@@ -975,18 +975,18 @@ _1 verse containing GNAWED_
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not *_go_* back to fetch it. It shall be for the stranger, for the fatherless, and for the widow, so that the LORD your God may bless you in all the work of your hands.
 * `Deu 24:20` When you beat your olive-tree, you shall not *_go_* over the boughs again. It shall be for the stranger, for the fatherless, and for the widow.
 * `Deu 25:5` "If brothers dwell together, and one of them dies and has no child, the wife of the dead shall not marry outside to a stranger. Her husband's brother shall *_go_* in to her and take her for himself for a wife and perform the duty of a husband's brother to her.
-* `Deu 25:7` And if the man does not want to take his brother's wife, then let his brother's wife *_go_* up to the gate to the elders, and say, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
+* `Deu 25:7` And if the man does not want to take his brother's wife, then let his brother's wife *_go_* up to the gate to the elders and say, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
 * `Deu 26:2` That you shall take some of the first of all the fruit of the earth, which you bring from your land that the LORD your God gives you, and shall put it in a basket, and shall *_go_* to the place which the LORD your God chooses to place his name there.
-* `Deu 26:3` And you shall *_go_* to the priest who shall be in those days, and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
-* `Deu 28:6` "Blessed you shall be when you come in, and blessed you shall be when you *_go_* out.
+* `Deu 26:3` And you shall *_go_* to the priest who shall be in those days and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
+* `Deu 28:6` "Blessed shall you be when you come in, and blessed shall you be when you *_go_* out.
 * `Deu 28:14` And you shall not *_go_* aside from any of the words which I command you this day, to the right hand or to the left, to *_go_* after other gods to serve them.
-* `Deu 28:19` "Cursed you shall be when you come in, and cursed you shall be when you *_go_* out.
+* `Deu 28:19` "Cursed shall you be when you come in, and cursed shall you be when you *_go_* out.
 * `Deu 28:21` The LORD shall make the pestilence cleave to you until he has consumed you from off the land where you *_go_* to possess it.
 * `Deu 28:25` "The LORD shall cause you to be smitten before your enemies. You shall *_go_* out one way against them and flee seven ways before them. And you shall be an object of trembling to all the kingdoms of the earth.
 * `Deu 28:41` You shall beget sons and daughters, but you shall not enjoy them, for they shall *_go_* into captivity.
 * `Deu 28:63` And it shall come to pass, that as the LORD rejoiced over you to do you good and to multiply you, so the LORD will rejoice over you to destroy you and to bring you to nothing. And you shall be plucked from off the land where you *_go_* to possess it.
 * `Deu 29:18` Lest there should be among you man, woman, family, or tribe whose heart turns away this day from the LORD our God to *_go_* and serve the gods of these nations; lest there should be among you a root that bears gall and wormwood,
-* `Deu 30:13` Neither is it beyond the sea, so that you should say, 'Who shall *_go_* over the sea for us and bring it to us so that we may hear it and do it?'
+* `Deu 30:13` Neither is it beyond the sea so that you should say, 'Who shall *_go_* over the sea for us and bring it to us so that we may hear it and do it?'
 * `Deu 30:16` In that I command you this day to love the LORD your God, to walk in his ways, and to keep his commandments, his statutes, and his judgments, so that you may live and multiply, and the LORD your God shall bless you in the land where you *_go_* to possess it.
 * `Deu 30:18` I denounce to you this day, that you shall surely perish, and that you shall not prolong your days upon the land where you pass over the Jordan to *_go_* to possess it.
 * `Deu 31:2` And he said to them, "I am one hundred and twenty years old this day. I can no longer *_go_* out and come in. Also the LORD has said to me, 'You shall not *_go_* over this Jordan.'
@@ -2806,11 +2806,11 @@ _1 verse containing GOBLET_
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not go back to fetch it. It shall be for the stranger, for the fatherless, and for the widow, so that the LORD your *_God_* may bless you in all the work of your hands.
 * `Deu 25:15` But you shall have a perfect and just weight, and you shall have a perfect and just measure, so that your days may be lengthened in the land which the LORD your *_God_* gives you.
 * `Deu 25:16` For all who do such things, and all who do unrighteously, are an abomination to the LORD your *_God_*.
-* `Deu 25:18` How he met you by the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not fear *_God_*.
+* `Deu 25:18` How he met you on the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not fear *_God_*.
 * `Deu 25:19` Therefore, it shall be, when the LORD your *_God_* has given you rest from all your enemies on all sides in the land which the LORD your *_God_* gives you for an inheritance to possess it, that you shall blot out the remembrance of Amalek from under heaven. You shall not forget it."
-* `Deu 26:1` "And it shall be, when you come in to the land which the LORD your *_God_* gives you for an inheritance and possess it and dwell therein,
+* `Deu 26:1` "And it shall be when you come in to the land which the LORD your *_God_* gives you for an inheritance and possess it and dwell therein,
 * `Deu 26:2` That you shall take some of the first of all the fruit of the earth, which you bring from your land that the LORD your *_God_* gives you, and shall put it in a basket, and shall go to the place which the LORD your *_God_* chooses to place his name there.
-* `Deu 26:3` And you shall go to the priest who shall be in those days, and say to him, 'I profess this day to the LORD your *_God_*, that I have come to the country which the LORD swore to our fathers to give us.'
+* `Deu 26:3` And you shall go to the priest who shall be in those days and say to him, 'I profess this day to the LORD your *_God_*, that I have come to the country which the LORD swore to our fathers to give us.'
 * `Deu 26:4` And the priest shall take the basket from your hand and set it down before the altar of the LORD your *_God_*.
 * `Deu 26:5` And you shall speak and say before the LORD your *_God_*, 'My father was a Syrian ready to perish, and he went down to Egypt and sojourned there with a few and became a great, mighty, and populous nation there.
 * `Deu 26:7` And when we cried to the LORD *_God_* of our fathers, the LORD heard our voice and looked on our affliction, our labor, and our oppression.
@@ -2822,7 +2822,7 @@ _1 verse containing GOBLET_
 * `Deu 26:17` You have avouched the LORD this day to be your *_God_*, and to walk in his ways, and to keep his statutes, his commandments, and his judgments, and to listen to his voice.
 * `Deu 26:19` And to make you high above all nations which he has made, in praise, in name, and in honor; and that you may be a holy people to the LORD your *_God_*, as he has spoken."
 * `Deu 27:2` And it shall be on the day when you pass over the Jordan to the land which the LORD your *_God_* gives you, that you shall set yourself up great stones and plaster them with plaster.
-* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter in to the land which the LORD your *_God_* gives you, a land that flows with milk and honey, as the LORD *_God_* of your fathers has promised you.
+* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter the land which the LORD your *_God_* gives you, a land that flows with milk and honey, as the LORD *_God_* of your fathers has promised you.
 * `Deu 27:5` And there you shall build an altar to the LORD your *_God_*, an altar of stones. You shall not lift up any iron tool upon them.
 * `Deu 27:6` You shall build the altar of the LORD your *_God_* of whole stones. And you shall offer on it burnt-offerings to the LORD your *_God_*.
 * `Deu 27:7` And you shall offer peace-offerings, and shall eat there and rejoice before the LORD your *_God_*.
@@ -2831,7 +2831,7 @@ _1 verse containing GOBLET_
 * `Deu 28:1` "And it shall come to pass, if you listen diligently to the voice of the LORD your *_God_* to observe and to do all his commandments which I command you this day, that the LORD your *_God_* will set you on high above all nations of the earth.
 * `Deu 28:2` And all these blessings shall come on you and overtake you, if you listen to the voice of the LORD your *_God_*.
 * `Deu 28:8` The LORD shall command the blessing upon you in your store-houses and in all that you set your hand to. And he shall bless you in the land which the LORD your *_God_* gives you.
-* `Deu 28:9` The LORD shall establish you a holy people to himself, as he has sworn to you, if you keep the commandments of the LORD your *_God_* and walk in his ways.
+* `Deu 28:9` The LORD shall establish you as a holy people to himself, as he has sworn to you, if you keep the commandments of the LORD your *_God_* and walk in his ways.
 * `Deu 28:13` And the LORD shall make you the head and not the tail. And you shall be above only and not beneath if you listen to the commandments of the LORD your *_God_* which I command you this day to observe and to do them.
 * `Deu 28:15` "But it shall come to pass, if you will not listen to the voice of the LORD your *_God_* to observe to do all his commandments and his statutes which I command you this day, that all these curses shall come upon you and overtake you.
 * `Deu 28:45` "Moreover, all these curses shall come upon you and shall pursue you and overtake you until you are destroyed, because you did not listen to the voice of the LORD your *_God_* to keep his commandments and his statutes which he commanded you.
@@ -2843,12 +2843,12 @@ _1 verse containing GOBLET_
 * `Deu 29:6` You have not eaten bread, neither have you drank wine or strong drink, so that you might know that he is the LORD your *_God_*.
 * `Deu 29:10` "All of you stand this day before the LORD your *_God_*—your captains of your tribes, your elders, and your officers, with all the men of Israel,
 * `Deu 29:12` So that you should enter into covenant with the LORD your *_God_* and into his oath, which the LORD your *_God_* makes with you this day,
-* `Deu 29:13` So that he may establish you today for a people to himself, and that he may be to you a *_God_*, as he has said to you and as he has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
+* `Deu 29:13` So that he may establish you today as a people to himself, and that he may be to you a *_God_*, as he has said to you and as he has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
 * `Deu 29:15` But with him who stands here with us this day before the LORD our *_God_*, and also with him who is not here with us this day
 * `Deu 29:18` Lest there should be among you man, woman, family, or tribe whose heart turns away this day from the LORD our *_God_* to go and serve the gods of these nations; lest there should be among you a root that bears gall and wormwood,
 * `Deu 29:25` Then men shall say, 'Because they have forsaken the covenant of the LORD *_God_* of their fathers which he made with them when he brought them forth from the land of Egypt.
 * `Deu 29:29` "The secret things belong to the LORD our *_God_*, but those things which are revealed belong to us and to our children forever, so that we may do all the words of this law."
-* `Deu 30:1` "And it shall come to pass, when all these things have come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the LORD your *_God_* has driven you
+* `Deu 30:1` "And it shall come to pass when all these things have come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the LORD your *_God_* has driven you
 * `Deu 30:2` And return to the LORD your *_God_* and obey his voice according to all that I command you this day—you and your children—with all your heart and with all your soul,
 * `Deu 30:3` That the LORD your *_God_* will turn your captivity and have compassion upon you, and will return and gather you from all the nations where the LORD your *_God_* has scattered you.
 * `Deu 30:4` If any of your outcasts are driven out to the uttermost parts of the heavens, from there the LORD your *_God_* will gather you, and from there he will bring you.
@@ -7140,7 +7140,7 @@ _24 verses containing GOMORRAH_
 * `Num 21:28` For a fire has *_gone_* out of Heshbon, a flame from the city of Sihon. It has consumed Ar of Moab and the lords of the high places of Arnon.
 * `Deu 13:13` That some men, the children of Belial, have *_gone_* out from among you and have withdrawn the inhabitants of their city, saying, 'Let us go and serve other gods,' which you have not known,
 * `Deu 17:3` And has *_gone_* and served other gods and worshiped them, either the sun, moon, or any of the host of heaven, which I have not commanded,
-* `Deu 27:4` Therefore, it shall be, when you have *_gone_* over the Jordan, that you shall set up these stones which I command you this day on mount Ebal, and you shall plaster them with plaster.
+* `Deu 27:4` Therefore, it shall be when you have *_gone_* over the Jordan, that you shall set up these stones which I command you this day on mount Ebal, and you shall plaster them with plaster.
 * `Deu 32:36` For the LORD shall judge his people and have compassion on his servants when he sees that their power is *_gone_* and there is no one shut up or left.
 * `Jsh 2:7` And the men pursued them along the way to the fords of the Jordan. And as soon as those who pursued them had *_gone_* out, they shut the gate.
 * `Jsh 4:23` For the LORD your God dried up the waters of the Jordan from before you until you had passed over, as the LORD your God did to the Red Sea, which he dried up from before us until we had *_gone_* over,

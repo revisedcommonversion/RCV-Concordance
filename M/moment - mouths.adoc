@@ -2115,7 +2115,7 @@ _2 verses containing MOSEROTH_
 * `Deu 27:9` And *_Moses_* and the priests the Levites spoke to all Israel, saying, "Take heed and listen, O Israel. This day you have become the people of the LORD your God.
 * `Deu 27:11` And *_Moses_* charged the people the same day, saying,
 * `Deu 29:1` These are the words of the covenant which the LORD commanded *_Moses_* to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.
-* `Deu 29:2` And *_Moses_* called to all Israel, and said to them, "You have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh, to all his servants, and to all his land—
+* `Deu 29:2` And *_Moses_* called to all Israel and said to them, "You have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh, to all his servants, and to all his land—
 * `Deu 31:1` And *_Moses_* went and spoke these words to all Israel.
 * `Deu 31:7` And *_Moses_* called to Joshua, and said to him in the sight of all Israel, "Be strong and of a good courage, for you must go with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
 * `Deu 31:9` And *_Moses_* wrote this law and delivered it to the priests the sons of Levi, who bore the ark of the covenant of the LORD, and to all the elders of Israel.
@@ -2871,7 +2871,7 @@ _1 verse containing MOTIONS_
 * `Deu 3:12` "And this land, which we possessed at that time, from Aroer, which is by the Arnon River, and half *_mount_* Gilead, and its cities, I gave to the Reubenites and to the Gadites.
 * `Deu 4:48` From Aroer, which is by the bank of the Arnon River, even to *_mount_* Sion, which is Hermon,
 * `Deu 11:29` "And it shall come to pass when the LORD your God has brought you in to the land where you go to possess it, that you shall put the blessing upon *_mount_* Gerizim and the curse upon *_mount_* Ebal.
-* `Deu 27:4` Therefore, it shall be, when you have gone over the Jordan, that you shall set up these stones which I command you this day on *_mount_* Ebal, and you shall plaster them with plaster.
+* `Deu 27:4` Therefore, it shall be when you have gone over the Jordan, that you shall set up these stones which I command you this day on *_mount_* Ebal, and you shall plaster them with plaster.
 * `Deu 27:12` "These shall stand upon *_mount_* Gerizim to bless the people when you have come over the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
 * `Deu 27:13` And these shall stand upon *_mount_* Ebal to curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
 * `Deu 32:49` "Ascend this mountain of Abarim, to *_mount_* Nebo, which is in the land of Moab, that is over against Jericho, and behold the land of Canaan which I give to the children of Israel for a possession.

@@ -976,7 +976,7 @@ _47 verses containing PRIDE_
 * `Deu 17:12` And the man who will do presumptuously and will not listen to the *_priest_* who stands to minister there before the LORD your God, or to the judge, even that man shall die. And you shall remove the evil from Israel.
 * `Deu 18:3` "And this shall be the *_priest_*'s due from the people, from those who offer a sacrifice, whether ox or sheep, and they shall give to the *_priest_* the shoulder, the two cheeks, and the stomach.
 * `Deu 20:2` And it shall be when you come near the battle, that the *_priest_* shall approach and speak to the people,
-* `Deu 26:3` And you shall go to the *_priest_* who shall be in those days, and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
+* `Deu 26:3` And you shall go to the *_priest_* who shall be in those days and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
 * `Deu 26:4` And the *_priest_* shall take the basket from your hand and set it down before the altar of the LORD your God.
 * `Jsh 14:1` And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the *_priest_*, Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel distributed for inheritance to them.
 * `Jsh 17:4` And they came near before Eleazar the *_priest_*, and before Joshua the son of Nun, and before the princes, saying, "The LORD commanded Moses to give us an inheritance among our brothers." Therefore, according to the commandment of the LORD, he gave them an inheritance among the brothers of their father.
@@ -2578,7 +2578,7 @@ _5 verses containing PROFANING_
 
 == PROFESS
 
-* `Deu 26:3` And you shall go to the priest who shall be in those days, and say to him, 'I *_profess_* this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
+* `Deu 26:3` And you shall go to the priest who shall be in those days and say to him, 'I *_profess_* this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
 * `Mth 7:23` And then I will *_profess_* to them, 'I never knew you. "Depart from me, you who work iniquity."'
 * `Tit 1:16` They *_profess_* that they know God, but in works they deny him, being abominable, disobedient, and worthless for every good work.
 

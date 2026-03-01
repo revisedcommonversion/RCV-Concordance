@@ -618,7 +618,7 @@ _18 verses containing FAILS_
 * `Gen 25:30` And Esau said to Jacob, "Feed me, I pray you, with that same red pottage, for I am *_faint_*." Therefore, his name was called Edom.
 * `Deu 20:3` And shall say to them, 'Hear, O Israel, you approach this day to battle against your enemies. Do not let your hearts *_faint_*, do not fear, and do not tremble, neither be terrified because of them,
 * `Deu 20:8` And the officers shall speak further to the people, and they shall say, 'What man is there who is fearful and *_faint_*-hearted? Let him go and return to his house, lest his brothers' hearts should *_faint_* as well as his heart.'
-* `Deu 25:18` How he met you by the way and smote the hindmost of you, even all who were feeble behind you, when you were *_faint_* and weary. And he did not fear God.
+* `Deu 25:18` How he met you on the way and smote the hindmost of you, even all who were feeble behind you, when you were *_faint_* and weary. And he did not fear God.
 * `Jsh 2:9` And she said to the men, "I know that the LORD has given you the land, and that your terror has fallen upon us, and that all the inhabitants of the land *_faint_* because of you.
 * `Jsh 2:24` And they said to Joshua, "Truly the LORD has delivered into our hands all the land, for even all the inhabitants of the country *_faint_* because of us."
 * `Jdg 8:4` And Gideon came to the Jordan and passed over—he and the three hundred men who were with him—*_faint_*, yet pursuing them.
@@ -3730,7 +3730,7 @@ _25 verses containing FATHER-IN-LAW_
 * `Deu 24:19` "When you cut down your harvest in your field and forget a sheaf in the field, you shall not go back to fetch it. It shall be for the stranger, for the *_fatherless_*, and for the widow, so that the LORD your God may bless you in all the work of your hands.
 * `Deu 24:20` When you beat your olive-tree, you shall not go over the boughs again. It shall be for the stranger, for the *_fatherless_*, and for the widow.
 * `Deu 24:21` "When you gather the grapes of your vineyard, you shall not glean it afterward. It shall be for the stranger, for the *_fatherless_*, and for the widow.
-* `Deu 26:12` "When you have made an end of tithing all the tithes of your increase the third year, which is the year of tithing, and have given it to the Levite, the stranger, the *_fatherless_*, and the widow, so that they may eat within your gates and be filled,
+* `Deu 26:12` "When you have made an end of tithing all the tithes of your increase in the third year, which is the year of tithing, and have given it to the Levite, the stranger, the *_fatherless_*, and the widow, so that they may eat within your gates and be filled,
 * `Deu 26:13` You shall say before the LORD your God, 'I have brought away the hallowed things out of my house, and also have given them to the Levite, to the stranger, to the *_fatherless_*, and to the widow, according to all your commandments which you have commanded me. I have not transgressed your commandments, neither have I forgotten them.
 * `Deu 27:19` 'Cursed is he who perverts the judgment of the stranger, *_fatherless_*, and widow.' And all the people shall say, 'Amen.'
 * `Job 6:27` You even overwhelm the *_fatherless_* and you dig a pit for your friend.
@@ -3876,14 +3876,14 @@ _43 verses containing FATHERLESS_
 * `Deu 13:17` And nothing of the cursed thing shall cleave to your hand, so that the LORD will turn from the fierceness of his anger, show you mercy, have compassion upon you, and multiply you, as he has sworn to your *_fathers_*,
 * `Deu 19:8` "And if the LORD your God enlarges your limits, as he has sworn to your *_fathers_*, and gives you all the land which he promised to give to your *_fathers_*,
 * `Deu 24:16` "The *_fathers_* shall not be put to death for the children, neither shall the children be put to death for the *_fathers_*. Every man shall be put to death for his own sin.
-* `Deu 26:3` And you shall go to the priest who shall be in those days, and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our *_fathers_* to give us.'
+* `Deu 26:3` And you shall go to the priest who shall be in those days and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our *_fathers_* to give us.'
 * `Deu 26:7` And when we cried to the LORD God of our *_fathers_*, the LORD heard our voice and looked on our affliction, our labor, and our oppression.
 * `Deu 26:15` Look down from your holy habitation, from heaven, and bless your people Israel and the land which you have given us, as you swore to our *_fathers_*, a land that flows with milk and honey.'
-* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter in to the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your *_fathers_* has promised you.
+* `Deu 27:3` And you shall write upon them all the words of this law when you have passed over so that you may enter the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your *_fathers_* has promised you.
 * `Deu 28:11` And the LORD shall make you to abound in goods, in the fruit of your body, in the fruit of your livestock, and in the fruit of your ground in the land which the LORD swore to your *_fathers_* to give you.
 * `Deu 28:36` The LORD shall bring you and your king which you shall set over you to a nation which neither you nor your *_fathers_* have known. And there you shall serve other gods of wood and stone.
 * `Deu 28:64` And the LORD shall scatter you among all people from one end of the earth even to the other, and there you shall serve other gods of wood and stone, which neither you nor your *_fathers_* have known.
-* `Deu 29:13` So that he may establish you today for a people to himself, and that he may be to you a God, as he has said to you and as he has sworn to your *_fathers_*, to Abraham, to Isaac, and to Jacob.
+* `Deu 29:13` So that he may establish you today as a people to himself, and that he may be to you a God, as he has said to you and as he has sworn to your *_fathers_*, to Abraham, to Isaac, and to Jacob.
 * `Deu 29:25` Then men shall say, 'Because they have forsaken the covenant of the LORD God of their *_fathers_* which he made with them when he brought them forth from the land of Egypt.
 * `Deu 30:5` And the LORD your God will bring you into the land which your *_fathers_* possessed, and you shall possess it. And he will do you good and multiply you above your *_fathers_*.
 * `Deu 30:9` And the LORD your God will make you to abound in every work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your land for good, for the LORD will again rejoice over you for good, as he rejoiced over your *_fathers_*,
@@ -4404,7 +4404,7 @@ _2 verses containing FAULTY_
 * `Num 11:11` And Moses said to the LORD, "Why have you afflicted your servant? And why have I not found *_favor_* in your sight that you lay the burden of all this people upon me?
 * `Num 11:15` And if you deal thus with me, kill me, I pray you, out of hand, if I have found *_favor_* in your sight, and do not let me see my wretchedness."
 * `Deu 24:1` "When a man has taken a wife and married her, and it comes to pass that she finds no *_favor_* in his eyes because he has found some uncleanness in her, let him write her a bill of divorcement, give it in her hand, and send her out of his house.
-* `Deu 28:50` A nation of fierce countenance which shall not regard the person of the old, nor show *_favor_* to the young.
+* `Deu 28:50` A nation of fierce countenance which shall not regard the person of the old nor show *_favor_* to the young.
 * `Deu 33:23` And of Naphtali he said, "O Naphtali, satisfied with *_favor_* and full with the blessing of the LORD, possess the west and the south."
 * `Jsh 11:20` For it was of the LORD to harden their hearts and to come against Israel in battle so that he might utterly destroy them and that they might have no *_favor_*, in order that he might destroy them as the LORD commanded Moses.
 * `Rth 2:13` Then she said, "Let me find *_favor_* in your sight, my lord, for you have comforted me and you have spoken kindly to your servant, though I am not like one of your women-servants."
@@ -4561,7 +4561,7 @@ _2 verses containing FAWNS_
 * `Deu 19:20` And those who remain shall hear and *_fear_*, and shall no more from now on commit any such evil among you.
 * `Deu 20:3` And shall say to them, 'Hear, O Israel, you approach this day to battle against your enemies. Do not let your hearts faint, do not *_fear_*, and do not tremble, neither be terrified because of them,
 * `Deu 21:21` And all the men of his city shall stone him with stones so that he may die. Thus you shall remove evil from among you, and all Israel shall hear and *_fear_*.
-* `Deu 25:18` How he met you by the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not *_fear_* God.
+* `Deu 25:18` How he met you on the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not *_fear_* God.
 * `Deu 28:58` "If you will not observe to do all the words of this law that are written in this book so that you may *_fear_* this glorious and fearful name, YAHWEH YOUR GOD,
 * `Deu 28:66` And your life shall hang in doubt before you. And you shall *_fear_* day and night and shall have no assurance of your life.
 * `Deu 28:67` In the morning you shall say, 'O that it were evening!' and at evening you shall say, 'O that it were morning!' for the *_fear_* of your heart with which you shall *_fear_*, and for the sight of your eyes which you shall see.

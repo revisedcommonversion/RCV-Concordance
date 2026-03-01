@@ -1833,12 +1833,12 @@ _3 verses containing SAWS_
 * `Deu 21:7` And they shall answer and *_say_*, 'Our hands have not shed this blood, neither have our eyes seen it.
 * `Deu 21:20` And they shall *_say_* to the elders of his city, 'This son of ours is stubborn and rebellious. He will not obey our voice. He is a glutton and a drunkard.'
 * `Deu 22:16` And the young woman's father shall *_say_* to the elders, 'I gave my daughter to this man for a wife, and he hates her,
-* `Deu 25:7` And if the man does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders, and *_say_*, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
+* `Deu 25:7` And if the man does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders and *_say_*, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
 * `Deu 25:9` Then his brother's wife shall come to him in the presence of the elders, take his shoe off his foot, and spit in his face, and shall answer and *_say_*, 'So it shall be done to that man who will not build up his brother's house.'
-* `Deu 26:3` And you shall go to the priest who shall be in those days, and *_say_* to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
+* `Deu 26:3` And you shall go to the priest who shall be in those days and *_say_* to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
 * `Deu 26:5` And you shall speak and *_say_* before the LORD your God, 'My father was a Syrian ready to perish, and he went down to Egypt and sojourned there with a few and became a great, mighty, and populous nation there.
 * `Deu 26:13` You shall *_say_* before the LORD your God, 'I have brought away the hallowed things out of my house, and also have given them to the Levite, to the stranger, to the fatherless, and to the widow, according to all your commandments which you have commanded me. I have not transgressed your commandments, neither have I forgotten them.
-* `Deu 27:14` And the Levites shall speak, and *_say_* to all the men of Israel with a loud voice,
+* `Deu 27:14` And the Levites shall speak and *_say_* to all the men of Israel with a loud voice,
 * `Deu 27:15` 'Cursed is the man who makes any engraved or molten image, an abomination to the LORD, the work of the hands of the craftsman, and puts it in a secret place.' And all the people shall answer and *_say_*, 'Amen.'
 * `Deu 27:16` 'Cursed is he who sets light by his father or his mother.' And all the people shall *_say_*, 'Amen.'
 * `Deu 27:17` 'Cursed is he who removes his neighbor's landmark.' And all the people shall *_say_*, 'Amen.'
@@ -1855,8 +1855,8 @@ _3 verses containing SAWS_
 * `Deu 29:22` So that the generation to come of your children who arise after you and the stranger who comes from a distant land shall *_say_*—when they see the plagues of that land and the sicknesses which the LORD has laid upon it,
 * `Deu 29:24` Then all the nations shall *_say_*, 'Why has the LORD done so to this land? What does the heat of this great anger mean?'
 * `Deu 29:25` Then men shall *_say_*, 'Because they have forsaken the covenant of the LORD God of their fathers which he made with them when he brought them forth from the land of Egypt.
-* `Deu 30:12` It is not in heaven, so that you should *_say_*, 'Who shall ascend for us to heaven and bring it to us so that we may hear it and do it?'
-* `Deu 30:13` Neither is it beyond the sea, so that you should *_say_*, 'Who shall go over the sea for us and bring it to us so that we may hear it and do it?'
+* `Deu 30:12` It is not in heaven so that you should *_say_*, 'Who shall ascend for us to heaven and bring it to us so that we may hear it and do it?'
+* `Deu 30:13` Neither is it beyond the sea so that you should *_say_*, 'Who shall go over the sea for us and bring it to us so that we may hear it and do it?'
 * `Deu 31:17` Then my anger shall be kindled against them in that day and I will forsake them and hide my face from them, and they shall be devoured and many evils and troubles shall befall them, so that they will *_say_* in that day, 'Have these evils not come upon us because our God is not among us?'
 * `Deu 32:27` Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should *_say_*, "Our hand is high, and the LORD has not done all this."'
 * `Deu 32:37` And he shall *_say_*, 'Where are their gods, their rock in whom they trusted,
@@ -3027,7 +3027,7 @@ _1010 verses containing SAY_
 * `Deu 27:1` And Moses and the elders of Israel commanded the people, *_saying_*, "Keep all the commandments which I command you this day.
 * `Deu 27:9` And Moses and the priests the Levites spoke to all Israel, *_saying_*, "Take heed and listen, O Israel. This day you have become the people of the LORD your God.
 * `Deu 27:11` And Moses charged the people the same day, *_saying_*,
-* `Deu 29:19` And it should come to pass, when he hears the words of this curse, that he should bless himself in his heart, *_saying_*, 'I shall have peace, though I walk in the imagination of my heart,' to sweep away the moist with the dry.
+* `Deu 29:19` And it should come to pass when he hears the words of this curse, that he should bless himself in his heart, *_saying_*, 'I shall have peace, though I walk in the imagination of my heart,' to sweep away the moist with the dry.
 * `Deu 31:10` And Moses commanded them, *_saying_*, "At the end of every seven years, in the solemnity of the year of release, in the feast of tabernacles,
 * `Deu 31:25` That Moses commanded the Levites who bore the ark of the covenant of the LORD, *_saying_*,
 * `Deu 32:48` And the LORD spoke to Moses that same day, *_saying_*,
@@ -4219,7 +4219,7 @@ _31 verses containing SAYINGS_
 * `Deu 5:27` Go near and hear all that the LORD our God *_says_*, and speak to us all that the LORD our God speaks to you, and we will hear it and do it.'
 * `Deu 15:16` And it shall be, if he *_says_* to you, 'I will not leave you,' because he loves you and your house, because he is well with you,
 * `Deu 22:14` And gives occasions of speech against her and brings an evil name upon her, and *_says_*, 'I took this woman, and when I came to her, I did not find her a virgin,'
-* `Deu 25:8` Then the elders of his city shall call him and speak to him. And if he stands to it, and *_says_*, 'I do not want to take her,'
+* `Deu 25:8` Then the elders of his city shall call him and speak to him. And if he stands to it and *_says_*, 'I do not want to take her,'
 * `Jsh 7:13` Rise, sanctify the people, and say, 'Sanctify yourselves for tomorrow, for thus *_says_* the LORD God of Israel: "There is an accursed thing in the midst of you, O Israel. You cannot stand before your enemies until you take away the accursed thing from among you."
 * `Jsh 22:16` "Thus *_says_* the whole congregation of the LORD: 'What trespass is this that you have committed against the God of Israel by turning away this day from following the LORD, in that you have built yourselves an altar and have rebelled this day against the LORD?
 * `Jsh 24:2` And Joshua said to all the people, "Thus *_says_* the LORD God of Israel: 'Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nahor, and they served other gods.
