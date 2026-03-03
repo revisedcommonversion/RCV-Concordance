@@ -557,7 +557,7 @@ _1 verse containing ENCUMBRANCE_
 * `Deu 28:49` "The LORD shall bring a nation against you from far, from the *_end_* of the earth, as swift as the eagle flies, a nation whose language you shall not understand,
 * `Deu 28:64` And the LORD shall scatter you among all people from one *_end_* of the earth even to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known.
 * `Deu 31:10` And Moses commanded them, saying, "At the *_end_* of every seven years, in the solemnity of the year of release, in the feast of tabernacles,
-* `Deu 31:24` And it came to pass, when Moses had made an *_end_* of writing the words of this law in a book until they were finished,
+* `Deu 31:24` And it came to pass when Moses had made an *_end_* of writing the words of this law in a book until they were finished,
 * `Deu 32:20` And he said, 'I will hide my face from them. I will see what their *_end_* will be, for they are a very perverse generation, children in whom there is no faith.
 * `Deu 32:29` O that they were wise, that they understood this, that they would consider their latter *_end_*!
 * `Deu 32:45` And Moses made an *_end_* of speaking all these words to all Israel,
@@ -1382,8 +1382,8 @@ _264 verses containing ENEMIES_
 * `Num 35:23` Or, without seeing him, casts upon him any stone by which a man may die so that he dies, but he was not his *_enemy_* nor sought his harm,
 * `Deu 28:57` Toward her young one, her own offspring, and toward her children which she shall bear, for she shall eat them secretly for lack of all things in the siege and distress with which your *_enemy_* shall distress you in your gates.
 * `Deu 32:27` Were it not that I feared the wrath of the *_enemy_*, lest their adversaries should behave themselves strangely, and lest they should say, "Our hand is high, and the LORD has not done all this."'
-* `Deu 32:42` I will make my arrows drunk with blood and my sword shall devour flesh, and that with the blood of the slain and of the captives from the beginning of revenges upon the *_enemy_*.'
-* `Deu 33:27` The eternal God is your refuge, and underneath are the everlasting arms. And he shall thrust out the *_enemy_* from before you, and shall say, 'Destroy them.'
+* `Deu 32:42` I will make my arrows drunk with blood, and my sword shall devour flesh, and that with the blood of the slain and of the captives from the beginning of revenges upon the *_enemy_*.'
+* `Deu 33:27` The eternal God is your refuge, and underneath are the everlasting arms. And he shall thrust out the *_enemy_* from before you and shall say, 'Destroy them.'
 * `Jdg 16:23` Then the lords of the Philistines assembled to offer a great sacrifice to Dagon their god and to rejoice, for they said, "Our god has delivered Samson our *_enemy_* into our hand."
 * `Jdg 16:24` And when the people saw him, they praised their god, for they said, "Our god has delivered into our hands our *_enemy_* and the destroyer of our country who slew many of us."
 * `1Sa 2:32` And you shall see an *_enemy_* in my habitation in all the wealth which God shall give Israel. And there shall not be an old man in your house forever.
@@ -1701,7 +1701,7 @@ _1 verse containing ENLARGEMENT_
 
 * `Deu 12:20` "When the LORD your God *_enlarges_* your border, as he has promised you, and you say, 'I will eat flesh,' because your soul longs to eat flesh, you may eat flesh, whatever your soul desires.
 * `Deu 19:8` "And if the LORD your God *_enlarges_* your limits, as he has sworn to your fathers, and gives you all the land which he promised to give to your fathers,
-* `Deu 33:20` And of Gad he said, "Blessed is he who *_enlarges_* Gad. He dwells as a lion and tears the arm with the crown of the head.
+* `Deu 33:20` And of Gad he said, "Blessed is he who *_enlarges_* Gad. He dwells like a lion and tears the arm with the crown of the head.
 * `Job 12:23` He increases nations and destroys them. He *_enlarges_* nations and diminishes them.
 * `Hab 2:5` And also, because he transgresses by wine, he is a proud man and does not rest. He *_enlarges_* his desire as hell, and is as death and cannot be satisfied. He gathers to himself all nations and collects to himself all people.
 

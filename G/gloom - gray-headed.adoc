@@ -989,9 +989,9 @@ _1 verse containing GNAWED_
 * `Deu 30:13` Neither is it beyond the sea so that you should say, 'Who shall *_go_* over the sea for us and bring it to us so that we may hear it and do it?'
 * `Deu 30:16` In that I command you this day to love the LORD your God, to walk in his ways, and to keep his commandments, his statutes, and his judgments, so that you may live and multiply, and the LORD your God shall bless you in the land where you *_go_* to possess it.
 * `Deu 30:18` I denounce to you this day, that you shall surely perish, and that you shall not prolong your days upon the land where you pass over the Jordan to *_go_* to possess it.
-* `Deu 31:2` And he said to them, "I am one hundred and twenty years old this day. I can no longer *_go_* out and come in. Also the LORD has said to me, 'You shall not *_go_* over this Jordan.'
+* `Deu 31:2` And he said to them, "I am one hundred and twenty years old this day. I can no longer *_go_* out and come in. Also, the LORD has said to me, 'You shall not *_go_* over this Jordan.'
 * `Deu 31:3` The LORD your God, he will *_go_* over before you and he will destroy these nations from before you, and you shall possess them. And Joshua, he shall *_go_* over before you, as the LORD has said.
-* `Deu 31:7` And Moses called to Joshua, and said to him in the sight of all Israel, "Be strong and of a good courage, for you must *_go_* with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
+* `Deu 31:7` And Moses called to Joshua and said to him in the sight of all Israel, "Be strong and of a good courage, for you must *_go_* with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
 * `Deu 31:13` And that their children who have not known anything may hear and learn to fear the LORD your God, as long as you live in the land where you *_go_* over the Jordan to possess it."
 * `Deu 31:16` And the LORD said to Moses, "Behold, you shall sleep with your fathers, and this people will rise up and commit idolatry with the gods of the strangers of the land where they *_go_* to be among them, and will forsake me and break my covenant which I have made with them.
 * `Deu 32:47` For it is not a vain thing for you, because it is your life, and through this thing you shall prolong your days in the land where you *_go_* over the Jordan to possess it."
@@ -2860,9 +2860,9 @@ _1 verse containing GOBLET_
 * `Deu 30:16` In that I command you this day to love the LORD your *_God_*, to walk in his ways, and to keep his commandments, his statutes, and his judgments, so that you may live and multiply, and the LORD your *_God_* shall bless you in the land where you go to possess it.
 * `Deu 30:20` To love the LORD your *_God_*, to obey his voice, and to cleave to him (for he is your life and the length of your days), so that you may dwell in the land which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them."
 * `Deu 31:3` The LORD your *_God_*, he will go over before you and he will destroy these nations from before you, and you shall possess them. And Joshua, he shall go over before you, as the LORD has said.
-* `Deu 31:6` Be strong and of a good courage, do not fear, nor be afraid of them, for the LORD your *_God_*, it is he who goes with you. He will not fail you nor forsake you."
+* `Deu 31:6` Be strong and of a good courage. Do not fear nor be afraid of them, for the LORD your *_God_*, it is he who goes with you. He will not fail you nor forsake you."
 * `Deu 31:11` When all Israel has come to appear before the LORD your *_God_* in the place which he chooses, you shall read this law before all Israel in their hearing.
-* `Deu 31:12` Convene the people—men, women, children, and your stranger who is within your gates—so that they may hear, and that they may learn, and fear the LORD your *_God_*, and observe to do all the words of this law,
+* `Deu 31:12` Convene the people—men, women, children, and your stranger who is within your gates—so that they may hear and learn to fear the LORD your *_God_*, and observe to do all the words of this law,
 * `Deu 31:13` And that their children who have not known anything may hear and learn to fear the LORD your *_God_*, as long as you live in the land where you go over the Jordan to possess it."
 * `Deu 31:17` Then my anger shall be kindled against them in that day and I will forsake them and hide my face from them, and they shall be devoured and many evils and troubles shall befall them, so that they will say in that day, 'Have these evils not come upon us because our *_God_* is not among us?'
 * `Deu 31:26` "Take this book of the law and put it by the side of the ark of the covenant of the LORD your *_God_* so that it may be there for a witness against you.
@@ -2876,7 +2876,7 @@ _1 verse containing GOBLET_
 * `Deu 32:39` 'See now that I, even I am he, and there is no *_god_* with me. I kill and I make alive. I wound and I heal. There is no one who can deliver out of my hand.
 * `Deu 33:1` And this is the blessing with which Moses, the man of *_God_*, blessed the children of Israel before his death:
 * `Deu 33:26` "There is no one like the *_God_* of Jeshurun, who rides upon the heaven to your help and in his excellence on the sky.
-* `Deu 33:27` The eternal *_God_* is your refuge, and underneath are the everlasting arms. And he shall thrust out the enemy from before you, and shall say, 'Destroy them.'
+* `Deu 33:27` The eternal *_God_* is your refuge, and underneath are the everlasting arms. And he shall thrust out the enemy from before you and shall say, 'Destroy them.'
 * `Jsh 1:9` Have I not commanded you? Be strong and of a good courage. Do not be afraid, neither be dismayed, for the LORD your *_God_* is with you wherever you go."
 * `Jsh 1:11` "Pass through the host and command the people, saying, 'Prepare yourselves provisions, for within three days you shall pass over this Jordan to go in to possess the land which the LORD your *_God_* gives you to possess it.'"
 * `Jsh 1:13` "Remember the word which Moses the servant of the LORD commanded you, saying, 'The LORD your *_God_* has given you rest and has given you this land.'
@@ -6191,7 +6191,7 @@ _14 verses containing GODLY_
 * `Deu 30:17` But if your heart turns away so that you will not hear, but are drawn away and worship other *_gods_* and serve them,
 * `Deu 31:16` And the LORD said to Moses, "Behold, you shall sleep with your fathers, and this people will rise up and commit idolatry with the *_gods_* of the strangers of the land where they go to be among them, and will forsake me and break my covenant which I have made with them.
 * `Deu 31:18` And I will surely hide my face in that day for all the evils which they have wrought, because they have turned to other *_gods_*.
-* `Deu 31:20` For when I have brought them into the land which I swore to their fathers that flows with milk and honey and they have eaten and filled themselves and waxed fat, they will turn to other *_gods_*, serve them, provoke me, and break my covenant.
+* `Deu 31:20` For when I have brought them into the land which I swore to their fathers that flows with milk and honey, and they have eaten and filled themselves and waxed fat, they will turn to other *_gods_*, serve them, provoke me, and break my covenant.
 * `Deu 32:16` They provoked him to jealousy with strange *_gods_*. With abominations they provoked him to anger.
 * `Deu 32:17` They sacrificed to devils, not to God, to *_gods_* which they did not know, to new *_gods_* who came newly up, whom your fathers did not fear.
 * `Deu 32:37` And he shall say, 'Where are their *_gods_*, their rock in whom they trusted,
@@ -6379,7 +6379,7 @@ _213 verses containing GODS_
 * `Deu 22:13` "If any man takes a wife, *_goes_* in to her, and then hates her,
 * `Deu 23:9` "When the host *_goes_* forth against your enemies, keep yourself from every wicked thing.
 * `Deu 24:13` In any case, you shall return the pledge to him when the sun *_goes_* down, so that he may sleep in his own clothing and bless you. And it shall be righteousness for you before the LORD your God.
-* `Deu 31:6` Be strong and of a good courage, do not fear, nor be afraid of them, for the LORD your God, it is he who *_goes_* with you. He will not fail you nor forsake you."
+* `Deu 31:6` Be strong and of a good courage. Do not fear nor be afraid of them, for the LORD your God, it is he who *_goes_* with you. He will not fail you nor forsake you."
 * `Deu 31:8` And the LORD, it is he who *_goes_* before you. He will be with you. He will not fail you nor forsake you. Do not fear, neither be dismayed."
 * `Jsh 2:19` And it shall be, that whoever *_goes_* out of the doors of your house into the street, his blood shall be upon his head, and we will be guiltless. And whoever is with you in the house, his blood shall be on our head if any hand is upon him.
 * `Jsh 10:10` And the LORD completely defeated them before Israel, slew them with a great slaughter at Gibeon, chased them along the way that *_goes_* up to Beth-horon, and smote them to Azekah and to Makkedah.
@@ -7415,8 +7415,8 @@ _203 verses containing GONE_
 * `Deu 30:5` And the LORD your God will bring you into the land which your fathers possessed, and you shall possess it. And he will do you *_good_* and multiply you above your fathers.
 * `Deu 30:9` And the LORD your God will make you to abound in every work of your hand, in the fruit of your body, in the fruit of your livestock, and in the fruit of your land for *_good_*, for the LORD will again rejoice over you for *_good_*, as he rejoiced over your fathers,
 * `Deu 30:15` "Behold, I have set before you this day life and *_good_*, and death and evil,
-* `Deu 31:6` Be strong and of a *_good_* courage, do not fear, nor be afraid of them, for the LORD your God, it is he who goes with you. He will not fail you nor forsake you."
-* `Deu 31:7` And Moses called to Joshua, and said to him in the sight of all Israel, "Be strong and of a *_good_* courage, for you must go with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
+* `Deu 31:6` Be strong and of a *_good_* courage. Do not fear nor be afraid of them, for the LORD your God, it is he who goes with you. He will not fail you nor forsake you."
+* `Deu 31:7` And Moses called to Joshua and said to him in the sight of all Israel, "Be strong and of a *_good_* courage, for you must go with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
 * `Deu 31:23` And he gave Joshua the son of Nun a charge, and said, "Be strong and of a *_good_* courage, for you shall bring the children of Israel into the land which I swore to them. And I will be with you."
 * `Deu 33:16` For the precious things of the earth and its fullness, and for the *_good_* will of him who dwelt in the bush. Let the blessing come upon the head of Joseph and upon the top of the head of him who was separated from his brothers.
 * `Jsh 1:6` Be strong and of a *_good_* courage, for to this people you shall divide for an inheritance the land which I swore to their fathers to give them.
@@ -9125,7 +9125,7 @@ _2 verses containing GRAVITY_
 * `Gen 42:38` And he said, "My son shall not go down with you, for his brother is dead and he is left alone. If mischief befalls him along the way in which you go, then you will bring down my *_gray_* hairs with sorrow to the grave."
 * `Gen 44:29` And if you take this one also from me and mischief befalls him, you will bring down my *_gray_* hairs with sorrow to the grave.'
 * `Gen 44:31` It shall come to pass when he sees that the boy is not with us, that he will die, and your servants will bring down the *_gray_* hairs of your servant our father with sorrow to the grave.
-* `Deu 32:25` The sword outside and terror inside, shall destroy both the young man and the virgin, the nursing child also with the man of *_gray_* hairs.
+* `Deu 32:25` The sword outside and terror inside shall destroy both the young man and the virgin, the nursing child also with the man of *_gray_* hairs.
 * `1Sa 12:2` And now, behold, the king walks before you, but I am old and *_gray_*-headed, and behold, my sons are with you. And I have walked before you from my childhood to this day.
 * `Job 15:10` With us are both the *_gray_* headed and very aged men, much older than your father.
 * `Psa 71:18` And even when I am old and *_gray_*-headed, O God, do not forsake me, until I have shown your strength to this generation and your power to everyone who is to come.
