@@ -633,7 +633,7 @@ _183 verses containing CALL_
 * `Deu 31:7` And Moses *_called_* to Joshua and said to him in the sight of all Israel, "Be strong and of a good courage, for you must go with this people to the land which the LORD has sworn to their fathers to give them. And you shall cause them to inherit it.
 * `Jsh 4:4` Then Joshua *_called_* the twelve men whom he had prepared from the children of Israel, from every tribe a man.
 * `Jsh 5:9` And the LORD said to Joshua, "This day I have rolled away the reproach of Egypt from off you." Therefore, the name of the place is *_called_* Gilgal to this day.
-* `Jsh 6:6` And Joshua the son of Nun *_called_* the priests, and said to them, "Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before the ark of the LORD."
+* `Jsh 6:6` And Joshua the son of Nun *_called_* the priests and said to them, "Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before the ark of the LORD."
 * `Jsh 7:26` And they raised over him a great heap of stones to this day. So the LORD turned from the fierceness of his anger. Therefore, the name of that place was *_called_* the Valley of Achor to this day.
 * `Jsh 8:16` And all the people who were in Ai were *_called_* together to pursue them. And they pursued Joshua and were drawn away from the city.
 * `Jsh 9:22` And Joshua *_called_* for them and spoke to them, saying, "Why have you deceived us, saying, 'We are very far from you,' when you dwell among us?
@@ -1543,7 +1543,7 @@ _25 verses containing CALVES_
 * `Jsh 1:1` Now after the death of Moses the servant of the LORD, it *_came_* to pass, that the LORD spoke to Joshua the son of Nun, Moses's minister, saying,
 * `Jsh 2:1` And Joshua the son of Nun sent from Shittim two men to spy secretly, saying, "Go, view the land, even Jericho." And they went and *_came_* into the house of a harlot named Rahab and lodged there.
 * `Jsh 2:2` And it was told to the king of Jericho, saying, "Behold, men *_came_* in here tonight from the children of Israel to search out the country."
-* `Jsh 2:4` And the woman took the two men and hid them, and said thus: "Men *_came_* to me, but I did not know where they were from.
+* `Jsh 2:4` And the woman took the two men and hid them. Then she said, "Men *_came_* to me, but I did not know where they were from.
 * `Jsh 2:5` And it *_came_* to pass about the time of shutting the gate, when it was dark, that the men went out. Where the men went, I do not know. Pursue after them quickly, for you will overtake them."
 * `Jsh 2:8` And before they had lain down, she *_came_* up to them upon the roof,
 * `Jsh 2:10` For we have heard how the LORD dried up the water of the Red Sea for you when you *_came_* out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the Jordan, Sihon and Og, whom you utterly destroyed.
@@ -1553,25 +1553,25 @@ _25 verses containing CALVES_
 * `Jsh 3:2` And it *_came_* to pass after three days, that the officers went through the host,
 * `Jsh 3:14` And it *_came_* to pass, that when the people set out from their tents to pass over the Jordan, the priests carried the ark of the covenant before the people.
 * `Jsh 3:16` The waters which *_came_* down from above stood and rose up in a heap very far from the city of Adam, that is beside Zaretan, and those which *_came_* down toward the sea of the plain, even the Salt Sea, failed, and were cut off. And the people passed through over against Jericho.
-* `Jsh 4:1` And it *_came_* to pass, when all the people had quite passed over the Jordan, that the LORD spoke to Joshua, saying,
-* `Jsh 4:11` And it *_came_* to pass, when all the people had quite passed over, that the ark of the LORD and the priests passed over in the presence of the people.
-* `Jsh 4:18` And it *_came_* to pass, when the priests who bore the ark of the covenant of the LORD had come up out of the midst of the Jordan, and the soles of the priests' feet were lifted up upon the dry land, that the waters of the Jordan returned to their place and flowed over all its banks as they did before.
+* `Jsh 4:1` And it *_came_* to pass when all the people had quite passed over the Jordan, that the LORD spoke to Joshua, saying,
+* `Jsh 4:11` And it *_came_* to pass when all the people had quite passed over, that the ark of the LORD and the priests passed over in the presence of the people.
+* `Jsh 4:18` And it *_came_* to pass when the priests who bore the ark of the covenant of the LORD had come up out of the midst of the Jordan, and the soles of the priests' feet were lifted up upon the dry land, that the waters of the Jordan returned to their place and flowed over all its banks as they did before.
 * `Jsh 4:19` And the people *_came_* up out of the Jordan on the tenth day of the first month and encamped in Gilgal, in the east border of Jericho.
 * `Jsh 4:22` Then you shall let your children know, saying, 'Israel *_came_* over this Jordan on dry land.'
-* `Jsh 5:1` And it *_came_* to pass, when all the kings of the Amorites who were on the side of the Jordan westward and all the kings of the Canaanites who were by the sea heard that the LORD had dried up the waters of the Jordan from before the children of Israel until they had passed over, that their heart melted, neither was there spirit in them anymore, because of the children of Israel.
-* `Jsh 5:4` And this is the cause why Joshua circumcised [them]: All the people who *_came_* out of Egypt, who were males, even all the men of war died in the wilderness by the way, after they *_came_* out of Egypt.
-* `Jsh 5:5` Now all the people who *_came_* out were circumcised, but all the people who were born in the wilderness by the way as they *_came_* forth from Egypt had not been circumcised.
+* `Jsh 5:1` And it *_came_* to pass when all the kings of the Amorites who were on the side of the Jordan westward and all the kings of the Canaanites who were by the sea heard that the LORD had dried up the waters of the Jordan from before the children of Israel until they had passed over, that their heart melted, neither was there spirit in them anymore, because of the children of Israel.
+* `Jsh 5:4` And this is the cause why Joshua circumcised [them]: All the people who *_came_* out of Egypt, who were males, even all the men of war died in the wilderness on the way, after they *_came_* out of Egypt.
+* `Jsh 5:5` Now all the people who *_came_* out were circumcised, but all the people who were born in the wilderness on the way as they *_came_* forth from Egypt had not been circumcised.
 * `Jsh 5:6` For the children of Israel walked forty years in the wilderness until all the people who were men of war who *_came_* out of Egypt were consumed because they did not obey the voice of the LORD, to whom the LORD swore that he would not show them the land which the LORD swore to their fathers that he would give us, a land that flows with milk and honey.
 * `Jsh 5:8` And it *_came_* to pass when they had finished circumcising all the people, that they stayed in their places in the camp until they were whole.
-* `Jsh 5:13` And it *_came_* to pass when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, there stood a man over against him with his sword drawn in his hand. And Joshua went to him, and said to him, "Are you for us or for our adversaries?"
+* `Jsh 5:13` And it *_came_* to pass when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, there stood a man over against him with his sword drawn in his hand. And Joshua went to him and said to him, "Are you for us or for our adversaries?"
 * `Jsh 6:1` Now Jericho was closely shut up because of the children of Israel. No one went out, and no one *_came_* in.
-* `Jsh 6:8` And it *_came_* to pass, when Joshua had spoken to the people, that the seven priests bearing the seven trumpets of rams' horns passed on before the LORD and blew with the trumpets. And the ark of the covenant of the LORD followed them.
+* `Jsh 6:8` And it *_came_* to pass when Joshua had spoken to the people, that the seven priests bearing the seven trumpets of rams' horns passed on before the LORD and blew with the trumpets. And the ark of the covenant of the LORD followed them.
 * `Jsh 6:9` And the armed men went before the priests who blew with the trumpets, and the rear-guard *_came_* after the ark, the priests going on and blowing with the trumpets.
 * `Jsh 6:11` So the ark of the LORD compassed the city, going around it once. And they *_came_* into the camp and lodged in the camp.
 * `Jsh 6:13` And seven priests bearing seven trumpets of rams' horns before the ark of the LORD went on continually and blew with the trumpets. And the armed men went before them, but the rear-guard *_came_* after the ark of the LORD, the priests going on and blowing with the trumpets.
-* `Jsh 6:15` And it *_came_* to pass on the seventh day, that they rose early about the dawning of the day and compassed the city after the same manner seven times. Only on that day they compassed the city seven times.
+* `Jsh 6:15` And it *_came_* to pass on the seventh day, that they rose early at about the dawning of the day and compassed the city after the same manner seven times. Only on that day they compassed the city seven times.
 * `Jsh 6:16` And it *_came_* to pass at the seventh time, when the priests blew with the trumpets, Joshua said to the people, "Shout, for the LORD has given you the city.
-* `Jsh 6:20` So the people shouted when the priests blew with the trumpets. And it *_came_* to pass, when the people heard the sound of the trumpet and the people shouted with a great shout, that the wall fell down flat so that the people went up into the city, every man straight before him, and they took the city.
+* `Jsh 6:20` So the people shouted when the priests blew with the trumpets. And it *_came_* to pass when the people heard the sound of the trumpet and the people shouted with a great shout, that the wall fell down flat so that the people went up into the city, every man straight before him, and they took the city.
 * `Jsh 8:11` And all the people, even the people of war who were with him, went up, drew near, *_came_* before the city, and pitched on the north side of Ai. Now there was a valley between them and Ai.
 * `Jsh 8:14` And it *_came_* to pass when the king of Ai saw it, that they hastened and rose early, and the men of the city went out against Israel to battle—he and all his people—at a time appointed, before the plain. But he did not know that there was an ambush against him behind the city.
 * `Jsh 8:24` And it *_came_* to pass when Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness in which they chased them, and when they had all fallen on the edge of the sword until they were consumed, that all the Israelites returned to Ai and smote it with the edge of the sword.
@@ -3295,7 +3295,7 @@ _1 verse containing CAMON_
 * `Jsh 5:8` And it came to pass when they had finished circumcising all the people, that they stayed in their places in the *_camp_* until they were whole.
 * `Jsh 6:11` So the ark of the LORD compassed the city, going around it once. And they came into the *_camp_* and lodged in the *_camp_*.
 * `Jsh 6:14` And on the second day they compassed the city once and returned into the *_camp_*. They did so for six days.
-* `Jsh 6:18` But as for you, only keep yourselves from the accursed thing, lest you make yourselves accursed when you take of the accursed thing, and make the *_camp_* of Israel a curse and trouble it.
+* `Jsh 6:18` But as for you, only keep yourselves from the accursed thing, lest you make yourselves accursed when you take from the accursed thing, and make the *_camp_* of Israel a curse and trouble it.
 * `Jsh 6:23` And the young men who were spies went in and brought out Rahab, her father, her mother, her brothers, and all that she had. And they brought out all her kindred and left them outside the *_camp_* of Israel.
 * `Jsh 9:6` And they went to Joshua in the *_camp_* at Gilgal, and said to him and to the men of Israel, "We have come from a far country. Now therefore, make a league with us."
 * `Jsh 10:6` And the men of Gibeon sent to Joshua in the *_camp_* at Gilgal, saying, "Do not slack your hand from your servants. Come up to us quickly and save us, and help us, for all the kings of the Amorites who dwell in the mountains are assembled against us."
@@ -3761,7 +3761,7 @@ _14 verses containing CANAANITE_
 * `Deu 11:30` Are they not on the other side of the Jordan, by the way where the sun goes down in the land of the *_Canaanites_* who dwell in the plain over against Gilgal beside the plains of Moreh?
 * `Deu 20:17` But you shall utterly destroy them, namely, the Hittites, the Amorites, *_Canaanites_*, the Perizzites, Hivites, and the Jebusites, as the LORD your God has commanded you,
 * `Jsh 3:10` And Joshua said, "By this you shall know that the living God is among you and that he will without fail drive out from before you the *_Canaanites_*, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
-* `Jsh 5:1` And it came to pass, when all the kings of the Amorites who were on the side of the Jordan westward and all the kings of the *_Canaanites_* who were by the sea heard that the LORD had dried up the waters of the Jordan from before the children of Israel until they had passed over, that their heart melted, neither was there spirit in them anymore, because of the children of Israel.
+* `Jsh 5:1` And it came to pass when all the kings of the Amorites who were on the side of the Jordan westward and all the kings of the *_Canaanites_* who were by the sea heard that the LORD had dried up the waters of the Jordan from before the children of Israel until they had passed over, that their heart melted, neither was there spirit in them anymore, because of the children of Israel.
 * `Jsh 7:9` For the *_Canaanites_* and all the inhabitants of the land will hear of it, and will surround us and cut off our name from the earth. And what will you do to your great name?"
 * `Jsh 12:8` In the mountains, in the valleys, in the plains, in the springs, in the wilderness, and in the south country—[the land of] the Hittites, the Amorites, the *_Canaanites_*, the Perizzites, the Hivites, and the Jebusites:
 * `Jsh 13:4` From the south all the land of the *_Canaanites_*, and Mearah that is beside the Sidonians, to Aphek to the borders of the Amorites;
@@ -4219,7 +4219,7 @@ _6 verses containing CAPS_
 * `Num 2:27` And those who encamp by him shall be the tribe of Asher, and the *_captain_* of the children of Asher shall be Pagiel the son of Ocran.
 * `Num 2:29` Then the tribe of Naphtali, and the *_captain_* of the children of Naphtali shall be Ahira the son of Enan.
 * `Num 14:4` And they said to one another, "Let us make a *_captain_* and let us return into Egypt."
-* `Jsh 5:14` And he said, "No, but as *_captain_* of the host of the LORD I have now come." And Joshua fell on his face to the earth and worshiped, and said to him, "What does my lord say to his servant?"
+* `Jsh 5:14` And he said, "No, but as *_captain_* of the host of the LORD I have now come." And Joshua fell on his face to the earth and worshiped and said to him, "What does my lord say to his servant?"
 * `Jsh 5:15` And the *_captain_* of the LORD'S host said to Joshua, "Take your shoes off your feet, for the place on which you stand is holy." And Joshua did so.
 * `Jdg 4:2` And the LORD sold them into the hand of Jabin king of Canaan who reigned in Hazor, the *_captain_* of whose host was Sisera, who dwelt in Harosheth of the Gentiles.
 * `Jdg 4:7` And I will draw out to you Sisera the *_captain_* of Jabin's army, along with his chariots and his multitude, at the Kishon River, and I will deliver him into your hand'?"

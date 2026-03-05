@@ -1620,7 +1620,7 @@ _1 verse containing SAFFRON_
 * `Deu 33:24` And of Asher he *_said_*, "Let Asher be blessed with children. Let him be acceptable to his brothers, and let him dip his foot in oil.
 * `Deu 34:4` And the LORD *_said_* to him, "This is the land which I swore to Abraham, to Isaac, and to Jacob, saying, 'I will give it to your offspring.' I have caused you to see it with your eyes, but you shall not go over there."
 * `Jsh 1:3` Every place that the sole of your foot shall tread upon I have given to you, as I *_said_* to Moses.
-* `Jsh 2:4` And the woman took the two men and hid them, and *_said_* thus: "Men came to me, but I did not know where they were from.
+* `Jsh 2:4` And the woman took the two men and hid them. Then she *_said_*, "Men came to me, but I did not know where they were from.
 * `Jsh 2:9` And she *_said_* to the men, "I know that the LORD has given you the land, and that your terror has fallen upon us, and that all the inhabitants of the land faint because of you.
 * `Jsh 2:16` And she *_said_* to them, "Depart to the mountain, lest the pursuers meet you. And hide yourselves there for three days until the pursuers have returned. And afterward, you may go your way."
 * `Jsh 2:17` And the men *_said_* to her, "We will be blameless of this oath of yours which you have made us swear.
@@ -1631,13 +1631,13 @@ _1 verse containing SAFFRON_
 * `Jsh 3:9` And Joshua *_said_* to the children of Israel, "Come here, and hear the words of the LORD your God."
 * `Jsh 3:10` And Joshua *_said_*, "By this you shall know that the living God is among you and that he will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
 * `Jsh 4:5` And Joshua *_said_* to them, "Pass over before the ark of the LORD your God into the midst of the Jordan, and each of you take up a stone upon his shoulder, according to the number of the tribes of the children of Israel,
-* `Jsh 5:2` At that time the LORD *_said_* to Joshua, "Make yourself sharp knives and circumcise the children of Israel again the second time."
+* `Jsh 5:2` At that time the LORD *_said_* to Joshua, "Make yourself sharp knives and circumcise the children of Israel again a second time."
 * `Jsh 5:9` And the LORD *_said_* to Joshua, "This day I have rolled away the reproach of Egypt from off you." Therefore, the name of the place is called Gilgal to this day.
-* `Jsh 5:13` And it came to pass when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, there stood a man over against him with his sword drawn in his hand. And Joshua went to him, and *_said_* to him, "Are you for us or for our adversaries?"
-* `Jsh 5:14` And he *_said_*, "No, but as captain of the host of the LORD I have now come." And Joshua fell on his face to the earth and worshiped, and *_said_* to him, "What does my lord say to his servant?"
+* `Jsh 5:13` And it came to pass when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, there stood a man over against him with his sword drawn in his hand. And Joshua went to him and *_said_* to him, "Are you for us or for our adversaries?"
+* `Jsh 5:14` And he *_said_*, "No, but as captain of the host of the LORD I have now come." And Joshua fell on his face to the earth and worshiped and *_said_* to him, "What does my lord say to his servant?"
 * `Jsh 5:15` And the captain of the LORD'S host *_said_* to Joshua, "Take your shoes off your feet, for the place on which you stand is holy." And Joshua did so.
 * `Jsh 6:2` And the LORD *_said_* to Joshua, "Behold, I have given into your hand Jericho, its king, and the mighty men of valor.
-* `Jsh 6:6` And Joshua the son of Nun called the priests, and *_said_* to them, "Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before the ark of the LORD."
+* `Jsh 6:6` And Joshua the son of Nun called the priests and *_said_* to them, "Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before the ark of the LORD."
 * `Jsh 6:7` And he *_said_* to the people, "Pass on, and compass the city, and let him who is armed pass on before the ark of the LORD."
 * `Jsh 6:16` And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua *_said_* to the people, "Shout, for the LORD has given you the city.
 * `Jsh 6:22` But Joshua had *_said_* to the two men who spied out the country, "Go into the harlot's house and bring out from there the woman and all that she has, as you swore to her."
@@ -5402,7 +5402,7 @@ _7 verses containing SAMARITANS_
 * `Deu 27:11` And Moses charged the people the *_same_* day, saying,
 * `Deu 31:22` Moses therefore wrote this song the *_same_* day and taught it to the children of Israel.
 * `Deu 32:48` And the LORD spoke to Moses that *_same_* day, saying,
-* `Jsh 6:15` And it came to pass on the seventh day, that they rose early about the dawning of the day and compassed the city after the *_same_* manner seven times. Only on that day they compassed the city seven times.
+* `Jsh 6:15` And it came to pass on the seventh day, that they rose early at about the dawning of the day and compassed the city after the *_same_* manner seven times. Only on that day they compassed the city seven times.
 * `Jsh 11:16` So Joshua took all that land, the hills, all the south country, all the land of Goshen, the valley, the plain, the mountain of Israel, and the valley of the *_same_*,
 * `Jsh 15:8` And the border went up by the valley of the son of Hinnom, to the south side of the Jebusite (the *_same_* is Jerusalem). And the border went up to the top of the mountain that lies before the valley of Hinnom westward, which is at the end of the valley of Rephaim northward.
 * `Jdg 6:25` And it came to pass the *_same_* night, that the LORD said to him, "Take your father's young bull, even the second bull of seven years old, and throw down the altar of Baal that your father has and cut down the grove that is by it.
