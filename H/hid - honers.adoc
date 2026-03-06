@@ -20,10 +20,10 @@
 * `Jsh 2:6` But she had brought them up to the roof of the house and *_hid_* them with the stalks of flax, which she had laid in order upon the roof.
 * `Jsh 6:17` And the city shall be accursed, even it and all who are in it, to the LORD. Only Rahab the harlot shall live—she and all who are with her in the house—because she *_hid_* the messengers that we sent.
 * `Jsh 6:25` But Rahab the harlot, her father's household, and all that she had, Joshua saved alive. And she dwells in Israel even to this day because she *_hid_* the messengers which Joshua sent to spy out Jericho.
-* `Jsh 7:21` When I saw among the plunder a fine Babylonish garment, two hundred shekels of silver, and a wedge of gold of fifty shekels weight, I coveted them and took them, and behold, they are *_hid_* in the earth in the midst of my tent, and the silver under it."
-* `Jsh 7:22` So Joshua sent messengers and they ran to the tent, and behold, it was *_hid_* in his tent, and the silver under it.
+* `Jsh 7:21` When I saw among the plunder a fine Babylonish garment, two hundred shekels of silver, and a wedge of gold of fifty shekels weight, I coveted them and took them, and behold, they are *_hid_* in the earth in the midst of my tent, with the silver under it."
+* `Jsh 7:22` So Joshua sent messengers and they ran to the tent, and behold, it was *_hid_* in his tent, with the silver under it.
 * `Jsh 10:16` But these five kings fled and *_hid_* themselves in a cave at Makkedah.
-* `Jsh 10:17` And it was told to Joshua, saying, "The five kings are found *_hid_* in a cave at Makkedah."
+* `Jsh 10:17` And it was told to Joshua, saying, "The five kings have been found *_hid_* in a cave at Makkedah."
 * `Jsh 10:27` And it came to pass at the time of the setting of the sun, that Joshua commanded, and they took them down from the trees and cast them into the cave in which they had been *_hid_* and laid great stones upon the cave's mouth, which remain until this very day.
 * `Jdg 9:5` And he went to his father's house at Ophrah and slew his brothers the sons of Jerubbaal, being seventy persons, upon one stone. But Jotham the youngest son of Jerubbaal was left, for he *_hid_* himself.
 * `1Sa 3:18` And Samuel told him everything and *_hid_* nothing from him. And he said, "It is the LORD. Let him do what seems good to him."
@@ -988,7 +988,7 @@ _2 verses containing HILLEL_
 * `Deu 11:11` But the land that you are entering to possess is a land of *_hills_* and valleys, and drinks water from the rain of heaven,
 * `Deu 12:2` You shall utterly destroy all the places in which the nations which you shall possess served their gods: upon the high mountains, upon the *_hills_*, and under every green tree.
 * `Deu 33:15` For the chief things of the ancient mountains, for the precious things of the lasting *_hills_*,
-* `Jsh 9:1` And it came to pass, when all the kings who were on this side of the Jordan heard these things—those in the *_hills_*, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—
+* `Jsh 9:1` And it came to pass when all the kings who were on this side of the Jordan heard these things—those in the *_hills_*, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—
 * `Jsh 10:40` So Joshua smote all the country of the *_hills_*, of the south, of the valley, and of the springs, and all their kings. He left no one remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.
 * `Jsh 11:16` So Joshua took all that land, the *_hills_*, all the south country, all the land of Goshen, the valley, the plain, the mountain of Israel, and the valley of the same,
 * `1Ki 20:23` And the servants of the king of Syria said to him, "Their gods are gods of the *_hills_*; therefore, they were stronger than we were. But let us fight against them in the plain, and surely we shall be stronger than they are.
@@ -1863,7 +1863,7 @@ _2 verses containing HIT_
 * `Exo 23:28` And I will send hornets before you, which shall drive out the Hivite, the Canaanite, and the *_Hittite_* from before you.
 * `Exo 33:2` And I will send an angel before you and will drive out the Canaanite, the Amorite, the *_Hittite_*, the Perizzite, the Hivite, and the Jebusite.
 * `Exo 34:11` "Observe that which I command you this day. Behold, I drive out before you the Amorite, the Canaanite, the *_Hittite_*, the Perizzite, the Hivite, and the Jebusite.
-* `Jsh 9:1` And it came to pass, when all the kings who were on this side of the Jordan heard these things—those in the hills, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the *_Hittite_*, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—
+* `Jsh 9:1` And it came to pass when all the kings who were on this side of the Jordan heard these things—those in the hills, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the *_Hittite_*, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—
 * `Jsh 11:3` And to the Canaanite on the east and on the west, to the Amorite, the *_Hittite_*, the Perizzite, the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh.
 * `1Sa 26:6` Then David answered and said to Ahimelech the *_Hittite_*, and to Abishai, the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the camp?" And Abishai said, "I will go down with you."
 * `2Sa 11:3` And David sent and inquired about the woman. And someone said, "Is this not Bath-sheba, the daughter of Eliam, the wife of Uriah the *_Hittite_*?"
@@ -1916,7 +1916,7 @@ _22 verses containing HITTITES_
 * `Exo 23:28` And I will send hornets before you, which shall drive out the *_Hivite_*, the Canaanite, and the Hittite from before you.
 * `Exo 33:2` And I will send an angel before you and will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the *_Hivite_*, and the Jebusite.
 * `Exo 34:11` "Observe that which I command you this day. Behold, I drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the *_Hivite_*, and the Jebusite.
-* `Jsh 9:1` And it came to pass, when all the kings who were on this side of the Jordan heard these things—those in the hills, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the *_Hivite_*, and the Jebusite—
+* `Jsh 9:1` And it came to pass when all the kings who were on this side of the Jordan heard these things—those in the hills, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the *_Hivite_*, and the Jebusite—
 * `Jsh 11:3` And to the Canaanite on the east and on the west, to the Amorite, the Hittite, the Perizzite, the Jebusite in the mountains, and to the *_Hivite_* under Hermon in the land of Mizpeh.
 * `1Ch 1:15` The *_Hivite_*, the Archite, the Sinite,
 
