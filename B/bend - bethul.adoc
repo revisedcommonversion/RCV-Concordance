@@ -348,7 +348,7 @@ _1 verse containing BEON_
 * `Num 24:15` And he took up his parable and said, "Balaam the son of *_Beor_* has said, and the man whose eyes are open has said,
 * `Num 31:8` And they slew the kings of Midian, besides the rest of those who were slain, namely, Evi, Rekem, Zur, Hur, and Reba, five kings of Midian. Balaam the son of *_Beor_* they also slew with the sword.
 * `Deu 23:4` Because they did not meet you with bread and with water on the way when you came forth from Egypt, and because they hired against you Balaam the son of *_Beor_* from Pethor of Mesopotamia to curse you.
-* `Jsh 13:22` Balaam, the son of *_Beor_*, the soothsayer, the children of Israel also slayed with the sword, among those who were slain by them.
+* `Jsh 13:22` Balaam the son of *_Beor_*, the soothsayer, the children of Israel also slayed with the sword, among those who were slain by them.
 * `Jsh 24:9` Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of *_Beor_* to curse you.
 * `1Ch 1:43` Now these are the kings who reigned in the land of Edom before any king reigned over the children of Israel: Bela the son of *_Beor_*, and the name of his city was Dinhabah.
 * `Mic 6:5` O my people, remember now what Balak king of Moab consulted, and what Balaam the son of *_Beor_* answered him, [and what I did] from Shittim to Gilgal, so that you may know the righteousness of the LORD."
@@ -637,7 +637,7 @@ _45 verses containing BESIDE_
 * `Deu 19:9` If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to always walk in his ways, then you shall add three cities more for yourself, *_besides_* these three,
 * `Deu 29:1` These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, *_besides_* the covenant which he made with them in Horeb.
 * `Jsh 17:5` And there fell ten portions to Manasseh, *_besides_* the land of Gilead and Bashan, which were on the other side of the Jordan,
-* `Jsh 22:19` However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD'S tabernacle dwells, and take possession among us. But do not rebel against the LORD, nor rebel against us, in building yourselves an altar *_besides_* the altar of the LORD our God.
+* `Jsh 22:19` However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD'S tabernacle dwells, and take possession among us. But do not rebel against the LORD nor rebel against us in building yourselves an altar *_besides_* the altar of the LORD our God.
 * `Jsh 22:29` Far be it from us that we should rebel against the LORD and turn this day from following the LORD to build an altar for burnt-offerings, for food-offerings, or for sacrifices, *_besides_* the altar of the LORD our God that is before his tabernacle."
 * `Jdg 8:26` And the weight of the golden earrings that he requested was one thousand and seven hundred shekels of gold, *_besides_* ornaments, collars, and purple clothing that was on the kings of Midian, and *_besides_* the chains that were around their camels' necks.
 * `Jdg 11:34` And Jephthah came to Mizpeh to his house, and behold, his daughter came out to meet him with tambourines and with dances. And she was his only child. *_Besides_* her, he had neither son nor daughter.
@@ -877,7 +877,7 @@ _1 verse containing BETEN_
 * `Jsh 16:5` And the border of the children of Ephraim according to their families was this: even the border of their inheritance on the east side was Ataroth-adar, to *_Beth_*-horon the upper,
 * `Jsh 17:11` And in Issachar and in Asher, Manasseh had *_Beth_*-shean and its towns, Ibleam and its towns, the inhabitants of Dor and its towns, the inhabitants of En-dor and its towns, the inhabitants of Tanach and its towns, and the inhabitants of Megiddo and its towns, even three countries.
 * `Jsh 17:16` And the children of Joseph said, "The hill is not enough for us. And all the Canaanites who dwell in the land of the valley have chariots of iron—both those who are of *_Beth_*-shean and its towns, and those who are of the valley of Jezreel."
-* `Jsh 18:12` And their border on the north side was from the Jordan. And the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of *_Beth_*-aven.
+* `Jsh 18:12` And their border on the north side was from the Jordan, and the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of *_Beth_*-aven.
 * `Jsh 18:13` And the border went over from there toward Luz, to the side of Luz (which is *_Beth_*-el) southward. And the border descended to Ataroth-adar, near the hill that lies on the south side of the nether *_Beth_*-horon.
 * `Jsh 18:14` And the border was drawn from there and compassed the corner of the sea southward from the hill that lies before *_Beth_*-horon southward. And its limits were at Kirjath-baal (which is Kirjath-jearim), a city of the children of Judah. This was the west quarter.
 * `Jsh 18:19` And the border passed along to the side of *_Beth_*-hoglah northward. And the limits of the border were at the north bay of the Salt Sea at the south end of the Jordan. This was the south border.
@@ -1070,7 +1070,7 @@ _1 verse containing BETH-ARBEL_
 == BETH-AVEN
 
 * `Jsh 7:2` And Joshua sent men from Jericho to Ai, which is beside *_Beth-aven_*, on the east side of Beth-el, and spoke to them, saying, "Go up and view the country." And the men went up and viewed Ai.
-* `Jsh 18:12` And their border on the north side was from the Jordan. And the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of *_Beth-aven_*.
+* `Jsh 18:12` And their border on the north side was from the Jordan, and the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of *_Beth-aven_*.
 * `1Sa 13:5` And the Philistines assembled to fight with Israel, thirty thousand chariots, six thousand horsemen, and people as the sand which is on the sea shore in multitude. And they came up and encamped in Michmash, eastward from *_Beth-aven_*.
 * `1Sa 14:23` So the LORD saved Israel that day. And the battle passed over to *_Beth-aven_*.
 * `Hos 4:15` Though you, Israel, play the harlot, yet do not let Judah offend, and do not come to Gilgal, neither go up to *_Beth-aven_*, nor swear, 'The LORD lives.'

@@ -1052,14 +1052,14 @@ _3 verses containing TRIALS_
 * `Jsh 13:29` And Moses gave inheritance to the half-*_tribe_* of Manasseh. And this was the possession of the half-*_tribe_* of the children of Manasseh by their families.
 * `Jsh 13:33` But to the *_tribe_* of Levi, Moses did not give any inheritance. The LORD God of Israel was their inheritance, as he said to them.
 * `Jsh 14:2` Their inheritance was by lot, as the LORD commanded by the hand of Moses, for the nine tribes and for the half-*_tribe_*.
-* `Jsh 14:3` For Moses had given the inheritance of two tribes and a half-*_tribe_* on the other side of the Jordan, but to the Levites he gave no inheritance among them.
+* `Jsh 14:3` For Moses had given the inheritance of the two tribes and the half-*_tribe_* on the other side of the Jordan, but to the Levites he gave no inheritance among them.
 * `Jsh 15:1` And the lot for the *_tribe_* of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south border.
 * `Jsh 15:20` This is the inheritance of the *_tribe_* of the children of Judah according to their families.
 * `Jsh 15:21` And the uttermost cities of the *_tribe_* of the children of Judah toward the border of Edom southward were Kabzeel, Eder, Jagur,
 * `Jsh 16:8` The border went out from Tappuah westward to the Kanah River, and its limits were at the sea. This is the inheritance of the *_tribe_* of the children of Ephraim by their families.
 * `Jsh 17:1` There was also a lot for the *_tribe_* of Manasseh, for he was the first-born of Joseph, namely, for Machir the first-born of Manasseh, the father of Gilead. Because he was a man of war, therefore he had Gilead and Bashan.
 * `Jsh 18:4` Select from among you three men for each *_tribe_*, and I will send them, and they shall rise, go through the land, describe it according to their inheritance, and they shall come back to me.
-* `Jsh 18:7` But the Levites have no part among you, for the priesthood of the LORD is their inheritance. And Gad, Reuben, and half the *_tribe_* of Manasseh have received their inheritance beyond the Jordan on the east, which Moses the servant of the LORD gave them."
+* `Jsh 18:7` But the Levites have no part among you, for the priesthood of the LORD is their inheritance. And Gad, Reuben, and the half the *_tribe_* of Manasseh have received their inheritance beyond the Jordan on the east, which Moses the servant of the LORD gave them."
 * `Jsh 18:11` And the lot of the *_tribe_* of the children of Benjamin came up according to their families. And the border of their lot came forth between the children of Judah and the children of Joseph.
 * `Jsh 18:21` Now the cities of the *_tribe_* of the children of Benjamin, according to their families, were Jericho, Beth-hoglah, the valley of Keziz,
 * `Jsh 19:1` And the second lot came forth to Simeon, even for the *_tribe_* of the children of Simeon according to their families. And their inheritance was within the inheritance of the children of Judah.
@@ -1075,7 +1075,7 @@ _3 verses containing TRIALS_
 * `Jsh 21:5` And the rest of the children of Kohath had by lot out of the families of the *_tribe_* of Ephraim, out of the *_tribe_* of Dan, and out of the half-*_tribe_* of Manasseh, ten cities.
 * `Jsh 21:6` And the children of Gershon had by lot out of the families of the *_tribe_* of Issachar, out of the *_tribe_* of Asher, out of the *_tribe_* of Naphtali, and out of the half-*_tribe_* of Manasseh in Bashan, thirteen cities.
 * `Jsh 21:7` The children of Merari by their families had out of the *_tribe_* of Reuben, out of the *_tribe_* of Gad, and out of the *_tribe_* of Zebulun, twelve cities.
-* `Jsh 21:9` And they gave out of the *_tribe_* of the children of Judah, and out of the *_tribe_* of the children of Simeon, these cities which are here mentioned by name,
+* `Jsh 21:9` And out of the *_tribe_* of the children of Judah and out of the *_tribe_* of the children of Simeon they gave these cities which are here mentioned by name,
 * `Jsh 21:17` And out of the *_tribe_* of Benjamin, Gibeon with its suburbs, Geba with its suburbs,
 * `Jsh 21:20` And the families of the children of Kohath, the Levites who remained of the children of Kohath, even they had the cities of their lot out of the *_tribe_* of Ephraim.
 * `Jsh 21:23` And out of the *_tribe_* of Dan, Eltekeh with its suburbs, Gibbethon with its suburbs,
@@ -1087,14 +1087,14 @@ _3 verses containing TRIALS_
 * `Jsh 21:34` And to the families of the children of Merari, the rest of the Levites, out of the *_tribe_* of Zebulun, Jokneam with its suburbs, Kartah with its suburbs,
 * `Jsh 21:36` And out of the *_tribe_* of Reuben, Bezer with its suburbs, Jahazah with its suburbs,
 * `Jsh 21:38` And out of the *_tribe_* of Gad, Ramoth in Gilead with its suburbs to be a city of refuge for the slayer, Mahanaim with its suburbs,
-* `Jsh 22:1` Then Joshua called the Reubenites, the Gadites, and the half-*_tribe_* of Manasseh,
-* `Jsh 22:7` Now to one half of the *_tribe_* of Manasseh, Moses had given possession in Bashan, but to its other half Joshua gave among their brothers on this side of the Jordan westward. And when Joshua sent them away also to their tents, he blessed them,
+* `Jsh 22:1` Then Joshua called the Reubenites, the Gadites, and the half-*_tribe_* of Manasseh
+* `Jsh 22:7` Now to one half of the *_tribe_* of Manasseh, Moses had given possession in Bashan, but to its other half Joshua gave among their brothers on this side of the Jordan westward. And when Joshua sent them away also to their tents, he blessed them
 * `Jsh 22:9` And the children of Reuben, the children of Gad, and the half-*_tribe_* of Manasseh returned and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the country of Gilead, to the land of their possession, which they had possessed according to the word of the LORD by the hand of Moses.
 * `Jsh 22:10` And when they came to the borders of the Jordan that are in the land of Canaan, the children of Reuben, the children of Gad, and the half-*_tribe_* of Manasseh built an altar there by the Jordan, a great altar to the sight.
 * `Jsh 22:11` And the children of Israel heard it said, "Behold, the children of Reuben, the children of Gad, and the half-*_tribe_* of Manasseh have built an altar over against the land of Canaan, in the borders of the Jordan, at the passage of the children of Israel."
 * `Jsh 22:13` And the children of Israel sent Phinehas the son of Eleazar the priest to the children of Reuben, to the children of Gad, and to the half-*_tribe_* of Manasseh into the land of Gilead,
 * `Jsh 22:15` And they came to the children of Reuben, to the children of Gad, and to the half-*_tribe_* of Manasseh, to the land of Gilead, and they spoke with them, saying,
-* `Jsh 22:21` Then the children of Reuben, the children of Gad, and the half-*_tribe_* of Manasseh answered, and said to the heads of the thousands of Israel,
+* `Jsh 22:21` Then the children of Reuben, the children of Gad, and the half-*_tribe_* of Manasseh answered and said to the heads of the thousands of Israel,
 * `Jdg 18:1` In those days there was no king in Israel. And in those days the *_tribe_* of the Danites sought for themselves an inheritance to dwell in, for to that day all their inheritance had not fallen to them among the tribes of Israel.
 * `Jdg 18:19` And they said to him, "Hold your peace, lay your hand upon your mouth, and go with us, and be to us a father and a priest. Is it better for you to be a priest to the house of one man, or that you should be a priest to a *_tribe_* and a family in Israel?"
 * `Jdg 18:30` And the children of Dan set up the engraved image. And Jonathan, the son of Gershom, the son of Moses, he and his sons were priests for the *_tribe_* of Dan until the day of the captivity of the land.
@@ -1193,13 +1193,13 @@ _203 verses containing TRIBE_
 * `Jsh 13:7` Now therefore, divide this land for an inheritance to the nine *_tribes_* and the half tribe of Manasseh."
 * `Jsh 14:1` And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers of the *_tribes_* of the children of Israel distributed for inheritance to them.
 * `Jsh 14:2` Their inheritance was by lot, as the LORD commanded by the hand of Moses, for the nine *_tribes_* and for the half-tribe.
-* `Jsh 14:3` For Moses had given the inheritance of two *_tribes_* and a half-tribe on the other side of the Jordan, but to the Levites he gave no inheritance among them.
+* `Jsh 14:3` For Moses had given the inheritance of the two *_tribes_* and the half-tribe on the other side of the Jordan, but to the Levites he gave no inheritance among them.
 * `Jsh 14:4` For the children of Joseph were two *_tribes_*, Manasseh and Ephraim; therefore, they gave no part to the Levites in the land, except cities to dwell in with their suburbs for their livestock and for their substance.
 * `Jsh 18:2` And there remained among the children of Israel seven *_tribes_* which had not yet received their inheritance.
 * `Jsh 19:51` These are the inheritances which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the *_tribes_* of the children of Israel divided for an inheritance by lot in Shiloh before the LORD, at the door of the Tabernacle of the Congregation. So they made an end of dividing the country.
 * `Jsh 21:1` Then the heads of the fathers of the Levites came near to Eleazar the priest, to Joshua the son of Nun, and to the heads of the fathers of the *_tribes_* of the children of Israel.
 * `Jsh 21:16` Ain with its suburbs, Juttah with its suburbs, and Beth-shemesh with its suburbs; nine cities out of those two *_tribes_*.
-* `Jsh 22:14` And with him ten princes, of each chief house a prince throughout all the *_tribes_* of Israel, and each one was a head of the house of their fathers among the thousands of Israel.
+* `Jsh 22:14` And with him ten princes, from each chief house a prince throughout all the *_tribes_* of Israel, and each one was a head of the house of their fathers among the thousands of Israel.
 * `Jsh 23:4` Behold, I have divided to you by lot these nations which remain to be an inheritance for your *_tribes_*, from the Jordan, with all the nations which I have cut off, even to the Great Sea westward.
 * `Jsh 24:1` And Joshua convened all the *_tribes_* of Israel to Shechem and called for the elders of Israel and for their heads, for their judges, and for their officers, and they presented themselves before God.
 * `Jdg 18:1` In those days there was no king in Israel. And in those days the tribe of the Danites sought for themselves an inheritance to dwell in, for to that day all their inheritance had not fallen to them among the *_tribes_* of Israel.
