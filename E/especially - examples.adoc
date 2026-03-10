@@ -613,7 +613,7 @@ _2 verses containing EVANGELIST_
 
 == EVANGELISTS
 
-* `Eph 4:11` And he gave some, apostles; some, prophets; some, *_evangelists_*; and some, pastors and teachers,
+* `Eph 4:11` And he gave some to be apostles, some to be prophets, some to be *_evangelists_*, and some to be pastors and teachers,
 
 _1 verse containing EVANGELISTS_
 
@@ -4219,13 +4219,14 @@ _6 verses containing EXAMINE_
 
 == EXAMINED
 
+* `Ezk 21:21` For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he shook the arrows, he consulted with images, and he *_examined_* the liver.
 * `Luk 23:14` Said to them, "You have brought this man to me as one who perverts the people, and behold, having *_examined_* him before you, I have found no fault in this man, touching those things of which you accuse him,
 * `Act 4:9` If we this day are *_examined_* concerning the good deed done to the sick man, by what means he is made sound,
 * `Act 12:19` And when Herod had sought for him and did not find him, he *_examined_* the keepers and commanded that they should be put to death. And he went down from Judea to Caesarea and stayed there.
 * `Act 22:24` The chief captain commanded him to be brought into the castle and said that he should be *_examined_* by scourging so that he might know for what cause they cried like that against him.
 * `Act 28:18` Who, when they had *_examined_* me, would have let me go because there was no cause of death in me.
 
-_5 verses containing EXAMINED_
+_6 verses containing EXAMINED_
 
 == EXAMINING
 
