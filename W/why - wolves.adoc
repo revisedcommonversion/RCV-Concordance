@@ -1172,7 +1172,7 @@ _1 verse containing WIDTH_
 * `Jdg 4:4` And Deborah, a prophetess, the *_wife_* of Lapidoth, she judged Israel at that time.
 * `Jdg 4:17` But Sisera fled away on his feet to the tent of Jael the *_wife_* of Heber the Kenite, for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
 * `Jdg 4:21` Then Jael, Heber's *_wife_*, took a nail of the tent and took a hammer in her hand, went softly to him, and smote the nail into his temples and fastened it into the ground, for he was fast asleep and weary. So he died.
-* `Jdg 5:24` "Blessed above women Jael the *_wife_* of Heber the Kenite shall be, blessed she shall be above women in the tent.
+* `Jdg 5:24` "Blessed above women Jael the *_wife_* of Heber the Kenite shall be, blessed shall she be above women in the tent.
 * `Jdg 11:2` And Gilead's *_wife_* bore him sons. And his *_wife_*'s sons grew up, and they thrust out Jephthah and said to him, "You shall not inherit in our father's house, for you are the son of a strange woman."
 * `Jdg 13:2` And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah, and his *_wife_* was barren and did not bear.
 * `Jdg 13:11` And Manoah arose, went after his *_wife_*, and came to the man, and said to him, "Are you the man who spoke to the woman?" And he said, "I am."
@@ -2299,8 +2299,8 @@ _2 verses containing WILES_
 * `Jsh 24:24` And the people said to Joshua, "The LORD our God we *_will_* serve, and his voice we *_will_* obey."
 * `Jdg 1:3` And Judah said to Simeon his brother, "Come up with me into my lot so that we may fight against the Canaanites. And I likewise *_will_* go with you into your lot." So Simeon went with him.
 * `Jdg 1:12` And Caleb said, "He who smites Kirjath-sepher and takes it, I *_will_* give Achsah my daughter to him for a wife."
-* `Jdg 1:24` And the spies saw a man coming out of the city, and they said to him, "Show us, we pray you, the entrance into the city, and we *_will_* show you mercy."
-* `Jdg 2:1` And an angel of the LORD came up from Gilgal to Bochim, and said, "I made you to depart from Egypt and have brought you to the land which I swore to your fathers, and I said, 'I *_will_* never break my covenant with you.
+* `Jdg 1:24` And the spies saw a man coming out of the city and they said to him, "Show us, we pray you, the entrance into the city, and we *_will_* show you mercy."
+* `Jdg 2:1` And an angel of the LORD came up from Gilgal to Bochim and said, "I made you to depart from Egypt and have brought you to the land which I swore to your fathers, and I said, 'I *_will_* never break my covenant with you.
 * `Jdg 2:3` Therefore, I also said, 'I *_will_* not drive them out from before you, but they shall be as thorns in your sides, and their gods shall be a snare to you.'"
 * `Jdg 2:21` I also *_will_* not from now on drive out from before them any of the nations which Joshua left when he died,
 * `Jdg 2:22` So that through them I may prove Israel, whether they *_will_* keep the way of the LORD to walk in it, as their fathers kept it, or not."
@@ -7060,7 +7060,6 @@ _161 verses containing WITHIN_
 * `Deu 8:9` A land in which you shall eat bread *_without_* scarceness, you shall not lack anything in it; a land whose stones are iron and out of whose hills you may dig brass.
 * `Deu 32:4` "The Rock—his work is perfect. For all his ways are judgment. A God of truth and *_without_* iniquity. He is just and right.
 * `Jsh 3:10` And Joshua said, "By this you shall know that the living God is among you and that he will *_without_* fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
-* `Jdg 2:23` Therefore, the LORD left those nations, *_without_* driving them out speedily, neither did he deliver them into the hand of Joshua.
 * `Jdg 6:5` For they came up with their livestock and their tents, and they came as swarming-locusts for multitude, for both they and their camels were *_without_* number. And they entered into the land to destroy it.
 * `Jdg 7:12` And the Midianites, the Amalekites, and all the children of the east lay along in the valley like swarming-locusts for multitude. And their camels were *_without_* number, as the sand by the sea side for multitude.
 * `Jdg 11:30` And Jephthah vowed a vow to the LORD, and said, "If you *_without_* fail deliver the children of Ammon into my hands,
@@ -7290,7 +7289,7 @@ _161 verses containing WITHIN_
 * `Rev 14:5` And in their mouth was found no guile, for they are *_without_* fault before the throne of God.
 * `Rev 14:10` The same shall drink of the wine of the wrath of God which is poured out *_without_* mixture into the cup of his indignation, and he shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb.
 
-_280 verses containing WITHOUT_
+_279 verses containing WITHOUT_
 
 == WITHSTAND
 

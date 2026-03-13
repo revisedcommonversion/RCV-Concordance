@@ -682,7 +682,7 @@ _31 verses containing TREMBLE_
 * `Exo 19:16` And it came to pass on the third day in the morning, that there were thunders and lightnings, a thick cloud upon the mountain, and the voice of the trumpet exceedingly loud so that all the people who were in the camp *_trembled_*.
 * `Exo 19:18` And mount Sinai was altogether in a smoke because the LORD descended upon it in fire. And its smoke ascended like the smoke of a furnace, and the whole mountain *_trembled_* greatly.
 * `Exo 20:18` And all the people saw the thunderings, the lightnings, the noise of the trumpet, and the mountain smoking. And when the people saw it, they *_trembled_* and stood afar off.
-* `Jdg 5:4` "LORD, when you went out of Seir, when you marched out of the field of Edom, the earth *_trembled_*, and the heavens dropped, the clouds also dropped water.
+* `Jdg 5:4` "LORD, when you went out of Seir, when you marched out of the field of Edom, the earth *_trembled_*, the heavens dropped, and the clouds dropped water.
 * `1Sa 4:13` And when he came, behold, Eli sat upon a seat by the wayside watching, for his heart *_trembled_* for the ark of God. And when the man came into the city and told it, all the city cried out.
 * `1Sa 14:15` And there was a trembling in the host, in the field, and among all the people. The garrison and the raiders also *_trembled_*, and the earth quaked, and it was a very great trembling.
 * `1Sa 16:4` And Samuel did that which the LORD spoke and came to Beth-lehem. And the elders of the town *_trembled_* at his coming and said, "Do you come peaceably?"
@@ -1313,8 +1313,8 @@ _1 verse containing TRIBUNAL_
 == TRIBUTARIES
 
 * `Deu 20:11` And it shall be, if it makes you an answer of peace and opens to you, then it shall be, that all the people who are found therein shall be *_tributaries_* to you and they shall serve you.
-* `Jdg 1:30` Zebulun did not expel the inhabitants of Kitron, nor the inhabitants of Nahalol, but the Canaanites dwelt among them and became *_tributaries_*.
-* `Jdg 1:33` Naphtali did not expel the inhabitants of Beth-shemesh, nor the inhabitants of Beth-anath, but he dwelt among the Canaanites, the inhabitants of the land. Nevertheless, the inhabitants of Beth-shemesh and of Beth-anath became *_tributaries_* to them.
+* `Jdg 1:30` Zebulun did not expel the inhabitants of Kitron nor the inhabitants of Nahalol, but the Canaanites dwelt among them and became *_tributaries_*.
+* `Jdg 1:33` Naphtali did not expel the inhabitants of Beth-shemesh nor the inhabitants of Beth-anath, but he dwelt among the Canaanites, the inhabitants of the land. Nevertheless, the inhabitants of Beth-shemesh and of Beth-anath became *_tributaries_* to them.
 * `Jdg 1:35` But the Amorites wished to dwell at mount Heres in Ajalon and in Shaalbim, but the hand of the house of Joseph prevailed, and they became *_tributaries_*.
 
 _4 verses containing TRIBUTARIES_
@@ -1338,9 +1338,9 @@ _1 verse containing TRIBUTARY_
 * `Jsh 16:10` And they did not expel the Canaanites who dwelt in Gezer. But the Canaanites dwell among the Ephraimites to this day and serve under *_tribute_*.
 * `Jsh 17:13` And it came to pass, that when the children of Israel had become strong, they subjected the Canaanites to *_tribute_*, but did not utterly expel them.
 * `Jdg 1:28` And it came to pass when Israel was strong, that they subjected the Canaanites to *_tribute_* and did not utterly expel them.
-* `Jdg 3:15` But when the children of Israel cried to the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjaminite, a man left-handed. And by him the children of Israel sent a *_tribute_* to Eglon king of Moab.
+* `Jdg 3:15` But when the children of Israel cried to the LORD, the LORD raised up for them a deliverer: Ehud the son of Gera, a Benjaminite, a left-handed man. And by him the children of Israel sent a *_tribute_* to Eglon king of Moab.
 * `Jdg 3:17` And he brought the *_tribute_* to Eglon king of Moab (Eglon was a very fat man).
-* `Jdg 3:18` And when he had made an end to offer the *_tribute_*, he sent away the people who bore the *_tribute_*.
+* `Jdg 3:18` And when he had made an end of offering the *_tribute_*, he sent away the people who bore the *_tribute_*.
 * `2Sa 20:24` Adoram was over the *_tribute_*, Jehoshaphat the son of Ahilud was recorder,
 * `1Ki 4:6` Ahishar was over the household, and Adoniram the son of Abda was over the *_tribute_*.
 * `1Ki 9:21` Their children who were left after them in the land, whom the children of Israel were not able to utterly destroy, upon those Solomon levied a *_tribute_* of service to this day.

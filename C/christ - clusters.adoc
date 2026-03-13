@@ -1517,8 +1517,8 @@ _1 verse containing CITIZENSHIP_
 * `Jdg 1:16` And the children of the Kenite, Moses's father-in-law, went up out of the *_city_* of palm-trees with the children of Judah into the wilderness of Judah, which lies in the south of Arad, and they went and dwelt among the people.
 * `Jdg 1:17` And Judah went with Simeon his brother, and they slew the Canaanites who inhabited Zephath and utterly destroyed it. And the name of the *_city_* was called Hormah.
 * `Jdg 1:23` And the house of Joseph sent to explore Beth-el. Now the name of the *_city_* was formerly Luz.
-* `Jdg 1:24` And the spies saw a man coming out of the *_city_*, and they said to him, "Show us, we pray you, the entrance into the *_city_*, and we will show you mercy."
-* `Jdg 1:25` And when he showed them the entrance into the *_city_*, they smote the *_city_* with the edge of the sword, but they let go the man and all his family.
+* `Jdg 1:24` And the spies saw a man coming out of the *_city_* and they said to him, "Show us, we pray you, the entrance into the *_city_*, and we will show you mercy."
+* `Jdg 1:25` And when he showed them the entrance into the *_city_*, they smote the *_city_* with the edge of the sword, but they let the man and all his family go.
 * `Jdg 1:26` And the man went into the land of the Hittites, built a *_city_*, and called its name Luz, which is its name to this day.
 * `Jdg 3:13` And he gathered to himself the children of Ammon and Amalek, and went and smote Israel, and possessed the *_city_* of palm-trees.
 * `Jdg 6:27` Then Gideon took ten men of his servants and did as the LORD had said to him. And it was so, because he feared his father's household and the men of the *_city_*, that he could not do it by day, so he did it by night.
@@ -3197,7 +3197,7 @@ _94 verses containing CLOUD_
 == CLOUDS
 
 * `Deu 4:11` And you came near and stood under the mountain. And the mountain burned with fire to the midst of heaven, with darkness, *_clouds_*, and thick darkness.
-* `Jdg 5:4` "LORD, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, and the heavens dropped, the *_clouds_* also dropped water.
+* `Jdg 5:4` "LORD, when you went out of Seir, when you marched out of the field of Edom, the earth trembled, the heavens dropped, and the *_clouds_* dropped water.
 * `2Sa 22:12` And he made darkness a pavilion around him, a gathering of dark waters and thick *_clouds_* of the skies.
 * `2Sa 23:4` And he shall be as the light of the morning when the sun rises, even a morning without *_clouds_*, as the tender grass springing out of the earth from clear shining after the rain.'
 * `1Ki 18:45` And it came to pass in a little while, that the heaven was black with *_clouds_* and wind and there was a great rain. And Ahab rode and went to Jezreel.
