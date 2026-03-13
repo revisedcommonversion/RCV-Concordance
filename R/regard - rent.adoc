@@ -275,8 +275,8 @@ _1 verse containing REI_
 * `Deu 15:6` For the LORD your God shall bless you, as he promised you, and you shall lend to many nations, but you shall not borrow. And you shall *_reign_* over many nations, but they shall not *_reign_* over you.
 * `Jdg 9:2` "Speak, I pray you, in the ears of all the men of Shechem, 'Which is better for you, either that all the sons of Jerubbaal, which are seventy persons, should *_reign_* over you, or that one should *_reign_* over you?' Remember also that I am your bone and your flesh."
 * `Jdg 9:8` The trees once went forth to anoint a king over them, and they said to the olive-tree, '*_Reign_* over us.'
-* `Jdg 9:10` And the trees said to the fig-tree, 'Come, and *_reign_* over us.'
-* `Jdg 9:12` Then the trees said to the vine, 'Come, and *_reign_* over us.'
+* `Jdg 9:10` And the trees said to the fig-tree, 'Come and *_reign_* over us.'
+* `Jdg 9:12` Then the trees said to the vine, 'Come and *_reign_* over us.'
 * `Jdg 9:14` Then all the trees said to the bramble, 'Come, and *_reign_* over us.'
 * `1Sa 8:7` And the LORD said to Samuel, "Listen to the voice of the people in all that they say to you. For they have not rejected you, but they have rejected me so that I should not *_reign_* over them.
 * `1Sa 8:9` Now therefore, listen to their voice; however, you shall solemnly testify to them and show them the manner of the king who will *_reign_* over them."
@@ -2022,7 +2022,7 @@ _32 verses containing RENDER_
 == RENDERED
 
 * `Gen 30:22` And God remembered Rachel. And God listened to her and *_rendered_* her fruitful.
-* `Jdg 9:57` And all the evil of the men of Shechem God *_rendered_* upon their heads, and upon them came the curse of Jotham the son of Jerubbaal.
+* `Jdg 9:57` And God *_rendered_* all the evil of the men of Shechem upon their heads, and upon them came the curse of Jotham the son of Jerubbaal.
 * `1Sa 1:5` But to Hannah he gave a worthy portion, for he loved Hannah, but the LORD had *_rendered_* her barren.
 * `2Ki 3:4` And Mesha king of Moab was a sheep-master, and he *_rendered_* to the king of Israel one hundred thousand lambs and one hundred thousand rams, with the wool.
 * `Pro 12:14` A man shall be satisfied with good by the fruit of his mouth, and the recompense of a man's hands shall be *_rendered_* to him.
