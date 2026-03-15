@@ -73,7 +73,7 @@
 * `Jdg 12:1` And the men of Ephraim assembled and went northward and said to Jephthah, "*_Why_* did you pass over to fight against the children of Ammon and did not call us to go with you? We will burn your house upon you with fire."
 * `Jdg 12:3` And when I saw that you did not deliver me, I put my life in my hands and passed over against the children of Ammon, and the LORD delivered them into my hand. *_Why_* then have you come up to me this day to fight against me?"
 * `Jdg 13:18` And the angel of the LORD said to him, "*_Why_* do you ask for my name, seeing it is secret?"
-* `Jdg 14:16` And Samson's wife wept before him, and said, "You only hate me and do not love me. You have proposed a riddle to the children of my people and have not told it to me." And he said to her, "Behold, I have not told my father or my mother, so *_why_* should I tell you?"
+* `Jdg 14:16` And Samson's wife wept before him and said, "You only hate me and do not love me. You have proposed a riddle to the children of my people and have not told it to me." And he said to her, "Behold, I have not told my father or my mother, so *_why_* should I tell you?"
 * `Jdg 15:10` And the men of Judah said, "*_Why_* have you come up against us?" And they answered, "We have come to bind Samson, to do to him as he has done to us."
 * `Jdg 21:3` And said, "O LORD God of Israel, *_why_* has this come to pass in Israel, that there should be today one tribe lacking in Israel?"
 * `Rth 1:11` And Naomi said, "Turn back, my daughters. *_Why_* will you go with me? Shall I bear more sons so that they may be your husbands?
@@ -1175,16 +1175,16 @@ _1 verse containing WIDTH_
 * `Jdg 5:24` "Blessed above women Jael the *_wife_* of Heber the Kenite shall be, blessed shall she be above women in the tent.
 * `Jdg 11:2` And Gilead's *_wife_* bore him sons. And his *_wife_*'s sons grew up, and they thrust out Jephthah and said to him, "You shall not inherit in our father's house, for you are the son of a strange woman."
 * `Jdg 13:2` And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah, and his *_wife_* was barren and did not bear.
-* `Jdg 13:11` And Manoah arose, went after his *_wife_*, and came to the man, and said to him, "Are you the man who spoke to the woman?" And he said, "I am."
+* `Jdg 13:11` And Manoah arose, went after his *_wife_*, and came to the man and said to him, "Are you the man who spoke to the woman?" And he said, "I am."
 * `Jdg 13:19` So Manoah took a kid, with a food-offering, and offered it upon a rock to the LORD, and the angel did wondrously, and Manoah and his *_wife_* looked on.
 * `Jdg 13:20` For it came to pass when the flame ascended toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his *_wife_* looked on and fell on their faces to the ground.
 * `Jdg 13:21` But the angel of the LORD no longer appeared to Manoah and to his *_wife_*. Then Manoah knew that he was an angel of the LORD.
 * `Jdg 13:22` And Manoah said to his *_wife_*, "We shall surely die because we have seen God."
 * `Jdg 13:23` But his *_wife_* said to him, "If the LORD were pleased to kill us, he would not have received a burnt-offering and a food-offering from our hands, neither would he have shown us all these things, nor would he have told us such things as these at this time."
-* `Jdg 14:2` And he came up and told his father and his mother, and said, "I have seen a woman in Timnath of the daughters of the Philistines. Now therefore, get her for me for a *_wife_*."
-* `Jdg 14:3` Then his father and his mother said to him, "Is there not a woman among the daughters of your brothers or among all my people, that you go to take a *_wife_* of the uncircumcised Philistines?" And Samson said to his father, "Get her for me, for she pleases me well."
+* `Jdg 14:2` And he came up and told his father and his mother and said, "I have seen a woman in Timnath of the daughters of the Philistines. Now therefore, get her for me for a *_wife_*."
+* `Jdg 14:3` Then his father and his mother said to him, "Is there not a woman among the daughters of your brothers or among all my people, that you go to take a *_wife_* from the uncircumcised Philistines?" And Samson said to his father, "Get her for me, for she pleases me well."
 * `Jdg 14:15` And it came to pass on the seventh day, that they said to Samson's *_wife_*, "Entice your husband so that he may declare to us the riddle, lest we burn you and your father's house with fire. Have you called us to take what we possess? Is it not so?"
-* `Jdg 14:16` And Samson's *_wife_* wept before him, and said, "You only hate me and do not love me. You have proposed a riddle to the children of my people and have not told it to me." And he said to her, "Behold, I have not told my father or my mother, so why should I tell you?"
+* `Jdg 14:16` And Samson's *_wife_* wept before him and said, "You only hate me and do not love me. You have proposed a riddle to the children of my people and have not told it to me." And he said to her, "Behold, I have not told my father or my mother, so why should I tell you?"
 * `Jdg 14:20` But Samson's *_wife_* was given to his companion, who had been his friend.
 * `Jdg 15:1` But it came to pass after a while, in the time of wheat-harvest, that Samson visited his *_wife_* with a kid, and he said, "I will go in to my *_wife_* into the chamber." But her father would not allow him to go in.
 * `Jdg 15:6` Then the Philistines said, "Who has done this?" And they answered, "Samson, the son-in-law of the Timnite, because he had taken his *_wife_* and given her to his companion." And the Philistines came up and burnt her and her father with fire.
@@ -7062,7 +7062,7 @@ _161 verses containing WITHIN_
 * `Jsh 3:10` And Joshua said, "By this you shall know that the living God is among you and that he will *_without_* fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
 * `Jdg 6:5` For they came up with their livestock and their tents, and they came as swarming-locusts for multitude, for both they and their camels were *_without_* number. And they entered into the land to destroy it.
 * `Jdg 7:12` And the Midianites, the Amalekites, and all the children of the east lay along in the valley like swarming-locusts for multitude. And their camels were *_without_* number, as the sand by the sea side for multitude.
-* `Jdg 11:30` And Jephthah vowed a vow to the LORD, and said, "If you *_without_* fail deliver the children of Ammon into my hands,
+* `Jdg 11:30` And Jephthah vowed a vow to the LORD and said, "If you *_without_* fail deliver the children of Ammon into my hands,
 * `Rth 4:14` And the women said to Naomi, "Blessed be the LORD who has not left you this day *_without_* a kinsman. May his name be famous in Israel.
 * `1Sa 19:5` For he put his life in his hand and slew the Philistine, and the LORD wrought a great salvation for all Israel. You saw it and rejoiced. Why then will you sin against innocent blood to slay David *_without_* a cause?"
 * `1Sa 20:2` And he said to him, "Far be it from you. You shall not die. Behold, my father will do nothing either great or small *_without_* revealing it to me. And why should my father hide this thing from me? It is not so."

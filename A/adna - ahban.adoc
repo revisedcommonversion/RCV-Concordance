@@ -1295,11 +1295,11 @@ _183 verses containing AFRAID_
 * `Jdg 8:27` And Gideon made from it an ephod and put it in his city, even in Ophrah. And all Israel went astray *_after_* it there, and it became a snare to Gideon and to his house.
 * `Jdg 8:33` And it came to pass as soon as Gideon was dead, that the children of Israel turned back and went astray *_after_* Baalim and made Baal-berith their god.
 * `Jdg 10:1` And *_after_* Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar. And he dwelt in Shamir in the mountains of Ephraim.
-* `Jdg 10:3` And *_after_* him arose Jair, a Gileadite, and judged Israel for twenty-two years.
+* `Jdg 10:3` And *_after_* him arose Jair, a Gileadite, and he judged Israel for twenty-two years.
 * `Jdg 12:8` And *_after_* him Ibzan of Beth-lehem judged Israel.
 * `Jdg 12:11` And *_after_* him Elon, a Zebulonite, judged Israel, and he judged Israel for ten years.
 * `Jdg 12:13` And *_after_* him Abdon the son of Hillel, a Pirathonite, judged Israel.
-* `Jdg 13:11` And Manoah arose, went *_after_* his wife, and came to the man, and said to him, "Are you the man who spoke to the woman?" And he said, "I am."
+* `Jdg 13:11` And Manoah arose, went *_after_* his wife, and came to the man and said to him, "Are you the man who spoke to the woman?" And he said, "I am."
 * `Jdg 14:8` And *_after_* a time he returned to take her, and he turned aside to see the carcass of the lion, and behold, there was a swarm of bees and honey in the carcass of the lion.
 * `Jdg 15:1` But it came to pass *_after_* a while, in the time of wheat-harvest, that Samson visited his wife with a kid, and he said, "I will go in to my wife into the chamber." But her father would not allow him to go in.
 * `Jdg 15:7` And Samson said to them, "Though you have done this, yet I will be avenged of you, and *_after_* that I will cease."
@@ -2173,7 +2173,7 @@ _5 verses containing AGAGITE_
 * `Jdg 10:6` And the children of Israel did evil *_again_* in the sight of the LORD and served Baalim, Ashtaroth, the gods of Syria, the gods of Zidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD and did not serve him.
 * `Jdg 11:9` And Jephthah said to the elders of Gilead, "If you bring me home *_again_* to fight against the children of Ammon, and the LORD delivers them before me, shall I be your head?"
 * `Jdg 11:13` And the king of the children of Ammon answered to the messengers of Jephthah, "Because Israel took away my land when they came out of Egypt, from Arnon even to Jabbok, and to the Jordan. Now therefore, restore those lands *_again_* peaceably."
-* `Jdg 11:14` And Jephthah sent messengers *_again_* to the king of the children of Ammon,
+* `Jdg 11:14` And Jephthah sent messengers *_again_* to the king of the children of Ammon
 * `Jdg 13:1` And the children of Israel did evil *_again_* in the sight of the LORD. And the LORD delivered them into the hand of the Philistines for forty years.
 * `Jdg 13:9` And God listened to the voice of Manoah, and the angel of God came *_again_* to the woman as she sat in the field. But Manoah her husband was not with her.
 * `Jdg 19:7` And when the man rose to depart, his father-in-law urged him; therefore, he lodged there *_again_*.
@@ -2808,7 +2808,7 @@ _440 verses containing AGAIN_
 * `Jdg 10:10` And the children of Israel cried to the LORD, saying, "We have sinned *_against_* you, both because we have forsaken our God and also served Baalim."
 * `Jdg 10:18` And the people and princes of Gilead said to one another, "What man is he who will begin to fight *_against_* the children of Ammon? He shall be head over all the inhabitants of Gilead."
 * `Jdg 11:4` And it came to pass in process of time, that the children of Ammon made war *_against_* Israel.
-* `Jdg 11:5` And it was so, that when the children of Ammon made war *_against_* Israel, the elders of Gilead went to bring Jephthah out of the land of Tob,
+* `Jdg 11:5` And it was so when the children of Ammon made war *_against_* Israel, that the elders of Gilead went to bring Jephthah out of the land of Tob.
 * `Jdg 11:8` And the elders of Gilead said to Jephthah, "Therefore, we turn back to you now so that you may go with us and fight *_against_* the children of Ammon and be our head over all the inhabitants of Gilead."
 * `Jdg 11:9` And Jephthah said to the elders of Gilead, "If you bring me home again to fight *_against_* the children of Ammon, and the LORD delivers them before me, shall I be your head?"
 * `Jdg 11:12` And Jephthah sent messengers to the king of the children of Ammon, saying, "What have you to do with me that you have come *_against_* me to fight in my land?"
@@ -2821,7 +2821,7 @@ _440 verses containing AGAIN_
 * `Jdg 14:4` But his father and his mother did not know that it was from the LORD, for he sought an occasion *_against_* the Philistines. For at that time the Philistines had dominion over Israel.
 * `Jdg 14:5` Then Samson went down with his father and his mother to Timnath and came to the vineyards of Timnath. And behold, a young lion roared *_against_* him.
 * `Jdg 15:10` And the men of Judah said, "Why have you come up *_against_* us?" And they answered, "We have come to bind Samson, to do to him as he has done to us."
-* `Jdg 15:14` And when he came to Lehi, the Philistines shouted *_against_* him. And the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and the bonds dropped off his hands.
+* `Jdg 15:14` And when he came to Lehi, the Philistines shouted *_against_* him. And the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became like flax that was burnt with fire, and the bonds dropped off his hands.
 * `Jdg 16:5` And the lords of the Philistines came to her, and said to her, "Entice him, and see in what his great strength lies and by what means we may prevail *_against_* him so that we may bind him to afflict him. And we will each give you eleven hundred pieces of silver."
 * `Jdg 18:9` And they said, "Arise, so that we may go up *_against_* them. For we have seen the land, and behold, it is very good. And are you still? Do not be slothful to go and to enter to possess the land.
 * `Jdg 19:2` And his concubine played the harlot *_against_* him and went away from him to her father's house to Beth-lehem-judah, and was there for four whole months.
