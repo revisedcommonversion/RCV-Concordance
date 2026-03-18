@@ -1093,14 +1093,14 @@ _1 verse containing NOVICE_
 * `Jdg 18:14` Then the five men who went to explore the country of Laish answered and said to their brothers, "Do you know that there is in these houses an ephod, teraphim, an engraved image, and a molten image? *_Now_* therefore, consider what you have to do."
 * `Jdg 19:9` And when the man arose to depart—he, his concubine, and his servant—his father-in-law, the young woman's father, said to him, "Behold *_now_* the day draws toward evening, I pray you stay all night. Behold, the day is coming to an end. Lodge here so that your heart may be merry. And tomorrow get on your way early so that you may go home."
 * `Jdg 19:18` And he said to him, "We are passing from Beth-lehem-Judah toward the side of mount Ephraim. I am from there. And I went to Beth-lehem-judah, but I am *_now_* going to the house of the LORD. And there is no man who receives me into his house.
-* `Jdg 19:22` *_Now_* as they were making their hearts merry, behold, the men of the city, some sons of Belial, beset the house on all sides and beat at the door, and spoke to the master of the house, the old man, saying, "Bring forth the man who came into your house so that we may know him."
+* `Jdg 19:22` *_Now_* as they were making their hearts merry, behold, the men of the city, some sons of Belial, beset the house on all sides and beat at the door and spoke to the master of the house, the old man, saying, "Bring forth the man who came into your house so that we may know him."
 * `Jdg 19:24` Behold, here is my daughter, a virgin, and his concubine. I will bring them out *_now_*, and you may humble them and do with them what seems good to you, but to this man do not do such a vile thing."
 * `Jdg 20:3` (*_Now_* the children of Benjamin heard that the children of Israel had gone up to Mizpeh.) Then the children of Israel said, "Tell us, how did this wickedness happen?"
 * `Jdg 20:9` But *_now_* this shall be the thing which we will do to Gibeah: we will go up by lot against it,
 * `Jdg 20:13` *_Now_* therefore, deliver us the men, the children of Belial, who are in Gibeah, so that we may put them to death and banish evil from Israel." But the children of Benjamin would not listen to the voice of their brothers, the children of Israel.
 * `Jdg 20:38` *_Now_* there was an appointed sign between the men of Israel and the ambushers, that they should make a great flame with smoke to rise from the city.
 * `Jdg 21:1` *_Now_* the men of Israel had sworn in Mizpeh, saying, "Not one of us shall give his daughter to Benjamin for a wife."
-* `Jdg 21:22` And it shall be, when their fathers or their brothers come to us to complain, that we will say to them, 'Be favorable to them for our sakes, because we did not reserve to each man his wife in the war, neither did you give them to them; otherwise, you would *_now_* be guilty.'"
+* `Jdg 21:22` And it shall be when their fathers or their brothers come to us to complain, that we will say to them, 'Be favorable to them for our sakes, because we did not reserve to each man his wife in the war, neither did you give them to them; otherwise, you would *_now_* be guilty.'"
 * `Rth 1:1` *_Now_* it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to dwell in the country of Moab—he, his wife, and his two sons.
 * `Rth 2:2` And Ruth the Moabitess said to Naomi, "Let me *_now_* go to the field and glean heads of grain after him in whose sight I shall find grace." And she said to her, "Go, my daughter."
 * `Rth 2:7` And she said, 'I pray you, let me glean and gather after the reapers among the sheaves.' So she came and has continued even from the morning until *_now_*, and she rested a little in the house."
@@ -2489,8 +2489,8 @@ _178 verses containing NUMBER_
 * `Num 26:63` These are those who were *_numbered_* by Moses and Eleazar the priest, who *_numbered_* the children of Israel in the plains of Moab by the Jordan near Jericho.
 * `Num 26:64` But among these there was not a man of them whom Moses and Aaron the priest *_numbered_* when they *_numbered_* the children of Israel in the wilderness of Sinai.
 * `Jsh 8:10` And Joshua rose early in the morning and *_numbered_* the people and went up—he and the elders of Israel—before the people to Ai.
-* `Jdg 20:15` And the children of Benjamin were *_numbered_* at that time out of the cities twenty-six thousand men who drew sword, besides the inhabitants of Gibeah, who were *_numbered_* seven hundred chosen men.
-* `Jdg 20:17` And the men of Israel, besides Benjamin, were *_numbered_* four hundred thousand men who drew sword. All these were men of war.
+* `Jdg 20:15` And the children of Benjamin were *_numbered_* at that time out of the cities twenty-six thousand men who drew the sword, besides the inhabitants of Gibeah, who were *_numbered_* seven hundred chosen men.
+* `Jdg 20:17` And the men of Israel, besides Benjamin, were *_numbered_* four hundred thousand men who drew the sword. All these were men of war.
 * `Jdg 21:9` For the people were *_numbered_*, and behold, there were none of the inhabitants of Jabesh-gilead there.
 * `1Sa 11:8` And when he *_numbered_* them in Bezek, the children of Israel were three hundred thousand and the men of Judah thirty thousand.
 * `1Sa 13:15` And Samuel arose and went up from Gilgal to Gibeah of Benjamin. And Saul *_numbered_* the people who were present with him, about six hundred men.

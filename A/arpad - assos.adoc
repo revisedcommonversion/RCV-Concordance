@@ -36,7 +36,7 @@ _1 verse containing ARRANGE_
 == ARRAY
 
 * `Jdg 20:20` And the men of Israel went out to battle against Benjamin, and the men of Israel put themselves in *_array_* to fight against them at Gibeah.
-* `Jdg 20:22` And the people, the men of Israel, encouraged themselves and set their battle again in *_array_* in the place where they put themselves in *_array_* the first day.
+* `Jdg 20:22` And the people, the men of Israel, encouraged themselves and set their battle again in *_array_* in the place where they put themselves in *_array_* on the first day.
 * `Jdg 20:30` And the children of Israel went up against the children of Benjamin on the third day and put themselves in *_array_* against Gibeah, as at other times.
 * `Jdg 20:33` And all the men of Israel rose out of their place and put themselves in *_array_* at Baal-tamar, and the ambushers of Israel came forth out of their places, even out of the meadows of Gibeah.
 * `1Sa 4:2` And the Philistines put themselves in *_array_* against Israel. And when they joined battle, Israel was smitten before the Philistines. And they slew about four thousand men of the army in the field.
@@ -981,6 +981,7 @@ _20 verses containing ASIA_
 * `Jsh 23:6` Therefore, be very courageous to keep and to do all that is written in the book of the law of Moses, that you do not turn *_aside_* from it to the right hand or to the left,
 * `Jdg 4:18` And Jael went out to meet Sisera and said to him, "Turn *_aside_*, my lord, turn *_aside_* to me. Do not fear." And when he had turned *_aside_* to her into the tent, she covered him with a mantle.
 * `Jdg 14:8` And after a time he returned to take her, and he turned *_aside_* to see the carcass of the lion, and behold, there was a swarm of bees and honey in the carcass of the lion.
+* `Jdg 19:11` And when they were by Jebus, the day was far spent. And the servant said to his master, "Come, I pray you, and let us turn *_aside_* into this city of the Jebusites and lodge in it."
 * `Jdg 19:12` And his master said to him, "We will not turn *_aside_* here into the city of a stranger where there are no children of Israel. We will pass over to Gibeah."
 * `Jdg 19:15` And they turned *_aside_* there to go in and to lodge in Gibeah. And when he went in, he sat down in a street of the city, for there was no man who took them into his house to lodge.
 * `Rth 4:1` Then Boaz went up to the gate and sat down there. And behold, the kinsman of whom Boaz spoke came by. And he said to him, "Ho, such a one! Turn *_aside_* and sit down here." And he turned *_aside_* and sat down.
@@ -1034,7 +1035,7 @@ _20 verses containing ASIA_
 * `Heb 12:1` Therefore, seeing we also are encompassed with so great a cloud of witnesses, let us lay *_aside_* every weight and the sin which so easily besets us, and let us run with patience the race that is set before us,
 * `1Pe 2:1` Therefore, laying *_aside_* all malice, all guile, hypocrisies, envies, and all evil-speakings,
 
-_70 verses containing ASIDE_
+_71 verses containing ASIDE_
 
 == ASIEL
 
@@ -1172,7 +1173,7 @@ _108 verses containing ASK_
 * `Jdg 1:1` Now after the death of Joshua, it came to pass, that the children of Israel *_asked_* the LORD, saying, "Who shall go up for us against the Canaanites first to fight against them?"
 * `Jdg 5:25` He *_asked_* water, and she gave him milk. She brought forth butter in a lordly dish.
 * `Jdg 6:29` And they said to one another, "Who has done this thing?" And when they inquired and *_asked_*, they said, "Gideon the son of Joash has done this thing."
-* `Jdg 20:18` And the children of Israel arose and went up to the house of God and *_asked_* counsel of God, and said, "Which of us shall go up first to the battle against the children of Benjamin?" And the LORD said, "Judah shall go up first."
+* `Jdg 20:18` And the children of Israel arose, went up to the house of God, and *_asked_* counsel of God and said, "Which of us shall go up first to the battle against the children of Benjamin?" And the LORD said, "Judah shall go up first."
 * `Jdg 20:23` (And the children of Israel went up and wept before the LORD until evening and *_asked_* counsel of the LORD, saying, "Shall I go up again to battle against the children of Benjamin my brother?" And the LORD said, "Go up against him.")
 * `1Sa 1:17` Then Eli answered and said, "Go in peace. And may the God of Israel grant you your petition that you have *_asked_* of him."
 * `1Sa 1:20` Therefore, it came to pass, when the time had arrived after Hannah had conceived, that she bore a son and called his name Samuel, saying, "Because I have *_asked_* for him from the LORD."
@@ -1493,7 +1494,7 @@ _45 verses containing ASSEMBLE_
 * `Jdg 12:1` And the men of Ephraim *_assembled_* and went northward and said to Jephthah, "Why did you pass over to fight against the children of Ammon and did not call us to go with you? We will burn your house upon you with fire."
 * `Jdg 16:23` Then the lords of the Philistines *_assembled_* to offer a great sacrifice to Dagon their god and to rejoice, for they said, "Our god has delivered Samson our enemy into our hand."
 * `Jdg 20:1` Then all the children of Israel went out, and the congregation was *_assembled_* as one man from Dan even to Beer-sheba, along with the land of Gilead, to the LORD in Mizpeh.
-* `Jdg 20:14` But the children of Benjamin *_assembled_* out of the cities to Gibeah to go out to battle against the children of Israel.
+* `Jdg 20:14` But the children of Benjamin *_assembled_* out of the cities at Gibeah to go out to battle against the children of Israel.
 * `1Sa 2:22` Now Eli was very old and heard all that his sons did to all Israel and how they lay with the women who *_assembled_* at the door of the Tabernacle of the Congregation.
 * `1Sa 7:6` And they *_assembled_* at Mizpeh and drew water, poured it out before the LORD, and fasted on that day, and there said, "We have sinned against the LORD." And Samuel judged the children of Israel in Mizpeh.
 * `1Sa 7:7` And when the Philistines heard that the children of Israel were *_assembled_* at Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.
@@ -1646,7 +1647,7 @@ _2 verses containing ASSEMBLING_
 * `Deu 10:4` And he wrote on the tablets, according to the first writing, the Ten Commandments, which the LORD spoke to you on the mountain from the midst of the fire on the day of the *_assembly_*. And the LORD gave them to me.
 * `Deu 16:8` Six days you shall eat unleavened bread, and on the seventh day shall be a solemn *_assembly_* to the LORD your God. In it you shall do no work.
 * `Deu 18:16` This is according to all that you desired of the LORD your God in Horeb in the day of the *_assembly_*, saying, 'Do not let me hear again the voice of the LORD my God, neither let me see this great fire anymore, so that I may not die.'
-* `Jdg 20:2` And the chief of all the people, even of all the tribes of Israel, presented themselves in the *_assembly_* of the people of God—four hundred thousand footmen who drew sword.
+* `Jdg 20:2` And the chief of all the people, even of all the tribes of Israel, presented themselves in the *_assembly_* of the people of God—four hundred thousand footmen who drew the sword.
 * `Jdg 21:8` And they said, "Who from among the tribes of Israel did not come up to Mizpeh to the LORD?" And behold, no one came to the camp from Jabesh-gilead to the *_assembly_*.
 * `1Sa 17:47` And all this *_assembly_* shall know that the LORD does not save with sword and spear, for the battle is the LORD'S, and he will give you into our hands."
 * `2Ki 10:20` And Jehu said, "Proclaim a solemn *_assembly_* for Baal." And they proclaimed it.
