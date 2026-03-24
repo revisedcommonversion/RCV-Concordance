@@ -680,7 +680,7 @@ _183 verses containing CALL_
 * `1Sa 7:12` Then Samuel took a stone, set it between Mizpeh and Shen, and *_called_* its name Eben-ezer, saying, "Until now the LORD has helped us."
 * `1Sa 9:9` (Formerly in Israel, when a man went to inquire of God, thus he spoke: "Come, and let us go to the seer." For he who is now *_called_* a Prophet was formerly *_called_* a Seer.)
 * `1Sa 9:26` And they rose early, and it came to pass about the spring of the day, that Samuel *_called_* Saul to the top of the house, saying, "Arise so that I may send you away." And Saul arose, and the both of them went out—he and Samuel—abroad.
-* `1Sa 10:17` And Samuel *_called_* the people together to the LORD at Mizpeh,
+* `1Sa 10:17` And Samuel *_called_* the people together to the LORD at Mizpeh
 * `1Sa 12:18` So Samuel *_called_* to the LORD. And the LORD sent thunder and rain that day, and all the people greatly feared the LORD and Samuel.
 * `1Sa 16:5` And he said, "Peaceably. I have come to sacrifice to the LORD. Sanctify yourselves and come with me to the sacrifice." And he sanctified Jesse and his sons and *_called_* them to the sacrifice.
 * `1Sa 16:8` Then Jesse *_called_* Abinadab and made him pass before Samuel. And he said, "The LORD has not chosen this one."
@@ -1212,7 +1212,7 @@ _1 verse containing CALVARY_
 * `1Sa 6:7` Now therefore, make a new cart and take two milk cows on which there has come no yoke, tie the cows to the cart, and bring their *_calves_* home from them.
 * `1Sa 6:10` And the men did so, and took two milk cows, tied them to the cart, and shut up their *_calves_* at home.
 * `1Sa 14:32` And the people flew upon the plunder and took sheep, oxen, and *_calves_* and slew them on the ground. And the people ate them with the blood.
-* `1Sa 15:9` But Saul and the people spared Agag and the best of the sheep, of the oxen, of the fattened *_calves_*, the lambs, and all that was good, and would not utterly destroy them. But everything that was vile and refuse, that they utterly destroyed.
+* `1Sa 15:9` But Saul and the people spared Agag and the best of the sheep, of the oxen, of the fattened *_calves_*, the lambs, and all that was good, and would not utterly destroy them. But everything that was vile and worthless, that they utterly destroyed.
 * `2Sa 6:13` And it was so, that when those who bore the ark of the LORD had gone six paces, he sacrificed oxen and fattened *_calves_*.
 * `1Ki 1:9` And Adonijah slew sheep, oxen, and fattened *_calves_* by the stone of Zoheleth, which is by En-rogel, and called all his brothers the king's sons and all the men of Judah the king's servants,
 * `1Ki 1:19` And he has slain oxen, fattened *_calves_*, and sheep in abundance, and has called all the sons of the king, Abiathar the priest, and Joab the captain of the host, but Solomon your servant he has not called.
@@ -1719,15 +1719,15 @@ _25 verses containing CALVES_
 * `Rth 3:14` And she lay at his feet until the morning. And she rose before one could know another. And he said, "Do not let it be known that a woman *_came_* to the floor."
 * `Rth 3:16` And when she *_came_* to her mother-in-law, she said, "How did it go, my daughter?" And she told her all that the man had done to her.
 * `Rth 4:1` Then Boaz went up to the gate and sat down there. And behold, the kinsman of whom Boaz spoke *_came_* by. And he said to him, "Ho, such a one! Turn aside and sit down here." And he turned aside and sat down.
-* `1Sa 1:12` And it *_came_* to pass, as she continued praying before the LORD, that Eli observed her mouth.
+* `1Sa 1:12` And it *_came_* to pass as she continued praying before the LORD, that Eli observed her mouth.
 * `1Sa 1:19` And they rose early in the morning, worshiped before the LORD, and returned and *_came_* to their house in Ramah. And Elkanah knew Hannah his wife, and the LORD remembered her.
 * `1Sa 1:20` Therefore, it *_came_* to pass, when the time had arrived after Hannah had conceived, that she bore a son and called his name Samuel, saying, "Because I have asked for him from the LORD."
 * `1Sa 2:13` And the priest's custom with the people was this: when any man offered sacrifice, the priest's servant *_came_* with a flesh-hook of three teeth in his hand while the flesh was boiling,
 * `1Sa 2:14` And he struck it into the pan, kettle, cauldron, or pot, and all that the flesh-hook brought up the priest took for himself. They did so in Shiloh to all the Israelites who *_came_* there.
-* `1Sa 2:15` Also before they burnt the fat, the priest's servant *_came_* and said to the man who sacrificed, "Give flesh to roast for the priest, for he will not have boiled flesh from you, only raw."
+* `1Sa 2:15` Also, before they burnt the fat, the priest's servant *_came_* and said to the man who sacrificed, "Give flesh to roast for the priest, for he will not have boiled flesh from you, only raw."
 * `1Sa 2:19` Moreover, his mother made him a little coat and brought it to him from year to year when she *_came_* up with her husband to offer the yearly sacrifice.
 * `1Sa 2:27` And there *_came_* a man of God to Eli and said to him, "Thus says the LORD: 'Did I plainly appear to the house of your father when they were in Egypt in Pharaoh's house?
-* `1Sa 3:2` And it *_came_* to pass at that time, when Eli was laid down in his place and his eyes began to grow dim so that he could not see,
+* `1Sa 3:2` And it *_came_* to pass at that time when Eli was lying down in his place and his eyes began to grow dim so that he could not see,
 * `1Sa 3:10` And the LORD *_came_* and stood and called as at other times, "Samuel, Samuel." Then Samuel answered, "Speak, for your servant hears."
 * `1Sa 4:1` And the word of Samuel *_came_* to all Israel. Now Israel went out against the Philistines to battle and encamped beside Eben-ezer. And the Philistines encamped in Aphek.
 * `1Sa 4:5` And when the ark of the covenant of the LORD *_came_* into the camp, all Israel shouted with a great shout so that the earth resounded.
@@ -1743,8 +1743,8 @@ _25 verses containing CALVES_
 * `1Sa 7:2` And it *_came_* to pass, while the ark stayed in Kirjath-jearim, that the time was long, for it was twenty years, and all the house of Israel lamented after the LORD.
 * `1Sa 7:11` And the men of Israel went out of Mizpeh, pursued the Philistines, and smote them until they *_came_* under Beth-car.
 * `1Sa 7:13` So the Philistines were subdued and they no longer *_came_* into the borders of Israel. And the hand of the LORD was against the Philistines all the days of Samuel.
-* `1Sa 8:1` And it *_came_* to pass, when Samuel was old, that he made his sons judges over Israel.
-* `1Sa 8:4` Then all the elders of Israel assembled and *_came_* to Samuel at Ramah,
+* `1Sa 8:1` And it *_came_* to pass when Samuel was old, that he made his sons judges over Israel.
+* `1Sa 8:4` Then all the elders of Israel assembled and *_came_* to Samuel at Ramah
 * `1Sa 9:12` And they answered them and said, "He is. Behold, he is before you. Make haste now, for he *_came_* today to the city, for there is a sacrifice of the people today in the high place.
 * `1Sa 9:14` And they went up into the city. And as they were coming into the city, behold, Samuel *_came_* out to meet them on his way up to the high place.
 * `1Sa 9:15` Now the LORD had told Samuel in his ear a day before Saul *_came_*, saying,
@@ -1762,7 +1762,7 @@ _25 verses containing CALVES_
 * `1Sa 11:9` And they said to the messengers who *_came_*, "Thus you shall say to the men of Jabesh-gilead: 'Tomorrow by the time the sun is hot, you shall have help.'" And the messengers *_came_* and declared it to the men of Jabesh, and they were glad.
 * `1Sa 11:11` And it was so on the next day, that Saul disposed the people in three companies. And they *_came_* into the midst of the host in the morning-watch and slew the Ammonites until the heat of the day. And it *_came_* to pass, that those who remained were scattered so that two of them were not left together.
 * `1Sa 12:12` "And when you saw that Nahash the king of the children of Ammon *_came_* against you, you said to me, 'No, but a king shall reign over us,' when the LORD your God was your king.
-* `1Sa 13:5` And the Philistines assembled to fight with Israel, thirty thousand chariots, six thousand horsemen, and people as the sand which is on the sea shore in multitude. And they *_came_* up and encamped in Michmash, eastward from Beth-aven.
+* `1Sa 13:5` And the Philistines assembled to fight with Israel: thirty thousand chariots, six thousand horsemen, and people as the sand which is on the sea shore in multitude. And they *_came_* up and encamped in Michmash, eastward from Beth-aven.
 * `1Sa 13:10` And it *_came_* to pass, that as soon as he had made an end of offering the burnt-offering, behold, Samuel *_came_*. And Saul went out to meet him so that he might salute him.
 * `1Sa 13:17` And the raiders *_came_* out of the camp of the Philistines in three companies: one company turned to the way that leads to Ophrah to the land of Shual,
 * `1Sa 13:22` So it *_came_* to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people who were with Saul and Jonathan, but they were found with Saul and with Jonathan his son.
@@ -1770,7 +1770,7 @@ _25 verses containing CALVES_
 * `1Sa 14:19` And it *_came_* to pass while Saul talked to the priest, that the noise that was in the host of the Philistines went on and increased. And Saul said to the priest, "Withdraw your hand."
 * `1Sa 14:20` And Saul and all the people who were with him assembled themselves and *_came_* to the battle. And behold, every man's sword was against his fellow and there was a very great confusion.
 * `1Sa 14:25` And all the people of the land *_came_* to a forest and there was honey upon the ground.
-* `1Sa 15:2` Thus says the LORD of hosts: 'I remember that which Amalek did to Israel, how he laid wait for him in the way when he *_came_* up from Egypt.
+* `1Sa 15:2` Thus says the LORD of hosts: 'I remember that which Amalek did to Israel, how he laid wait for him on the way when he *_came_* up from Egypt.
 * `1Sa 15:5` And Saul *_came_* to a city of Amalek and laid wait in the valley.
 * `1Sa 15:6` And Saul said to the Kenites, "Go, depart, withdraw yourselves from among the Amalekites, lest I destroy you with them, for you showed kindness to all the children of Israel when they *_came_* up from Egypt." So the Kenites departed from among the Amalekites.
 * `1Sa 15:10` Then the word of the LORD *_came_* to Samuel, saying,
@@ -1782,14 +1782,14 @@ _25 verses containing CALVES_
 * `1Sa 16:6` And it *_came_* to pass when they had come, that he looked on Eliab and said, "Surely the LORD'S anointed is before him."
 * `1Sa 16:13` Then Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the LORD *_came_* upon David from that day forward. So Samuel arose and went to Ramah.
 * `1Sa 16:21` And David *_came_* to Saul and stood before him. And [Saul] loved him greatly, and he became his armor-bearer.
-* `1Sa 16:23` And it *_came_* to pass, when the evil spirit from God was upon Saul, that David took a harp and played with his hand. Then Saul was refreshed and was well, and the evil spirit departed from him.
-* `1Sa 17:20` And David rose early in the morning and left the sheep with a keeper, and took and went as Jesse had commanded him. And he *_came_* to the trench as the host was going forth to the fight and shouting for the battle.
-* `1Sa 17:22` And David left his baggage in the hand of the keeper of the baggage, and ran into the army and *_came_* and saluted his brothers.
+* `1Sa 16:23` And it *_came_* to pass when the evil spirit from God was upon Saul, that David took a harp and played with his hand. Then Saul was refreshed and was well, and the evil spirit departed from him.
+* `1Sa 17:20` And David rose early in the morning, left the sheep with a keeper, and took and went as Jesse had commanded him. And he *_came_* to the trench as the host was going forth to the fight and shouting for the battle.
+* `1Sa 17:22` And David left his baggage in the hand of the keeper of the baggage and ran into the army and *_came_* and saluted his brothers.
 * `1Sa 17:23` And as he talked with them, behold, there *_came_* up the champion, the Philistine of Gath, Goliath by name, from the armies of the Philistines, and spoke according to the same words. And David heard them.
 * `1Sa 17:34` And David said to Saul, "Your servant kept his father's sheep, and there *_came_* a lion and a bear and took a lamb out of the flock.
-* `1Sa 17:48` And it *_came_* to pass, when the Philistine arose and *_came_* and drew near to meet David, that David hastened and ran toward the army to meet the Philistine.
-* `1Sa 18:1` And it *_came_* to pass, when he had made an end of speaking to Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
-* `1Sa 18:6` And it *_came_* to pass as they *_came_*, when David had returned from the slaughter of the Philistine, that the women *_came_* out of all the cities of Israel, singing and dancing, to meet king Saul, with tambourines, with joy, and with instruments of music.
+* `1Sa 17:48` And it *_came_* to pass when the Philistine arose and *_came_* and drew near to meet David, that David hastened and ran toward the army to meet the Philistine.
+* `1Sa 18:1` And it *_came_* to pass when he had made an end of speaking to Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
+* `1Sa 18:6` And it *_came_* to pass as they *_came_*, when David had returned from the slaughter of the Philistine, that the women *_came_* out of all the cities of Israel, singing and dancing, to meet king Saul with tambourines, with joy, and with instruments of music.
 * `1Sa 18:10` And it *_came_* to pass on the next day, that the evil spirit from God *_came_* upon Saul, and he prophesied in the midst of the house. And David played with his hand, as at other times. And there was a javelin in Saul's hand.
 * `1Sa 18:13` Therefore, Saul sent him away from him and made him his captain over one thousand. And he went out and *_came_* in before the people.
 * `1Sa 18:16` But all Israel and Judah loved David because he went out and *_came_* in before them.
@@ -3315,7 +3315,7 @@ _1 verse containing CAMON_
 * `1Sa 4:7` And the Philistines were afraid, for they said, "God has come into the *_camp_*." And they said, "Woe to us! For there has not been such a thing before.
 * `1Sa 13:17` And the raiders came out of the *_camp_* of the Philistines in three companies: one company turned to the way that leads to Ophrah to the land of Shual,
 * `1Sa 14:21` Moreover, the Hebrews who were with the Philistines before that time, who went up with them into the *_camp_* from the country around, even they also turned to be with the Israelites who were with Saul and Jonathan.
-* `1Sa 17:4` And there went out a champion from the *_camp_* of the Philistines named Goliath, of Gath, whose height was six cubits and a span.
+* `1Sa 17:4` And there went out a champion from the *_camp_* of the Philistines named Goliath, who was from Gath, whose height was six cubits and a span.
 * `1Sa 17:17` And Jesse said to David his son, "Now take for your brothers an ephah of this parched grain and these ten loaves, and run to the *_camp_* to your brothers.
 * `1Sa 26:6` Then David answered and said to Ahimelech the Hittite, and to Abishai, the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the *_camp_*?" And Abishai said, "I will go down with you."
 * `2Sa 1:2` It came even to pass on the third day, that behold, a man came out of the *_camp_* from Saul with his clothes rent and earth upon his head. And so it was, when he came to David, that he fell to the earth and did obeisance.
@@ -4226,7 +4226,7 @@ _6 verses containing CAPS_
 * `Jdg 11:6` And they said to Jephthah, "Come, and be our *_captain_* so that we may fight with the children of Ammon."
 * `Jdg 11:11` Then Jephthah went with the elders of Gilead, and the people made him head and *_captain_* over them. And Jephthah uttered all his words before the LORD in Mizpeh.
 * `1Sa 9:16` "Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be *_captain_* over my people Israel so that he may save my people from the hand of the Philistines. For I have looked upon my people because their cry has come to me."
-* `1Sa 10:1` Then Samuel took a vial of oil, poured it upon his head, and kissed him, and said, "Is it not because the LORD has anointed you to be *_captain_* over his inheritance?
+* `1Sa 10:1` Then Samuel took a vial of oil, poured it upon his head, and kissed him and said, "Is it not because the LORD has anointed you to be *_captain_* over his inheritance?
 * `1Sa 12:9` And when they forgot the LORD their God, he sold them into the hand of Sisera, who was *_captain_* of the host of Hazor, into the hand of the Philistines and into the hand of the king of Moab, and they fought against them.
 * `1Sa 13:14` But now your kingdom shall not continue. The LORD has sought for himself a man after his own heart and the LORD has commanded him to be *_captain_* over his people because you have not kept that which the LORD commanded you."
 * `1Sa 14:50` And the name of Saul's wife was Ahinoam, the daughter of Ahimaaz. And the name of the *_captain_* of his host was Abner, the son of Ner, Saul's uncle.
@@ -5000,7 +5000,7 @@ _1 verse containing CARPUS_
 * `Jsh 3:14` And it came to pass, that when the people set out from their tents to pass over the Jordan, the priests *_carried_* the ark of the covenant before the people.
 * `Jsh 4:8` And the children of Israel did so as Joshua commanded, and took up twelve stones from the midst of the Jordan, as the LORD commanded Joshua, according to the number of the tribes of the children of Israel, and *_carried_* them over with them to the place where they lodged and laid them down there.
 * `Jdg 16:3` And Samson lay until midnight. Then at midnight he arose and took the doors of the gate of the city, with the two posts, and went away with them, bar and all, and put them upon his shoulders and *_carried_* them up to the top of a hill that is before Hebron.
-* `1Sa 5:8` They sent therefore, and gathered all the lords of the Philistines to them and said, "What shall we do with the ark of the God of Israel?" And they answered, "Let the ark of the God of Israel be *_carried_* to Gath." And they *_carried_* the ark of the God of Israel there.
+* `1Sa 5:8` Therefore, they sent and gathered all the lords of the Philistines to them and said, "What shall we do with the ark of the God of Israel?" And they answered, "Let the ark of the God of Israel be *_carried_* to Gath." And they *_carried_* the ark of the God of Israel there.
 * `1Sa 5:9` And it was so, that after they had *_carried_* it there, the hand of the LORD was against the city with a very great destruction, and he smote the men of the city both small and great, and they had emerods in their secret parts.
 * `1Sa 30:2` And had taken the women captive who were in it. They did not slay any, either great or small, but *_carried_* them away and went on their way.
 * `1Sa 30:18` And David recovered all that the Amalekites had *_carried_* away. And David rescued his two wives.

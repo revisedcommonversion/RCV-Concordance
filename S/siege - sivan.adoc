@@ -606,7 +606,7 @@ _4 verses containing SIGNIFYING_
 * `Deu 29:3` The great trials which your eyes have seen, the *_signs_*, and those great miracles—
 * `Deu 34:11` In all the *_signs_* and the wonders which the LORD sent him to do in the land of Egypt to Pharaoh, to all his servants, and to all his land,
 * `Jsh 24:17` For the LORD our God, it is he who brought us and our fathers out of the land of Egypt, from the house of bondage, and who did those great *_signs_* in our sight, and preserved us in all the way in which we went and among all the people through whom we passed.
-* `1Sa 10:7` And let it be, when these *_signs_* have come to you, that you do as occasion serves you, for God is with you.
+* `1Sa 10:7` And let it be when these *_signs_* have come to you, that you do as occasion serves you, for God is with you.
 * `1Sa 10:9` And it was so, that when he had turned his back to go from Samuel, God gave him another heart. And all those *_signs_* came to pass that day.
 * `Neh 9:10` And showed *_signs_* and wonders upon Pharaoh, upon all his servants, and upon all the people of his land, for you knew that they dealt proudly against them. Thus you made yourself a name, as it is this day.
 * `Psa 65:8` Also those who dwell in the uttermost parts are in awe of your *_signs_*. You make the outgoings of the morning and evening to rejoice.
@@ -897,7 +897,7 @@ _4 verses containing SILVANUS_
 * `Jdg 17:3` And when he had restored the eleven hundred shekels of *_silver_* to his mother, his mother said, "I had wholly dedicated the *_silver_* to the LORD from my hand for my son to make an engraved image and a molten image. Now therefore, I will restore it to you."
 * `Jdg 17:4` So he restored the money to his mother, and his mother took two hundred shekels of *_silver_* and gave them to the founder, who made from it an engraved image and a molten image. And they were in the house of Micah.
 * `Jdg 17:10` And Micah said to him, "Dwell with me and be to me a father and a priest, and I will give you ten shekels of *_silver_* by the year, a suit of apparel, and your food." So the Levite went in.
-* `1Sa 2:36` And it shall come to pass, that everyone who is left in your house shall come and crouch to him for a piece of *_silver_* and a morsel of bread, and shall say, "Put me, I pray you, into one of the priest's offices so that I may eat a piece of bread."'"
+* `1Sa 2:36` And it shall come to pass, that everyone who is left in your house shall come and crouch to him for a piece of *_silver_* and a morsel of bread and shall say, "Put me, I pray you, into one of the priest's offices so that I may eat a piece of bread."'"
 * `1Sa 9:8` And the servant answered Saul again and said, "Behold, I have here at hand the fourth part of a shekel of *_silver_*. I will give that to the man of God to tell us our way."
 * `2Sa 8:10` Toi sent Joram his son to king David to salute him and to bless him, because he had fought against Hadadezer and smitten him (for Hadadezer had wars with Toi). And Joram brought with him vessels of *_silver_*, vessels of gold, and vessels of brass,
 * `2Sa 8:11` Which also king David dedicated to the LORD, with the *_silver_* and gold that he had dedicated from all nations which he subdued:
@@ -1214,7 +1214,7 @@ _1 verse containing SIMILITUDES_
 * `Mth 10:4` *_Simon_* the Canaanite, and Judas Iscariot, who also betrayed him.
 * `Mth 13:55` Is this not the carpenter's son? Is his mother not called Mary? And his brothers, James, Joseph, *_Simon_*, and Judas?
 * `Mth 16:16` And *_Simon_* Peter answered and said, "You are the Christ, the Son of the living God."
-* `Mth 16:17` And Jesus answered and said to him, "Blessed are you, *_Simon_*-Barjonah, for flesh and blood has not revealed it to you, but my Father who is in heaven.
+* `Mth 16:17` And Jesus answered and said to him, "Blessed are you, *_Simon_* Barjonah, for flesh and blood has not revealed it to you, but my Father who is in heaven.
 * `Mth 17:25` He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, *_Simon_*? From whom do the kings of the earth take custom or tribute? From their own children, or from strangers?"
 * `Mth 26:6` Now when Jesus was in Bethany, in the house of *_Simon_* the leper,
 * `Mth 27:32` And as they came out, they found a man of Cyrene, *_Simon_* by name. They constrained him to bear his cross.
@@ -1283,12 +1283,6 @@ _1 verse containing SIMILITUDES_
 * `2Pe 1:1` *_Simon_* Peter, a servant and an apostle of Jesus Christ, to those who have obtained an equally precious faith with us through the righteousness of God and our Savior Jesus Christ:
 
 _72 verses containing SIMON_
-
-== SIMON-BARJONAH
-
-* `Mth 16:17` And Jesus answered and said to him, "Blessed are you, *_Simon-Barjonah_*, for flesh and blood has not revealed it to you, but my Father who is in heaven.
-
-_1 verse containing SIMON-BARJONAH_
 
 == SIMPLE
 
@@ -2207,7 +2201,7 @@ _36 verses containing SINGERS_
 
 == SINGING
 
-* `1Sa 18:6` And it came to pass as they came, when David had returned from the slaughter of the Philistine, that the women came out of all the cities of Israel, *_singing_* and dancing, to meet king Saul, with tambourines, with joy, and with instruments of music.
+* `1Sa 18:6` And it came to pass as they came, when David had returned from the slaughter of the Philistine, that the women came out of all the cities of Israel, *_singing_* and dancing, to meet king Saul with tambourines, with joy, and with instruments of music.
 * `2Sa 19:35` I am this day eighty years old. And can I discern between good and evil? Can your servant taste what I eat or what I drink? Can I hear anymore the voice of *_singing_*-men and *_singing_*-women? Why then should your servant continue to be a burden to my lord the king?
 * `1Ch 6:32` And they ministered before the dwelling-place of the Tabernacle of the Congregation with *_singing_* until Solomon had built the house of the LORD in Jerusalem, and then they waited on their office according to their order.
 * `1Ch 13:8` And David and all Israel played before God with all their might, with *_singing_*, with harps, with psalteries, with tambourines, with cymbals, and with trumpets.

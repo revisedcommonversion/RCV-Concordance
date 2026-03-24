@@ -1116,7 +1116,7 @@ _1 verse containing NOVICE_
 * `1Sa 2:12` *_Now_* the sons of Eli were sons of Belial. They did not know the LORD.
 * `1Sa 2:16` And if any man said to him, "Do not let them fail to burn the fat presently, and then take as much as your soul desires," then he would answer him, "No, but you shall give it to me *_now_*. And if not, I will take it by force."
 * `1Sa 2:22` *_Now_* Eli was very old and heard all that his sons did to all Israel and how they lay with the women who assembled at the door of the Tabernacle of the Congregation.
-* `1Sa 2:30` Therefore, the LORD God of Israel says, 'I said indeed that your house and the house of your father should walk before me forever.' But *_now_* the LORD says, 'Be it far from me, for those who honor me I will honor and those who despise me shall be lightly esteemed.
+* `1Sa 2:30` Therefore, the LORD God of Israel says, 'I said indeed that your house and the house of your father should walk before me forever.' But *_now_* the LORD says, 'Be it far from me, for those who honor me I will honor, and those who despise me shall be lightly esteemed.
 * `1Sa 3:7` *_Now_* Samuel did not yet know the LORD, neither was the word of the LORD yet revealed to him.
 * `1Sa 4:1` And the word of Samuel came to all Israel. *_Now_* Israel went out against the Philistines to battle and encamped beside Eben-ezer. And the Philistines encamped in Aphek.
 * `1Sa 4:15` *_Now_* Eli was ninety-eight years old and his eyes were dim so that he could not see.
@@ -1156,7 +1156,7 @@ _1 verse containing NOVICE_
 * `1Sa 17:1` *_Now_* the Philistines collected their armies to battle and were assembled at Shochoh, which belongs to Judah, and encamped between Shochoh and Azekah in Ephes-dammim.
 * `1Sa 17:12` *_Now_* David was the son of that Ephrathite of Beth-lehem-judah, whose name was Jesse, who had eight sons and was an old man in the days of Saul and aged among men.
 * `1Sa 17:17` And Jesse said to David his son, "*_Now_* take for your brothers an ephah of this parched grain and these ten loaves, and run to the camp to your brothers.
-* `1Sa 17:19` *_Now_* Saul, and they, and all the men of Israel, were in the valley of Elah fighting with the Philistines.
+* `1Sa 17:19` *_Now_* Saul, and they, and all the men of Israel were in the valley of Elah fighting with the Philistines.
 * `1Sa 17:29` And David said, "What have I done *_now_*? Is there not a cause?"
 * `1Sa 18:22` And Saul commanded his servants, saying, "Speak with David secretly and say, 'Behold, the king has delight in you, and all his servants love you. *_Now_* therefore, be the king's son-in-law.'"
 * `1Sa 19:2` But Jonathan, Saul's son, delighted much in David. And Jonathan told David, saying, "Saul my father seeks to kill you. *_Now_*, therefore, I pray you, take heed to yourself until the morning, abide in a secret place, and hide yourself.
@@ -2492,7 +2492,7 @@ _178 verses containing NUMBER_
 * `Jdg 20:15` And the children of Benjamin were *_numbered_* at that time out of the cities twenty-six thousand men who drew the sword, besides the inhabitants of Gibeah, who were *_numbered_* seven hundred chosen men.
 * `Jdg 20:17` And the men of Israel, besides Benjamin, were *_numbered_* four hundred thousand men who drew the sword. All these were men of war.
 * `Jdg 21:9` For the people were *_numbered_*, and behold, there were none of the inhabitants of Jabesh-gilead there.
-* `1Sa 11:8` And when he *_numbered_* them in Bezek, the children of Israel were three hundred thousand and the men of Judah thirty thousand.
+* `1Sa 11:8` And when he *_numbered_* them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.
 * `1Sa 13:15` And Samuel arose and went up from Gilgal to Gibeah of Benjamin. And Saul *_numbered_* the people who were present with him, about six hundred men.
 * `1Sa 14:17` Then Saul said to the people who were with him, "Number now, and see who has gone from us." And when they had *_numbered_*, behold, Jonathan and his armor-bearer were not there.
 * `1Sa 15:4` And Saul assembled the people and *_numbered_* them in Telaim, two hundred thousand footmen and ten thousand men of Judah.

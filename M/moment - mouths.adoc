@@ -399,7 +399,7 @@ _1 verse containing MONTHLY_
 * `Jdg 11:39` And it came to pass at the end of two *_months_*, that she returned to her father, who did with her according to his vow which he had vowed. And she knew no man. And it was a custom in Israel,
 * `Jdg 19:2` And his concubine played the harlot against him and went away from him to her father's house to Beth-lehem-judah, and was there for four whole *_months_*.
 * `Jdg 20:47` But six hundred men turned and fled to the wilderness to the rock of Rimmon and stayed at the rock of Rimmon four *_months_*.
-* `1Sa 6:1` And the ark of the LORD was in the country of the Philistines seven *_months_*.
+* `1Sa 6:1` And the ark of the LORD was in the country of the Philistines for seven *_months_*.
 * `1Sa 27:7` And the time that David dwelt in the country of the Philistines was a full year and four *_months_*.
 * `2Sa 2:11` And the time that David was king in Hebron over the house of Judah was seven years and six *_months_*.
 * `2Sa 5:5` In Hebron he reigned over Judah seven years and six *_months_*. And in Jerusalem he reigned thirty-three years over all Israel and Judah.
@@ -1318,8 +1318,8 @@ _2 verses containing MORIAH_
 * `1Sa 11:11` And it was so on the next day, that Saul disposed the people in three companies. And they came into the midst of the host in the *_morning_*-watch and slew the Ammonites until the heat of the day. And it came to pass, that those who remained were scattered so that two of them were not left together.
 * `1Sa 14:36` And Saul said, "Let us go down after the Philistines by night and plunder them until the *_morning_* light, and do not let us leave a man among them." And they said, "Do whatever seems good to you." Then the priest said, "Let us draw near to God here."
 * `1Sa 15:12` And when Samuel rose early to meet Saul in the *_morning_*, it was told to Samuel, saying, "Saul came to Carmel, and behold, he set himself up a place, then has turned around and passed on and gone down to Gilgal."
-* `1Sa 17:16` And the Philistine drew near *_morning_* and evening and presented himself forty days.
-* `1Sa 17:20` And David rose early in the *_morning_* and left the sheep with a keeper, and took and went as Jesse had commanded him. And he came to the trench as the host was going forth to the fight and shouting for the battle.
+* `1Sa 17:16` And the Philistine drew near *_morning_* and evening and presented himself for forty days.
+* `1Sa 17:20` And David rose early in the *_morning_*, left the sheep with a keeper, and took and went as Jesse had commanded him. And he came to the trench as the host was going forth to the fight and shouting for the battle.
 * `1Sa 19:2` But Jonathan, Saul's son, delighted much in David. And Jonathan told David, saying, "Saul my father seeks to kill you. Now, therefore, I pray you, take heed to yourself until the *_morning_*, abide in a secret place, and hide yourself.
 * `1Sa 19:11` Saul also sent messengers to David's house to watch him and to slay him in the *_morning_*. And Michal, David's wife, told him, saying, "If you do not save your life tonight, tomorrow you will be slain."
 * `1Sa 20:35` And it came to pass in the *_morning_*, that Jonathan went out into the field at the time appointed with David, and a little boy with him.
@@ -1461,7 +1461,7 @@ _2 verses containing MORNING-WATCH_
 * `Gen 18:5` And I will bring a *_morsel_* of bread, and you may comfort your hearts. After that, you may go your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
 * `Jdg 19:5` And it came to pass on the fourth day when they arose early in the morning, that he arose to depart, and the young woman's father said to his son-in-law, "Comfort your heart with a *_morsel_* of bread, and afterward, you may depart."
 * `Rth 2:14` And Boaz said to her, "At meal-time, come here and eat some of the bread and dip your *_morsel_* in the vinegar." And she sat beside the reapers, and he gave her parched grain, and she ate, was satisfied, and had some left over.
-* `1Sa 2:36` And it shall come to pass, that everyone who is left in your house shall come and crouch to him for a piece of silver and a *_morsel_* of bread, and shall say, "Put me, I pray you, into one of the priest's offices so that I may eat a piece of bread."'"
+* `1Sa 2:36` And it shall come to pass, that everyone who is left in your house shall come and crouch to him for a piece of silver and a *_morsel_* of bread and shall say, "Put me, I pray you, into one of the priest's offices so that I may eat a piece of bread."'"
 * `1Sa 28:22` Now therefore, I pray you, listen also to the voice of your servant and let me set a *_morsel_* of bread before you. And eat so that you may have strength when you go on your way."
 * `1Ki 17:11` And as she was going to bring it, he called to her and said, "Bring me, I pray you, a *_morsel_* of bread in your hand."
 * `Job 31:17` Or have eaten my *_morsel_* myself alone, and the fatherless has not eaten any of it
@@ -3231,7 +3231,7 @@ _200 verses containing MOUNTAIN_
 * `Jdg 10:1` And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar. And he dwelt in Shamir in the *_mountains_* of Ephraim.
 * `Jdg 11:37` And she said to her father, "Let this thing be done for me: leave me alone for two months so that I may go up and down upon the *_mountains_* and bewail my virginity—my companions and I."
 * `Jdg 11:38` And he said, "Go." And he sent her away for two months. And she went with her companions and bewailed her virginity upon the *_mountains_*.
-* `1Sa 13:2` Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the *_mountains_* of Beth-el and one thousand were with Jonathan in Gibeah of Benjamin. And the rest of the people he sent each to his tent.
+* `1Sa 13:2` Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the *_mountains_* of Beth-el, and one thousand were with Jonathan in Gibeah of Benjamin. And the rest of the people he sent each to his tent.
 * `1Sa 14:22` Likewise, all the men of Israel who had hid themselves in the *_mountains_* of Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle.
 * `1Sa 26:20` Now therefore, do not let my blood fall to the earth before the face of the LORD, for the king of Israel has come out to seek a flea, as when one hunts a partridge in the *_mountains_*."
 * `2Sa 1:21` "You *_mountains_* of Gilboa, let there be no dew, neither rain upon you, nor fields of offerings, for there the shield of the mighty is vilely cast away, the shield of Saul, as though he had not been anointed with oil.
@@ -3622,11 +3622,11 @@ _2 verses containing MOUSE_
 * `Jdg 11:35` And it came to pass when he saw her, that he rent his clothes and said, "Alas, my daughter! You have brought me very low and you are one of those who trouble me. For I have opened my *_mouth_* to the LORD and I cannot go back."
 * `Jdg 11:36` And she said to him, "My father, if you have opened your *_mouth_* to the LORD, do to me according to that which has proceeded out of your *_mouth_*, because the LORD has taken vengeance for you on your enemies, even on the children of Ammon."
 * `Jdg 18:19` And they said to him, "Hold your peace. Lay your hand upon your *_mouth_* and go with us, and be to us a father and a priest. Is it better for you to be a priest for the house of one man or that you should be a priest for a tribe and a family in Israel?"
-* `1Sa 1:12` And it came to pass, as she continued praying before the LORD, that Eli observed her *_mouth_*.
+* `1Sa 1:12` And it came to pass as she continued praying before the LORD, that Eli observed her *_mouth_*.
 * `1Sa 2:1` And Hannah prayed and said, "My heart rejoices in the LORD. My horn is exalted in the LORD. My *_mouth_* is enlarged over my enemies because I rejoice in your salvation.
 * `1Sa 2:3` No longer talk so very proudly. Do not let arrogance come out of your *_mouth_*. For the LORD is a God of knowledge, and by him actions are weighed.
 * `1Sa 14:26` And when the people had come into the forest, behold, the honey dropped, but no man put his hand to his *_mouth_*, for the people feared the oath.
-* `1Sa 14:27` But Jonathan did not hear when his father charged the people with the oath; therefore, he put forth the end of the rod that was in his hand, dipped it in a honey-comb, and put his hand to his *_mouth_* and his eyes were enlightened.
+* `1Sa 14:27` But Jonathan did not hear when his father charged the people with the oath; therefore, he put forth the end of the rod that was in his hand, dipped it in a honey-comb, and put his hand to his *_mouth_*, and his eyes were enlightened.
 * `1Sa 17:35` And I went after him, smote him, and delivered it out of his *_mouth_*. And when he arose against me, I caught him by his beard, smote him, and slew him.
 * `2Sa 1:16` And David said to him, "Your blood is upon your head, for your *_mouth_* has testified against you, saying, 'I have slain the LORD'S anointed.'"
 * `2Sa 14:3` And come to the king and speak in this manner to him." So Joab put the words in her *_mouth_*.
