@@ -31,7 +31,7 @@
 * `1Sa 13:6` When the men of Israel saw that they were in trouble (for the people were distressed), the people *_hid_* themselves in caves, in thickets, in rocks, in high places, and in pits.
 * `1Sa 14:11` And both of them revealed themselves to the garrison of the Philistines. And the Philistines said, "Behold, the Hebrews come forth out of the holes where they had *_hid_* themselves."
 * `1Sa 14:22` Likewise, all the men of Israel who had *_hid_* themselves in the mountains of Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle.
-* `1Sa 20:19` And when you have stayed three days, you shall go down quickly and come to the place where you *_hid_* yourself when the business was in hand, and you shall remain by the stone of Ezel.
+* `1Sa 20:19` And when you have stayed three days, you shall go down quickly and come to the place where you *_hid_* yourself on the day of the business, and you shall remain by the stone of Ezel.
 * `1Sa 20:24` So David *_hid_* himself in the field. And when the new-moon had come, the king sat down to eat food.
 * `2Sa 17:9` Behold, he is now *_hid_* in some pit, or in some other place. And it will come to pass, when some of them are overthrown at the first, that whoever hears it will say, 'There is a slaughter among the people who follow Absalom.'
 * `2Sa 18:13` Otherwise, I should have wrought falsehood against my own life (for there is no matter *_hid_* from the king), and you yourself would have set yourself against me."
@@ -190,7 +190,7 @@ _21 verses containing HIDDEN_
 * `1Sa 20:2` And he said to him, "Far be it from you. You shall not die. Behold, my father will do nothing either great or small without revealing it to me. And why should my father *_hide_* this thing from me? It is not so."
 * `1Sa 20:5` And David said to Jonathan, "Behold, tomorrow is the new-moon, and I should not fail to dine with the king. But let me go so that I may *_hide_* myself in the field until the third day at evening.
 * `1Sa 23:19` Then the Ziphites came up to Saul at Gibeah, saying, "Does David not *_hide_* himself with us in strongholds in the forest, in the hill of Hachilah, which is on the south of Jeshimon?
-* `1Sa 26:1` And the Ziphites came to Saul to Gibeah, saying, "Does David not *_hide_* himself in the hill of Hachilah, which is before Jeshimon?"
+* `1Sa 26:1` And the Ziphites came to Saul at Gibeah, saying, "Does David not *_hide_* himself in the hill of Hachilah, which is before Jeshimon?"
 * `2Sa 14:18` Then the king answered and said to the woman, "Do not *_hide_* from me, I pray you, the thing that I shall ask you." And the woman said, "Let my lord the king now speak."
 * `1Ki 17:3` "Depart from here, turn eastward, and *_hide_* yourself by the brook Cherith, which is before the Jordan.
 * `1Ki 22:25` And Micaiah said, "Behold, you shall see in that day when you go into an inner chamber to *_hide_* yourself."
@@ -260,7 +260,7 @@ _86 verses containing HIDE_
 
 == HIDES
 
-* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he *_hides_* himself and come back to me with the certainty, and I will go with you. And it shall come to pass, if he is in the land, that I will search him out throughout all the thousands of Judah."
+* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he *_hides_* himself and come back to me with the certainty, and I will go with you. And it shall come to pass if he is in the land, that I will search him out throughout all the thousands of Judah."
 * `Job 23:9` I go on the left hand where he works, but I cannot behold him. He *_hides_* himself on the right hand so that I cannot see him.
 * `Job 34:29` When he gives quietness, who then can make trouble? And when he *_hides_* his face, who then can behold him, whether it be done against a nation or against a man only?
 * `Job 42:3` Who is he who *_hides_* counsel without knowledge? Therefore, I have uttered that which I did not understand, things too wonderful for me which I did not know.
@@ -906,7 +906,7 @@ _31 verses containing HILKIAH_
 * `1Sa 10:10` And when they came there to the *_hill_*, behold, a company of prophets met him. And the Spirit of God came upon him, and he prophesied among them.
 * `1Sa 23:19` Then the Ziphites came up to Saul at Gibeah, saying, "Does David not hide himself with us in strongholds in the forest, in the *_hill_* of Hachilah, which is on the south of Jeshimon?
 * `1Sa 25:20` And it was so, as she rode on the donkey, that she came down by the covert of the *_hill_*, and behold, David and his men came down over against her, and she met them.
-* `1Sa 26:1` And the Ziphites came to Saul to Gibeah, saying, "Does David not hide himself in the *_hill_* of Hachilah, which is before Jeshimon?"
+* `1Sa 26:1` And the Ziphites came to Saul at Gibeah, saying, "Does David not hide himself in the *_hill_* of Hachilah, which is before Jeshimon?"
 * `1Sa 26:3` And Saul pitched by the road on the *_hill_* of Hachilah, which is before Jeshimon. But David stayed in the wilderness, and he saw that Saul came after him into the wilderness.
 * `1Sa 26:13` Then David went over to the other side and stood on the top of a *_hill_* afar off, a great space being between them.
 * `2Sa 2:24` Also, Joab and Abishai pursued Abner. And the sun went down when they had come to the *_hill_* of Ammah that lies before Giah by the way of the wilderness of Gibeon.
@@ -1182,11 +1182,11 @@ _1 verse containing HILT_
 * `1Sa 20:41` And as soon as the boy was gone, David arose out of a place toward the south, fell on his face to the ground, and bowed *_himself_* three times. And they kissed one another and wept with one another until David exceeded.
 * `1Sa 21:13` And he changed his behavior before them and feigned *_himself_* mad in their hands, scrabbling on the doors of the gate and letting his spittle fall down upon his beard.
 * `1Sa 23:19` Then the Ziphites came up to Saul at Gibeah, saying, "Does David not hide *_himself_* with us in strongholds in the forest, in the hill of Hachilah, which is on the south of Jeshimon?
-* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he hides *_himself_* and come back to me with the certainty, and I will go with you. And it shall come to pass, if he is in the land, that I will search him out throughout all the thousands of Judah."
+* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he hides *_himself_* and come back to me with the certainty, and I will go with you. And it shall come to pass if he is in the land, that I will search him out throughout all the thousands of Judah."
 * `1Sa 24:8` David also rose afterward, went out of the cave, and cried after Saul, saying, "My lord the king." And when Saul looked behind him, David stooped with his face to the earth and bowed *_himself_*.
 * `1Sa 25:31` That this will be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged *_himself_*. But when the LORD has dealt well with my lord, remember your servant."
 * `1Sa 25:39` And when David heard that Nabal was dead, he said, "Blessed be the LORD who has pleaded the cause of my reproach from the hand of Nabal and has kept his servant from evil, for the LORD has returned the wickedness of Nabal upon his own head." And David sent and spoke with Abigail to take her for *_himself_* for a wife.
-* `1Sa 26:1` And the Ziphites came to Saul to Gibeah, saying, "Does David not hide *_himself_* in the hill of Hachilah, which is before Jeshimon?"
+* `1Sa 26:1` And the Ziphites came to Saul at Gibeah, saying, "Does David not hide *_himself_* in the hill of Hachilah, which is before Jeshimon?"
 * `1Sa 27:12` And Achish believed David, saying, "He has made *_himself_* utterly abhorred among his people in Israel; therefore, he shall be my servant forever."
 * `1Sa 28:8` And Saul disguised *_himself_* and put on other clothing, and he went, and two men with him, and they came to the woman by night. And he said, "I pray you, divine to me by the familiar spirit and bring up for me whom I shall name to you."
 * `1Sa 28:14` And he said to her, "What is his form?" And she said, "An old man comes up, and he is covered with a mantle." And Saul perceived that it was Samuel, and he stooped with his face to the ground and bowed *_himself_*.
@@ -1865,7 +1865,7 @@ _2 verses containing HIT_
 * `Exo 34:11` "Observe that which I command you this day. Behold, I drive out before you the Amorite, the Canaanite, the *_Hittite_*, the Perizzite, the Hivite, and the Jebusite.
 * `Jsh 9:1` And it came to pass when all the kings who were on this side of the Jordan heard these things—those in the hills, in the valleys, and in all the coasts of the Great Sea over against Lebanon, the *_Hittite_*, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—
 * `Jsh 11:3` And to the Canaanite on the east and on the west, to the Amorite, the *_Hittite_*, the Perizzite, the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh.
-* `1Sa 26:6` Then David answered and said to Ahimelech the *_Hittite_*, and to Abishai, the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the camp?" And Abishai said, "I will go down with you."
+* `1Sa 26:6` Then David answered and said to Ahimelech the *_Hittite_* and to Abishai the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the camp?" And Abishai said, "I will go down with you."
 * `2Sa 11:3` And David sent and inquired about the woman. And someone said, "Is this not Bath-sheba, the daughter of Eliam, the wife of Uriah the *_Hittite_*?"
 * `2Sa 11:6` And David sent to Joab, saying, "Send me Uriah the *_Hittite_*." And Joab sent Uriah to David.
 * `2Sa 11:17` And the men of the city went out and fought with Joab, and some of the people of the servants of David fell there. And Uriah the *_Hittite_* also died.

@@ -661,7 +661,7 @@ _1 verse containing ABIASAPH_
 * `1Sa 22:20` And one of the sons of Ahimelech the son of Ahitub, named *_Abiathar_*, escaped and fled after David.
 * `1Sa 22:21` And *_Abiathar_* reported to David that Saul had slain the LORD'S priests.
 * `1Sa 22:22` And David said to *_Abiathar_*, "I knew that day, when Doeg the Edomite was there, that he would surely tell Saul. I have occasioned the death of all the persons of your father's house.
-* `1Sa 23:6` And it came to pass, when *_Abiathar_* the son of Ahimelech fled to David at Keilah, that he came down with an ephod in his hand.
+* `1Sa 23:6` And it came to pass when *_Abiathar_* the son of Ahimelech fled to David at Keilah, that he came down with an ephod in his hand.
 * `1Sa 23:9` And David knew that Saul secretly plotted mischief against him. And he said to *_Abiathar_* the priest, "Bring the ephod here."
 * `1Sa 30:7` And David said to *_Abiathar_* the priest, Ahimelech's son, "I pray you, bring the ephod here to me." And *_Abiathar_* brought the ephod there to David.
 * `2Sa 8:17` Zadok the son of Ahitub and Ahimelech the son of *_Abiathar_* were the priests, Seraiah was the scribe,
@@ -1098,8 +1098,8 @@ _5 verses containing ABISHAG_
 
 == ABISHAI
 
-* `1Sa 26:6` Then David answered and said to Ahimelech the Hittite, and to *_Abishai_*, the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the camp?" And *_Abishai_* said, "I will go down with you."
-* `1Sa 26:7` So David and *_Abishai_* came to the people by night, and behold, Saul lay sleeping within the trench and his spear stuck in the ground at his bolster, but Abner and the people lay around him.
+* `1Sa 26:6` Then David answered and said to Ahimelech the Hittite and to *_Abishai_* the son of Zeruiah, brother to Joab, saying, "Who will go down with me to Saul in the camp?" And *_Abishai_* said, "I will go down with you."
+* `1Sa 26:7` So David and *_Abishai_* came to the people by night, and behold, Saul lay sleeping within the trench with his spear stuck in the ground at his bolster, but Abner and the people lay around him.
 * `1Sa 26:8` Then *_Abishai_* said to David, "God has delivered your enemy into your hand this day. Now therefore, let me smite him, I pray you, with the spear, even to the earth at once, and I will not smite him the second time."
 * `1Sa 26:9` And David said to *_Abishai_*, "Do not destroy him. For who can stretch forth his hand against the LORD'S anointed and be guiltless?"
 * `2Sa 2:18` And there were three sons of Zeruiah there: Joab, *_Abishai_*, and Asahel. And Asahel was as light of foot as a wild gazelle.
@@ -1339,7 +1339,7 @@ _158 verses containing ABLE_
 * `1Sa 17:57` And as David returned from the slaughter of the Philistine, *_Abner_* took him and brought him before Saul with the head of the Philistine in his hand.
 * `1Sa 20:25` And the king sat upon his seat as at other times, even upon a seat by the wall. And Jonathan arose, and *_Abner_* sat by Saul's side, and David's place was empty.
 * `1Sa 26:5` And David arose and came to the place where Saul had encamped. And David beheld the place where Saul lay, along with *_Abner_*, the son of Ner, the captain of his host. And Saul lay in the trench and the people pitched around him.
-* `1Sa 26:7` So David and Abishai came to the people by night, and behold, Saul lay sleeping within the trench and his spear stuck in the ground at his bolster, but *_Abner_* and the people lay around him.
+* `1Sa 26:7` So David and Abishai came to the people by night, and behold, Saul lay sleeping within the trench with his spear stuck in the ground at his bolster, but *_Abner_* and the people lay around him.
 * `1Sa 26:14` And David cried to the people and to *_Abner_* the son of Ner, saying, "Do you not answer, *_Abner_*?" Then *_Abner_* answered and said, "Who are you who cries to the king?"
 * `1Sa 26:15` And David said to *_Abner_*, "Are you not a valiant man? And who is like you in Israel? Why then have you not kept your lord the king? For there came in one of the people to destroy the king your lord.
 * `2Sa 2:8` But *_Abner_* the son of Ner, captain of Saul's host, took Ish-bosheth the son of Saul and brought him over to Mahanaim,

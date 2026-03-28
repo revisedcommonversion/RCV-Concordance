@@ -840,7 +840,7 @@ _1 verse containing EPHLAL_
 * `1Sa 14:3` Along with Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the LORD'S priest in Shiloh, wearing an *_ephod_*. And the people did not know that Jonathan was gone.
 * `1Sa 21:9` And the priest said, "The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the *_ephod_*. If you will take that, take it, for there is no other except that here." And David said, "There is none like that. Give it to me."
 * `1Sa 22:18` And the king said to Doeg, "Turn, and fall upon the priests." And Doeg the Edomite turned and he fell upon the priests and slew on that day eighty-five persons who wore a linen *_ephod_*.
-* `1Sa 23:6` And it came to pass, when Abiathar the son of Ahimelech fled to David at Keilah, that he came down with an *_ephod_* in his hand.
+* `1Sa 23:6` And it came to pass when Abiathar the son of Ahimelech fled to David at Keilah, that he came down with an *_ephod_* in his hand.
 * `1Sa 23:9` And David knew that Saul secretly plotted mischief against him. And he said to Abiathar the priest, "Bring the *_ephod_* here."
 * `1Sa 30:7` And David said to Abiathar the priest, Ahimelech's son, "I pray you, bring the *_ephod_* here to me." And Abiathar brought the *_ephod_* there to David.
 * `2Sa 6:14` And David danced before the LORD with all his might. And David was girded with a linen *_ephod_*.
@@ -1288,7 +1288,7 @@ _3 verses containing ERRAND_
 
 * `Lev 5:18` And he shall bring a ram without blemish out of the flock, with your estimation, for a trespass-offering to the priest. And the priest shall make an atonement for him concerning his ignorance wherein he *_erred_* and did not know it, and he shall be forgiven.
 * `Num 15:22` 'And if you have *_erred_* and not observed all these commandments which the LORD has spoken to Moses,
-* `1Sa 26:21` Then Saul said, "I have sinned. Return, my son David, for I will no longer do you harm because my soul was precious in your eyes this day. Behold I have played the fool and have *_erred_* exceedingly."
+* `1Sa 26:21` Then Saul said, "I have sinned. Return, my son David, for I will no longer do you harm because my soul was precious in your eyes this day. Behold, I have played the fool and have *_erred_* exceedingly."
 * `Job 6:24` Teach me, and I will hold my tongue. And cause me to understand in what I have *_erred_*.
 * `Job 19:4` And if it is indeed that I have *_erred_*, my error remains with myself.
 * `Isa 28:7` But they also have *_erred_* through wine, and through strong drink are out of the way. The priest and the prophet have *_erred_* through strong drink. They are overwhelmed with wine. They are out of the way through strong drink. They err in vision. They stumble in judgment.

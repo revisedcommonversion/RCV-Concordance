@@ -93,7 +93,7 @@
 * `1Sa 19:17` And Saul said to Michal, "*_Why_* have you deceived me like this and sent away my enemy so that he has escaped?" And Michal answered Saul, "He said to me, 'Let me go. *_Why_* should I kill you?'"
 * `1Sa 20:2` And he said to him, "Far be it from you. You shall not die. Behold, my father will do nothing either great or small without revealing it to me. And *_why_* should my father hide this thing from me? It is not so."
 * `1Sa 20:8` Therefore, you shall deal kindly with your servant, for you have brought your servant into a covenant of the LORD with you. But if there is in me iniquity, slay me yourself. For *_why_* should you bring me to your father?"
-* `1Sa 20:27` And it came to pass on the next day, which was the second day of the month, that David's place was empty. And Saul said to Jonathan his son, "*_Why_* does the son of Jesse not come to eat, neither yesterday, nor today?"
+* `1Sa 20:27` And it came to pass on the next day, which was the second day of the month, that David's place was empty. And Saul said to Jonathan his son, "*_Why_* has the son of Jesse not come to eat, either yesterday or today?"
 * `1Sa 20:32` And Jonathan answered Saul his father and said to him, "*_Why_* shall he be slain? What has he done?"
 * `1Sa 21:1` Then David came to Nob to Ahimelech the priest. And Ahimelech was afraid at the meeting of David and said to him, "*_Why_* are you alone and no man with you?"
 * `1Sa 21:14` Then Achish said to his servants, "Behold, you see the man is mad. *_Why_* then have you brought him to me?
@@ -105,7 +105,7 @@
 * `1Sa 28:9` And the woman said to him, "Behold, you know what Saul has done, how he has cut off those who have familiar spirits and the wizards out of the land. *_Why_* then do you lay a snare for my life to cause me to die?"
 * `1Sa 28:12` And when the woman saw Samuel, she cried with a loud voice. And the woman spoke to Saul, saying, "*_Why_* have you deceived me? For you are Saul."
 * `1Sa 28:15` And Samuel said to Saul, "*_Why_* have you disquieted me to bring me up?" And Saul answered, "I am grievously distressed, for the Philistines make war against me, and God has departed from me and no longer answers me, neither by prophets, nor by dreams. Therefore, I have called you so that you may make known to me what I shall do."
-* `1Sa 28:16` Then Samuel said, "*_Why_* then do you ask of me, seeing the LORD has departed from you and has become your enemy?
+* `1Sa 28:16` Then Samuel said, "*_Why_* then do you ask me, seeing the LORD has departed from you and has become your enemy?
 * `2Sa 2:22` And Abner said again to Asahel, "Turn aside from following me. *_Why_* should I smite you to the ground? How then should I hold up my face to Joab your brother?"
 * `2Sa 3:7` And Saul had a concubine whose name was Rizpah, the daughter of Aiah. And Ish-bosheth said to Abner, "*_Why_* have you gone in to my father's concubine?"
 * `2Sa 3:24` Then Joab came to the king and said, "What have you done? Behold, Abner came to you. *_Why_* is it that you have sent him away, and he is quite gone?
@@ -1208,7 +1208,7 @@ _1 verse containing WIDTH_
 * `1Sa 19:11` Saul also sent messengers to David's house to watch him and to slay him in the morning. And Michal, David's *_wife_*, told him, saying, "If you do not save your life tonight, tomorrow you will be slain."
 * `1Sa 25:3` Now the name of the man was Nabal, and the name of his *_wife_* Abigail. And she was a woman of good understanding and of a beautiful countenance, but the man was churlish and evil in his doings. And he was of the house of Caleb.
 * `1Sa 25:14` But one of the young men told Abigail, Nabal's *_wife_*, saying, "Behold, David sent messengers from the wilderness to salute our master, and he railed at them.
-* `1Sa 25:37` But it came to pass in the morning, when the wine had left Nabal and his *_wife_* had told him these things, that his heart died within him and he became as a stone.
+* `1Sa 25:37` But it came to pass in the morning when the wine had left Nabal and his *_wife_* had told him these things, that his heart died within him and he became like a stone.
 * `1Sa 25:39` And when David heard that Nabal was dead, he said, "Blessed be the LORD who has pleaded the cause of my reproach from the hand of Nabal and has kept his servant from evil, for the LORD has returned the wickedness of Nabal upon his own head." And David sent and spoke with Abigail to take her for himself for a *_wife_*.
 * `1Sa 25:40` And when the servants of David had come to Abigail at Carmel, they spoke to her, saying, "David has sent us to you to take you to him for a *_wife_*."
 * `1Sa 25:42` And Abigail hastened, arose, and rode upon a donkey, with five of her attendants who went after her. And she went after the messengers of David and became his *_wife_*.
@@ -1576,7 +1576,7 @@ _1 verse containing WILD-GOAT_
 * `1Sa 23:15` And David saw that Saul had come out to seek his life. And David was in the *_wilderness_* of Ziph in a forest.
 * `1Sa 23:24` And they arose and went to Ziph before Saul, but David and his men were in the *_wilderness_* of Maon, in the plain on the south of Jeshimon.
 * `1Sa 23:25` Saul and his men also went to seek him. And they told David. Therefore, he came down into a rock and stayed in the *_wilderness_* of Maon. And when Saul heard that, he pursued after David in the *_wilderness_* of Maon.
-* `1Sa 24:1` And it came to pass, when Saul had returned from following the Philistines, that it was told to him, saying, "Behold, David is in the *_wilderness_* of En-gedi."
+* `1Sa 24:1` And it came to pass when Saul had returned from following the Philistines, that it was told to him, saying, "Behold, David is in the *_wilderness_* of En-gedi."
 * `1Sa 25:1` And Samuel died. And all the Israelites assembled, lamented him, and buried him in his house at Ramah. And David arose and went down to the *_wilderness_* of Paran.
 * `1Sa 25:4` And David heard in the *_wilderness_* that Nabal was shearing his sheep.
 * `1Sa 25:14` But one of the young men told Abigail, Nabal's wife, saying, "Behold, David sent messengers from the *_wilderness_* to salute our master, and he railed at them.
@@ -2441,7 +2441,7 @@ _2 verses containing WILES_
 * `1Sa 20:13` May the LORD do so and much more to Jonathan. But if it pleases my father to do you evil, then I *_will_* show it to you and send you away so that you may go in peace. And may the LORD be with you as he has been with my father.
 * `1Sa 20:18` Then Jonathan said to David, "Tomorrow is the new-moon, and you *_will_* be missed because your seat *_will_* be empty.
 * `1Sa 20:20` And I *_will_* shoot three arrows on its side, as though I shot at a mark.
-* `1Sa 20:21` And behold, I *_will_* send a boy, saying, 'Go, find the arrows.' If I expressly say to the boy, 'Behold, the arrows are on this side of you, take them,' then come, for there is peace to you, and no hurt, as the LORD lives.
+* `1Sa 20:21` And behold, I *_will_* send a boy, saying, 'Go, find the arrows.' If I expressly say to the boy, 'Behold, the arrows are on this side of you, take them,' then come, for as the LORD lives, there is peace to you and no danger.
 * `1Sa 21:9` And the priest said, "The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod. If you *_will_* take that, take it, for there is no other except that here." And David said, "There is none like that. Give it to me."
 * `1Sa 22:3` And David went from there to Mizpeh of Moab. And he said to the king of Moab, "Let my father and my mother, I pray you, come forth and be with you until I know what God *_will_* do for me."
 * `1Sa 22:7` Saul said to his servants who stood around him, "Hear now, you Benjaminites. *_Will_* the son of Jesse give every one of you fields and vineyards and make you all captains of thousands and captains of hundreds?
@@ -2449,7 +2449,7 @@ _2 verses containing WILES_
 * `1Sa 23:11` *_Will_* the men of Keilah deliver me up into his hand? *_Will_* Saul come down as your servant has heard? O LORD God of Israel, I implore you, tell your servant." And the LORD said, "He *_will_* come down."
 * `1Sa 23:12` Then David said, "*_Will_* the men of Keilah deliver me and my men into the hand of Saul?" And the LORD said, "They *_will_* deliver you up."
 * `1Sa 23:17` And he said to him, "Do not fear, for the hand of Saul my father shall not find you. And you *_will_* be king over Israel, and I shall be next to you. And Saul, my father, also knows that."
-* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he hides himself and come back to me with the certainty, and I *_will_* go with you. And it shall come to pass, if he is in the land, that I *_will_* search him out throughout all the thousands of Judah."
+* `1Sa 23:23` See therefore, and take knowledge of all the lurking-places where he hides himself and come back to me with the certainty, and I *_will_* go with you. And it shall come to pass if he is in the land, that I *_will_* search him out throughout all the thousands of Judah."
 * `1Sa 24:4` And the men of David said to him, "Behold the day of which the LORD said to you, 'Behold, I *_will_* deliver your enemy into your hand so that you may do to him as it shall seem good to you.'" Then David arose and privately cut off the skirt of Saul's robe.
 * `1Sa 24:10` Behold, this day your eyes have seen how the LORD has delivered you today into my hand in the cave. And some told me to kill you, but my eye spared you. And I said, 'I *_will_* not put forth my hand against my lord, for he is the LORD'S anointed.'
 * `1Sa 24:19` For if a man finds his enemy, *_will_* he let him go away well? Therefore, may the LORD reward you with good for what you have done to me this day.
@@ -2458,12 +2458,12 @@ _2 verses containing WILES_
 * `1Sa 25:8` Ask your young men and they *_will_* show you. Therefore, let the young men find favor in your eyes, for we come in a good day. Give, I pray you, whatever comes to your hand to your servants and to your son David.'"
 * `1Sa 25:17` Now therefore, know and consider what you *_will_* do, for evil is determined against our master and against all his household. For he is such a son of Belial that a man cannot speak to him."
 * `1Sa 25:28` I pray you, forgive the trespass of your servant, for the LORD *_will_* certainly make my lord a sure house because my lord fights the battles of the LORD, and evil has not been found in you all your days.
-* `1Sa 25:30` And it *_will_* come to pass, when the LORD has done to my lord according to all the good that he has spoken concerning you and has appointed you ruler over Israel,
+* `1Sa 25:30` And it *_will_* come to pass when the LORD has done to my lord according to all the good that he has spoken concerning you and has appointed you ruler over Israel,
 * `1Sa 25:31` That this *_will_* be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. But when the LORD has dealt well with my lord, remember your servant."
-* `1Sa 26:6` Then David answered and said to Ahimelech the Hittite, and to Abishai, the son of Zeruiah, brother to Joab, saying, "Who *_will_* go down with me to Saul in the camp?" And Abishai said, "I *_will_* go down with you."
+* `1Sa 26:6` Then David answered and said to Ahimelech the Hittite and to Abishai the son of Zeruiah, brother to Joab, saying, "Who *_will_* go down with me to Saul in the camp?" And Abishai said, "I *_will_* go down with you."
 * `1Sa 26:8` Then Abishai said to David, "God has delivered your enemy into your hand this day. Now therefore, let me smite him, I pray you, with the spear, even to the earth at once, and I *_will_* not smite him the second time."
 * `1Sa 26:10` David said furthermore, "As the LORD lives, the LORD *_will_* smite him, or his day *_will_* come to die, or he *_will_* descend into battle and perish.
-* `1Sa 26:21` Then Saul said, "I have sinned. Return, my son David, for I *_will_* no longer do you harm because my soul was precious in your eyes this day. Behold I have played the fool and have erred exceedingly."
+* `1Sa 26:21` Then Saul said, "I have sinned. Return, my son David, for I *_will_* no longer do you harm because my soul was precious in your eyes this day. Behold, I have played the fool and have erred exceedingly."
 * `1Sa 27:1` And David said in his heart, "I shall now perish one day by the hand of Saul. There is nothing better for me than that I should speedily escape into the land of the Philistines. And Saul *_will_* despair of seeking for me anymore in any border of Israel, and I shall escape from his hand."
 * `1Sa 27:11` And David saved neither man nor woman alive to bring tidings to Gath, saying, "Lest they should inform against us, saying, 'Thus David did, and so *_will_* be his manner all the time he dwells in the country of the Philistines.'"
 * `1Sa 28:2` And David said to Achish, "Surely you shall know what your servant can do." And Achish said to David, "Therefore, I *_will_* make you keeper of my head forever."
@@ -5581,7 +5581,7 @@ _1 verse containing WINDY_
 * `1Sa 10:3` Then you shall go on forward from there and shall come to the plain of Tabor, and three men going up to God at Beth-el shall meet you there: one carrying three kids, another carrying three loaves of bread, and another carrying a bottle of *_wine_*.
 * `1Sa 16:20` And Jesse took a donkey laden with bread and a bottle of *_wine_* and a kid and sent them to Saul by David his son.
 * `1Sa 25:18` Then Abigail made haste and took two hundred loaves, two bottles of *_wine_*, five sheep ready and dressed, five measures of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys.
-* `1Sa 25:37` But it came to pass in the morning, when the *_wine_* had left Nabal and his wife had told him these things, that his heart died within him and he became as a stone.
+* `1Sa 25:37` But it came to pass in the morning when the *_wine_* had left Nabal and his wife had told him these things, that his heart died within him and he became like a stone.
 * `2Sa 6:19` And he dealt among all the people, even among the whole multitude of Israel, to the women as well as the men, to everyone a cake of bread, a good piece of flesh, and a flagon of *_wine_*. So all the people departed each to his house.
 * `2Sa 13:28` Now Absalom had commanded his servants, saying, "Now mark when Amnon's heart is merry with *_wine_*, and when I say to you, 'Smite Amnon,' then kill him. Do not fear. Have I not commanded you? Be courageous and be valiant."
 * `2Sa 16:1` And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of donkeys saddled and upon them two hundred loaves of bread, one hundred bunches of raisins, one hundred of summer fruits, and a bottle of *_wine_*.
@@ -6893,8 +6893,8 @@ _4 verses containing WITHHOLDS_
 * `1Sa 13:11` And Samuel said, "What have you done?" And Saul said, "Because I saw that the people were scattered from me and that you did not come *_within_* the days appointed and that the Philistines assembled at Michmash,
 * `1Sa 14:14` And that first slaughter, which Jonathan and his armor-bearer made, was about twenty men, *_within_* about a half-acre of land, which a yoke of oxen might plow.
 * `1Sa 25:36` And Abigail came to Nabal, and behold, he held a feast in his house, like the feast of a king. And Nabal's heart was merry *_within_* him, for he was very drunken. Therefore, she told him nothing at all until the morning light.
-* `1Sa 25:37` But it came to pass in the morning, when the wine had left Nabal and his wife had told him these things, that his heart died *_within_* him and he became as a stone.
-* `1Sa 26:7` So David and Abishai came to the people by night, and behold, Saul lay sleeping *_within_* the trench and his spear stuck in the ground at his bolster, but Abner and the people lay around him.
+* `1Sa 25:37` But it came to pass in the morning when the wine had left Nabal and his wife had told him these things, that his heart died *_within_* him and he became like a stone.
+* `1Sa 26:7` So David and Abishai came to the people by night, and behold, Saul lay sleeping *_within_* the trench with his spear stuck in the ground at his bolster, but Abner and the people lay around him.
 * `2Sa 7:2` That the king said to Nathan the prophet, "See now, I dwell in a house of cedar, but the ark of God dwells *_within_* curtains."
 * `2Sa 20:4` Then the king said to Amasa, "Assemble to me the men of Judah *_within_* three days and be present here yourself."
 * `2Sa 21:5` And they answered the king, "The man who consumed us and who devised against us that we should be destroyed from remaining *_within_* the borders of Israel,
