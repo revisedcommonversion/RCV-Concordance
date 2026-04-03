@@ -1124,7 +1124,7 @@ _1 verse containing WIDTH_
 * `Lev 18:14` You shall not uncover the nakedness of your father's brother. You shall not approach his *_wife_*. She is your aunt.
 * `Lev 18:15` You shall not uncover the nakedness of your daughter-in-law. She is your son's *_wife_*. You shall not uncover her nakedness.
 * `Lev 18:16` You shall not uncover the nakedness of your brother's *_wife_*. It is your brother's nakedness.
-* `Lev 18:18` Neither shall you take a *_wife_* in addition to her sister as a rival to uncover her nakedness in opposition to her in her life-time.
+* `Lev 18:18` Neither shall you take a *_wife_* in addition to her sister as a rival to uncover her nakedness in opposition to her in her lifetime.
 * `Lev 18:20` Moreover, you shall not lie carnally with your neighbor's *_wife_* to defile yourself with her.
 * `Lev 20:10` 'And the man who commits adultery with another man's *_wife_*, even he who commits adultery with his neighbor's *_wife_*, the adulterer and the adulteress shall surely be put to death.
 * `Lev 20:11` And the man who lies with his father's *_wife_* has uncovered his father's nakedness. Both of them shall surely be put to death. Their blood shall be upon them.
@@ -1227,7 +1227,7 @@ _1 verse containing WIDTH_
 * `2Sa 12:9` Why have you despised the commandment of the LORD to do evil in his sight? You have killed Uriah the Hittite with the sword, have taken his *_wife_* to be your *_wife_*, and have slain him with the sword of the children of Ammon.
 * `2Sa 12:10` Now therefore, the sword shall never depart from your house because you have despised me and have taken the *_wife_* of Uriah the Hittite to be your *_wife_*.'
 * `2Sa 12:15` And Nathan departed to his house. And the LORD struck the child whom Uriah's *_wife_* bore to David, and he was very sick.
-* `2Sa 12:24` And David comforted Bath-sheba his *_wife_* and went in to her and lay with her. And she bore a son, and he called his name Solomon. And the LORD loved him,
+* `2Sa 12:24` And David comforted Bath-sheba his *_wife_* and went in to her and lay with her. And she bore a son, and he called his name Solomon. And the LORD loved him
 * `1Ki 2:17` And he said, "Speak, I pray you, to Solomon the king (for he will not deny you) that he give me Abishag the Shunamite for a *_wife_*."
 * `1Ki 2:21` And she said, "Let Abishag the Shunamite be given to Adonijah your brother for a *_wife_*."
 * `1Ki 4:11` The son of Abinadab, in all the region of Dor, who had Taphath the daughter of Solomon for a *_wife_*;
@@ -2516,8 +2516,8 @@ _2 verses containing WILES_
 * `2Sa 17:2` And I *_will_* come upon him while he is weary and weak-handed and make him afraid. And all the people who are with him shall flee, and I *_will_* smite the king only.
 * `2Sa 17:3` And I *_will_* bring back all the people to you. The man whom you seek is as if all returned. And all the people shall be in peace."
 * `2Sa 17:8` Then Hushai said, "You know your father and his men. They are mighty men and they are chafed in their minds like a bear robbed of her whelps in the field. And your father is a man of war and *_will_* not lodge with the people.
-* `2Sa 17:9` Behold, he is now hid in some pit, or in some other place. And it *_will_* come to pass, when some of them are overthrown at the first, that whoever hears it *_will_* say, 'There is a slaughter among the people who follow Absalom.'
-* `2Sa 17:10` And he also who is valiant, whose heart is as the heart of a lion, *_will_* utterly melt, for all Israel knows that your father is a mighty man, and those who are with him are valiant men.
+* `2Sa 17:9` Behold, he is now hid in some pit or in some other place. And it *_will_* come to pass when some of them are overthrown at the first, that whoever hears it *_will_* say, 'There is a slaughter among the people who follow Absalom.'
+* `2Sa 17:10` And he also who is valiant, whose heart is like the heart of a lion, *_will_* utterly melt, for all Israel knows that your father is a mighty man, and those who are with him are valiant men.
 * `2Sa 17:12` So we shall come upon him in some place where he is to be found and we *_will_* fall upon him as the dew falls on the ground. And of him and of all the men who are with him there shall not be left so much as one.
 * `2Sa 17:13` Moreover, if he has entered into a city, then all Israel shall bring ropes to that city, and we *_will_* draw it into the river until there is not one small stone found there."
 * `2Sa 18:2` And David sent forth a third part of the people under the hand of Joab, a third part under the hand of Abishai the son of Zeruiah (Joab's brother), and a third part under the hand of Ittai the Gittite. And the king said to the people, "I myself *_will_* surely go forth with you also."
@@ -6268,7 +6268,7 @@ _222 verses containing WISDOM_
 * `Deu 16:19` You shall not wrest judgment. You shall not respect persons, neither take a gift, for a gift blinds the eyes of the *_wise_* and perverts the words of the righteous.
 * `Deu 32:29` O that they were *_wise_*, that they understood this, that they would consider their latter end!
 * `Jdg 5:29` Her *_wise_* ladies answered her, and she returned answer to herself.
-* `2Sa 14:2` And Joab sent to Tekoah and brought from there a *_wise_* woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but be as a woman who had a long time mourned for the dead.
+* `2Sa 14:2` And Joab sent to Tekoah and brought from there a *_wise_* woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but act like a woman who has mourned for the dead a long time.
 * `2Sa 14:20` In order to change the face of the matter, your servant Joab has done this thing. And my lord is *_wise_*, according to the wisdom of an angel of God, to know all things that are on the earth."
 * `2Sa 20:16` Then a *_wise_* woman cried out from the city, "Hear, hear! I pray you, say to Joab, 'Come near here so that I may speak with you.'"
 * `1Ki 2:9` Now therefore, do not hold him guiltless, for you are a *_wise_* man and know what you ought to do to him, but his hoary head you shall bring down to the grave with blood."

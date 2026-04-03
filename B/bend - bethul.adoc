@@ -943,7 +943,7 @@ _1 verse containing BETEN_
 * `1Sa 31:12` All the valiant men arose and went all night, took the body of Saul and the bodies of his sons from the wall of *_Beth_*-shan, and came to Jabesh and burnt them there.
 * `2Sa 2:32` And they took up Asahel and buried him in the sepulcher of his father, which was in *_Beth_*-lehem. And Joab and his men went all night and came to Hebron at the break of day.
 * `2Sa 10:6` And when the children of Ammon saw that they had made themselves odious before David, the children of Ammon sent and hired the Syrians of *_Beth_*-rehob and the Syrians of Zoba, twenty thousand footmen, and one thousand men from the king of Maacah and twelve thousand men from the men of Tob.
-* `2Sa 15:17` And the king went forth, and all the people followed him, and stayed in *_Beth_*-merhak.
+* `2Sa 15:17` And the king went forth, and all the people followed him, and they stayed in *_Beth_*-merhak.
 * `2Sa 20:14` And he went through all the tribes of Israel to Abel of *_Beth_*-maachah and all the Berites. And they were assembled and also went after him.
 * `2Sa 20:15` And they came and besieged him in Abel of *_Beth_*-maachah and cast up a siege-mound against the city, and it stood in the trench. And all the people who were with Joab battered the wall to throw it down.
 * `2Sa 21:12` And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabesh-gilead who had stolen them from the street of *_Beth_*-shan, where the Philistines had hanged them when the Philistines had slain Saul in Gilboa.
@@ -1368,7 +1368,7 @@ _1 verse containing BETH-MEON_
 
 == BETH-MERHAK
 
-* `2Sa 15:17` And the king went forth, and all the people followed him, and stayed in *_Beth-merhak_*.
+* `2Sa 15:17` And the king went forth, and all the people followed him, and they stayed in *_Beth-merhak_*.
 
 _1 verse containing BETH-MERHAK_
 

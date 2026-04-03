@@ -2228,7 +2228,7 @@ _1 verse containing SAFFRON_
 * `2Sa 3:16` And her husband went with her, weeping behind her to Bahurim. Then Abner *_said_* to him, "Go, return." And he returned.
 * `2Sa 3:21` And Abner *_said_* to David, "I will arise and go and gather all Israel to my lord the king so that they may make a league with you and that you may reign over all that your heart desires." And David sent Abner away, and he went in peace.
 * `2Sa 3:24` Then Joab came to the king and *_said_*, "What have you done? Behold, Abner came to you. Why is it that you have sent him away, and he is quite gone?
-* `2Sa 3:28` And afterward when David heard it, he *_said_*, "I and my kingdom are guiltless before the LORD forever from the blood of Abner the son of Ner.
+* `2Sa 3:28` And afterward, when David heard it, he *_said_*, "I and my kingdom are guiltless before the LORD forever from the blood of Abner the son of Ner.
 * `2Sa 3:31` And David *_said_* to Joab and to all the people who were with him, "Rend your clothes, gird yourselves with sackcloth, and mourn before Abner." And king David himself followed the bier.
 * `2Sa 3:33` And the king lamented over Abner and *_said_*, "Should Abner die as a fool dies?
 * `2Sa 3:38` And the king *_said_* to his servants, "Do you not know that a prince and a great man has fallen this day in Israel?
@@ -2237,10 +2237,10 @@ _1 verse containing SAFFRON_
 * `2Sa 5:2` Also in time past, when Saul was king over us, you were the one who led out and brought in Israel. And the LORD *_said_* to you, 'You shall feed my people Israel and you shall be a captain over Israel.'"
 * `2Sa 5:8` And David *_said_* on that day, "Whoever gets up to the gutter and smites the Jebusites, and the lame and the blind who are hated by David's soul, he shall be chief and captain." Therefore, they *_said_*, "The blind and the lame shall not come into the house."
 * `2Sa 5:19` And David inquired of the LORD, saying, "Shall I go up to the Philistines? Will you deliver them into my hand?" And the LORD *_said_* to David, "Go up, for I will doubtless deliver the Philistines into your hand."
-* `2Sa 5:20` And David came to Baal-perazim, and David smote them there and *_said_*, "The LORD has broken forth upon my enemies before me, like a breach of waters." Therefore, he called the name of that place Baal-perazim.
+* `2Sa 5:20` And David came to Baal-perazim, and David smote them there and *_said_*, "The LORD has broken forth upon my enemies before me like a breach of waters." Therefore, he called the name of that place Baal-perazim.
 * `2Sa 5:23` And when David inquired of the LORD, he *_said_*, "You shall not go up, but make a circuit behind them and come upon them over against the mulberry-trees.
 * `2Sa 6:9` And David was afraid of the LORD that day and *_said_*, "How shall the ark of the LORD come to me?"
-* `2Sa 6:20` Then David returned to bless his household. And Michal the daughter of Saul came out to meet David and *_said_*, "How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants' women-servants, as one of the vain fellows shamelessly uncovers himself!"
+* `2Sa 6:20` Then David returned to bless his household. And Michal the daughter of Saul came out to meet David and *_said_*, "How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants' women-servants like one of the vain fellows shamelessly uncovers himself!"
 * `2Sa 6:21` And David *_said_* to Michal, "It was before the LORD, who chose me before your father and before all his house to appoint me ruler over the people of the LORD, over Israel; therefore, I will play before the LORD.
 * `2Sa 7:2` That the king *_said_* to Nathan the prophet, "See now, I dwell in a house of cedar, but the ark of God dwells within curtains."
 * `2Sa 7:3` And Nathan *_said_* to the king, "Go, do all that is in your heart, for the LORD is with you."
@@ -2260,7 +2260,7 @@ _1 verse containing SAFFRON_
 * `2Sa 10:5` When they told it to David, he sent to meet them, because the men were greatly ashamed. And the king *_said_*, "Remain in Jericho until your beards have grown and then return."
 * `2Sa 10:11` And he *_said_*, "If the Syrians are too strong for me, then you shall help me, but if the children of Ammon are too strong for you, then I will come and help you.
 * `2Sa 11:3` And David sent and inquired about the woman. And someone *_said_*, "Is this not Bath-sheba, the daughter of Eliam, the wife of Uriah the Hittite?"
-* `2Sa 11:5` And the woman conceived, and sent and told David and *_said_*, "I am with child."
+* `2Sa 11:5` And the woman conceived and sent and told David and *_said_*, "I am with child."
 * `2Sa 11:8` And David *_said_* to Uriah, "Go down to your house and wash your feet." And Uriah departed out of the king's house, and a gift from the king followed him.
 * `2Sa 11:10` And when they had told David, saying, "Uriah did not go down to his house," David *_said_* to Uriah, "Did you not come from your journey? Why then did you not go down to your house?"
 * `2Sa 11:11` And Uriah *_said_* to David, "The ark, Israel, and Judah abide in tents. And my lord Joab and the servants of my lord are encamped in the open fields. Shall I then go into my house to eat, to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing."
@@ -2289,9 +2289,9 @@ _1 verse containing SAFFRON_
 * `2Sa 13:24` And Absalom came to the king and *_said_*, "Behold now, your servant has sheep-shearers. Let the king, I implore you, and his servants go with your servant."
 * `2Sa 13:25` And the king *_said_* to Absalom, "No, my son, let us not all go, lest we be chargeable to you." And he pressed him, yet he would not go, but blessed him.
 * `2Sa 13:26` Then Absalom *_said_*, "If not, I pray you, let my brother Amnon go with us." And the king *_said_* to him, "Why should he go with you?"
-* `2Sa 13:32` And Jonadab, the son of Shimeah David's brother, answered and *_said_*, "Do not let my lord suppose that they have slain all the young men, the king's sons, for only Amnon is dead. For by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.
+* `2Sa 13:32` And Jonadab the son of Shimeah, David's brother, answered and *_said_*, "Do not let my lord suppose that they have slain all the young men, the king's sons, for only Amnon is dead. For by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.
 * `2Sa 13:35` And Jonadab *_said_* to the king, "Behold, the king's sons come. As your servant *_said_*, so it is."
-* `2Sa 14:2` And Joab sent to Tekoah and brought from there a wise woman and *_said_* to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but be as a woman who had a long time mourned for the dead.
+* `2Sa 14:2` And Joab sent to Tekoah and brought from there a wise woman and *_said_* to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but act like a woman who has mourned for the dead a long time.
 * `2Sa 14:4` And when the woman of Tekoah spoke to the king, she fell on her face to the ground and did obeisance and *_said_*, "Help, O king."
 * `2Sa 14:5` And the king *_said_* to her, "What ails you?" And she answered, "I am indeed a widow woman, and my husband is dead.
 * `2Sa 14:7` And behold, the whole family has risen against your servant and they *_said_*, 'Deliver him who smote his brother so that we may kill him for the life of his brother whom he slew. And we will destroy the heir also.' And so they will quench my coal which is left and will not leave to my husband neither name nor remainder upon the earth."
@@ -2311,7 +2311,7 @@ _1 verse containing SAFFRON_
 * `2Sa 14:30` Therefore, he *_said_* to his servants, "See, Joab's field is near mine, and he has barley there. Go and set it on fire." And Absalom's servants set the field on fire.
 * `2Sa 14:31` Then Joab arose and came to Absalom at his house and *_said_* to him, "Why have your servants set my field on fire?"
 * `2Sa 15:2` And Absalom rose early and stood beside the way of the gate. And it was so, that when any man who had a controversy came to the king for judgment, Absalom called to him and *_said_*, "Of what city are you?" And he *_said_*, "Your servant is one of the tribes of Israel."
-* `2Sa 15:3` And Absalom *_said_* to him, "See, your matters are good and right, but there is no man deputed by the king to hear you."
+* `2Sa 15:3` And Absalom *_said_* to him, "Behold, your matters are good and right, but there is no man deputed by the king to hear you."
 * `2Sa 15:4` Absalom *_said_* moreover, "Oh that I were made judge in the land so that every man who has any petition or cause might come to me, and I would do him justice!"
 * `2Sa 15:7` And it came to pass after forty years, that Absalom *_said_* to the king, "I pray you, let me go and pay my vow which I have vowed to the LORD in Hebron.
 * `2Sa 15:9` And the king *_said_* to him, "Go in peace." So he arose and went to Hebron.
@@ -2321,7 +2321,7 @@ _1 verse containing SAFFRON_
 * `2Sa 15:21` And Ittai answered the king and *_said_*, "As the LORD lives and as my lord the king lives, surely in whatever place my lord the king shall be, whether in death or life, even there also your servant will be."
 * `2Sa 15:22` And David *_said_* to Ittai, "Go and pass over." And Ittai the Gittite passed over, along with all his men and all the little ones who were with him.
 * `2Sa 15:25` And the king *_said_* to Zadok, "Carry the ark of God back into the city. If I find favor in the eyes of the LORD, he will bring me back and show me both it and his habitation.
-* `2Sa 15:27` The king *_said_* also to Zadok the priest, "Are you not a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son and Jonathan the son of Abiathar.
+* `2Sa 15:27` The king also *_said_* to Zadok the priest, "Are you not a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son and Jonathan the son of Abiathar.
 * `2Sa 15:31` And someone told David, saying, "Ahithophel is among the conspirators with Absalom." And David *_said_*, "O LORD, I pray you, turn the counsel of Ahithophel into foolishness."
 * `2Sa 15:33` David *_said_* to him, "If you pass on with me, then you will be a burden to me.
 * `2Sa 16:2` And the king *_said_* to Ziba, "What do you mean by these?" And Ziba *_said_*, "The donkeys are for the king's household to ride on, the bread and summer fruit for the young men to eat, and the wine so that those who are faint in the wilderness may drink."
@@ -2343,7 +2343,7 @@ _1 verse containing SAFFRON_
 * `2Sa 17:14` And Absalom and all the men of Israel *_said_*, "The counsel of Hushai the Archite is better than the counsel of Ahithophel." For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.
 * `2Sa 17:15` Then Hushai *_said_* to Zadok and to Abiathar the priests, "In this manner Ahithophel counseled Absalom and the elders of Israel, and in such a manner I have counseled.
 * `2Sa 17:20` And when Absalom's servants came to the woman at the house, they *_said_*, "Where are Ahimaaz and Jonathan?" And the woman *_said_* to them, "They have gone over the brook of water." And when they had sought and could not find them, they returned to Jerusalem.
-* `2Sa 17:21` And it came to pass, after they had departed, that they came out of the well and went and told king David and *_said_* to David, "Arise and pass quickly over the water, for in this manner Ahithophel has counseled against you."
+* `2Sa 17:21` And it came to pass after they had departed, that they came out of the well and went and told king David and *_said_* to David, "Arise and pass quickly over the water, for in this manner Ahithophel has counseled against you."
 * `2Sa 17:29` Honey, butter, sheep, and cheese of cows for David and for the people who were with him to eat, for they *_said_*, "The people are hungry, weary, and thirsty in the wilderness."
 * `2Sa 18:2` And David sent forth a third part of the people under the hand of Joab, a third part under the hand of Abishai the son of Zeruiah (Joab's brother), and a third part under the hand of Ittai the Gittite. And the king *_said_* to the people, "I myself will surely go forth with you also."
 * `2Sa 18:4` And the king *_said_* to them, "What seems to you best I will do." And the king stood by the gate side, and all the people came out by hundreds and by thousands.
@@ -2351,7 +2351,7 @@ _1 verse containing SAFFRON_
 * `2Sa 18:11` And Joab *_said_* to the man who told him, "And behold, you saw him, and why did you not smite him there to the ground? And I would have given you ten shekels of silver and a girdle."
 * `2Sa 18:12` And the man *_said_* to Joab, "Though I should receive one thousand shekels of silver in my hand, yet I would not put forth my hand against the king's son. For in our hearing the king charged you, Abishai, and Ittai, saying, 'Beware that no one touch the young man Absalom.'
 * `2Sa 18:14` Then Joab *_said_*, "I will not wait like this with you." And he took three darts in his hand and thrust them through the heart of Absalom while he was still alive in the midst of the oak.
-* `2Sa 18:18` Now Absalom in his life-time had taken and raised for himself a pillar, which is in the king's valley, for he *_said_*, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
+* `2Sa 18:18` Now Absalom in his lifetime had taken and raised for himself a pillar, which is in the king's valley, for he *_said_*, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
 * `2Sa 18:19` Then Ahimaaz the son of Zadok *_said_*, "Let me now run and inform the king how the LORD has avenged himself of his enemies."
 * `2Sa 18:20` And Joab *_said_* to him, "You shall not bear tidings this day, but you shall bear tidings another day. But this day you shall bear no tidings because the king's son is dead."
 * `2Sa 18:21` Then Joab *_said_* to Cushi, "Go, tell the king what you have seen." And Cushi bowed himself to Joab and ran.
@@ -3940,7 +3940,7 @@ _1 verse containing SAFFRON_
 * `Luk 16:7` Then he *_said_* to another, 'And how much do you owe?' And he *_said_*, 'One hundred measures of wheat.' And he *_said_* to him, 'Take your bill and write eighty.'
 * `Luk 16:15` And he *_said_* to them, "You are those who justify yourselves before men, but God knows your hearts. For that which is highly esteemed among men is an abomination in the sight of God.
 * `Luk 16:24` And he cried, and *_said_*, 'Father Abraham, have mercy on me, and send Lazarus so that he may dip the tip of his finger in water and cool my tongue, for I am tormented in this flame.'
-* `Luk 16:25` But Abraham *_said_*, 'Son, remember that in your life-time you received your good things, and Lazarus, in like manner, evil things. But now he is comforted and you are tormented.
+* `Luk 16:25` But Abraham *_said_*, 'Son, remember that in your lifetime you received your good things, and Lazarus, in like manner, evil things. But now he is comforted and you are tormented.
 * `Luk 16:27` Then he *_said_*, 'I pray you therefore, father, that you would send him to my father's house,
 * `Luk 16:30` And he *_said_*, 'No, father Abraham, but if one goes to them from the dead, they will repent.'
 * `Luk 16:31` And he *_said_* to him, 'If they do not hear Moses and the prophets, neither will they be persuaded if one rises from the dead.'"
@@ -4904,7 +4904,7 @@ _2 verses containing SALOME_
 * `Jsh 15:62` Nibshan, the City of *_Salt_*, and En-gedi; six cities with their villages.
 * `Jsh 18:19` And the border passed along to the side of Beth-hoglah northward. And the limits of the border were at the north bay of the *_Salt_* Sea at the south end of the Jordan. This was the south border.
 * `Jdg 9:45` And Abimelech fought against the city all that day. And he took the city and slew the people who were in it. Then he beat down the city and sowed it with *_salt_*.
-* `2Sa 8:13` And David made himself a name when he returned from smiting the Syrians in the Valley of *_Salt_*, even eighteen thousand men.
+* `2Sa 8:13` And David made a name for himself when he returned from smiting the Syrians in the Valley of *_Salt_*, even eighteen thousand men.
 * `2Ki 2:20` And he said, "Bring me a new cruse and put *_salt_* therein." And they brought it to him.
 * `2Ki 2:21` And he went forth to the spring of the waters and cast the *_salt_* in there and said, "Thus says the LORD: 'I have healed these waters. There shall not be from there any more death or barren land.'"
 * `2Ki 14:7` He slew ten thousand of Edom in the valley of *_Salt_* and took Selah by war and called its name Joktheel to this day.

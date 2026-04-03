@@ -1238,7 +1238,7 @@ _1 verse containing THRONGS_
 * `Phm 1:22` But at the same time prepare me also a lodging, for I trust that *_through_* your prayers I shall be given to you.
 * `Heb 2:10` For it was fitting for him, for whom are all things and by whom are all things, in bringing many sons to glory, to make the Captain of their salvation perfect *_through_* sufferings.
 * `Heb 2:14` Since then the children are partakers of flesh and blood, he also himself likewise took part of the same so that *_through_* death he might destroy him who had the power of death, that is, the devil,
-* `Heb 2:15` And deliver those who *_through_* fear of death were all their life-time subject to bondage.
+* `Heb 2:15` And deliver those who *_through_* fear of death were all their lifetime subject to bondage.
 * `Heb 3:13` But exhort one another daily while it is called Today, lest any of you be hardened *_through_* the deceitfulness of sin.
 * `Heb 4:7` Again he limits a certain day, saying *_through_* David, "Today," after so long a time, as it is said, "Today, if you will hear his voice, do not harden your hearts."
 * `Heb 6:12` So that you do not become slothful, but followers of those who *_through_* faith and patience inherit the promises.
@@ -2492,7 +2492,7 @@ _2 verses containing TIDAL_
 * `1Sa 11:5` And behold, Saul came after the herd out of the field, and Saul said, "What ails the people so that they weep?" And they told him the *_tidings_* of the men of Jabesh.
 * `1Sa 11:6` And the Spirit of God came upon Saul when he heard those *_tidings_*, and his anger was kindled greatly.
 * `1Sa 27:11` And David saved neither man nor woman alive to bring *_tidings_* to Gath, saying, "Lest they should inform against us, saying, 'Thus David did, and so will be his manner all the time he dwells in the country of the Philistines.'"
-* `2Sa 4:4` And Jonathan, Saul's son, had a son who was lame in his feet. He was five years old when the *_tidings_* of Saul and Jonathan came out of Jezreel, and his nurse took him up and fled. And it came to pass, as she made haste to flee, that he fell and became lame. And his name was Mephibosheth.
+* `2Sa 4:4` And Jonathan, Saul's son, had a son who was lame in his feet. He was five years old when the *_tidings_* of Saul and Jonathan came out of Jezreel, and his nurse took him up and fled. And it came to pass as she made haste to flee, that he fell and became lame. And his name was Mephibosheth.
 * `2Sa 4:10` When someone told me, saying, 'Behold, Saul is dead,' (thinking to have brought good *_tidings_*), I took hold of him and slew him in Ziklag, which was the reward I gave him for his *_tidings_*.
 * `2Sa 18:20` And Joab said to him, "You shall not bear *_tidings_* this day, but you shall bear *_tidings_* another day. But this day you shall bear no *_tidings_* because the king's son is dead."
 * `2Sa 18:22` Then Ahimaaz the son of Zadok yet again said to Joab, "But whatever may come, let me also, I pray you, run after Cushi." And Joab said, "Why will you run, my son, seeing that you have no *_tidings_* ready?"
@@ -2712,7 +2712,6 @@ _1 verse containing TIMBREL_
 * `Exo 34:21` "Six days you shall work, but on the seventh day you shall rest. In *_time_* of plowing and in harvest you shall rest.
 * `Lev 13:58` And the garment, either warp or woof, or whatever thing of skin it is, which you shall wash, if the plague has departed from them, then it shall be washed a second *_time_* and shall be clean."
 * `Lev 15:25` 'And if a woman has an issue of her blood for many days not in the *_time_* of her separation, or if it runs beyond the *_time_* of her separation, all the days of the issue of her uncleanness shall be as the days of her separation. She shall be unclean.
-* `Lev 18:18` Neither shall you take a wife in addition to her sister as a rival to uncover her nakedness in opposition to her in her life-*_time_*.
 * `Lev 25:8` 'And you shall number seven sabbaths of years to you, seven times seven years, so that the *_time_* of the seven sabbaths of years shall be to you forty-nine years.
 * `Lev 25:30` And if it is not redeemed within the *_time_* of a full year, then the house that is in the walled city shall be established forever to him who bought it throughout his generations. It shall not go out in the jubilee.
 * `Lev 25:32` Nevertheless, the cities of the Levites and the houses of the cities of their possession, the Levites may redeem at any *_time_*.
@@ -2811,11 +2810,10 @@ _1 verse containing TIMBREL_
 * `2Sa 5:2` Also in *_time_* past, when Saul was king over us, you were the one who led out and brought in Israel. And the LORD said to you, 'You shall feed my people Israel and you shall be a captain over Israel.'"
 * `2Sa 7:6` Whereas I have not dwelt in any house since the *_time_* that I brought the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 * `2Sa 7:11` Even since the *_time_* that I commanded judges to be over my people Israel and have caused you to rest from all your enemies. Also, the LORD tells you that he will make you a house.
-* `2Sa 11:1` And it came to pass, after the year had expired, at the *_time_* when kings go forth to battle, that David sent Joab and his servants with him and all Israel. And they destroyed the children of Ammon and destroyed Rabbah. But David remained in Jerusalem.
-* `2Sa 14:2` And Joab sent to Tekoah and brought from there a wise woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but be as a woman who had a long *_time_* mourned for the dead.
+* `2Sa 11:1` And it came to pass after the year had expired, at the *_time_* when kings go forth to battle, that David sent Joab and his servants with him and all Israel. And they destroyed the children of Ammon and destroyed Rabbah. But David remained in Jerusalem.
+* `2Sa 14:2` And Joab sent to Tekoah and brought from there a wise woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but act like a woman who has mourned for the dead a long *_time_*.
 * `2Sa 14:29` Therefore, Absalom sent for Joab so that he might send him to the king, but he would not come to him. And when he sent again the second *_time_*, he would not come.
 * `2Sa 17:7` And Hushai said to Absalom, "The counsel that Ahithophel has given is not good at this *_time_*."
-* `2Sa 18:18` Now Absalom in his life-*_time_* had taken and raised for himself a pillar, which is in the king's valley, for he said, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
 * `2Sa 20:5` So Amasa went to assemble the men of Judah, but he delayed longer than the set *_time_* which he had appointed him.
 * `2Sa 20:18` Then she spoke, saying, "They were accustomed to speak in old *_time_*, saying, 'They will surely ask counsel at Abel,' and so they ended the matter.
 * `2Sa 23:8` These are the names of the mighty men whom David had: The Tachmonite who sat in the seat, chief among the captains (the same was Adino the Eznite), he lifted up his spear against eight hundred, whom he slew at one *_time_*.
@@ -3134,7 +3132,6 @@ _1 verse containing TIMBREL_
 * `Luk 13:35` Behold, your house is left to you desolate. And truly I say to you, you shall not see me until the *_time_* comes when you say, 'Blessed is he who comes in the name of the Lord.'"
 * `Luk 14:17` And sent his servant at supper-*_time_* to say to those who were invited, 'Come, for all things are now ready.'
 * `Luk 16:16` "The law and the prophets were until John. Since that *_time_* the kingdom of God is preached, and every man presses into it.
-* `Luk 16:25` But Abraham said, 'Son, remember that in your life-*_time_* you received your good things, and Lazarus, in like manner, evil things. But now he is comforted and you are tormented.
 * `Luk 18:30` Who shall not receive manifold more in this present *_time_*, and life everlasting in the age to come."
 * `Luk 19:44` And shall level you and your children within you to the ground. And they shall not leave in you one stone upon another because you did not know the *_time_* of your visitation."
 * `Luk 20:9` Then he began to speak to the people this parable: "A certain man planted a vineyard, leased it to farmers, and went into a far country for a long *_time_*.
@@ -3227,7 +3224,6 @@ _1 verse containing TIMBREL_
 * `Heb 1:5` For to which of the angels did he at any *_time_* say, "You are my Son. This day I have begotten you," and again, "I will be a Father to him, and he shall be a Son to me"?
 * `Heb 1:13` But to which of the angels did he at any *_time_* say, "Sit on my right hand until I make your enemies your footstool for your feet"?
 * `Heb 2:1` Therefore, we ought to give the more earnest heed to the things which we have heard, lest at any *_time_* we should let them slip.
-* `Heb 2:15` And deliver those who through fear of death were all their life-*_time_* subject to bondage.
 * `Heb 4:7` Again he limits a certain day, saying through David, "Today," after so long a *_time_*, as it is said, "Today, if you will hear his voice, do not harden your hearts."
 * `Heb 4:16` Let us therefore come boldly to the throne of grace so that we may obtain mercy and find grace to help in *_time_* of need.
 * `Heb 5:12` For when by the *_time_* you ought to be teachers, you have need of someone to teach you again what are the first principles of the oracles of God, and have become those who have need of milk and not of strong food.
@@ -3259,7 +3255,7 @@ _1 verse containing TIMBREL_
 * `Rev 17:10` And there are seven kings: five have fallen, one is, and the other has not yet come—but when he comes, he must remain a short *_time_*.
 * `Rev 22:10` And he says to me, "Do not seal the sayings of the prophecy of this book, for the *_time_* is at hand.
 
-_585 verses containing TIME_
+_581 verses containing TIME_
 
 == TIMES
 
