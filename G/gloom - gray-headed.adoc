@@ -1219,7 +1219,7 @@ _1 verse containing GNAWED_
 * `2Sa 19:38` And the king answered, "Chimham shall *_go_* over with me, and I will do to him that which seems good to you. And whatever you shall require of me, that I will do for you."
 * `2Sa 20:3` And David came to his house at Jerusalem. And the king took the ten women his concubines whom he had left to keep the house and put them in custody and fed them, but did not *_go_* in to them. So they were shut up to the day of their death, living in widowhood.
 * `2Sa 20:11` And one of Joab's men stood by him and said, "He who favors Joab and he who is for David, let him *_go_* after Joab."
-* `2Sa 21:17` But Abishai the son of Zeruiah helped him, and smote the Philistine and killed him. Then the men of David swore to him, saying, "You shall no longer *_go_* out with us to battle so that you may not extinguish the light of Israel."
+* `2Sa 21:17` But Abishai the son of Zeruiah helped him and smote the Philistine and killed him. Then the men of David swore to him, saying, "You shall no longer *_go_* out with us to battle so that you may not extinguish the light of Israel."
 * `2Sa 24:1` And again the anger of the LORD was kindled against Israel and he moved David against them to say, "*_Go_* number Israel and Judah."
 * `2Sa 24:2` For the king said to Joab the captain of the host who was with him, "*_Go_* now through all the tribes of Israel, from Dan even to Beer-sheba, and number the people so that I may know the number of the people."
 * `2Sa 24:12` "*_Go_* and say to David, 'Thus says the LORD: "I offer you three things. Choose one of them so that I may do it to you."'"
@@ -3121,7 +3121,7 @@ _1 verse containing GOBLET_
 * `2Sa 16:23` And the counsel of Ahithophel, which he counseled in those days, was as if a man had inquired at the oracle of *_God_*. All the counsel of Ahithophel was so, both with David and with Absalom.
 * `2Sa 18:28` And Ahimaaz called and said to the king, "All is well." And he fell down to the earth upon his face before the king and said, "Blessed be the LORD your *_God_* who has delivered up the men who raised their hand against my lord the king."
 * `2Sa 19:13` And say to Amasa, 'Are you not of my bone and of my flesh? May *_God_* do so to me and more also, if you are not captain of the host before me continually in place of Joab.'"
-* `2Sa 19:27` And he has slandered your servant to my lord the king. But my lord the king is as an angel of *_God_*. Do therefore what is good in your eyes.
+* `2Sa 19:27` And he has slandered your servant to my lord the king. But my lord the king is like an angel of *_God_*. Do therefore what is good in your eyes.
 * `2Sa 21:14` And the bones of Saul and Jonathan his son they buried in the country of Benjamin in Zelah in the sepulcher of Kish his father. And they performed all that the king commanded. And after that *_God_* was entreated for the land.
 * `2Sa 22:3` My *_God_*, my rock in whom I will trust. He is my shield and the horn of my salvation, my high tower and my refuge, my preserver. You save me from violence.
 * `2Sa 22:7` "In my distress I called upon the LORD and cried to my *_God_*. And he heard my voice out of his temple, and my cry entered into his ears.
@@ -3132,7 +3132,7 @@ _1 verse containing GOBLET_
 * `2Sa 22:33` *_God_* is my strength and power, and he makes my way perfect.
 * `2Sa 22:47` "The LORD lives. Blessed be my rock. The *_God_* of the rock of my salvation is exalted.
 * `2Sa 22:48` It is *_God_* who avenges me, who brings down the people under me,
-* `2Sa 23:1` Now these are the last words of David. David the son of Jesse and the man who was raised on high, the anointed of the *_God_* of Jacob and the sweet psalmist of Israel, said,
+* `2Sa 23:1` Now these are the last words of David. David the son of Jesse, the man who was raised on high, the anointed of the *_God_* of Jacob, and the sweet psalmist of Israel, said,
 * `2Sa 23:3` The *_God_* of Israel said, the Rock of Israel spoke to me, 'He who rules over men must be just, ruling in the fear of *_God_*.
 * `2Sa 23:5` "Although my house is not so with *_God_*, yet he has made with me an everlasting covenant, ordered in all things and sure, for this is all my salvation and all my desire, although he does not make it to grow.
 * `2Sa 24:3` And Joab said to the king, "Now may the LORD your *_God_* add to the people, however many they may be, one hundred-fold, and that the eyes of my lord the king may see it. But why does my lord the king delight in this thing?"
@@ -7476,8 +7476,8 @@ _203 verses containing GONE_
 * `2Sa 17:7` And Hushai said to Absalom, "The counsel that Ahithophel has given is not *_good_* at this time."
 * `2Sa 17:14` And Absalom and all the men of Israel said, "The counsel of Hushai the Archite is better than the counsel of Ahithophel." For the LORD had appointed to defeat the *_good_* counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.
 * `2Sa 18:27` And the watchman said, "I think the running of the foremost is like the running of Ahimaaz the son of Zadok." And the king said, "He is a *_good_* man and comes with *_good_* news."
-* `2Sa 19:18` And a ferry-boat went to carry over the king's household and to do what he thought *_good_*. And Shimei the son of Gera fell down before the king as he came over the Jordan,
-* `2Sa 19:27` And he has slandered your servant to my lord the king. But my lord the king is as an angel of God. Do therefore what is *_good_* in your eyes.
+* `2Sa 19:18` And a ferry-boat went to carry over the king's household and to do what he thought *_good_*. And Shimei the son of Gera fell down before the king as he came over the Jordan
+* `2Sa 19:27` And he has slandered your servant to my lord the king. But my lord the king is like an angel of God. Do therefore what is *_good_* in your eyes.
 * `2Sa 19:35` I am this day eighty years old. And can I discern between *_good_* and evil? Can your servant taste what I eat or what I drink? Can I hear anymore the voice of singing-men and singing-women? Why then should your servant continue to be a burden to my lord the king?
 * `2Sa 19:37` Let your servant, I pray you, return again so that I may die in my own city and be buried by the grave of my father and of my mother. But behold your servant Chimham. Let him go over with my lord the king and do to him what seems *_good_* to you."
 * `2Sa 19:38` And the king answered, "Chimham shall go over with me, and I will do to him that which seems *_good_* to you. And whatever you shall require of me, that I will do for you."
@@ -8941,7 +8941,7 @@ _2 verses containing GRASPED_
 * `Deu 11:15` And I will give *_grass_* in your fields for your livestock so that you may eat and be full.
 * `Deu 29:23` And that its whole land is brimstone, salt, and burning, that it is not sown, nor does it bear, nor does any *_grass_* grow in it like the overthrow of Sodom, Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger and in his wrath—
 * `Deu 32:2` My doctrine shall drop as the rain, my speech shall distill as the dew, as the small rain upon the tender herb, and as the showers upon the *_grass_*.
-* `2Sa 23:4` And he shall be as the light of the morning when the sun rises, even a morning without clouds, as the tender *_grass_* springing out of the earth from clear shining after the rain.'
+* `2Sa 23:4` And he shall be like the light of the morning when the sun rises, even a morning without clouds, like the tender *_grass_* springing out of the earth from clear shining after the rain.'
 * `1Ki 18:5` And Ahab said to Obadiah, "Go into the land to all fountains of water and to all brooks. It may be that we may find *_grass_* to save the horses and mules alive so that we do not lose all the beasts."
 * `2Ki 19:26` Therefore, their inhabitants were of small power, they were dismayed and confounded, they were as the *_grass_* of the field, as the green herb, as the *_grass_* on the house-tops, and as grain blasted before it is grown up.
 * `Job 5:25` You shall also know that your posterity will be great and your offspring like the *_grass_* of the earth.

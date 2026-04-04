@@ -1233,6 +1233,7 @@ _2 verses containing WANTS_
 * `2Sa 11:18` Then Joab sent and told David all the things concerning the *_war_*,
 * `2Sa 11:19` And charged the messenger, saying, "When you have made an end of telling the matters of the *_war_* to the king,
 * `2Sa 17:8` Then Hushai said, "You know your father and his men. They are mighty men and they are chafed in their minds like a bear robbed of her whelps in the field. And your father is a man of *_war_* and will not lodge with the people.
+* `2Sa 21:15` Moreover, the Philistines made *_war_* again with Israel, and David went down, and his servants with him, and fought against the Philistines. And David became faint.
 * `2Sa 22:35` He teaches my hands to *_war_* so that a bow of steel is broken by my arms.
 * `1Ki 2:5` "Moreover, you also know what Joab the son of Zeruiah did to me and what he did to the two captains of the armies of Israel, to Abner the son of Ner, and to Amasa the son of Jether, whom he slew, shedding the blood of *_war_* in peace and putting the blood of *_war_* upon his girdle that was around his loins and in his shoes that were on his feet.
 * `1Ki 9:22` But Solomon did not make slaves of the children of Israel, but they were men of *_war_*, his servants, his princes, his captains, rulers of his chariots, and his horsemen.
@@ -1362,7 +1363,7 @@ _2 verses containing WANTS_
 * `Rev 19:11` And I saw heaven opened, and behold, a white horse. And he who sat upon him was called Faithful and True, and in righteousness he judges and makes *_war_*.
 * `Rev 19:19` And I saw the beast, the kings of the earth, and their armies assembled to make *_war_* against him who sat on the horse and against his army.
 
-_217 verses containing WAR_
+_218 verses containing WAR_
 
 == WARD
 
@@ -1520,7 +1521,6 @@ _9 verses containing WARP_
 * `Num 31:7` And they *_warred_* against the Midianites, as the LORD commanded Moses, and they slew all the males.
 * `Num 31:42` And from the children of Israel's half, which Moses divided from the men who *_warred_*
 * `Jsh 24:9` Then Balak the son of Zippor, king of Moab, arose and *_warred_* against Israel, and sent and called Balaam the son of Beor to curse you.
-* `2Sa 21:15` Moreover, the Philistines had yet *_warred_* again with Israel, and David went down, and his servants with him, and fought against the Philistines. And David became faint.
 * `1Ki 14:19` And the rest of the acts of Jeroboam, how he *_warred_* and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.
 * `1Ki 20:1` And Ben-hadad the king of Syria collected all his army. And there were thirty-two kings with him and horses and chariots. And he went up and besieged Samaria and *_warred_* against it.
 * `1Ki 22:45` Now the rest of the acts of Jehoshaphat and his might that he showed and how he *_warred_*, are they not written in the book of the chronicles of the kings of Judah?
@@ -1529,7 +1529,7 @@ _9 verses containing WARP_
 * `1Ch 18:10` He sent Hadoram his son to king David to inquire of his welfare and to congratulate him, because he had fought against Hadarezer and smitten him (for Hadarezer had *_warred_* with Tou), and with him all manner of vessels of gold, silver, and brass.
 * `2Ch 26:6` And he went forth and *_warred_* against the Philistines and broke down the wall of Gath, the wall of Jabneh, and the wall of Ashdod, and built cities around Ashdod and among the Philistines.
 
-_11 verses containing WARRED_
+_10 verses containing WARRED_
 
 == WARRING
 
@@ -2243,9 +2243,9 @@ _12 verses containing WATCHMEN_
 * `2Sa 14:14` For we must die and are like *_water_* spilled on the ground which cannot be gathered up again. God does not respect any person, yet he devises means so that his banished is not expelled from him.
 * `2Sa 17:20` And when Absalom's servants came to the woman at the house, they said, "Where are Ahimaaz and Jonathan?" And the woman said to them, "They have gone over the brook of *_water_*." And when they had sought and could not find them, they returned to Jerusalem.
 * `2Sa 17:21` And it came to pass after they had departed, that they came out of the well and went and told king David and said to David, "Arise and pass quickly over the *_water_*, for in this manner Ahithophel has counseled against you."
-* `2Sa 21:10` And Rizpah the daughter of Aiah took sackcloth and spread it for herself upon the rock, from the beginning of harvest until *_water_* dropped upon them out of heaven, and allowed neither the birds of the air to rest on them by day, nor the beasts of the field by night.
-* `2Sa 23:15` And David longed and said, "Oh that one would give me drink of the *_water_* of the well of Beth-lehem, which is by the gate!"
-* `2Sa 23:16` And the three mighty men broke through the host of the Philistines, drew *_water_* out of the well of Beth-lehem that was by the gate, took it, and brought it to David. Nevertheless, he would not drink of it, but poured it out to the LORD.
+* `2Sa 21:10` And Rizpah the daughter of Aiah took sackcloth and spread it for herself upon the rock, from the beginning of harvest until *_water_* dropped upon them out of heaven, and allowed neither the birds of the air to rest on them by day nor the beasts of the field by night.
+* `2Sa 23:15` And David longed and said, "Oh that someone would give me a drink of the *_water_* from the well of Beth-lehem which is by the gate!"
+* `2Sa 23:16` And the three mighty men broke through the host of the Philistines, drew *_water_* out of the well of Beth-lehem that was by the gate, took it, and brought it to David. Nevertheless, he would not drink it, but poured it out to the LORD.
 * `1Ki 13:8` And the man of God said to the king, "If you will give me half of your house, I will not go in with you, neither will I eat bread nor drink *_water_* in this place,
 * `1Ki 13:9` For thus it was charged me by the word of the LORD, saying, 'Eat no bread, nor drink *_water_*, nor turn back by the same way that you came.'"
 * `1Ki 13:16` And he said, "I may not return with you, nor go in with you, neither will I eat bread nor drink *_water_* with you in this place,
