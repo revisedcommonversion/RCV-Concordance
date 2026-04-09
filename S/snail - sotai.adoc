@@ -728,7 +728,7 @@ _2 verses containing SOLEMNLY_
 * `Deu 11:24` Every place on which the *_soles_* of your feet tread shall be yours. From the wilderness to Lebanon, and from the river, the Euphrates River, even to the uttermost sea shall be your limit.
 * `Jsh 3:13` And it shall come to pass, as soon as the *_soles_* of the feet of the priests who bear the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan shall be cut off from the waters that come down from above. And they shall stand in a heap."
 * `Jsh 4:18` And it came to pass when the priests who bore the ark of the covenant of the LORD had come up out of the midst of the Jordan, and the *_soles_* of the priests' feet were lifted up upon the dry land, that the waters of the Jordan returned to their place and flowed over all its banks as they did before.
-* `1Ki 5:3` "You know how David my father could not build a house to the name of the LORD his God, for the wars which were around him on every side, until the LORD put them under the *_soles_* of his feet.
+* `1Ki 5:3` "You know how David my father could not build a house for the name of the LORD his God, because of the wars which were around him on every side, until the LORD put them under the *_soles_* of his feet.
 * `Job 13:27` You put my feet also in the stocks and look narrowly to all my paths. You set a print upon the *_soles_* of my feet.
 * `Isa 60:14` The sons of those who afflicted you shall also come bending to you. And all those who despised you shall bow themselves down at the *_soles_* of your feet. And they shall call you, The City of the LORD, The Zion of the Holy One of Israel.
 * `Ezk 43:7` And he said to me, "Son of man, this is the place of my throne and the place of the *_soles_* of my feet where I will dwell in the midst of the children of Israel forever. And the house of Israel shall no more defile my holy name—neither they, nor their kings—by their lewd deeds, nor by the carcasses of their kings in their high places.
@@ -854,7 +854,7 @@ _7 verses containing SOLITARY_
 * `1Ki 6:11` And the word of the LORD came to *_Solomon_*, saying,
 * `1Ki 6:14` So *_Solomon_* built the house and finished it.
 * `1Ki 6:21` So *_Solomon_* overlaid the house inside with pure gold. And he made a partition by the chains of gold before the oracle and he overlaid it with gold.
-* `1Ki 7:1` And *_Solomon_* built his own house in thirteen years, and finished all his house.
+* `1Ki 7:1` And *_Solomon_* built his own house in thirteen years, and he finished all his house.
 * `1Ki 7:8` And his house where he dwelt had another court within the porch, which was of similar work. *_Solomon_* also made a house like this porch for Pharaoh's daughter, whom he had married.
 * `1Ki 7:13` And king *_Solomon_* sent and brought Hiram out of Tyre.
 * `1Ki 7:14` He was a widow's son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass. And he was filled with wisdom, understanding, and skill to work all works in brass. And he came to king *_Solomon_* and wrought all his work.
@@ -873,7 +873,7 @@ _7 verses containing SOLITARY_
 * `1Ki 8:65` And at that time *_Solomon_* held a feast, and all Israel with him, a great congregation, from the entrance into Hamath to the river of Egypt, before the LORD our God, seven days and seven days, even fourteen days.
 * `1Ki 9:1` And it came to pass, when *_Solomon_* had finished the building of the house of the LORD, the king's house, and all *_Solomon_*'s desire which he was pleased to perform,
 * `1Ki 9:2` That the LORD appeared to *_Solomon_* a second time, as he had appeared to him at Gibeon.
-* `1Ki 9:10` And it came to pass at the end of twenty years when *_Solomon_* had built the two houses, the house of the LORD, and the king's house
+* `1Ki 9:10` And it came to pass at the end of twenty years when *_Solomon_* had built the two houses, the house of the LORD and the king's house
 * `1Ki 9:11` (Now Hiram the king of Tyre had furnished *_Solomon_* with cedar trees and fir trees and with gold, according to all his desire), that king *_Solomon_* gave Hiram twenty cities in the land of Galilee.
 * `1Ki 9:12` And Hiram came out from Tyre to see the cities which *_Solomon_* had given him, and they did not please him.
 * `1Ki 9:15` And this is the reason of the levy which king *_Solomon_* raised: to build the house of the LORD, his own house, Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer.
@@ -889,23 +889,23 @@ _7 verses containing SOLITARY_
 * `1Ki 9:27` And Hiram sent in the navy his servants, shipmen who had knowledge of the sea, with the servants of *_Solomon_*.
 * `1Ki 9:28` And they came to Ophir and imported four hundred and twenty talents of gold from there and brought it to king *_Solomon_*.
 * `1Ki 10:1` And when the queen of Sheba heard of the fame of *_Solomon_* concerning the name of the LORD, she came to prove him with hard questions.
-* `1Ki 10:2` And she came to Jerusalem with a very great train, with camels that bore spices, very much gold, and precious stones. And when she had come to *_Solomon_*, she spoke with him about all that was in her heart.
+* `1Ki 10:2` And she came to Jerusalem with a very great train, with camels that bore spices, a great abundance of gold, and precious stones. And when she had come to *_Solomon_*, she spoke with him about all that was in her heart.
 * `1Ki 10:3` And *_Solomon_* answered all her questions. There was not anything hid from the king which he did not tell her.
 * `1Ki 10:4` And when the queen of Sheba had seen all *_Solomon_*'s wisdom, the house that he had built,
 * `1Ki 10:10` And she gave the king one hundred and twenty talents of gold, a very great quantity of spices, and precious stones. Never again did there come such abundance of spices as these which the queen of Sheba gave to king *_Solomon_*.
 * `1Ki 10:13` And king *_Solomon_* gave to the queen of Sheba all her desire, whatever she asked, besides that which *_Solomon_* gave her out of his royal bounty. So she turned and went to her own country—she and her servants.
 * `1Ki 10:14` Now the weight of gold that came to *_Solomon_* in one year was six hundred and sixty-six talents of gold,
 * `1Ki 10:16` And king *_Solomon_* made two hundred bucklers of beaten gold. Six hundred shekels of gold went to one buckler.
-* `1Ki 10:21` And all king *_Solomon_*'s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold. None were of silver, for it was nothing accounted of in the days of *_Solomon_*.
+* `1Ki 10:21` And all king *_Solomon_*'s drinking vessels were gold, and all the vessels of the house of the forest of Lebanon were pure gold. None were silver, for it was nothing accounted of in the days of *_Solomon_*.
 * `1Ki 10:23` So king *_Solomon_* exceeded all the kings of the earth in riches and in wisdom.
 * `1Ki 10:24` And all the earth sought for *_Solomon_* to hear his wisdom which God had put in his heart.
 * `1Ki 10:26` And *_Solomon_* collected chariots and horsemen. And he had one thousand and four hundred chariots and twelve thousand horsemen, whom he bestowed in the cities for chariots and with the king at Jerusalem.
 * `1Ki 10:28` And *_Solomon_* had horses brought from Egypt and from Keveh. The king's merchants received from Keveh at a price.
 * `1Ki 11:1` But king *_Solomon_* loved many foreign women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites,
 * `1Ki 11:2` Of the nations concerning which the LORD said to the children of Israel, "You shall not go in to them, neither shall they come in to you, for surely they will turn away your heart after their gods." *_Solomon_* cleaved to these in love.
-* `1Ki 11:4` For it came to pass, when *_Solomon_* was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
+* `1Ki 11:4` For it came to pass when *_Solomon_* was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
 * `1Ki 11:5` For *_Solomon_* went after Ashtoreth the goddess of the Zidonians and after Milcom the abomination of the Ammonites.
-* `1Ki 11:6` And *_Solomon_* did evil in the sight of the LORD, and did not go fully after the LORD, as David his father did.
+* `1Ki 11:6` And *_Solomon_* did evil in the sight of the LORD and did not go fully after the LORD, as David his father did.
 * `1Ki 11:7` Then *_Solomon_* built a high place for Chemosh, the abomination of Moab, on the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
 * `1Ki 11:9` And the LORD was angry with *_Solomon_* because his heart was turned from the LORD God of Israel, who had appeared to him twice
 * `1Ki 11:11` Therefore, the LORD said to *_Solomon_*, "Because this is done by you and you have not kept my covenant and my statutes which I have commanded you, I will surely rend the kingdom from you and give it to your servant.
@@ -919,7 +919,7 @@ _7 verses containing SOLITARY_
 * `1Ki 11:41` And the rest of the acts of *_Solomon_* and all that he did and his wisdom, are they not written in the book of the acts of *_Solomon_*?
 * `1Ki 11:42` And the time that *_Solomon_* reigned in Jerusalem over all Israel was forty years.
 * `1Ki 11:43` And *_Solomon_* slept with his fathers and was buried in the city of David his father. And Rehoboam his son reigned in his stead.
-* `1Ki 12:2` And it came to pass, when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king *_Solomon_*, and Jeroboam dwelt in Egypt),
+* `1Ki 12:2` And it came to pass when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king *_Solomon_*, and Jeroboam dwelt in Egypt),
 * `1Ki 12:6` And king Rehoboam consulted with the old men who stood before *_Solomon_* his father while he still lived and said, "How do you advise that I may answer this people?"
 * `1Ki 12:21` And when Rehoboam had come to Jerusalem, he assembled all the house of Judah with the tribe of Benjamin, one hundred and eighty thousand chosen men who were warriors, to fight against the house of Israel to bring the kingdom back to Rehoboam the son of *_Solomon_*.
 * `1Ki 12:23` "Speak to Rehoboam the son of *_Solomon_* king of Judah, to all the house of Judah and Benjamin, and to the remnant of the people, saying,
@@ -1475,6 +1475,7 @@ _2 verses containing SOMEBODY_
 * `2Sa 11:3` And David sent and inquired about the woman. And *_someone_* said, "Is this not Bath-sheba, the daughter of Eliam, the wife of Uriah the Hittite?"
 * `2Sa 15:31` And *_someone_* told David, saying, "Ahithophel is among the conspirators with Absalom." And David said, "O LORD, I pray you, turn the counsel of Ahithophel into foolishness."
 * `2Sa 23:15` And David longed and said, "Oh that *_someone_* would give me a drink of the water from the well of Beth-lehem which is by the gate!"
+* `1Ki 1:48` And also the king said, 'Blessed be the LORD God of Israel who has given *_someone_* to sit on my throne this day, my eyes even seeing it.'"
 * `1Ki 22:38` And *_someone_* washed the chariot in the pool of Samaria, and the dogs licked up his blood, and they washed his armor, according to the word of the LORD which he spoke.
 * `2Ki 5:4` And *_someone_* went in and told his lord, saying, "In this manner the girl spoke who is from the land of Israel."
 * `1Ch 11:17` And David longed and said, "Oh that *_someone_* would give me drink of the water of the well of Beth-lehem that is at the gate!"
@@ -1525,7 +1526,7 @@ _2 verses containing SOMEBODY_
 * `Rev 4:2` And immediately I was in the Spirit. And behold, a throne was set in heaven, and *_someone_* sat on the throne.
 * `Rev 14:14` And I looked, and behold, a white cloud, and *_someone_* like the Son of man sat upon the cloud having a golden crown on his head and a sharp sickle in his hand.
 
-_71 verses containing SOMEONE_
+_72 verses containing SOMEONE_
 
 == SOMETHING
 
@@ -2223,7 +2224,7 @@ _12 verses containing SOMEWHAT_
 * `1Ki 3:21` And when I rose in the morning to nurse my child, behold, it was dead. But when I had considered it in the morning, behold, it was not my *_son_* which I bore."
 * `1Ki 3:22` And the other woman said, "No, but the living is my *_son_* and the dead is your *_son_*." And the first woman said, "No, but the dead is your *_son_* and the living is my *_son_*." Thus they spoke before the king.
 * `1Ki 3:23` Then the king said, "One says, 'This is my *_son_* who lives and your *_son_* is the dead,' and the other says, 'No, but your *_son_* is the dead and my *_son_* is the living.'"
-* `1Ki 3:26` Then the woman whose child the living one was spoke to the king, for her heart yearned upon her *_son_*, and she said, "O my lord, give her the living child and in no way slay it." But the other said, "Let it be neither mine nor yours, but divide it."
+* `1Ki 3:26` Then the woman whose child the living one was spoke to the king, for her heart yearned upon her *_son_*, and she said, "O my lord, give her the living child and in no way slay him." But the other said, "Let him be neither mine nor yours, but divide him."
 * `1Ki 4:2` And these were the princes which he had: Azariah the *_son_* of Zadok the priest,
 * `1Ki 4:3` Elihoreph and Ahiah the sons of Shisha were scribes, Jehosaphat the *_son_* of Ahilud the recorder,
 * `1Ki 4:4` Benaiah the *_son_* of Jehoiada was over the army, Zadok and Abiathar were the priests,
@@ -2240,19 +2241,19 @@ _12 verses containing SOMEWHAT_
 * `1Ki 4:17` Jehoshaphat the *_son_* of Paruah, in Issachar;
 * `1Ki 4:18` Shimei the *_son_* of Elah, in Benjamin;
 * `1Ki 4:19` Geber the *_son_* of Uri was in the country of Gilead, in the country of Sihon king of the Amorites and of Og king of Bashan, and he was the only officer who was in the land.
-* `1Ki 5:5` And behold, I purpose to build a house to the name of the LORD my God, as the LORD spoke to David my father, saying, 'Your *_son_*, whom I will set upon your throne in your stead, he shall build a house to my name.'
+* `1Ki 5:5` And behold, I purpose to build a house for the name of the LORD my God, as the LORD spoke to David my father, saying, 'Your *_son_*, whom I will set upon your throne in your stead, he shall build a house for my name.'
 * `1Ki 5:7` And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly and said, "Blessed be the LORD this day who has given to David a wise *_son_* over this great people."
 * `1Ki 7:14` He was a widow's *_son_* of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass. And he was filled with wisdom, understanding, and skill to work all works in brass. And he came to king Solomon and wrought all his work.
-* `1Ki 8:19` Nevertheless, you shall not build the house, but your *_son_* who shall come forth out of your loins, he shall build the house to my name.'
+* `1Ki 8:19` Nevertheless, you shall not build the house, but your *_son_* who shall come forth out of your loins, he shall build the house for my name.'
 * `1Ki 11:12` Although, in your days, I will not do it, for David your father's sake, but I will rend it out of the hand of your *_son_*.
 * `1Ki 11:13` Yet, I will not rend away all the kingdom, but will give one tribe to your *_son_* for David my servant's sake and for Jerusalem's sake which I have chosen."
 * `1Ki 11:20` And the sister of Tahpenes bore him Genubath his *_son_*, whom Tahpenes weaned in Pharaoh's house. And Genubath was in Pharaoh's household among the sons of Pharaoh.
-* `1Ki 11:23` And God stirred him up another adversary: Rezon the *_son_* of Eliadah, who fled from his lord Hadadezer king of Zobah.
+* `1Ki 11:23` And God stirred up another adversary for him: Rezon the *_son_* of Eliadah, who fled from his lord Hadadezer king of Zobah.
 * `1Ki 11:26` And Jeroboam the *_son_* of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he raised his hand against the king.
 * `1Ki 11:35` But I will take the kingdom out of his *_son_*'s hand and will give it to you, even ten tribes.
 * `1Ki 11:36` And to his *_son_* I will give one tribe so that David my servant may have a light always before me in Jerusalem, the city which I have chosen for me to put my name there.
 * `1Ki 11:43` And Solomon slept with his fathers and was buried in the city of David his father. And Rehoboam his *_son_* reigned in his stead.
-* `1Ki 12:2` And it came to pass, when Jeroboam the *_son_* of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
+* `1Ki 12:2` And it came to pass when Jeroboam the *_son_* of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
 * `1Ki 12:15` Therefore, the king did not listen to the people, for the cause was from the LORD that he might perform his saying which the LORD spoke by Ahijah the Shilonite to Jeroboam the *_son_* of Nebat.
 * `1Ki 12:16` So when all Israel saw that the king did not listen to them, the people answered the king, saying, "What portion do we have in David? We do not have inheritance in the *_son_* of Jesse. To your tents, O Israel. Now see to your own house, David." So Israel departed to their tents.
 * `1Ki 12:21` And when Rehoboam had come to Jerusalem, he assembled all the house of Judah with the tribe of Benjamin, one hundred and eighty thousand chosen men who were warriors, to fight against the house of Israel to bring the kingdom back to Rehoboam the *_son_* of Solomon.

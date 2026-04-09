@@ -54,7 +54,7 @@ _28 verses containing FOLD_
 
 == FOLDING
 
-* `1Ki 6:34` And the two doors were of fir tree. The two leaves of one door were *_folding_* and the two leaves of the other door were *_folding_*.
+* `1Ki 6:34` And the two doors were made of fir tree. The two leaves of one door were *_folding_* and the two leaves of the other door were *_folding_*.
 * `Pro 6:10` Yet a little sleep, a little slumber, a little *_folding_* of the hands to sleep,
 * `Pro 24:33` Yet a little sleep, a little slumber, a little *_folding_* of the hands to sleep,
 
@@ -199,7 +199,7 @@ _87 verses containing FOLLOW_
 * `2Sa 15:17` And the king went forth, and all the people *_followed_* him, and they stayed in Beth-merhak.
 * `2Sa 17:23` And when Ahithophel saw that his counsel was not *_followed_*, he saddled his donkey, arose, and went home to his house, to his city, and put his household in order, hanged himself, and died and was buried in the sepulcher of his father.
 * `2Sa 20:2` So every man of Israel, withdrawing from David, *_followed_* Sheba the son of Bichri, but the men of Judah adhered to their king, from the Jordan even to Jerusalem.
-* `1Ki 12:20` And it came to pass when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who *_followed_* the house of David, but the tribe of Judah only.
+* `1Ki 12:20` And it came to pass when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who *_followed_* the house of David except the tribe of Judah only.
 * `1Ki 14:8` And rent the kingdom away from the house of David and gave it to you, and yet you have not been as my servant David, who kept my commandments and who *_followed_* me with all his heart to do that only which was right in my eyes,
 * `1Ki 16:21` Then the people of Israel were divided into two parts: half of the people *_followed_* Tibni the son of Ginath to make him king, and half *_followed_* Omri.
 * `1Ki 16:22` But the people who *_followed_* Omri prevailed against the people who *_followed_* Tibni the son of Ginath. So Tibni died, and Omri reigned.
@@ -1545,7 +1545,7 @@ _3 verses containing FOREMOST_
 
 * `Exo 28:27` And two other rings of gold you shall make and shall put them on the two sides of the ephod underneath, toward its *_forepart_*, over against the other coupling thereof, above the skillfully woven girdle of the ephod.
 * `Exo 39:20` And they made two other golden rings and put them on the two sides of the ephod underneath toward its *_forepart_*, over against the other coupling thereof, above the skillfully woven girdle of the ephod.
-* `1Ki 6:20` And the oracle in the *_forepart_* was twenty cubits in length, twenty cubits in breadth, and twenty cubits in its height, and he overlaid it with pure gold. And he also overlaid the altar which was of cedar.
+* `1Ki 6:20` And the oracle in the *_forepart_* was twenty cubits in length, twenty cubits in breadth, and twenty cubits in its height, and he overlaid it with pure gold. And he also overlaid the altar of cedar.
 * `Ezk 42:7` And the wall that was outside over against the chambers, toward the outer court on the *_forepart_* of the chambers, its length was fifty cubits.
 * `Act 27:41` And falling into a place where two seas met, they ran the ship aground. And the *_forepart_* stuck firmly and remained immovable, but the back part was broken with the violence of the waves.
 
@@ -1616,7 +1616,7 @@ _5 verses containing FORESKINS_
 * `2Sa 18:17` And they took Absalom, cast him into a great pit in the *_forest_*, and laid a very great heap of stones upon him. And all Israel fled, each to his tent.
 * `1Ki 7:2` He also built the House of the *_Forest_* of Lebanon. Its length was one hundred cubits, its breadth fifty cubits, and its height thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
 * `1Ki 10:17` And he made three hundred shields of beaten gold. Three minas of gold went to one shield. And the king put them in the House of the *_Forest_* of Lebanon.
-* `1Ki 10:21` And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the *_forest_* of Lebanon were of pure gold. None were of silver, for it was nothing accounted of in the days of Solomon.
+* `1Ki 10:21` And all king Solomon's drinking vessels were gold, and all the vessels of the house of the *_forest_* of Lebanon were pure gold. None were silver, for it was nothing accounted of in the days of Solomon.
 * `2Ki 2:24` And he turned back, looked at them, and cursed them in the name of the LORD. And two female bears came forth out of the *_forest_* and tore forty-two of the children.
 * `2Ki 19:23` By your messengers you have reproached the Lord and have said, "With the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and will cut down its tall cedar trees and its choice fir trees. And I will enter into the lodgings of his borders and into the *_forest_* of his Carmel.
 * `2Ch 9:16` And three hundred shields he made of beaten gold. Three hundred shekels of gold went to each shield. And the king put them in the house of the *_forest_* of Lebanon.
@@ -1759,7 +1759,7 @@ _3 verses containing FORETOLD_
 * `2Sa 7:25` And now, O LORD God, the word that you have spoken concerning your servant and concerning his house, establish it *_forever_* and do as you have said.
 * `2Sa 7:26` And let your name be magnified *_forever_*, saying, 'The LORD of hosts is the God over Israel.' And let the house of your servant David be established before you.
 * `2Sa 7:29` And now, let it please you to bless the house of your servant so that it may continue *_forever_* before you. For you, O Lord GOD, have spoken it, and with your blessing let the house of your servant be blessed *_forever_*."
-* `1Ki 1:31` Then Bath-sheba bowed with her face to the earth and did reverence to the king, and said, "Let my lord king David live *_forever_*."
+* `1Ki 1:31` Then Bath-sheba bowed with her face to the earth and did reverence to the king and said, "Let my lord king David live *_forever_*."
 * `1Ki 2:33` Their blood shall therefore return upon the head of Joab and upon the head of his offspring *_forever_*. But upon David, upon his offspring, upon his house, and upon his throne, there shall be peace *_forever_* from the LORD."
 * `1Ki 2:45` And king Solomon shall be blessed, and the throne of David shall be established before the LORD *_forever_*."
 * `1Ki 8:13` I have surely built you a house to dwell in, a settled place for you to abide in *_forever_*."
@@ -2646,7 +2646,7 @@ _1 verse containing FORNICATORS_
 * `Jdg 9:11` But the fig-tree said to them, 'Should I *_forsake_* my sweetness and my good fruit and go to be promoted over the trees?'
 * `1Sa 12:22` For the LORD will not *_forsake_* his people for his great name's sake because it has pleased the LORD to make you his people.
 * `1Ki 6:13` And I will dwell among the children of Israel and will not *_forsake_* my people Israel."
-* `1Ki 8:57` May the LORD our God be with us, as he was with our fathers. May he not leave us, nor *_forsake_* us,
+* `1Ki 8:57` May the LORD our God be with us, as he was with our fathers. May he not leave us nor *_forsake_* us,
 * `2Ki 21:14` And I will *_forsake_* the remnant of my inheritance and deliver them into the hand of their enemies, and they shall become captives and plunder to all their enemies,
 * `1Ch 28:9` "And you, Solomon my son, know the God of your father and serve him with a perfect heart and with a willing mind, for the LORD searches all hearts and understands all the imaginations of the thoughts. If you seek him, he will be found by you, but if you *_forsake_* him, he will cast you off forever.
 * `1Ch 28:20` And David said to Solomon his son, "Be strong and of good courage, and do it. Do not fear, nor be dismayed, for the LORD God, even my God, will be with you. He will not fail you, nor *_forsake_* you, until you have finished all the work for the service of the house of the LORD.
@@ -2803,7 +2803,7 @@ _2 verses containing FORSAKING_
 * `1Sa 31:7` And when the men of Israel who were on the other side of the valley and those who were on the other side of the Jordan saw that the men of Israel fled and that Saul and his sons were dead, they *_forsook_* the cities and fled. And the Philistines came and dwelt in them.
 * `1Ki 9:9` And they shall answer, 'Because they *_forsook_* the LORD their God who brought forth their fathers from the land of Egypt, and have taken hold upon other gods and have worshiped them and served them, therefore the LORD has brought all this evil upon them.'"
 * `1Ki 12:8` But he *_forsook_* the counsel of the old men which they had given him and consulted with the young men who had grown up with him, and who stood before him.
-* `1Ki 12:13` And the king answered the people roughly and *_forsook_* the old men's counsel that they gave him,
+* `1Ki 12:13` And the king answered the people roughly and *_forsook_* the old men's counsel that they gave him
 * `2Ki 21:22` And he *_forsook_* the LORD God of his fathers and did not walk in the way of the LORD.
 * `1Ch 10:7` And when all the men of Israel who were in the valley saw that they fled and that Saul and his sons were dead, they *_forsook_* their cities and fled. And the Philistines came and dwelt in them.
 * `2Ch 7:22` And it shall be answered, 'Because they *_forsook_* the LORD God of their fathers who brought them out of the land of Egypt and laid hold upon other gods, worshiped them, and served them, therefore he has brought all this evil upon them.'"

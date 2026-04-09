@@ -1827,7 +1827,7 @@ _1 verse containing ISPAH_
 * `1Ki 1:30` Even as I swore to you by the LORD God of *_Israel_*, saying, 'Assuredly Solomon your son shall reign after me and sit upon my throne in my stead,' even so I will certainly do this day."
 * `1Ki 1:34` And let Zadok the priest and Nathan the prophet anoint him there king over *_Israel_*. And blow with the trumpet and say, 'God save king Solomon.'
 * `1Ki 1:35` Then you shall come up after him so that he may come and sit upon my throne, for he shall be king in my stead. And I have appointed him to be ruler over *_Israel_* and over Judah."
-* `1Ki 1:48` And also the king said, 'Blessed be the LORD God of *_Israel_* who has given one to sit on my throne this day, my eyes even seeing it.'"
+* `1Ki 1:48` And also the king said, 'Blessed be the LORD God of *_Israel_* who has given someone to sit on my throne this day, my eyes even seeing it.'"
 * `1Ki 2:4` So that the LORD may continue his word which he spoke concerning me, saying, 'If your children take heed to their way to walk before me in truth with all their heart and with all their soul, there shall not fail you,' he said, 'a man on the throne of *_Israel_*.'
 * `1Ki 2:5` "Moreover, you also know what Joab the son of Zeruiah did to me and what he did to the two captains of the armies of *_Israel_*, to Abner the son of Ner, and to Amasa the son of Jether, whom he slew, shedding the blood of war in peace and putting the blood of war upon his girdle that was around his loins and in his shoes that were on his feet.
 * `1Ki 2:11` And the days that David reigned over *_Israel_* were forty years. Seven years he reigned in Hebron and thirty-three years he reigned in Jerusalem.
@@ -1891,10 +1891,10 @@ _1 verse containing ISPAH_
 * `1Ki 12:17` But as for the children of *_Israel_* who dwelt in the cities of Judah, Rehoboam reigned over them.
 * `1Ki 12:18` Then king Rehoboam sent Adoram, who was over the tribute. And all *_Israel_* stoned him with stones so that he died. Therefore, king Rehoboam made speed to enter his chariot to flee to Jerusalem.
 * `1Ki 12:19` So *_Israel_* rebelled against the house of David to this day.
-* `1Ki 12:20` And it came to pass when all *_Israel_* heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all *_Israel_*. There was none who followed the house of David, but the tribe of Judah only.
+* `1Ki 12:20` And it came to pass when all *_Israel_* heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all *_Israel_*. There was none who followed the house of David except the tribe of Judah only.
 * `1Ki 12:21` And when Rehoboam had come to Jerusalem, he assembled all the house of Judah with the tribe of Benjamin, one hundred and eighty thousand chosen men who were warriors, to fight against the house of *_Israel_* to bring the kingdom back to Rehoboam the son of Solomon.
-* `1Ki 12:24` 'Thus says the LORD: "You shall not go up, nor fight against your brothers the children of *_Israel_*. Everyone return to his house, for this thing is from me."'" They listened therefore to the word of the LORD and returned to depart, according to the word of the LORD.
-* `1Ki 12:28` Upon this the king took counsel and made two calves of gold, and said to them, "It is too much for you to go up to Jerusalem. Behold your gods, O *_Israel_*, which brought you out of the land of Egypt."
+* `1Ki 12:24` 'Thus says the LORD: "You shall not go up nor fight against your brothers the children of *_Israel_*. Everyone return to his house, for this thing is from me."'" They listened therefore to the word of the LORD and returned to depart, according to the word of the LORD.
+* `1Ki 12:28` Upon this the king took counsel and made two calves of gold and said to them, "It is too much for you to go up to Jerusalem. Behold your gods, O *_Israel_*, which brought you out of the land of Egypt."
 * `1Ki 12:33` So he offered upon the altar which he had made in Beth-el on the fifteenth day of the eighth month, even in the month which he had devised in his own heart. And he ordained a feast to the children of *_Israel_* and he offered upon the altar and burned incense.
 * `1Ki 14:7` Go, tell Jeroboam, 'Thus says the LORD God of *_Israel_*: "Because I exalted you from among the people and made you prince over my people *_Israel_*
 * `1Ki 14:10` Therefore, behold, I will bring evil upon the house of Jeroboam: I will cut off from Jeroboam the males, both him who is shut up and him who is left at large, in *_Israel_*, and will take away the remnant of the house of Jeroboam, as a man takes away dung until it is all gone.
@@ -3693,10 +3693,9 @@ _1 verse containing ITHRITES_
 * `1Sa 20:20` And I will shoot three arrows on *_its_* side, as though I shot at a mark.
 * `2Sa 6:17` And they brought in the ark of the LORD and set it in *_its_* place in the midst of the tabernacle that David had pitched for it. And David offered burnt-offerings and peace-offerings before the LORD.
 * `2Sa 20:8` When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded to him, and upon it a girdle with a sword fastened upon his loins in *_its_* sheath, and as he went forth it fell out.
-* `1Ki 3:27` Then the king answered and said, "Give her the living child and in no way slay it. She is *_its_* mother."
 * `1Ki 6:2` And the house which king Solomon built for the LORD, *_its_* length was sixty cubits, *_its_* breadth twenty cubits, and *_its_* height thirty cubits.
 * `1Ki 6:3` And the porch before the temple of the house, twenty cubits was *_its_* length, according to the breadth of the house, and ten cubits was *_its_* breadth, before the house.
-* `1Ki 6:20` And the oracle in the forepart was twenty cubits in length, twenty cubits in breadth, and twenty cubits in *_its_* height, and he overlaid it with pure gold. And he also overlaid the altar which was of cedar.
+* `1Ki 6:20` And the oracle in the forepart was twenty cubits in length, twenty cubits in breadth, and twenty cubits in *_its_* height, and he overlaid it with pure gold. And he also overlaid the altar of cedar.
 * `1Ki 6:38` And in the eleventh year, in the month of Bul (which is the eighth month), the house was finished throughout all *_its_* parts and according to all *_its_* fashion. So he was seven years in building it.
 * `1Ki 7:2` He also built the House of the Forest of Lebanon. *_Its_* length was one hundred cubits, *_its_* breadth fifty cubits, and *_its_* height thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
 * `1Ki 7:6` And he made a porch of pillars. *_Its_* length was fifty cubits and *_its_* breadth thirty cubits. And the porch was before them, and the other pillars and the thick beams were before them.
@@ -4139,7 +4138,7 @@ _1 verse containing ITHRITES_
 * `Rev 21:25` And *_its_* gates shall not be shut by day, for there shall be no night there.
 * `Rev 22:2` In the midst of *_its_* street. And on each side of the river was the tree of life, which bore twelve kinds of fruits and yielded her fruit every month. And the leaves of the tree were for the healing of the nations.
 
-_787 verses containing ITS_
+_786 verses containing ITS_
 
 == ITSELF
 

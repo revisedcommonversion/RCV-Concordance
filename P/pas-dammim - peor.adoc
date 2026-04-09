@@ -386,12 +386,12 @@ _12 verses containing PASHUR_
 * `1Ki 6:1` And it came to *_pass_* in the four hundred and eightieth year after the children of Israel had come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Zif, which is the second month, that he began to build the house of the LORD.
 * `1Ki 8:10` And it came to *_pass_*, when the priests had come out of the holy place, that the cloud filled the house of the LORD
 * `1Ki 9:1` And it came to *_pass_*, when Solomon had finished the building of the house of the LORD, the king's house, and all Solomon's desire which he was pleased to perform,
-* `1Ki 9:10` And it came to *_pass_* at the end of twenty years when Solomon had built the two houses, the house of the LORD, and the king's house
-* `1Ki 11:4` For it came to *_pass_*, when Solomon was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
-* `1Ki 11:15` For it came to *_pass_*, when David was in Edom, and Joab the captain of the host had gone up to bury the slain, after he had smitten every male in Edom
+* `1Ki 9:10` And it came to *_pass_* at the end of twenty years when Solomon had built the two houses, the house of the LORD and the king's house
+* `1Ki 11:4` For it came to *_pass_* when Solomon was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
+* `1Ki 11:15` For it came to *_pass_* when David was in Edom, and Joab the captain of the host had gone up to bury the slain, after he had smitten every male in Edom
 * `1Ki 11:29` And it came to *_pass_* at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him on the way. And he had clad himself with a new garment, and the two of them were alone in the field.
-* `1Ki 12:2` And it came to *_pass_*, when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
-* `1Ki 12:20` And it came to *_pass_* when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who followed the house of David, but the tribe of Judah only.
+* `1Ki 12:2` And it came to *_pass_* when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
+* `1Ki 12:20` And it came to *_pass_* when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who followed the house of David except the tribe of Judah only.
 * `1Ki 13:4` And it came to *_pass_* when king Jeroboam heard the saying of the man of God who had cried against the altar in Beth-el, that he put forth his hand from the altar, saying, "Lay hold upon him." And his hand, which he put forth against him, dried up so that he could not draw it to him again.
 * `1Ki 13:20` And it came to *_pass_*, as they sat at the table, that the word of the LORD came to the prophet who brought him back.
 * `1Ki 13:23` And it came to *_pass_*, after he had eaten bread and after he had drank, that he saddled the donkey for him, namely, for the prophet whom he had brought back.
@@ -2660,7 +2660,7 @@ _3 verses containing PENTECOST_
 * `Jdg 8:8` And he went up from there to *_Penuel_* and spoke to them in the same manner. And the men of *_Penuel_* answered him as the men of Succoth had answered him.
 * `Jdg 8:9` And he spoke also to the men of *_Penuel_*, saying, "When I come back in peace, I will break down this tower."
 * `Jdg 8:17` And he beat down the tower of *_Penuel_* and slew the men of the city.
-* `1Ki 12:25` Then Jeroboam built Shechem on mount Ephraim and dwelt in it, and went out from there and built *_Penuel_*.
+* `1Ki 12:25` Then Jeroboam built Shechem on mount Ephraim and dwelt in it, and he went out from there and built *_Penuel_*.
 * `1Ch 4:4` And *_Penuel_* the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the first-born of Ephratah, the father of Beth-lehem.
 * `1Ch 8:25` Iphedeiah, and *_Penuel_* were the sons of Shashak.
 
@@ -3414,7 +3414,7 @@ _2 verses containing PENURY_
 * `1Ki 12:9` And he said to them, "What counsel do you give that we may answer this *_people_* who have spoken to me, saying, 'Make the yoke which your father put upon us lighter'?"
 * `1Ki 12:10` And the young men who had grown up with him spoke to him, saying, "Thus shall you speak to this *_people_* who spoke to you, saying, 'Your father made our yoke heavy, but make it lighter for us.' Thus you shall say to them: 'My little finger shall be thicker than my father's loins.
 * `1Ki 12:12` So Jeroboam and all the *_people_* came to Rehoboam the third day, as the king had appointed, saying, "Come to me again the third day."
-* `1Ki 12:13` And the king answered the *_people_* roughly and forsook the old men's counsel that they gave him,
+* `1Ki 12:13` And the king answered the *_people_* roughly and forsook the old men's counsel that they gave him
 * `1Ki 12:15` Therefore, the king did not listen to the *_people_*, for the cause was from the LORD that he might perform his saying which the LORD spoke by Ahijah the Shilonite to Jeroboam the son of Nebat.
 * `1Ki 12:16` So when all Israel saw that the king did not listen to them, the *_people_* answered the king, saying, "What portion do we have in David? We do not have inheritance in the son of Jesse. To your tents, O Israel. Now see to your own house, David." So Israel departed to their tents.
 * `1Ki 12:23` "Speak to Rehoboam the son of Solomon king of Judah, to all the house of Judah and Benjamin, and to the remnant of the *_people_*, saying,

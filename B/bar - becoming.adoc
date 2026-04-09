@@ -690,7 +690,7 @@ _2 verses containing BAT_
 * `1Ki 1:15` And *_Bath_*-sheba went to the king into the chamber. And the king was very old, and Abishag the Shunamite ministered to the king.
 * `1Ki 1:16` And *_Bath_*-sheba bowed and did obeisance to the king. And the king said, "What do you wish?"
 * `1Ki 1:28` Then king David answered and said, "Call to me *_Bath_*-sheba." And she came into the king's presence and stood before the king.
-* `1Ki 1:31` Then *_Bath_*-sheba bowed with her face to the earth and did reverence to the king, and said, "Let my lord king David live forever."
+* `1Ki 1:31` Then *_Bath_*-sheba bowed with her face to the earth and did reverence to the king and said, "Let my lord king David live forever."
 * `1Ki 2:13` And Adonijah the son of Haggith came to *_Bath_*-sheba the mother of Solomon. And she said, "Do you come peaceably?" And he said, "Peaceably."
 * `1Ki 2:18` And *_Bath_*-sheba said, "Very well. I will speak for you to the king."
 * `1Ki 2:19` *_Bath_*-sheba therefore went to king Solomon to speak to him for Adonijah. And the king rose up to meet her, bowed himself to her, sat down on his throne, and caused a seat to be set for the king's mother, and she sat on his right hand.
@@ -718,7 +718,7 @@ _1 verse containing BATH-RABBIM_
 * `1Ki 1:15` And *_Bath-sheba_* went to the king into the chamber. And the king was very old, and Abishag the Shunamite ministered to the king.
 * `1Ki 1:16` And *_Bath-sheba_* bowed and did obeisance to the king. And the king said, "What do you wish?"
 * `1Ki 1:28` Then king David answered and said, "Call to me *_Bath-sheba_*." And she came into the king's presence and stood before the king.
-* `1Ki 1:31` Then *_Bath-sheba_* bowed with her face to the earth and did reverence to the king, and said, "Let my lord king David live forever."
+* `1Ki 1:31` Then *_Bath-sheba_* bowed with her face to the earth and did reverence to the king and said, "Let my lord king David live forever."
 * `1Ki 2:13` And Adonijah the son of Haggith came to *_Bath-sheba_* the mother of Solomon. And she said, "Do you come peaceably?" And he said, "Peaceably."
 * `1Ki 2:18` And *_Bath-sheba_* said, "Very well. I will speak for you to the king."
 * `1Ki 2:19` *_Bath-sheba_* therefore went to king Solomon to speak to him for Adonijah. And the king rose up to meet her, bowed himself to her, sat down on his throne, and caused a seat to be set for the king's mother, and she sat on his right hand.
@@ -1964,7 +1964,7 @@ _5 verses containing BEBAI_
 * `2Sa 8:14` And he put garrisons in Edom. Throughout all Edom he put garrisons, and all the people of Edom *_became_* David's servants. And the LORD preserved David wherever he went.
 * `2Sa 11:27` And when the mourning was past, David sent and brought her to his house, and she *_became_* his wife and bore him a son. But the thing that David had done displeased the LORD.
 * `2Sa 21:15` Moreover, the Philistines made war again with Israel, and David went down, and his servants with him, and fought against the Philistines. And David *_became_* faint.
-* `1Ki 11:24` And he gathered men to him and *_became_* captain over a band when David slew them of Zobah. And they went to Damascus, dwelt in it, and reigned in Damascus.
+* `1Ki 11:24` And he gathered men to him and *_became_* captain over a band when David slew those of Zobah. And they went to Damascus, dwelt in it, and reigned in Damascus.
 * `1Ki 12:30` And this thing *_became_* a sin, for the people went to worship before the one, even to Dan.
 * `1Ki 13:6` And the king answered and said to the man of God, "Entreat now the face of the LORD your God and pray for me so that my hand may be restored to me again." And the man of God implored the LORD, and the king's hand was restored to him again and *_became_* as it was before.
 * `1Ki 13:33` After this thing Jeroboam did not return from his evil way, but again made from the lowest of the people priests of the high places. Whoever wanted, he consecrated him, and he *_became_* one of the priests of the high places.
@@ -2385,6 +2385,7 @@ _124 verses containing BECAME_
 * `1Ki 3:2` Only the people sacrificed in high places *_because_* there was no house built to the name of the LORD until those days.
 * `1Ki 3:11` And God said to him, "*_Because_* you have asked this thing and have not asked for yourself long life, neither have asked riches for yourself, nor have asked the life of your enemies, but have asked for yourself understanding to discern judgment,
 * `1Ki 3:19` And this woman's child died in the night *_because_* she laid upon it.
+* `1Ki 5:3` "You know how David my father could not build a house for the name of the LORD his God, *_because_* of the wars which were around him on every side, until the LORD put them under the soles of his feet.
 * `1Ki 7:47` And Solomon left all the vessels unweighed *_because_* they were very numerous, neither was the weight of the brass ascertained.
 * `1Ki 8:11` So that the priests could not stand to minister *_because_* of the cloud, for the glory of the LORD had filled the house of the LORD.
 * `1Ki 8:33` "When your people Israel are smitten before the enemy *_because_* they have sinned against you, and they turn back to you, confess your name, pray, and make supplication to you in this house,
@@ -3259,7 +3260,7 @@ _124 verses containing BECAME_
 * `Rev 21:4` And God will wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain, *_because_* the former things have passed away."
 * `Rev 22:5` And there shall be no night there. They need no candle, neither light of the sun, *_because_* the Lord God gives them light. And they shall reign forever and ever.
 
-_1220 verses containing BECAUSE_
+_1221 verses containing BECAUSE_
 
 == BECHER
 

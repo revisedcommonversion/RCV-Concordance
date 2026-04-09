@@ -920,7 +920,7 @@ _7 verses containing ROUGH_
 * `Gen 42:7` And Joseph saw his brothers, and he knew them, but made himself strange to them and spoke *_roughly_* to them, and he said to them, "From where have you come?" And they said, "From the land of Canaan to buy food."
 * `Gen 42:30` "The man who is the lord of the land spoke *_roughly_* to us and took us for spies of the country.
 * `1Sa 20:10` Then David said to Jonathan, "Who shall tell me? Or what if your father answers you *_roughly_*?"
-* `1Ki 12:13` And the king answered the people *_roughly_* and forsook the old men's counsel that they gave him,
+* `1Ki 12:13` And the king answered the people *_roughly_* and forsook the old men's counsel that they gave him
 * `2Ch 10:13` And the king answered them *_roughly_*. And king Rehoboam forsook the counsel of the old men,
 * `Pro 18:23` The poor uses entreaties, but the rich answers *_roughly_*.
 
@@ -939,6 +939,12 @@ _6 verses containing ROUGHLY_
 * `Sos 7:2` Your navel is like a *_round_* goblet which does not lack liquor. Your belly is like a heap of wheat surrounded by lilies.
 
 _9 verses containing ROUND_
+
+== ROUNDED
+
+* `1Ki 7:20` And the capitals upon the two pillars also had pomegranates above, over against the *_rounded_* projection which was by the net-work. And the pomegranates were two hundred in rows around upon the other capital.
+
+_1 verse containing ROUNDED_
 
 == ROUSE
 
@@ -997,7 +1003,7 @@ _1 verse containing ROWING_
 * `1Ki 7:4` And there were windows in three *_rows_*, and window was against window in three ranks.
 * `1Ki 7:12` And the great court around was with three *_rows_* of hewn stones and a row of cedar beams, both for the inner court of the house of the LORD and for the porch of the house.
 * `1Ki 7:18` And he made the pillars with two *_rows_* of pomegranates around upon one net-work to cover the capitals that were upon the top. And he did likewise for the other capital.
-* `1Ki 7:20` And the capitals upon the two pillars also had pomegranates above, over against the belly which was by the net-work. And the pomegranates were two hundred in *_rows_* around upon the other capital.
+* `1Ki 7:20` And the capitals upon the two pillars also had pomegranates above, over against the rounded projection which was by the net-work. And the pomegranates were two hundred in *_rows_* around upon the other capital.
 * `1Ki 7:24` And under its brim around there were buds compassing it, ten in a cubit, compassing the sea around. The buds were cast in two *_rows_* when it was cast.
 * `1Ki 7:42` And four hundred pomegranates for the two net-works, even two *_rows_* of pomegranates for one net-work, to cover the two bowls of the capitals that were upon the pillars;
 * `2Ch 4:3` And under it was the similitude of oxen, which encompassed it, ten in a cubit, encompassing the sea. Two *_rows_* of oxen were cast when it was cast.
