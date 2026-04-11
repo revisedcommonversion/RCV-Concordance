@@ -1474,7 +1474,7 @@ _4 verses containing BEFELL_
 * `1Ki 16:30` And Ahab the son of Omri did evil in the sight of the LORD above all who were *_before_* him.
 * `1Ki 16:33` And Ahab made a grove. And Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel who were *_before_* him.
 * `1Ki 17:1` And Elijah the Tishbite who was of the inhabitants of Gilead said to Ahab, "As the LORD God of Israel lives, *_before_* whom I stand, there shall not be dew nor rain these years, but according to my word."
-* `1Ki 17:3` "Depart from here, turn eastward, and hide yourself by the brook Cherith, which is *_before_* the Jordan.
+* `1Ki 17:3` "Depart from here, turn eastward, and hide yourself by the brook of Cherith, which is *_before_* the Jordan.
 * `1Ki 17:5` So he went and did according to the word of the LORD. For he went and dwelt by the brook Cherith, which is *_before_* the Jordan.
 * `1Ki 18:15` And Elijah said, "As the LORD of hosts lives, *_before_* whom I stand, I will surely show myself to him today."
 * `1Ki 18:46` And the hand of the LORD was on Elijah. And he girded his loins and ran *_before_* Ahab to the entrance of Jezreel.
@@ -2459,12 +2459,12 @@ _4 verses containing BEG_
 * `2Sa 5:4` David was thirty years old when he *_began_* to reign, and he reigned forty years.
 * `1Ki 6:1` And it came to pass in the four hundred and eightieth year after the children of Israel had come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Zif, which is the second month, that he *_began_* to build the house of the LORD.
 * `1Ki 14:21` And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty-one years old when he *_began_* to reign, and he reigned seventeen years in Jerusalem, the city which the LORD chose out of all the tribes of Israel to put his name there. And his mother's name was Naamah, an Ammonitess.
-* `1Ki 15:25` And Nadab the son of Jeroboam *_began_* to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.
-* `1Ki 15:33` In the third year of Asa king of Judah, Baasha the son of Ahijah *_began_* to reign over all Israel in Tirzah twenty-four years.
-* `1Ki 16:8` In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha *_began_* to reign over Israel in Tirzah two years.
-* `1Ki 16:11` And it came to pass, when he *_began_* to reign, as soon as he sat on his throne, that he slew all the house of Baasha. He left him not one male, neither of his kinsman, nor of his friends.
-* `1Ki 16:23` In the thirty-first year of Asa king of Judah, Omri *_began_* to reign over Israel twelve years. He reigned six years in Tirzah.
-* `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri *_began_* to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria twenty-two years.
+* `1Ki 15:25` And Nadab the son of Jeroboam *_began_* to reign over Israel in the second year of Asa king of Judah, and reigned over Israel for two years.
+* `1Ki 15:33` In the third year of Asa king of Judah, Baasha the son of Ahijah *_began_* to reign over all Israel in Tirzah for twenty-four years.
+* `1Ki 16:8` In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha *_began_* to reign over Israel in Tirzah for two years.
+* `1Ki 16:11` And it came to pass when he *_began_* to reign, that as soon as he sat on his throne, he slew all the house of Baasha. He left him not one male, neither of his kinsman nor of his friends.
+* `1Ki 16:23` In the thirty-first year of Asa king of Judah, Omri *_began_* to reign over Israel for twelve years. He reigned six years in Tirzah.
+* `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri *_began_* to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria for twenty-two years.
 * `1Ki 22:41` And Jehoshaphat the son of Asa *_began_* to reign over Judah in the fourth year of Ahab king of Israel.
 * `1Ki 22:42` Jehoshaphat was thirty-five years old when he *_began_* to reign, and he reigned twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
 * `1Ki 22:51` Ahaziah the son of Ahab *_began_* to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
@@ -3710,9 +3710,9 @@ _65 verses containing BEHIND_
 * `1Ki 13:1` And *_behold_*, there came a man of God out of Judah by the word of the LORD to Beth-el. And Jeroboam stood by the altar to burn incense.
 * `1Ki 13:2` And he cried against the altar in the word of the LORD and said, "O altar, altar, thus says the LORD: '*_Behold_*, a child shall be born to the house of David, Josiah by name, and upon you he shall offer the priests of the high places who burn incense upon you, and men's bones shall be burnt upon you.'"
 * `1Ki 13:3` And he gave a sign the same day, saying, "This is the sign which the LORD has spoken: '*_Behold_*, the altar shall be rent and the ashes that are upon it shall be poured out.'"
-* `1Ki 13:25` And *_behold_*, men passed by and saw the carcass cast in the way and the lion standing by the carcass. And they came and told it in the city where the old prophet dwelt.
+* `1Ki 13:25` And *_behold_*, men passed by and saw the carcass cast on the way and the lion standing by the carcass. And they came and told it in the city where the old prophet dwelt.
 * `1Ki 14:2` And Jeroboam said to his wife, "Arise, I pray you, disguise yourself so that you may not be known to be the wife of Jeroboam and go to Shiloh. *_Behold_*, there is Ahijah the prophet who told me that I should be king over this people.
-* `1Ki 14:5` And the LORD said to Ahijah, "*_Behold_*, the wife of Jeroboam comes to ask a thing of you for her son, for he is sick. In this manner you shall speak to her, for it shall be, when she comes in, that she will feign herself to be another woman."
+* `1Ki 14:5` And the LORD said to Ahijah, "*_Behold_*, the wife of Jeroboam comes to ask a thing of you for her son, for he is sick. In this manner you shall speak to her, for it shall be when she comes in, that she will feign herself to be another woman."
 * `1Ki 14:10` Therefore, *_behold_*, I will bring evil upon the house of Jeroboam: I will cut off from Jeroboam the males, both him who is shut up and him who is left at large, in Israel, and will take away the remnant of the house of Jeroboam, as a man takes away dung until it is all gone.
 * `1Ki 14:19` And the rest of the acts of Jeroboam, how he warred and how he reigned, *_behold_*, they are written in the book of the chronicles of the kings of Israel.
 * `1Ki 15:19` "There is a league between you and me and between my father and your father. *_Behold_*, I have sent to you a present of silver and gold. Come and break your league with Baasha king of Israel so that he may depart from me."
@@ -5771,7 +5771,7 @@ _1 verse containing BEMOANING_
 
 * `Gen 19:38` And the younger, she also bore a son and called his name *_Ben_*-ammi. The same is the father of the children of Ammon to this day.
 * `Gen 35:18` And it came to pass as her soul was departing (for she died), that she called his name *_Ben_*-oni, but his father called him Benjamin.
-* `1Ki 15:18` Then Asa took all the silver and the gold that was left in the treasures of the house of the LORD and the treasures of the king's house, and delivered them into the hand of his servants. And king Asa sent them to *_Ben_*-hadad, the son of Tabrimon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,
+* `1Ki 15:18` Then Asa took all the silver and the gold that was left in the treasures of the house of the LORD and the treasures of the king's house and delivered them into the hand of his servants. And king Asa sent them to *_Ben_*-hadad, the son of Tabrimon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,
 * `1Ki 15:20` So *_Ben_*-hadad listened to king Asa and sent the captains of the armies which he had against the cities of Israel and smote Ijon, Dan, Abel-beth-maachah, and all Cinneroth, with all the land of Naphtali.
 * `1Ki 20:1` And *_Ben_*-hadad the king of Syria collected all his army. And there were thirty-two kings with him and horses and chariots. And he went up and besieged Samaria and warred against it.
 * `1Ki 20:2` And he sent messengers to Ahab king of Israel into the city and said to him, "Thus says *_Ben_*-hadad:
@@ -5811,7 +5811,7 @@ _1 verse containing BEN-AMMI_
 
 == BEN-HADAD
 
-* `1Ki 15:18` Then Asa took all the silver and the gold that was left in the treasures of the house of the LORD and the treasures of the king's house, and delivered them into the hand of his servants. And king Asa sent them to *_Ben-hadad_*, the son of Tabrimon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,
+* `1Ki 15:18` Then Asa took all the silver and the gold that was left in the treasures of the house of the LORD and the treasures of the king's house and delivered them into the hand of his servants. And king Asa sent them to *_Ben-hadad_*, the son of Tabrimon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,
 * `1Ki 15:20` So *_Ben-hadad_* listened to king Asa and sent the captains of the armies which he had against the cities of Israel and smote Ijon, Dan, Abel-beth-maachah, and all Cinneroth, with all the land of Naphtali.
 * `1Ki 20:1` And *_Ben-hadad_* the king of Syria collected all his army. And there were thirty-two kings with him and horses and chariots. And he went up and besieged Samaria and warred against it.
 * `1Ki 20:2` And he sent messengers to Ahab king of Israel into the city and said to him, "Thus says *_Ben-hadad_*:

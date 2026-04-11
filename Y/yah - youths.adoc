@@ -182,14 +182,14 @@ _29 verses containing YAHWEH_
 * `1Ki 14:25` And it came to pass in the fifth *_year_* of king Rehoboam, that Shishak king of Egypt came up against Jerusalem.
 * `1Ki 15:1` Now in the eighteenth *_year_* of king Jeroboam the son of Nebat, Abijam reigned over Judah.
 * `1Ki 15:9` And in the twentieth *_year_* of Jeroboam king of Israel, Asa reigned over Judah.
-* `1Ki 15:25` And Nadab the son of Jeroboam began to reign over Israel in the second *_year_* of Asa king of Judah, and reigned over Israel two years.
+* `1Ki 15:25` And Nadab the son of Jeroboam began to reign over Israel in the second *_year_* of Asa king of Judah, and reigned over Israel for two years.
 * `1Ki 15:28` Even in the third *_year_* of Asa king of Judah, Baasha slayed him and reigned in his stead.
-* `1Ki 15:33` In the third *_year_* of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah twenty-four years.
-* `1Ki 16:8` In the twenty-sixth *_year_* of Asa king of Judah, Elah the son of Baasha began to reign over Israel in Tirzah two years.
+* `1Ki 15:33` In the third *_year_* of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah for twenty-four years.
+* `1Ki 16:8` In the twenty-sixth *_year_* of Asa king of Judah, Elah the son of Baasha began to reign over Israel in Tirzah for two years.
 * `1Ki 16:10` And Zimri went in and smote him and killed him in the twenty-seventh *_year_* of Asa king of Judah, and reigned in his stead.
 * `1Ki 16:15` In the twenty-seventh *_year_* of Asa king of Judah, Zimri reigned seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.
-* `1Ki 16:23` In the thirty-first *_year_* of Asa king of Judah, Omri began to reign over Israel twelve years. He reigned six years in Tirzah.
-* `1Ki 16:29` And in the thirty-eighth *_year_* of Asa king of Judah, Ahab the son of Omri began to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria twenty-two years.
+* `1Ki 16:23` In the thirty-first *_year_* of Asa king of Judah, Omri began to reign over Israel for twelve years. He reigned six years in Tirzah.
+* `1Ki 16:29` And in the thirty-eighth *_year_* of Asa king of Judah, Ahab the son of Omri began to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria for twenty-two years.
 * `1Ki 18:1` And it came to pass after many days, that the word of the LORD came to Elijah in the third *_year_*, saying, "Go, show yourself to Ahab, and I will send rain upon the earth."
 * `1Ki 20:22` And the prophet came to the king of Israel and said to him, "Go, strengthen yourself, and mark and see what you do, for at the return of the *_year_* the king of Syria will come up against you."
 * `1Ki 20:26` And it came to pass at the return of the *_year_*, that Ben-hadad numbered the Syrians and went up to Aphek to fight against Israel.
@@ -629,11 +629,11 @@ _1 verse containing YEARNS_
 * `1Ki 14:21` And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty-one *_years_* old when he began to reign, and he reigned seventeen *_years_* in Jerusalem, the city which the LORD chose out of all the tribes of Israel to put his name there. And his mother's name was Naamah, an Ammonitess.
 * `1Ki 15:2` He reigned three *_years_* in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 * `1Ki 15:10` And he reigned forty-one *_years_* in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
-* `1Ki 15:25` And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two *_years_*.
-* `1Ki 15:33` In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah twenty-four *_years_*.
-* `1Ki 16:8` In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha began to reign over Israel in Tirzah two *_years_*.
-* `1Ki 16:23` In the thirty-first year of Asa king of Judah, Omri began to reign over Israel twelve *_years_*. He reigned six *_years_* in Tirzah.
-* `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria twenty-two *_years_*.
+* `1Ki 15:25` And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel for two *_years_*.
+* `1Ki 15:33` In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah for twenty-four *_years_*.
+* `1Ki 16:8` In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha began to reign over Israel in Tirzah for two *_years_*.
+* `1Ki 16:23` In the thirty-first year of Asa king of Judah, Omri began to reign over Israel for twelve *_years_*. He reigned six *_years_* in Tirzah.
+* `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel. And Ahab the son of Omri reigned over Israel in Samaria for twenty-two *_years_*.
 * `1Ki 17:1` And Elijah the Tishbite who was of the inhabitants of Gilead said to Ahab, "As the LORD God of Israel lives, before whom I stand, there shall not be dew nor rain these *_years_*, but according to my word."
 * `1Ki 22:1` And they continued three *_years_* without war between Syria and Israel.
 * `1Ki 22:42` Jehoshaphat was thirty-five *_years_* old when he began to reign, and he reigned twenty-five *_years_* in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
@@ -1466,7 +1466,7 @@ _32 verses containing YOUNGER_
 * `Jdg 9:5` And he went to his father's house at Ophrah and slew his brothers the sons of Jerubbaal, being seventy persons, upon one stone. But Jotham the *_youngest_* son of Jerubbaal was left, for he hid himself.
 * `1Sa 16:11` And Samuel said to Jesse, "Are all your children here?" And he said, "There still remains the *_youngest_*, and behold, he keeps the sheep." And Samuel said to Jesse, "Send and bring him, for we will not sit down until he has come here."
 * `1Sa 17:14` And David was the *_youngest_*. And the three eldest followed Saul,
-* `1Ki 16:34` In his days Hiel the Beth-elite built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his *_youngest_* son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
+* `1Ki 16:34` In his days, Hiel of Beth-el built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his *_youngest_* son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
 * `2Ch 21:17` And they came up into Judah, broke into it, and carried away all the substance that was found in the king's house, and also his sons and his wives, so that there was not a son left to him, except Jehoahaz the *_youngest_* of his sons.
 * `2Ch 22:1` And the inhabitants of Jerusalem made Ahaziah his *_youngest_* son king in his stead, for the band of men who came with the Arabians to the camp had slain all the eldest. Thus Ahaziah the son of Jehoram king of Judah reigned.
 * `Psa 68:27` There is the *_youngest_*, Benjamin, with their ruler, the princes of Judah and their counsel, the princes of Zebulun, and the princes of Naphtali.
@@ -1623,10 +1623,10 @@ _64 verses containing YOURS_
 * `1Ki 11:31` And he said to Jeroboam, "Take for *_yourself_* ten pieces, for thus says the LORD, the God of Israel: 'Behold, I will rend the kingdom from the hand of Solomon and will give ten tribes to you
 * `1Ki 13:7` And the king said to the man of God, "Come home with me and refresh *_yourself_*, and I will give you a reward."
 * `1Ki 14:2` And Jeroboam said to his wife, "Arise, I pray you, disguise *_yourself_* so that you may not be known to be the wife of Jeroboam and go to Shiloh. Behold, there is Ahijah the prophet who told me that I should be king over this people.
-* `1Ki 14:6` And it was so, when Ahijah heard the sound of her feet as she came in at the door, that he said, "Come in, wife of Jeroboam. Why do you feign *_yourself_* to be another? For I am sent to you with heavy tidings.
+* `1Ki 14:6` And it came to pass when Ahijah heard the sound of her feet as she came in at the door, that he said, "Come in, wife of Jeroboam. Why do you feign *_yourself_* to be another? For I am sent to you with heavy tidings.
 * `1Ki 14:9` But you have done evil above all who were before you, for you have gone and made *_yourself_* other gods and molten images to provoke me to anger, and have cast me behind your back,
-* `1Ki 17:3` "Depart from here, turn eastward, and hide *_yourself_* by the brook Cherith, which is before the Jordan.
-* `1Ki 17:13` And Elijah said to her, "Do not fear. Go and do as you have said. But make me a little cake of it first and bring it to me, and afterward make some for *_yourself_* and for your son.
+* `1Ki 17:3` "Depart from here, turn eastward, and hide *_yourself_* by the brook of Cherith, which is before the Jordan.
+* `1Ki 17:13` And Elijah said to her, "Do not fear. Go and do as you have said. But make me a little cake of it first and bring it to me, and afterward, make some for *_yourself_* and for your son.
 * `1Ki 18:1` And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, "Go, show *_yourself_* to Ahab, and I will send rain upon the earth."
 * `1Ki 20:22` And the prophet came to the king of Israel and said to him, "Go, strengthen *_yourself_*, and mark and see what you do, for at the return of the year the king of Syria will come up against you."
 * `1Ki 20:34` And Ben-hadad said to him, "The cities which my father took from your father I will restore, and you shall make streets for *_yourself_* in Damascus, as my father made in Samaria." Then Ahab said, "I will send you away with this covenant." So he made a covenant with him and sent him away.
@@ -2051,7 +2051,7 @@ _228 verses containing YOURSELVES_
 * `1Sa 17:42` And when the Philistine looked around and saw David, he disdained him, for he was a *_youth_*, ruddy, and of a fair countenance.
 * `1Sa 17:55` And when Saul saw David go forth against the Philistine, he said to Abner the captain of the host, "Abner, whose son is this *_youth_*?" And Abner said, "As your soul lives, O king, I cannot tell."
 * `2Sa 19:7` Now therefore, arise, go forth, and speak comfortably to your servants, for I swear by the LORD, if you shall not go forth, no one will remain with you this night. And that will be worse to you than all the evil that has befallen you from your *_youth_* until now."
-* `1Ki 18:12` And it will come to pass, as soon as I have gone from you, that the Spirit of the LORD will carry you where I do not know. And so when I come and tell Ahab, and he cannot find you, he will slay me. But I, your servant, fear the LORD from my *_youth_*.
+* `1Ki 18:12` And it will come to pass as soon as I have gone from you, that the Spirit of the LORD will carry you where I do not know. And so when I come and tell Ahab, and he cannot find you, he will slay me. But I, your servant, fear the LORD from my *_youth_*.
 * `Job 13:26` For you write bitter things against me and make me to possess the iniquities of my *_youth_*.
 * `Job 20:11` His bones are full of the sin of his *_youth_*, which shall lie down with him in the dust.
 * `Job 29:4` As I was in the days of my *_youth_*; when the secret of God was upon my tabernacle;

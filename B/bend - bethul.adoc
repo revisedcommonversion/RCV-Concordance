@@ -578,7 +578,7 @@ _1 verse containing BESETS_
 * `1Ki 3:20` And she arose at midnight and took my son from *_beside_* me while your servant slept. She laid it in her bosom and laid her dead child in my bosom.
 * `1Ki 9:26` And king Solomon made a navy of ships in Ezion-geber, which is *_beside_* Eloth, on the shore of the Red Sea in the land of Edom.
 * `1Ki 10:19` The throne had six steps, and the top of the throne was round and behind it. And there were stays on either side on the place of the seat, and two lions stood *_beside_* the stays.
-* `1Ki 13:31` And it came to pass, after he had buried him, that he spoke to his sons, saying, "When I am dead, bury me in the sepulcher in which the man of God is buried. Lay my bones *_beside_* his bones.
+* `1Ki 13:31` And it came to pass after he had buried him, that he spoke to his sons, saying, "When I am dead, bury me in the sepulcher in which the man of God is buried. Lay my bones *_beside_* his bones.
 * `2Ki 12:9` But Jehoiada the priest took a chest, bored a hole in its lid, and set it *_beside_* the altar, on the right side as one comes into the house of the LORD. And the priests who kept the door put in it all the money that was brought into the house of the LORD.
 * `2Ch 26:19` Then Uzziah was angry and had a censer in his hand to burn incense. And while he was angry with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from *_beside_* the incense altar.
 * `Neh 8:4` And Ezra the scribe stood upon a pulpit of wood, which they had made for this purpose. And *_beside_* him stood Mattithiah, Shema, Anaiah, Urijah, Hilkiah, and Maaseiah on his right hand, and on his left hand, Pedaiah, Mishael, Malchiah, Hashum, Hashbadana, Zechariah, and Meshullam.
@@ -964,7 +964,7 @@ _1 verse containing BETEN_
 * `1Ki 13:11` Now there dwelt an old prophet in *_Beth_*-el. And his sons came and told him all the works that the man of God had done that day in *_Beth_*-el. The words which he had spoken to the king, they also told them to their father.
 * `1Ki 13:32` For the saying which he cried by the word of the LORD against the altar in *_Beth_*-el and against all the houses of the high places which are in the cities of Samaria shall surely come to pass."
 * `1Ki 15:20` So Ben-hadad listened to king Asa and sent the captains of the armies which he had against the cities of Israel and smote Ijon, Dan, Abel-*_beth_*-maachah, and all Cinneroth, with all the land of Naphtali.
-* `1Ki 16:34` In his days Hiel the *_Beth_*-elite built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his youngest son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
+* `1Ki 16:34` In his days, Hiel of *_Beth_*-el built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his youngest son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
 * `2Ki 2:2` And Elijah said to Elisha, "Stay here, I pray you, for the LORD has sent me to *_Beth_*-el." And Elisha said, "As the LORD lives and as your soul lives, I will not leave you." So they went down to *_Beth_*-el.
 * `2Ki 2:3` And the sons of the prophets who were at *_Beth_*-el came forth to Elisha and said to him, "Do you know that the LORD will take away your master from your head today?" And he said, "Yes, I know it. Hold your peace."
 * `2Ki 2:23` And he went up from there to *_Beth_*-el. And as he was going up by the way, little children came forth out of the city and mocked him and said to him, "Go up, you bald-head. Go up, you bald-head."
@@ -1161,6 +1161,7 @@ _1 verse containing BETH-DIBLATHAIM_
 * `1Ki 13:10` So he went another way and did not return by the way that he came to *_Beth-el_*.
 * `1Ki 13:11` Now there dwelt an old prophet in *_Beth-el_*. And his sons came and told him all the works that the man of God had done that day in *_Beth-el_*. The words which he had spoken to the king, they also told them to their father.
 * `1Ki 13:32` For the saying which he cried by the word of the LORD against the altar in *_Beth-el_* and against all the houses of the high places which are in the cities of Samaria shall surely come to pass."
+* `1Ki 16:34` In his days, Hiel of *_Beth-el_* built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his youngest son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
 * `2Ki 2:2` And Elijah said to Elisha, "Stay here, I pray you, for the LORD has sent me to *_Beth-el_*." And Elisha said, "As the LORD lives and as your soul lives, I will not leave you." So they went down to *_Beth-el_*.
 * `2Ki 2:3` And the sons of the prophets who were at *_Beth-el_* came forth to Elisha and said to him, "Do you know that the LORD will take away your master from your head today?" And he said, "Yes, I know it. Hold your peace."
 * `2Ki 2:23` And he went up from there to *_Beth-el_*. And as he was going up by the way, little children came forth out of the city and mocked him and said to him, "Go up, you bald-head. Go up, you bald-head."
@@ -1186,13 +1187,7 @@ _1 verse containing BETH-DIBLATHAIM_
 * `Amo 7:13` But do not prophesy again anymore at *_Beth-el_*, for it is the king's chapel and it is the king's court."
 * `Zch 7:2` When those of *_Beth-el_* had sent Sherezer, Regem-melech, and their men to pray before the LORD,
 
-_61 verses containing BETH-EL_
-
-== BETH-ELITE
-
-* `1Ki 16:34` In his days Hiel the *_Beth-elite_* built Jericho. He laid its foundation with the loss of Abiram his first-born and set up its gates with the loss of his youngest son Segub, according to the word of the LORD which he spoke by Joshua the son of Nun.
-
-_1 verse containing BETH-ELITE_
+_62 verses containing BETH-EL_
 
 == BETH-EMEK
 

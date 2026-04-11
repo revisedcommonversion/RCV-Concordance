@@ -307,7 +307,7 @@ _21 verses containing PROPHECY_
 * `1Sa 19:21` And when it was told to Saul, he sent other messengers, and they *_prophesied_* likewise. And Saul sent messengers again the third time, and they *_prophesied_* also.
 * `1Sa 19:23` And he went there to Naioth in Ramah. And the Spirit of God was upon him also, and he went on and *_prophesied_* until he came to Naioth in Ramah.
 * `1Sa 19:24` And he stripped off his clothes also and *_prophesied_* before Samuel in like manner, and lay down naked all that day and all that night. Therefore, they say, "Is Saul also among the prophets?"
-* `1Ki 18:29` And it came to pass, when mid-day was past and they *_prophesied_* until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any who regarded.
+* `1Ki 18:29` And it came to pass when mid-day was past and they *_prophesied_* until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any who regarded.
 * `1Ki 22:10` And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria. And all the prophets *_prophesied_* before them.
 * `1Ki 22:12` And all the prophets similarly *_prophesied_*, saying, "Go up to Ramoth-gilead and prosper, for the LORD will deliver it into the king's hand."
 * `1Ch 25:2` Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph who *_prophesied_* according to the order of the king.
@@ -491,10 +491,10 @@ _1 verse containing PROPHESYINGS_
 * `1Ki 11:29` And it came to pass at that time when Jeroboam went out of Jerusalem, that the *_prophet_* Ahijah the Shilonite found him on the way. And he had clad himself with a new garment, and the two of them were alone in the field.
 * `1Ki 13:11` Now there dwelt an old *_prophet_* in Beth-el. And his sons came and told him all the works that the man of God had done that day in Beth-el. The words which he had spoken to the king, they also told them to their father.
 * `1Ki 13:18` He said to him, "I am also a *_prophet_* as you are, and an angel spoke to me by the word of the LORD, saying, 'Bring him back with you into your house so that he may eat bread and drink water.'" But he lied to him.
-* `1Ki 13:20` And it came to pass, as they sat at the table, that the word of the LORD came to the *_prophet_* who brought him back.
-* `1Ki 13:23` And it came to pass, after he had eaten bread and after he had drank, that he saddled the donkey for him, namely, for the *_prophet_* whom he had brought back.
-* `1Ki 13:25` And behold, men passed by and saw the carcass cast in the way and the lion standing by the carcass. And they came and told it in the city where the old *_prophet_* dwelt.
-* `1Ki 13:26` And when the *_prophet_* who brought him back from the way heard of it, he said, "It is the man of God who was disobedient to the word of the LORD. Therefore, the LORD has delivered him to the lion which has torn him and slain him, according to the word of the LORD which he spoke to him."
+* `1Ki 13:20` And it came to pass as they sat at the table, that the word of the LORD came to the *_prophet_* who brought him back.
+* `1Ki 13:23` And it came to pass after he had eaten bread and after he had drank, that he saddled the donkey for him, namely, for the *_prophet_* whom he had brought back.
+* `1Ki 13:25` And behold, men passed by and saw the carcass cast on the way and the lion standing by the carcass. And they came and told it in the city where the old *_prophet_* dwelt.
+* `1Ki 13:26` And when the *_prophet_* who brought him back from the way heard about it, he said, "It is the man of God who was disobedient to the word of the LORD. Therefore, the LORD has delivered him to the lion which has torn him and slain him, according to the word of the LORD which he spoke to him."
 * `1Ki 13:29` And the *_prophet_* took up the carcass of the man of God, laid it upon the donkey, and brought it back. And the old *_prophet_* came to the city to mourn and bury him.
 * `1Ki 14:2` And Jeroboam said to his wife, "Arise, I pray you, disguise yourself so that you may not be known to be the wife of Jeroboam and go to Shiloh. Behold, there is Ahijah the *_prophet_* who told me that I should be king over this people.
 * `1Ki 14:18` And they buried him, and all Israel mourned for him, according to the word of the LORD which he spoke by the hand of his servant Ahijah the *_prophet_*.
@@ -715,7 +715,7 @@ _8 verses containing PROPHETESS_
 * `1Sa 19:24` And he stripped off his clothes also and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Therefore, they say, "Is Saul also among the *_prophets_*?"
 * `1Sa 28:6` And when Saul inquired of the LORD, the LORD did not answer him, neither by dreams, nor by Urim, nor by *_prophets_*.
 * `1Sa 28:15` And Samuel said to Saul, "Why have you disquieted me to bring me up?" And Saul answered, "I am grievously distressed, for the Philistines make war against me, and God has departed from me and no longer answers me, neither by *_prophets_*, nor by dreams. Therefore, I have called you so that you may make known to me what I shall do."
-* `1Ki 18:4` For it was so, when Jezebel cut off the *_prophets_* of the LORD, that Obadiah took one hundred *_prophets_* and hid them by fifties in a cave and fed them with bread and water.)
+* `1Ki 18:4` And it came to pass when Jezebel cut off the *_prophets_* of the LORD, that Obadiah took one hundred *_prophets_* and hid them by fifties in a cave and fed them with bread and water.)
 * `1Ki 18:13` Was it not told to my lord what I did when Jezebel slew the *_prophets_* of the LORD, how I hid one hundred men of the LORD'S *_prophets_* by fifties in a cave and fed them with bread and water?
 * `1Ki 18:19` Now therefore, send and gather to me all Israel at mount Carmel, along with the four hundred and fifty *_prophets_* of Baal and the four hundred *_prophets_* of the groves who eat at Jezebel's table."
 * `1Ki 18:20` So Ahab sent to all the children of Israel and gathered the *_prophets_* at mount Carmel.
@@ -1622,9 +1622,9 @@ _3 verses containing PROVOKES_
 == PROVOKING
 
 * `Deu 32:19` "And when the LORD saw it, he abhorred them, because of the *_provoking_* of his sons and of his daughters.
-* `1Ki 14:15` "For the LORD will smite Israel as a reed is shaken in the water, and he will root up Israel out of this good land which he gave to their fathers and scatter them beyond the river because they have made their groves, *_provoking_* the LORD to anger.
+* `1Ki 14:15` "For the LORD will smite Israel like a reed is shaken in the water, and he will root up Israel out of this good land which he gave to their fathers and scatter them beyond the river because they have made their groves, *_provoking_* the LORD to anger.
 * `1Ki 16:7` And also by the hand of the prophet Jehu the son of Hanani the word of the LORD came against Baasha and against his house, even for all the evil that he did in the sight of the LORD in *_provoking_* him to anger with the work of his hands, in being like the house of Jeroboam, and because he killed him.
-* `1Ki 16:13` For all the sins of Baasha and the sins of Elah his son by which they sinned and by which they made Israel to sin, in *_provoking_* the LORD God of Israel to anger with their vanities.
+* `1Ki 16:13` Because of all the sins of Baasha and the sins of Elah his son by which they sinned and by which they made Israel to sin, in *_provoking_* the LORD God of Israel to anger with their vanities.
 * `Psa 78:17` Yet they still went on to sin against him by *_provoking_* the Most High in the wilderness.
 * `Gal 5:26` Let us not be desirous of vain-glory, *_provoking_* one another, envying one another.
 
