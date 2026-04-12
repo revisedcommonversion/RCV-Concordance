@@ -1325,7 +1325,7 @@ _6 verses containing SAVORY_
 * `1Ki 18:17` And it came to pass when Ahab *_saw_* Elijah, that Ahab said to him, "Are you he who troubles Israel?"
 * `1Ki 18:39` And when all the people *_saw_* it, they fell on their faces. And they said, "The LORD, he is the God. The LORD, he is the God."
 * `1Ki 19:3` And when he *_saw_* that, he arose and went for his life and came to Beer-sheba, which belongs to Judah, and left his servant there.
-* `1Ki 22:17` And he said, "I *_saw_* all Israel scattered upon the hills, as sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
+* `1Ki 22:17` And he said, "I *_saw_* all Israel scattered upon the hills like sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
 * `1Ki 22:19` And he said, "Hear therefore the word of the LORD. I *_saw_* the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
 * `1Ki 22:32` And it came to pass, when the captains of the chariots *_saw_* Jehoshaphat, that they said, "Surely it is the king of Israel." And they turned aside to fight against him. And Jehoshaphat cried out.
 * `2Ki 2:12` And Elisha *_saw_* it and he cried, "My father, my father, the chariot of Israel and the horsemen thereof." And he *_saw_* him no more. And he took hold of his own clothes and rent them in two pieces.
@@ -3264,7 +3264,7 @@ _1010 verses containing SAY_
 * `1Ki 21:14` Then they sent to Jezebel, *_saying_*, "Naboth has been stoned and is dead."
 * `1Ki 21:17` And the word of the LORD came to Elijah the Tishbite, *_saying_*,
 * `1Ki 21:19` And you shall speak to him, *_saying_*, 'Thus says the LORD: "Have you killed and also taken possession?"' And you shall speak to him, *_saying_*, 'Thus says the LORD: "In the place where dogs licked the blood of Naboth, dogs shall lick your blood, even yours."'"
-* `1Ki 21:23` And the LORD also spoke of Jezebel, *_saying_*, 'The dogs shall eat Jezebel by the wall of Jezreel.'
+* `1Ki 21:23` And the LORD also spoke about Jezebel, *_saying_*, 'The dogs shall eat Jezebel by the wall of Jezreel.'
 * `1Ki 21:28` And the word of the LORD came to Elijah the Tishbite, *_saying_*,
 * `1Ki 22:12` And all the prophets similarly prophesied, *_saying_*, "Go up to Ramoth-gilead and prosper, for the LORD will deliver it into the king's hand."
 * `1Ki 22:13` And the messenger who went to call Micaiah, spoke to him, *_saying_*, "Behold now, the words of the prophets declare good to the king with one mouth. Let your word, I pray you, be like the word of one of them and speak that which is good."
@@ -5624,7 +5624,7 @@ _36 verses containing SCATTER_
 * `1Sa 13:11` And Samuel said, "What have you done?" And Saul said, "Because I saw that the people were *_scattered_* from me and that you did not come within the days appointed and that the Philistines assembled at Michmash,
 * `2Sa 18:8` For the battle there was *_scattered_* over the face of all the country, and the forest devoured more people that day than the sword devoured.
 * `2Sa 22:15` And he sent out arrows and *_scattered_* them, lightning, and completely defeated them.
-* `1Ki 22:17` And he said, "I saw all Israel *_scattered_* upon the hills, as sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
+* `1Ki 22:17` And he said, "I saw all Israel *_scattered_* upon the hills like sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
 * `2Ki 25:5` And the army of the Chaldeans pursued the king and overtook him in the plains of Jericho, and all his army was *_scattered_* from him.
 * `2Ch 18:16` Then he said, "I saw all Israel *_scattered_* upon the mountains as sheep that have no shepherd. And the LORD said, 'These have no master. Let them each return therefore to his house in peace.'"
 * `2Ch 34:4` And they broke down the altars of Baalim in his presence, and he cut down the images that were on high above them. And the groves, the carved images, and the molten images he broke in pieces and made dust of them and *_scattered_* it upon the graves of those who had sacrificed to them.

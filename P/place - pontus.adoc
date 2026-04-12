@@ -2025,7 +2025,7 @@ _1 verse containing PLOWERS_
 == PLOWING
 
 * `Exo 34:21` "Six days you shall work, but on the seventh day you shall rest. In time of *_plowing_* and in harvest you shall rest.
-* `1Ki 19:19` So he departed from there and found Elisha the son of Shaphat, who was *_plowing_* with twelve yoke of oxen before him, and he with the twelfth. And Elijah passed by him and cast his mantle upon him.
+* `1Ki 19:19` So he departed from there and found Elisha the son of Shaphat, who was *_plowing_* with twelve yoke of oxen before him, and he was with the twelfth. And Elijah passed by him and cast his mantle upon him.
 * `Job 1:14` And a messenger to Job came and said, "The oxen were *_plowing_* and the donkeys feeding beside them,
 * `Luk 17:7` "But which of you, having a servant *_plowing_* or feeding sheep, will say to him immediately when he has come from the field, 'Go and sit down to eat'?
 

@@ -302,8 +302,8 @@ _1 verse containing REI_
 * `1Ki 16:23` In the thirty-first year of Asa king of Judah, Omri began to *_reign_* over Israel for twelve years. He reigned six years in Tirzah.
 * `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to *_reign_* over Israel. And Ahab the son of Omri reigned over Israel in Samaria for twenty-two years.
 * `1Ki 22:41` And Jehoshaphat the son of Asa began to *_reign_* over Judah in the fourth year of Ahab king of Israel.
-* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to *_reign_*, and he reigned twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
-* `1Ki 22:51` Ahaziah the son of Ahab began to *_reign_* over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
+* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to *_reign_*, and he reigned for twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
+* `1Ki 22:51` Ahaziah the son of Ahab began to *_reign_* over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned for two years over Israel.
 * `2Ki 3:1` Now Jehoram the son of Ahab began to *_reign_* over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah and reigned twelve years.
 * `2Ki 3:27` Then he took his eldest son who was to *_reign_* in his stead and offered him for a burnt-offering upon the wall. And there was great indignation against Israel. And they departed from him and returned to their own land.
 * `2Ki 8:16` And in the fifth year of Joram the son of Ahab king of Israel (Jehoshaphat being then king of Judah), Jehoram the son of Jehoshaphat king of Judah began to *_reign_*.
@@ -482,9 +482,9 @@ _158 verses containing REIGN_
 * `1Ki 16:28` So Omri slept with his fathers and was buried in Samaria. And Ahab his son *_reigned_* in his stead.
 * `1Ki 16:29` And in the thirty-eighth year of Asa king of Judah, Ahab the son of Omri began to reign over Israel. And Ahab the son of Omri *_reigned_* over Israel in Samaria for twenty-two years.
 * `1Ki 22:40` So Ahab slept with his fathers, and Ahaziah his son *_reigned_* in his stead.
-* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to reign, and he *_reigned_* twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
+* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to reign, and he *_reigned_* for twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
 * `1Ki 22:50` And Jehoshaphat slept with his fathers and was buried with his fathers in the city of David his father. And Jehoram his son *_reigned_* in his stead.
-* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and *_reigned_* two years over Israel.
+* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he *_reigned_* for two years over Israel.
 * `2Ki 1:17` So he died according to the word of the LORD which Elijah had spoken. And Jehoram *_reigned_* in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah, because he had no son.
 * `2Ki 3:1` Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah and *_reigned_* twelve years.
 * `2Ki 8:15` And it came to pass on the next day, that he took a thick cloth, dipped it in water, and spread it on his face so that he died. And Hazael *_reigned_* in his stead.
@@ -2135,7 +2135,7 @@ _4 verses containing RENOWNED_
 * `1Ki 13:5` The altar also was *_rent_* and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD.
 * `1Ki 14:8` And *_rent_* the kingdom away from the house of David and gave it to you, and yet you have not been as my servant David, who kept my commandments and who followed me with all his heart to do that only which was right in my eyes,
 * `1Ki 19:11` And he said, "Go forth and stand upon the mountain before the LORD." And behold, the LORD passed by, and a great and strong wind *_rent_* the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake.
-* `1Ki 21:27` And it came to pass, when Ahab heard those words, that he *_rent_* his clothes, put sackcloth upon his flesh, fasted, and lay in sackcloth, and went softly.
+* `1Ki 21:27` And it came to pass when Ahab heard those words, that he *_rent_* his clothes, put sackcloth upon his flesh, and fasted. And he lay in sackcloth and went softly.
 * `2Ki 2:12` And Elisha saw it and he cried, "My father, my father, the chariot of Israel and the horsemen thereof." And he saw him no more. And he took hold of his own clothes and *_rent_* them in two pieces.
 * `2Ki 5:7` And it came to pass, when the king of Israel had read the letter, that he *_rent_* his clothes and said, "Am I God, to kill and to make alive, that this man sends to me to recover a man of his leprosy? Therefore, consider, I pray you, and see how he seeks a quarrel against me."
 * `2Ki 5:8` And it was so, when Elisha the man of God had heard that the king of Israel had *_rent_* his clothes, that he sent to the king, saying, "Why have you *_rent_* your clothes? I pray you, let him come to me and he shall know that there is a prophet in Israel."

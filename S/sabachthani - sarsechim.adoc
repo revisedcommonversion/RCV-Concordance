@@ -263,7 +263,7 @@ _4 verses containing SACKBUT_
 * `2Sa 21:10` And Rizpah the daughter of Aiah took *_sackcloth_* and spread it for herself upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and allowed neither the birds of the air to rest on them by day nor the beasts of the field by night.
 * `1Ki 20:31` And his servants said to him, "Behold now, we have heard that the kings of the house of Israel are merciful kings. Let us, I pray you, put *_sackcloth_* on our loins and ropes upon our heads and go out to the king of Israel. It may be that he will save your life."
 * `1Ki 20:32` So they girded *_sackcloth_* on their loins, put ropes on their heads, and came to the king of Israel, and said, "Your servant Ben-hadad says, 'I pray you, let me live.'" And he said, "Is he still alive? He is my brother."
-* `1Ki 21:27` And it came to pass, when Ahab heard those words, that he rent his clothes, put *_sackcloth_* upon his flesh, fasted, and lay in *_sackcloth_*, and went softly.
+* `1Ki 21:27` And it came to pass when Ahab heard those words, that he rent his clothes, put *_sackcloth_* upon his flesh, and fasted. And he lay in *_sackcloth_* and went softly.
 * `2Ki 6:30` And it came to pass, when the king heard the words of the woman, that he rent his clothes. And he passed by upon the wall, and the people looked, and behold, he had *_sackcloth_* within upon his flesh.
 * `2Ki 19:1` And it came to pass, when king Hezekiah heard it, that he rent his clothes, covered himself with *_sackcloth_*, and went into the house of the LORD.
 * `2Ki 19:2` And he sent Eliakim who was over the household, Shebna the scribe, and the elders of the priests, covered with *_sackcloth_*, to Isaiah the prophet the son of Amoz.
@@ -2525,7 +2525,7 @@ _1 verse containing SAFFRON_
 * `1Ki 19:9` And he came to a cave there and lodged there. And behold, the word of the LORD came to him, and he *_said_* to him, "What are you doing here, Elijah?"
 * `1Ki 19:10` And he *_said_*, "I have been very jealous for the LORD God of hosts, for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword. And I, only I, am left. And they seek my life to take it away."
 * `1Ki 19:11` And he *_said_*, "Go forth and stand upon the mountain before the LORD." And behold, the LORD passed by, and a great and strong wind rent the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake.
-* `1Ki 19:13` And it was so, when Elijah heard it, that he wrapped his face in his mantle, went out, and stood in the entrance of the cave. And behold, there came a voice to him and *_said_*, "What are you doing here, Elijah?"
+* `1Ki 19:13` And it came to pass when Elijah heard it, that he wrapped his face in his mantle, went out, and stood in the entrance of the cave. And behold, there came a voice to him and *_said_*, "What are you doing here, Elijah?"
 * `1Ki 19:14` And he *_said_*, "I have been very jealous for the LORD God of hosts because the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword. And I, only I, am left. And they seek my life to take it away."
 * `1Ki 19:15` And the LORD *_said_* to him, "Go, return on your way to the wilderness of Damascus. And when you come, anoint Hazael to be king over Syria.
 * `1Ki 19:20` And he left the oxen and ran after Elijah and *_said_*, "Let me, I pray you, kiss my father and my mother and then I will follow you." And he *_said_* to him, "Go back again. For what have I done to you?"
@@ -2533,11 +2533,11 @@ _1 verse containing SAFFRON_
 * `1Ki 20:4` And the king of Israel answered and *_said_*, "My lord, O king, according to your saying, I and all that I have are yours."
 * `1Ki 20:5` And the messengers came again and *_said_*, "Thus speaks Ben-hadad, saying, 'Although I have sent to you, saying, "You shall deliver to me your silver, your gold, your wives, and your children,"
 * `1Ki 20:7` Then the king of Israel called all the elders of the land and *_said_*, "Mark, I pray you, and see how this man seeks mischief, for he sent to me for my wives, for my children, for my silver, and for my gold, and I did not deny him."
-* `1Ki 20:8` And all the elders and all the people *_said_* to him, "Do not listen to him, nor consent."
+* `1Ki 20:8` And all the elders and all the people *_said_* to him, "Do not listen to him nor consent."
 * `1Ki 20:9` Therefore, he *_said_* to the messengers of Ben-hadad, "Tell my lord the king, 'All that you sent for to your servant at the first, I will do, but this thing I may not do.'" And the messengers departed and brought him word again.
 * `1Ki 20:10` And Ben-hadad sent to him and *_said_*, "May the gods do so to me and more also, if the dust of Samaria shall suffice for handfuls for all the people who follow me."
 * `1Ki 20:11` And the king of Israel answered and *_said_*, "Tell him, 'Do not let him who girds on his harness boast himself as he who takes it off.'"
-* `1Ki 20:12` And it came to pass, when Ben-hadad heard this message as he was drinking—he and the kings in the pavilions—that he *_said_* to his servants, "Set yourselves in array." And they set themselves in array against the city.
+* `1Ki 20:12` And it came to pass when Ben-hadad heard this message as he was drinking—he and the kings in the pavilions—that he *_said_* to his servants, "Set yourselves in array." And they set themselves in array against the city.
 * `1Ki 20:14` And Ahab *_said_*, "By whom?" And he *_said_*, "Thus says the LORD: 'Even by the young men of the princes of the provinces.'" Then he *_said_*, "Who shall order the battle?" And he answered, "You."
 * `1Ki 20:18` And he *_said_*, "If they have come out for peace, take them alive, or if they have come out for war, take them alive."
 * `1Ki 20:22` And the prophet came to the king of Israel and *_said_* to him, "Go, strengthen yourself, and mark and see what you do, for at the return of the year the king of Syria will come up against you."
@@ -2558,7 +2558,7 @@ _1 verse containing SAFFRON_
 * `1Ki 21:5` But Jezebel his wife came to him and *_said_* to him, "Why is your spirit so sad that you eat no bread?"
 * `1Ki 21:6` And he *_said_* to her, "Because I spoke to Naboth the Jezreelite and *_said_* to him, 'Give me your vineyard for money, or else, if it pleases you, I will give you another vineyard for it.' And he answered, 'I will not give you my vineyard.'"
 * `1Ki 21:7` And Jezebel his wife *_said_* to him, "Do you now govern the kingdom of Israel? Arise, eat bread, and let your heart be merry. I will give you the vineyard of Naboth the Jezreelite."
-* `1Ki 21:15` And it came to pass, when Jezebel heard that Naboth had been stoned and was dead, that Jezebel *_said_* to Ahab, "Arise, take possession of the vineyard of Naboth the Jezreelite which he refused to give you for money, for Naboth is not alive, but dead."
+* `1Ki 21:15` And it came to pass when Jezebel heard that Naboth had been stoned and was dead, that Jezebel *_said_* to Ahab, "Arise, take possession of the vineyard of Naboth the Jezreelite which he refused to give you for money, for Naboth is not alive, but dead."
 * `1Ki 21:20` And Ahab *_said_* to Elijah, "Have you found me, O my enemy?" And he answered, "I have found you because you have sold yourself to work evil in the sight of the LORD.
 * `1Ki 22:3` And the king of Israel *_said_* to his servants, "Do you know that Ramoth in Gilead is ours, and we are still and do not take it out of the hand of the king of Syria?"
 * `1Ki 22:4` And he *_said_* to Jehoshaphat, "Will you go with me to battle at Ramoth-gilead?" And Jehoshaphat *_said_* to the king of Israel, "I am as you are, my people as your people, my horses as your horses."
@@ -2571,7 +2571,7 @@ _1 verse containing SAFFRON_
 * `1Ki 22:14` And Micaiah *_said_*, "As the LORD lives, what the LORD says to me, that I will speak."
 * `1Ki 22:15` So he came to the king. And the king *_said_* to him, "Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear?" And he answered him, "Go and prosper, for the LORD will deliver it into the hand of the king."
 * `1Ki 22:16` And the king *_said_* to him, "How many times shall I adjure you that you tell me nothing but that which is true in the name of the LORD?"
-* `1Ki 22:17` And he *_said_*, "I saw all Israel scattered upon the hills, as sheep that do not have a shepherd. And the LORD *_said_*, 'These have no master. Let them each return to his house in peace.'"
+* `1Ki 22:17` And he *_said_*, "I saw all Israel scattered upon the hills like sheep that do not have a shepherd. And the LORD *_said_*, 'These have no master. Let them each return to his house in peace.'"
 * `1Ki 22:18` And the king of Israel *_said_* to Jehoshaphat, "Did I not tell you that he would prophesy no good concerning me, but evil?"
 * `1Ki 22:19` And he *_said_*, "Hear therefore the word of the LORD. I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
 * `1Ki 22:20` And the LORD *_said_*, 'Who shall persuade Ahab that he may go up and fall at Ramoth-gilead?' And one *_said_* in this manner and another *_said_* in that manner.
@@ -5215,7 +5215,7 @@ _158 verses containing SALVATION_
 * `1Ki 22:10` And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of *_Samaria_*. And all the prophets prophesied before them.
 * `1Ki 22:37` So the king died and was brought to *_Samaria_*, and they buried the king in *_Samaria_*.
 * `1Ki 22:38` And someone washed the chariot in the pool of *_Samaria_*, and the dogs licked up his blood, and they washed his armor, according to the word of the LORD which he spoke.
-* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in *_Samaria_* the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
+* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in *_Samaria_* in the seventeenth year of Jehoshaphat king of Judah, and he reigned for two years over Israel.
 * `2Ki 1:2` And Ahaziah fell down through a lattice in his upper chamber that was in *_Samaria_* and was sick. And he sent messengers and said to them, "Go, inquire of Baal-zebub the god of Ekron to see if I shall recover from this disease."
 * `2Ki 1:3` But the angel of the LORD said to Elijah the Tishbite, "Arise, go up to meet the messengers of the king of *_Samaria_* and say to them, 'Is it not because there is not a God in Israel that you go to inquire of Baal-zebub the god of Ekron?'
 * `2Ki 2:25` And he went from there to mount Carmel, and from there he returned to *_Samaria_*.

@@ -640,13 +640,13 @@ _1 verse containing JEHOSHABEATH_
 * `1Ki 22:30` And the king of Israel said to *_Jehoshaphat_*, "I will disguise myself and enter into the battle, but you put on your robes." And the king of Israel disguised himself and went into the battle.
 * `1Ki 22:32` And it came to pass, when the captains of the chariots saw *_Jehoshaphat_*, that they said, "Surely it is the king of Israel." And they turned aside to fight against him. And *_Jehoshaphat_* cried out.
 * `1Ki 22:41` And *_Jehoshaphat_* the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.
-* `1Ki 22:42` *_Jehoshaphat_* was thirty-five years old when he began to reign, and he reigned twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
+* `1Ki 22:42` *_Jehoshaphat_* was thirty-five years old when he began to reign, and he reigned for twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
 * `1Ki 22:44` And *_Jehoshaphat_* made peace with the king of Israel.
 * `1Ki 22:45` Now the rest of the acts of *_Jehoshaphat_* and his might that he showed and how he warred, are they not written in the book of the chronicles of the kings of Judah?
 * `1Ki 22:48` *_Jehoshaphat_* made ships of Tarshish to go to Ophir for gold, but they did not go, for the ships were broken at Ezion-geber.
 * `1Ki 22:49` Then Ahaziah the son of Ahab said to *_Jehoshaphat_*, "Let my servants go with your servants in the ships." But *_Jehoshaphat_* would not.
 * `1Ki 22:50` And *_Jehoshaphat_* slept with his fathers and was buried with his fathers in the city of David his father. And Jehoram his son reigned in his stead.
-* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of *_Jehoshaphat_* king of Judah, and reigned two years over Israel.
+* `1Ki 22:51` Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of *_Jehoshaphat_* king of Judah, and he reigned for two years over Israel.
 * `2Ki 1:17` So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of *_Jehoshaphat_* king of Judah, because he had no son.
 * `2Ki 3:1` Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of *_Jehoshaphat_* king of Judah and reigned twelve years.
 * `2Ki 3:7` And he went and sent to *_Jehoshaphat_* the king of Judah, saying, "The king of Moab has rebelled against me. Will you go with me against Moab to battle?" And he said, "I will go. I am as you are, my people as your people, and my horses as your horses."
@@ -1468,7 +1468,7 @@ _1 verse containing JERUEL_
 * `1Ki 15:2` He reigned three years in *_Jerusalem_*. And his mother's name was Maachah, the daughter of Abishalom.
 * `1Ki 15:4` Nevertheless, for David's sake the LORD his God gave him a lamp in *_Jerusalem_* to set up his son after him and to establish *_Jerusalem_*,
 * `1Ki 15:10` And he reigned forty-one years in *_Jerusalem_*. And his mother's name was Maachah, the daughter of Abishalom.
-* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to reign, and he reigned twenty-five years in *_Jerusalem_*. And his mother's name was Azubah, the daughter of Shilhi.
+* `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to reign, and he reigned for twenty-five years in *_Jerusalem_*. And his mother's name was Azubah, the daughter of Shilhi.
 * `2Ki 8:17` He was thirty-two years old when he began to reign, and he reigned eight years in *_Jerusalem_*.
 * `2Ki 8:26` Ahaziah was twenty-two years old when he began to reign, and he reigned one year in *_Jerusalem_*. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 * `2Ki 9:28` And his servants carried him in a chariot to *_Jerusalem_* and buried him in his sepulcher with his fathers in the city of David.
