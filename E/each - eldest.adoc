@@ -3,6 +3,539 @@
 
 == EACH
 
+
+_0 verses containing EACH_
+
+== EAGER
+
+
+_0 verses containing EAGER_
+
+== EAGERLY
+
+
+_0 verses containing EAGERLY_
+
+== EAGLE
+
+
+_0 verses containing EAGLE_
+
+== EAGLES
+
+
+_0 verses containing EAGLES_
+
+== EAR
+
+
+_0 verses containing EAR_
+
+== EARLY
+
+
+_0 verses containing EARLY_
+
+== EARNEST
+
+
+_0 verses containing EARNEST_
+
+== EARNESTLY
+
+
+_0 verses containing EARNESTLY_
+
+== EARNS
+
+
+_0 verses containing EARNS_
+
+== EARRING
+
+
+_0 verses containing EARRING_
+
+== EARRINGS
+
+
+_0 verses containing EARRINGS_
+
+== EARS
+
+
+_0 verses containing EARS_
+
+== EARTH
+
+
+_0 verses containing EARTH_
+
+== EARTHEN
+
+
+_0 verses containing EARTHEN_
+
+== EARTHLY
+
+
+_0 verses containing EARTHLY_
+
+== EARTHQUAKE
+
+
+_0 verses containing EARTHQUAKE_
+
+== EARTHQUAKES
+
+
+_0 verses containing EARTHQUAKES_
+
+== EARTHY
+
+
+_0 verses containing EARTHY_
+
+== EASE
+
+
+_0 verses containing EASE_
+
+== EASED
+
+
+_0 verses containing EASED_
+
+== EASIER
+
+
+_0 verses containing EASIER_
+
+== EASILY
+
+
+_0 verses containing EASILY_
+
+== EAST
+
+
+_0 verses containing EAST_
+
+== EAST-GATE
+
+
+_0 verses containing EAST-GATE_
+
+== EASTERN
+
+
+_0 verses containing EASTERN_
+
+== EASTWARD
+
+
+_0 verses containing EASTWARD_
+
+== EASY
+
+
+_0 verses containing EASY_
+
+== EAT
+
+
+_0 verses containing EAT_
+
+== EATEN
+
+
+_0 verses containing EATEN_
+
+== EATER
+
+
+_0 verses containing EATER_
+
+== EATERS
+
+
+_0 verses containing EATERS_
+
+== EATING
+
+
+_0 verses containing EATING_
+
+== EATS
+
+
+_0 verses containing EATS_
+
+== EBAL
+
+
+_0 verses containing EBAL_
+
+== EBED
+
+
+_0 verses containing EBED_
+
+== EBED-MELECH
+
+
+_0 verses containing EBED-MELECH_
+
+== EBEN-EZER
+
+
+_0 verses containing EBEN-EZER_
+
+== EBER
+
+
+_0 verses containing EBER_
+
+== EBIASAPH
+
+
+_0 verses containing EBIASAPH_
+
+== EBONY
+
+
+_0 verses containing EBONY_
+
+== EBRONAH
+
+
+_0 verses containing EBRONAH_
+
+== ED
+
+
+_0 verses containing ED_
+
+== EDAR
+
+
+_0 verses containing EDAR_
+
+== EDEN
+
+
+_0 verses containing EDEN_
+
+== EDER
+
+
+_0 verses containing EDER_
+
+== EDGE
+
+
+_0 verses containing EDGE_
+
+== EDGES
+
+
+_0 verses containing EDGES_
+
+== EDIFICATION
+
+
+_0 verses containing EDIFICATION_
+
+== EDIFIED
+
+
+_0 verses containing EDIFIED_
+
+== EDIFIES
+
+
+_0 verses containing EDIFIES_
+
+== EDIFY
+
+
+_0 verses containing EDIFY_
+
+== EDIFYING
+
+
+_0 verses containing EDIFYING_
+
+== EDOM
+
+
+_0 verses containing EDOM_
+
+== EDOMITE
+
+
+_0 verses containing EDOMITE_
+
+== EDOMITES
+
+
+_0 verses containing EDOMITES_
+
+== EDREI
+
+
+_0 verses containing EDREI_
+
+== EDUTH
+
+
+_0 verses containing EDUTH_
+
+== EFFATHA
+
+
+_0 verses containing EFFATHA_
+
+== EFFECT
+
+
+_0 verses containing EFFECT_
+
+== EFFECTED
+
+
+_0 verses containing EFFECTED_
+
+== EFFECTUAL
+
+
+_0 verses containing EFFECTUAL_
+
+== EFFECTUALLY
+
+
+_0 verses containing EFFECTUALLY_
+
+== EFFEMINATE
+
+
+_0 verses containing EFFEMINATE_
+
+== EGG
+
+
+_0 verses containing EGG_
+
+== EGGS
+
+
+_0 verses containing EGGS_
+
+== EGLAH
+
+
+_0 verses containing EGLAH_
+
+== EGLAIM
+
+
+_0 verses containing EGLAIM_
+
+== EGLON
+
+
+_0 verses containing EGLON_
+
+== EGYPT
+
+
+_0 verses containing EGYPT_
+
+== EGYPTIAN
+
+
+_0 verses containing EGYPTIAN_
+
+== EGYPTIANS
+
+
+_0 verses containing EGYPTIANS_
+
+== EHI
+
+
+_0 verses containing EHI_
+
+== EHUD
+
+
+_0 verses containing EHUD_
+
+== EIGHT
+
+
+_0 verses containing EIGHT_
+
+== EIGHTEEN
+
+
+_0 verses containing EIGHTEEN_
+
+== EIGHTEENTH
+
+
+_0 verses containing EIGHTEENTH_
+
+== EIGHTH
+
+
+_0 verses containing EIGHTH_
+
+== EIGHTIETH
+
+
+_0 verses containing EIGHTIETH_
+
+== EIGHTY
+
+
+_0 verses containing EIGHTY_
+
+== EIGHTY-EIGHT
+
+
+_0 verses containing EIGHTY-EIGHT_
+
+== EIGHTY-FIVE
+
+
+_0 verses containing EIGHTY-FIVE_
+
+== EIGHTY-FOUR
+
+
+_0 verses containing EIGHTY-FOUR_
+
+== EIGHTY-SEVEN
+
+
+_0 verses containing EIGHTY-SEVEN_
+
+== EIGHTY-SIX
+
+
+_0 verses containing EIGHTY-SIX_
+
+== EIGHTY-THREE
+
+
+_0 verses containing EIGHTY-THREE_
+
+== EIGHTY-TWO
+
+
+_0 verses containing EIGHTY-TWO_
+
+== EITHER
+
+
+_0 verses containing EITHER_
+
+== EKER
+
+
+_0 verses containing EKER_
+
+== EKRON
+
+
+_0 verses containing EKRON_
+
+== EKRONITES
+
+
+_0 verses containing EKRONITES_
+
+== EL-BETH-EL
+
+
+_0 verses containing EL-BETH-EL_
+
+== EL-ELOHE-ISRAEL
+
+
+_0 verses containing EL-ELOHE-ISRAEL_
+
+== EL-PARAN
+
+
+_0 verses containing EL-PARAN_
+
+== ELADAH
+
+
+_0 verses containing ELADAH_
+
+== ELAH
+
+
+_0 verses containing ELAH_
+
+== ELAM
+
+
+_0 verses containing ELAM_
+
+== ELAMITES
+
+
+_0 verses containing ELAMITES_
+
+== ELASAH
+
+
+_0 verses containing ELASAH_
+
+== ELATH
+
+
+_0 verses containing ELATH_
+
+== ELDAAH
+
+
+_0 verses containing ELDAAH_
+
+== ELDAD
+
+
+_0 verses containing ELDAD_
+
+== ELDER
+
+
+_0 verses containing ELDER_
+
+== ELDERLY
+
+
+_0 verses containing ELDERLY_
+
+== ELDERS
+
+
+_0 verses containing ELDERS_
+
+== ELDEST
+
+
+_0 verses containing ELDEST_
+
+= EACH - ELDEST
+:toc:
+
+== EACH
+
 * `Gen 10:5` By these the islands of the Gentiles were divided in their lands, *_each_* after his language, after their families, in their nations.
 * `Gen 15:10` And he brought all these to him, divided them in the midst, and laid *_each_* piece one against another, but the birds he did not divide.
 * `Gen 30:33` So my righteousness shall answer for me in time to come when you come for my hire before your face. *_Each_* one that is not speckled and spotted among the goats, and brown among the sheep, shall be accounted stolen with me."
@@ -118,7 +651,7 @@
 * `1Ki 20:20` And they *_each_* slew his man. And the Syrians fled, and Israel pursued them, but Ben-hadad the king of Syria escaped on a horse with the horsemen.
 * `1Ki 22:10` And the king of Israel and Jehoshaphat the king of Judah sat *_each_* on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria. And all the prophets prophesied before them.
 * `1Ki 22:17` And he said, "I saw all Israel scattered upon the hills like sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them *_each_* return to his house in peace.'"
-* `2Ki 6:2` Let us go, we pray you, to the Jordan and *_each_* take from there a beam, and let us make us a place there where we may dwell." And he answered, "Go."
+* `2Ki 6:2` Let us go, we pray you, to the Jordan and *_each_* take from there a beam, and let us make for ourselves a place there where we may dwell." And he answered, "Go."
 * `2Ki 9:21` And Joram said, "Make ready." And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, *_each_* in his chariot, and they went out against Jehu and met him in the portion of Naboth the Jezreelite.
 * `2Ki 11:8` And you shall surround the king, *_each_* with his weapons in his hand. And he who comes within the ranges, let him be slain. And be with the king as he goes out and as he comes in."
 * `2Ki 11:9` And the captains over the hundreds did according to all things that Jehoiada the priest commanded. And they *_each_* took his men who were to come in on the sabbath, with those who should go out on the sabbath, and came to Jehoiada the priest.
@@ -2237,7 +2770,7 @@ _4 verses containing EASY_
 * `1Ki 21:23` And the LORD also spoke about Jezebel, saying, 'The dogs shall *_eat_* Jezebel by the wall of Jezreel.'
 * `1Ki 21:24` He who dies belonging to Ahab in the city the dogs shall *_eat_*, and he who dies in the field the birds of the air shall *_eat_*."
 * `2Ki 4:8` And it fell on a day, that Elisha passed to Shunem where a distinguished woman was, and she constrained him to *_eat_* bread. And so it was, that as often as he passed by, he turned in there to *_eat_* bread.
-* `2Ki 4:40` So they poured out some for the men to *_eat_*. And it came to pass, as they were eating of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not *_eat_* it.
+* `2Ki 4:40` So they poured out some for the men to *_eat_*. And it came to pass as they were eating of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not *_eat_* it.
 * `2Ki 4:41` But he said, "Then bring meal." And he cast it into the pot and he said, "Pour some out for the people so that they may *_eat_*." And there was no harm in the pot.
 * `2Ki 4:42` And there came a man from Baal-shalisha and brought the man of God bread of the first fruits, twenty loaves of barley and full heads of grain in its husk. And he said, "Give it to the people so that they may *_eat_*."
 * `2Ki 4:43` And his servant said, "What, should I set this before one hundred men?" He said again, "Give it to the people so that they may *_eat_*, for thus says the LORD: 'They shall *_eat_* and shall have some left over.'"
@@ -2624,7 +3157,7 @@ _1 verse containing EATERS_
 * `1Sa 30:16` And when he had conducted him down, behold, they were spread abroad upon all the earth, *_eating_*, drinking, and dancing, because of all the great plunder that they had taken from the land of the Philistines and from the land of Judah.
 * `1Ki 1:41` And Adonijah and all the guests who were with him heard it as they had made an end of *_eating_*. And when Joab heard the sound of the trumpet, he said, "Why is there a noisy commotion in the city?"
 * `1Ki 4:20` Judah and Israel were many, as the sand which is by the sea in multitude, *_eating_* and drinking and making merry.
-* `2Ki 4:40` So they poured out some for the men to eat. And it came to pass, as they were *_eating_* of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not eat it.
+* `2Ki 4:40` So they poured out some for the men to eat. And it came to pass as they were *_eating_* of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not eat it.
 * `1Ch 12:39` And they were there with David three days, *_eating_* and drinking, for their brothers had prepared for them.
 * `Job 1:13` And there was a day when his sons and his daughters were *_eating_* and drinking wine in their eldest brother's house,
 * `Job 1:18` While he was still speaking, another also came, saying, "Your sons and your daughters were *_eating_* and drinking wine in their eldest brother's house,
@@ -2987,7 +3520,7 @@ _6 verses containing EDIFYING_
 * `2Ki 3:8` And he said, "Which way shall we go up?" And he answered, "The way through the wilderness of *_Edom_*."
 * `2Ki 3:9` So the king of Israel, the king of Judah, and the king of *_Edom_* went. And they made a circuit of seven days' journey, and there was no water for the army and for the livestock that followed them.
 * `2Ki 3:12` And Jehoshaphat said, "The word of the LORD is with him." So the king of Israel and Jehoshaphat and the king of *_Edom_* went down to him.
-* `2Ki 3:20` And it came to pass in the morning, when the food-offering was offered, that behold, water came by the way of *_Edom_*, and the country was filled with water.
+* `2Ki 3:20` And it came to pass in the morning when the food-offering was offered, that behold, water came by the way of *_Edom_*, and the country was filled with water.
 * `2Ki 3:26` And when the king of Moab saw that the battle was too severe for him, he took with him seven hundred men who drew swords to break through to the king of *_Edom_*, but they could not.
 * `2Ki 8:20` In his days, *_Edom_* revolted from under the hand of Judah and made a king over themselves.
 * `2Ki 8:22` Yet *_Edom_* revolted from under the hand of Judah to this day. Then Libnah revolted at the same time.
@@ -4022,7 +4555,7 @@ _22 verses containing EIGHTEEN_
 == EIGHTEENTH
 
 * `1Ki 15:1` Now in the *_eighteenth_* year of king Jeroboam the son of Nebat, Abijam reigned over Judah.
-* `2Ki 3:1` Now Jehoram the son of Ahab began to reign over Israel in Samaria in the *_eighteenth_* year of Jehoshaphat king of Judah and reigned twelve years.
+* `2Ki 3:1` Now Jehoram the son of Ahab began to reign over Israel in Samaria in the *_eighteenth_* year of Jehoshaphat king of Judah and reigned for twelve years.
 * `2Ki 22:3` And it came to pass in the *_eighteenth_* year of king Josiah, that the king sent Shaphan the scribe, the son of Azaliah, the son of Meshullam, to the house of the LORD, saying,
 * `2Ki 23:23` But in the *_eighteenth_* year of king Josiah, this passover was held to the LORD in Jerusalem.
 * `1Ch 24:15` The seventeenth to Hezer, the *_eighteenth_* to Aphses,

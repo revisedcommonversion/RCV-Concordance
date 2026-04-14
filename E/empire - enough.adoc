@@ -3,6 +3,504 @@
 
 == EMPIRE
 
+
+_0 verses containing EMPIRE_
+
+== EMPLOY
+
+
+_0 verses containing EMPLOY_
+
+== EMPLOYED
+
+
+_0 verses containing EMPLOYED_
+
+== EMPLOYMENT
+
+
+_0 verses containing EMPLOYMENT_
+
+== EMPTIED
+
+
+_0 verses containing EMPTIED_
+
+== EMPTIERS
+
+
+_0 verses containing EMPTIERS_
+
+== EMPTINESS
+
+
+_0 verses containing EMPTINESS_
+
+== EMPTY
+
+
+_0 verses containing EMPTY_
+
+== EN-DOR
+
+
+_0 verses containing EN-DOR_
+
+== EN-EGLAIM
+
+
+_0 verses containing EN-EGLAIM_
+
+== EN-GANNIM
+
+
+_0 verses containing EN-GANNIM_
+
+== EN-GEDI
+
+
+_0 verses containing EN-GEDI_
+
+== EN-HADDAH
+
+
+_0 verses containing EN-HADDAH_
+
+== EN-HAKKORE
+
+
+_0 verses containing EN-HAKKORE_
+
+== EN-HAZOR
+
+
+_0 verses containing EN-HAZOR_
+
+== EN-MISHPAT
+
+
+_0 verses containing EN-MISHPAT_
+
+== EN-RIMMON
+
+
+_0 verses containing EN-RIMMON_
+
+== EN-ROGEL
+
+
+_0 verses containing EN-ROGEL_
+
+== EN-SHEMESH
+
+
+_0 verses containing EN-SHEMESH_
+
+== EN-TAPPUAH
+
+
+_0 verses containing EN-TAPPUAH_
+
+== ENABLED
+
+
+_0 verses containing ENABLED_
+
+== ENAM
+
+
+_0 verses containing ENAM_
+
+== ENAN
+
+
+_0 verses containing ENAN_
+
+== ENCAMP
+
+
+_0 verses containing ENCAMP_
+
+== ENCAMPED
+
+
+_0 verses containing ENCAMPED_
+
+== ENCAMPING
+
+
+_0 verses containing ENCAMPING_
+
+== ENCAMPMENTS
+
+
+_0 verses containing ENCAMPMENTS_
+
+== ENCAMPS
+
+
+_0 verses containing ENCAMPS_
+
+== ENCHANTER
+
+
+_0 verses containing ENCHANTER_
+
+== ENCHANTERS
+
+
+_0 verses containing ENCHANTERS_
+
+== ENCHANTMENT
+
+
+_0 verses containing ENCHANTMENT_
+
+== ENCHANTMENTS
+
+
+_0 verses containing ENCHANTMENTS_
+
+== ENCIRCLED
+
+
+_0 verses containing ENCIRCLED_
+
+== ENCLOSE
+
+
+_0 verses containing ENCLOSE_
+
+== ENCLOSED
+
+
+_0 verses containing ENCLOSED_
+
+== ENCLOSINGS
+
+
+_0 verses containing ENCLOSINGS_
+
+== ENCLOSURE
+
+
+_0 verses containing ENCLOSURE_
+
+== ENCOMPASS
+
+
+_0 verses containing ENCOMPASS_
+
+== ENCOMPASSED
+
+
+_0 verses containing ENCOMPASSED_
+
+== ENCOMPASSES
+
+
+_0 verses containing ENCOMPASSES_
+
+== ENCOMPASSING
+
+
+_0 verses containing ENCOMPASSING_
+
+== ENCOUNTERED
+
+
+_0 verses containing ENCOUNTERED_
+
+== ENCOURAGE
+
+
+_0 verses containing ENCOURAGE_
+
+== ENCOURAGED
+
+
+_0 verses containing ENCOURAGED_
+
+== ENCUMBER
+
+
+_0 verses containing ENCUMBER_
+
+== ENCUMBERED
+
+
+_0 verses containing ENCUMBERED_
+
+== ENCUMBRANCE
+
+
+_0 verses containing ENCUMBRANCE_
+
+== END
+
+
+_0 verses containing END_
+
+== ENDANGER
+
+
+_0 verses containing ENDANGER_
+
+== ENDANGERED
+
+
+_0 verses containing ENDANGERED_
+
+== ENDEAVOR
+
+
+_0 verses containing ENDEAVOR_
+
+== ENDEAVORED
+
+
+_0 verses containing ENDEAVORED_
+
+== ENDEAVORING
+
+
+_0 verses containing ENDEAVORING_
+
+== ENDEAVORS
+
+
+_0 verses containing ENDEAVORS_
+
+== ENDED
+
+
+_0 verses containing ENDED_
+
+== ENDING
+
+
+_0 verses containing ENDING_
+
+== ENDLESS
+
+
+_0 verses containing ENDLESS_
+
+== ENDOW
+
+
+_0 verses containing ENDOW_
+
+== ENDOWED
+
+
+_0 verses containing ENDOWED_
+
+== ENDS
+
+
+_0 verses containing ENDS_
+
+== ENDUED
+
+
+_0 verses containing ENDUED_
+
+== ENDURANCE
+
+
+_0 verses containing ENDURANCE_
+
+== ENDURE
+
+
+_0 verses containing ENDURE_
+
+== ENDURED
+
+
+_0 verses containing ENDURED_
+
+== ENDURES
+
+
+_0 verses containing ENDURES_
+
+== ENDURING
+
+
+_0 verses containing ENDURING_
+
+== ENEAS
+
+
+_0 verses containing ENEAS_
+
+== ENEMIES
+
+
+_0 verses containing ENEMIES_
+
+== ENEMY
+
+
+_0 verses containing ENEMY_
+
+== ENFOLDING
+
+
+_0 verses containing ENFOLDING_
+
+== ENGAGED
+
+
+_0 verses containing ENGAGED_
+
+== ENGENDER
+
+
+_0 verses containing ENGENDER_
+
+== ENGENDERED
+
+
+_0 verses containing ENGENDERED_
+
+== ENGENDERS
+
+
+_0 verses containing ENGENDERS_
+
+== ENGRAVE
+
+
+_0 verses containing ENGRAVE_
+
+== ENGRAVED
+
+
+_0 verses containing ENGRAVED_
+
+== ENGRAVER
+
+
+_0 verses containing ENGRAVER_
+
+== ENGRAVES
+
+
+_0 verses containing ENGRAVES_
+
+== ENGRAVING
+
+
+_0 verses containing ENGRAVING_
+
+== ENGRAVINGS
+
+
+_0 verses containing ENGRAVINGS_
+
+== ENJOIN
+
+
+_0 verses containing ENJOIN_
+
+== ENJOINED
+
+
+_0 verses containing ENJOINED_
+
+== ENJOY
+
+
+_0 verses containing ENJOY_
+
+== ENJOYED
+
+
+_0 verses containing ENJOYED_
+
+== ENLARGE
+
+
+_0 verses containing ENLARGE_
+
+== ENLARGED
+
+
+_0 verses containing ENLARGED_
+
+== ENLARGEMENT
+
+
+_0 verses containing ENLARGEMENT_
+
+== ENLARGES
+
+
+_0 verses containing ENLARGES_
+
+== ENLIGHTEN
+
+
+_0 verses containing ENLIGHTEN_
+
+== ENLIGHTENED
+
+
+_0 verses containing ENLIGHTENED_
+
+== ENLIGHTENING
+
+
+_0 verses containing ENLIGHTENING_
+
+== ENLIGHTENS
+
+
+_0 verses containing ENLIGHTENS_
+
+== ENMITY
+
+
+_0 verses containing ENMITY_
+
+== ENOCH
+
+
+_0 verses containing ENOCH_
+
+== ENON
+
+
+_0 verses containing ENON_
+
+== ENORMITY
+
+
+_0 verses containing ENORMITY_
+
+== ENOS
+
+
+_0 verses containing ENOS_
+
+== ENOSH
+
+
+_0 verses containing ENOSH_
+
+== ENOUGH
+
+
+_0 verses containing ENOUGH_
+
+= EMPIRE - ENOUGH
+:toc:
+
+== EMPIRE
+
 * `Est 1:20` And when the king's decree which he shall make is published throughout all his *_empire_* (for it is great), all the wives will give to their husbands honor, both to great and small."
 
 _1 verse containing EMPIRE_

@@ -3,6 +3,499 @@
 
 == ELEAD
 
+
+_0 verses containing ELEAD_
+
+== ELEALEH
+
+
+_0 verses containing ELEALEH_
+
+== ELEASAH
+
+
+_0 verses containing ELEASAH_
+
+== ELEAZAR
+
+
+_0 verses containing ELEAZAR_
+
+== ELECT
+
+
+_0 verses containing ELECT_
+
+== ELECTED
+
+
+_0 verses containing ELECTED_
+
+== ELECTION
+
+
+_0 verses containing ELECTION_
+
+== ELEMENTS
+
+
+_0 verses containing ELEMENTS_
+
+== ELEPH
+
+
+_0 verses containing ELEPH_
+
+== ELEVATED
+
+
+_0 verses containing ELEVATED_
+
+== ELEVATION
+
+
+_0 verses containing ELEVATION_
+
+== ELEVEN
+
+
+_0 verses containing ELEVEN_
+
+== ELEVENTH
+
+
+_0 verses containing ELEVENTH_
+
+== ELHANAN
+
+
+_0 verses containing ELHANAN_
+
+== ELI
+
+
+_0 verses containing ELI_
+
+== ELIAB
+
+
+_0 verses containing ELIAB_
+
+== ELIADA
+
+
+_0 verses containing ELIADA_
+
+== ELIADAH
+
+
+_0 verses containing ELIADAH_
+
+== ELIAH
+
+
+_0 verses containing ELIAH_
+
+== ELIAHBA
+
+
+_0 verses containing ELIAHBA_
+
+== ELIAKIM
+
+
+_0 verses containing ELIAKIM_
+
+== ELIAM
+
+
+_0 verses containing ELIAM_
+
+== ELIASAPH
+
+
+_0 verses containing ELIASAPH_
+
+== ELIASHIB
+
+
+_0 verses containing ELIASHIB_
+
+== ELIATHAH
+
+
+_0 verses containing ELIATHAH_
+
+== ELIDAD
+
+
+_0 verses containing ELIDAD_
+
+== ELIEL
+
+
+_0 verses containing ELIEL_
+
+== ELIENAI
+
+
+_0 verses containing ELIENAI_
+
+== ELIEZER
+
+
+_0 verses containing ELIEZER_
+
+== ELIHOENAI
+
+
+_0 verses containing ELIHOENAI_
+
+== ELIHOREPH
+
+
+_0 verses containing ELIHOREPH_
+
+== ELIHU
+
+
+_0 verses containing ELIHU_
+
+== ELIJAH
+
+
+_0 verses containing ELIJAH_
+
+== ELIKA
+
+
+_0 verses containing ELIKA_
+
+== ELIM
+
+
+_0 verses containing ELIM_
+
+== ELIMELECH
+
+
+_0 verses containing ELIMELECH_
+
+== ELIOENAI
+
+
+_0 verses containing ELIOENAI_
+
+== ELIPHALET
+
+
+_0 verses containing ELIPHALET_
+
+== ELIPHAZ
+
+
+_0 verses containing ELIPHAZ_
+
+== ELIPHEL
+
+
+_0 verses containing ELIPHEL_
+
+== ELIPHELEH
+
+
+_0 verses containing ELIPHELEH_
+
+== ELIPHELET
+
+
+_0 verses containing ELIPHELET_
+
+== ELISHA
+
+
+_0 verses containing ELISHA_
+
+== ELISHAH
+
+
+_0 verses containing ELISHAH_
+
+== ELISHAMA
+
+
+_0 verses containing ELISHAMA_
+
+== ELISHAPHAT
+
+
+_0 verses containing ELISHAPHAT_
+
+== ELISHEBA
+
+
+_0 verses containing ELISHEBA_
+
+== ELISHUA
+
+
+_0 verses containing ELISHUA_
+
+== ELIUD
+
+
+_0 verses containing ELIUD_
+
+== ELIZABETH
+
+
+_0 verses containing ELIZABETH_
+
+== ELIZAPHAN
+
+
+_0 verses containing ELIZAPHAN_
+
+== ELIZUR
+
+
+_0 verses containing ELIZUR_
+
+== ELKANAH
+
+
+_0 verses containing ELKANAH_
+
+== ELKOSHITE
+
+
+_0 verses containing ELKOSHITE_
+
+== ELLASAR
+
+
+_0 verses containing ELLASAR_
+
+== ELMADAM
+
+
+_0 verses containing ELMADAM_
+
+== ELMS
+
+
+_0 verses containing ELMS_
+
+== ELNAAM
+
+
+_0 verses containing ELNAAM_
+
+== ELNATHAN
+
+
+_0 verses containing ELNATHAN_
+
+== ELOI
+
+
+_0 verses containing ELOI_
+
+== ELON
+
+
+_0 verses containing ELON_
+
+== ELON-BETH-HANAN
+
+
+_0 verses containing ELON-BETH-HANAN_
+
+== ELONITES
+
+
+_0 verses containing ELONITES_
+
+== ELOQUENT
+
+
+_0 verses containing ELOQUENT_
+
+== ELOTH
+
+
+_0 verses containing ELOTH_
+
+== ELPAAL
+
+
+_0 verses containing ELPAAL_
+
+== ELPALET
+
+
+_0 verses containing ELPALET_
+
+== ELSE
+
+
+_0 verses containing ELSE_
+
+== ELSEWHERE
+
+
+_0 verses containing ELSEWHERE_
+
+== ELTEKEH
+
+
+_0 verses containing ELTEKEH_
+
+== ELTEKON
+
+
+_0 verses containing ELTEKON_
+
+== ELTOLAD
+
+
+_0 verses containing ELTOLAD_
+
+== ELUL
+
+
+_0 verses containing ELUL_
+
+== ELUZAI
+
+
+_0 verses containing ELUZAI_
+
+== ELYMAS
+
+
+_0 verses containing ELYMAS_
+
+== ELZABAD
+
+
+_0 verses containing ELZABAD_
+
+== ELZAPHAN
+
+
+_0 verses containing ELZAPHAN_
+
+== EMBALM
+
+
+_0 verses containing EMBALM_
+
+== EMBALMED
+
+
+_0 verses containing EMBALMED_
+
+== EMBASSY
+
+
+_0 verses containing EMBASSY_
+
+== EMBOLDENED
+
+
+_0 verses containing EMBOLDENED_
+
+== EMBOLDENS
+
+
+_0 verses containing EMBOLDENS_
+
+== EMBRACE
+
+
+_0 verses containing EMBRACE_
+
+== EMBRACED
+
+
+_0 verses containing EMBRACED_
+
+== EMBRACES
+
+
+_0 verses containing EMBRACES_
+
+== EMBRACING
+
+
+_0 verses containing EMBRACING_
+
+== EMBROIDER
+
+
+_0 verses containing EMBROIDER_
+
+== EMBROIDERED
+
+
+_0 verses containing EMBROIDERED_
+
+== EMBROIDERER
+
+
+_0 verses containing EMBROIDERER_
+
+== EMBRYO
+
+
+_0 verses containing EMBRYO_
+
+== EMERALD
+
+
+_0 verses containing EMERALD_
+
+== EMERALDS
+
+
+_0 verses containing EMERALDS_
+
+== EMERODS
+
+
+_0 verses containing EMERODS_
+
+== EMIMS
+
+
+_0 verses containing EMIMS_
+
+== EMINENT
+
+
+_0 verses containing EMINENT_
+
+== EMINS
+
+
+_0 verses containing EMINS_
+
+== EMMAUS
+
+
+_0 verses containing EMMAUS_
+
+== EMORITE
+
+
+_0 verses containing EMORITE_
+
+= ELEAD - EMORITE
+:toc:
+
+== ELEAD
+
 * `1Ch 7:21` Zabad his son, Shuthelah his son, Ezer, and *_Elead_*, whom the men of Gath who were born in that land slew because they came down to take away their livestock.
 
 _1 verse containing ELEAD_
@@ -508,13 +1001,13 @@ _11 verses containing ELIHU_
 * `2Ki 1:13` And again he sent a third captain of fifty with his fifty. And the third captain of fifty went up, came and fell on his knees before *_Elijah_*, and implored him and said to him, "O man of God, I pray you, let my life and the life of these fifty your servants be precious in your sight.
 * `2Ki 1:15` And the angel of the LORD said to *_Elijah_*, "Go down with him. Do not be afraid of him." And he arose and went down with him to the king.
 * `2Ki 1:17` So he died according to the word of the LORD which *_Elijah_* had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah, because he had no son.
-* `2Ki 2:1` And it came to pass, when the LORD would take up *_Elijah_* into heaven by a whirlwind, that *_Elijah_* went with Elisha from Gilgal.
+* `2Ki 2:1` And it came to pass when the LORD would take up *_Elijah_* into heaven by a whirlwind, that *_Elijah_* went with Elisha from Gilgal.
 * `2Ki 2:2` And *_Elijah_* said to Elisha, "Stay here, I pray you, for the LORD has sent me to Beth-el." And Elisha said, "As the LORD lives and as your soul lives, I will not leave you." So they went down to Beth-el.
 * `2Ki 2:4` And *_Elijah_* said to him, "Elisha, stay here, I pray you, for the LORD has sent me to Jericho." And he said, "As the LORD lives and as your soul lives, I will not leave you." So they came to Jericho.
 * `2Ki 2:6` And *_Elijah_* said to him, "Stay here, I pray you, for the LORD has sent me to the Jordan." And he said, "As the LORD lives and as your soul lives, I will not leave you." And the two of them went on.
 * `2Ki 2:8` And *_Elijah_* took his mantle and wrapped it together and smote the waters, and they were divided here and there so that the two of them went over on dry ground.
 * `2Ki 2:9` And it came to pass, when they had gone over, that *_Elijah_* said to Elisha, "Ask what I shall do for you before I am taken away from you." And Elisha said, "I pray you, let a double portion of your spirit be upon me."
-* `2Ki 2:11` And it came to pass, as they still went on and talked, that behold, there appeared a chariot of fire and horses of fire and parted them both apart. And *_Elijah_* went up by a whirlwind into heaven.
+* `2Ki 2:11` And it came to pass as they still went on and talked, that behold, there appeared a chariot of fire and horses of fire and parted them both apart. And *_Elijah_* went up by a whirlwind into heaven.
 * `2Ki 2:13` He also took up the mantle of *_Elijah_* that fell from him and went back and stood by the bank of the Jordan.
 * `2Ki 2:14` And he took the mantle of *_Elijah_* that fell from him and smote the waters and said, "Where is the LORD God of *_Elijah_*?" And when he also had smitten the waters, they parted here and there, and Elisha went over.
 * `2Ki 2:15` And when the sons of the prophets who were viewing at Jericho saw him, they said, "The spirit of *_Elijah_* rests on Elisha." And they came to meet him and bowed themselves to the ground before him.
@@ -653,7 +1146,7 @@ _6 verses containing ELIPHELET_
 * `1Ki 19:16` And Jehu the son of Nimshi you shall anoint to be king over Israel. And *_Elisha_* the son of Shaphat of Abel-meholah you shall anoint to be prophet in your stead.
 * `1Ki 19:17` And it shall come to pass, that he who escapes the sword of Hazael, Jehu shall slay. And he who escapes from the sword of Jehu, *_Elisha_* shall slay.
 * `1Ki 19:19` So he departed from there and found *_Elisha_* the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he was with the twelfth. And Elijah passed by him and cast his mantle upon him.
-* `2Ki 2:1` And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with *_Elisha_* from Gilgal.
+* `2Ki 2:1` And it came to pass when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with *_Elisha_* from Gilgal.
 * `2Ki 2:2` And Elijah said to *_Elisha_*, "Stay here, I pray you, for the LORD has sent me to Beth-el." And *_Elisha_* said, "As the LORD lives and as your soul lives, I will not leave you." So they went down to Beth-el.
 * `2Ki 2:3` And the sons of the prophets who were at Beth-el came forth to *_Elisha_* and said to him, "Do you know that the LORD will take away your master from your head today?" And he said, "Yes, I know it. Hold your peace."
 * `2Ki 2:4` And Elijah said to him, "*_Elisha_*, stay here, I pray you, for the LORD has sent me to Jericho." And he said, "As the LORD lives and as your soul lives, I will not leave you." So they came to Jericho.
@@ -666,14 +1159,14 @@ _6 verses containing ELIPHELET_
 * `2Ki 2:22` So the waters were healed to this day, according to the saying of *_Elisha_* which he spoke.
 * `2Ki 3:11` But Jehoshaphat said, "Is there not a prophet of the LORD here that we may inquire of the LORD by him?" And one of the king of Israel's servants answered and said, "Here is *_Elisha_* the son of Shaphat who poured water on the hands of Elijah."
 * `2Ki 3:13` And *_Elisha_* said to the king of Israel, "What have I to do with you? Go to the prophets of your father and to the prophets of your mother." And the king of Israel said to him, "No, for the LORD has called these three kings together to deliver them into the hand of Moab."
-* `2Ki 3:14` And *_Elisha_* said, "As the LORD of hosts lives, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you.
+* `2Ki 3:14` And *_Elisha_* said, "As the LORD of hosts lives, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you nor see you.
 * `2Ki 4:1` Now there cried a certain woman of the wives of the sons of the prophets to *_Elisha_*, saying, "Your servant my husband is dead. And you know that your servant feared the LORD. And the creditor has come to take for himself my two sons to be slaves."
 * `2Ki 4:2` And *_Elisha_* said to her, "What shall I do for you? Tell me, what do you have in the house?" And she said, "Your servant does not have anything in the house, except for a pot of oil."
 * `2Ki 4:8` And it fell on a day, that *_Elisha_* passed to Shunem where a distinguished woman was, and she constrained him to eat bread. And so it was, that as often as he passed by, he turned in there to eat bread.
 * `2Ki 4:17` And the woman conceived and bore a son at that season that *_Elisha_* had said to her, according to the time of life.
 * `2Ki 4:32` And when *_Elisha_* had come into the house, behold, the child was dead and laid upon his bed.
 * `2Ki 4:38` And *_Elisha_* came back to Gilgal. And there was a famine in the land. And the sons of the prophets were sitting before him. And he said to his servant, "Set on the great pot and boil pottage for the sons of the prophets."
-* `2Ki 5:8` And it was so, when *_Elisha_* the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, "Why have you rent your clothes? I pray you, let him come to me and he shall know that there is a prophet in Israel."
+* `2Ki 5:8` And it came to pass when *_Elisha_* the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, "Why have you rent your clothes? I pray you, let him come to me and he shall know that there is a prophet in Israel."
 * `2Ki 5:9` So Naaman came with his horses and with his chariot and stood at the door of the house of *_Elisha_*.
 * `2Ki 5:10` And *_Elisha_* sent a messenger to him, saying, "Go and wash in the Jordan seven times, and your flesh shall come back to you and you shall be clean."
 * `2Ki 5:20` But Gehazi, the servant of *_Elisha_* the man of God, thought, "Behold, my master has spared Naaman this Syrian in not receiving at his hands that which he brought. But as the LORD lives, I will run after him and take something from him."
@@ -683,7 +1176,7 @@ _6 verses containing ELIPHELET_
 * `2Ki 6:17` And *_Elisha_* prayed and said, "LORD, I pray you, open his eyes so that he may see." And the LORD opened the eyes of the young man, and he saw, and behold, the mountain was full of horses and chariots of fire around *_Elisha_*.
 * `2Ki 6:18` And when they came down to him, *_Elisha_* prayed to the LORD and said, "Smite this people, I pray you, with blindness." And he smote them with blindness according to the word of *_Elisha_*.
 * `2Ki 6:19` And *_Elisha_* said to them, "This is not the way, neither is this the city. Follow me, and I will bring you to the man whom you seek." But he led them to Samaria.
-* `2Ki 6:20` And it came to pass, when they had come into Samaria, that *_Elisha_* said, "LORD, open the eyes of these men so that they may see." And the LORD opened their eyes, and they saw, and behold, they were in the midst of Samaria.
+* `2Ki 6:20` And it came to pass when they had come into Samaria, that *_Elisha_* said, "LORD, open the eyes of these men so that they may see." And the LORD opened their eyes, and they saw, and behold, they were in the midst of Samaria.
 * `2Ki 6:21` And the king of Israel said to *_Elisha_* when he saw them, "My father, shall I smite them? Shall I smite them?"
 * `2Ki 6:31` Then he said, "May God do so and more also to me, if the head of *_Elisha_* the son of Shaphat stands on him this day."
 * `2Ki 6:32` But *_Elisha_* sat in his house, and the elders sat with him, and the king sent a man from before him. But before the messenger came to him, he said to the elders, "See how this son of a murderer has sent to take away my head? Look, when the messenger comes, shut the door and hold the door firmly against him. Is the sound of his master's feet not behind him?"
