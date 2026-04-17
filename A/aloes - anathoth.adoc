@@ -750,13 +750,13 @@ _33 verses containing ALREADY_
 * `2Ki 3:18` And this is only a light thing in the sight of the LORD. He will deliver the Moabites *_also_* into your hand.
 * `2Ki 5:1` Now Naaman, captain of the army of the king of Syria, was a great man with his master and highly esteemed, because by him the LORD had given deliverance to Syria. He was *_also_* a mighty man in valor, but he was a leper.
 * `2Ki 6:31` Then he said, "May God do so and more *_also_* to me, if the head of Elisha the son of Shaphat stands on him this day."
-* `2Ki 7:4` If we say, 'We will enter into the city,' then the famine is in the city, and we shall die there. And if we sit still here, we die *_also_*. Now therefore, come, and let us fall to the army of the Syrians. If they save us alive, we shall live, and if they kill us, we shall but die."
+* `2Ki 7:4` If we say, 'We will enter into the city,' then the famine is in the city, and we shall die there. And if we sit still here, we die *_also_*. Now therefore, come, and let us fall to the army of the Syrians. If they save us alive, we shall live, and if they kill us, then we shall die."
 * `2Ki 7:8` And when these lepers came to the uttermost part of the camp, they went into one tent, ate and drank, and carried from there silver, gold, and clothing, and went and hid it. And they came back, entered into another tent, and carried from there *_also_*, and went and hid it.
-* `2Ki 8:1` Then Elisha spoke to the woman, whose son he had restored to life, saying, "Arise, and go—you and your household—and sojourn wherever you can sojourn, for the LORD has called for a famine, and it shall *_also_* come upon the land seven years."
+* `2Ki 8:1` Then Elisha spoke to the woman, whose son he had restored to life, saying, "Arise, and go—you and your household—and sojourn wherever you can sojourn, for the LORD has called for a famine, and it shall *_also_* come upon the land for seven years."
 * `2Ki 9:27` But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed him and said, "Smite him *_also_* in the chariot." And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo and died there.
 * `2Ki 10:2` "Now as soon as this letter comes to you, seeing your master's sons are with you and there are with you chariots and horses, a fortified city *_also_*, and armor,
 * `2Ki 10:5` And he who was over the house and he who was over the city, the elders *_also_*, and those who brought up the children, sent to Jehu, saying, "We are your servants and will do all that you shall bid us. We will not make any king. Do that which is good in your eyes."
-* `2Ki 11:17` And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD'S people, between the king *_also_* and the people.
+* `2Ki 11:17` And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD'S people, and *_also_* between the king and the people.
 * `2Ki 13:6` Nevertheless, they did not depart from the sins of the house of Jeroboam who made Israel sin, but walked in them. And the grove *_also_* remained in Samaria.)
 * `2Ki 16:14` And he *_also_* brought the brazen altar, which was before the LORD, from the front of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.
 * `2Ki 17:32` So they feared the LORD, but *_also_* made for themselves from the lowest of them priests of the high places who sacrificed for them in the houses of the high places.
@@ -2812,10 +2812,10 @@ _1 verse containing AMAZEMENT_
 * `2Ki 14:11` But *_Amaziah_* would not listen. Therefore, Jehoash king of Israel went up, and he and *_Amaziah_* king of Judah looked one another in the face at Beth-shemesh, which belongs to Judah.
 * `2Ki 14:13` And Jehoash king of Israel took *_Amaziah_* king of Judah, the son of Jehoash the son of Ahaziah, at Beth-shemesh, and came to Jerusalem and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 * `2Ki 14:15` Now the rest of the acts of Jehoash which he did and his might and how he fought with *_Amaziah_* king of Judah, are they not written in the book of the chronicles of the kings of Israel?
-* `2Ki 14:17` And *_Amaziah_* the son of Joash king of Judah lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+* `2Ki 14:17` And *_Amaziah_* the son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
 * `2Ki 14:18` And the rest of the acts of *_Amaziah_*, are they not written in the book of the chronicles of the kings of Judah?
 * `2Ki 14:21` And all the people of Judah took Azariah, who was sixteen years old, and made him king instead of his father *_Amaziah_*.
-* `2Ki 14:23` In the fifteenth year of *_Amaziah_* the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty-one years.
+* `2Ki 14:23` In the fifteenth year of *_Amaziah_* the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned for forty-one years.
 * `2Ki 15:1` In the twenty-seventh year of Jeroboam king of Israel, Azariah son of *_Amaziah_* king of Judah began to reign.
 * `2Ki 15:3` And he did that which was right in the sight of the LORD, according to all that his father *_Amaziah_* had done,
 * `1Ch 3:12` *_Amaziah_* his son, Azariah his son, Jotham his son,
@@ -4335,12 +4335,13 @@ _9 verses containing AMOS_
 
 * `2Sa 3:22` And behold, the servants of David and Joab came from pursuing a troop and brought in a large *_amount_* of plunder with them, but Abner was not with David in Hebron, for he had sent him away, and he had gone in peace.
 * `2Sa 8:8` And from Betah and from Berothai, cities of Hadadezer, king David took an exceeding *_amount_* of brass.
+* `2Ki 12:10` And it came to pass when they saw that there was a large *_amount_* of money in the chest, that the king's scribe and the high priest came up, and they put it in bags and counted the money that was found in the house of the LORD.
 * `2Ch 14:13` And Asa and the people who were with him pursued them to Gerar. And the Cushites were overthrown so that they could not recover themselves, for they were destroyed before the LORD and before his host. And they carried away a large *_amount_* of plunder.
 * `2Ch 25:13` But the soldiers of the army whom Amaziah sent back, so that they should not go with him to battle, fell upon the cities of Judah, from Samaria even to Beth-horon, and smote three thousand of them and took a large *_amount_* of plunder.
 * `2Ch 28:8` And the children of Israel carried away captive from their brothers two hundred thousand women, sons, and daughters. They also took away a large *_amount_* of plunder from them and brought the plunder to Samaria.
 * `Rev 18:7` However much she has glorified herself and lived deliciously, in such *_amount_* give her torment and sorrow, for she says in her heart, '"I sit as a queen," "I am not a widow, and never shall I see sorrow."'
 
-_6 verses containing AMOUNT_
+_7 verses containing AMOUNT_
 
 == AMOUNTING
 

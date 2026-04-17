@@ -217,7 +217,7 @@ _1 verse containing JORAI_
 * `2Ki 9:16` So Jehu rode in a chariot and went to Jezreel, for *_Joram_* lay there. And Ahaziah king of Judah had come down to see *_Joram_*.
 * `2Ki 9:17` And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came and said, "I see a company." And *_Joram_* said, "Take a horseman and send to meet them, and let him say, 'Is it peace?'"
 * `2Ki 9:21` And *_Joram_* said, "Make ready." And his chariot was made ready. And *_Joram_* king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu and met him in the portion of Naboth the Jezreelite.
-* `2Ki 9:22` And it came to pass, when *_Joram_* saw Jehu, that he said, "Is it peace, Jehu?" And he answered, "What peace, so long as the lewd acts of your mother Jezebel and her witchcrafts are so many?"
+* `2Ki 9:22` And it came to pass when *_Joram_* saw Jehu, that he said, "Is it peace, Jehu?" And he answered, "What peace, so long as the lewd acts of your mother Jezebel and her witchcrafts are so many?"
 * `2Ki 9:23` And *_Joram_* turned his hands and fled and said to Ahaziah, "There is treachery, O Ahaziah."
 * `2Ki 9:29` And in the eleventh year of *_Joram_* the son of Ahab, Ahaziah began to reign over Judah.
 * `2Ki 11:2` But Jehosheba, the daughter of king *_Joram_*, sister of Ahaziah, took Joash the son of Ahaziah and stole him from among the king's sons who were slain. And they hid him, even him and his nurse, in the bed-chamber from Athaliah so that he was not slain.
@@ -1644,8 +1644,8 @@ _1 verse containing JUCAL_
 * `2Ki 10:13` Jehu met with the brothers of Ahaziah king of *_Judah_* and said, "Who are you?" And they answered, "We are the brothers of Ahaziah, and we go down to salute the children of the king and the children of the queen."
 * `2Ki 12:18` And Jehoash king of *_Judah_* took all the hallowed things that Jehoshaphat, Jehoram, and Ahaziah, his fathers, kings of *_Judah_*, had dedicated, his own hallowed things, and all the gold that was found in the treasures of the house of the LORD and in the king's house, and sent it to Hazael king of Syria. And he went away from Jerusalem.
 * `2Ki 12:19` And the rest of the acts of Joash and all that he did, are they not written in the book of the chronicles of the kings of *_Judah_*?
-* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of *_Judah_*, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
-* `2Ki 13:10` In the thirty-seventh year of Joash king of *_Judah_*, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned sixteen years.
+* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of *_Judah_*, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned for seventeen years.
+* `2Ki 13:10` In the thirty-seventh year of Joash king of *_Judah_*, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned for sixteen years.
 * `2Ki 13:12` And the rest of the acts of Joash and all that he did and his might with which he fought against Amaziah king of *_Judah_*, are they not written in the book of the chronicles of the kings of Israel?
 * `2Ki 14:1` In the second year of Joash son of Jehoahaz king of Israel, Amaziah the son of Joash king of *_Judah_* reigned.
 * `2Ki 14:9` And Jehoash the king of Israel sent to Amaziah king of *_Judah_*, saying, "The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, 'Give your daughter to my son for a wife.' Then a wild beast that was in Lebanon passed by and trod down the thistle.
@@ -1654,25 +1654,25 @@ _1 verse containing JUCAL_
 * `2Ki 14:12` And *_Judah_* was defeated before Israel, and they each fled to their tents.
 * `2Ki 14:13` And Jehoash king of Israel took Amaziah king of *_Judah_*, the son of Jehoash the son of Ahaziah, at Beth-shemesh, and came to Jerusalem and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 * `2Ki 14:15` Now the rest of the acts of Jehoash which he did and his might and how he fought with Amaziah king of *_Judah_*, are they not written in the book of the chronicles of the kings of Israel?
-* `2Ki 14:17` And Amaziah the son of Joash king of *_Judah_* lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+* `2Ki 14:17` And Amaziah the son of Joash king of *_Judah_* lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
 * `2Ki 14:18` And the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of *_Judah_*?
 * `2Ki 14:21` And all the people of *_Judah_* took Azariah, who was sixteen years old, and made him king instead of his father Amaziah.
 * `2Ki 14:22` He built Elath and restored it to *_Judah_* after the king slept with his fathers.
-* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of *_Judah_*, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty-one years.
+* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of *_Judah_*, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned for forty-one years.
 * `2Ki 14:28` Now the rest of the acts of Jeroboam and all that he did and his might, how he warred and how he recovered for Israel both Damascus and Hamath, which belonged to *_Judah_*, are they not written in the book of the chronicles of the kings of Israel?
 * `2Ki 15:1` In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of *_Judah_* began to reign.
 * `2Ki 15:6` And the rest of the acts of Azariah and all that he did, are they not written in the book of the chronicles of the kings of *_Judah_*?
-* `2Ki 15:8` In the thirty-eighth year of Azariah king of *_Judah_*, Zachariah the son of Jeroboam reigned over Israel in Samaria six months.
-* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of *_Judah_*, and he reigned a full month in Samaria.
-* `2Ki 15:17` In the thirty-ninth year of Azariah king of *_Judah_*, Menahem the son of Gadi began to reign over Israel, and reigned ten years in Samaria.
-* `2Ki 15:23` In the fiftieth year of Azariah king of *_Judah_*, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
-* `2Ki 15:27` In the fifty-second year of Azariah king of *_Judah_*, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
+* `2Ki 15:8` In the thirty-eighth year of Azariah king of *_Judah_*, Zachariah the son of Jeroboam reigned over Israel in Samaria for six months.
+* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of *_Judah_*, and he reigned for a full month in Samaria.
+* `2Ki 15:17` In the thirty-ninth year of Azariah king of *_Judah_*, Menahem the son of Gadi began to reign over Israel, and reigned for ten years in Samaria.
+* `2Ki 15:23` In the fiftieth year of Azariah king of *_Judah_*, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned for two years.
+* `2Ki 15:27` In the fifty-second year of Azariah king of *_Judah_*, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned for twenty years.
 * `2Ki 15:32` In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of Uzziah king of *_Judah_* began to reign.
 * `2Ki 15:36` Now the rest of the acts of Jotham and all that he did, are they not written in the book of the chronicles of the kings of *_Judah_*?
 * `2Ki 15:37` In those days the LORD began to send Rezin the king of Syria and Pekah the son of Remaliah against *_Judah_*.
 * `2Ki 16:1` In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of *_Judah_* began to reign.
 * `2Ki 16:19` Now the rest of the acts of Ahaz which he did, are they not written in the book of the chronicles of the kings of *_Judah_*?
-* `2Ki 17:1` In the twelfth year of Ahaz king of *_Judah_*, Hoshea the son of Elah began to reign in Samaria over Israel nine years.
+* `2Ki 17:1` In the twelfth year of Ahaz king of *_Judah_*, Hoshea the son of Elah began to reign in Samaria over Israel for nine years.
 * `2Ki 17:13` Yet the LORD testified against Israel and against *_Judah_* by all the prophets and by all the seers, saying, "Turn from your evil ways and keep my commandments and my statutes, according to all the law which I commanded your fathers and which I sent to you by my servants the prophets."
 * `2Ki 17:18` Therefore, the LORD was very angry with Israel and removed them out of his sight. There was none left but the tribe of *_Judah_* only.
 * `2Ki 17:19` Even *_Judah_* did not keep the commandments of the LORD their God, but walked in the statutes of Israel which they made.
@@ -3173,6 +3173,7 @@ _1 verse containing JUSHAB-HESED_
 * `Deu 32:4` "The Rock—his work is perfect. For all his ways are judgment. A God of truth and without iniquity. He is *_just_* and right.
 * `Jdg 7:19` So Gideon and the hundred men who were with him came to the outside of the camp at the beginning of the middle watch, and they had *_just_* set the watch. And they blew the trumpets and broke the pitchers that were in their hands.
 * `2Sa 23:3` The God of Israel said, the Rock of Israel spoke to me, 'He who rules over men must be *_just_*, ruling in the fear of God.
+* `2Ki 7:18` And it came to pass *_just_* as the man of God had spoken to the king, saying, "Two measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
 * `Neh 9:33` But you are *_just_* in all that is brought upon us. For you have done right, but we have done wickedly.
 * `Job 1:1` There was a man in the land of Uz whose name was Job. And that man was upright and *_just_*, and one who feared God and shunned evil.
 * `Job 1:8` And the LORD said to Satan, "Have you considered my servant Job, that there is no one like him on the earth, an upright and a *_just_* man, one who fears God and shuns evil?"
@@ -3263,7 +3264,7 @@ _1 verse containing JUSHAB-HESED_
 * `1Jn 1:9` If we confess our sins, he is faithful and *_just_* to forgive our sins and to cleanse us from all unrighteousness.
 * `Rev 15:3` And they sing the song of Moses the servant of God and the song of the Lamb, saying, "Great and marvelous are your works, Lord God Almighty. *_Just_* and true are your ways, 'King of nations.'
 
-_98 verses containing JUST_
+_99 verses containing JUST_
 
 == JUSTICE
 

@@ -779,7 +779,7 @@ _10 verses containing TURTLE-DOVES_
 * `Num 7:78` On the *_twelfth_* day Ahira the son of Enan, prince of the children of Naphtali, offered.
 * `1Ki 19:19` So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he was with the *_twelfth_*. And Elijah passed by him and cast his mantle upon him.
 * `2Ki 8:25` In the *_twelfth_* year of Joram the son of Ahab king of Israel, Ahaziah the son of Jehoram king of Judah began to reign.
-* `2Ki 17:1` In the *_twelfth_* year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel nine years.
+* `2Ki 17:1` In the *_twelfth_* year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years.
 * `2Ki 25:27` And it came to pass in the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the *_twelfth_* month, on the twenty-seventh day of the month, that Evil-merodach king of Babylon, in the year that he began to reign, lifted up the head of Jehoiachin king of Judah out of prison.
 * `1Ch 24:12` The eleventh to Eliashib, the *_twelfth_* to Jakim,
 * `1Ch 25:19` The *_twelfth_* to Hashabiah—he, his sons, and his brothers were twelve;
@@ -1097,12 +1097,12 @@ _9 verses containing TWENTIETH_
 * `2Ki 8:26` Ahaziah was *_twenty_*-two years old when he began to reign, and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 * `2Ki 10:36` And the time that Jehu reigned over Israel in Samaria was *_twenty_*-eight years.
 * `2Ki 12:6` But it was so, that in the *_twenty_*-third year of king Jehoash the priests had not repaired the breaches of the house.
-* `2Ki 13:1` In the *_twenty_*-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
-* `2Ki 14:2` He was *_twenty_*-five years old when he began to reign, and he reigned *_twenty_*-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ki 13:1` In the *_twenty_*-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned for seventeen years.
+* `2Ki 14:2` He was *_twenty_*-five years old when he began to reign, and he reigned for *_twenty_*-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 * `2Ki 15:1` In the *_twenty_*-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.
-* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned *_twenty_* years.
-* `2Ki 15:33` He was *_twenty_*-five years old when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
-* `2Ki 16:2` Ahaz was *_twenty_* years old when he began to reign, and reigned sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
+* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned for *_twenty_* years.
+* `2Ki 15:33` He was *_twenty_*-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
+* `2Ki 16:2` Ahaz was *_twenty_* years old when he began to reign, and reigned for sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
 * `2Ki 18:2` He was *_twenty_*-five years old when he began to reign, and he reigned *_twenty_*-nine years in Jerusalem. His mother's name was Abi, the daughter of Zachariah.
 * `2Ki 21:19` Amon was *_twenty_*-two years old when he began to reign, and he reigned two years in Jerusalem. And his mother's name was Meshullemeth, the daughter of Haruz of Jotbah.
 * `2Ki 23:31` Jehoahaz was *_twenty_*-three years old when he began to reign, and he reigned three months in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
@@ -1315,8 +1315,8 @@ _4 verses containing TWENTY-FIRST_
 * `Jdg 20:35` And the LORD smote Benjamin before Israel. And the children of Israel destroyed *_twenty-five_* thousand and one hundred men of the Benjaminites that day. All these drew the sword.
 * `Jdg 20:46` So all who fell that day of Benjamin were *_twenty-five_* thousand men who drew the sword. All these were men of valor.
 * `1Ki 22:42` Jehoshaphat was thirty-five years old when he began to reign, and he reigned for *_twenty-five_* years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
-* `2Ki 14:2` He was *_twenty-five_* years old when he began to reign, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-* `2Ki 15:33` He was *_twenty-five_* years old when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
+* `2Ki 14:2` He was *_twenty-five_* years old when he began to reign, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ki 15:33` He was *_twenty-five_* years old when he began to reign, and he reigned for sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
 * `2Ki 18:2` He was *_twenty-five_* years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother's name was Abi, the daughter of Zachariah.
 * `2Ki 23:36` Jehoiakim was *_twenty-five_* years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
 * `2Ch 20:31` And Jehoshaphat reigned over Judah. He was thirty-five years old when he began to reign, and he reigned *_twenty-five_* years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi.
@@ -1401,7 +1401,7 @@ _9 verses containing TWENTY-FOURTH_
 * `Gen 11:24` And Nahor lived *_twenty-nine_* years and begot Terah.
 * `Exo 38:24` All the gold that was occupied for the work in all the work of the holy place, even the gold of the offering, was *_twenty-nine_* talents and seven hundred and thirty shekels, after the shekel of the sanctuary.
 * `Jsh 15:32` Lebaoth, Shilhim, Ain, and Rimmon. All the cities are *_twenty-nine_*, with their villages.
-* `2Ki 14:2` He was twenty-five years old when he began to reign, and he reigned *_twenty-nine_* years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ki 14:2` He was twenty-five years old when he began to reign, and he reigned for *_twenty-nine_* years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 * `2Ki 18:2` He was twenty-five years old when he began to reign, and he reigned *_twenty-nine_* years in Jerusalem. His mother's name was Abi, the daughter of Zachariah.
 * `2Ch 25:1` Amaziah was twenty-five years old when he began to reign, and he reigned *_twenty-nine_* years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 * `2Ch 29:1` Hezekiah began to reign when he was twenty-five years old, and he reigned *_twenty-nine_* years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
@@ -1465,7 +1465,7 @@ _1 verse containing TWENTY-SIXTH_
 == TWENTY-THIRD
 
 * `2Ki 12:6` But it was so, that in the *_twenty-third_* year of king Jehoash the priests had not repaired the breaches of the house.
-* `2Ki 13:1` In the *_twenty-third_* year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
+* `2Ki 13:1` In the *_twenty-third_* year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned for seventeen years.
 * `1Ch 24:18` The *_twenty-third_* to Delaiah, and the twenty-fourth to Maaziah.
 * `1Ch 25:30` The *_twenty-third_* to Mahazioth—he, his sons, and his brothers were twelve;
 * `2Ch 7:10` And on the *_twenty-third_* day of the seventh month he sent the people away to their tents, glad and merry in heart for the goodness that the LORD had shown to David, to Solomon, and to Israel his people.
@@ -1993,7 +1993,7 @@ _6 verses containing TWINS_
 * `2Ki 7:1` Then Elisha said, "Hear the word of the LORD. Thus says the LORD: 'Tomorrow about this time a measure of fine flour shall be sold for a shekel and *_two_* measures of barley for a shekel in the gate of Samaria.'"
 * `2Ki 7:14` They took therefore *_two_* chariots with horses. And the king sent after the host of the Syrians, saying, "Go and see."
 * `2Ki 7:16` And the people went out and plundered the tents of the Syrians. So a measure of fine flour was sold for a shekel and *_two_* measures of barley for a shekel, according to the word of the LORD.
-* `2Ki 7:18` And it came to pass as the man of God had spoken to the king, saying, "*_Two_* measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
+* `2Ki 7:18` And it came to pass just as the man of God had spoken to the king, saying, "*_Two_* measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
 * `2Ki 8:17` He was thirty-*_two_* years old when he began to reign, and he reigned eight years in Jerusalem.
 * `2Ki 8:26` Ahaziah was twenty-*_two_* years old when he began to reign, and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 * `2Ki 9:32` And he lifted up his face to the window and said, "Who is on my side? Who?" And *_two_* or three eunuchs looked out to him.
@@ -2001,8 +2001,8 @@ _6 verses containing TWINS_
 * `2Ki 10:8` And a messenger came and told him, saying, "They have brought the heads of the king's sons." And he said, "Lay them in *_two_* heaps at the entrance of the gate until the morning."
 * `2Ki 10:14` And he said, "Take them alive." And they took them alive and slew them at the pit of the shearing-house, even forty-*_two_* men. He did not leave any of them.
 * `2Ki 11:7` And *_two_* parts of all you who go forth on the sabbath, even they shall keep the watch of the house of the LORD around the king.
-* `2Ki 15:2` He was sixteen years old when he began to reign, and he reigned fifty-*_two_* years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
-* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned *_two_* years.
+* `2Ki 15:2` He was sixteen years old when he began to reign, and he reigned for fifty-*_two_* years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
+* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned for *_two_* years.
 * `2Ki 17:16` And they left all the commandments of the LORD their God, made for themselves molten images, even *_two_* calves, and made a grove, worshiped all the host of heaven, and served Baal.
 * `2Ki 18:23` Now therefore, I pray you, give pledges to my lord the king of Assyria, and I will deliver you *_two_* thousand horses, if you are able on your part to set riders upon them.
 * `2Ki 21:5` And he built altars for all the host of heaven in the *_two_* courts of the house of the LORD.

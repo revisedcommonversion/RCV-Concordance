@@ -312,22 +312,22 @@ _1 verse containing REI_
 * `2Ki 8:26` Ahaziah was twenty-two years old when he began to *_reign_*, and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 * `2Ki 9:29` And in the eleventh year of Joram the son of Ahab, Ahaziah began to *_reign_* over Judah.
 * `2Ki 11:21` Jehoash was seven years old when he began to *_reign_*.
-* `2Ki 12:1` In the seventh year of Jehu, Jehoash began to *_reign_*, and he reigned forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
-* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to *_reign_* over Israel in Samaria, and reigned seventeen years.
-* `2Ki 13:10` In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to *_reign_* over Israel in Samaria, and he reigned sixteen years.
-* `2Ki 14:2` He was twenty-five years old when he began to *_reign_*, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to *_reign_* in Samaria, and reigned forty-one years.
+* `2Ki 12:1` In the seventh year of Jehu, Jehoash began to *_reign_*, and he reigned for forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
+* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to *_reign_* over Israel in Samaria, and reigned for seventeen years.
+* `2Ki 13:10` In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to *_reign_* over Israel in Samaria, and he reigned for sixteen years.
+* `2Ki 14:2` He was twenty-five years old when he began to *_reign_*, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to *_reign_* in Samaria, and reigned for forty-one years.
 * `2Ki 15:1` In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to *_reign_*.
-* `2Ki 15:2` He was sixteen years old when he began to *_reign_*, and he reigned fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
-* `2Ki 15:13` Shallum the son of Jabesh began to *_reign_* in the thirty-ninth year of Uzziah king of Judah, and he reigned a full month in Samaria.
-* `2Ki 15:17` In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to *_reign_* over Israel, and reigned ten years in Samaria.
-* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to *_reign_* over Israel in Samaria, and reigned two years.
-* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to *_reign_* over Israel in Samaria, and reigned twenty years.
+* `2Ki 15:2` He was sixteen years old when he began to *_reign_*, and he reigned for fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
+* `2Ki 15:13` Shallum the son of Jabesh began to *_reign_* in the thirty-ninth year of Uzziah king of Judah, and he reigned for a full month in Samaria.
+* `2Ki 15:17` In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to *_reign_* over Israel, and reigned for ten years in Samaria.
+* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to *_reign_* over Israel in Samaria, and reigned for two years.
+* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to *_reign_* over Israel in Samaria, and reigned for twenty years.
 * `2Ki 15:32` In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of Uzziah king of Judah began to *_reign_*.
-* `2Ki 15:33` He was twenty-five years old when he began to *_reign_*, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
+* `2Ki 15:33` He was twenty-five years old when he began to *_reign_*, and he reigned for sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
 * `2Ki 16:1` In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of Judah began to *_reign_*.
-* `2Ki 16:2` Ahaz was twenty years old when he began to *_reign_*, and reigned sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
-* `2Ki 17:1` In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to *_reign_* in Samaria over Israel nine years.
+* `2Ki 16:2` Ahaz was twenty years old when he began to *_reign_*, and reigned for sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
+* `2Ki 17:1` In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to *_reign_* in Samaria over Israel for nine years.
 * `2Ki 18:1` Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to *_reign_*.
 * `2Ki 18:2` He was twenty-five years old when he began to *_reign_*, and he reigned twenty-nine years in Jerusalem. His mother's name was Abi, the daughter of Zachariah.
 * `2Ki 21:1` Manasseh was twelve years old when he began to *_reign_*, and he reigned fifty-five years in Jerusalem. And his mother's name was Hephzi-bah.
@@ -494,32 +494,32 @@ _158 verses containing REIGN_
 * `2Ki 10:35` And Jehu slept with his fathers, and they buried him in Samaria. And Jehoahaz his son *_reigned_* in his stead.
 * `2Ki 10:36` And the time that Jehu *_reigned_* over Israel in Samaria was twenty-eight years.
 * `2Ki 11:3` And he was hid with her in the house of the LORD six years. And Athaliah *_reigned_* over the land.
-* `2Ki 12:1` In the seventh year of Jehu, Jehoash began to reign, and he *_reigned_* forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
+* `2Ki 12:1` In the seventh year of Jehu, Jehoash began to reign, and he *_reigned_* for forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
 * `2Ki 12:21` For his servants, Jozachar the son of Shimeath and Jehozabad the son of Shomer, smote him, and he died. And they buried him with his fathers in the city of David. And Amaziah his son *_reigned_* in his stead.
-* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and *_reigned_* seventeen years.
+* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and *_reigned_* for seventeen years.
 * `2Ki 13:9` And Jehoahaz slept with his fathers, and they buried him in Samaria. And Joash his son *_reigned_* in his stead.
-* `2Ki 13:10` In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he *_reigned_* sixteen years.
+* `2Ki 13:10` In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he *_reigned_* for sixteen years.
 * `2Ki 13:24` So Hazael king of Syria died, and Ben-hadad his son *_reigned_* in his stead.
 * `2Ki 14:1` In the second year of Joash son of Jehoahaz king of Israel, Amaziah the son of Joash king of Judah *_reigned_*.
-* `2Ki 14:2` He was twenty-five years old when he began to reign, and he *_reigned_* twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ki 14:2` He was twenty-five years old when he began to reign, and he *_reigned_* for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 * `2Ki 14:16` And Jehoash slept with his fathers and was buried in Samaria with the kings of Israel. And Jeroboam his son *_reigned_* in his stead.
-* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and *_reigned_* forty-one years.
+* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and *_reigned_* for forty-one years.
 * `2Ki 14:29` And Jeroboam slept with his fathers, even with the kings of Israel. And Zachariah his son *_reigned_* in his stead.
-* `2Ki 15:2` He was sixteen years old when he began to reign, and he *_reigned_* fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
+* `2Ki 15:2` He was sixteen years old when he began to reign, and he *_reigned_* for fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
 * `2Ki 15:7` So Azariah slept with his fathers, and they buried him with his fathers in the city of David. And Jotham his son *_reigned_* in his stead.
-* `2Ki 15:8` In the thirty-eighth year of Azariah king of Judah, Zachariah the son of Jeroboam *_reigned_* over Israel in Samaria six months.
+* `2Ki 15:8` In the thirty-eighth year of Azariah king of Judah, Zachariah the son of Jeroboam *_reigned_* over Israel in Samaria for six months.
 * `2Ki 15:10` And Shallum the son of Jabesh conspired against him, smote him before the people, slew him, and *_reigned_* in his stead.
-* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he *_reigned_* a full month in Samaria.
+* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he *_reigned_* for a full month in Samaria.
 * `2Ki 15:14` For Menahem the son of Gadi went up from Tirzah, came to Samaria, smote Shallum the son of Jabesh in Samaria, slew him, and *_reigned_* in his stead.
-* `2Ki 15:17` In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, and *_reigned_* ten years in Samaria.
+* `2Ki 15:17` In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, and *_reigned_* for ten years in Samaria.
 * `2Ki 15:22` And Menahem slept with his fathers, and Pekahiah his son *_reigned_* in his stead.
-* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and *_reigned_* two years.
+* `2Ki 15:23` In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and *_reigned_* for two years.
 * `2Ki 15:25` But Pekah the son of Remaliah, a captain of his, conspired against him and smote him in Samaria at the palace of the king's house, with Argob and Arieh. Fifty men of the Gileadites were with him. And he killed him and *_reigned_* in his stead.
-* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and *_reigned_* twenty years.
+* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and *_reigned_* for twenty years.
 * `2Ki 15:30` And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, smote him, slew him, and *_reigned_* in his stead, in the twentieth year of Jotham the son of Uzziah.
-* `2Ki 15:33` He was twenty-five years old when he began to reign, and he *_reigned_* sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
+* `2Ki 15:33` He was twenty-five years old when he began to reign, and he *_reigned_* for sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
 * `2Ki 15:38` And Jotham slept with his fathers and was buried with his fathers in the city of David his father. And Ahaz his son *_reigned_* in his stead.
-* `2Ki 16:2` Ahaz was twenty years old when he began to reign, and *_reigned_* sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
+* `2Ki 16:2` Ahaz was twenty years old when he began to reign, and *_reigned_* for sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
 * `2Ki 16:20` And Ahaz slept with his fathers and was buried with his fathers in the city of David. And Hezekiah his son *_reigned_* in his stead.
 * `2Ki 18:2` He was twenty-five years old when he began to reign, and he *_reigned_* twenty-nine years in Jerusalem. His mother's name was Abi, the daughter of Zachariah.
 * `2Ki 19:37` And it came to pass, as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword, and they escaped into the land of Armenia. And Esar-haddon his son *_reigned_* in his stead.
@@ -1169,7 +1169,7 @@ _2 verses containing RELY_
 * `2Sa 10:5` When they told it to David, he sent to meet them, because the men were greatly ashamed. And the king said, "*_Remain_* in Jericho until your beards have grown and then return."
 * `2Sa 19:7` Now therefore, arise, go forth, and speak comfortably to your servants, for I swear by the LORD, if you shall not go forth, no one will *_remain_* with you this night. And that will be worse to you than all the evil that has befallen you from your youth until now."
 * `1Ki 18:22` Then Elijah said to the people, "I, even I only, *_remain_* a prophet of the LORD, but Baal's prophet's are four hundred and fifty men.
-* `2Ki 7:13` And one of his servants answered and said, "Let some take, I pray you, five of the horses that *_remain_*, which are left in the city (behold, they are as all the multitude of Israel who are left in it, behold, I say, they are even as all the multitude of the Israelites who are consumed), and let us send and see."
+* `2Ki 7:13` And one of his servants answered and said, "Let some take, I pray you, five of the horses that *_remain_*, which are left in the city (behold, they are like all the multitude of Israel who are left in it, behold, I say, they are even like all the multitude of the Israelites who are consumed), and let us send and see."
 * `1Ch 19:5` Then some went and told David how the men were served. And he sent to meet them, for the men were greatly ashamed. And the king said, "*_Remain_* in Jericho until your beards have grown, and then return."
 * `Est 3:8` And Haman said to king Ahasuerus, "There is a certain people scattered abroad and dispersed among the people in all the provinces of your kingdom. And their laws are diverse from all people, neither do they keep the king's laws. Therefore, it is not for the king's profit to allow them to *_remain_*.
 * `Job 21:32` Yet he shall be brought to the grave and shall *_remain_* in the tomb.
@@ -1384,7 +1384,7 @@ _43 verses containing REMAINS_
 == REMALIAH
 
 * `2Ki 15:25` But Pekah the son of *_Remaliah_*, a captain of his, conspired against him and smote him in Samaria at the palace of the king's house, with Argob and Arieh. Fifty men of the Gileadites were with him. And he killed him and reigned in his stead.
-* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of *_Remaliah_* began to reign over Israel in Samaria, and reigned twenty years.
+* `2Ki 15:27` In the fifty-second year of Azariah king of Judah, Pekah the son of *_Remaliah_* began to reign over Israel in Samaria, and reigned for twenty years.
 * `2Ki 15:30` And Hoshea the son of Elah made a conspiracy against Pekah the son of *_Remaliah_*, smote him, slew him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah.
 * `2Ki 15:32` In the second year of Pekah the son of *_Remaliah_* king of Israel, Jotham the son of Uzziah king of Judah began to reign.
 * `2Ki 15:37` In those days the LORD began to send Rezin the king of Syria and Pekah the son of *_Remaliah_* against Judah.

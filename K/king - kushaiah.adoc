@@ -671,7 +671,7 @@
 * `2Ki 6:28` And the *_king_* said to her, "What ails you?" And she answered, "This woman said to me, 'Give your son so that we may eat him today, and we will eat my son tomorrow.'
 * `2Ki 6:30` And it came to pass when the *_king_* heard the words of the woman, that he rent his clothes. And he passed by upon the wall, and the people looked, and behold, he had sackcloth within upon his flesh.
 * `2Ki 6:32` But Elisha sat in his house, and the elders sat with him, and the *_king_* sent a man from before him. But before the messenger came to him, he said to the elders, "See how this son of a murderer has sent to take away my head? Look, when the messenger comes, shut the door and hold the door firmly against him. Is the sound of his master's feet not behind him?"
-* `2Ki 7:2` Then a lord on whose hand the *_king_* leaned answered the man of God and said, "Behold, if the LORD would make windows in heaven, might this thing be?" And he said, "Behold, you shall see it with your eyes, but shall not eat of it."
+* `2Ki 7:2` Then a lord on whose hand the *_king_* leaned answered the man of God and said, "Behold, if the LORD would make windows in heaven, might this thing be?" And he said, "Behold, you shall see it with your eyes, but shall not eat any of it."
 * `2Ki 7:6` (For the Lord had made the army of the Syrians to hear a noise of chariots and a noise of horses, even the noise of a great army. And they said to one another, "Behold, the *_king_* of Israel has hired against us the kings of the Hittites and the kings of the Egyptians to come upon us."
 * `2Ki 7:9` Then they said to one another, "We do not do right. This day is a day of good tidings, and we hold our peace. If we wait until the morning light, some mischief will come upon us. Now therefore, come, so that we may go and tell the *_king_*'s household."
 * `2Ki 7:11` And he called the gatekeepers, and they told it to the *_king_*'s house within.
@@ -679,14 +679,14 @@
 * `2Ki 7:14` They took therefore two chariots with horses. And the *_king_* sent after the host of the Syrians, saying, "Go and see."
 * `2Ki 7:15` And they went after them to the Jordan. And behold, the whole way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned and told the *_king_*.
 * `2Ki 7:17` And the *_king_* appointed the lord on whose hand he leaned to have the charge of the gate. And the people trod upon him in the gate and he died, as the man of God had said, who spoke when the *_king_* came down to him.
-* `2Ki 7:18` And it came to pass as the man of God had spoken to the *_king_*, saying, "Two measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
+* `2Ki 7:18` And it came to pass just as the man of God had spoken to the *_king_*, saying, "Two measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
 * `2Ki 8:3` And it came to pass at the seven years' end, that the woman returned from the land of the Philistines. And she went forth to cry to the *_king_* for her house and for her land.
 * `2Ki 8:4` And the *_king_* talked with Gehazi the servant of the man of God, saying, "Tell me, I pray you, all the great things that Elisha has done."
-* `2Ki 8:5` And it came to pass, as he was telling the *_king_* how [Elisha] had restored a dead body to life, that behold, the woman, whose son he had restored to life, cried to the *_king_* for her house and for her land. And Gehazi said, "My lord, O *_king_*, this is the woman and this is her son whom Elisha restored to life."
+* `2Ki 8:5` And it came to pass as he was telling the *_king_* how [Elisha] had restored a dead body to life, that behold, the woman, whose son he had restored to life, cried to the *_king_* for her house and for her land. And Gehazi said, "My lord, O *_king_*, this is the woman and this is her son whom Elisha restored to life."
 * `2Ki 8:6` And when the *_king_* asked the woman, she told him. So the *_king_* appointed to her a certain officer, saying, "Restore all that was hers and all the fruits of the field since the day that she left the land even until now."
 * `2Ki 8:7` And Elisha came to Damascus. And Ben-hadad the *_king_* of Syria was sick. And it was told to him, saying, "The man of God has come here."
-* `2Ki 8:8` And the *_king_* said to Hazael, "Take a present in your hand, and go, meet the man of God, and inquire of the LORD by him, saying, 'Shall I recover of this disease?'"
-* `2Ki 8:9` So Hazael went to meet him and took a present with him, even forty camels' burden of every good thing of Damascus, and came and stood before him and said, "Your son Ben-hadad *_king_* of Syria has sent me to you, saying, 'Shall I recover of this disease?'"
+* `2Ki 8:8` And the *_king_* said to Hazael, "Take a present in your hand, go meet the man of God, and inquire of the LORD by him, saying, 'Shall I recover from this disease?'"
+* `2Ki 8:9` So Hazael went to meet him and took a present with him, even forty camels' burden of every good thing of Damascus, and came and stood before him and said, "Your son Ben-hadad *_king_* of Syria has sent me to you, saying, 'Shall I recover from this disease?'"
 * `2Ki 8:13` And Hazael said, "But what, is your servant a dog that he should do this great thing?" And Elisha answered, "The LORD has shown me that you will be *_king_* over Syria."
 * `2Ki 8:16` And in the fifth year of Joram the son of Ahab *_king_* of Israel (Jehoshaphat being then *_king_* of Judah), Jehoram the son of Jehoshaphat *_king_* of Judah began to reign.
 * `2Ki 8:20` In his days, Edom revolted from under the hand of Judah and made a *_king_* over themselves.
@@ -695,7 +695,7 @@
 * `2Ki 8:28` And he went with Joram the son of Ahab to the war against Hazael *_king_* of Syria in Ramoth-gilead, and the Syrians wounded Joram.
 * `2Ki 8:29` And *_king_* Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah when he fought against Hazael *_king_* of Syria. And Ahaziah the son of Jehoram *_king_* of Judah went down to see Joram the son of Ahab in Jezreel because he was sick.
 * `2Ki 9:3` Then take the vial of oil and pour it on his head and say, 'Thus says the LORD: "I have anointed you *_king_* over Israel."' Then open the door and flee, and do not wait."
-* `2Ki 9:6` And he arose, went into the house, and he poured the oil on his head, and said to him, "Thus says the LORD God of Israel: 'I have anointed you *_king_* over the people of the LORD, even over Israel.
+* `2Ki 9:6` And he arose, went into the house, and he poured the oil on his head and said to him, "Thus says the LORD God of Israel: 'I have anointed you *_king_* over the people of the LORD, even over Israel.
 * `2Ki 9:12` And they said, "It is false. Tell us now." And he said, "In this manner he spoke to me, saying, 'Thus says the LORD: "I have anointed you *_king_* over Israel."'"
 * `2Ki 9:13` Then they hastened, and every man took his garment, put it under him on the top of the stairs, and blew with trumpets, saying, "Jehu is *_king_*."
 * `2Ki 9:14` So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramoth-gilead—he and all Israel—because of Hazael *_king_* of Syria.
@@ -705,10 +705,10 @@
 * `2Ki 9:19` Then he sent out a second horseman, who came to them and said, "Thus says the *_king_*: 'Is it peace?'" And Jehu answered, "What have you to do with peace? Turn behind me."
 * `2Ki 9:21` And Joram said, "Make ready." And his chariot was made ready. And Joram *_king_* of Israel and Ahaziah *_king_* of Judah went out, each in his chariot, and they went out against Jehu and met him in the portion of Naboth the Jezreelite.
 * `2Ki 9:27` But when Ahaziah the *_king_* of Judah saw this, he fled by the way of the garden house. And Jehu followed him and said, "Smite him also in the chariot." And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo and died there.
-* `2Ki 9:34` And when he had come in, he ate and drank, and said, "Go, see now this cursed woman and bury her, for she is a *_king_*'s daughter."
+* `2Ki 9:34` And when he had come in, he ate and drank and said, "Go, see now this cursed woman and bury her, for she is a *_king_*'s daughter."
 * `2Ki 10:5` And he who was over the house and he who was over the city, the elders also, and those who brought up the children, sent to Jehu, saying, "We are your servants and will do all that you shall bid us. We will not make any *_king_*. Do that which is good in your eyes."
-* `2Ki 10:6` Then he wrote a letter the second time to them, saying, "If you are mine and if you will listen to my voice, take the heads of the men your master's sons and come to me to Jezreel by tomorrow this time." Now the *_king_*'s sons, being seventy persons, were with the great men of the city who brought them up.
-* `2Ki 10:7` And it came to pass, when the letter came to them, that they took the *_king_*'s sons and slew them, seventy persons, and put their heads in baskets and sent them to him to Jezreel.
+* `2Ki 10:6` Then he wrote a letter the second time to them, saying, "If you are mine and if you will listen to my voice, take the heads of the men, your master's sons, and come to me to Jezreel by tomorrow this time." Now the *_king_*'s sons, being seventy persons, were with the great men of the city who brought them up.
+* `2Ki 10:7` And it came to pass when the letter came to them, that they took the *_king_*'s sons and slew them, seventy persons, and put their heads in baskets and sent them to him at Jezreel.
 * `2Ki 10:8` And a messenger came and told him, saying, "They have brought the heads of the *_king_*'s sons." And he said, "Lay them in two heaps at the entrance of the gate until the morning."
 * `2Ki 10:13` Jehu met with the brothers of Ahaziah *_king_* of Judah and said, "Who are you?" And they answered, "We are the brothers of Ahaziah, and we go down to salute the children of the *_king_* and the children of the queen."
 * `2Ki 11:2` But Jehosheba, the daughter of *_king_* Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him from among the *_king_*'s sons who were slain. And they hid him, even him and his nurse, in the bed-chamber from Athaliah so that he was not slain.
@@ -721,19 +721,19 @@
 * `2Ki 11:12` And he brought forth the *_king_*'s son, put the crown upon him, and gave him the testimony. And they made him *_king_* and anointed him, and they clapped their hands and said, "God save the *_king_*."
 * `2Ki 11:14` And when she looked, behold, the *_king_* stood by a pillar, as the manner was, and the princes and the trumpeters by the *_king_*, and all the people of the land rejoiced and blew with trumpets. And Athaliah rent her clothes and cried, "Treason, treason!"
 * `2Ki 11:16` So they laid hands on her, and she went by the way by which the horses came into the *_king_*'s house. And there she was slain.
-* `2Ki 11:17` And Jehoiada made a covenant between the LORD and the *_king_* and the people, that they should be the LORD'S people, between the *_king_* also and the people.
+* `2Ki 11:17` And Jehoiada made a covenant between the LORD and the *_king_* and the people, that they should be the LORD'S people, and also between the *_king_* and the people.
 * `2Ki 11:19` And he took the rulers over hundreds, the captains, the guard, and all the people of the land, and they brought the *_king_* down from the house of the LORD and came by the way of the gate of the guard to the *_king_*'s house. And he sat on the throne of the kings.
 * `2Ki 11:20` And all the people of the land rejoiced, and the city was quiet, because they slew Athaliah with the sword at the *_king_*'s house.
 * `2Ki 12:6` But it was so, that in the twenty-third year of *_king_* Jehoash the priests had not repaired the breaches of the house.
 * `2Ki 12:7` Then *_king_* Jehoash called for Jehoiada the priest and the other priests and said to them, "Why do you not repair the breaches of the house? Now therefore, receive no more money from your acquaintance, but deliver it for the breaches of the house."
-* `2Ki 12:10` And it was so, when they saw that there was much money in the chest, that the *_king_*'s scribe and the high priest came up, and they put it up in bags and counted the money that was found in the house of the LORD.
+* `2Ki 12:10` And it came to pass when they saw that there was a large amount of money in the chest, that the *_king_*'s scribe and the high priest came up, and they put it in bags and counted the money that was found in the house of the LORD.
 * `2Ki 12:17` Then Hazael *_king_* of Syria went up and fought against Gath and took it. And Hazael set his face to go up to Jerusalem.
 * `2Ki 12:18` And Jehoash *_king_* of Judah took all the hallowed things that Jehoshaphat, Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, his own hallowed things, and all the gold that was found in the treasures of the house of the LORD and in the *_king_*'s house, and sent it to Hazael *_king_* of Syria. And he went away from Jerusalem.
-* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah *_king_* of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
+* `2Ki 13:1` In the twenty-third year of Joash the son of Ahaziah *_king_* of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned for seventeen years.
 * `2Ki 13:3` And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael *_king_* of Syria and into the hand of Ben-hadad the son of Hazael all their days.
 * `2Ki 13:4` And Jehoahaz implored the LORD, and the LORD listened to him, for he saw the oppression of Israel because the *_king_* of Syria oppressed them.
 * `2Ki 13:7` For he did not leave to Jehoahaz any army except fifty horsemen, ten chariots, and ten thousand footmen, for the *_king_* of Syria had destroyed them and made them like the dust by threshing.
-* `2Ki 13:10` In the thirty-seventh year of Joash *_king_* of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned sixteen years.
+* `2Ki 13:10` In the thirty-seventh year of Joash *_king_* of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned for sixteen years.
 * `2Ki 13:12` And the rest of the acts of Joash and all that he did and his might with which he fought against Amaziah *_king_* of Judah, are they not written in the book of the chronicles of the kings of Israel?
 * `2Ki 13:14` Now Elisha had fallen sick with his disease of which he died. And Joash the *_king_* of Israel came down to him and wept over his face and said, "O my father, my father, the chariot of Israel and the horsemen thereof."
 * `2Ki 13:16` And he said to the *_king_* of Israel, "Put your hand upon the bow." And he put his hand upon it. And Elisha put his hands upon the *_king_*'s hands.
@@ -741,27 +741,27 @@
 * `2Ki 13:22` But Hazael *_king_* of Syria oppressed Israel all the days of Jehoahaz.
 * `2Ki 13:24` So Hazael *_king_* of Syria died, and Ben-hadad his son reigned in his stead.
 * `2Ki 14:1` In the second year of Joash son of Jehoahaz *_king_* of Israel, Amaziah the son of Joash *_king_* of Judah reigned.
-* `2Ki 14:5` And it came to pass, as soon as the kingdom was confirmed in his hand, that he slew his servants who had slain the *_king_* his father.
+* `2Ki 14:5` And it came to pass as soon as the kingdom was confirmed in his hand, that he slew his servants who had slain the *_king_* his father.
 * `2Ki 14:8` Then Amaziah sent messengers to Jehoash the son of Jehoahaz son of Jehu *_king_* of Israel, saying, "Come, let us look one another in the face."
 * `2Ki 14:9` And Jehoash the *_king_* of Israel sent to Amaziah *_king_* of Judah, saying, "The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, 'Give your daughter to my son for a wife.' Then a wild beast that was in Lebanon passed by and trod down the thistle.
 * `2Ki 14:11` But Amaziah would not listen. Therefore, Jehoash *_king_* of Israel went up, and he and Amaziah *_king_* of Judah looked one another in the face at Beth-shemesh, which belongs to Judah.
 * `2Ki 14:13` And Jehoash *_king_* of Israel took Amaziah *_king_* of Judah, the son of Jehoash the son of Ahaziah, at Beth-shemesh, and came to Jerusalem and broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 * `2Ki 14:14` And he took all the gold and silver, all the vessels found in the house of the LORD and in the treasures of the *_king_*'s house, and hostages, and returned to Samaria.
 * `2Ki 14:15` Now the rest of the acts of Jehoash which he did and his might and how he fought with Amaziah *_king_* of Judah, are they not written in the book of the chronicles of the kings of Israel?
-* `2Ki 14:17` And Amaziah the son of Joash *_king_* of Judah lived fifteen years after the death of Jehoash son of Jehoahaz *_king_* of Israel.
+* `2Ki 14:17` And Amaziah the son of Joash *_king_* of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz *_king_* of Israel.
 * `2Ki 14:21` And all the people of Judah took Azariah, who was sixteen years old, and made him *_king_* instead of his father Amaziah.
 * `2Ki 14:22` He built Elath and restored it to Judah after the *_king_* slept with his fathers.
-* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash *_king_* of Judah, Jeroboam the son of Joash *_king_* of Israel began to reign in Samaria, and reigned forty-one years.
+* `2Ki 14:23` In the fifteenth year of Amaziah the son of Joash *_king_* of Judah, Jeroboam the son of Joash *_king_* of Israel began to reign in Samaria, and reigned for forty-one years.
 * `2Ki 15:1` In the twenty-seventh year of Jeroboam *_king_* of Israel, Azariah son of Amaziah *_king_* of Judah began to reign.
 * `2Ki 15:5` And the LORD smote the *_king_* so that he was a leper until the day of his death and dwelt in a separate house. And Jotham the *_king_*'s son was over the house, judging the people of the land.
-* `2Ki 15:8` In the thirty-eighth year of Azariah *_king_* of Judah, Zachariah the son of Jeroboam reigned over Israel in Samaria six months.
-* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah *_king_* of Judah, and he reigned a full month in Samaria.
-* `2Ki 15:17` In the thirty-ninth year of Azariah *_king_* of Judah, Menahem the son of Gadi began to reign over Israel, and reigned ten years in Samaria.
+* `2Ki 15:8` In the thirty-eighth year of Azariah *_king_* of Judah, Zachariah the son of Jeroboam reigned over Israel in Samaria for six months.
+* `2Ki 15:13` Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah *_king_* of Judah, and he reigned for a full month in Samaria.
+* `2Ki 15:17` In the thirty-ninth year of Azariah *_king_* of Judah, Menahem the son of Gadi began to reign over Israel, and reigned for ten years in Samaria.
 * `2Ki 15:19` And Pul the *_king_* of Assyria came against the land. And Menahem gave Pul one thousand talents of silver so that his hand might be with him to confirm the kingdom in his hand.
 * `2Ki 15:20` And Menahem exacted the money from Israel, even from all the mighty men of wealth, from each man fifty shekels of silver, to give to the *_king_* of Assyria. So the *_king_* of Assyria turned back and did not stay there in the land.
-* `2Ki 15:23` In the fiftieth year of Azariah *_king_* of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
+* `2Ki 15:23` In the fiftieth year of Azariah *_king_* of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned for two years.
 * `2Ki 15:25` But Pekah the son of Remaliah, a captain of his, conspired against him and smote him in Samaria at the palace of the *_king_*'s house, with Argob and Arieh. Fifty men of the Gileadites were with him. And he killed him and reigned in his stead.
-* `2Ki 15:27` In the fifty-second year of Azariah *_king_* of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
+* `2Ki 15:27` In the fifty-second year of Azariah *_king_* of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned for twenty years.
 * `2Ki 15:29` In the days of Pekah *_king_* of Israel, Tiglath-pileser *_king_* of Assyria, came and took Ijon, Abel-beth-maachah, Janoah, Kedesh, Hazor, Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 * `2Ki 15:32` In the second year of Pekah the son of Remaliah *_king_* of Israel, Jotham the son of Uzziah *_king_* of Judah began to reign.
 * `2Ki 15:37` In those days the LORD began to send Rezin the *_king_* of Syria and Pekah the son of Remaliah against Judah.
@@ -778,11 +778,11 @@
 * `2Ki 16:16` Thus Urijah the priest did according to all that *_king_* Ahaz commanded.
 * `2Ki 16:17` And *_king_* Ahaz cut off the borders of the bases and removed the basin from off them, and took down the sea from off the brazen oxen that were under it and put it upon a pavement of stones.
 * `2Ki 16:18` And the covert for the sabbath that they had built in the house and the *_king_*'s entry outside, he turned from the house of the LORD for the *_king_* of Assyria.
-* `2Ki 17:1` In the twelfth year of Ahaz *_king_* of Judah, Hoshea the son of Elah began to reign in Samaria over Israel nine years.
+* `2Ki 17:1` In the twelfth year of Ahaz *_king_* of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years.
 * `2Ki 17:3` Shalmaneser *_king_* of Assyria came up against him, and Hoshea became his servant and gave him presents.
 * `2Ki 17:4` And the *_king_* of Assyria found conspiracy in Hoshea, for he had sent messengers to So *_king_* of Egypt and brought no present to the *_king_* of Assyria as he had done year by year. Therefore, the *_king_* of Assyria shut him up and bound him in prison.
-* `2Ki 17:5` Then the *_king_* of Assyria came up throughout all the land, and went up to Samaria and besieged it three years.
-* `2Ki 17:6` In the ninth year of Hoshea, the *_king_* of Assyria took Samaria, and carried Israel away into Assyria and placed them in Halah and in Habor by the river of Gozan and in the cities of the Medes.
+* `2Ki 17:5` Then the *_king_* of Assyria came up throughout all the land, went up to Samaria, and besieged it for three years.
+* `2Ki 17:6` In the ninth year of Hoshea, the *_king_* of Assyria took Samaria, and he carried Israel away into Assyria and placed them in Halah and in Habor by the river of Gozan and in the cities of the Medes.
 * `2Ki 17:7` For so it was, that the children of Israel had sinned against the LORD their God who had brought them out of the land of Egypt from under the hand of Pharaoh *_king_* of Egypt, and had feared other gods
 * `2Ki 17:21` For he rent Israel from the house of David, and they made Jeroboam the son of Nebat *_king_*. And Jeroboam drove Israel from following the LORD and made them sin a great sin.
 * `2Ki 17:24` And the *_king_* of Assyria brought men from Babylon, from Cuthah, from Ava, from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel. And they possessed Samaria and dwelt in its cities.
@@ -1977,7 +1977,7 @@ _1918 verses containing KING_
 * `1Ki 14:8` And rent the *_kingdom_* away from the house of David and gave it to you, and yet you have not been as my servant David, who kept my commandments and who followed me with all his heart to do that only which was right in my eyes,
 * `1Ki 18:10` As the LORD your God lives, there is no nation nor *_kingdom_* where my lord has not sent to seek you. And when they said, 'He is not there,' he made that *_kingdom_* and nation swear that they did not find you.
 * `1Ki 21:7` And Jezebel his wife said to him, "Do you now govern the *_kingdom_* of Israel? Arise, eat bread, and let your heart be merry. I will give you the vineyard of Naboth the Jezreelite."
-* `2Ki 14:5` And it came to pass, as soon as the *_kingdom_* was confirmed in his hand, that he slew his servants who had slain the king his father.
+* `2Ki 14:5` And it came to pass as soon as the *_kingdom_* was confirmed in his hand, that he slew his servants who had slain the king his father.
 * `2Ki 15:19` And Pul the king of Assyria came against the land. And Menahem gave Pul one thousand talents of silver so that his hand might be with him to confirm the *_kingdom_* in his hand.
 * `1Ch 10:14` And did not inquire of the LORD. Therefore, he slew him and turned the *_kingdom_* to David the son of Jesse.
 * `1Ch 11:10` These also are the chief of the mighty men whom David had, who strengthened themselves with him in his *_kingdom_* and with all Israel, to make him king according to the word of the LORD concerning Israel.
