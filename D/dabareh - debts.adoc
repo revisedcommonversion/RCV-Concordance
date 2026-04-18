@@ -1396,15 +1396,15 @@ _1 verse containing DAUBING_
 * `2Ki 11:2` But Jehosheba, the *_daughter_* of king Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him from among the king's sons who were slain. And they hid him, even him and his nurse, in the bed-chamber from Athaliah so that he was not slain.
 * `2Ki 14:9` And Jehoash the king of Israel sent to Amaziah king of Judah, saying, "The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, 'Give your *_daughter_* to my son for a wife.' Then a wild beast that was in Lebanon passed by and trod down the thistle.
 * `2Ki 15:33` He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. And his mother's name was Jerusha, the *_daughter_* of Zadok.
-* `2Ki 18:2` He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother's name was Abi, the *_daughter_* of Zachariah.
+* `2Ki 18:2` He was twenty-five years old when he began to reign, and he reigned for twenty-nine years in Jerusalem. His mother's name was Abi, the *_daughter_* of Zachariah.
 * `2Ki 19:21` This is the word that the LORD has spoken concerning him: 'The virgin *_daughter_* of Zion has despised you and laughed you to scorn. The *_daughter_* of Jerusalem has shaken her head at you.
-* `2Ki 21:19` Amon was twenty-two years old when he began to reign, and he reigned two years in Jerusalem. And his mother's name was Meshullemeth, the *_daughter_* of Haruz of Jotbah.
-* `2Ki 22:1` Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. And his mother's name was Jedidah the *_daughter_* of Adaiah of Boscath.
+* `2Ki 21:19` Amon was twenty-two years old when he began to reign, and he reigned for two years in Jerusalem. And his mother's name was Meshullemeth, the *_daughter_* of Haruz of Jotbah.
+* `2Ki 22:1` Josiah was eight years old when he began to reign, and he reigned for thirty-one years in Jerusalem. And his mother's name was Jedidah the *_daughter_* of Adaiah of Boscath.
 * `2Ki 23:10` And he defiled Topheth, which is in the valley of the children of Hinnom, so that no man might make his son or his *_daughter_* to pass through the fire to Molech.
-* `2Ki 23:31` Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem. And his mother's name was Hamutal, the *_daughter_* of Jeremiah of Libnah.
-* `2Ki 23:36` Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the *_daughter_* of Pedaiah of Rumah.
-* `2Ki 24:8` Jehoiachin was eighteen years old when he began to reign, and he reigned three months in Jerusalem. And his mother's name was Nehushta, the *_daughter_* of Elnathan of Jerusalem.
-* `2Ki 24:18` Zedekiah was twenty-one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the *_daughter_* of Jeremiah of Libnah.
+* `2Ki 23:31` Jehoahaz was twenty-three years old when he began to reign, and he reigned for three months in Jerusalem. And his mother's name was Hamutal, the *_daughter_* of Jeremiah of Libnah.
+* `2Ki 23:36` Jehoiakim was twenty-five years old when he began to reign, and he reigned for eleven years in Jerusalem. And his mother's name was Zebudah, the *_daughter_* of Pedaiah of Rumah.
+* `2Ki 24:8` Jehoiachin was eighteen years old when he began to reign, and he reigned for three months in Jerusalem. And his mother's name was Nehushta, the *_daughter_* of Elnathan of Jerusalem.
+* `2Ki 24:18` Zedekiah was twenty-one years old when he began to reign, and he reigned for eleven years in Jerusalem. And his mother's name was Hamutal, the *_daughter_* of Jeremiah of Libnah.
 * `1Ch 1:50` And when Baal-hanan was dead, Hadad reigned in his stead, and the name of his city was Pai. And his wife's name was Mehetabel, the *_daughter_* of Matred, the *_daughter_* of Mezahab.
 * `1Ch 2:3` The sons of Judah: Er, Onan, and Shelah. These three were born to him by the *_daughter_* of Shua the Canaanitess. And Er, the first-born of Judah, was evil in the sight of the LORD, and he slew him.
 * `1Ch 2:4` And Tamar his *_daughter_*-in-law bore him Pharez and Zerah. All the sons of Judah were five.
@@ -3442,7 +3442,7 @@ _1 verse containing DAWNS_
 * `2Ki 17:23` Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So Israel was carried away out of their own land to Assyria to this *_day_*.
 * `2Ki 17:34` To this *_day_* they do according to the former manners. They do not fear the LORD, neither do they follow their statutes, follow their ordinances, or follow the law and commandment which the LORD commanded the children of Jacob, whom he named Israel,
 * `2Ki 17:41` So these nations feared the LORD, but also served their engraved images, both their children and their children's children. As their fathers did, so they do to this *_day_*.
-* `2Ki 19:3` And they said to him, "Thus says Hezekiah: 'This *_day_* is a *_day_* of trouble, of rebuke, and blasphemy, for the children have come to the birth, and there is not strength to bring forth.
+* `2Ki 19:3` And they said to him, "Thus says Hezekiah: 'This *_day_* is a *_day_* of trouble, of rebuke, and blasphemy, for the children have come to the birth, and there is no strength to bring forth.
 * `2Ki 20:5` "Turn back and tell Hezekiah the captain of my people, 'Thus says the LORD, the God of David your father: "I have heard your prayer. I have seen your tears. Behold, I will heal you. On the third *_day_* you shall go up to the house of the LORD.
 * `2Ki 20:8` And Hezekiah said to Isaiah, "What shall be the sign that the LORD will heal me and that I shall go up into the house of the LORD on the third *_day_*?"
 * `2Ki 20:17` 'Behold, the days come that all that is in your house and that which your fathers have laid up in store to this *_day_* shall be carried into Babylon. Nothing shall be left,' says the LORD.
@@ -5264,8 +5264,8 @@ _3 verses containing DEACONS_
 * `2Ki 4:32` And when Elisha had come into the house, behold, the child was *_dead_* and laid upon his bed.
 * `2Ki 8:5` And it came to pass as he was telling the king how [Elisha] had restored a *_dead_* body to life, that behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, "My lord, O king, this is the woman and this is her son whom Elisha restored to life."
 * `2Ki 11:1` And when Athaliah the mother of Ahaziah saw that her son was *_dead_*, she arose and destroyed all the royal family.
-* `2Ki 19:35` And it came to pass that night, that the angel of the LORD went out and smote in the camp of the Assyrians one hundred and eighty-five thousand. And when they arose early in the morning, behold, they were all *_dead_* corpses.
-* `2Ki 23:30` And his servants carried him *_dead_* in a chariot from Megiddo, brought him to Jerusalem, and buried him in his own sepulcher. And the people of the land took Jehoahaz the son of Josiah and anointed him and made him king in his father's stead.
+* `2Ki 19:35` And it came to pass that night, that the angel of the LORD went out and smote one hundred and eighty-five thousand in the camp of the Assyrians. And when they arose early in the morning, behold, they were all *_dead_* corpses.
+* `2Ki 23:30` And his servants carried him *_dead_* in a chariot from Megiddo, brought him to Jerusalem, and buried him in his own sepulcher. And the people of the land took Jehoahaz the son of Josiah, anointed him, and made him king in his father's stead.
 * `1Ch 1:44` And when Bela was *_dead_* Jobab the son of Zera of Bozrah reigned in his stead.
 * `1Ch 1:45` And when Jobab was *_dead_*, Husham of the land of the Temanites reigned in his stead.
 * `1Ch 1:46` And when Husham was *_dead_*, Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead, and the name of his city was Avith.

@@ -185,8 +185,8 @@ _1 verse containing ELEVATION_
 * `Jdg 16:5` And the lords of the Philistines came to her and said to her, "Entice him, and see in what his great strength lies and by what means we may prevail against him so that we may bind him to afflict him. And we will each give you *_eleven_* hundred pieces of silver."
 * `Jdg 17:2` And he said to his mother, "The *_eleven_* hundred shekels of silver that were taken from you, about which you cursed and also spoke about in my ears, behold, the silver is with me. I took it." And his mother said, "Blessed are you of the LORD, my son."
 * `Jdg 17:3` And when he had restored the *_eleven_* hundred shekels of silver to his mother, his mother said, "I had wholly dedicated the silver to the LORD from my hand for my son to make an engraved image and a molten image. Now therefore, I will restore it to you."
-* `2Ki 23:36` Jehoiakim was twenty-five years old when he began to reign, and he reigned *_eleven_* years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
-* `2Ki 24:18` Zedekiah was twenty-one years old when he began to reign, and he reigned *_eleven_* years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
+* `2Ki 23:36` Jehoiakim was twenty-five years old when he began to reign, and he reigned for *_eleven_* years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
+* `2Ki 24:18` Zedekiah was twenty-one years old when he began to reign, and he reigned for *_eleven_* years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 * `2Ch 36:5` Jehoiakim was twenty-five years old when he began to reign, and he reigned *_eleven_* years in Jerusalem. And he did that which was evil in the sight of the LORD his God.
 * `2Ch 36:11` Zedekiah was twenty-one years old when he began to reign, and reigned *_eleven_* years in Jerusalem.
 * `Jer 52:1` Zedekiah was twenty-one years old when he began to reign, and he reigned *_eleven_* years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
@@ -852,7 +852,7 @@ _1 verse containing ELNAAM_
 
 == ELNATHAN
 
-* `2Ki 24:8` Jehoiachin was eighteen years old when he began to reign, and he reigned three months in Jerusalem. And his mother's name was Nehushta, the daughter of *_Elnathan_* of Jerusalem.
+* `2Ki 24:8` Jehoiachin was eighteen years old when he began to reign, and he reigned for three months in Jerusalem. And his mother's name was Nehushta, the daughter of *_Elnathan_* of Jerusalem.
 * `Ezr 8:16` Then I sent for Eliezer, for Ariel, for Shemaiah, for *_Elnathan_*, for Jarib, for *_Elnathan_*, for Nathan, for Zechariah, and for Meshullam, chief men, and also for Joiarib and for *_Elnathan_*, men of understanding.
 * `Jer 26:22` And Jehoiakim the king sent men into Egypt, namely, *_Elnathan_* the son of Achbor and some men with him into Egypt.
 * `Jer 36:12` He went down into the king's house, into the scribe's chamber, and behold, all the princes sat there, even Elishama the scribe, Delaiah the son of Shemaiah, *_Elnathan_* the son of Achbor, Gemariah the son of Shaphan, Zedekiah the son of Hananiah, and all the princes.

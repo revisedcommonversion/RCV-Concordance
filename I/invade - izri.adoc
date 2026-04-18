@@ -477,12 +477,12 @@ _123 verses containing ISAAC_
 * `2Ki 19:6` And *_Isaiah_* said to them, "Thus you shall say to your master: 'Thus says the LORD: "Do not be afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed me.
 * `2Ki 19:20` Then *_Isaiah_* the son of Amoz sent to Hezekiah, saying, "Thus says the LORD God of Israel: 'That which you have prayed to me against Sennacherib king of Assyria I have heard.'
 * `2Ki 20:1` In those days Hezekiah was sick to death. And the prophet *_Isaiah_* the son of Amoz came to him and said to him, "Thus says the LORD: 'Set your house in order, for you shall die and not live.'"
-* `2Ki 20:4` And it came to pass, before *_Isaiah_* had gone out into the middle court, that the word of the LORD came to him, saying,
+* `2Ki 20:4` And it came to pass before *_Isaiah_* had gone out into the middle court, that the word of the LORD came to him, saying,
 * `2Ki 20:7` And *_Isaiah_* said, "Take a lump of figs." And they took and laid it on the boil, and he recovered.
 * `2Ki 20:8` And Hezekiah said to *_Isaiah_*, "What shall be the sign that the LORD will heal me and that I shall go up into the house of the LORD on the third day?"
 * `2Ki 20:9` And *_Isaiah_* said, "This sign you shall have from the LORD that the LORD will do the thing that he has spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
 * `2Ki 20:11` And *_Isaiah_* the prophet cried to the LORD, and he brought the shadow ten degrees backward, by which it had gone down on the dial of Ahaz.
-* `2Ki 20:14` Then *_Isaiah_* the prophet came to king Hezekiah and said to him, "What did these men say? And from where did they come to you?" And Hezekiah said, "They have come from a far country even from Babylon."
+* `2Ki 20:14` Then *_Isaiah_* the prophet came to king Hezekiah and said to him, "What did these men say? And from where did they come to you?" And Hezekiah said, "They have come from a far country, even from Babylon."
 * `2Ki 20:16` And *_Isaiah_* said to Hezekiah, "Hear the word of the LORD.
 * `2Ki 20:19` Then Hezekiah said to *_Isaiah_*, "Good is the word of the LORD which you have spoken." And he said, "Is it not good if peace and truth are in my days?"
 * `2Ch 26:22` Now the rest of the acts of Uzziah, first and last, were written by *_Isaiah_* the prophet, the son of Amos.
@@ -2134,7 +2134,7 @@ _1 verse containing ISPAH_
 * `2Ki 22:15` And she said to them, "Thus says the LORD God of *_Israel_*: 'Tell the man who sent you to me,
 * `2Ki 22:18` But to the king of Judah who sent you to inquire of the LORD, thus you shall say to him: "Thus says the LORD God of *_Israel_*: 'Concerning the words which you have heard,
 * `2Ki 23:13` And the high places that were before Jerusalem, which were on the right hand of the mountain of corruption, which Solomon the king of *_Israel_* had built for Ashtoreth the abomination of the Zidonians, for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, the king defiled.
-* `2Ki 23:15` Moreover, the altar that was at Beth-el and the high place which Jeroboam the son of Nebat, who made *_Israel_* to sin, had made, both that altar and the high place he broke down and burned the high place and stamped it to powder and burned the grove.
+* `2Ki 23:15` Moreover, the altar that was at Beth-el and the high place which Jeroboam the son of Nebat, who made *_Israel_* to sin, had made, both that altar and the high place he broke down. Then he burned the high place and ground it to powder and burned the grove.
 * `2Ki 23:19` And all the houses of the high places that were in the cities of Samaria, which the kings of *_Israel_* had made to provoke the LORD to anger, Josiah took away and did to them according to all the acts that he had done in Beth-el.
 * `2Ki 23:22` Surely there was not held such a passover from the days of the judges who judged *_Israel_*, nor in all the days of the kings of *_Israel_*, nor of the kings of Judah.
 * `2Ki 23:27` And the LORD said, "I will also remove Judah out of my sight, as I have removed *_Israel_*, and will reject this city Jerusalem which I have chosen and the house of which I said, 'My name shall be there.'"
@@ -3722,7 +3722,7 @@ _1 verse containing ITHRITES_
 * `2Ki 19:23` By your messengers you have reproached the Lord and have said, "With the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and will cut down *_its_* tall cedar trees and *_its_* choice fir trees. And I will enter into the lodgings of his borders and into the forest of his Carmel.
 * `2Ki 22:16` "Thus says the LORD: 'Behold, I will bring evil upon this place and upon *_its_* inhabitants, even all the words of the book which the king of Judah has read.
 * `2Ki 22:19` Because your heart was tender and you have humbled yourself before the LORD when you heard what I spoke against this place and against *_its_* inhabitants, that they should become a desolation and a curse, and have rent your clothes and wept before me, I also have heard you,' says the LORD.
-* `2Ki 23:6` And he brought out the grove from the house of the LORD, outside Jerusalem, to the brook Kidron, and burned it at the brook Kidron, stamped it to powder, and cast *_its_* powder upon the graves of the children of the people.
+* `2Ki 23:6` And he brought out the grove from the house of the LORD, outside Jerusalem, to the brook Kidron, and burned it at the brook Kidron, ground it to powder, and cast *_its_* powder upon the graves of the children of the people.
 * `1Ch 2:23` And he took Geshur and Aram with the towns of Jair from them, with Kenath and *_its_* towns, even sixty cities. All these belonged to the sons of Machir, the father of Gilead.
 * `1Ch 5:16` And they dwelt in Gilead in Bashan and in *_its_* towns and in all the suburbs of Sharon, upon their borders.
 * `1Ch 6:55` They gave them Hebron in the land of Judah and *_its_* suburbs around it.
