@@ -848,7 +848,7 @@ _48 verses containing FORTIFIED_
 
 * `Jdg 9:31` And he sent messengers to Abimelech privately, saying, "Behold, Gaal the son of Ebed and his brothers have come to Shechem, and behold, they *_fortify_* the city against you.
 * `Neh 4:2` And he spoke before his brothers and the army of Samaria, and said, "What are these feeble Jews doing? Will they *_fortify_* themselves? Will they sacrifice? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
-* `Isa 22:10` And you have numbered the houses of Jerusalem, and the houses you have broken down to *_fortify_* the wall.
+* `Isa 22:10` You have numbered the houses of Jerusalem and you have broken down the houses to *_fortify_* the wall.
 * `Jer 51:53` Though Babylon should mount up to heaven, and though she should *_fortify_* the height of her strength, yet from me destroyers shall come to her," says the LORD.
 * `Nah 2:1` He who dashes in pieces has come up before your face. Guard the fortress, watch the way, make your loins strong, and *_fortify_* your power mightily.
 * `Nah 3:14` Draw waters for the siege. *_Fortify_* your strongholds. Go into clay and tread the mortar. Make the brick-kiln strong.
@@ -1519,7 +1519,7 @@ _1 verse containing FOULED_
 * `Isa 10:10` As my hand has *_found_* the kingdoms of the idols, and whose engraved images excelled those of Jerusalem and of Samaria,
 * `Isa 10:14` And my hand has *_found_* the riches of the people like a nest. And like one gathering eggs that are left, I have gathered all the earth, and there was no one who moved the wing, opened the mouth, or peeped."
 * `Isa 13:15` Everyone who is *_found_* shall be thrust through. And everyone who is joined to them shall fall by the sword.
-* `Isa 22:3` All your rulers have fled together, they are bound by the archers. All who are *_found_* in you are bound together. They fled far away.
+* `Isa 22:3` All your rulers have fled together. They are bound by the archers. All who are *_found_* in you are bound together. They fled far away.
 * `Isa 30:14` And he shall break it as the breaking of the potter's vessel, breaking it in pieces without sparing, so that there shall not be *_found_* in its bursting a piece to take fire from the hearth or to take water out of the pit."
 * `Isa 35:9` No lion shall be there, nor any ravenous beast shall go up thereon. It shall not be *_found_* there, but the redeemed shall walk there.
 * `Isa 37:8` So Rabshakeh returned and *_found_* the king of Assyria warring against Libnah, for he had heard that he had departed from Lachish.
@@ -1757,7 +1757,7 @@ _53 verses containing FOUNDATION_
 * `Psa 104:5` Who laid the *_foundations_* of the earth so that it should not be moved forever.
 * `Pro 8:29` When he gave to the sea his decree that the waters should not pass his commandment, and when he appointed the *_foundations_* of the earth,
 * `Isa 16:7` Therefore, Moab shall howl for Moab, everyone shall howl. For the *_foundations_* of Kir-hareseth you shall mourn. Surely they are stricken.
-* `Isa 24:18` And it shall come to pass, that he who flees from the noise of the fear shall fall into the pit, and he who comes up out of the midst of the pit shall be taken in the snare, for the windows from on high are open and the *_foundations_* of the earth shake.
+* `Isa 24:18` And it shall come to pass, that he who flees from the noise of the fear shall fall into the pit, and he who comes up out of the midst of the pit shall be taken in the snare, for the windows from on high are open, and the *_foundations_* of the earth shake.
 * `Isa 40:21` Have you not known? Have you not heard? Has it not been told to you from the beginning? Have you not understood from the *_foundations_* of the earth?
 * `Isa 51:13` That you forget the LORD your maker, who has stretched forth the heavens and laid the *_foundations_* of the earth, and that you have feared continually every day because of the fury of the oppressor, as if he were ready to destroy? And where is the fury of the oppressor?
 * `Isa 51:16` And I have put my words in your mouth and have covered you in the shadow of my hand, so that I may plant the heavens, lay the *_foundations_* of the earth, and say to Zion, 'You are my people.'"
@@ -2897,7 +2897,7 @@ _1 verse containing FROZEN_
 * `Sos 8:12` My vineyard which is mine is before me. You, O Solomon, must have a thousand, and those who keep its *_fruit_*, two hundred.
 * `Isa 3:10` Say to the righteous that it shall be well with him, for they shall eat the *_fruit_* of their doings.
 * `Isa 4:2` In that day the Branch of the LORD shall be beautiful and glorious, and the *_fruit_* of the earth shall be for beauty and glory for those of Israel who have escaped.
-* `Isa 10:12` Therefore, it shall come to pass, that when the Lord has performed his whole work upon mount Zion and on Jerusalem, I will punish the *_fruit_* of the stout heart of the king of Assyria and the glory of his high looks.
+* `Isa 10:12` Therefore, it shall come to pass when the Lord has performed his whole work upon mount Zion and on Jerusalem, that I will punish the *_fruit_* of the stout heart of the king of Assyria and the glory of his high looks.
 * `Isa 13:18` Their bows shall also dash the young men to pieces. And they shall have no pity on the *_fruit_* of the womb. Their eye shall not spare children.
 * `Isa 14:29` Do not rejoice, all Palestina, because the rod of him who smote you is broken. For out of the serpent's root shall come forth an adder, and his *_fruit_* shall be a fiery flying serpent.
 * `Isa 27:6` He shall cause those who descend from Jacob to take root. Israel shall blossom and bud and fill the face of the world with *_fruit_*.
@@ -3460,7 +3460,7 @@ _1 verse containing FULFILLS_
 * `Isa 11:9` They shall not hurt nor destroy in all my holy mountain, for the earth shall be *_full_* of the knowledge of the LORD, as the waters cover the sea.
 * `Isa 13:21` But wild beasts of the desert shall lie there, and their houses shall be *_full_* of doleful creatures. Owls shall dwell there, and wild goats shall dance there.
 * `Isa 15:9` For the waters of Dimon shall be *_full_* of blood, for I will bring more upon Dimon, lions upon him who escapes of Moab and upon the remnant of the land.
-* `Isa 22:2` The tumultuous city, the joyous city, is *_full_* of noise. Your slain men are not slain with the sword, nor dead in battle.
+* `Isa 22:2` The tumultuous city, the joyous city, is *_full_* of noise. Your slain men are not slain with the sword, neither are they dead in battle.
 * `Isa 22:7` And it shall come to pass, that your choicest valleys shall be *_full_* of chariots, and the horsemen shall set themselves in array at the gate.
 * `Isa 25:6` And on this mountain the LORD of hosts will make for all people a feast of fat things, a feast of wines on the dregs, of fat things *_full_* of marrow, of wines on the dregs well refined.
 * `Isa 28:8` For all tables are *_full_* of vomit and filthiness so that there is no clean place.

@@ -1599,9 +1599,8 @@ _3 verses containing ENGRAVER_
 
 == ENGRAVES
 
-* `Isa 22:16` 'What are you doing here? And who do you have here that you have hewed yourself out a sepulcher here, as he who hews himself out a sepulcher on high, and who *_engraves_* a habitation for himself in a rock?
 
-_1 verse containing ENGRAVES_
+_0 verses containing ENGRAVES_
 
 == ENGRAVING
 
