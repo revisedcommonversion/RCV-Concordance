@@ -184,7 +184,7 @@ _1 verse containing HEIFERS_
 * `Psa 102:19` For he has looked down from the *_height_* of his sanctuary. From heaven the LORD has beheld the earth,
 * `Pro 25:3` The heaven for *_height_* and the earth for depth, and the heart of kings is unsearchable.
 * `Isa 7:11` "Ask for yourself a sign from the LORD your God. Ask it either in the depth or in the *_height_* above."
-* `Isa 37:24` By your servants you have reproached the Lord and have said, 'By the multitude of my chariots I have come up to the *_height_* of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the *_height_* of its border, and the forest of its fruitful field.
+* `Isa 37:24` By your servants you have reproached the Lord and have said, 'By the multitude of my chariots I have come up to the *_height_* of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the *_height_* of its border, the forest of its fruitful field.
 * `Jer 31:12` "Therefore, they shall come and sing in the *_height_* of Zion and shall flow together to the goodness of the LORD for wheat, for wine, for oil, and for the young of the flock and of the herd. And their soul shall be like a watered garden, and they shall not sorrow anymore at all.
 * `Jer 49:16` Your terribleness has deceived you, and the pride of your heart, O you who dwell in the clefts of the rock, who hold the *_height_* of the hill. Though you should make your nest as high as the eagle, I will bring you down from there," says the LORD.
 * `Jer 51:53` Though Babylon should mount up to heaven, and though she should fortify the *_height_* of her strength, yet from me destroyers shall come to her," says the LORD.
@@ -873,9 +873,10 @@ _2 verses containing HEPHZI-BAH_
 
 == HERALD
 
+* `Isa 41:27` The first shall say to Zion, 'Behold, behold them.' And I will give to Jerusalem a *_herald_* of good tidings.
 * `Dan 3:4` Then a *_herald_* cried aloud, "To you it is commanded, O people, nations, and languages,
 
-_1 verse containing HERALD_
+_2 verses containing HERALD_
 
 == HERB
 
@@ -1819,7 +1820,7 @@ _1 verse containing HEZEKI_
 * `Isa 36:18` Beware lest *_Hezekiah_* persuade you, saying, "The LORD will deliver us." Has any of the gods of the nations delivered his land out of the hand of the king of Assyria?
 * `Isa 36:22` Then Eliakim the son of Hilkiah, who was over the household, Shebna the scribe, and Joah, the son of Asaph, the recorder, came to *_Hezekiah_* with their clothes rent and told him the words of Rabshakeh.
 * `Isa 37:1` And it came to pass when king *_Hezekiah_* heard it, that he rent his clothes, covered himself with sackcloth, and went into the house of the LORD.
-* `Isa 37:3` And they said to him, "Thus says *_Hezekiah_*: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is not strength to bring forth.
+* `Isa 37:3` And they said to him, "Thus says *_Hezekiah_*: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is no strength to bring forth.
 * `Isa 37:5` So the servants of king *_Hezekiah_* came to Isaiah.
 * `Isa 37:9` And he heard it said concerning Tirhakah king of Cush: "He has come forth to make war with you." And when he heard it, he sent messengers to *_Hezekiah_*, saying,
 * `Isa 37:10` "Thus you shall speak to *_Hezekiah_* king of Judah, saying, 'Do not let your God in whom you trust deceive you, saying, "Jerusalem shall not be given into the hand of the king of Assyria."
@@ -1827,7 +1828,7 @@ _1 verse containing HEZEKI_
 * `Isa 37:15` And *_Hezekiah_* prayed to the LORD, saying,
 * `Isa 37:21` Then Isaiah the son of Amoz sent to *_Hezekiah_*, saying, "Thus says the LORD God of Israel: 'Because you have prayed to me against Sennacherib king of Assyria,
 * `Isa 38:1` In those days *_Hezekiah_* was sick with a mortal disease. And Isaiah the prophet the son of Amoz came to him and said to him, "Thus says the LORD: 'Set your house in order, for you shall die, and not live.'"
-* `Isa 38:2` Then *_Hezekiah_* turned his face toward the wall and prayed to the LORD,
+* `Isa 38:2` Then *_Hezekiah_* turned his face toward the wall and prayed to the LORD
 * `Isa 38:3` And said, "Remember now, O LORD, I implore you, how I have walked before you in truth and with a perfect heart and have done that which is good in your sight." And *_Hezekiah_* wept bitterly.
 * `Isa 38:5` "Go and say to *_Hezekiah_*, 'Thus says the LORD, the God of David your father: "I have heard your prayer. I have seen your tears. Behold, I will add to your days fifteen years.
 * `Isa 38:9` [The writing of *_Hezekiah_* king of Judah when he had been sick and had recovered from his sickness.]

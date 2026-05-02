@@ -5426,13 +5426,13 @@ _1 verse containing LOP_
 * `Isa 37:20` Now therefore, O *_LORD_* our God, save us from his hand so that all the kingdoms of the earth may know that you are the *_LORD_*, even you only."
 * `Isa 37:21` Then Isaiah the son of Amoz sent to Hezekiah, saying, "Thus says the *_LORD_* God of Israel: 'Because you have prayed to me against Sennacherib king of Assyria,
 * `Isa 37:22` This is the word which the *_LORD_* has spoken concerning him: "The virgin, the daughter of Zion, has despised you and derided you. The daughter of Jerusalem has shaken her head at you.
-* `Isa 37:24` By your servants you have reproached the *_Lord_* and have said, 'By the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the height of its border, and the forest of its fruitful field.
+* `Isa 37:24` By your servants you have reproached the *_Lord_* and have said, 'By the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the height of its border, the forest of its fruitful field.
 * `Isa 37:32` For out of Jerusalem a remnant shall go forth, and out of mount Zion those who escape. The zeal of the *_LORD_* of hosts will do this."'
 * `Isa 37:33` "Therefore, thus says the *_LORD_* concerning the king of Assyria: 'He shall not come into this city, nor shoot an arrow there, nor come before it with shields, nor cast a siege-mound against it.
 * `Isa 37:34` By the way that he came, by the same he shall return, and shall not come into this city,' says the *_LORD_*.
-* `Isa 37:36` Then the angel of the *_LORD_* went forth and smote in the camp of the Assyrians one hundred and eighty-five thousand. And when they arose early in the morning, behold, they were all dead corpses.
+* `Isa 37:36` Then the angel of the *_LORD_* went forth and smote one hundred and eighty-five thousand in the camp of the Assyrians. And when they arose early in the morning, behold, they were all dead corpses.
 * `Isa 38:1` In those days Hezekiah was sick with a mortal disease. And Isaiah the prophet the son of Amoz came to him and said to him, "Thus says the *_LORD_*: 'Set your house in order, for you shall die, and not live.'"
-* `Isa 38:2` Then Hezekiah turned his face toward the wall and prayed to the *_LORD_*,
+* `Isa 38:2` Then Hezekiah turned his face toward the wall and prayed to the *_LORD_*
 * `Isa 38:3` And said, "Remember now, O *_LORD_*, I implore you, how I have walked before you in truth and with a perfect heart and have done that which is good in your sight." And Hezekiah wept bitterly.
 * `Isa 38:4` Then the word of the *_LORD_* came to Isaiah, saying,
 * `Isa 38:5` "Go and say to Hezekiah, 'Thus says the *_LORD_*, the God of David your father: "I have heard your prayer. I have seen your tears. Behold, I will add to your days fifteen years.
@@ -5452,7 +5452,7 @@ _1 verse containing LOP_
 * `Isa 40:10` Behold, the *_Lord_* GOD will come with a strong hand, and his arm will rule for him. Behold, his reward is with him and his work before him.
 * `Isa 40:13` Who has directed the Spirit of the *_LORD_*, or being his counselor has taught him?
 * `Isa 40:27` Why do you say, O Jacob, and speak, O Israel, "My way is hid from the *_LORD_*, and my judgment is passed over by my God"?
-* `Isa 40:28` Have you not known? Have you not heard, that the everlasting God, the *_LORD_*, the Creator of the ends of the earth, does not faint, neither is weary? There is no searching of his understanding.
+* `Isa 40:28` Have you not known? Have you not heard? The everlasting God, the *_LORD_*, the Creator of the ends of the earth, does not faint, neither is weary. There is no searching of his understanding.
 * `Isa 40:31` But those who wait upon the *_LORD_* shall renew their strength. They shall mount up with wings like eagles. They shall run and not be weary. They shall walk and not faint.
 * `Isa 41:4` Who has wrought and done it, calling the generations from the beginning? I, the *_LORD_*, the first and with the last, I am he."
 * `Isa 41:13` For I, the *_LORD_* your God, will hold your right hand, saying to you, 'Do not fear. I will help you.'
@@ -5463,7 +5463,6 @@ _1 verse containing LOP_
 * `Isa 41:21` Produce your cause," says the *_LORD_*. "Bring forth your strong reasons," says the King of Jacob.
 * `Isa 42:5` Thus says God the *_LORD_*, he who created the heavens and expanded them, he who spread forth the earth and that which it produces, he who gives breath to the people upon it and spirit to those who walk therein:
 * `Isa 42:6` "I, the *_LORD_*, have called you in righteousness, and I will hold your hand. I will keep you and give you as a covenant to the people, as a light to the Gentiles,
-* `Isa 42:8` I am the *_LORD_*. That is my name. And I will not give my glory to another, neither my praise to engraved images.
 * `Isa 42:10` Sing to the *_LORD_* a new song, and his praise from the end of the earth, you who go down to the sea, and all that is in it, the islands, and their inhabitants.
 * `Isa 42:12` Let them give glory to the *_LORD_* and declare his praise in the coastlands.
 * `Isa 42:13` The *_LORD_* will go forth like a mighty man, he will stir up jealousy like a man of war. He will cry and even roar. He will prevail against his enemies.
@@ -7811,7 +7810,7 @@ _1 verse containing LOP_
 * `Rev 22:20` He who testifies these things says, "Surely I come quickly." Amen. Even so, come, *_Lord_* Jesus.
 * `Rev 22:21` May the grace of our *_Lord_* Jesus Christ be with you all. Amen.
 
-_6736 verses containing LORD_
+_6735 verses containing LORD_
 
 == LORDLY
 
