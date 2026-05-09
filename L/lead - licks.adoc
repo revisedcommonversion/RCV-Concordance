@@ -343,7 +343,7 @@ _32 verses containing LEARN_
 * `Pro 30:3` I neither *_learned_* wisdom, nor have the knowledge of the Holy One.
 * `Isa 29:11` And the vision of all has become to you like the words of a book that is sealed, which men deliver to one who is *_learned_*, saying, "Read this, I pray you," and he says, "I cannot, for it is sealed."
 * `Isa 29:12` And the book is delivered to him who is not *_learned_*, saying, "Read this, I pray you," and he says, "I am not *_learned_*."
-* `Isa 50:4` The Lord GOD has given me the tongue of the *_learned_*, so that I should know how to speak a word in season to him who is weary. He wakens morning by morning, he wakens my ear to hear as the *_learned_*.
+* `Isa 50:4` The Lord GOD has given me the tongue of the *_learned_* so that I should know how to speak a word in season to him who is weary. He wakens morning by morning. He wakens my ear to hear as the *_learned_*.
 * `Ezk 19:3` And she brought up one of her whelps. It became a young lion and it *_learned_* to catch prey. It devoured men.
 * `Ezk 19:6` And he went up and down among the lions. He became a young lion and *_learned_* to catch prey. He devoured men.
 * `Mth 2:7` Then Herod, when he had privately called the wise men, *_learned_* from them exactly what time the star appeared.
@@ -799,6 +799,7 @@ _1 verse containing LECAH_
 * `Pro 4:11` I have taught you in the way of wisdom. I have *_led_* you in right paths.
 * `Isa 9:16` For the leaders of this people cause them to err, and those who are *_led_* by them are destroyed.
 * `Isa 48:21` And they did not thirst when he *_led_* them through the deserts. He caused the waters to flow out of the rock for them. He also cleaved the rock and the waters gushed out.
+* `Isa 53:7` He was oppressed and he was afflicted, yet he did not open his mouth. As a lamb is *_led_* to the slaughter, and as a sheep before her shearers is mute, so he did not open his mouth.
 * `Isa 55:12` For you shall go out with joy and be *_led_* forth with peace. The mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.
 * `Isa 60:11` Therefore, your gates shall be open continually. They shall not be shut, day or night, so that men may bring to you the forces of the Gentiles, with their kings being *_led_* in procession.
 * `Isa 63:12` Who *_led_* them by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name,
@@ -847,7 +848,7 @@ _1 verse containing LECAH_
 * `2Ti 3:6` For of this sort are those who creep into houses and lead captive silly women laden with sins, *_led_* away with diverse lusts,
 * `2Pe 3:17` You therefore, beloved, seeing you know these things beforehand, beware lest you also, being *_led_* away with the error of the wicked, fall from your own steadfastness.
 
-_75 verses containing LED_
+_76 verses containing LED_
 
 == LEDGE
 
@@ -2579,10 +2580,10 @@ _223 verses containing LEST_
 * `Isa 41:22` "*_Let_* them bring them forth and show us what shall happen. *_Let_* them show the former things, what they are, so that we may consider them and know the latter end of them. Or declare to us things to come.
 * `Isa 42:11` *_Let_* the wilderness and its cities lift up their voice, the villages that Kedar inhabits. *_Let_* the inhabitants of the rock sing. *_Let_* them shout from the top of the mountains.
 * `Isa 42:12` *_Let_* them give glory to the LORD and declare his praise in the coastlands.
-* `Isa 43:9` *_Let_* all the nations be collected and *_let_* the people be assembled. Who among them can declare this and show us former things? *_Let_* them bring forth their witnesses so that they may be justified. Or *_let_* them hear, and say, "It is truth."
+* `Isa 43:9` *_Let_* all the nations be collected and *_let_* the people be assembled. Who among them can declare this and show us former things? *_Let_* them bring forth their witnesses so that they may be justified. Or *_let_* them hear and say, "It is truth."
 * `Isa 43:26` Put me in remembrance. *_Let_* us plead together. Declare, so that you may be justified.
 * `Isa 44:7` And who is like me? *_Let_* him call and declare it and set it in order for me, since I appointed the ancient people. And the things that are coming, and shall come, *_let_* them declare these to them.
-* `Isa 44:11` Behold, all his fellows shall be ashamed, and the workmen, they are of men. *_Let_* them all be assembled. *_Let_* them stand up. Yet they shall fear and they shall be ashamed together.
+* `Isa 44:11` Behold, all his fellows shall be ashamed. The workmen, they are only men. *_Let_* them all be assembled. *_Let_* them stand up. Yet they shall fear and they shall be ashamed together.
 * `Isa 45:8` Drop down, you heavens, from above, and *_let_* the skies pour down righteousness. *_Let_* the earth open, and *_let_* them bring forth salvation, and *_let_* righteousness spring up together. I, the LORD, have created it.
 * `Isa 45:9` Woe to him who contends with his Maker! *_Let_* the potsherd contend with the potsherds of the earth. Shall the clay say to him who fashions it, 'What are you making?' Or shall your work say, 'He has no hands'?
 * `Isa 45:13` I have raised him up in righteousness and I will direct all his ways. He shall build my city and *_let_* my captives go, not for price nor reward," says the LORD of hosts.

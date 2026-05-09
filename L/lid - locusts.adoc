@@ -89,7 +89,7 @@ _1 verse containing LID_
 * `Isa 33:8` The highways *_lie_* waste, the way-faring man ceases. He has broken the covenant. He has despised the cities. He regards no man.
 * `Isa 34:10` It shall not be quenched night or day. Its smoke shall ascend forever. From generation to generation it shall *_lie_* waste. None shall pass through it forever and ever.
 * `Isa 43:17` Who brings forth the chariot and horse, the army and the power (they shall *_lie_* down together, they shall not rise, they are extinct, they are quenched like tow):
-* `Isa 44:20` He feeds on ashes. A deceived heart has turned him aside so that he cannot deliver his soul, or say, "Is there not a *_lie_* in my right hand?"
+* `Isa 44:20` He feeds on ashes. A deceived heart has turned him aside so that he cannot deliver his soul or say, "Is there not a *_lie_* in my right hand?"
 * `Isa 50:11` Behold, all you who kindle a fire, who encompass yourselves with sparks, walk in the light of your fire and in the sparks that you have kindled. This you shall have from my hand: you shall *_lie_* down in sorrow.
 * `Isa 51:20` Your sons have fainted. They *_lie_* at the head of all the streets like a gazelle in a net. They are full of the fury of the LORD, the rebuke of your God.
 * `Isa 63:8` For he said, "Surely they are my people, children who will not *_lie_*." So he was their Savior.
@@ -798,7 +798,7 @@ _4 verses containing LIFETIME_
 * `Isa 42:11` Let the wilderness and its cities *_lift_* up their voice, the villages that Kedar inhabits. Let the inhabitants of the rock sing. Let them shout from the top of the mountains.
 * `Isa 49:18` *_Lift_* up your eyes around and behold. All these assemble themselves and come to you. As I live," says the LORD, "you shall surely clothe yourself with them all as with an ornament, and bind them on yourself as a bride does.
 * `Isa 49:22` Thus says the Lord GOD: "Behold, I will *_lift_* up my hand to the Gentiles and set up my standard to the people. And they shall bring your sons in their arms, and your daughters shall be carried upon their shoulders.
-* `Isa 51:6` *_Lift_* up your eyes to the heavens and look upon the earth beneath, for the heavens shall vanish away like smoke, the earth shall become old like a garment, and its inhabitants shall die in a like manner. But my salvation shall be forever and my righteousness shall not be abolished.
+* `Isa 51:6` *_Lift_* up your eyes to the heavens and look upon the earth beneath, for the heavens shall vanish away like smoke, the earth shall become old like a garment, and its inhabitants shall die in a like manner. But my salvation shall be forever, and my righteousness shall not be abolished.
 * `Isa 52:8` Your watchmen shall *_lift_* up their voices. With their voices together they shall sing, for they shall see eye to eye, when the LORD brings back Zion.
 * `Isa 58:1` "Cry aloud, do not spare. *_Lift_* up your voice like a trumpet. Show my people their transgression, and the house of Jacob their sins.
 * `Isa 59:19` So they shall fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy comes in like a flood, the Spirit of the LORD will *_lift_* up a standard against him.
@@ -1893,6 +1893,7 @@ _1 verse containing LIGN-ALOES_
 * `Isa 43:17` Who brings forth the chariot and horse, the army and the power (they shall lie down together, they shall not rise, they are extinct, they are quenched *_like_* tow):
 * `Isa 44:4` And they shall spring up among the grass *_like_* willows by the watercourses.'
 * `Isa 44:7` And who is *_like_* me? Let him call and declare it and set it in order for me, since I appointed the ancient people. And the things that are coming, and shall come, let them declare these to them.
+* `Isa 44:22` I have blotted out your transgressions *_like_* a thick cloud, and your sins *_like_* a cloud. Return to me, for I have redeemed you."
 * `Isa 46:9` Remember the former things of old, for I am God, and there is no one else. I am God, and there is no one *_like_* me,
 * `Isa 47:14` Behold, they shall be *_like_* stubble. The fire shall burn them. They shall not deliver themselves from the power of the flame. There shall not be a coal to warm them or a fire to sit by.
 * `Isa 48:18` O that you had listened to my commandments! Then your peace would have been *_like_* a river and your righteousness *_like_* the waves of the sea.
@@ -1901,14 +1902,14 @@ _1 verse containing LIGN-ALOES_
 * `Isa 50:7` For the Lord GOD will help me; therefore, I shall not be confounded. Therefore, I have set my face *_like_* a flint, and I know that I shall not be ashamed.
 * `Isa 50:9` Behold the Lord GOD will help me. Who is he who shall condemn me? Behold, all of them shall wax old *_like_* a garment. The moth shall eat them up.
 * `Isa 51:3` For the LORD will comfort Zion. He will comfort all her waste places, and he will make her wilderness *_like_* Eden and her desert *_like_* the garden of the LORD. Joy and gladness shall be found therein, thanksgiving and the voice of melody.
-* `Isa 51:6` Lift up your eyes to the heavens and look upon the earth beneath, for the heavens shall vanish away *_like_* smoke, the earth shall become old *_like_* a garment, and its inhabitants shall die in a *_like_* manner. But my salvation shall be forever and my righteousness shall not be abolished.
+* `Isa 51:6` Lift up your eyes to the heavens and look upon the earth beneath, for the heavens shall vanish away *_like_* smoke, the earth shall become old *_like_* a garment, and its inhabitants shall die in a *_like_* manner. But my salvation shall be forever, and my righteousness shall not be abolished.
 * `Isa 51:8` For the moth shall eat them *_like_* a garment, and the worm shall eat them *_like_* wool. But my righteousness shall be forever, and my salvation from generation to generation."
 * `Isa 51:20` Your sons have fainted. They lie at the head of all the streets *_like_* a gazelle in a net. They are full of the fury of the LORD, the rebuke of your God.
 * `Isa 51:23` But I will put it into the hand of those who afflict you, who have said to your soul, 'Prostrate yourself so that we may go over.' And you have laid your body *_like_* the ground, *_like_* the street for those passing by."
 * `Isa 53:3` He is despised and rejected by men, a man of sorrows, and acquainted with grief. And *_like_* one from whom we hide our faces, he was despised, and we did not esteem him.
 * `Isa 53:6` We have all *_like_* sheep gone astray. We have each turned to his own way, and the LORD has laid on him the iniquity of us all.
 * `Isa 54:6` For the LORD has called you *_like_* a woman forsaken and grieved in spirit, even *_like_* a wife of youth when she is refused," says your God.
-* `Isa 54:9` "For this is *_like_* the waters of Noah to me. For as I have sworn that the waters of Noah shall no longer overflow the earth, so I have sworn that I will not be angry with you, nor rebuke you.
+* `Isa 54:9` "For this is *_like_* the waters of Noah to me. For as I have sworn that the waters of Noah shall no longer overflow the earth, so I have sworn that I will not be angry with you nor rebuke you.
 * `Isa 56:12` "Come," they say, "I will bring wine, and we will fill ourselves with strong drink, and tomorrow shall be *_like_* this day, and much more abundant."
 * `Isa 57:20` But the wicked are *_like_* the troubled sea when it cannot rest, whose waters cast up mire and dirt.
 * `Isa 58:1` "Cry aloud, do not spare. Lift up your voice *_like_* a trumpet. Show my people their transgression, and the house of Jacob their sins.
@@ -1917,7 +1918,7 @@ _1 verse containing LIGN-ALOES_
 * `Isa 58:8` Then your light shall break forth *_like_* the morning, and your health shall spring forth speedily. And your righteousness shall go before you. The glory of the LORD shall be your rear-ward.
 * `Isa 58:10` And if you draw out your soul to the hungry and satisfy the afflicted soul, then your light shall rise in obscurity and your darkness shall be *_like_* the noon day.
 * `Isa 58:11` And the LORD will guide you continually, satisfy your soul in drought, and make your bones fat. And you shall be *_like_* a watered garden and *_like_* a spring of water, whose waters do not fail.
-* `Isa 59:10` We grope for the wall *_like_* the blind, and we grope as if we had no eyes. We stumble at noon day as in the night. We are in desolate places as dead men.
+* `Isa 59:10` We grope for the wall *_like_* the blind, and we grope as if we had no eyes. We stumble at noon day as in the night. Among those who are strong we are *_like_* dead men.
 * `Isa 59:11` We all roar *_like_* bears and mourn bitterly *_like_* doves. We look for judgment, but there is none, for salvation, but it is far from us.
 * `Isa 59:19` So they shall fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy comes in *_like_* a flood, the Spirit of the LORD will lift up a standard against him.
 * `Isa 60:8` Who are these who fly *_like_* a cloud, *_like_* doves to their windows?
@@ -2239,7 +2240,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_870 verses containing LIKE_
+_871 verses containing LIKE_
 
 == LIKE-MINDED
 
