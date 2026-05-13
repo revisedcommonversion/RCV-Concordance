@@ -95,7 +95,7 @@ _1 verse containing LID_
 * `Isa 63:8` For he said, "Surely they are my people, children who will not *_lie_*." So he was their Savior.
 * `Isa 65:10` And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to *_lie_* down in, for my people who have sought me.
 * `Jer 3:25` We *_lie_* down in our shame, and our disgrace covers us, for we have sinned against the LORD our God—we and our fathers—from our youth even to this day. We have not obeyed the voice of the LORD our God."
-* `Jer 5:26` For among my people are found wicked men. They *_lie_* in wait, as he who sets snares. They set a trap. They catch men.
+* `Jer 5:26` For among my people are found wicked men. They *_lie_* in wait like he who sets snares. They set a trap. They catch men.
 * `Jer 27:10` For they prophesy a *_lie_* to you to remove you far from your land, and that I should drive you out, and you should perish.
 * `Jer 27:14` Therefore, do not listen to the words of the prophets who speak to you, saying, 'You shall not serve the king of Babylon,' for they prophesy a *_lie_* to you.
 * `Jer 27:15` For I have not sent them," says the LORD, "yet they prophesy a *_lie_* in my name so that I might drive you out and that you might perish—you and the prophets who prophesy to you."
@@ -244,9 +244,9 @@ _4 verses containing LIED_
 * `Isa 28:17` I will also lay judgment to the line and righteousness to the plummet. And the hail shall sweep away the refuge of *_lies_*, and the waters shall overflow the hiding-place.
 * `Isa 59:3` For your hands are defiled with blood and your fingers with iniquity. Your lips have spoken *_lies_*, your tongue has uttered perverseness.
 * `Isa 59:4` No one calls for justice, nor any pleads for truth. They trust in vanity and speak *_lies_*. They conceive mischief and bring forth iniquity.
-* `Jer 9:3` "And they bend their tongues like their bow for *_lies_*, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
+* `Jer 9:3` "And they bend their tongues like their bows for *_lies_*, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
 * `Jer 9:5` And they will each deceive his neighbor and will not speak the truth. They have taught their tongue to speak *_lies_* and they weary themselves to commit iniquity.
-* `Jer 9:8` Their tongue is as an arrow shot out. It speaks deceit. One speaks peaceably to his neighbor with his mouth, but in his heart he *_lies_* in wait.
+* `Jer 9:8` Their tongue is like an arrow shot out. It speaks deceit. One speaks peaceably to his neighbor with his mouth, but in his heart he *_lies_* in wait.
 * `Jer 14:14` Then the LORD said to me, "The prophets prophesy *_lies_* in my name. I have not sent them, neither have I commanded them nor spoken to them. They prophesy to you false visions, divinations, predictions, and deceits of their heart.
 * `Jer 16:19` O LORD, my strength and my fortress, and my refuge in the day of affliction, the Gentiles shall come to you from the ends of the earth, and shall say, "Surely our fathers have inherited *_lies_*, vanity, and things in which there is no profit."
 * `Jer 20:6` And you, Pashur, and all who dwell in your house, shall go into captivity. And you shall come to Babylon, and there you shall die and be buried—you and all your friends to whom you have prophesied *_lies_*.'"
@@ -1301,7 +1301,7 @@ _6 verses containing LIGHTLY_
 
 == LIGHTNESS
 
-* `Jer 3:9` And it came to pass through the *_lightness_* of her lewdness, that she defiled the land and committed adultery with stones and with stocks.
+* `Jer 3:9` And it came to pass through the *_lightness_* of her lewdness, that she defiled the land and committed adultery with stones and with wood.
 * `Jer 23:32` Behold, I am against those who prophesy false dreams," says the LORD, "who tell them and cause my people to err by their lies and by their *_lightness_*, yet I did not send them nor command them. Therefore, they shall not profit this people at all," says the LORD.
 
 _2 verses containing LIGHTNESS_
@@ -1935,10 +1935,16 @@ _1 verse containing LIGN-ALOES_
 * `Jer 2:30` "In vain I have smitten your children. They have received no correction. Your own sword has devoured your prophets *_like_* a destroying lion.
 * `Jer 3:2` "Lift up your eyes to the high places and see where you have not been lain with. In the roads you have sat for them *_like_* the Arabian in the wilderness, and you have polluted the land with your acts of lewdness and with your wickedness.
 * `Jer 4:4` Circumcise yourselves to the LORD and take away the foreskins of your heart, men of Judah and inhabitants of Jerusalem, lest my fury come forth *_like_* fire and burn so that none can quench it because of the evil of your doings."
+* `Jer 4:13` "Behold, he shall come up *_like_* clouds, and his chariots shall be *_like_* a whirlwind. His horses are swifter than eagles. Woe to us! For we are laid waste."
 * `Jer 4:17` *_Like_* keepers of a field they are against her on all sides, because she has been rebellious against me,' says the LORD.
+* `Jer 4:31` For I have heard a voice *_like_* that of a woman in travail, and the anguish *_like_* that of her who brings forth her first child, the voice of the daughter of Zion who bewails herself, who spreads her hands, saying, "Woe is me now! For my soul is wearied because of murderers."
+* `Jer 5:8` They were *_like_* fed horses in the morning. Everyone neighed after his neighbor's wife.
+* `Jer 5:26` For among my people are found wicked men. They lie in wait *_like_* he who sets snares. They set a trap. They catch men.
 * `Jer 6:9` Thus says the LORD of hosts: "They shall thoroughly glean the remnant of Israel as a vine. Turn back your hand *_like_* a grape-gatherer into the baskets."
 * `Jer 6:23` They shall lay hold on bow and spear. They are cruel and have no mercy. Their voice roars *_like_* the sea. And they ride upon horses, set in array as men for war against you, O daughter of Zion."
-* `Jer 9:3` "And they bend their tongues *_like_* their bow for lies, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
+* `Jer 8:6` I listened and heard, but they did not speak aright. No man repented of his wickedness, saying, 'What have I done?' Everyone turned to his course, *_like_* a horse rushing to the battle.
+* `Jer 9:3` "And they bend their tongues *_like_* their bows for lies, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
+* `Jer 9:8` Their tongue is *_like_* an arrow shot out. It speaks deceit. One speaks peaceably to his neighbor with his mouth, but in his heart he lies in wait.
 * `Jer 9:12` Who is the wise man who may understand this? And who is he to whom the mouth of the LORD has spoken so that he may declare it? For why has the land perished and burned up *_like_* a wilderness so that no one passes through?
 * `Jer 10:6` There is no one *_like_* you, O LORD. You are great, and your name is great in might.
 * `Jer 10:7` Who would not fear you, O King of nations? For to you it belongs, because among all the wise men of the nations and in all their kingdoms there is no one *_like_* you.
@@ -2240,7 +2246,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_871 verses containing LIKE_
+_877 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -3123,8 +3129,8 @@ _1 verse containing LIQUORS_
 * `Isa 51:7` *_Listen_* to me, you who know righteousness, the people in whose heart my law is. Do not fear the reproach of men, neither be afraid of their revilings.
 * `Isa 55:2` Why do you spend money for that which is not bread, and your labor for that which does not satisfy? *_Listen_* diligently to me, and eat that which is good, and let your soul delight itself in fatness.
 * `Jer 6:10` To whom shall I speak and give warning so that they may hear? Behold, their ear is uncircumcised and they cannot *_listen_*. Behold, the word of the LORD is to them a reproach. They have no delight in it.
-* `Jer 6:17` Also I set watchmen over you, saying, '*_Listen_* to the sound of the trumpet.' But they said, 'We will not *_listen_*.'
-* `Jer 7:24` But they did not *_listen_*, nor incline their ear, but walked in the counsels and in the imagination of their evil heart, and went backward and not forward.
+* `Jer 6:17` Also, I set watchmen over you, saying, '*_Listen_* to the sound of the trumpet.' But they said, 'We will not *_listen_*.'
+* `Jer 7:24` But they did not *_listen_* nor incline their ear, but walked in the counsels and in the imagination of their evil heart, and went backward and not forward.
 * `Jer 7:26` Yet they did not *_listen_* to me nor incline their ear, but hardened their neck. They did worse than their fathers.
 * `Jer 7:27` "Therefore, you shall speak all these words to them, but they will not *_listen_* to you. You shall also call to them, but they will not answer you.
 * `Jer 11:11` Therefore, thus says the LORD: "Behold, I will bring evil upon them which they shall not be able to escape. And though they shall cry to me, I will not *_listen_* to them.
@@ -3213,7 +3219,7 @@ _180 verses containing LISTEN_
 * `Psa 81:13` O that my people had *_listened_* to me and Israel had walked in my ways!
 * `Isa 48:18` O that you had *_listened_* to my commandments! Then your peace would have been like a river and your righteousness like the waves of the sea.
 * `Jer 6:19` Hear, O earth. Behold, I will bring evil upon this people, even the fruit of their thoughts, because they have not *_listened_* to my words nor to my law, but have rejected it.
-* `Jer 8:6` I *_listened_* and heard, but they did not speak aright. No man repented of his wickedness, saying, 'What have I done?' Everyone turned to his course, as the horse rushes to the battle.
+* `Jer 8:6` I *_listened_* and heard, but they did not speak aright. No man repented of his wickedness, saying, 'What have I done?' Everyone turned to his course, like a horse rushing to the battle.
 * `Jer 25:3` "From the thirteenth year of Josiah the son of Amon king of Judah, even to this day, that is the twenty-third year, the word of the LORD has come to me, and I have spoken to you, rising early and speaking, but you have not *_listened_*.
 * `Jer 25:4` And the LORD has sent to you all his servants the prophets, rising early and sending them, but you have not *_listened_* nor inclined your ear to hear.
 * `Jer 25:7` Yet you have not *_listened_* to me," says the LORD, "so that you might provoke me to anger with the works of your hands to your own hurt.
