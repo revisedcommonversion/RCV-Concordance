@@ -5750,7 +5750,7 @@ _1 verse containing LOP_
 * `Jer 10:24` O *_LORD_*, correct me, but with judgment, not in your anger, lest you bring me to nothing.
 * `Jer 11:1` A word came to Jeremiah from the *_LORD_*, saying,
 * `Jer 11:3` And say to them, 'Thus says the *_LORD_* God of Israel: "Cursed is the man who does not obey the words of this covenant,
-* `Jer 11:5` So that I may perform the oath which I have sworn to your fathers, to give them a land flowing with milk and honey, as it is this day."'" Then I answered, and said, "So be it, O *_LORD_*."
+* `Jer 11:5` So that I may perform the oath which I have sworn to your fathers, to give them a land flowing with milk and honey, as it is this day."'" Then I answered and said, "So be it, O *_LORD_*."
 * `Jer 11:6` Then the *_LORD_* said to me, "Proclaim all these words in the cities of Judah and in the streets of Jerusalem, saying, 'Hear the words of this covenant and do them.
 * `Jer 11:9` And the *_LORD_* said to me, "A conspiracy is found among the men of Judah and among the inhabitants of Jerusalem.
 * `Jer 11:11` Therefore, thus says the *_LORD_*: "Behold, I will bring evil upon them which they shall not be able to escape. And though they shall cry to me, I will not listen to them.
@@ -5769,7 +5769,7 @@ _1 verse containing LOP_
 * `Jer 12:17` But if they will not obey, I will utterly pluck up and destroy that nation," says the *_LORD_*.
 * `Jer 13:1` Thus says the *_LORD_* to me: "Go and get for yourself a linen girdle and put it upon your loins, and do not put it in water."
 * `Jer 13:2` So I procured a girdle according to the word of the *_LORD_* and put it on my loins.
-* `Jer 13:3` And the word of the *_LORD_* came to me the second time, saying,
+* `Jer 13:3` And the word of the *_LORD_* came to me a second time, saying,
 * `Jer 13:5` So I went and hid it by the Euphrates as the *_LORD_* commanded me.
 * `Jer 13:6` And it came to pass after many days, that the *_LORD_* said to me, "Arise, go to the Euphrates and take the girdle from there which I commanded you to hide there."
 * `Jer 13:8` Then the word of the *_LORD_* came to me, saying,
@@ -5784,7 +5784,7 @@ _1 verse containing LOP_
 * `Jer 13:25` This is your lot, the portion of your measures from me," says the *_LORD_*, "because you have forgotten me and trusted in falsehood.
 * `Jer 14:1` [The word from the *_LORD_* that came to Jeremiah concerning the drought.]
 * `Jer 14:7` O *_LORD_*, though our iniquities testify against us, do it for your name's sake, for our backslidings are many. We have sinned against you.
-* `Jer 14:9` Why should you be as a man astonished, as a mighty man who cannot save? Yet you, O *_LORD_*, are in the midst of us, and we are called by your name. Do not leave us."
+* `Jer 14:9` Why should you be like a man astonished, like a mighty man who cannot save? Yet you, O *_LORD_*, are in the midst of us, and we are called by your name. Do not leave us."
 * `Jer 14:10` Thus says the *_LORD_* to this people: "Thus they have loved to wander, they have not restrained their feet; therefore, the *_LORD_* does not accept them. He will now remember their iniquity and visit their sins."
 * `Jer 14:11` Then the *_LORD_* said to me, "Do not pray for this people for their good.
 * `Jer 14:13` Then I said, "Ah *_Lord_* GOD! Behold, the prophets say to them, 'You shall not see the sword, neither shall you have famine, but I will give you assured peace in this place.'"
@@ -5811,7 +5811,7 @@ _1 verse containing LOP_
 * `Jer 16:14` "Therefore, behold, the days come," says the *_LORD_*, "that it shall no longer be said, 'The *_LORD_* lives, who brought the children of Israel out of the land of Egypt,'
 * `Jer 16:15` But, 'The *_LORD_* lives, who brought the children of Israel from the land of the north and from all the lands where he had driven them.' And I will bring them back into their land that I gave to their fathers.
 * `Jer 16:16` "Behold, I will send for many fishermen," says the *_LORD_*, "and they shall fish them. And afterward, I will send for many hunters, and they shall hunt them from every mountain, from every hill, and out of the holes of the rocks.
-* `Jer 16:19` O *_LORD_*, my strength and my fortress, and my refuge in the day of affliction, the Gentiles shall come to you from the ends of the earth, and shall say, "Surely our fathers have inherited lies, vanity, and things in which there is no profit."
+* `Jer 16:19` O *_LORD_*, my strength and my fortress, and my refuge in the day of affliction, the Gentiles shall come to you from the ends of the earth and shall say, "Surely our fathers have inherited lies, vanity, and things in which there is no profit."
 * `Jer 17:5` Thus says the *_LORD_*: "Cursed is the man who trusts in man and makes flesh his strength, and whose heart departs from the *_LORD_*,
 * `Jer 17:7` Blessed is the man who trusts in the *_LORD_* and whose hope is the *_LORD_*,
 * `Jer 17:10` I, the *_LORD_*, search the heart. I try the mind, even to give every man according to his ways and according to the fruit of his doings.
@@ -5820,7 +5820,7 @@ _1 verse containing LOP_
 * `Jer 17:15` Behold, they say to me, "Where is the word of the *_LORD_*? Let it come now."
 * `Jer 17:19` Thus the *_LORD_* said to me: "Go and stand in the gate of the children of the people, by which the kings of Judah come in and by which they go out, and in all the gates of Jerusalem,
 * `Jer 17:20` And say to them, 'Hear the word of the *_LORD_*, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates.
-* `Jer 17:21` Thus says the *_LORD_*: "Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;
+* `Jer 17:21` Thus says the *_LORD_*: "Take heed to yourselves. Bear no burden on the sabbath day nor bring it in by the gates of Jerusalem.
 * `Jer 17:24` "And it shall come to pass, that if you diligently listen to me," says the *_LORD_*, "to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day and do no work therein,
 * `Jer 17:26` And they shall come from the cities of Judah, from the places around Jerusalem, from the land of Benjamin, from the plain, from the mountains, and from the south, bringing burnt-offerings, sacrifices, food-offerings, and incense, and bringing sacrifices of praise to the house of the *_LORD_*.
 * `Jer 18:1` A word came to Jeremiah from the *_LORD_*, saying,
@@ -5833,7 +5833,7 @@ _1 verse containing LOP_
 * `Jer 19:1` Thus says the *_LORD_*: "Go and get a potter's earthen bottle, and take some of the ancients of the people and some of the ancients of the priests,
 * `Jer 19:3` And say, 'Hear the word of the *_LORD_*, O kings of Judah and inhabitants of Jerusalem. Thus says the *_LORD_* of hosts, the God of Israel: "Behold, I will bring evil upon this place, which whoever hears, his ears shall tingle,
 * `Jer 19:6` Therefore, behold, the days come," says the *_LORD_*, "that this place shall no longer be called Tophet, nor The Valley of the Son of Hinnom, but The Valley of Slaughter.
-* `Jer 19:11` And shall say to them, 'Thus says the *_LORD_* of hosts: "Even so I will break this people and this city, as one breaks a potter's vessel that cannot be made whole again. And they shall bury them in Tophet until there is no place to bury.
+* `Jer 19:11` And say to them, 'Thus says the *_LORD_* of hosts: "Even so I will break this people and this city, as one breaks a potter's vessel that cannot be made whole again. And they shall bury them in Tophet until there is no place to bury.
 * `Jer 19:12` Thus I will do to this place," says the *_LORD_*, "and to its inhabitants, and even make this city like Tophet.
 * `Jer 19:14` Then Jeremiah came from Tophet, where the *_LORD_* had sent him to prophesy, and he stood in the court of the *_LORD_*'S house and said to all the people,
 * `Jer 19:15` "Thus says the *_LORD_* of hosts, the God of Israel: 'Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks so that they might not hear my words.'"
