@@ -1174,7 +1174,7 @@ _2 verses containing HOSTAGES_
 * `Jer 29:8` For thus says the LORD of *_hosts_*, the God of Israel: 'Do not let your prophets and your diviners who are in the midst of you deceive you, neither listen to your dreams which you cause to be dreamed,
 * `Jer 29:17` Thus says the LORD of *_hosts_*: 'Behold, I will send upon them the sword, the famine, and the pestilence and will make them like vile figs that cannot be eaten they are so bad.
 * `Jer 29:21` Thus says the LORD of *_hosts_*, the God of Israel, concerning Ahab the son of Kolaiah and concerning Zedekiah the son of Maaseiah, who prophesy a lie to you in my name: 'Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall slay them before your eyes.
-* `Jer 29:25` "Thus speaks the LORD of *_hosts_*, the God of Israel, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
+* `Jer 29:25` "Thus says the LORD of *_hosts_*, the God of Israel, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
 * `Jer 30:8` 'For it shall come to pass in that day,' says the LORD of *_hosts_*, 'that I will break his yoke from off your neck and will tear off your bonds, and strangers shall no longer bring him into subjection,
 * `Jer 31:23` Thus says the LORD of *_hosts_*, the God of Israel: "Yet again they shall use this speech in the land of Judah and in her cities when I bring back their captivity: 'May the LORD bless you, O habitation of justice, mountain of holiness.'
 * `Jer 31:35` Thus says the LORD, who gives the sun for a light by day and the ordinances of the moon and of the stars for a light by night, who divides the sea when its waves roar, the LORD of *_hosts_* is his name:
@@ -2701,12 +2701,12 @@ _3 verses containing HOURS_
 * `Jer 18:3` Then I went down to the potter's *_house_*, and behold, he wrought a work on the wheels.
 * `Jer 18:6` "O *_house_* of Israel, can I not do with you as this potter does?" says the LORD. "Behold, as the clay is in the potter's hand, so you are in my hand, O *_house_* of Israel.
 * `Jer 19:14` Then Jeremiah came from Tophet, where the LORD had sent him to prophesy, and he stood in the court of the LORD'S *_house_* and said to all the people,
-* `Jer 20:1` Now Pashur the son of Immer the priest, who was also chief governor in the *_house_* of the LORD, heard that Jeremiah prophesied these things.
+* `Jer 20:1` Now Pashur the priest, the son of Immer, who was also chief governor in the *_house_* of the LORD, heard that Jeremiah prophesied these things.
 * `Jer 20:2` Then Pashur struck Jeremiah the prophet and put him in the stocks that were in the high gate of Benjamin, which was by the *_house_* of the LORD.
 * `Jer 20:6` And you, Pashur, and all who dwell in your *_house_*, shall go into captivity. And you shall come to Babylon, and there you shall die and be buried—you and all your friends to whom you have prophesied lies.'"
 * `Jer 21:11` "And concerning the *_house_* of the king of Judah, say, 'Hear the word of the LORD,
 * `Jer 21:12` O *_house_* of David. Thus says the LORD: "Execute judgment in the morning and deliver him who is made desolate out of the hand of the oppressor, lest my fury go out like fire and burn so that no one can quench it because of the evil of your doings.
-* `Jer 22:1` Thus says the LORD: "Go down to the *_house_* of the king of Judah and speak this word there,
+* `Jer 22:1` Thus says the LORD: "Go down to the *_house_* of the king of Judah and speak this word there
 * `Jer 22:4` For if you do this thing indeed, then there shall enter by the gates of this *_house_* kings sitting upon the throne of David, riding in chariots and on horses—he, his servants, and his people.
 * `Jer 22:5` But if you will not hear these words, I swear by myself," says the LORD, "that this *_house_* shall become a desolation."'"
 * `Jer 22:6` For thus says the LORD to the king's *_house_* of Judah: "You are Gilead to me, and the head of Lebanon. Yet surely I will make you a wilderness and cities which are not inhabited.
@@ -2722,10 +2722,10 @@ _3 verses containing HOURS_
 * `Jer 26:10` When the princes of Judah heard these things, they came up from the king's *_house_* to the *_house_* of the LORD and sat down in the entry of the new gate of the LORD'S *_house_*.
 * `Jer 26:12` Then Jeremiah spoke to all the princes and to all the people, saying, "The LORD sent me to prophesy against this *_house_* and against this city all the words that you have heard.
 * `Jer 26:18` "Micah the Morasthite prophesied in the days of Hezekiah king of Judah and spoke to all the people of Judah, saying, 'Thus says the LORD of hosts: "Zion shall be plowed like a field, Jerusalem shall become heaps, and the mountain of the *_house_* like the high places of the forest."'
-* `Jer 27:16` Also I spoke to the priests and to all this people, saying, "Thus says the LORD: 'Do not listen to the words of your prophets who prophesy to you, saying, "Behold, the vessels of the LORD'S *_house_* shall now shortly be brought back from Babylon," for they prophesy a lie to you.
+* `Jer 27:16` Then I spoke to the priests and to all this people, saying, "Thus says the LORD: 'Do not listen to the words of your prophets who prophesy to you, saying, "Behold, the vessels of the LORD'S *_house_* shall now shortly be brought back from Babylon," for they prophesy a lie to you.
 * `Jer 27:18` But if they are prophets and if the word of the LORD is with them, let them now make intercession to the LORD of hosts so that the vessels which are left in the *_house_* of the LORD, in the *_house_* of the king of Judah, and in Jerusalem do not go to Babylon.
 * `Jer 27:21` Indeed, thus says the LORD of hosts, the God of Israel, concerning the vessels that remain in the *_house_* of the LORD, in the *_house_* of the king of Judah, and in Jerusalem:
-* `Jer 28:1` And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, who was of Gibeon, spoke to me in the *_house_* of the LORD in the presence of the priests and of all the people, saying,
+* `Jer 28:1` And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the prophet, the son of Azur, who was from Gibeon, spoke to me in the *_house_* of the LORD in the presence of the priests and of all the people, saying,
 * `Jer 28:3` Within two full years I will bring back into this place all the vessels of the LORD'S *_house_* that Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.
 * `Jer 28:5` Then the prophet Jeremiah said to the prophet Hananiah in the presence of the priests and in the presence of all the people who stood in the *_house_* of the LORD,
 * `Jer 28:6` Even the prophet Jeremiah said, "Amen. May the LORD do so. May the LORD perform your words which you have prophesied, to bring back the vessels of the LORD'S *_house_* and all that is carried away captive from Babylon into this place.
@@ -2754,7 +2754,7 @@ _3 verses containing HOURS_
 * `Jer 36:12` He went down into the king's *_house_*, into the scribe's chamber, and behold, all the princes sat there, even Elishama the scribe, Delaiah the son of Shemaiah, Elnathan the son of Achbor, Gemariah the son of Shaphan, Zedekiah the son of Hananiah, and all the princes.
 * `Jer 36:22` Now the king sat in the winter-*_house_* in the ninth month, and there was a fire on the hearth burning before him.
 * `Jer 37:15` Therefore, the princes were angry with Jeremiah and beat him and put him in prison in the *_house_* of Jonathan the scribe, for they had made that the prison.
-* `Jer 37:17` Then Zedekiah the king sent and took him out. And the king asked him secretly in his *_house_*, and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the king of Babylon."
+* `Jer 37:17` Then Zedekiah the king sent and took him out. And the king asked him secretly in his *_house_* and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the king of Babylon."
 * `Jer 37:20` Now therefore, hear, I pray you, O my lord the king. Let my supplication, I pray you, be accepted before you, that you do not cause me to return to the *_house_* of Jonathan the scribe, lest I die there."
 * `Jer 38:7` Now when Ebed-melech the Cushite, one of the eunuchs who was in the king's *_house_*, heard that they had put Jeremiah in the dungeon (the king was sitting in the gate of Benjamin),
 * `Jer 38:8` Ebed-melech went out of the king's *_house_* and spoke to the king, saying,
@@ -3704,7 +3704,7 @@ _1 verse containing HOUSETOP_
 * `Jer 9:19` For a voice of wailing is heard out of Zion, '*_How_* we are laid waste! We are greatly confounded because we have forsaken the land, because our dwellings have cast us out.'"
 * `Jer 12:4` *_How_* long shall the land mourn and the herbs of every field wither for the wickedness of those who dwell therein? The beasts are consumed, and also the birds, because they said, "He will not see our last end."
 * `Jer 12:5` "If you have run with the footmen, and they have wearied you, then *_how_* can you contend with horses? And if in the land of peace, in which you have trusted, they wearied you, then *_how_* will you do in the swelling of the Jordan?
-* `Jer 22:23` O inhabitant of Lebanon, who makes your nest in the cedars, *_how_* gracious you shall be when pangs come upon you, the pain as of a woman in travail!
+* `Jer 22:23` O inhabitant of Lebanon, who makes your nest in the cedars, *_how_* gracious you shall be when pangs come upon you, the pain like that of a woman in travail!
 * `Jer 23:26` *_How_* long? Is it in the heart of the prophets who prophesy lies, even the prophets of the deceit of their own heart,
 * `Jer 31:22` *_How_* long will you wander around, O backsliding daughter? For the LORD has created a new thing in the earth: a woman shall compass a man."
 * `Jer 36:17` And they asked Baruch, saying, "Tell us now, *_how_* did you write all these words from his mouth?"

@@ -2658,9 +2658,9 @@ _1 verse containing ISPAH_
 * `Jer 29:4` "Thus says the LORD of hosts, the God of *_Israel_*, to all who are carried away as captives, whom I have caused to be carried away from Jerusalem to Babylon:
 * `Jer 29:8` For thus says the LORD of hosts, the God of *_Israel_*: 'Do not let your prophets and your diviners who are in the midst of you deceive you, neither listen to your dreams which you cause to be dreamed,
 * `Jer 29:21` Thus says the LORD of hosts, the God of *_Israel_*, concerning Ahab the son of Kolaiah and concerning Zedekiah the son of Maaseiah, who prophesy a lie to you in my name: 'Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall slay them before your eyes.
-* `Jer 29:23` Because they have committed villainy in *_Israel_* and have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I know and am a witness," says the LORD.'"
-* `Jer 29:25` "Thus speaks the LORD of hosts, the God of *_Israel_*, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
-* `Jer 30:2` "Thus speaks the LORD God of *_Israel_*, saying, 'Write for yourself all the words that I have spoken to you in a book.
+* `Jer 29:23` Because they have committed villainy in *_Israel_*, have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I know and am a witness," says the LORD.'"
+* `Jer 29:25` "Thus says the LORD of hosts, the God of *_Israel_*, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
+* `Jer 30:2` "Thus says the LORD God of *_Israel_*, saying, 'Write for yourself all the words that I have spoken to you in a book.
 * `Jer 30:3` For behold, the days come,' says the LORD, 'that I will bring back the captivity of my people *_Israel_* and Judah,' says the LORD, 'and I will cause them to return to the land that I gave to their fathers, and they shall possess it.'"
 * `Jer 30:4` And these are the words that the LORD spoke concerning *_Israel_* and concerning Judah:
 * `Jer 30:10` 'Therefore, do not fear, O my servant Jacob,' says the LORD, 'neither be dismayed, O *_Israel_*, for behold, I will save you from afar and your offspring from the land of their captivity, and Jacob shall return and be in rest and quiet, and no one shall make him afraid.
@@ -2669,7 +2669,7 @@ _1 verse containing ISPAH_
 * `Jer 31:4` Again I will build you, and you shall be built, O virgin of *_Israel_*. You shall again be adorned with your tambourines and shall go forth in the dances of those who make merry.
 * `Jer 31:7` For thus says the LORD: "Sing with gladness for Jacob and shout among the chief of the nations. Publish, praise, and say, 'O LORD, save your people, the remnant of *_Israel_*.'
 * `Jer 31:9` They shall come with weeping, and with supplications I will lead them. I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble, for I am a father to *_Israel_*, and Ephraim is my first-born."
-* `Jer 31:10` Hear the word of the LORD, O nations, and declare it in the coastlands afar off, and say, "He who scattered *_Israel_* will gather him and keep him as a shepherd does his flock."
+* `Jer 31:10` Hear the word of the LORD, O nations, and declare it in the coastlands afar off and say, "He who scattered *_Israel_* will gather him and keep him as a shepherd does his flock."
 * `Jer 31:21` "Set yourself up way-marks. Make yourself high heaps. Set your heart toward the highway, even the way which you went. Turn back, O virgin of *_Israel_*, turn back to these cities of yours.
 * `Jer 31:23` Thus says the LORD of hosts, the God of *_Israel_*: "Yet again they shall use this speech in the land of Judah and in her cities when I bring back their captivity: 'May the LORD bless you, O habitation of justice, mountain of holiness.'
 * `Jer 31:27` "Behold, the days come," says the LORD, "that I will sow the house of *_Israel_* and the house of Judah with the seed of man and with the seed of beast.
@@ -2681,14 +2681,14 @@ _1 verse containing ISPAH_
 * `Jer 32:15` For thus says the LORD of hosts, the God of *_Israel_*: "Houses and fields and vineyards shall be possessed again in this land."'
 * `Jer 32:20` You have set signs and wonders in the land of Egypt, even to this day, both in *_Israel_* and among other men, and have made yourself a name, as at this day.
 * `Jer 32:21` You have brought forth your people *_Israel_* from the land of Egypt with signs, with wonders, with a strong hand, with an out-stretched arm, and with great terror.
-* `Jer 32:30` For the children of *_Israel_* and the children of Judah have done evil only before me from their youth, for the children of *_Israel_* have only provoked me to anger with the work of their hands," says the LORD.
+* `Jer 32:30` For the children of *_Israel_* and the children of Judah have only done evil before me from their youth, for the children of *_Israel_* have only provoked me to anger with the work of their hands," says the LORD.
 * `Jer 32:32` Because of all the evil of the children of *_Israel_* and of the children of Judah, which they have done to provoke me to anger—they, their kings, their princes, their priests, their prophets, the men of Judah, and the inhabitants of Jerusalem.
 * `Jer 32:36` "And now therefore, thus says the LORD, the God of *_Israel_*, concerning this city, of which you say, 'It shall be delivered into the hand of the king of Babylon by the sword, by the famine, and by the pestilence':
 * `Jer 33:4` For thus says the LORD, the God of *_Israel_*, concerning the houses of this city and concerning the houses of the kings of Judah, which are thrown down by the siege-mounds and by the sword:
 * `Jer 33:7` And I will cause the captivity of Judah and the captivity of *_Israel_* to return and will build them, as at the first.
 * `Jer 33:14` 'Behold, the days come,' says the LORD, 'that I will perform that good thing which I have promised to the house of *_Israel_* and to the house of Judah.
 * `Jer 33:17` For thus says the LORD: 'David shall never lack a man to sit upon the throne of the house of *_Israel_*,
-* `Jer 34:2` "Thus says the LORD, the God of *_Israel_*: 'Go and speak to Zedekiah king of Judah, and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire.
+* `Jer 34:2` "Thus says the LORD, the God of *_Israel_*: 'Go and speak to Zedekiah king of Judah and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire.
 * `Jer 34:13` "Thus says the LORD, the God of *_Israel_*: 'I made a covenant with your fathers in the day that I brought them forth from the land of Egypt, out of the house of bondage, saying,
 * `Jer 35:13` "Thus says the LORD of hosts, the God of *_Israel_*: 'Go and tell the men of Judah and the inhabitants of Jerusalem, "Will you not receive instruction to listen to my words?" says the LORD.
 * `Jer 35:17` Therefore, thus says the LORD God of hosts, the God of *_Israel_*: 'Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them because I have spoken to them, but they have not heard, and I have called to them, but they have not answered.'"

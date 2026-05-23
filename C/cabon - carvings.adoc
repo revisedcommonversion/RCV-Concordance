@@ -2451,14 +2451,14 @@ _25 verses containing CALVES_
 * `Jer 18:5` Then the word of the LORD *_came_* to me, saying,
 * `Jer 19:14` Then Jeremiah *_came_* from Tophet, where the LORD had sent him to prophesy, and he stood in the court of the LORD'S house and said to all the people,
 * `Jer 20:3` And it *_came_* to pass on the next day, that Pashur brought forth Jeremiah out of the stocks. Then Jeremiah said to him, "The LORD has not called your name Pashur, but Magor-missabib.
-* `Jer 21:1` A word *_came_* to Jeremiah from the LORD when king Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the son of Maaseiah the priest, saying,
+* `Jer 21:1` A word *_came_* to Jeremiah from the LORD when king Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the priest, the son of Maaseiah, saying,
 * `Jer 24:4` Again the word of the LORD *_came_* to me, saying,
 * `Jer 25:1` A word *_came_* to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah (that was the first year of Nebuchadnezzar king of Babylon),
 * `Jer 26:1` In the beginning of the reign of Jehoiakim the son of Josiah king of Judah, this word from the LORD *_came_*, saying,
 * `Jer 26:8` Now it *_came_* to pass, when Jeremiah had made an end of speaking all that the LORD had commanded him to speak to all the people, that the priests, the prophets, and all the people took him, saying, "You shall surely die.
 * `Jer 26:10` When the princes of Judah heard these things, they *_came_* up from the king's house to the house of the LORD and sat down in the entry of the new gate of the LORD'S house.
 * `Jer 27:1` In the beginning of the reign of Jehoiakim the son of Josiah king of Judah, this word *_came_* to Jeremiah from the LORD, saying,
-* `Jer 28:1` And it *_came_* to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, who was of Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
+* `Jer 28:1` And it *_came_* to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the prophet, the son of Azur, who was from Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
 * `Jer 28:12` Then the word of the LORD *_came_* to Jeremiah after Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,
 * `Jer 29:30` Then the word of the LORD *_came_* to Jeremiah, saying,
 * `Jer 30:1` A word *_came_* to Jeremiah from the LORD, saying,
@@ -2481,7 +2481,7 @@ _25 verses containing CALVES_
 * `Jer 36:14` Therefore, all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, "Take in your hand the scroll in which you have read in the ears of the people and come." So Baruch the son of Neriah took the scroll in his hand and *_came_* to them.
 * `Jer 36:16` Now it *_came_* to pass when they had heard all the words, they turned in fear to one another and said to Baruch, "We will surely tell the king of all these words."
 * `Jer 36:23` And it *_came_* to pass, that when Jehudi had read three or four leaves, he cut it with the scribe's pen-knife and cast it into the fire that was on the hearth until all the scroll was consumed in the fire that was on the hearth.
-* `Jer 36:27` Then the word of the LORD *_came_* to Jeremiah after the king had burned the scroll and the words which Baruch wrote at the mouth of Jeremiah, saying,
+* `Jer 36:27` Then the word of the LORD *_came_* to Jeremiah after the king had burned the scroll and the words which Baruch wrote from the mouth of Jeremiah, saying,
 * `Jer 37:4` Now Jeremiah *_came_* in and went out among the people, for they had not put him into prison.
 * `Jer 37:6` Then the word of the LORD *_came_* to the prophet Jeremiah, saying,
 * `Jer 37:11` And it *_came_* to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh's army,
@@ -2493,7 +2493,7 @@ _25 verses containing CALVES_
 * `Jer 40:1` A word *_came_* to Jeremiah from the LORD after Nebuzar-adan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all who were carried away captive of Jerusalem and Judah, who were carried away captive to Babylon.
 * `Jer 40:8` They *_came_* to Gedaliah at Mizpah, even Ishmael the son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah the son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite—they and their men.
 * `Jer 40:12` Even all the Jews returned out of all places where they were driven and *_came_* to the land of Judah, to Gedaliah, to Mizpah, and gathered wine and summer fruits in abundance.
-* `Jer 40:13` Moreover, Johanan the son of Kareah and all the captains of the forces who were in the fields *_came_* to Gedaliah at Mizpah,
+* `Jer 40:13` Moreover, Johanan the son of Kareah and all the captains of the forces who were in the fields *_came_* to Gedaliah at Mizpah
 * `Jer 41:1` Now it *_came_* to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the royal family, and the princes of the king, even ten men with him, *_came_* to Gedaliah the son of Ahikam at Mizpah. And there they ate bread together in Mizpah.
 * `Jer 41:4` And it *_came_* to pass the second day after he had slain Gedaliah, and no man knew it,
 * `Jer 41:5` That there *_came_* men from Shechem, from Shiloh, and from Samaria, even eighty men, having their beards shaved and their clothes rent and having cut themselves, with offerings and incense in their hand, to bring them to the house of the LORD.
@@ -4298,7 +4298,7 @@ _6 verses containing CAPS_
 * `Jer 39:11` Now Nebuchadnezzar king of Babylon gave charge concerning Jeremiah to Nebuzar-adan the *_captain_* of the guard, saying,
 * `Jer 39:13` So Nebuzar-adan the *_captain_* of the guard sent, and Nebushasban, Rab-saris, Nergal-sharezer, Rab-mag, and all the king of Babylon's princes,
 * `Jer 40:1` A word came to Jeremiah from the LORD after Nebuzar-adan the *_captain_* of the guard had let him go from Ramah, when he had taken him being bound in chains among all who were carried away captive of Jerusalem and Judah, who were carried away captive to Babylon.
-* `Jer 40:2` And the *_captain_* of the guard took Jeremiah, and said to him, "The LORD your God has pronounced this evil upon this place.
+* `Jer 40:2` And the *_captain_* of the guard took Jeremiah and said to him, "The LORD your God has pronounced this evil upon this place.
 * `Jer 40:5` Now while he had not yet gone back, he said, "Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon has made governor over the cities of Judah, and dwell with him among the people, or go wherever it seems convenient for you to go." So the *_captain_* of the guard gave him provisions and a reward and let him go.
 * `Jer 41:10` Then Ishmael carried away captive all the remnant of the people who were in Mizpah, even the king's daughters and all the people who remained in Mizpah, whom Nebuzar-adan the *_captain_* of the guard had committed to Gedaliah the son of Ahikam. And Ishmael the son of Nethaniah carried them away captive and departed to go over to the Ammonites.
 * `Jer 43:6` Even men, women, children, the king's daughters, and every person that Nebuzar-adan the *_captain_* of the guard had left with Gedaliah the son of Ahikam, the son of Shaphan, and Jeremiah the prophet, and Baruch the son of Neriah.
@@ -4417,7 +4417,7 @@ _135 verses containing CAPTAIN_
 * `Job 39:25` He says among the trumpets, 'Ha, ha,' and he smells the battle afar off, the thunder of the *_captains_* and the shouting.
 * `Jer 13:21` What will you say when he punishes you? For you have taught them to be *_captains_* and as chief over you. Shall sorrows not take you, like those of a woman in travail?
 * `Jer 40:7` Now when all the *_captains_* of the forces who were in the fields—they and their men—heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land and had committed to him men, women, children, and those of the poorest of the land who were not carried away captive to Babylon,
-* `Jer 40:13` Moreover, Johanan the son of Kareah and all the *_captains_* of the forces who were in the fields came to Gedaliah at Mizpah,
+* `Jer 40:13` Moreover, Johanan the son of Kareah and all the *_captains_* of the forces who were in the fields came to Gedaliah at Mizpah
 * `Jer 41:11` But when Johanan the son of Kareah and all the *_captains_* of the forces who were with him heard of all the evil that Ishmael the son of Nethaniah had done,
 * `Jer 41:13` Now it came to pass, that when all the people who were with Ishmael saw Johanan the son of Kareah and all the *_captains_* of the forces who were with him, they were glad.
 * `Jer 41:16` Then Johanan the son of Kareah and all the *_captains_* of the forces who were with him took all the remnant of the people from Mizpeh whom he had recovered from Ishmael the son of Nethaniah after he had slain Gedaliah the son of Ahikam, even mighty men of war, and the women, the children, and the eunuchs, whom he had brought back from Gibeon.

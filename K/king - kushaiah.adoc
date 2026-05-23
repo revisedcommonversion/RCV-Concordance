@@ -1475,13 +1475,13 @@
 * `Jer 13:18` Say to the *_king_* and to the queen, "Humble yourselves, sit down, for your principalities shall come down, even the crown of your glory."
 * `Jer 15:4` And I will cause them to be a horror among all kingdoms of the earth because of Manasseh the son of Hezekiah *_king_* of Judah, for that which he did in Jerusalem.
 * `Jer 20:4` For thus says the LORD: 'Behold, I will make you a terror to yourself and to all your friends. And they shall fall by the sword of their enemies, and your eyes shall behold it. And I will give all Judah into the hand of the *_king_* of Babylon, and he shall carry them captive into Babylon and shall slay them with the sword.
-* `Jer 21:1` A word came to Jeremiah from the LORD when *_king_* Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the son of Maaseiah the priest, saying,
+* `Jer 21:1` A word came to Jeremiah from the LORD when *_king_* Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the priest, the son of Maaseiah, saying,
 * `Jer 21:2` "Inquire, I pray you, of the LORD for us, for Nebuchadnezzar *_king_* of Babylon makes war against us. It may be that the LORD will deal with us according to all his wondrous works so that he may go up from us."
 * `Jer 21:4` 'Thus says the LORD God of Israel: "Behold, I will turn back the weapons of war that are in your hands, with which you fight against the *_king_* of Babylon and against the Chaldeans who besiege you outside the walls, and I will assemble them into the midst of this city.
 * `Jer 21:7` And afterward," says the LORD, "I will deliver Zedekiah *_king_* of Judah, his servants, and the people who are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadnezzar *_king_* of Babylon, and into the hand of their enemies and into the hand of those who seek their life. And he shall smite them with the edge of the sword. He shall not spare them, neither have pity, nor have mercy."'
 * `Jer 21:10` For I have set my face against this city for evil and not for good," says the LORD. "It shall be given into the hand of the *_king_* of Babylon, and he shall burn it with fire."'
 * `Jer 21:11` "And concerning the house of the *_king_* of Judah, say, 'Hear the word of the LORD,
-* `Jer 22:1` Thus says the LORD: "Go down to the house of the *_king_* of Judah and speak this word there,
+* `Jer 22:1` Thus says the LORD: "Go down to the house of the *_king_* of Judah and speak this word there
 * `Jer 22:2` And say, 'Hear the word of the LORD, O *_king_* of Judah, who sits upon the throne of David—you, your servants, and your people who enter by these gates.
 * `Jer 22:6` For thus says the LORD to the *_king_*'s house of Judah: "You are Gilead to me, and the head of Lebanon. Yet surely I will make you a wilderness and cities which are not inhabited.
 * `Jer 22:11` For thus says the LORD concerning Shallum the son of Josiah *_king_* of Judah, who reigned instead of Josiah his father, who went forth from this place: "He shall not return there anymore,
@@ -1494,8 +1494,8 @@
 * `Jer 25:1` A word came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah *_king_* of Judah (that was the first year of Nebuchadnezzar *_king_* of Babylon),
 * `Jer 25:3` "From the thirteenth year of Josiah the son of Amon *_king_* of Judah, even to this day, that is the twenty-third year, the word of the LORD has come to me, and I have spoken to you, rising early and speaking, but you have not listened.
 * `Jer 25:9` Behold, I will send and take all the families of the north,' says the LORD, 'and Nebuchadnezzar the *_king_* of Babylon, my servant, and will bring them against this land, against its inhabitants, and against all these nations around, and will utterly destroy them and make them an astonishment, a hissing, and perpetual desolations.
-* `Jer 25:11` And this whole land shall be a desolation and an astonishment. And these nations shall serve the *_king_* of Babylon seventy years.
-* `Jer 25:12` 'And it shall come to pass, when seventy years are accomplished, that I will punish the *_king_* of Babylon and that nation,' says the LORD, 'for their iniquity, the land of the Chaldeans, and will make it perpetual desolations.
+* `Jer 25:11` And this whole land shall be a desolation and an astonishment. And these nations shall serve the *_king_* of Babylon for seventy years.
+* `Jer 25:12` 'And it shall come to pass when seventy years are accomplished, that I will punish the *_king_* of Babylon and that nation,' says the LORD, 'for their iniquity, the land of the Chaldeans, and will make it perpetual desolations.
 * `Jer 25:19` Pharaoh *_king_* of Egypt, his servants, his princes, and all his people,
 * `Jer 25:26` All the kings of the north, far and near, with one another, and all the kingdoms of the world which are upon the face of the earth. And the *_king_* of Sheshach shall drink after them.
 * `Jer 26:1` In the beginning of the reign of Jehoiakim the son of Josiah *_king_* of Judah, this word from the LORD came, saying,
@@ -1518,7 +1518,7 @@
 * `Jer 27:18` But if they are prophets and if the word of the LORD is with them, let them now make intercession to the LORD of hosts so that the vessels which are left in the house of the LORD, in the house of the *_king_* of Judah, and in Jerusalem do not go to Babylon.
 * `Jer 27:20` Which Nebuchadnezzar *_king_* of Babylon did not take when he carried away captive Jeconiah the son of Jehoiakim *_king_* of Judah from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem—
 * `Jer 27:21` Indeed, thus says the LORD of hosts, the God of Israel, concerning the vessels that remain in the house of the LORD, in the house of the *_king_* of Judah, and in Jerusalem:
-* `Jer 28:1` And it came to pass the same year, in the beginning of the reign of Zedekiah *_king_* of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, who was of Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
+* `Jer 28:1` And it came to pass the same year, in the beginning of the reign of Zedekiah *_king_* of Judah, in the fourth year, and in the fifth month, that Hananiah the prophet, the son of Azur, who was from Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
 * `Jer 28:2` "Thus speaks the LORD of hosts, the God of Israel, saying, 'I have broken the yoke of the *_king_* of Babylon.
 * `Jer 28:3` Within two full years I will bring back into this place all the vessels of the LORD'S house that Nebuchadnezzar *_king_* of Babylon took away from this place and carried to Babylon.
 * `Jer 28:4` And I will bring back to this place Jeconiah the son of Jehoiakim *_king_* of Judah with all the captives of Judah who went into Babylon,' says the LORD. 'For I will break the yoke of the *_king_* of Babylon.'"
@@ -1532,12 +1532,12 @@
 * `Jer 30:9` But they shall serve the LORD their God and David their *_king_*, whom I will raise up to them.
 * `Jer 32:1` A word came to Jeremiah from the LORD in the tenth year of Zedekiah *_king_* of Judah, which was the eighteenth year of Nebuchadnezzar.
 * `Jer 32:2` For then the *_king_* of Babylon's army besieged Jerusalem, and Jeremiah the prophet was confined in the court of the prison, which was in the *_king_* of Judah's house,
-* `Jer 32:3` For Zedekiah *_king_* of Judah had confined him, saying, "Why do you prophesy, and say, 'Thus says the LORD: "Behold, I will give this city into the hand of the *_king_* of Babylon, and he shall take it.
+* `Jer 32:3` For Zedekiah *_king_* of Judah had confined him, saying, "Why do you prophesy and say, 'Thus says the LORD: "Behold, I will give this city into the hand of the *_king_* of Babylon, and he shall take it.
 * `Jer 32:4` And Zedekiah *_king_* of Judah shall not escape from the hand of the Chaldeans, but shall surely be delivered into the hand of the *_king_* of Babylon and shall speak with him mouth to mouth, and his eyes shall behold his eyes.
 * `Jer 32:28` Therefore, thus says the LORD: "Behold, I will give this city into the hand of the Chaldeans and into the hand of Nebuchadnezzar *_king_* of Babylon, and he shall take it.
 * `Jer 32:36` "And now therefore, thus says the LORD, the God of Israel, concerning this city, of which you say, 'It shall be delivered into the hand of the *_king_* of Babylon by the sword, by the famine, and by the pestilence':
 * `Jer 34:1` A word came to Jeremiah from the LORD when Nebuchadnezzar *_king_* of Babylon, all his army, all the kingdoms of the earth of his dominion, and all the people fought against Jerusalem and against all its cities, saying,
-* `Jer 34:2` "Thus says the LORD, the God of Israel: 'Go and speak to Zedekiah *_king_* of Judah, and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the *_king_* of Babylon, and he shall burn it with fire.
+* `Jer 34:2` "Thus says the LORD, the God of Israel: 'Go and speak to Zedekiah *_king_* of Judah and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the *_king_* of Babylon, and he shall burn it with fire.
 * `Jer 34:3` And you shall not escape from his hand, but shall surely be taken and delivered into his hand. And your eyes shall behold the eyes of the *_king_* of Babylon, and he shall speak with you mouth to mouth, and you shall go to Babylon.'"'
 * `Jer 34:4` Yet hear the word of the LORD, O Zedekiah *_king_* of Judah. Thus says the LORD concerning you: 'You shall not die by the sword,
 * `Jer 34:6` Then Jeremiah the prophet spoke all these words to Zedekiah *_king_* of Judah in Jerusalem
@@ -1556,15 +1556,15 @@
 * `Jer 36:24` Yet they were not afraid nor rent their garments—neither the *_king_* nor any of his servants who heard all these words.
 * `Jer 36:25` Nevertheless, Elnathan, Delaiah, and Gemariah had made intercession to the *_king_* that he would not burn the scroll, but he would not hear them.
 * `Jer 36:26` But the *_king_* commanded Jerahmeel the son of Hammelech, Seraiah the son of Azriel, and Shelemiah the son of Abdeel to take Baruch the scribe and Jeremiah the prophet, but the LORD hid them.
-* `Jer 36:27` Then the word of the LORD came to Jeremiah after the *_king_* had burned the scroll and the words which Baruch wrote at the mouth of Jeremiah, saying,
+* `Jer 36:27` Then the word of the LORD came to Jeremiah after the *_king_* had burned the scroll and the words which Baruch wrote from the mouth of Jeremiah, saying,
 * `Jer 36:28` "Take for yourself again another scroll and write in it all the former words that were in the first scroll, which Jehoiakim *_king_* of Judah has burned.
 * `Jer 36:29` And you shall say to Jehoiakim *_king_* of Judah, 'Thus says the LORD: "You have burned this scroll, saying, 'Why have you written therein, saying, "The *_king_* of Babylon shall certainly come and destroy this land and cause man and beast to cease from there"?'"
 * `Jer 36:30` Therefore, thus says the LORD concerning Jehoiakim *_king_* of Judah: "He shall have no one to sit upon the throne of David, and his dead body shall be cast out in the day to the heat and in the night to the frost.
 * `Jer 36:32` Then Jeremiah took another scroll and gave it to Baruch the scribe, the son of Neriah, who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim *_king_* of Judah had burned in the fire. And again there were added to them many words like these.
 * `Jer 37:1` And *_king_* Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar *_king_* of Babylon made *_king_* in the land of Judah.
-* `Jer 37:3` And Zedekiah the *_king_* sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, "Pray now to the LORD our God for us."
+* `Jer 37:3` And Zedekiah the *_king_* sent Jehucal the son of Shelemiah and Zephaniah the priest, the son of Maaseiah, to the prophet Jeremiah, saying, "Pray now to the LORD our God for us."
 * `Jer 37:7` "Thus says the LORD, the God of Israel: 'Thus you shall say to the *_king_* of Judah who sent you to me to inquire of me: "Behold, Pharaoh's army, which has come forth to help you, shall return to Egypt into their own land.
-* `Jer 37:17` Then Zedekiah the *_king_* sent and took him out. And the *_king_* asked him secretly in his house, and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the *_king_* of Babylon."
+* `Jer 37:17` Then Zedekiah the *_king_* sent and took him out. And the *_king_* asked him secretly in his house and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the *_king_* of Babylon."
 * `Jer 37:18` Moreover, Jeremiah said to *_king_* Zedekiah, "In what have I offended against you, against your servants, or against this people that you have put me in prison?
 * `Jer 37:19` Where are your prophets now who prophesied to you, saying, 'The *_king_* of Babylon shall not come against you nor against this land'?
 * `Jer 37:20` Now therefore, hear, I pray you, O my lord the *_king_*. Let my supplication, I pray you, be accepted before you, that you do not cause me to return to the house of Jonathan the scribe, lest I die there."
@@ -3685,7 +3685,7 @@ _4 verses containing KNOCKS_
 * `Jer 26:15` But *_know_* for certain, that if you put me to death, you will surely bring innocent blood upon yourselves, upon this city, and upon its inhabitants. For of a truth the LORD has sent me to you to speak all these words in your ears."
 * `Jer 29:11` For I *_know_* the thoughts that I think toward you,' says the LORD, 'thoughts of peace and not of evil, to give you an expected end.
 * `Jer 29:16` *_Know_* that thus says the LORD concerning the king who sits upon the throne of David, concerning all the people who dwell in this city, and concerning your brothers who have not gone forth with you into captivity—
-* `Jer 29:23` Because they have committed villainy in Israel and have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I *_know_* and am a witness," says the LORD.'"
+* `Jer 29:23` Because they have committed villainy in Israel, have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I *_know_* and am a witness," says the LORD.'"
 * `Jer 31:34` And no longer shall they each teach his neighbor and each his brother, saying, '*_Know_* the LORD,' for they shall all *_know_* me, from the least of them to the greatest of them," says the LORD. "For I will forgive their iniquity and will no longer remember their sin."
 * `Jer 33:3` 'Call to me, and I will answer you and show you great and mighty things which you do not *_know_*.'
 * `Jer 36:19` Then the princes said to Baruch, "Go, hide yourself—you and Jeremiah—and let no man *_know_* where you are."
