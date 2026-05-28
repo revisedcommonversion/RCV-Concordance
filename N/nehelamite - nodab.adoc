@@ -688,14 +688,14 @@ _1 verse containing NEIGHINGS_
 * `Jer 38:16` So Zedekiah the king swore secretly to Jeremiah, saying, "As the LORD lives, who made us this soul, I will not put you to death, *_neither_* will I give you into the hand of these men who seek your life."
 * `Jer 42:13` But if you say, "We will not dwell in this land," *_neither_* obey the voice of the LORD your God,
 * `Jer 44:3` Because of their wickedness which they have committed to provoke me to anger in that they went to burn incense and to serve other gods, whom they did not know—*_neither_* they, you, nor your fathers.
-* `Jer 44:10` They are not humbled even to this day, *_neither_* have they feared, nor walked in my law, nor in my statutes, which I set before you and before your fathers."'
+* `Jer 44:10` They are not humbled even to this day, *_neither_* have they feared. They have not walked in my law nor in my statutes which I set before you and before your fathers."'
 * `Jer 48:11` Moab has been at ease from his youth, and he has settled on his dregs and has not been emptied from vessel to vessel, *_neither_* has he gone into captivity. Therefore, his taste remained in him, and his scent is not changed.
 * `Jer 49:18` As in the overthrow of Sodom and Gomorrah and the neighboring cities," says the LORD, "no man shall abide there, *_neither_* shall a son of man dwell in it.
-* `Jer 49:31` Arise, go up to the wealthy nation that dwells without care," says the LORD, "which have *_neither_* gates nor bars, which dwell alone.
+* `Jer 49:31` Arise, go up to the wealthy nation that dwells without care," says the LORD, "that has *_neither_* gates nor bars, that dwells alone.
 * `Jer 50:39` Therefore, the wild beasts of the desert and the wolves shall dwell there, and the owls shall dwell therein. And it shall be no longer inhabited forever, *_neither_* shall it be dwelt in from generation to generation.
 * `Jer 50:40` As God overthrew Sodom and Gomorrah and the neighboring cities," says the LORD, "so shall no man abide there, *_neither_* shall any son of man dwell therein.
 * `Jer 51:43` Her cities are a desolation, a dry land, and a wilderness, a land in which no man dwells, *_neither_* does any son of man pass by it.
-* `Jer 51:62` You shall say, 'O LORD, you have spoken against this place to cut it off so that no one shall remain in it, *_neither_* man nor beast, but that it shall be desolate forever.'
+* `Jer 51:62` And then say, 'O LORD, you have spoken against this place to cut it off so that no one shall remain in it, *_neither_* man nor beast, but that it shall be desolate forever.'
 * `Ezk 2:6` And you, son of man, do not be afraid of them, *_neither_* be afraid of their words, even though briers and thorns are with you and you dwell among scorpions. Do not be afraid of their words, nor be dismayed at their looks, though they are a rebellious house.
 * `Ezk 3:9` As an adamant harder than flint I have made your forehead. Do not fear them, *_neither_* be dismayed at their looks, though they are a rebellious house."
 * `Ezk 4:14` Then I said, "Ah, Lord GOD! Behold, my soul has not been polluted. For from my youth even until now I have not eaten that which dies of itself, or is torn in pieces, *_neither_* has abominable flesh come into my mouth."
@@ -1237,8 +1237,8 @@ _14 verses containing NETHANEEL_
 * `Jer 40:15` Then Johanan the son of Kareah spoke to Gedaliah in Mizpah secretly, saying, "Let me go, I pray you, and I will slay Ishmael the son of *_Nethaniah_*, and no man shall know it. Why should he slay you so that all the Jews who are gathered to you should be scattered and the remnant of Judah perish?"
 * `Jer 41:1` Now it came to pass in the seventh month, that Ishmael the son of *_Nethaniah_*, the son of Elishama, of the royal family, and the princes of the king, even ten men with him, came to Gedaliah the son of Ahikam at Mizpah. And there they ate bread together in Mizpah.
 * `Jer 41:2` Then Ishmael the son of *_Nethaniah_* and the ten men who were with him arose and smote Gedaliah the son of Ahikam the son of Shaphan with the sword and slew him, whom the king of Babylon had made governor over the land.
-* `Jer 41:6` And Ishmael the son of *_Nethaniah_* went forth from Mizpah to meet them, weeping all along as he went. And it came to pass, as he met them, he said to them, "Come to Gedaliah the son of Ahikam."
-* `Jer 41:7` And it was so, when they came into the midst of the city, that Ishmael the son of *_Nethaniah_* slew them and cast them into the midst of the pit—he and the men who were with him.
+* `Jer 41:6` And Ishmael the son of *_Nethaniah_* went forth from Mizpah to meet them, weeping all along as he went. And it came to pass as he met them, that he said to them, "Come to Gedaliah the son of Ahikam."
+* `Jer 41:7` And it came to pass when they came into the midst of the city, that Ishmael the son of *_Nethaniah_* slew them and cast them into the midst of the pit—he and the men who were with him.
 * `Jer 41:9` Now the pit into which Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, was that which Asa the king had made for fear of Baasha king of Israel. And Ishmael the son of *_Nethaniah_* filled it with those who were slain.
 * `Jer 41:10` Then Ishmael carried away captive all the remnant of the people who were in Mizpah, even the king's daughters and all the people who remained in Mizpah, whom Nebuzar-adan the captain of the guard had committed to Gedaliah the son of Ahikam. And Ishmael the son of *_Nethaniah_* carried them away captive and departed to go over to the Ammonites.
 * `Jer 41:11` But when Johanan the son of Kareah and all the captains of the forces who were with him heard of all the evil that Ishmael the son of *_Nethaniah_* had done,
@@ -2240,7 +2240,7 @@ _3 verses containing NIMRAH_
 == NIMRIM
 
 * `Isa 15:6` For the waters of *_Nimrim_* are desolate, for the herb has withered away, the grass fails, there is no green thing.
-* `Jer 48:34` "From the cry of Heshbon even to Elealeh, and even to Jahaz, they have uttered their voice, from Zoar even to Horonaim, as a heifer of three years old. For the waters also of *_Nimrim_* shall be desolate.
+* `Jer 48:34` "From the cry of Heshbon even to Elealeh, and even to Jahaz, they have uttered their voice, from Zoar even to Horonaim and Eglath-shelishiyah. For the waters also of *_Nimrim_* shall be desolate.
 
 _2 verses containing NIMRIM_
 
@@ -3371,7 +3371,7 @@ _2 verses containing NISROCH_
 * `Jer 45:3` 'You said, "Woe is me now! For the LORD has added grief to my sorrow. I fainted in my sighing and I find *_no_* rest."'
 * `Jer 46:25` The LORD of hosts, the God of Israel says, "Behold, I will punish the multitude of *_No_*, Pharaoh, and Egypt, with their gods and their kings—even Pharaoh and all those who trust in him—
 * `Jer 46:27` "But do not fear, O my servant Jacob, and do not be dismayed, O Israel, for behold, I will save you from afar and your offspring from the land of their captivity. And Jacob shall return and be in rest and at ease, and *_no_* one shall make him afraid.
-* `Jer 48:2` There shall be *_no_* more praise of Moab. In Heshbon they have devised evil against it. 'Come, and let us cut it off from being a nation.' Also you shall be cut down, O Madmen. The sword shall pursue you.
+* `Jer 48:2` There shall be *_no_* more praise of Moab. In Heshbon they have devised evil against it. 'Come, and let us cut it off from being a nation.' You also shall be cut down, O Madmen. The sword shall pursue you.
 * `Jer 48:8` And the destroyer shall come upon every city, and *_no_* city shall escape. The valley shall also perish, and the plain shall be destroyed, as the LORD has spoken.
 * `Jer 48:33` And joy and gladness is taken from the plentiful field and from the land of Moab, and I have caused wine to fail from the wine-presses. *_No_* one shall tread with shouting. Their shouting shall be *_no_* shouting.
 * `Jer 48:38` There shall be lamentation generally upon all the house-tops of Moab and in its streets, for I have broken Moab like a vessel in which there is *_no_* pleasure," says the LORD.
@@ -3380,7 +3380,7 @@ _2 verses containing NISROCH_
 * `Jer 49:7` [Concerning Edom.] Thus says the LORD of hosts: "Is wisdom *_no_* longer in Teman? Has counsel perished from the prudent? Has their wisdom vanished?
 * `Jer 49:10` But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself. His offspring is laid waste, along with his brothers and his neighbors, and he is *_no_* more.
 * `Jer 49:18` As in the overthrow of Sodom and Gomorrah and the neighboring cities," says the LORD, "*_no_* man shall abide there, neither shall a son of man dwell in it.
-* `Jer 49:33` "And Hazor shall be a dwelling for jackals and a desolation forever. *_No_* man shall abide there, nor any son of man dwell in it."
+* `Jer 49:33` "And Hazor shall be a dwelling for jackals and a desolation forever. *_No_* man shall abide there. *_No_* son of man shall dwell in it."
 * `Jer 49:36` And upon Elam I will bring the four winds from the four quarters of heaven and will scatter them toward all those winds. And there shall be *_no_* nation where the outcasts of Elam shall not come.
 * `Jer 50:3` For out of the north there comes a nation against her which shall make her land desolate, and *_no_* one shall dwell in it. They shall flee, they shall depart—both man and beast.
 * `Jer 50:14` Put yourselves in array against Babylon on every side. All you who bend the bow, shoot at her, spare *_no_* arrows, for she has sinned against the LORD.
@@ -3389,7 +3389,7 @@ _2 verses containing NISROCH_
 * `Jer 50:40` As God overthrew Sodom and Gomorrah and the neighboring cities," says the LORD, "so shall *_no_* man abide there, neither shall any son of man dwell therein.
 * `Jer 51:17` Every man is brutish by his knowledge. Every founder is confounded by the engraved image, for his molten image is falsehood, and there is *_no_* breath in them.
 * `Jer 51:43` Her cities are a desolation, a dry land, and a wilderness, a land in which *_no_* man dwells, neither does any son of man pass by it.
-* `Jer 51:62` You shall say, 'O LORD, you have spoken against this place to cut it off so that *_no_* one shall remain in it, neither man nor beast, but that it shall be desolate forever.'
+* `Jer 51:62` And then say, 'O LORD, you have spoken against this place to cut it off so that *_no_* one shall remain in it, neither man nor beast, but that it shall be desolate forever.'
 * `Jer 52:6` And in the fourth month, on the ninth day of the month, the famine was severe in the city so that there was *_no_* bread for the people of the land.
 * `Lam 1:2` [BET] She weeps bitterly in the night, and her tears are on her cheeks. Among all her lovers she has *_no_* one to comfort her. All her friends have dealt treacherously with her. They have become her enemies.
 * `Lam 1:3` [GIMEL] Judah has gone into captivity because of affliction and because of great servitude. She dwells among the heathen. She finds *_no_* rest. All her persecutors overtook her in the midst of distress.

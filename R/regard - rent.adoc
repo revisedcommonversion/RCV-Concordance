@@ -403,7 +403,7 @@ _1 verse containing REI_
 * `Jer 33:21` Then may my covenant also be broken with David my servant so that he should not have a son to *_reign_* upon his throne, and also with the Levites the priests, my ministers.
 * `Jer 49:34` [The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the *_reign_* of Zedekiah king of Judah.]
 * `Jer 51:59` This is the word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his *_reign_*. And this Seraiah was a quiet prince.
-* `Jer 52:1` Zedekiah was twenty-one years old when he began to *_reign_*, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
+* `Jer 52:1` Zedekiah was twenty-one years old when he began to *_reign_*, and he reigned for eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 * `Jer 52:4` And it came to pass in the ninth year of his *_reign_*, in the tenth month, on the tenth day of the month, that Nebuchadnezzar king of Babylon came—he and all his army—against Jerusalem. They encamped against it and built forts against it on every side.
 * `Jer 52:31` And it came to pass in the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month, that Evil-merodach king of Babylon in the first year of his *_reign_* lifted up the head of Jehoiachin king of Judah and brought him out of prison.
 * `Dan 1:1` In the third year of the *_reign_* of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
@@ -590,7 +590,7 @@ _158 verses containing REIGN_
 * `Isa 37:38` And it came to pass as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword, and they escaped into the land of Armenia. And Esar-haddon his son *_reigned_* in his stead.
 * `Jer 22:11` For thus says the LORD concerning Shallum the son of Josiah king of Judah, who *_reigned_* instead of Josiah his father, who went forth from this place: "He shall not return there anymore,
 * `Jer 37:1` And king Zedekiah the son of Josiah *_reigned_* instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of Judah.
-* `Jer 52:1` Zedekiah was twenty-one years old when he began to reign, and he *_reigned_* eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
+* `Jer 52:1` Zedekiah was twenty-one years old when he began to reign, and he *_reigned_* for eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 * `Mth 2:22` But when he heard that Archelaus *_reigned_* in Judea in place of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the parts of Galilee.
 * `Rom 5:14` Nevertheless, death *_reigned_* from Adam to Moses, even over those who had not sinned after the similitude of Adam's transgression, who is the figure of him who was to come.
 * `Rom 5:17` For if by one man's offense death *_reigned_* by one, much more those who receive abundance of grace and of the gift of righteousness shall reign in life through the One, Jesus Christ.
@@ -1195,7 +1195,7 @@ _2 verses containing RELY_
 * `Jer 42:17` Thus it shall be with all the men who set their faces to go into Egypt to sojourn there. They shall die by the sword, by the famine, and by the pestilence. And none of them shall *_remain_* or escape from the evil that I will bring upon them."'
 * `Jer 44:7` And now, thus says the LORD, the God of hosts, the God of Israel: "Why do you commit this great evil against your souls, to cut off from yourselves man and woman, child and infant, out of Judah to leave yourselves no one to *_remain_*,
 * `Jer 44:14` So that none of the remnant of Judah who have gone into the land of Egypt to sojourn there shall escape or *_remain_* to return into the land of Judah, to which they have a desire to return to dwell there. For none shall return but those who escape.'"
-* `Jer 51:62` You shall say, 'O LORD, you have spoken against this place to cut it off so that no one shall *_remain_* in it, neither man nor beast, but that it shall be desolate forever.'
+* `Jer 51:62` And then say, 'O LORD, you have spoken against this place to cut it off so that no one shall *_remain_* in it, neither man nor beast, but that it shall be desolate forever.'
 * `Lam 5:19` You, O LORD, *_remain_* forever. Your throne is from generation to generation.
 * `Ezk 7:11` Violence has risen into a rod of wickedness. None of them shall *_remain_*—none of their multitude, nor of their wealth. There shall be no wailing for them.
 * `Ezk 17:21` And all his fugitives with all his bands shall fall by the sword, and those who *_remain_* shall be scattered toward all winds. And you shall know that I, the LORD, have spoken it."

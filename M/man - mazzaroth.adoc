@@ -1312,7 +1312,7 @@
 * `Jer 46:12` The nations have heard of your shame, and your cry has filled the land. For the mighty *_man_* has stumbled against the mighty, and they have fallen both together.
 * `Jer 49:18` As in the overthrow of Sodom and Gomorrah and the neighboring cities," says the LORD, "no *_man_* shall abide there, neither shall a son of *_man_* dwell in it.
 * `Jer 49:19` Behold, he shall come up like a lion from the swelling of the Jordan against the habitation of the strong, but I will suddenly make him run away from her. And who is a chosen *_man_* that I may appoint over her? For who is like me? And who will appoint me the time? And who is that shepherd who will stand before me?"
-* `Jer 49:33` "And Hazor shall be a dwelling for jackals and a desolation forever. No *_man_* shall abide there, nor any son of *_man_* dwell in it."
+* `Jer 49:33` "And Hazor shall be a dwelling for jackals and a desolation forever. No *_man_* shall abide there. No son of *_man_* shall dwell in it."
 * `Jer 50:3` For out of the north there comes a nation against her which shall make her land desolate, and no one shall dwell in it. They shall flee, they shall depart—both *_man_* and beast.
 * `Jer 50:40` As God overthrew Sodom and Gomorrah and the neighboring cities," says the LORD, "so shall no *_man_* abide there, neither shall any son of *_man_* dwell therein.
 * `Jer 50:42` They shall hold the bow and the lance. They are cruel and will not show mercy. Their voice shall roar like the sea and they shall ride upon horses, each put in array, like a *_man_* to the battle, against you, O daughter of Babylon.
@@ -1321,7 +1321,7 @@
 * `Jer 51:17` Every *_man_* is brutish by his knowledge. Every founder is confounded by the engraved image, for his molten image is falsehood, and there is no breath in them.
 * `Jer 51:22` With you I will break in pieces *_man_* and woman, with you I will break in pieces old and young, with you I will break in pieces the young *_man_* and the virgin,
 * `Jer 51:43` Her cities are a desolation, a dry land, and a wilderness, a land in which no *_man_* dwells, neither does any son of *_man_* pass by it.
-* `Jer 51:62` You shall say, 'O LORD, you have spoken against this place to cut it off so that no one shall remain in it, neither *_man_* nor beast, but that it shall be desolate forever.'
+* `Jer 51:62` And then say, 'O LORD, you have spoken against this place to cut it off so that no one shall remain in it, neither *_man_* nor beast, but that it shall be desolate forever.'
 * `Lam 3:1` [ALEPH] I am the *_man_* who has seen affliction by the rod of his wrath.
 * `Lam 3:26` It is good that a *_man_* should both hope and quietly wait for the salvation of the LORD.
 * `Lam 3:27` It is good for a *_man_* that he should bear the yoke in his youth.
@@ -3605,7 +3605,7 @@ _4 verses containing MARBLE_
 
 == MARCH
 
-* `Jer 46:22` The voice thereof shall go like a serpent, for they shall *_march_* with an army and come against her with axes, as hewers of wood.
+* `Jer 46:22` The voice thereof shall go like a serpent, for they shall *_march_* with an army and come against her with axes, like hewers of wood.
 * `Joe 2:7` They shall run like mighty men. They shall climb the wall like men of war. They shall each *_march_* on his ways and shall not break their ranks,
 * `Hab 1:6` For behold, I raise up the Chaldeans, that bitter and hasty nation, which shall *_march_* through the breadth of the land to possess the dwelling-places that are not theirs.
 
