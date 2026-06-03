@@ -786,7 +786,7 @@ _2 verses containing SOUNDS_
 * `Isa 18:5` For before the harvest when the bud is perfect and the *_sour_* grape is ripening in the flower, he shall both cut off the sprigs with pruning-hooks and take away and cut down the branches.
 * `Jer 31:29` "In those days they shall no longer say, 'The fathers have eaten a *_sour_* grape, and the children's teeth are set on edge.'
 * `Jer 31:30` But everyone shall die for his own iniquity. Every man who eats the *_sour_* grape, his teeth shall be set on edge.
-* `Ezk 18:2` "What do you mean, that you use this proverb concerning the land of Israel, saying, 'The fathers have eaten *_sour_* grapes, and the children's teeth are set on edge'?
+* `Ezk 18:2` "What do you mean when you use this proverb concerning the land of Israel, saying, 'The fathers have eaten *_sour_* grapes, and the children's teeth are set on edge'?
 * `Hos 4:18` Their drink is *_sour_*. They have been guilty of lewd deeds continually. Her rulers have thoroughly loved shame.
 
 _5 verses containing SOUR_
@@ -1576,10 +1576,10 @@ _4 verses containing SPARROWS_
 * `Ezk 3:11` And depart, go to those who are in captivity, to the children of your people, and *_speak_* to them and tell them, 'Thus says the Lord GOD,' whether they will hear or whether they will forbear."
 * `Ezk 3:18` When I say to the wicked, 'You shall surely die,' and you do not give him warning nor *_speak_* to warn the wicked from his wicked way to save his life, the same wicked man shall die in his iniquity, but his blood I will require at your hand.
 * `Ezk 3:27` But when I *_speak_* with you, I will open your mouth, and you shall say to them, 'Thus says the Lord GOD.' He who hears, let him hear, and he who forbears, let him forbear, for they are a rebellious house."
-* `Ezk 11:5` And the Spirit of the LORD fell upon me, and said to me, "*_Speak_*, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
+* `Ezk 11:5` And the Spirit of the LORD fell upon me and said to me, "*_Speak_*, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
 * `Ezk 12:25` For I am the LORD. I will *_speak_*, and the word that I shall *_speak_* shall come to pass. It shall no longer be prolonged, for in your days, O rebellious house, I will say the word and perform it," says the Lord GOD.'"
-* `Ezk 14:4` Therefore, *_speak_* to them, and say to them, 'Thus says the Lord GOD: "Every man of the house of Israel who sets up his idols in his heart and puts the stumbling-block of his iniquity before his face and comes to the prophet, I, the LORD, will answer him who comes according to the multitude of his idols,
-* `Ezk 17:2` "Son of man, put forth a riddle and *_speak_* a parable to the house of Israel,
+* `Ezk 14:4` Therefore, *_speak_* to them and say to them, 'Thus says the Lord GOD: "Every man of the house of Israel who sets up his idols in his heart and puts the stumbling-block of his iniquity before his face and comes to the prophet, I, the LORD, will answer him who comes according to the multitude of his idols,
+* `Ezk 17:2` "Son of man, put forth a riddle and *_speak_* a parable to the house of Israel
 * `Ezk 20:3` "Son of man, *_speak_* to the elders of Israel, and say to them, 'Thus says the Lord GOD: "Have you come to inquire of me? As I live," says the Lord GOD, "I will not be inquired of by you."'
 * `Ezk 20:27` "Therefore, son of man, *_speak_* to the house of Israel, and say to them, 'Thus says the Lord GOD: "Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.
 * `Ezk 20:49` Then I said, "Ah, Lord GOD! They say of me, 'Does he not *_speak_* parables?'"
@@ -2544,7 +2544,7 @@ _1 verse containing SPINDLE_
 * `Ezk 8:3` And he put forth the form of a hand and took me by a lock of my head. And the *_Spirit_* lifted me up between the earth and the heaven and brought me in the visions of God to Jerusalem, to the door of the inner gate that looks toward the north, where the seat of the image of jealousy was, which provokes to jealousy.
 * `Ezk 10:17` When they stood, these stood, and when they were lifted up, these lifted up themselves also, for the *_spirit_* of the living creature was in them.
 * `Ezk 11:1` Moreover, the *_Spirit_* lifted me up and brought me to the east-gate of the LORD'S house, which looks eastward. And behold, at the door of the gate were twenty-five men, among whom I saw Jaazaniah the son of Azur and Pelatiah the son of Benaiah, princes of the people.
-* `Ezk 11:5` And the *_Spirit_* of the LORD fell upon me, and said to me, "Speak, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
+* `Ezk 11:5` And the *_Spirit_* of the LORD fell upon me and said to me, "Speak, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
 * `Ezk 11:19` And I will give them one heart, and I will put a new *_spirit_* within you. And I will take the stony heart out of their flesh and give them a heart of flesh
 * `Ezk 11:24` Afterward, the *_Spirit_* took me up and brought me in the vision by the *_Spirit_* of God into Chaldea, to those who are in captivity. So the vision that I had seen went up from me.
 * `Ezk 13:3` Thus says the Lord GOD: "Woe to the foolish prophets who follow their own *_spirit_* and have seen nothing!
@@ -3482,7 +3482,7 @@ _4 verses containing SPLIT_
 * `Jer 52:32` He *_spoke_* kindly to him and set his throne above the throne of the kings who were with him in Babylon.
 * `Ezk 2:2` And the Spirit entered into me when he *_spoke_* to me and set me upon my feet, and I heard him who *_spoke_* to me.
 * `Ezk 3:24` Then the Spirit entered into me, set me upon my feet, and *_spoke_* with me and said to me, "Go, shut yourself within your house.
-* `Ezk 10:2` And he *_spoke_* to the man clothed with linen, and said, "Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubim and scatter them over the city." And he entered in my sight.
+* `Ezk 10:2` And he *_spoke_* to the man clothed with linen and said, "Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubim and scatter them over the city." And he entered in my sight.
 * `Ezk 11:25` Then I *_spoke_* to those who are in captivity all the things that the LORD had shown me.
 * `Ezk 24:18` So I *_spoke_* to the people in the morning, and at evening my wife died. And I did in the morning as I was commanded.
 * `Dan 1:19` And the king *_spoke_* with them. And among them all there was found no one like Daniel, Hananiah, Mishael, and Azariah; therefore, they stood before the king.
