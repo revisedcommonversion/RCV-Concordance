@@ -297,8 +297,8 @@ _5 verses containing FABLES_
 * `Ezk 20:46` "Son of man, set your *_face_* toward the south. Prophesy toward the south and prophesy against the forest of the south field,
 * `Ezk 21:2` "Son of man, set your *_face_* toward Jerusalem. Prophesy toward the holy places and prophesy against the land of Israel,
 * `Ezk 21:16` Go one way or another, either on the right hand or on the left, wherever your *_face_* is set.
-* `Ezk 25:2` "Son of man, set your *_face_* against the Ammonites and prophesy against them,
-* `Ezk 28:21` "Son of man, set your *_face_* against Zidon and prophesy against it,
+* `Ezk 25:2` "Son of man, set your *_face_* against the Ammonites and prophesy against them
+* `Ezk 28:21` "Son of man, set your *_face_* against Zidon and prophesy against it
 * `Ezk 29:2` "Son of man, set your *_face_* against Pharaoh king of Egypt and prophesy against him and against all Egypt.
 * `Ezk 34:6` My sheep wandered through all the mountains and upon every high hill. My flock was even scattered upon all the *_face_* of the earth, and no one searched or sought for them."'"
 * `Ezk 35:2` "Son of man, set your *_face_* against mount Seir and prophesy against it,
@@ -452,7 +452,7 @@ _379 verses containing FACE_
 * `Ezk 10:21` Each had four *_faces_* and each four wings, and the likeness of the hands of a man was under their wings.
 * `Ezk 10:22` And the likeness of their *_faces_* was the same *_faces_* which I saw by the river of Kebar, their appearances and themselves. They each went straight forward.
 * `Ezk 14:6` "Therefore, say to the house of Israel, 'Thus says the Lord GOD: "Repent, turn yourselves from your idols, and turn away your *_faces_* from all your abominations.
-* `Ezk 20:47` And say to the forest of the south, 'Hear the word of the LORD. Thus says the Lord GOD: "Behold, I will kindle a fire in you, and it shall devour every green tree in you, and every dry tree. The flaming flame shall not be quenched, and all *_faces_* from the south to the north shall be burned therein.
+* `Ezk 20:47` And say to the forest of the south, 'Hear the word of the LORD. Thus says the Lord GOD: "Behold, I will kindle a fire in you, and it shall devour every green tree and every dry tree in you. The flaming flame shall not be quenched, and all *_faces_* from the south to the north shall be burned therein.
 * `Ezk 41:18` And it was made with cherubim and palm-trees, so that a palm-tree was between a cherub and a cherub. And every cherub had two *_faces_*,
 * `Dan 1:10` And the prince of the eunuchs said to Daniel, "I fear my lord the king, who has appointed your provision and your drink. For why should he see your *_faces_* more meager than the children who are of your sort? Then you will make me endanger my head to the king."
 * `Joe 2:6` Before their face the people shall be much pained. All *_faces_* shall gather blackness.
@@ -647,7 +647,7 @@ _18 verses containing FAILS_
 * `Lam 1:22` [TAV] Let all their wickedness come before you, and do to them as you have done to me for all my transgressions. For my sighs are many and my heart is *_faint_*.
 * `Lam 2:19` [QOF] Arise, cry out in the night. In the beginning of the watches pour out your heart like water before the face of the Lord. Lift up your hands toward him for the life of your young children, who *_faint_* for hunger at the head of every street."
 * `Lam 5:17` For this our heart is *_faint_*, for these things our eyes are dim,
-* `Ezk 21:7` And it shall be, when they say to you, 'Why do you sigh?' that you shall answer, 'For the tidings, because it comes. And every heart shall melt, all hands shall be feeble, every spirit shall *_faint_*, and all knees shall be weak as water. Behold, it comes and shall be brought to pass,' says the Lord GOD."
+* `Ezk 21:7` And it shall be when they say to you, 'Why do you sigh?' that you shall answer, 'For the tidings, because it comes. And every heart shall melt, all hands shall be feeble, every spirit shall *_faint_*, and all knees shall be as weak as water. Behold, it comes and shall be brought to pass,' says the Lord GOD."
 * `Ezk 21:15` I have set the point of the sword against all their gates so that their hearts may *_faint_* and their ruins are multiplied. Ah! It is made bright. It is sharpened for the slaughter.
 * `Amo 8:13` In that day the fair virgins and young men shall *_faint_* for thirst.
 * `Mth 15:32` Then Jesus called his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not send them away fasting, lest they *_faint_* in the way."
@@ -1905,7 +1905,7 @@ _19 verses containing FAMILIAR_
 * `Jer 25:9` Behold, I will send and take all the *_families_* of the north,' says the LORD, 'and Nebuchadnezzar the king of Babylon, my servant, and will bring them against this land, against its inhabitants, and against all these nations around, and will utterly destroy them and make them an astonishment, a hissing, and perpetual desolations.
 * `Jer 31:1` "At the same time," says the LORD, "I will be the God of all the *_families_* of Israel, and they shall be my people."
 * `Jer 33:24` "Do you not consider what this people has spoken, saying, 'The two *_families_* which the LORD has chosen, he has even cast them off'? Thus they have despised my people so that they should no longer be a nation before them.
-* `Ezk 20:32` And that which comes into your mind shall not be at all, when you say, 'We will be as the heathen, as the *_families_* of the countries, to serve wood and stone.'
+* `Ezk 20:32` And that which comes into your mind shall not be at all when you say, 'We will be as the heathen, as the *_families_* of the countries, to serve wood and stone.'
 * `Amo 3:2` "I have only known you of all the *_families_* of the earth; therefore, I will punish you for all your iniquities."
 * `Nah 3:4` All because of the multitude of the lewd deeds of the well-favored harlot, the mistress of witchcrafts, who sells nations through her lewd deeds and *_families_* through her witchcrafts.
 * `Zch 12:14` All the *_families_* that remain, every family by itself, and their wives by themselves."
@@ -4197,9 +4197,9 @@ _43 verses containing FATHERLESS_
 * `Ezk 5:10` Therefore, the *_fathers_* shall eat the sons in the midst of you and the sons shall eat their *_fathers_*. And I will execute judgments in you and scatter the whole remnant of you into all the winds.
 * `Ezk 18:2` "What do you mean when you use this proverb concerning the land of Israel, saying, 'The *_fathers_* have eaten sour grapes, and the children's teeth are set on edge'?
 * `Ezk 20:4` Will you judge them, son of man, will you judge them? Cause them to know the abominations of their *_fathers_*,
-* `Ezk 20:18` "But I said to their children in the wilderness, 'Do not walk in the statutes of your *_fathers_*, neither observe their judgments, nor defile yourselves with their idols.
+* `Ezk 20:18` "But I said to their children in the wilderness, 'Do not walk in the statutes of your *_fathers_*, neither observe their judgments nor defile yourselves with their idols.
 * `Ezk 20:24` For they had not executed my judgments, but had despised my statutes and had profaned my sabbaths, and their eyes were after their *_fathers_*' idols.
-* `Ezk 20:27` "Therefore, son of man, speak to the house of Israel, and say to them, 'Thus says the Lord GOD: "Yet in this your *_fathers_* have blasphemed me, in that they have committed a trespass against me.
+* `Ezk 20:27` "Therefore, son of man, speak to the house of Israel and say to them, 'Thus says the Lord GOD: "Yet in this your *_fathers_* have blasphemed me, in that they have committed a trespass against me.
 * `Ezk 20:30` Therefore, say to the house of Israel, 'Thus says the Lord GOD: "Are you polluted after the manner of your *_fathers_*? And do you commit lewd deeds after their abominations?
 * `Ezk 20:36` As I pleaded with your *_fathers_* in the wilderness of the land of Egypt, so I will plead with you," says the Lord GOD.
 * `Ezk 20:42` And you shall know that I am the LORD when I bring you into the land of Israel, into the country for which I lifted up my hand to give it to your *_fathers_*.

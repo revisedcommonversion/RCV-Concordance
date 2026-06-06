@@ -59,7 +59,7 @@ _1 verse containing DEVOTIONS_
 * `Jer 50:32` And the most proud shall stumble and fall, and no one shall raise him up. And I will kindle a fire in his cities, and it shall *_devour_* all around him."
 * `Ezk 7:15` The sword is outside, and the pestilence and the famine inside. He who is in the field shall die with the sword, and he who is in the city, famine and pestilence shall *_devour_* him.
 * `Ezk 15:7` And I will set my face against them. They shall go out from one fire and another fire shall *_devour_* them. And you shall know that I am the LORD when I set my face against them.
-* `Ezk 20:47` And say to the forest of the south, 'Hear the word of the LORD. Thus says the Lord GOD: "Behold, I will kindle a fire in you, and it shall *_devour_* every green tree in you, and every dry tree. The flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
+* `Ezk 20:47` And say to the forest of the south, 'Hear the word of the LORD. Thus says the Lord GOD: "Behold, I will kindle a fire in you, and it shall *_devour_* every green tree and every dry tree in you. The flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
 * `Ezk 28:18` You have defiled your sanctuaries by the multitude of your iniquities, by the iniquity of your traffic; therefore, I will bring forth a fire from the midst of you. It shall *_devour_* you, and I will bring you to ashes upon the earth in the sight of all those who behold you.
 * `Ezk 34:28` And they shall no longer be a prey to the heathen, neither shall the beast of the land *_devour_* them, but they shall dwell safely, and no one shall make them afraid.
 * `Ezk 36:13` 'Thus says the Lord GOD: "Because they say to you, 'You *_devour_* men and have bereaved your nations,'
@@ -883,7 +883,7 @@ _1 verse containing DIFFER_
 * `Exo 11:7` But against any of the children of Israel a dog shall not move his tongue, against man or beast, so that you may know how the LORD puts a *_difference_* between the Egyptians and Israel.'
 * `Lev 10:10` So that you may make a *_difference_* between holy and unholy and between unclean and clean,
 * `Lev 11:47` To make a *_difference_* between the unclean and the clean and between the beast that may be eaten and the beast that may not be eaten.
-* `Ezk 22:26` Her priests have violated my law and have profaned my holy things. They have put no *_difference_* between the holy and profane, neither have they shown *_difference_* between the unclean and the clean. They have hid their eyes from my sabbaths and I am profaned among them.
+* `Ezk 22:26` Her priests have violated my law and have profaned my holy things. They have put no *_difference_* between the holy and profane, neither have they shown *_difference_* between the unclean and the clean. They have hid their eyes from my sabbaths, and I am profaned among them.
 * `Ezk 44:23` And they shall teach my people the *_difference_* between the holy and profane, and cause them to discern between the unclean and the clean.
 * `Act 15:9` And put no *_difference_* between us and them, purifying their hearts by faith.
 * `Rom 3:22` Even the righteousness of God, which is by faith of Jesus Christ to all and upon all those who believe, for there is no *_difference_*.
