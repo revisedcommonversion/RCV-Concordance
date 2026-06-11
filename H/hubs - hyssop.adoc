@@ -619,6 +619,7 @@ _1 verse containing HUMTAH_
 * `Ezk 41:14` And the breadth of the face of the house and of the separate place toward the east, one *_hundred_* cubits.
 * `Ezk 41:15` And he measured the length of the building over against the separate place which was behind it and its galleries on one side and on the other side, one *_hundred_* cubits. The inner temple and the porches of the court,
 * `Ezk 42:2` Before the length of one *_hundred_* cubits was the north door, and the breadth was fifty cubits.
+* `Ezk 42:4` And before the chambers was a passage of ten cubits breadth inward, and its length was a *_hundred_* cubits, and their doors toward the north.
 * `Ezk 42:8` For the length of the chambers that were in the outer court was fifty cubits. And behold, before the temple were one *_hundred_* cubits.
 * `Ezk 42:16` He measured on the east side with the measuring reed five *_hundred_* reeds, with the measuring reed all around.
 * `Ezk 42:17` He measured on the north side five *_hundred_* reeds with the measuring reed all around.
@@ -631,7 +632,7 @@ _1 verse containing HUMTAH_
 * `Ezk 48:17` And the suburbs of the city shall be toward the north two *_hundred_* and fifty, toward the south two *_hundred_* and fifty, toward the east two *_hundred_* and fifty, and toward the west two *_hundred_* and fifty.
 * `Ezk 48:30` "And these are the exits of the city on the north side, four thousand and five *_hundred_* measures.
 * `Ezk 48:32` And on the east side four thousand and five *_hundred_*, with three gates: the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.
-* `Ezk 48:33` And on the south side four thousand and five *_hundred_* measures, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
+* `Ezk 48:33` And on the south side four thousand and five *_hundred_* measures, with three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
 * `Ezk 48:34` And on the west side four thousand and five *_hundred_*, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
 * `Dan 6:1` It pleased Darius to set over the kingdom one *_hundred_* and twenty princes who should be over the whole kingdom,
 * `Dan 8:14` And he said to me, "Until two thousand and three *_hundred_* days. Then the sanctuary shall be cleansed."
@@ -678,7 +679,7 @@ _1 verse containing HUMTAH_
 * `Rev 14:20` And the wine-press was trodden outside the city, and blood came out of the wine-press, even to the horses' bridles, as far as one thousand and six *_hundred_* furlongs.
 * `Rev 21:17` And he measured its wall: one *_hundred_* and forty-four cubits, according to the measure of a man, which is also of an angel.
 
-_527 verses containing HUNDRED_
+_528 verses containing HUNDRED_
 
 == HUNDRED-FOLD
 

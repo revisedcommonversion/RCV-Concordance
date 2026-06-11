@@ -863,8 +863,11 @@ _814 verses containing PASS_
 * `Jsh 22:11` And the children of Israel heard it said, "Behold, the children of Reuben, the children of Gad, and the half-tribe of Manasseh have built an altar over against the land of Canaan, in the borders of the Jordan, at the *_passage_* of the children of Israel."
 * `1Sa 13:23` And the garrison of the Philistines went out to the *_passage_* of Michmash.
 * `Isa 10:29` They have gone over the *_passage_*. They have taken up their lodging at Geba. Ramah is afraid. Gibeah of Saul has fled.
+* `Ezk 42:4` And before the chambers was a *_passage_* of ten cubits breadth inward, and its length was a hundred cubits, and their doors toward the north.
+* `Ezk 42:11` And the *_passage_* before them was like the appearance of the chambers which were toward the north, as long and as broad as the others. And all their exits were both according to their fashions and according to their doors.
+* `Ezk 42:12` And according to the doors of the chambers that were toward the south was a door at the head of the *_passage_*, even the *_passage_* directly before the wall toward the east, as one enters into them.
 
-_4 verses containing PASSAGE_
+_7 verses containing PASSAGE_
 
 == PASSAGES
 
@@ -1766,7 +1769,7 @@ _1 verse containing PAVED_
 * `Est 1:6` Where white, green, and blue hangings were fastened with cords of fine linen and purple to silver rings and pillars of marble. The couches were of gold and silver upon a *_pavement_* of red, blue, white, and black marble.
 * `Ezk 40:17` Then he brought me into the outward court, and behold, there were chambers and a *_pavement_* made for the court around. Thirty chambers were upon the *_pavement_*.
 * `Ezk 40:18` And the *_pavement_* by the side of the gates over against the length of the gates was the lower *_pavement_*.
-* `Ezk 42:3` Over against the twenty cubits which were for the inner court and over against the *_pavement_* which was for the outer court, was gallery against gallery in three stories.
+* `Ezk 42:3` Over against the twenty cubits which were for the inner court, and over against the *_pavement_* which was for the outer court, was gallery against gallery in three stories.
 * `Jhn 19:13` When Pilate therefore heard that saying, he brought Jesus forth and sat down on the judgment-seat in a place that is called The *_Pavement_*, but in the Hebrew, Gabbatha.
 
 _7 verses containing PAVEMENT_
@@ -4246,7 +4249,7 @@ _2 verses containing PENURY_
 * `Ezk 44:19` And when they go forth into the outer court, even into the outer court to the *_people_*, they shall take off their garments in which they ministered, lay them in the holy chambers, and put on other garments so that they do not sanctify the *_people_* with their garments.
 * `Ezk 44:23` And they shall teach my *_people_* the difference between the holy and profane, and cause them to discern between the unclean and the clean.
 * `Ezk 45:8` In the land it shall be to him for a possession in Israel. And my princes shall no longer oppress my *_people_*. And the rest of the land they shall give to the house of Israel according to their tribes."
-* `Ezk 45:9` 'Thus says the Lord GOD: "Let it suffice you, O princes of Israel. Remove violence and plunder, and execute judgment and justice. Take away your exactions from my *_people_*," says the Lord GOD.
+* `Ezk 45:9` 'Thus says the Lord GOD: "Let it suffice you, O princes of Israel. Remove violence and plunder and execute judgment and justice. Take away your exactions from my *_people_*," says the Lord GOD.
 * `Ezk 45:16` "All the *_people_* of the land shall give this oblation for the prince in Israel.
 * `Ezk 45:22` And upon that day the prince shall prepare for himself and for all the *_people_* of the land a bull for a sin-offering.
 * `Ezk 46:3` Likewise, the *_people_* of the land shall worship at the door of this gate before the LORD on the sabbaths and on the new moons.

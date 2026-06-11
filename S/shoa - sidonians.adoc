@@ -2544,7 +2544,7 @@ _3 verses containing SIDDIM_
 * `Ezk 47:17` And the border from the sea shall be Hazar-enan, the border of Damascus, and on the north northward is the border of Hamath. And this is the north *_side_*.
 * `Ezk 47:18` "And the east *_side_* you shall measure from Hauran, from Damascus, from Gilead, and from the land of Israel by the Jordan, from the border to the east sea. And this is the east *_side_*.
 * `Ezk 47:19` "And the south *_side_* southward shall run from Tamar even to the waters of strife in Kadesh, the river to the Great Sea. And this is the south *_side_* southward.
-* `Ezk 47:20` "The west *_side_* shall also be the Great Sea from the border until one comes over against Hamath. This is the west *_side_*.
+* `Ezk 47:20` "The west *_side_* shall also be the Great Sea, from the border as far as over against Hamath. This is the west *_side_*.
 * `Ezk 48:2` And by the border of Dan, from the east *_side_* to the west *_side_*, a portion for Asher.
 * `Ezk 48:3` And by the border of Asher, from the east *_side_* even to the west *_side_*, a portion for Naphtali.
 * `Ezk 48:4` And by the border of Naphtali, from the east *_side_* to the west *_side_*, a portion for Manasseh.
@@ -2562,7 +2562,7 @@ _3 verses containing SIDDIM_
 * `Ezk 48:28` And by the border of Gad, at the south *_side_* southward, the border shall be even from Tamar to the waters of strife in Kadesh and to the river toward the Great Sea.
 * `Ezk 48:30` "And these are the exits of the city on the north *_side_*, four thousand and five hundred measures.
 * `Ezk 48:32` And on the east *_side_* four thousand and five hundred, with three gates: the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.
-* `Ezk 48:33` And on the south *_side_* four thousand and five hundred measures, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
+* `Ezk 48:33` And on the south *_side_* four thousand and five hundred measures, with three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
 * `Ezk 48:34` And on the west *_side_* four thousand and five hundred, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
 * `Dan 7:5` And behold another beast, a second, like a bear, and it raised itself on one *_side_*, and it had three ribs in its mouth between its teeth, and they said thus to it: 'Arise, devour much flesh.'
 * `Dan 10:4` And on the twenty-fourth day of the first month, as I was by the *_side_* of the great river, which is the Hiddekel,
