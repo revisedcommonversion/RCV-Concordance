@@ -736,6 +736,8 @@ _4 verses containing LONGS_
 * `Ezk 43:17` And the ledge shall be fourteen cubits long and fourteen broad in its four sides, the border around it shall be half a cubit, and its bottom shall be a cubit all around. And its stairs shall *_look_* toward the east."
 * `Dan 7:20` And of the ten horns that were on his head, and of the other which came up and before which three fell, even of the horn that had eyes and a mouth that spoke very great things, whose *_look_* was more stout than his fellows.
 * `Hos 3:1` Then the LORD said to me, "Go back, love a woman beloved by her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who *_look_* to other gods and love flagons of wine."
+* `Oba 1:12` But do not *_look_* in the day of your brother, in the day that he became a stranger, neither rejoice over the children of Judah in the day of their destruction, neither speak proudly in the day of distress.
+* `Oba 1:13` Do not enter into the gate of my people in the day of their calamity. Yes, you—do not *_look_* upon their affliction in the day of their calamity, neither lay hands on their substance in the day of their calamity.
 * `Jna 2:4` Then I said, 'I am cast out of your sight, yet I will *_look_* again toward your holy temple.'
 * `Mic 4:11` Now also many nations are gathered against you, who say, "Let her be defiled, and let our eye *_look_* upon Zion."
 * `Mic 7:7` Therefore, I will *_look_* to the LORD. I will wait for the God of my salvation. My God will hear me.
@@ -772,7 +774,7 @@ _4 verses containing LONGS_
 * `Rev 5:3` And no man in heaven or on earth or under the earth was able to open the book or to *_look_* upon it.
 * `Rev 5:4` And I wept much because no man was found worthy to open and to read the book or to *_look_* upon it.
 
-_143 verses containing LOOK_
+_145 verses containing LOOK_
 
 == LOOKED
 
@@ -874,8 +876,6 @@ _143 verses containing LOOK_
 * `Dan 1:13` Then let our countenances be *_looked_* upon before you, and the countenances of the children who eat of the portion of the king's provision. And as you see, deal with your servants."
 * `Dan 10:5` I lifted up my eyes and *_looked_*, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz.
 * `Dan 12:5` Then I, Daniel, *_looked_*, and behold, there stood another two: one on this side of the bank of the river, and the other on that side of the bank of the river.
-* `Oba 1:12` But you should not have *_looked_* in the day of your brother, in the day that he became a stranger, neither should you have rejoiced over the children of Judah in the day of their destruction, neither should you have spoken proudly in the day of distress.
-* `Oba 1:13` You should not have entered into the gate of my people in the day of their calamity. Indeed, you should not have *_looked_* upon their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity,
 * `Hag 1:9` "You *_looked_* for much, and behold, it came to little. And when you brought it home, I blew upon it. Why?" says the LORD of hosts. "Because of my house that lies waste, and each of you runs to his own house.
 * `Zch 2:1` I lifted up my eyes again and *_looked_*, and behold a man with a measuring line in his hand.
 * `Zch 4:2` And said to me, "What do you see?" And I said, "I have *_looked_*, and behold a candlestick, all of gold with a bowl on top of it, its seven lamps, and seven pipes to the seven lamps which were on top of it.
@@ -913,7 +913,7 @@ _143 verses containing LOOK_
 * `Rev 14:14` And I *_looked_*, and behold, a white cloud, and someone like the Son of man sat upon the cloud having a golden crown on his head and a sharp sickle in his hand.
 * `Rev 15:5` And after that, I *_looked_*, and behold, the temple of the tabernacle of the testimony in heaven was opened.
 
-_136 verses containing LOOKED_
+_134 verses containing LOOKED_
 
 == LOOKING
 
@@ -6856,9 +6856,9 @@ _1 verse containing LOP_
 * `Amo 9:13` "Behold, the days come," says the *_LORD_*, "that the plowman shall overtake the reaper, and the treader of grapes shall overtake him who sows seed. And the mountains shall drop sweet wine, and all the hills shall melt.
 * `Amo 9:15` And I will plant them upon their land, and they shall no longer be pulled up out of their land which I have given them," says the *_LORD_* your God.
 * `Oba 1:1` [The vision of Obadiah.] Thus says the *_Lord_* GOD concerning Edom—we have heard a rumor from the *_LORD_*, and an ambassador is sent among the heathen, saying, "Arise, and let us rise up against her in battle."—
-* `Oba 1:4` Though you exalt yourself as the eagle and though you set your nest among the stars, from there I will bring you down," says the *_LORD_*.
+* `Oba 1:4` Though you exalt yourself like the eagle and though you set your nest among the stars, from there I will bring you down," says the *_LORD_*.
 * `Oba 1:8` Shall I not in that day," says the *_LORD_*, "even destroy the wise men out of Edom and understanding out of the mountain of Esau?
-* `Oba 1:15` "For the day of the *_LORD_* is near upon all the heathen. As you have done, it shall be done to you. Your reward shall return upon your own head.
+* `Oba 1:15` "For the day of the *_LORD_* is near upon all the heathen. As you have done, so it shall be done to you. Your reward shall return upon your own head.
 * `Oba 1:18` And the house of Jacob shall be a fire, the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them and devour them. And there shall not be any remaining of the house of Esau." For the *_LORD_* has spoken it.
 * `Oba 1:21` And saviors shall come upon mount Zion to judge the mountain of Esau, and the kingdom shall be the *_LORD_*'S.
 * `Jna 1:1` Now the word of the *_LORD_* came to Jonah the son of Amittai, saying,
@@ -8090,7 +8090,7 @@ _5 verses containing LOTAN_
 * `Neh 11:1` And the rulers of the people dwelt at Jerusalem. The rest of the people also cast *_lots_* to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
 * `Psa 22:18` They part my garments among them and cast *_lots_* upon my vesture.
 * `Joe 3:3` TAnd have cast *_lots_* for my people, and have given a boy for a harlot and sold a girl for wine so that they might drink.
-* `Oba 1:11` In the day that you stood on the other side, in the day that the strangers carried away his forces captive and foreigners entered into his gates and cast *_lots_* upon Jerusalem, even you were as one of them.
+* `Oba 1:11` In the day that you stood on the other side, in the day that the strangers carried away his forces captive and foreigners entered into his gates and cast *_lots_* upon Jerusalem, even you were like one of them.
 * `Jna 1:7` And they each said to his fellow, "Come, and let us cast *_lots_* so that we may know for whose cause this evil is upon us." So they cast *_lots_*, and the lot fell upon Jonah.
 * `Nah 3:10` Yet she was carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets. And they cast *_lots_* for her honorable men, and all her great men were bound in chains.
 * `Mth 27:35` And when they had crucified him, they divided his garments by casting *_lots_* so that it might be fulfilled which was spoken by the prophet, "They parted my garments among them, and upon my vesture they cast *_lots_*."
