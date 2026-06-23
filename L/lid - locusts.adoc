@@ -122,7 +122,7 @@ _1 verse containing LID_
 * `Joe 1:13` Gird yourselves and lament, you priests. Howl, you ministers of the altar. Come, *_lie_* all night in sackcloth, you ministers of my God, for the food-offering and the drink-offering are withheld from the house of your God.
 * `Amo 6:4` You *_lie_* upon beds of ivory and stretch yourselves upon their couches, and eat lambs from the flock and calves from the midst of the stall.
 * `Mic 1:14` Therefore, you shall give presents to Moresheth-gath. The houses of Achzib shall be a *_lie_* to the kings of Israel.
-* `Mic 7:2` The godly man has perished from the earth and there is no one upright among men. They all *_lie_* in wait for blood. They each hunt his brother with a net.
+* `Mic 7:2` The godly man has perished from the earth, and there is no one upright among men. They all *_lie_* in wait for blood. They each hunt his brother with a net.
 * `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall speak, and not *_lie_*. Though it may linger, wait for it, because it will surely come. It will not delay.
 * `Zph 2:7` And the coasts shall be for the remnant of the house of Judah. They shall feed upon them. In the houses of Ashkelon they shall *_lie_* down in the evening, for the LORD their God will visit them and turn away their captivity.
 * `Zph 2:14` And flocks shall *_lie_* down in the midst of her, all the beasts of the nations. Both the cormorant and the bittern shall lodge in its upper lintels. Their voice shall sing in the windows. Desolation shall be in the thresholds, for he shall uncover the cedar work.
@@ -533,7 +533,7 @@ _4 verses containing LIEUTENANTS_
 * `Ezk 32:10` Indeed, I will make many people amazed at you, and their kings shall be horribly afraid for you when I brandish my sword before them. And they shall tremble at every moment, every man for his own *_life_*, in the day of your fall."
 * `Ezk 33:15` If the wicked restores the pledge, gives back that which he had robbed, and walks in the statutes of *_life_* without committing iniquity, he shall surely live and not die.
 * `Dan 12:2` And many of those who sleep in the dust of the earth shall awake, some to everlasting *_life_*, and some to shame and everlasting contempt.
-* `Jna 1:14` Therefore, they cried to the LORD, and said, "We implore you, O LORD, we implore you, do not let us perish for this man's *_life_* and do not lay upon us innocent blood. For you, O LORD, have done as it pleased you."
+* `Jna 1:14` Therefore, they cried to the LORD and said, "We implore you, O LORD, we implore you, do not let us perish for this man's *_life_* and do not lay upon us innocent blood. For you, O LORD, have done as it pleased you."
 * `Jna 2:6` I went down to the bottoms of the mountains. The earth with her bars was around me forever. Yet you have brought up my *_life_* from corruption, O LORD my God.
 * `Jna 4:3` Now therefore, O LORD, take, I implore you, my *_life_* from me, for it is better for me to die than to live."
 * `Mal 2:5` "My covenant was with him of *_life_* and peace, and I gave them to him for the fear with which he feared me and was afraid before my name.
@@ -2160,8 +2160,22 @@ _1 verse containing LIGN-ALOES_
 * `Amo 9:7` "Are you not *_like_* children of the Cushites to me, O children of Israel?" says the LORD. "Have I not brought up Israel from the land of Egypt, the Philistines from Caphtor, and the Assyrians from Kir?
 * `Oba 1:4` Though you exalt yourself *_like_* the eagle and though you set your nest among the stars, from there I will bring you down," says the LORD.
 * `Oba 1:11` In the day that you stood on the other side, in the day that the strangers carried away his forces captive and foreigners entered into his gates and cast lots upon Jerusalem, even you were *_like_* one of them.
-* `Mic 1:8` Therefore, I will wail and howl. I will go stripped and naked. I will make a wailing *_like_* the jackals and mourning as the owls.
+* `Mic 1:4` And the mountains shall be melted under him, and the valleys shall be split, *_like_* wax before the fire, *_like_* the waters that are poured down a steep place.
+* `Mic 1:6` Therefore, I will make Samaria *_like_* a heap of the field, *_like_* plantings of a vineyard. And I will pour down her stones into the valley and lay her foundations bare.
+* `Mic 1:8` Therefore, I will wail and howl. I will go stripped and naked. I will make a wailing *_like_* the jackals and a mourning *_like_* the owls.
+* `Mic 1:16` Make yourself bald and shave yourself for the children of your delight. Enlarge your baldness *_like_* the eagle, for they have gone into captivity from you.
+* `Mic 2:8` Even of late my people have risen up *_like_* an enemy. You pull off the robe with the garment from those who pass by securely *_like_* men averse to war.
+* `Mic 2:12` I will surely assemble, O Jacob, all of you. I will surely gather the remnant of Israel. I will put them together *_like_* the sheep of Bozrah, *_like_* the flock in the midst of their fold. They shall make great noise by reason of the multitude of men.
+* `Mic 3:3` You also eat the flesh of my people and flay their skin from off them. You break their bones and chop them in pieces *_like_* that which is for the pot, *_like_* flesh within the cauldron.
+* `Mic 3:12` Therefore, Zion for your sake shall be plowed *_like_* a field, Jerusalem shall become heaps, and the mountain of the house *_like_* the high places of the forest.
+* `Mic 4:9` Now why do you cry aloud? Is there no king in you? Has your counselor perished? For pangs have taken you *_like_* a woman in travail.
 * `Mic 4:10` Be in pain and labor to bring forth, O daughter of Zion, *_like_* a woman in travail. For now you shall go forth from the city and you shall dwell in the field, and you shall go even to Babylon. There you shall be delivered. There the LORD shall redeem you from the hand of your enemies.
+* `Mic 4:12` But they do not know the thoughts of the LORD, neither do they understand his counsel, for he has gathered them *_like_* sheaves to the threshing-floor.
+* `Mic 5:7` And the remnant of Jacob shall be in the midst of many people *_like_* a dew from the LORD, *_like_* the showers upon the grass, which do not wait for man, nor delay for the sons of men.
+* `Mic 5:8` And the remnant of Jacob shall be among the Gentiles in the midst of many people *_like_* a lion among the beasts of the forest, *_like_* a young lion among the flocks of sheep, who, if he goes through, both treads down and tears in pieces, and no one can deliver.
+* `Mic 7:1` Woe is me! For I have become *_like_* the gathering of the summer fruits, *_like_* the grape-gleanings of the vintage. There is no cluster to eat. My soul desired the first ripe fruit.
+* `Mic 7:4` The best of them is *_like_* a brier. The most upright is sharper than a thorn hedge. The day of your watchmen and your visitation comes. Now shall be their perplexity.
+* `Mic 7:10` Then she who is my enemy shall see it, and shame shall cover her who said to me, "Where is the LORD your God?" My eyes shall behold her. Now she shall be trodden down *_like_* the mire of the streets.
 * `Mic 7:17` They shall lick the dust *_like_* a serpent. They shall move out of their holes *_like_* worms of the earth. They shall be afraid of the LORD our God and shall fear because of you.
 * `Mic 7:18` Who is a God *_like_* you, who pardons iniquity and passes by the transgression of the remnant of his heritage? He does not retain his anger forever because he delights in mercy.
 * `Nah 1:6` Who can stand before his indignation? And who can abide in the fierceness of his anger? His fury is poured out *_like_* fire, and the rocks are broken apart by him.
@@ -2296,7 +2310,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_927 verses containing LIKE_
+_941 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -2821,7 +2835,7 @@ _1 verse containing LINUS_
 * `Amo 3:8` The *_lion_* has roared. Who will not fear? The Lord GOD has spoken. Who can but prophesy?
 * `Amo 3:12` Thus says the LORD: "As the shepherd rescues out of the mouth of the *_lion_* two legs or a piece of an ear, so the children of Israel shall be rescued who dwell in Samaria on the corner of a bed and in Damascus on a couch.
 * `Amo 5:19` As if a man fled from a *_lion_* and a bear met him, or went into the house and leaned his hand on the wall and a serpent bit him.
-* `Mic 5:8` And the remnant of Jacob shall be among the Gentiles in the midst of many people as a *_lion_* among the beasts of the forest, as a young *_lion_* among the flocks of sheep, who, if he goes through, both treads down and tears in pieces, and no one can deliver.
+* `Mic 5:8` And the remnant of Jacob shall be among the Gentiles in the midst of many people like a *_lion_* among the beasts of the forest, like a young *_lion_* among the flocks of sheep, who, if he goes through, both treads down and tears in pieces, and no one can deliver.
 * `Nah 2:11` Where is the dwelling of the lions and the feeding-place of the young lions, where the *_lion_*, the lioness, and the *_lion_*'s whelp walked and no one made them afraid?
 * `Nah 2:12` The *_lion_* tore in pieces enough for his whelps and strangled for his lionesses. And he filled his caves with prey and his dens with flesh.
 * `2Ti 4:17` But the Lord stood with me and strengthened me so that by me the preaching might be fully known and that all the Gentiles might hear. And I was delivered out of the mouth of the *_lion_*.
@@ -3702,7 +3716,7 @@ _215 verses containing LITTLE_
 * `Amo 5:6` Seek the LORD and you shall *_live_*, lest he break out like fire in the house of Joseph and devour it and there be no one to quench it in Beth-el.
 * `Amo 5:14` Seek good and not evil, so that you may *_live_*. Then the LORD, the God of hosts, shall be with you, as you have spoken.
 * `Jna 4:3` Now therefore, O LORD, take, I implore you, my life from me, for it is better for me to die than to *_live_*."
-* `Jna 4:8` And it came to pass, when the sun rose, that God prepared a vehement east wind. And the sun beat upon the head of Jonah so that he fainted and wished in himself to die, and said, "It is better for me to die than to *_live_*."
+* `Jna 4:8` And it came to pass when the sun rose, that God prepared a vehement east wind. And the sun beat upon the head of Jonah so that he fainted and wished in himself to die and said, "It is better for me to die than to *_live_*."
 * `Hab 2:4` Behold, his soul which is lifted up is not upright in him, but the just shall *_live_* by his faith.
 * `Zph 2:9` Therefore, as I *_live_*," says the LORD of hosts, the God of Israel, "surely Moab shall be as Sodom and the children of Ammon as Gomorrah, even a place possessed by nettles and salt-pits and a perpetual desolation. The remnant of my people shall lay them waste and the remainder of my people shall possess them."
 * `Zch 1:5` "Your fathers, where are they? And the prophets, do they *_live_* forever?
