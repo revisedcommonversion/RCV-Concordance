@@ -123,7 +123,7 @@ _1 verse containing LID_
 * `Amo 6:4` You *_lie_* upon beds of ivory and stretch yourselves upon their couches, and eat lambs from the flock and calves from the midst of the stall.
 * `Mic 1:14` Therefore, you shall give presents to Moresheth-gath. The houses of Achzib shall be a *_lie_* to the kings of Israel.
 * `Mic 7:2` The godly man has perished from the earth, and there is no one upright among men. They all *_lie_* in wait for blood. They each hunt his brother with a net.
-* `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall speak, and not *_lie_*. Though it may linger, wait for it, because it will surely come. It will not delay.
+* `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall speak, and it will not *_lie_*. Though it may linger, wait for it, because it will surely come. It will not delay.
 * `Zph 2:7` And the coasts shall be for the remnant of the house of Judah. They shall feed upon them. In the houses of Ashkelon they shall *_lie_* down in the evening, for the LORD their God will visit them and turn away their captivity.
 * `Zph 2:14` And flocks shall *_lie_* down in the midst of her, all the beasts of the nations. Both the cormorant and the bittern shall lodge in its upper lintels. Their voice shall sing in the windows. Desolation shall be in the thresholds, for he shall uncover the cedar work.
 * `Zph 2:15` This is the rejoicing city that dwelt in security, that said in her heart, "I am, and there is no one besides me." How she has become a desolation, a place for beasts to *_lie_* down in! Everyone who passes by her shall hiss and wag his hand.
@@ -818,7 +818,7 @@ _4 verses containing LIFETIME_
 * `Ezk 26:8` He shall slay your daughters in the field with the sword. And he shall make a fort against you, cast a siege-mound against you, and *_lift_* up the buckler against you.
 * `Ezk 33:25` Therefore, say to them, 'Thus says the Lord GOD: "You eat with the blood, *_lift_* up your eyes toward your idols, and shed blood. And shall you possess the land?
 * `Mic 4:3` And he shall judge among many people and rebuke strong nations afar off. And they shall beat their swords into plow-shares and their spears into pruning-hooks. Nation shall not *_lift_* up a sword against nation, neither shall they learn war anymore.
-* `Nah 3:5` "Behold, I am against you," says the LORD of hosts, "and I will *_lift_* your skirts over your face and I will show the nations your nakedness and the kingdoms your shame.
+* `Nah 3:5` "Behold, I am against you," says the LORD of hosts, "and I will *_lift_* your skirts over your face and show the nations your nakedness and the kingdoms your shame.
 * `Zch 5:5` Then the angel who talked with me went forth and said to me, "Now *_lift_* up your eyes and see what this is that goes forth."
 * `Mth 12:11` And he said to them, "What man is there among you who has a sheep, and if it falls into a pit on the sabbath, will not lay hold upon it and *_lift_* it out?
 * `Luk 18:13` And the tax collector, standing afar off, would not *_lift_* up so much as his eyes to heaven, but smote upon his chest, saying, 'God be merciful to me a sinner.'
@@ -1171,7 +1171,7 @@ _1 verse containing LIGAMENTS_
 * `Mic 2:1` Woe to those who devise iniquity and work evil upon their beds! When the morning is *_light_*, they practice it, because it is in the power of their hand.
 * `Mic 7:8` Do not rejoice against me, O my enemy. When I fall, I shall arise. When I sit in darkness, the LORD will be a *_light_* to me.
 * `Mic 7:9` I will bear the indignation of the LORD, because I have sinned against him, until he pleads my cause and executes judgment for me. He will bring me forth to the *_light_*, and I shall behold his righteousness.
-* `Hab 3:4` And his brightness was as the *_light_*. He had rays coming out of his hand, and there was the hiding of his power.
+* `Hab 3:4` And his brightness was like the *_light_*. He had rays coming out of his hand, and there was the hiding of his power.
 * `Hab 3:11` The sun and moon stood still in their habitation. At the *_light_* of your arrows they went, and at the shining of your glittering spear.
 * `Zph 3:5` The just LORD is in the midst of her. He will not do iniquity. Every morning he brings his judgment to *_light_*. He does not fail. But the unjust knows no shame.
 * `Zch 14:6` And it shall come to pass in that day, that the *_light_* shall not be clear, nor dark.
@@ -2179,10 +2179,19 @@ _1 verse containing LIGN-ALOES_
 * `Mic 7:17` They shall lick the dust *_like_* a serpent. They shall move out of their holes *_like_* worms of the earth. They shall be afraid of the LORD our God and shall fear because of you.
 * `Mic 7:18` Who is a God *_like_* you, who pardons iniquity and passes by the transgression of the remnant of his heritage? He does not retain his anger forever because he delights in mercy.
 * `Nah 1:6` Who can stand before his indignation? And who can abide in the fierceness of his anger? His fury is poured out *_like_* fire, and the rocks are broken apart by him.
+* `Nah 1:10` For while they are tangled together *_like_* thorns and while they are drunken *_like_* drunkards, they shall be devoured *_like_* fully dried stubble.
+* `Nah 2:2` For the LORD hrestores the excellence of Jacob *_like_* the excellence of Israel. For the emptiers have emptied them out and marred their vine branches.
 * `Nah 2:4` The chariots shall rage in the streets. They shall jostle one against another in the broad ways. They shall seem *_like_* torches and they shall run *_like_* the lightnings.
 * `Nah 2:8` But Nineveh is of old *_like_* a pool of water. Yet they shall flee away. "Stand, stand," they shall cry, but no one shall look back.
 * `Nah 3:12` All your strongholds shall be *_like_* fig-trees with the first ripe figs. If they are shaken, they shall even fall into the mouth of the eater.
 * `Nah 3:15` The fire shall devour you there. The sword shall cut you off. It shall eat you up *_like_* the licking-locust. Make yourself many as the licking-locust. Make yourself many as the swarming-locust.
+* `Nah 3:17` Your crowned ones are *_like_* the swarming-locusts, and your captains *_like_* the swarms of locusts, which settle in the hedges on the cold day. But when the sun arises they flee away, and the place where they are is unknown.
+* `Hab 1:8` Their horses are also swifter than the leopards and are more fierce than the evening wolves. And their horsemen shall spread themselves and their horsemen shall come from far. They shall fly *_like_* the eagle that hastens to devour.
+* `Hab 1:9` They shall all come for violence. Their faces shall swallow up the east wind, and they shall gather the captivity *_like_* the sand.
+* `Hab 1:14` You make men *_like_* the fish of the sea, *_like_* the creeping animals that have no ruler over them.
+* `Hab 2:5` And also, because he transgresses by wine, he is a proud man and does not rest. He enlarges his desire *_like_* hell, and is *_like_* death and cannot be satisfied. He gathers to himself all nations and collects to himself all people.
+* `Hab 3:4` And his brightness was *_like_* the light. He had rays coming out of his hand, and there was the hiding of his power.
+* `Hab 3:14` You struck through with his staffs the head of his villages. They came out *_like_* a whirlwind to scatter me, rejoicing as if to devour the poor secretly.
 * `Hab 3:19` The LORD God is my strength, and he will make my feet *_like_* those of a doe and make me to walk upon my high places. [To the chief singer on my stringed instruments.]
 * `Zph 1:17` And I will bring distress upon men so that they shall walk *_like_* blind men, because they have sinned against the LORD. And their blood shall be poured out as dust and their flesh as the dung.
 * `Zph 2:13` And he will stretch out his hand against the north and destroy Assyria, and will make Nineveh a desolation and dry *_like_* a wilderness.
@@ -2310,7 +2319,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_941 verses containing LIKE_
+_950 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -2727,7 +2736,7 @@ _2 verses containing LINES_
 
 == LINGER
 
-* `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall speak, and not lie. Though it may *_linger_*, wait for it, because it will surely come. It will not delay.
+* `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall speak, and it will not lie. Though it may *_linger_*, wait for it, because it will surely come. It will not delay.
 * `2Pe 2:3` And through covetousness they will with feigned words exploit you, whose judgment from long ago does not *_linger_* and their condemnation does not slumber.
 
 _2 verses containing LINGER_
@@ -3031,7 +3040,7 @@ _3 verses containing LIP_
 * `Dan 10:16` And behold, one like the similitude of the sons of men touched my *_lips_*. Then I opened my mouth and spoke, and said to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
 * `Hos 14:2` Take with you words and turn to the LORD. Say to him, "Take away all iniquity and receive us graciously, and we will render to you the calves of our *_lips_*.
 * `Mic 3:7` Then the seers shall be ashamed and the diviners confounded. Indeed, they shall all cover their *_lips_*, for there is no answer from God."
-* `Hab 3:16` When I heard, my belly trembled. My *_lips_* quivered at the voice. Rottenness entered into my bones, and I trembled in myself, so that I might rest in the day of trouble. When he comes up to the people, he will invade them with his troops.
+* `Hab 3:16` When I heard, my belly trembled. My *_lips_* quivered at the voice. Rottenness entered into my bones, and I trembled in myself. I will rest in the day of trouble, when he comes up to the people that he invades with his troops.
 * `Mal 2:6` The law of truth was in his mouth and iniquity was not found in his *_lips_*. He walked with me in peace and equity and turned many away from iniquity.
 * `Mal 2:7` For the priest's *_lips_* should keep knowledge, and they should seek the law from his mouth, for he is the messenger of the LORD of hosts.
 * `Mth 15:8` 'This people draws near to me with their mouth and honors me with their *_lips_*, but their heart is far from me.
@@ -4511,7 +4520,7 @@ _15 verses containing LOCUST_
 * `Jer 51:14` The LORD of hosts has sworn by himself, saying, "Surely I will fill you with men, as with licking-*_locusts_*, and they shall raise a shout against you."
 * `Jer 51:27` Set up a standard in the land. Blow the trumpet among the nations. Prepare the nations against her. Call together against her the kingdoms of Ararat, Minni, and Ashchenaz. Appoint a captain against her. Cause the horses to come up like the rough licking-*_locusts_*.
 * `Amo 7:1` Thus the Lord GOD has shown to me, and behold, he formed a swarm of *_locusts_* in the beginning of the shooting up of the latter growth, and behold, it was the latter growth after the king's mowings.
-* `Nah 3:17` Your crowned ones are as the swarming-*_locusts_*, and your captains as the swarms of *_locusts_*, which settle in the hedges on the cold day. But when the sun arises they flee away, and the place where they are is unknown.
+* `Nah 3:17` Your crowned ones are like the swarming-*_locusts_*, and your captains like the swarms of *_locusts_*, which settle in the hedges on the cold day. But when the sun arises they flee away, and the place where they are is unknown.
 * `Mth 3:4` And the same John had his clothing of camel's hair and a leather girdle around his loins. And his food was *_locusts_* and wild honey.
 * `Mrk 1:6` And John was clothed with camel's hair, with a leather girdle around his loins, and he ate *_locusts_* and wild honey.
 * `Rev 9:3` And there came out of the smoke *_locusts_* upon the earth, and power was given to them, as the scorpions of the earth have power.
