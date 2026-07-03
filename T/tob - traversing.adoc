@@ -1273,7 +1273,7 @@ _49 verses containing TOO_
 * `Deu 3:8` "And we *_took_* at that time out of the hand of the two kings of the Amorites the land that was on this side of the Jordan, from the river of Arnon to mount Hermon
 * `Deu 3:14` Jair the son of Manasseh *_took_* all the country of Argob to the borders of Geshuri and Maachathi and called them after his own name, Bashan-havoth-jair, to this day.
 * `Deu 9:17` And I *_took_* the two tablets, cast them out of my two hands, and broke them before your eyes.
-* `Deu 9:21` And I *_took_* your sin, the calf which you had made, and burnt it with fire, stamped it, and ground it very small, even until it was as small as dust. And I cast the dust of it into the brook that descended from the mountain.
+* `Deu 9:21` And I *_took_* your sin, the calf which you had made, and burnt it with fire, crushed it, and ground it very small, even until it was as small as dust. And I cast the dust of it into the brook that descended from the mountain.
 * `Deu 10:6` "And the children of Israel *_took_* their journey from Beeroth of the children of Jakan to Mosira. Aaron died there, and he was buried there. And Eleazar his son ministered in the priest's office in his stead.
 * `Deu 22:14` And gives occasions of speech against her and brings an evil name upon her, and says, 'I *_took_* this woman, and when I came to her, I did not find her a virgin,'
 * `Deu 24:3` And if the latter husband hates her and writes her a bill of divorcement, gives it in her hand, and sends her out of his house, or if the latter husband dies, who *_took_* her to be his wife,
@@ -2221,7 +2221,7 @@ _42 verses containing TOUCH_
 * `Mrk 7:33` And he took him aside from the multitude and put his fingers into his ears, and having spit he *_touched_* his tongue.
 * `Luk 5:13` And he put forth his hand and *_touched_* him, saying, "I am willing. Be clean." And immediately the leprosy departed from him.
 * `Luk 7:14` And he came and *_touched_* the bier. And those who bore him stood still. And he said, "Young man, I say to you, arise."
-* `Luk 8:44` Came behind him and *_touched_* the border of his garment, and immediately her issue of blood stanched.
+* `Luk 8:44` Came behind him and *_touched_* the border of his garment, and immediately her issue of blood stopped.
 * `Luk 8:45` And Jesus said, "Who *_touched_* me?" When all denied, Peter, and those who were with him, said, "Master, the multitude throngs you and presses you, and you say, 'Who *_touched_* me?'"
 * `Luk 8:46` And Jesus said, "Somebody has *_touched_* me, for I perceive that power has gone out of me."
 * `Luk 8:47` And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared to him before all the people for what cause she had *_touched_* him and how she was healed immediately.
@@ -2851,6 +2851,15 @@ _1 verse containing TRAITORS_
 * `Mth 7:6` "Do not give that which is holy to dogs, neither cast your pearls before swine, lest they *_trample_* them under their feet and turn again and rend you.
 
 _3 verses containing TRAMPLE_
+
+== TRAMPLED
+
+* `Dan 7:7` After this I saw in the night visions, and behold, a fourth beast, dreadful and terrible, and exceedingly strong, and it had great iron teeth. It devoured and broke in pieces and *_trampled_* the remainder with its feet. And it was diverse from all the beasts that were before it, and it had ten horns.
+* `Dan 7:19` "Then I wished to know the truth of the fourth beast, which was diverse from all the others, exceedingly dreadful, whose teeth were of iron and his nails of brass, which devoured, broke in pieces, and *_trampled_* the remainder with his feet,
+* `Dan 8:7` And I saw him come close to the ram, and he was moved with anger against him and smote the ram and broke his two horns. And there was no power in the ram to stand before him, but he cast him down to the ground and *_trampled_* upon him. And there was no one who could deliver the ram out of his hand.
+* `Dan 8:10` And it grew great, even to the host of heaven, and it cast down some of the host and of the stars to the ground and *_trampled_* upon them.
+
+_4 verses containing TRAMPLED_
 
 == TRANCE
 
