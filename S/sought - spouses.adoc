@@ -328,7 +328,7 @@ _117 verses containing SOUGHT_
 * `Psa 57:1` [To the Chief Musician. Al-taschith. Michtam of David: when he fled from Saul in the cave.] Be merciful to me, O God, be merciful to me, for my *_soul_* trusts in you. Even in the shadow of your wings I will make my refuge until these calamities have passed.
 * `Psa 57:4` My *_soul_* is among lions. And I lie even among those who are set on fire, even the sons of men, whose teeth are spears and arrows and their tongue a sharp sword.
 * `Psa 57:6` They have prepared a net for my steps. My *_soul_* is bowed down. They have dug a pit before me, into the midst of which they have fallen themselves. [Selah.]
-* `Psa 59:3` For behold, they lie in wait for my *_soul_*. The mighty are gathered against me, not for my transgression nor for my sin, O LORD.
+* `Psa 59:3` For behold, they lie in wait for my *_soul_*. The mighty are gathered against me, but not for my transgression or my sin, O LORD.
 * `Psa 62:1` [To the Chief Musician, to Jeduthun. A Psalm of David.] Truly my *_soul_* waits upon God. My salvation comes from him.
 * `Psa 62:5` My *_soul_*, wait only upon God, for my expectation is from him.
 * `Psa 63:1` [A Psalm of David: when he was in the wilderness of Judah.] O God, you are my God. Early I will seek you. My *_soul_* thirsts for you. My flesh longs for you in a dry and thirsty land where there is no water.
@@ -2458,7 +2458,7 @@ _1 verse containing SPINDLE_
 * `Psa 34:18` The LORD is near to those who are of a broken heart and saves those who are of a contrite *_spirit_*.
 * `Psa 51:10` Create in me a clean heart, O God, and renew a right *_spirit_* within me.
 * `Psa 51:11` Do not cast me away from your presence, and do not take your Holy *_Spirit_* from me.
-* `Psa 51:12` Restore to me the joy of your salvation, and uphold me with your free *_spirit_*.
+* `Psa 51:12` Restore to me the joy of your salvation and uphold me with your free *_spirit_*.
 * `Psa 51:17` The sacrifices of God are a broken *_spirit_*. A broken and a contrite heart, O God, you will not despise.
 * `Psa 76:12` He shall cut off the *_spirit_* of princes. He is fearful to the kings of the earth.
 * `Psa 77:3` I remembered God and was troubled. I complained and my *_spirit_* was overwhelmed. [Selah.]

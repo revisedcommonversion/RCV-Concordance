@@ -65,7 +65,7 @@ _1 verse containing LID_
 * `Job 38:40` When they couch in their dens and abide in the covert to *_lie_* in wait?
 * `Psa 23:2` He makes me to *_lie_* down in green pastures. He leads me beside the still waters.
 * `Psa 57:4` My soul is among lions. And I *_lie_* even among those who are set on fire, even the sons of men, whose teeth are spears and arrows and their tongue a sharp sword.
-* `Psa 59:3` For behold, they *_lie_* in wait for my soul. The mighty are gathered against me, not for my transgression nor for my sin, O LORD.
+* `Psa 59:3` For behold, they *_lie_* in wait for my soul. The mighty are gathered against me, but not for my transgression or my sin, O LORD.
 * `Psa 62:9` Surely men of low degree are vanity, and men of high degree are a *_lie_*. They will be laid in the balance. They are altogether lighter than vanity.
 * `Psa 71:10` For my enemies speak against me, and those who *_lie_* in wait for my soul take counsel together,
 * `Psa 88:5` Free among the dead, like the slain who *_lie_* in the grave, whom you no longer remember, and they are cut off from your hand.
@@ -728,10 +728,11 @@ _1 verse containing LIFELESS_
 
 * `Lev 18:18` Neither shall you take a wife in addition to her sister as a rival to uncover her nakedness in opposition to her in her *_lifetime_*.
 * `2Sa 18:18` Now Absalom in his *_lifetime_* had taken and raised for himself a pillar, which is in the king's valley, for he said, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
+* `Psa 39:5` Behold, you have made my days as a hand-breadth and my *_lifetime_* as nothing before you. Truly every man at his best state is altogether vanity." [Selah.]
 * `Luk 16:25` But Abraham said, 'Son, remember that in your *_lifetime_* you received your good things, and Lazarus, in like manner, evil things. But now he is comforted and you are tormented.
 * `Heb 2:15` And deliver those who through fear of death were all their *_lifetime_* subject to bondage.
 
-_4 verses containing LIFETIME_
+_5 verses containing LIFETIME_
 
 == LIFT
 
@@ -1660,7 +1661,8 @@ _1 verse containing LIGN-ALOES_
 * `Psa 53:4` Have the workers of iniquity no knowledge, who eat up my people *_like_* they eat bread and have not called upon God?
 * `Psa 55:6` And I said, "O that I had wings *_like_* a dove! For then I would fly away and be at rest.
 * `Psa 58:4` Their poison is *_like_* the poison of a serpent. They are *_like_* the deaf adder that stops her ear,
-* `Psa 58:8` As a snail which melts, let every one of them pass away *_like_* the untimely birth of a woman so that they may not see the sun.
+* `Psa 58:7` Let them melt away *_like_* waters which run continually. When he bends his bow to shoot his arrows, let them be as though they were cut off.
+* `Psa 58:8` Let them be *_like_* a snail which melts and passes away, *_like_* the untimely birth of a woman that has not seen the sun.
 * `Psa 59:6` They return at evening. They make a noise *_like_* a dog and go throughout the city.
 * `Psa 59:14` And at evening let them return. And let them make a noise *_like_* a dog and go throughout the city.
 * `Psa 61:6` You will prolong the king's life. His years shall be *_like_* many generations.
@@ -2338,7 +2340,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_969 verses containing LIKE_
+_970 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -4190,7 +4192,6 @@ _112 verses containing LIVESTOCK_
 * `Psa 42:2` My soul thirsts for God, for the *_living_* God. When shall I come and appear before God?
 * `Psa 52:5` God shall likewise destroy you forever. He shall take you away and pluck you out of your dwelling-place. He shall root you out of the land of the *_living_*. [Selah.]
 * `Psa 56:13` For you have delivered my soul from death. Will you not deliver my feet from falling so that I may walk before God in the light of the *_living_*?
-* `Psa 58:9` Before your pots can feel the thorns, he shall take them away as with a whirlwind, both *_living_*, and in his wrath.
 * `Psa 69:28` Let them be blotted out of the book of the *_living_* and not be written with the righteous.
 * `Psa 84:2` My soul longs and even faints for the courts of the LORD. My heart and my flesh cry out for the *_living_* God.
 * `Psa 116:9` I will walk before the LORD in the land of the *_living_*.
@@ -4308,7 +4309,7 @@ _112 verses containing LIVESTOCK_
 * `Rev 16:3` And the second angel poured out his vial upon the sea, and it became like the blood of a dead man. And every *_living_* soul died in the sea.
 * `Rev 19:4` And the twenty-four elders and the four *_living_* beings fell down and worshiped God who sat on the throne, saying, "Amen. Alleluia."
 
-_165 verses containing LIVING_
+_164 verses containing LIVING_
 
 == LIZARD
 
