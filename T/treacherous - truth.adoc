@@ -1354,6 +1354,7 @@ _1 verse containing TRIBUTARY_
 * `Ezr 7:24` Also, we inform you, that concerning any of the priests and Levites, singers, gatekeepers, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, *_tribute_*, or custom upon them.
 * `Neh 5:4` There were also some who said, "We have borrowed money for the king's *_tribute_*, and that is upon our lands and vineyards.
 * `Est 10:1` And king Ahasuerus laid a *_tribute_* upon the land and upon the islands of the sea.
+* `Psa 89:22` The enemy shall not exact *_tribute_* from him, nor the son of wickedness afflict him.
 * `Pro 12:24` The hand of the diligent shall bear rule, but the slothful shall be under *_tribute_*.
 * `Mth 17:24` And when they had come to Capernaum, those who received *_tribute_*-money came to Peter, and said, "Does your Master not pay *_tribute_*?"
 * `Mth 17:25` He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, Simon? From whom do the kings of the earth take custom or *_tribute_*? From their own children, or from strangers?"
@@ -1365,7 +1366,7 @@ _1 verse containing TRIBUTARY_
 * `Rom 13:6` For because of this you also pay *_tribute_*, for they are God's ministers, attending continually upon this very thing.
 * `Rom 13:7` Render therefore to all their dues: *_tribute_* to whom *_tribute_* is due, custom to whom custom, fear to whom fear, honor to whom honor.
 
-_38 verses containing TRIBUTE_
+_39 verses containing TRIBUTE_
 
 == TRIBUTE-MONEY
 
@@ -1710,7 +1711,7 @@ _110 verses containing TROUBLE_
 * `Psa 30:7` LORD, by your favor you have made my mountain to stand strong. You hid your face, and I was *_troubled_*.
 * `Psa 38:6` I am *_troubled_*. I am bowed down greatly. I go mourning all the day long.
 * `Psa 48:5` They saw it, and so they wondered. They were *_troubled_* and hastened away.
-* `Psa 77:3` I remembered God and was *_troubled_*. I complained and my spirit was overwhelmed. [Selah.]
+* `Psa 77:3` I remembered God and was *_troubled_*. I meditated, and my spirit was overwhelmed. [Selah.]
 * `Psa 77:4` You hold my eyes waking. I am so *_troubled_* that I cannot speak.
 * `Psa 83:17` Let them be confounded and *_troubled_* forever. Let them even be put to shame and perish,
 * `Psa 90:7` For we are consumed by your anger, and by your wrath we are *_troubled_*.

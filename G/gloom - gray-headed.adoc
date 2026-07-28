@@ -4027,7 +4027,7 @@ _1 verse containing GOBLET_
 * `Psa 68:35` O *_God_*, you are awesome out of your holy places. The *_God_* of Israel is he who gives strength and power to his people. Blessed be *_God_*.
 * `Psa 69:1` [To the Chief Musician upon Shoshannim. A Psalm of David.] Save me, O *_God_*, for the waters have come to my soul.
 * `Psa 69:3` I am weary of my crying. My throat is dried. My eyes fail while I wait for my *_God_*.
-* `Psa 69:5` O *_God_*, you know my foolishness and my sins are not hid from you.
+* `Psa 69:5` O *_God_*, you know my foolishness, and my sins are not hid from you.
 * `Psa 69:6` Do not let those who wait on you, O Lord *_GOD_* of hosts, be ashamed for my sake. Do not let those who seek you be confounded for my sake, O *_God_* of Israel.
 * `Psa 69:13` But as for me, my prayer is to you, O LORD, in an acceptable time. O *_God_*, in the multitude of your mercy, hear me in the truth of your salvation.
 * `Psa 69:29` But I am poor and sorrowful. Let your salvation, O *_God_*, set me up on high.
@@ -4066,14 +4066,14 @@ _1 verse containing GOBLET_
 * `Psa 76:9` When *_God_* arose to judgment to save all the meek of the earth. [Selah.]
 * `Psa 76:11` Make vows and fulfill them to the LORD your *_God_*. Let all who are around him bring presents to him who ought to be feared.
 * `Psa 77:1` [To the Chief Musician, to Jeduthun. A Psalm of Asaph.] I cried to *_God_* with my voice, even to *_God_* with my voice, and he gave ear to me.
-* `Psa 77:3` I remembered *_God_* and was troubled. I complained and my spirit was overwhelmed. [Selah.]
+* `Psa 77:3` I remembered *_God_* and was troubled. I meditated, and my spirit was overwhelmed. [Selah.]
 * `Psa 77:9` Has *_God_* forgotten to be gracious? Has he in anger shut up his tender mercies? [Selah.]
 * `Psa 77:13` Your way, O *_God_*, is in the sanctuary. Who is so great a *_God_* as our *_God_*?
 * `Psa 77:14` You are the *_God_* who does wonders. You have declared your strength among the people.
 * `Psa 77:16` The waters saw you, O *_God_*, the waters saw you. They were afraid. The depths were also disturbed.
 * `Psa 78:7` So that they might set their hope in *_God_* and not forget the works of *_God_*, but keep his commandments,
 * `Psa 78:8` And might not be as their fathers, a stubborn and rebellious generation, a generation that did not set their heart aright and whose spirit was not steadfast with *_God_*.
-* `Psa 78:10` They did not keep the covenant of *_God_* and refused to walk in his law,
+* `Psa 78:10` They did not keep the covenant of *_God_* and refused to walk in his law.
 * `Psa 78:18` And they tested *_God_* in their heart by asking food for their desire.
 * `Psa 78:19` They even spoke against *_God_*. They said, "Can *_God_* furnish a table in the wilderness?
 * `Psa 78:22` Because they did not believe in *_God_* and did not trust in his salvation,
@@ -7205,7 +7205,7 @@ _24 verses containing GOMORRAH_
 * `Psa 53:3` Every one of them has *_gone_* back. They have altogether become filthy. There is no one who does good, not even one.
 * `Psa 73:2` But as for me, my feet were almost *_gone_*. My steps had well near slipped.
 * `Psa 77:8` Is his mercy wholly *_gone_* forever? Does his promise fail forevermore?
-* `Psa 89:34` I will not break my covenant, nor alter the thing that has *_gone_* out of my lips.
+* `Psa 89:34` I will not break my covenant nor alter the thing that has *_gone_* out of my lips.
 * `Psa 103:16` For the wind passes over it, and it is *_gone_*, and its place shall know it no more.
 * `Psa 109:23` I am *_gone_* like the shadow when it declines. I am tossed up and down like the locust.
 * `Psa 119:176` I have *_gone_* astray like a lost sheep. Seek your servant, for I do not forget your commandments.

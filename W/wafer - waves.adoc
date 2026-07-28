@@ -415,7 +415,7 @@ _1 verse containing WAKING_
 * `Psa 26:11` But as for me, I will *_walk_* in my integrity. Redeem me and be merciful to me.
 * `Psa 48:12` *_Walk_* around Zion and encompass her. Number her towers,
 * `Psa 56:13` For you have delivered my soul from death. Will you not deliver my feet from falling so that I may *_walk_* before God in the light of the living?
-* `Psa 78:10` They did not keep the covenant of God and refused to *_walk_* in his law,
+* `Psa 78:10` They did not keep the covenant of God and refused to *_walk_* in his law.
 * `Psa 82:5` They do not know, neither will they understand. They *_walk_* on in darkness. All the foundations of the earth are out of course.
 * `Psa 84:11` For the LORD God is a sun and shield. The LORD will give grace and glory. No good will he withhold from those who *_walk_* uprightly.
 * `Psa 86:11` Teach me your way, O LORD. I will *_walk_* in your truth. Unite my heart to fear your name.
@@ -424,7 +424,7 @@ _1 verse containing WAKING_
 * `Psa 101:2` I will behave myself wisely in a perfect way. O when will you come to me? I will *_walk_* within my house with a perfect heart.
 * `Psa 115:7` They have hands, but they do not handle. They have feet, but they do not *_walk_*. They do not speak through their throat.
 * `Psa 116:9` I will *_walk_* before the LORD in the land of the living.
-* `Psa 119:1` [ALEPH] Blessed are the undefiled in the way, who *_walk_* in the law of the LORD.
+* `Psa 119:1` [ALEPH] Blessed are the undefiled in the way who *_walk_* in the law of the LORD.
 * `Psa 119:3` They also do no iniquity. They *_walk_* in his ways.
 * `Psa 119:45` And I will *_walk_* at liberty, for I seek your precepts.
 * `Psa 138:7` Though I *_walk_* in the midst of trouble, you will revive me. You will stretch forth your hand against the wrath of my enemies, and your right hand will save me.
@@ -2644,7 +2644,7 @@ _1 verse containing WATERING-TROUGHS_
 * `Psa 73:10` Therefore, his people return here. And *_waters_* of a full cup are wrung out to them.
 * `Psa 74:13` You divided the sea by your strength. You broke the heads of the sea-monsters in the *_waters_*.
 * `Psa 77:16` The *_waters_* saw you, O God, the *_waters_* saw you. They were afraid. The depths were also disturbed.
-* `Psa 77:19` Your way is in the sea and your paths in the great *_waters_*, and your footsteps are not known.
+* `Psa 77:19` Your way was in the sea, your paths in the great *_waters_*, and your footsteps were not known.
 * `Psa 78:13` He divided the sea and caused them to pass through. He made the *_waters_* to stand like a heap.
 * `Psa 78:16` He also brought streams out of the rock and caused *_waters_* to run down like rivers.
 * `Psa 78:20` Behold, he smote the rock so that the *_waters_* gushed out and the streams overflowed. Can he give bread also? Can he provide flesh for his people?"

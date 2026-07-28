@@ -532,7 +532,7 @@ _3 verses containing FADING_
 * `Psa 12:1` [To the Chief Musician upon Sheminith. A Psalm of David.] Help, LORD, for the godly man ceases, for the faithful *_fail_* from among the children of men.
 * `Psa 69:3` I am weary of my crying. My throat is dried. My eyes *_fail_* while I wait for my God.
 * `Psa 77:8` Is his mercy wholly gone forever? Does his promise *_fail_* forevermore?
-* `Psa 89:33` Nevertheless, I will not utterly take my loving-kindness from him, nor allow my faithfulness to *_fail_*.
+* `Psa 89:33` Nevertheless, I will not utterly take my loving-kindness from him nor allow my faithfulness to *_fail_*.
 * `Psa 119:82` My eyes *_fail_* for your word, saying, "When will you comfort me?"
 * `Psa 119:123` My eyes *_fail_* for your salvation and for the word of your righteousness.
 * `Pro 22:8` He who sows iniquity shall reap vanity, and the rod of his anger shall *_fail_*.
@@ -597,7 +597,7 @@ _1 verse containing FAILING_
 * `Psa 40:12` For innumerable evils have encompassed me. My iniquities have taken hold upon me so that I am not able to look up. They are more than the hairs of my head; therefore, my heart *_fails_* me.
 * `Psa 71:9` Do not cast me off in the time of old age. Do not forsake me when my strength *_fails_*.
 * `Psa 73:26` My flesh and my heart *_fails_*, but God is the strength of my heart and my portion forever.
-* `Psa 109:24` My knees are weak through fasting, and my flesh *_fails_* of fatness.
+* `Psa 109:24` My knees are weak through fasting, and my flesh *_fails_* for lack of fatness.
 * `Psa 143:7` Hear me speedily, O LORD. My spirit *_fails_*. Do not hide your face from me, lest I be like those who go down into the pit.
 * `Ecc 10:3` Also, when he who is a fool walks by the way, his wisdom *_fails_* him and he says to everyone that he is a fool.
 * `Ecc 12:5` When they are afraid of that which is high, and fears are in the way; when the almond tree flourishes, the locust is a burden, and desire *_fails_*. For man goes to his eternal home, and the mourners go throughout the streets.
@@ -1128,7 +1128,7 @@ _7 verses containing FAITHFULLY_
 * `Psa 89:5` And the heavens shall praise your wonders, O LORD, and also your *_faithfulness_* in the congregation of the saints.
 * `Psa 89:8` O LORD God of hosts, who is mighty like you, O Yah? And your *_faithfulness_* is around you.
 * `Psa 89:24` But my *_faithfulness_* and my mercy shall be with him, and in my name his horn shall be exalted.
-* `Psa 89:33` Nevertheless, I will not utterly take my loving-kindness from him, nor allow my *_faithfulness_* to fail.
+* `Psa 89:33` Nevertheless, I will not utterly take my loving-kindness from him nor allow my *_faithfulness_* to fail.
 * `Psa 92:2` To show forth your loving-kindness in the morning and your *_faithfulness_* every night,
 * `Psa 119:75` I know, O LORD, that your judgments are right and that you in *_faithfulness_* have afflicted me.
 * `Psa 119:90` Your *_faithfulness_* is to all generations. You have established the earth, and it abides.
@@ -2581,7 +2581,7 @@ _1 verse containing FASTENING_
 * `Est 4:3` And in every province wherever the king's commandment and his decree came, there was great mourning among the Jews, with *_fasting_*, weeping, and wailing. And many lay in sackcloth and ashes.
 * `Psa 35:13` But as for me, when they were sick, my clothing was sackcloth. I humbled my soul with *_fasting_*, and my prayer returned into my own bosom.
 * `Psa 69:10` When I wept and chastened my soul with *_fasting_*, that was to my reproach.
-* `Psa 109:24` My knees are weak through *_fasting_*, and my flesh fails of fatness.
+* `Psa 109:24` My knees are weak through *_fasting_*, and my flesh fails for lack of fatness.
 * `Jer 36:6` Therefore, go and read the words of the LORD from the scroll which you have written from my mouth in the ears of the people in the LORD'S house upon the day of *_fasting_*. And also you shall read them in the ears of all of Judah who come out of their cities.
 * `Dan 6:18` Then the king went to his palace and passed the night *_fasting_*, neither were instruments of music brought before him. And his sleep went from him.
 * `Dan 9:3` And I set my face to the Lord God, to seek by prayer and supplications, with *_fasting_*, sackcloth, and ashes.
@@ -4306,7 +4306,7 @@ _1 verse containing FATHOMS_
 * `Psa 63:5` My soul shall be satisfied as with marrow and *_fatness_*, and my mouth shall praise you with joyful lips,
 * `Psa 65:11` You crown the year with your goodness, and your paths drop *_fatness_*.
 * `Psa 73:7` Their eyes stand out with *_fatness_*. The imaginations of their heart transgressed.
-* `Psa 109:24` My knees are weak through fasting, and my flesh fails of *_fatness_*.
+* `Psa 109:24` My knees are weak through fasting, and my flesh fails for lack of *_fatness_*.
 * `Isa 17:4` "And in that day it shall come to pass, that the glory of Jacob shall be diminished and the *_fatness_* of his flesh shall become lean.
 * `Isa 34:6` The sword of the LORD is filled with blood. It is made fat with *_fatness_*, with the blood of lambs and goats, with the fat of the kidneys of rams. For the LORD has a sacrifice in Bozrah and a great slaughter in the land of Edom.
 * `Isa 34:7` And the wild oxen shall come down with them, and the young bulls with the strong bulls. And their land shall be drenched with blood and their dust made fat with *_fatness_*.
@@ -4950,7 +4950,7 @@ _398 verses containing FEAR_
 * `Job 3:25` For the thing which I greatly *_feared_* has come upon me, and that which I dreaded has come to me.
 * `Job 31:34` Because I *_feared_* a great multitude, and the contempt of families terrified me, so that I kept silence and did not go out of the door,
 * `Psa 76:7` You, even you, are to be *_feared_*. And who may stand in your sight when you are angry?
-* `Psa 76:8` You caused judgment to be heard from heaven. The earth *_feared_* and was still,
+* `Psa 76:8` You caused judgment to be heard from heaven. The earth *_feared_* and was still
 * `Psa 76:11` Make vows and fulfill them to the LORD your God. Let all who are around him bring presents to him who ought to be *_feared_*.
 * `Psa 89:7` God is greatly to be *_feared_* in the assembly of the saints and to be had in reverence by all those who are around him.
 * `Psa 96:4` For the LORD is great and greatly to be praised. He is to be *_feared_* above all gods.
