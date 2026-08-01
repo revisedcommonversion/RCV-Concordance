@@ -5065,7 +5065,7 @@ _1 verse containing LOP_
 * `Psa 137:7` Remember, O *_LORD_*, the children of Edom in the day of Jerusalem, who said, "Raze it, raze it, even to its foundation."
 * `Psa 138:4` All the kings of the earth shall praise you, O *_LORD_*, when they hear the words of your mouth.
 * `Psa 138:5` Indeed, they shall sing in the ways of the *_LORD_*, for the glory of the *_LORD_* is great.
-* `Psa 138:6` Though the *_LORD_* is high, yet he has respect to the lowly. But the proud he knows afar off.
+* `Psa 138:6` Though the *_LORD_* is high, yet he regards the lowly. But the proud he knows afar off.
 * `Psa 138:8` The *_LORD_* will perfect that which concerns me. Your mercy, O *_LORD_*, endures forever. Do not forsake the works of your own hands.
 * `Psa 139:1` [To the Chief Musician. A Psalm of David.] O *_LORD_*, you have searched me and known me.
 * `Psa 139:4` For there is not a word on my tongue, but behold, O *_LORD_*, you know it altogether.
@@ -8850,7 +8850,7 @@ _2 verses containing LOWLINESS_
 
 == LOWLY
 
-* `Psa 138:6` Though the LORD is high, yet he has respect to the *_lowly_*. But the proud he knows afar off.
+* `Psa 138:6` Though the LORD is high, yet he regards the *_lowly_*. But the proud he knows afar off.
 * `Pro 3:34` Surely he scorns the scorners, but he gives grace to the *_lowly_*.
 * `Pro 11:2` When pride comes, shame comes, but with the *_lowly_* is wisdom.
 * `Pro 16:19` It is better to be of a humble spirit with the *_lowly_*, than to divide the plunder with the proud.
