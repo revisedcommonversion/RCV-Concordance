@@ -937,7 +937,7 @@ _62 verses containing INHERIT_
 * `Psa 106:5` So that I may see the good of your chosen, so that I may rejoice in the gladness of your nation, so that I may glory with your *_inheritance_*.
 * `Psa 106:40` Therefore, the wrath of the LORD was kindled against his people because he abhorred his own *_inheritance_*.
 * `Pro 13:22` A good man leaves an *_inheritance_* to his children's children, and the wealth of the sinner is laid up for the just.
-* `Pro 17:2` A wise servant shall have rule over a son who causes shame, and shall have part of the *_inheritance_* among the brothers.
+* `Pro 17:2` A wise servant shall have rule over a son who causes shame and shall have part of the *_inheritance_* among the brothers.
 * `Pro 19:14` House and riches are the *_inheritance_* of fathers, but a prudent wife is from the LORD.
 * `Pro 20:21` An *_inheritance_* may be gotten hastily at the beginning, but its end shall not be blessed.
 * `Ecc 7:11` Wisdom is good with an *_inheritance_*, and by it there is profit to those who see the sun.
@@ -1355,8 +1355,9 @@ _1 verse containing INJURIOUS_
 == INJUSTICE
 
 * `Job 16:17` Although there is no *_injustice_* in my hands and my prayer is pure.
+* `Pro 13:23` Much food is in the tillage of the poor, but it is destroyed by reason of *_injustice_*.
 
-_1 verse containing INJUSTICE_
+_2 verses containing INJUSTICE_
 
 == INK
 
@@ -1761,7 +1762,7 @@ _7 verses containing INSTRUCT_
 * `2Ch 3:3` Now these are the things in which Solomon was *_instructed_* for the building of the house of God: The length by cubits after the first measure was sixty cubits and the breadth twenty cubits.
 * `Job 4:3` Behold, you have *_instructed_* many and you have strengthened the weak hands.
 * `Psa 2:10` Now therefore, be wise, O kings. Be *_instructed_*, you judges of the earth.
-* `Pro 5:13` And have not obeyed the voice of my teachers, nor inclined my ear to those who *_instructed_* me!
+* `Pro 5:13` And have not obeyed the voice of my teachers nor inclined my ear to those who *_instructed_* me!
 * `Pro 21:11` When the scorner is punished, the simple is made wise. And when the wise is *_instructed_*, he receives knowledge.
 * `Isa 8:11` For the LORD spoke thus to me with a strong hand, and *_instructed_* me that I should not walk in the way of this people, saying,
 * `Isa 40:14` With whom did he take counsel, and who *_instructed_* him, taught him in the path of judgment, taught him knowledge, and showed to him the way of understanding?
@@ -1795,7 +1796,7 @@ _1 verse containing INSTRUCTING_
 * `Pro 4:13` Take firm hold of *_instruction_*. Do not let her go. Keep her, for she is your life.
 * `Pro 5:12` And say, "How I have hated *_instruction_*, and my heart despised reproof,
 * `Pro 5:23` He shall die without *_instruction_*, and in the greatness of his folly he shall go astray.
-* `Pro 6:23` For the commandment is a lamp, the law is light, and reproofs of *_instruction_* are the way of life,
+* `Pro 6:23` For the commandment is a lamp, the law is light, and reproofs of *_instruction_* are the way of life
 * `Pro 8:10` Receive my *_instruction_* instead of silver, and knowledge rather than choice gold.
 * `Pro 8:33` Hear *_instruction_* and be wise, and do not refuse it.
 * `Pro 9:9` Give *_instruction_* to a wise man, and he will be wiser still. Teach a just man, and he will increase in learning.

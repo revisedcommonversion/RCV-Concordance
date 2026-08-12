@@ -2132,11 +2132,11 @@ _1 verse containing THAMAH_
 * `Pro 15:17` Better is a dinner of herbs where love is, *_than_* a stalled ox and hatred with it.
 * `Pro 16:8` Better is a little with righteousness, *_than_* great revenues without justice.
 * `Pro 16:16` How much better it is to get wisdom *_than_* gold! And to get understanding is to be chosen rather *_than_* silver.
-* `Pro 16:19` It is better to be of a humble spirit with the lowly, *_than_* to divide the plunder with the proud.
+* `Pro 16:19` It is better to be of a humble spirit with the lowly *_than_* to divide the plunder with the proud.
 * `Pro 16:32` He who is slow to anger is better *_than_* the mighty, and he who rules his spirit, *_than_* he who takes a city.
 * `Pro 17:1` Better is a dry morsel and quietness with it, *_than_* a house full of sacrifices with strife.
 * `Pro 17:10` A reproof enters more into a wise man *_than_* one hundred stripes into a fool.
-* `Pro 17:12` Let a bear robbed of her whelps meet a man, rather *_than_* a fool in his folly.
+* `Pro 17:12` Let a bear robbed of her whelps meet a man rather *_than_* a fool in his folly.
 * `Pro 18:19` A brother offended is harder to be won *_than_* a strong city, and their contentions are like the bars of a castle.
 * `Pro 18:24` A man of many friends may come to ruin, but there is a friend who sticks closer *_than_* a brother.
 * `Pro 19:1` Better is the poor who walks in his integrity, *_than_* he who is perverse in his lips and is a fool.

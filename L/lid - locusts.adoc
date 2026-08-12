@@ -235,7 +235,7 @@ _4 verses containing LIED_
 * `Pro 19:5` A false witness shall not be unpunished, and he who speaks *_lies_* shall not escape.
 * `Pro 19:9` A false witness shall not be unpunished, and he who speaks *_lies_* shall perish.
 * `Pro 23:28` She also *_lies_* in wait as for prey and increases the transgressors among men.
-* `Pro 23:34` And you shall be like someone who *_lies_* down in the midst of the sea, or like someone who *_lies_* upon the top of a mast.
+* `Pro 23:34` You shall be like someone who *_lies_* down in the midst of the sea, or like someone who *_lies_* upon the top of a mast.
 * `Pro 29:12` If a ruler listens to *_lies_*, all his servants are wicked.
 * `Pro 30:8` Keep vanity and *_lies_* far from me, and give me neither poverty nor riches. Feed me with the food of my portion,
 * `Isa 9:15` The ancient and honorable, he is the head, and the prophet who teaches *_lies_*, he is the tail.
@@ -464,7 +464,7 @@ _4 verses containing LIEUTENANTS_
 * `Pro 4:22` For they are *_life_* to those who find them and health to all their flesh.
 * `Pro 4:23` Keep your heart with all diligence, for out of it flows the source of *_life_*.
 * `Pro 5:6` She does not ponder the path of *_life_*. Her ways are movable, and she does not know it.
-* `Pro 6:23` For the commandment is a lamp, the law is light, and reproofs of instruction are the way of *_life_*,
+* `Pro 6:23` For the commandment is a lamp, the law is light, and reproofs of instruction are the way of *_life_*
 * `Pro 6:26` For by means of a lewd woman a man is brought to a piece of bread, and the adulteress will hunt for the precious *_life_*.
 * `Pro 7:23` Until a dart strikes through his liver, as a bird hastens to the snare, and does not know that it is for his *_life_*.
 * `Pro 8:35` For whoever finds me finds *_life_* and obtains favor from the LORD.
@@ -1126,7 +1126,7 @@ _1 verse containing LIGAMENTS_
 * `Psa 139:12` Even the darkness does not hide from you, but the night shines like the day. The darkness and the *_light_* are both alike to you.
 * `Psa 148:3` Praise him, sun and moon. Praise him, all you stars of *_light_*.
 * `Pro 4:18` But the path of the just is like the shining *_light_* that shines more and more to the perfect day.
-* `Pro 6:23` For the commandment is a lamp, the law is *_light_*, and reproofs of instruction are the way of life,
+* `Pro 6:23` For the commandment is a lamp, the law is *_light_*, and reproofs of instruction are the way of life
 * `Pro 13:9` The *_light_* of the righteous rejoices, but the lamp of the wicked shall be extinguished.
 * `Pro 15:30` The *_light_* of the eyes rejoices the heart, and a good report makes the bones fat.
 * `Pro 16:15` In the *_light_* of a king's countenance is life, and his favor is like a cloud of the latter rain.
@@ -1756,6 +1756,7 @@ _1 verse containing LIGN-ALOES_
 * `Pro 4:18` But the path of the just is *_like_* the shining light that shines more and more to the perfect day.
 * `Pro 4:19` The way of the wicked is *_like_* darkness. They do not know at what they stumble.
 * `Pro 5:3` For the lips of a strange woman drop *_like_* a honey-comb, and her mouth is smoother than oil,
+* `Pro 5:19` Let her be *_like_* a loving doe and a pleasant deer. Let her breasts satisfy you at all times, and be ravished always with her love.
 * `Pro 6:5` Deliver yourself *_like_* a gazelle from the hand of the hunter and *_like_* a bird from the hand of the fowler.
 * `Pro 7:22` He goes after her quickly, *_like_* an ox goes to the slaughter, or *_like_* a fool to the correction of the stocks,
 * `Pro 10:20` The tongue of the just is *_like_* choice silver. The heart of the wicked is of little worth.
@@ -1763,11 +1764,13 @@ _1 verse containing LIGN-ALOES_
 * `Pro 12:4` A virtuous woman is a crown to her husband, but she who makes him ashamed is *_like_* rottenness in his bones.
 * `Pro 12:18` There is one who speaks *_like_* the piercing of a sword, but the tongue of the wise is health.
 * `Pro 15:19` The way of the slothful man is *_like_* a hedge of thorns, but the way of the righteous is made plain.
+* `Pro 16:14` The wrath of a king is *_like_* messengers of death, but a wise man will pacify it.
 * `Pro 16:15` In the light of a king's countenance is life, and his favor is *_like_* a cloud of the latter rain.
 * `Pro 16:24` Pleasant words are *_like_* a honey-comb: sweet to the soul and health to the bones.
 * `Pro 16:27` An ungodly man digs up evil, and his speech is *_like_* a burning fire.
 * `Pro 17:14` The beginning of strife is *_like_* when one lets out water; therefore, withdraw from contention before it is meddled with.
 * `Pro 17:22` A merry heart does good *_like_* a medicine, but a broken spirit dries the bones.
+* `Pro 18:4` The words of a man's mouth are *_like_* deep waters, and the well-spring of wisdom *_like_* a flowing brook.
 * `Pro 18:8` The words of a gossiper are *_like_* dainty morsels, and they go down into the innermost parts of the belly.
 * `Pro 18:11` The rich man's wealth is his strong city, and *_like_* a high wall in his own conceit.
 * `Pro 18:19` A brother offended is harder to be won than a strong city, and their contentions are *_like_* the bars of a castle.
@@ -1777,7 +1780,8 @@ _1 verse containing LIGN-ALOES_
 * `Pro 21:1` The king's heart is in the hand of the LORD *_like_* channels of water. He turns it wherever he pleases.
 * `Pro 23:5` Will you set your eyes upon that which is not? For riches certainly make for themselves wings. They fly away *_like_* an eagle toward heaven.
 * `Pro 23:32` At the last it bites *_like_* a serpent and stings *_like_* an adder.
-* `Pro 23:34` And you shall be *_like_* someone who lies down in the midst of the sea, or *_like_* someone who lies upon the top of a mast.
+* `Pro 23:34` You shall be *_like_* someone who lies down in the midst of the sea, or *_like_* someone who lies upon the top of a mast.
+* `Pro 24:34` And your poverty shall come *_like_* one who travels, and your need *_like_* an armed man.
 * `Pro 25:11` A word fitly spoken is *_like_* apples of gold in pictures of silver.
 * `Pro 25:14` Whoever boasts himself of a false gift is *_like_* clouds and wind without rain.
 * `Pro 25:19` Confidence in an unfaithful man in time of trouble is *_like_* a broken tooth and a foot out of joint.
@@ -2341,7 +2345,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_971 verses containing LIKE_
+_975 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -3032,14 +3036,14 @@ _3 verses containing LIP_
 * `Pro 20:15` There is gold and a multitude of rubies, but the *_lips_* of knowledge are a precious jewel.
 * `Pro 20:19` He who goes around as a gossiper reveals secrets; therefore, do not meddle with him who flatters with his *_lips_*.
 * `Pro 22:11` He who loves pureness of heart and has grace on his *_lips_*, the king shall be his friend.
-* `Pro 22:18` For it is a pleasant thing if you keep them within you, if they are ready in your *_lips_*.
+* `Pro 22:18` For it is a pleasant thing if you keep them within you, if they are ready on your *_lips_*.
 * `Pro 23:16` Indeed, my heart shall rejoice when your *_lips_* speak right things.
 * `Pro 24:2` For their heart devises destruction and their *_lips_* talk of mischief.
 * `Pro 24:26` Every man shall kiss his *_lips_* who gives a right answer.
 * `Pro 24:28` Do not be a witness against your neighbor without cause, and do not deceive with your *_lips_*.
 * `Pro 26:23` Burning *_lips_* and a wicked heart are like a potsherd covered with silver dross.
 * `Pro 26:24` He who hates dissembles with his *_lips_* and lays up deceit within him.
-* `Pro 27:2` Let another man praise you, and not your own mouth, a stranger, and not your own *_lips_*.
+* `Pro 27:2` Let another man praise you, and not your own mouth; a stranger, and not your own *_lips_*.
 * `Ecc 10:12` The words of a wise man's mouth are gracious, but the *_lips_* of a fool will swallow up himself.
 * `Sos 4:3` Your *_lips_* are like a thread of scarlet and your speech is lovely. Your temples are like a piece of pomegranate within your veil.
 * `Sos 4:11` Your *_lips_*, O my spouse, drop as the honey-comb. Honey and milk are under your tongue. And the smell of your garments is like the smell of Lebanon.
@@ -3669,7 +3673,7 @@ _215 verses containing LITTLE_
 * `Psa 119:144` The righteousness of your testimonies is everlasting. Give me understanding, and I shall *_live_*.
 * `Psa 119:175` Let my soul *_live_*, and it shall praise you. Let your judgments help me.
 * `Psa 146:2` While I *_live_* I will praise the LORD. I will sing praises to my God while I have any being.
-* `Pro 4:4` He taught me also, and said to me, "Let your heart retain my words. Keep my commandments, and *_live_*.
+* `Pro 4:4` He also taught me and said to me, "Let your heart retain my words. Keep my commandments, and *_live_*.
 * `Pro 7:2` Keep my commandments and *_live_*, and my law as the apple of your eye.
 * `Pro 9:6` Forsake the foolish and *_live_*. And go in the way of understanding."
 * `Pro 15:27` He who is greedy of gain troubles his own house, but he who hates gifts shall *_live_*.

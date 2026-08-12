@@ -1033,20 +1033,20 @@
 * `Pro 16:2` All the ways of a *_man_* are clean in his own eyes, but the LORD weighs the spirits.
 * `Pro 16:7` When a *_man_*'s ways please the LORD, he makes even his enemies to be at peace with him.
 * `Pro 16:9` A *_man_*'s heart devises his way, but the LORD directs his steps.
-* `Pro 16:14` The wrath of a king is as messengers of death, but a wise *_man_* will pacify it.
+* `Pro 16:14` The wrath of a king is like messengers of death, but a wise *_man_* will pacify it.
 * `Pro 16:25` There is a way that seems right to a *_man_*, but the ways of death are at its end.
 * `Pro 16:27` An ungodly *_man_* digs up evil, and his speech is like a burning fire.
 * `Pro 16:28` A perverse *_man_* sows strife, and a whisperer separates chief friends.
 * `Pro 16:29` A violent *_man_* entices his neighbor and leads him into the way that is not good.
 * `Pro 17:10` A reproof enters more into a wise *_man_* than one hundred stripes into a fool.
 * `Pro 17:11` An evil *_man_* seeks only rebellion; therefore, a cruel messenger shall be sent against him.
-* `Pro 17:12` Let a bear robbed of her whelps meet a *_man_*, rather than a fool in his folly.
+* `Pro 17:12` Let a bear robbed of her whelps meet a *_man_* rather than a fool in his folly.
 * `Pro 17:18` A *_man_* void of understanding strikes hands and becomes surety in the presence of his friend.
 * `Pro 17:23` A wicked *_man_* takes a gift out of the bosom to pervert the ways of judgment.
 * `Pro 17:27` He who has knowledge spares his words, and a *_man_* of understanding is of an excellent spirit.
 * `Pro 17:28` Even a fool, when he holds his peace, is counted wise, and he who shuts his lips is esteemed a *_man_* of understanding.
 * `Pro 18:1` Through desire a *_man_*, having separated himself, seeks and intermeddles with all wisdom.
-* `Pro 18:4` The words of a *_man_*'s mouth are as deep waters, and the well-spring of wisdom as a flowing brook.
+* `Pro 18:4` The words of a *_man_*'s mouth are like deep waters, and the well-spring of wisdom like a flowing brook.
 * `Pro 18:11` The rich *_man_*'s wealth is his strong city, and like a high wall in his own conceit.
 * `Pro 18:12` Before destruction the heart of *_man_* is haughty, and before honor is humility.
 * `Pro 18:14` The spirit of a *_man_* will sustain his infirmity, but who can bear a wounded spirit?
@@ -1082,7 +1082,7 @@
 * `Pro 22:13` The slothful *_man_* says, "There is a lion outside. I shall be slain in the streets."
 * `Pro 22:24` Make no friendship with an angry *_man_*, and with a furious *_man_* you shall not go,
 * `Pro 22:29` Do you see a *_man_* diligent in his business? He shall stand before kings. He shall not stand before obscure men.
-* `Pro 23:2` And put a knife to your throat, if you are a *_man_* given to appetite.
+* `Pro 23:2` And put a knife to your throat if you are a *_man_* given to appetite.
 * `Pro 23:21` For the drunkard and the glutton shall come to poverty, and drowsiness shall clothe a *_man_* with rags.
 * `Pro 24:5` A wise *_man_* is strong, and a *_man_* of knowledge increases strength.
 * `Pro 24:12` If you say, "Behold, we did not know it," does he who ponders the heart not consider it? And he who keeps your soul, does he not know it? And will he not render to every *_man_* according to his works?
@@ -1092,7 +1092,7 @@
 * `Pro 24:26` Every *_man_* shall kiss his lips who gives a right answer.
 * `Pro 24:29` Do not say, "I will do so to him as he has done to me. I will render to the *_man_* according to his work."
 * `Pro 24:30` I went by the field of the slothful and by the vineyard of the *_man_* void of understanding,
-* `Pro 24:34` And your poverty shall come as one who travels, and your need as an armed *_man_*.
+* `Pro 24:34` And your poverty shall come like one who travels, and your need like an armed *_man_*.
 * `Pro 25:18` A *_man_* who bears false witness against his neighbor is a maul, a sword, and a sharp arrow.
 * `Pro 25:19` Confidence in an unfaithful *_man_* in time of trouble is like a broken tooth and a foot out of joint.
 * `Pro 25:26` A righteous *_man_* falling down before the wicked is as a turbid fountain and a corrupt spring.
@@ -1101,7 +1101,7 @@
 * `Pro 26:18` As a mad *_man_* who casts fire-brands, arrows, and death,
 * `Pro 26:19` So is the *_man_* who deceives his neighbor, and says, "Am I not joking?"
 * `Pro 26:21` As coals are to burning coals and wood to fire, so is a contentious *_man_* to kindle strife.
-* `Pro 27:2` Let another *_man_* praise you, and not your own mouth, a stranger, and not your own lips.
+* `Pro 27:2` Let another *_man_* praise you, and not your own mouth; a stranger, and not your own lips.
 * `Pro 27:8` As a bird that wanders from her nest, so is a *_man_* who wanders from his place.
 * `Pro 27:9` Ointment and perfume rejoice the heart, and so does the sweetness of a *_man_*'s friend by hearty counsel.
 * `Pro 27:12` A prudent *_man_* foresees the evil and hides himself, but the simple pass on and are punished.
@@ -1123,7 +1123,6 @@
 * `Pro 29:6` In the transgression of an evil *_man_* there is a snare, but the righteous sings and rejoices.
 * `Pro 29:9` If a wise *_man_* contends with a foolish *_man_*, whether he rages or laughs, there is no rest.
 * `Pro 29:11` A fool utters all his mind, but a wise *_man_* keeps it in until afterward.
-* `Pro 29:13` The poor and the deceitful *_man_* meet together, the LORD enlightens both their eyes.
 * `Pro 29:20` Do you see a *_man_* who is hasty in his words? There is more hope for a fool than for him.
 * `Pro 29:22` An angry *_man_* stirs up strife, and a furious *_man_* abounds in transgression.
 * `Pro 29:23` A *_man_*'s pride shall bring him low, but honor shall uphold the humble in spirit.
@@ -2347,7 +2346,7 @@
 * `Rev 22:18` For I testify to every *_man_* who hears the words of the prophecy of this book, if any *_man_* adds to these things, God will add to him the plagues that are written in this book.
 * `Rev 22:19` And if any *_man_* takes away from the words of the book of this prophecy, God will take away his part out of the tree of life, out of the holy city, and from the things which are written in this book.
 
-_2343 verses containing MAN_
+_2342 verses containing MAN_
 
 == MAN-SERVANT
 
@@ -4111,7 +4110,7 @@ _5 verses containing MASSAH_
 
 == MAST
 
-* `Pro 23:34` And you shall be like someone who lies down in the midst of the sea, or like someone who lies upon the top of a *_mast_*.
+* `Pro 23:34` You shall be like someone who lies down in the midst of the sea, or like someone who lies upon the top of a *_mast_*.
 * `Isa 33:23` Your tacklings are loosened. They could not well strengthen their *_mast_*. They could not spread the sail. Then the loot of a great plunder is divided. The lame take the plunder.
 
 _2 verses containing MAST_

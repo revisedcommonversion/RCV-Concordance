@@ -339,7 +339,7 @@ _32 verses containing LEARN_
 * `Gen 30:27` And Laban said to him, "I pray you, if I have found favor in your eyes, stay, for I have *_learned_* by experience that the LORD has blessed me for your sake."
 * `Psa 106:35` But were mingled among the heathen and *_learned_* their works.
 * `Psa 119:7` I will praise you with uprightness of heart when I have *_learned_* your righteous judgments.
-* `Pro 30:3` I neither *_learned_* wisdom, nor have the knowledge of the Holy One.
+* `Pro 30:3` I neither *_learned_* wisdom nor have the knowledge of the Holy One.
 * `Isa 29:11` And the vision of all has become to you like the words of a book that is sealed, which men deliver to one who is *_learned_*, saying, "Read this, I pray you," and he says, "I cannot, for it is sealed."
 * `Isa 29:12` And the book is delivered to him who is not *_learned_*, saying, "Read this, I pray you," and he says, "I am not *_learned_*."
 * `Isa 50:4` The Lord GOD has given me the tongue of the *_learned_* so that I should know how to speak a word in season to him who is weary. He wakens morning by morning. He wakens my ear to hear as the *_learned_*.
@@ -1277,7 +1277,7 @@ _4 verses containing LEHI_
 == LEMUEL
 
 * `Pro 31:1` [The words of king *_Lemuel_*, the prophecy that his mother taught him.]
-* `Pro 31:4` It is not for kings, O *_Lemuel_*, it is not for kings to drink wine, nor for princes strong drink,
+* `Pro 31:4` It is not for kings, O *_Lemuel_*, it is not for kings to drink wine nor for princes strong drink,
 
 _2 verses containing LEMUEL_
 
@@ -1706,7 +1706,7 @@ _1 verse containing LESSON_
 * `Pro 26:4` Do not answer a fool according to his folly, *_lest_* you also be like him.
 * `Pro 26:5` Answer a fool according to his folly, *_lest_* he be wise in his own conceit.
 * `Pro 30:6` Do not add to his words, *_lest_* he reprove you, and you be found a liar.
-* `Pro 30:9` *_Lest_* I be full and deny you, and say, "Who is the LORD?" or *_lest_* I be poor and steal and take the name of my God in vain.
+* `Pro 30:9` *_Lest_* I be full and deny you and say, "Who is the LORD?" or *_lest_* I be poor and steal and take the name of my God in vain.
 * `Pro 30:10` Do not accuse a servant to his master, *_lest_* he curse you and you be found guilty.
 * `Pro 31:5` *_Lest_* they drink, forget the law, and pervert the judgment of any of the afflicted.
 * `Ecc 7:21` Also take no heed to all words that are spoken, *_lest_* you hear your servant curse you,
@@ -2521,7 +2521,7 @@ _223 verses containing LEST_
 * `Pro 3:1` My son, do not forget my law, but *_let_* your heart keep my commandments,
 * `Pro 3:3` Do not *_let_* mercy and truth forsake you. Bind them around your neck. Write them upon the tablet of your heart.
 * `Pro 3:21` My son, do not *_let_* them depart from your eyes. Keep sound wisdom and discretion,
-* `Pro 4:4` He taught me also, and said to me, "*_Let_* your heart retain my words. Keep my commandments, and live.
+* `Pro 4:4` He also taught me and said to me, "*_Let_* your heart retain my words. Keep my commandments, and live.
 * `Pro 4:13` Take firm hold of instruction. Do not *_let_* her go. Keep her, for she is your life.
 * `Pro 4:21` Do not *_let_* them depart from your eyes. Keep them in the midst of your heart.
 * `Pro 4:25` *_Let_* your eyes look right on, and *_let_* your eyelids look straight before you.
@@ -2529,18 +2529,18 @@ _223 verses containing LEST_
 * `Pro 5:16` *_Let_* your fountains be dispersed abroad, and rivers of waters in the streets.
 * `Pro 5:17` *_Let_* them be only your own, and not for strangers with you.
 * `Pro 5:18` *_Let_* your fountain be blessed, and rejoice with the wife of your youth.
-* `Pro 5:19` *_Let_* her be as the loving doe and pleasant deer. *_Let_* her breasts satisfy you at all times, and be ravished always with her love.
+* `Pro 5:19` *_Let_* her be like a loving doe and a pleasant deer. *_Let_* her breasts satisfy you at all times, and be ravished always with her love.
 * `Pro 6:25` Do not lust after her beauty in your heart, neither *_let_* her take you with her eyelids.
 * `Pro 7:18` Come, *_let_* us take our fill of love until the morning. *_Let_* us solace ourselves with affection.
 * `Pro 7:25` Do not *_let_* your heart decline to her ways. Do not go astray in her paths.
 * `Pro 9:4` "Whoever is simple, *_let_* him turn in here." As for him who lacks understanding, she says to him,
 * `Pro 9:16` "Whoever is simple, *_let_* him turn in here." And as for him who lacks understanding, she says to him,
-* `Pro 17:12` *_Let_* a bear robbed of her whelps meet a man, rather than a fool in his folly.
+* `Pro 17:12` *_Let_* a bear robbed of her whelps meet a man rather than a fool in his folly.
 * `Pro 19:18` Chasten your son while there is hope, and do not *_let_* your soul spare for his crying.
 * `Pro 23:17` Do not *_let_* your heart envy sinners, but be in the fear of the LORD all the day long.
 * `Pro 23:26` My son, give me your heart, and *_let_* your eyes observe my ways.
 * `Pro 24:17` Do not rejoice when your enemy falls, and do not *_let_* your heart be glad when he stumbles,
-* `Pro 27:2` *_Let_* another man praise you, and not your own mouth, a stranger, and not your own lips.
+* `Pro 27:2` *_Let_* another man praise you, and not your own mouth; a stranger, and not your own lips.
 * `Pro 28:17` A man who does violence to the blood of any person shall flee to the pit. *_Let_* no man stay him.
 * `Pro 31:7` *_Let_* him drink and forget his poverty and remember his misery no more.
 * `Pro 31:31` [TAV] Give her the fruit of her hands, and *_let_* her own works praise her in the gates.

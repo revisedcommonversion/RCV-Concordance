@@ -1229,7 +1229,7 @@ _5 verses containing SLAYS_
 * `Psa 132:4` I will not give *_sleep_* to my eyes or slumber to my eyelids,
 * `Pro 3:24` When you lie down, you shall not be afraid. You shall lie down, and your *_sleep_* shall be sweet.
 * `Pro 4:16` For they do not *_sleep_*, unless they have done mischief, and their *_sleep_* is taken away, unless they cause some to fall.
-* `Pro 6:4` Do not give *_sleep_* to your eyes, nor slumber to your eyelids.
+* `Pro 6:4` Do not give *_sleep_* to your eyes nor slumber to your eyelids.
 * `Pro 6:9` How long will you *_sleep_*, O sluggard? When will you arise out of your *_sleep_*?
 * `Pro 6:10` Yet a little *_sleep_*, a little slumber, a little folding of the hands to *_sleep_*,
 * `Pro 6:22` When you go, it shall lead you. When you *_sleep_*, it shall keep you. And when you awake, it shall talk with you.
@@ -1720,7 +1720,7 @@ _1 verse containing SLUICES_
 * `Psa 121:3` He will not allow your foot to be moved. He who keeps you will not *_slumber_*.
 * `Psa 121:4` Behold, he who keeps Israel shall neither *_slumber_* nor sleep.
 * `Psa 132:4` I will not give sleep to my eyes or *_slumber_* to my eyelids,
-* `Pro 6:4` Do not give sleep to your eyes, nor *_slumber_* to your eyelids.
+* `Pro 6:4` Do not give sleep to your eyes nor *_slumber_* to your eyelids.
 * `Pro 6:10` Yet a little sleep, a little *_slumber_*, a little folding of the hands to sleep,
 * `Pro 24:33` Yet a little sleep, a little *_slumber_*, a little folding of the hands to sleep,
 * `Isa 5:27` None shall be weary nor stumble among them and none shall *_slumber_* nor sleep, neither shall the girdle of their loins be loosened nor the latchet of their shoes be broken,
@@ -1966,7 +1966,7 @@ _2 verses containing SMELLS_
 * `2Ch 21:14` Behold, with a great plague the LORD will *_smite_* your people, your children, your wives, and all your goods.
 * `Psa 121:6` The sun shall not *_smite_* you by day, nor the moon by night.
 * `Psa 141:5` Let the righteous *_smite_* me—it shall be a kindness. And let him reprove me—it shall be an excellent oil. Do not let my head refuse it. For still my prayer shall be against their wickedness.
-* `Pro 19:25` *_Smite_* a scorner and the simple will take heed. And reprove one who has understanding and he will understand knowledge.
+* `Pro 19:25` *_Smite_* a scorner, and the simple will take heed. Reprove one who has understanding, and he will understand knowledge.
 * `Isa 3:17` Therefore the Lord will *_smite_* with a scab the crown of the head of the daughters of Zion, and the LORD will uncover their secret parts."
 * `Isa 10:24` Therefore, thus says the Lord GOD of hosts: "O my people who dwell in Zion, do not be afraid of the Assyrian. He shall *_smite_* you with a rod and shall lift up his staff against you after the manner of Egypt.
 * `Isa 11:4` But with righteousness he will judge the poor and reprove with equity for the meek of the earth. He will *_smite_* the earth with the rod of his mouth, and with the breath of his lips he will slay the wicked.

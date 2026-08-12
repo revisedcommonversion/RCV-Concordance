@@ -388,7 +388,7 @@ _14 verses containing FOLLOWS_
 * `Pro 14:29` He who is slow to wrath is of great understanding, but he who is hasty of spirit exalts *_folly_*.
 * `Pro 15:21` *_Folly_* is joy to him who is destitute of wisdom, but a man of understanding walks uprightly.
 * `Pro 16:22` Understanding is a well-spring of life to him who has it, but the instruction of fools is *_folly_*.
-* `Pro 17:12` Let a bear robbed of her whelps meet a man, rather than a fool in his *_folly_*.
+* `Pro 17:12` Let a bear robbed of her whelps meet a man rather than a fool in his *_folly_*.
 * `Pro 18:13` He who answers a matter before he hears it, it is *_folly_* and shame to him.
 * `Pro 26:4` Do not answer a fool according to his *_folly_*, lest you also be like him.
 * `Pro 26:5` Answer a fool according to his *_folly_*, lest he be wise in his own conceit.
@@ -612,7 +612,7 @@ _37 verses containing FOLLY_
 * `Psa 146:7` Who executes judgment for the oppressed, who gives *_food_* to the hungry. The LORD sets the prisoners free.
 * `Psa 147:9` He gives to the beast his *_food_*, and to the young ravens which cry.
 * `Pro 6:8` Provides her provisions in the summer and gathers her *_food_* in the harvest.
-* `Pro 13:23` Much *_food_* is in the tillage of the poor, but there is one who is destroyed for lack of judgment.
+* `Pro 13:23` Much *_food_* is in the tillage of the poor, but it is destroyed by reason of injustice.
 * `Pro 23:3` Do not be desirous of his dainties, for they are deceitful *_food_*.
 * `Pro 27:27` And you shall have enough goats' milk for your *_food_*, for the *_food_* of your household, and for sustenance for your young women.
 * `Pro 28:3` A poor man who oppresses the poor is like a sweeping rain which leaves no *_food_*.
@@ -873,7 +873,7 @@ _4 verses containing FOODS_
 * `Pro 15:5` A *_fool_* despises his father's instruction, but he who regards reproof is prudent.
 * `Pro 17:7` Excellent speech is not suitable for a *_fool_*, much less are lying lips for a prince.
 * `Pro 17:10` A reproof enters more into a wise man than one hundred stripes into a *_fool_*.
-* `Pro 17:12` Let a bear robbed of her whelps meet a man, rather than a *_fool_* in his folly.
+* `Pro 17:12` Let a bear robbed of her whelps meet a man rather than a *_fool_* in his folly.
 * `Pro 17:16` Why is there a price in the hand of a *_fool_* to get wisdom, seeing he has no heart to it?
 * `Pro 17:21` He who begets a *_fool_* does it to his sorrow. And the father of a *_fool_* has no joy.
 * `Pro 17:24` Wisdom is before him who has understanding, but the eyes of a *_fool_* are in the ends of the earth.

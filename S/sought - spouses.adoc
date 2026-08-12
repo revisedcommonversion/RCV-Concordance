@@ -2354,7 +2354,7 @@ _2 verses containing SPIN_
 
 == SPINDLE
 
-* `Pro 31:19` [YOD] She lays her hands to the *_spindle_*, and her hands hold the distaff.
+* `Pro 31:19` [YOD] She lays her hands to the distaff, and her hands hold the *_spindle_*.
 
 _1 verse containing SPINDLE_
 
@@ -2477,7 +2477,7 @@ _1 verse containing SPINDLE_
 * `Pro 15:4` A wholesome tongue is a tree of life, but perverseness in it is a breach in the *_spirit_*.
 * `Pro 15:13` A merry heart makes a cheerful countenance, but by sorrow of the heart the *_spirit_* is broken.
 * `Pro 16:18` Pride goes before destruction, and a haughty *_spirit_* before a fall.
-* `Pro 16:19` It is better to be of a humble *_spirit_* with the lowly, than to divide the plunder with the proud.
+* `Pro 16:19` It is better to be of a humble *_spirit_* with the lowly than to divide the plunder with the proud.
 * `Pro 16:32` He who is slow to anger is better than the mighty, and he who rules his *_spirit_*, than he who takes a city.
 * `Pro 17:22` A merry heart does good like a medicine, but a broken *_spirit_* dries the bones.
 * `Pro 17:27` He who has knowledge spares his words, and a man of understanding is of an excellent *_spirit_*.

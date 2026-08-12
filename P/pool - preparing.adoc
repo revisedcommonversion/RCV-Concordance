@@ -125,7 +125,7 @@ _6 verses containing POOLS_
 * `Pro 10:15` The rich man's wealth is his strong city. The destruction of the *_poor_* is their poverty.
 * `Pro 13:7` There is one who makes himself rich, yet has nothing. There is one who makes himself *_poor_*, yet has great riches.
 * `Pro 13:8` The ransom of a man's life is his riches, but the *_poor_* does not hear rebuke.
-* `Pro 13:23` Much food is in the tillage of the *_poor_*, but there is one who is destroyed for lack of judgment.
+* `Pro 13:23` Much food is in the tillage of the *_poor_*, but it is destroyed by reason of injustice.
 * `Pro 14:20` The *_poor_* is hated even by his own neighbor, but the rich has many friends.
 * `Pro 14:21` He who despises his neighbor sins, but he who has mercy on the *_poor_* is happy.
 * `Pro 14:31` He who oppresses the *_poor_* reproaches his Maker, but he who honors him has mercy on the *_poor_*.
@@ -150,9 +150,9 @@ _6 verses containing POOLS_
 * `Pro 28:15` As a roaring lion and a hungry bear, so is a wicked ruler over the *_poor_* people.
 * `Pro 28:27` He who gives to the *_poor_* shall lack nothing, but he who hides his eyes shall have many curses.
 * `Pro 29:7` The righteous considers the cause of the *_poor_*, but the wicked does not regard to know it.
-* `Pro 29:13` The *_poor_* and the deceitful man meet together, the LORD enlightens both their eyes.
+* `Pro 29:13` The *_poor_* and the oppressor meet together; the LORD enlightens both their eyes.
 * `Pro 29:14` The king who faithfully judges the *_poor_*, his throne shall be established forever.
-* `Pro 30:9` Lest I be full and deny you, and say, "Who is the LORD?" or lest I be *_poor_* and steal and take the name of my God in vain.
+* `Pro 30:9` Lest I be full and deny you and say, "Who is the LORD?" or lest I be *_poor_* and steal and take the name of my God in vain.
 * `Pro 30:14` There is a generation whose teeth are like swords and their jaw-teeth are like knives to devour the *_poor_* from off the earth and the needy from among men.
 * `Pro 31:9` Open your mouth, judge righteously, and plead the cause of the *_poor_* and needy.
 * `Pro 31:20` [KAF] She stretches out her hand to the *_poor_*. She even reaches forth her hands to the needy.
@@ -1201,7 +1201,7 @@ _10 verses containing POURS_
 * `Pro 21:5` The thoughts of the diligent tend only to plenteousness, but of everyone who is hasty, only to *_poverty_*.
 * `Pro 22:16` He who oppresses the poor to increase his riches, and he who gives to the rich, shall surely come to *_poverty_*.
 * `Pro 23:21` For the drunkard and the glutton shall come to *_poverty_*, and drowsiness shall clothe a man with rags.
-* `Pro 24:34` And your *_poverty_* shall come as one who travels, and your need as an armed man.
+* `Pro 24:34` And your *_poverty_* shall come like one who travels, and your need like an armed man.
 * `Pro 28:19` He who tills his land shall have plenty of bread, but he who follows after vain persons shall be filled with *_poverty_*.
 * `Pro 28:22` He who hastens to be rich has an evil eye and does not consider that *_poverty_* shall come upon him.
 * `Pro 30:8` Keep vanity and lies far from me, and give me neither *_poverty_* nor riches. Feed me with the food of my portion,
@@ -1712,7 +1712,7 @@ _1 verse containing PRAETORIUM_
 * `Psa 150:4` *_Praise_* him with the timbrel and dance. *_Praise_* him with stringed instruments and pipes.
 * `Psa 150:5` *_Praise_* him upon the loud cymbals. *_Praise_* him upon the high sounding cymbals.
 * `Psa 150:6` Let everything that has breath *_praise_* the LORD. *_Praise_* the LORD.
-* `Pro 27:2` Let another man *_praise_* you, and not your own mouth, a stranger, and not your own lips.
+* `Pro 27:2` Let another man *_praise_* you, and not your own mouth; a stranger, and not your own lips.
 * `Pro 27:21` As the refining-pot for silver and the furnace for gold, so is a man to his *_praise_*.
 * `Pro 28:4` Those who forsake the law *_praise_* the wicked, but those who keep the law contend with them.
 * `Pro 31:31` [TAV] Give her the fruit of her hands, and let her own works *_praise_* her in the gates.

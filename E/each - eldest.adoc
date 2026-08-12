@@ -421,7 +421,7 @@ _10 verses containing EAGLES_
 * `Pro 2:2` So that you incline your *_ear_* to wisdom and apply your heart to understanding,
 * `Pro 4:20` My son, attend to my words. Incline your *_ear_* to my sayings.
 * `Pro 5:1` My son, attend to my wisdom and bow your *_ear_* to my understanding,
-* `Pro 5:13` And have not obeyed the voice of my teachers, nor inclined my *_ear_* to those who instructed me!
+* `Pro 5:13` And have not obeyed the voice of my teachers nor inclined my *_ear_* to those who instructed me!
 * `Pro 15:31` The *_ear_* that hears the reproof of life abides among the wise.
 * `Pro 17:4` A wicked doer gives heed to false lips, and a liar gives *_ear_* to a mischievous tongue.
 * `Pro 18:15` The heart of the prudent gets knowledge, and the *_ear_* of the wise seeks knowledge.
@@ -2609,7 +2609,7 @@ _3 verses containing EATER_
 
 == EATERS
 
-* `Pro 23:20` Do not be among drunkards, among riotous *_eaters_* of flesh,
+* `Pro 23:20` Do not be among drunkards or among riotous *_eaters_* of flesh,
 
 _1 verse containing EATERS_
 
@@ -2675,7 +2675,7 @@ _33 verses containing EATING_
 * `Job 40:15` Behold now behemoth, which I made with you. He *_eats_* grass like an ox.
 * `Psa 106:20` Thus they changed their glory into the similitude of an ox that *_eats_* grass.
 * `Pro 13:25` The righteous *_eats_* to the satisfying of his soul, but the belly of the wicked shall be lacking.
-* `Pro 30:20` Such is the way of an adulterous woman: she *_eats_* and wipes her mouth, and says, "I have done no wickedness."
+* `Pro 30:20` Such is the way of an adulterous woman: she *_eats_* and wipes her mouth and says, "I have done no wickedness."
 * `Ecc 4:5` The fool folds his hands together and *_eats_* his own flesh.
 * `Ecc 5:12` The sleep of a laboring man is sweet, whether he *_eats_* little or much, but the abundance of the rich will not allow him to sleep.
 * `Ecc 5:17` All his days he also *_eats_* in darkness, and he has much sorrow and wrath with his sickness.
