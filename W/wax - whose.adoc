@@ -3785,7 +3785,6 @@ _4 verses containing WHENEVER_
 * `Job 1:7` And the LORD said to Satan, "*_Where_* did you come from?" Then Satan answered the LORD and said, "From going to and fro on the earth and from walking up and down upon it."
 * `Job 2:2` And the LORD said to Satan, "*_Where_* did you come from?" And Satan answered the LORD and said, "From going to and fro on the earth and from walking up and down upon it."
 * `Job 4:7` Remember, I pray you: who has perished, being innocent? Or *_where_* were the righteous cut off?
-* `Job 9:24` The earth is given into the hand of the wicked. He covers the faces of its judges. If not, *_where_*, and who is he?
 * `Job 10:21` Before I go *_where_* I shall not return from, even to the land of darkness and the shadow of death,
 * `Job 10:22` A land of thick darkness like darkness itself, and of the shadow of death without any order, and *_where_* the light is like darkness."
 * `Job 12:24` He takes away the heart of the chief of the people of the earth and causes them to wander in a wilderness *_where_* there is no way.
@@ -4100,7 +4099,7 @@ _4 verses containing WHENEVER_
 * `Rev 17:15` And he says to me, "The waters which you saw *_where_* the harlot sits are peoples, multitudes, nations, and languages.
 * `Rev 20:10` And the devil who deceived them was cast into the lake of fire and brimstone, *_where_* the beast and the false prophet are, and shall be tormented day and night forever and ever.
 
-_515 verses containing WHERE_
+_514 verses containing WHERE_
 
 == WHEREAS
 
@@ -5369,7 +5368,7 @@ _20 verses containing WHOMEVER_
 * `Ezr 7:15` And to carry the silver and gold which the king and his counselors have freely offered to the God of Israel, *_whose_* habitation is in Jerusalem,
 * `Ezr 8:13` And of the last sons of Adonikam, *_whose_* names are these: Eliphelet, Jeiel, and Shemaiah, and with them sixty males.
 * `Est 2:5` Now in the palace of Shushan there was a certain Jew, *_whose_* name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjaminite,
-* `Job 1:1` There was a man in the land of Uz *_whose_* name was Job. And that man was upright and just, and one who feared God and shunned evil.
+* `Job 1:1` There was a man in the land of Uz *_whose_* name was Job. And that man was upright and just, one who feared God and shunned evil.
 * `Job 3:23` Why is light given to a man *_whose_* way is hid and whom God has hedged in?
 * `Job 4:19` How much less in those who dwell in houses of clay, *_whose_* foundation is in the dust, who are crushed before the moth?
 * `Job 8:14` *_Whose_* hope shall be cut off, and *_whose_* trust shall be a spider's web.

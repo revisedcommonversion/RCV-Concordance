@@ -2973,7 +2973,7 @@ _1 verse containing SAFFRON_
 * `Est 8:7` Then king Ahasuerus *_said_* to Esther the queen and to Mordecai the Jew, "Behold, I have given Esther the house of Haman, and they have hanged him upon the gallows because he laid his hand upon the Jews.
 * `Est 9:12` And the king *_said_* to Esther the queen, "The Jews have slain and destroyed five hundred men in the palace of Shushan and the ten sons of Haman. What have they done in the rest of the king's provinces? Now what is your petition? It shall be granted to you. Or what is your request further? It shall be done."
 * `Est 9:13` Then Esther *_said_*, "If it pleases the king, let it be granted to the Jews who are in Shushan to do tomorrow also according to this day's decree, and let Haman's ten sons be hanged upon the gallows."
-* `Job 1:5` And it was so, when the days of their feasting had ended, that Job sent and sanctified them, rose early in the morning, and offered burnt-offerings according to the number of them all, for Job *_said_*, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
+* `Job 1:5` And it came to pass when the days of their feasting had ended, that Job sent and sanctified them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job *_said_*, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
 * `Job 1:7` And the LORD *_said_* to Satan, "Where did you come from?" Then Satan answered the LORD and *_said_*, "From going to and fro on the earth and from walking up and down upon it."
 * `Job 1:8` And the LORD *_said_* to Satan, "Have you considered my servant Job, that there is no one like him on the earth, an upright and a just man, one who fears God and shuns evil?"
 * `Job 1:9` Then Satan answered the LORD and *_said_*, "Does Job fear God for nothing?
@@ -2986,7 +2986,7 @@ _1 verse containing SAFFRON_
 * `Job 2:6` And the LORD *_said_* to Satan, "Behold, he is in your hand, but save his life."
 * `Job 2:9` Then his wife *_said_* to him, "Do you still retain your integrity? Curse God and die."
 * `Job 2:10` But he *_said_* to her, "You speak as one of the foolish women speaks. What? Shall we receive good at the hand of God, and shall we not receive evil?" In all this Job did not sin with his lips.
-* `Job 3:2` And Job spoke, and *_said_*,
+* `Job 3:2` And Job spoke and *_said_*,
 * `Job 3:3` "Let the day perish in which I was born, and the night in which it was *_said_*, 'There is a male child conceived.'
 * `Job 4:1` Then Eliphaz the Temanite answered and *_said_*,
 * `Job 6:1` But Job answered and *_said_*,
@@ -5945,7 +5945,7 @@ _5 verses containing SANCTIFICATION_
 * `2Ch 31:18` And to the genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation. For in their set office they *_sanctified_* themselves in holiness.
 * `Neh 3:1` Then Eliashib the high priest arose with his brothers the priests, and they built the sheep-gate. They *_sanctified_* it and set up its doors. Even to the tower of Meah they *_sanctified_* it, to the tower of Hananeel.
 * `Neh 12:47` And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions for the singers and the gatekeepers, every day his portion. And they *_sanctified_* holy things to the Levites, and the Levites *_sanctified_* them to the children of Aaron.
-* `Job 1:5` And it was so, when the days of their feasting had ended, that Job sent and *_sanctified_* them, rose early in the morning, and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
+* `Job 1:5` And it came to pass when the days of their feasting had ended, that Job sent and *_sanctified_* them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
 * `Isa 5:16` But the LORD of hosts shall be exalted in judgment, and God who is holy shall be *_sanctified_* in righteousness.
 * `Isa 13:3` I have commanded my *_sanctified_* ones, I have also called my mighty ones for my anger, even those who rejoice in my highness.
 * `Jer 1:5` "Before I formed you in embryo I knew you. And before you were born I *_sanctified_* you and ordained you a prophet to the nations."

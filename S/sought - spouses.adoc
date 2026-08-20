@@ -1445,7 +1445,7 @@ _4 verses containing SPARROWS_
 * `Job 16:6` Though I *_speak_*, my grief is not assuaged. And though I forbear, what am I eased?
 * `Job 18:2` "How long will it be before you make an end of words? Mark, and afterward we will *_speak_*.
 * `Job 21:3` Allow me that I may *_speak_*. And after I have spoken, mock on.
-* `Job 27:4` My lips shall not *_speak_* wickedness, nor my tongue utter deceit.
+* `Job 27:4` My lips shall not *_speak_* wickedness nor my tongue utter deceit.
 * `Job 29:22` After my words they did not *_speak_* again, and my speech dropped upon them.
 * `Job 32:4` Now Elihu had waited to *_speak_* to Job because they were older than he was.
 * `Job 32:7` I said, 'Days should *_speak_*, and multitude of years should teach wisdom.'
@@ -2083,7 +2083,7 @@ _3 verses containing SPECTACLE_
 * `Neh 13:24` And their children spoke half in the *_speech_* of Ashdod and could not speak in the Jews' language, but according to the language of each people.
 * `Job 12:20` He removes away the *_speech_* of the trusty and takes away the understanding of the aged.
 * `Job 13:17` Hear diligently my *_speech_* and my declaration with your ears.
-* `Job 21:2` "Hear diligently my *_speech_*, and let this be your consolations.
+* `Job 21:2` "Hear diligently my *_speech_*, and let this be your consolation.
 * `Job 24:25` And if it is not so now, who will make me a liar and make my *_speech_* of no worth?"
 * `Job 29:22` After my words they did not speak again, and my *_speech_* dropped upon them.
 * `Job 37:19` Teach us what we shall say to him, for we cannot order our *_speech_* by reason of darkness.
@@ -2124,7 +2124,7 @@ _47 verses containing SPEECH_
 
 * `Num 12:8` With him I will speak mouth to mouth, even apparently and not in dark *_speeches_*, and the similitude of the LORD he shall behold. Why then were you not afraid to speak against my servant Moses?"
 * `Job 6:26` Do you think to reprove words, seeing that the *_speeches_* of one who is desperate are like wind?
-* `Job 15:3` Should he reason with unprofitable talk, or with *_speeches_* with which he can do no good?
+* `Job 15:3` Should he reason with unprofitable talk or with *_speeches_* with which he can do no good?
 * `Job 32:14` Now he has not directed his words against me, neither will I answer him with your *_speeches_*.
 * `Job 33:1` "Therefore, Job, I pray you, hear my *_speeches_* and listen to all my words.
 * `Rom 16:18` For those who are such do not serve our Lord Jesus Christ, but their own belly, and by good words and fair *_speeches_* deceive the hearts of the simple.
@@ -3434,7 +3434,7 @@ _4 verses containing SPLIT_
 * `Est 4:10` Again, Esther *_spoke_* to Hatach and gave him commandment to say to Mordecai,
 * `Est 8:3` And Esther *_spoke_* yet again before the king, fell down at his feet, and implored him with tears to put away the mischief of Haman the Agagite and his plan that he had devised against the Jews.
 * `Job 2:13` Thus they sat down with him upon the ground for seven days and seven nights, and no one *_spoke_* a word to him, for they saw that his grief was very great.
-* `Job 3:2` And Job *_spoke_*, and said,
+* `Job 3:2` And Job *_spoke_* and said,
 * `Job 19:18` Young children even despise me. I arose, and they *_spoke_* against me.
 * `Job 35:1` Elihu *_spoke_* moreover and said,
 * `Psa 18:1` [To the Chief Musician. A Psalm of David the Servant of the LORD: who *_spoke_* the words of this song to the LORD in the day that the LORD delivered him from the hand of all his enemies and from the hand of Saul. He said,] I will love you, O LORD, my strength.

@@ -134,6 +134,7 @@ _2 verses containing CONSIST_
 
 == CONSOLATION
 
+* `Job 21:2` "Hear diligently my speech, and let this be your *_consolation_*.
 * `Jer 16:7` Neither shall men tear themselves for them in mourning to comfort them for the dead; neither shall men give them the cup of *_consolation_* to drink for their father or for their mother.
 * `Luk 2:25` And behold, there was a man in Jerusalem whose name was Simeon, and the same man was just and devout, waiting for the *_consolation_* of Israel. And the Holy Spirit was upon him.
 * `Luk 6:24` But woe to you who are rich! For you have received your *_consolation_*.
@@ -151,15 +152,14 @@ _2 verses containing CONSIST_
 * `Phm 1:7` For we have great joy and *_consolation_* in your love because the hearts of the saints are refreshed by you, brother.
 * `Heb 6:18` So that by two immutable things, in which it was impossible for God to lie, we might have a strong *_consolation_*, who have fled for refuge to lay hold upon the hope set before us.
 
-_16 verses containing CONSOLATION_
+_17 verses containing CONSOLATION_
 
 == CONSOLATIONS
 
 * `Job 15:11` Are the *_consolations_* of God small with you? Is there any secret thing with you?
-* `Job 21:2` "Hear diligently my speech, and let this be your *_consolations_*.
 * `Isa 66:11` So that you may nurse and be satisfied with the breasts of her *_consolations_*, so that you may draw milk and be delighted with the abundance of her glory."
 
-_3 verses containing CONSOLATIONS_
+_2 verses containing CONSOLATIONS_
 
 == CONSORTED
 
@@ -771,7 +771,7 @@ _33 verses containing CONTINUAL_
 * `2Ch 9:7` Happy are your men and happy are these servants of yours who stand *_continually_* before you and hear your wisdom.
 * `2Ch 12:15` Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam *_continually_*.
 * `2Ch 24:14` And when they had finished it, they brought the rest of the money before the king and Jehoiada, of which were made vessels for the house of the LORD, even vessels to minister and to offer with, and spoons and vessels of gold and silver. And they offered burnt-offerings in the house of the LORD *_continually_* all the days of Jehoiada.
-* `Job 1:5` And it was so, when the days of their feasting had ended, that Job sent and sanctified them, rose early in the morning, and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did *_continually_*.
+* `Job 1:5` And it came to pass when the days of their feasting had ended, that Job sent and sanctified them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did *_continually_*.
 * `Psa 25:15` [SAMEKH] My eyes are *_continually_* toward the LORD, for he will pluck my feet out of the net.
 * `Psa 34:1` [A Psalm of David: when he changed his behavior before Abimelech, who drove him away, and he departed.] I will bless the LORD at all times. His praise shall *_continually_* be in my mouth.
 * `Psa 35:27` Let them shout for joy and be glad who favor my righteous cause. Let them even say *_continually_*, "Let the LORD be magnified, who has pleasure in the prosperity of his servant."

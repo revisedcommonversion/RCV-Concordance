@@ -187,9 +187,9 @@
 * `Job 10:18` *_Why_* then have you brought me forth from the womb? O that I had expired, and no eye had seen me!
 * `Job 13:14` *_Why_* do I take my flesh in my teeth and put my life in my hand?
 * `Job 13:24` *_Why_* do you hide your face and hold me for your enemy?
-* `Job 15:12` *_Why_* does your heart carry you away? And what do your eyes wink at,
+* `Job 15:12` *_Why_* does your heart carry you away? And what do your eyes wink at
 * `Job 18:3` *_Why_* are we counted as beasts and reputed vile in your sight?
-* `Job 19:22` *_Why_* do you persecute me as God does, and are not satisfied with my flesh?
+* `Job 19:22` *_Why_* do you persecute me as God does and are not satisfied with my flesh?
 * `Job 19:28` Therefore, you should say, '*_Why_* do we persecute him, seeing the root of the matter is found in him?'
 * `Job 21:4` As for me, is my complaint to man? And if it were so, *_why_* should my spirit not be troubled?
 * `Job 21:7` *_Why_* do the wicked live, become old, and are mighty in power?
@@ -433,7 +433,7 @@ _395 verses containing WHY_
 * `Job 3:17` There the *_wicked_* cease from troubling, and there the weary are at rest.
 * `Job 8:22` Those who hate you shall be clothed with shame. And the dwelling place of the *_wicked_* shall come to nothing."
 * `Job 9:22` This is one thing; therefore, I said, 'He destroys the perfect and the *_wicked_*.'
-* `Job 9:24` The earth is given into the hand of the *_wicked_*. He covers the faces of its judges. If not, where, and who is he?
+* `Job 9:24` The earth is given into the hand of the *_wicked_*. He covers the faces of its judges. If it is not he, then who is it?
 * `Job 9:29` If I am *_wicked_*, why then do I labor in vain?
 * `Job 10:3` Is it good to you that you should oppress, that you should despise the work of your hands and shine upon the counsel of the *_wicked_*?
 * `Job 10:7` You know that I am not *_wicked_*. And there is no one who can deliver out of your hand.
@@ -443,7 +443,7 @@ _395 verses containing WHY_
 * `Job 16:11` God has delivered me to the ungodly and turned me over into the hands of the *_wicked_*.
 * `Job 18:5` Indeed, the light of the *_wicked_* shall be put out, and the spark of his fire shall not shine.
 * `Job 18:21` Surely such are the dwellings of the *_wicked_*, and this is the place of him who does not know God."
-* `Job 20:5` That the triumphing of the *_wicked_* is short, and the joy of the hypocrite is only for a moment?
+* `Job 20:5` That the triumphing of the *_wicked_* is short and the joy of the hypocrite is only for a moment?
 * `Job 20:22` In the fullness of his sufficiency he shall be in distress. Every hand of the *_wicked_* shall come upon him.
 * `Job 20:29` This is the portion of a *_wicked_* man from God, and the heritage appointed to him by God."
 * `Job 21:7` Why do the *_wicked_* live, become old, and are mighty in power?
@@ -455,7 +455,7 @@ _395 verses containing WHY_
 * `Job 22:18` Yet he filled their houses with good things. But the counsel of the *_wicked_* is far from me.
 * `Job 24:6` They each reap his grain in the field, and they gather the vintage of the *_wicked_*.
 * `Job 27:7` Let my enemy be like the *_wicked_*, and he who rises up against me like the unrighteous.
-* `Job 27:13` This is the portion of a *_wicked_* man with God and the heritage of oppressors, which they shall receive from the Almighty.
+* `Job 27:13` This is the portion of a *_wicked_* man with God, the heritage oppressors receive from the Almighty.
 * `Job 29:17` And I broke the jaws of the *_wicked_* and plucked the prey out of his teeth.
 * `Job 31:3` Is destruction not for the *_wicked_* and a strange punishment for the workers of iniquity?
 * `Job 34:8` Who goes in company with the workers of iniquity and walks with *_wicked_* men?
@@ -792,7 +792,7 @@ _23 verses containing WICKEDLY_
 * `Job 20:12` Though *_wickedness_* may be sweet in his mouth, though he may hide it under his tongue,
 * `Job 22:5` Is your *_wickedness_* not great and your iniquities infinite?
 * `Job 24:20` The womb shall forget him. The worm shall feed sweetly on him. He shall no longer be remembered. And *_wickedness_* shall be broken like a tree.
-* `Job 27:4` My lips shall not speak *_wickedness_*, nor my tongue utter deceit.
+* `Job 27:4` My lips shall not speak *_wickedness_* nor my tongue utter deceit.
 * `Job 34:10` Therefore, listen to me, you men of understanding. Far be it from God that he should do *_wickedness_*, and from the Almighty that he should commit iniquity.
 * `Job 35:8` Your *_wickedness_* may hurt a man like yourself, and your righteousness may profit a son of man.
 * `Psa 5:4` For you are not a God who has pleasure in *_wickedness_*, neither shall evil dwell with you.
@@ -1606,7 +1606,7 @@ _1 verse containing WILD-GOAT_
 * `2Ch 24:9` And they made a proclamation through Judah and Jerusalem to bring in to the LORD the collection that Moses the servant of God laid upon Israel in the *_wilderness_*.
 * `Neh 9:19` Yet you in your manifold mercies did not forsake them in the *_wilderness_*. The pillar of the cloud did not depart from them by day to lead them in the way, neither the pillar of fire by night to show them light and the way in which they should go.
 * `Neh 9:21` Indeed, for forty years you sustained them in the *_wilderness_*, and they lacked nothing. Their clothes did not grow old and their feet did not swell.
-* `Job 1:19` And behold, there came a great wind from the *_wilderness_* and smote the four corners of the house, and it fell upon the young men, and they are dead, and only I alone have escaped to tell you."
+* `Job 1:19` And behold, there came a great wind from the *_wilderness_* and smote the four corners of the house. It fell upon the young men, and they are dead, and only I alone have escaped to tell you."
 * `Job 12:24` He takes away the heart of the chief of the people of the earth and causes them to wander in a *_wilderness_* where there is no way.
 * `Job 24:5` Behold, like wild donkeys in the desert, they go forth to their work, seeking for a prey. The *_wilderness_* yields food for them and for their children.
 * `Job 30:3` For lack and famine they were solitary, fleeing into the *_wilderness_* in former time desolate and waste.
@@ -2809,7 +2809,7 @@ _2 verses containing WILES_
 * `Job 13:20` Only do not do two things to me, then I *_will_* not hide myself from you:
 * `Job 13:22` Then call, and I *_will_* answer. Or let me speak, and answer me.
 * `Job 13:25` *_Will_* you terrify a leaf driven to and fro? And *_will_* you pursue the dry stubble?
-* `Job 14:7` For there is hope for a tree if it is cut down, that it *_will_* sprout again and that its tender branch *_will_* not cease.
+* `Job 14:7` For there is hope for a tree, if it is cut down, that it *_will_* sprout again and that its tender branch *_will_* not cease.
 * `Job 14:9` Yet through the scent of water it *_will_* bud and bring forth boughs like a plant.
 * `Job 14:14` If a man dies, shall he live again? All the days of my appointed time I *_will_* wait until my change comes.
 * `Job 14:15` You shall call, and I *_will_* answer you. You *_will_* have a desire for the work of your hands.
@@ -5331,7 +5331,7 @@ _2 verses containing WIN_
 * `1Ki 18:45` And it came to pass in a little while, that the heaven was black with clouds and *_wind_*, and there was a great rain. And Ahab rode and went to Jezreel.
 * `1Ki 19:11` And he said, "Go forth and stand upon the mountain before the LORD." And behold, the LORD passed by, and a great and strong *_wind_* rent the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the *_wind_*. And after the *_wind_* an earthquake, but the LORD was not in the earthquake.
 * `2Ki 3:17` For thus says the LORD: 'You shall not see *_wind_*, neither shall you see rain, yet that valley shall be filled with water so that you may drink—you, your livestock, and your beasts.
-* `Job 1:19` And behold, there came a great *_wind_* from the wilderness and smote the four corners of the house, and it fell upon the young men, and they are dead, and only I alone have escaped to tell you."
+* `Job 1:19` And behold, there came a great *_wind_* from the wilderness and smote the four corners of the house. It fell upon the young men, and they are dead, and only I alone have escaped to tell you."
 * `Job 6:26` Do you think to reprove words, seeing that the speeches of one who is desperate are like *_wind_*?
 * `Job 7:7` O remember that my life is *_wind_*. My eye will no longer see good.
 * `Job 8:2` "How long will you speak these things? And how long shall the words of your mouth be like a strong *_wind_*?
@@ -5904,7 +5904,7 @@ _64 verses containing WINGS_
 
 == WINK
 
-* `Job 15:12` Why does your heart carry you away? And what do your eyes *_wink_* at,
+* `Job 15:12` Why does your heart carry you away? And what do your eyes *_wink_* at
 * `Psa 35:19` Do not let those who are my enemies wrongfully rejoice over me, neither let them *_wink_* with the eye who hate me without a cause.
 
 _2 verses containing WINK_
