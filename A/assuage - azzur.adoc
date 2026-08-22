@@ -792,7 +792,7 @@ _8 verses containing ATTENDANTS_
 
 == ATTENDED
 
-* `Job 32:12` I even *_attended_* to you, and behold, there was none of you who convinced Job, or who answered his words,
+* `Job 32:12` I even *_attended_* to you, and behold, there was none of you who convinced Job or who answered his words,
 * `Psa 66:19` But truly God has heard me. He has *_attended_* to the voice of my prayer.
 * `Act 16:14` And a certain woman named Lydia, a seller of purple from the city of Thyatira who worshiped God, heard us, whose heart the Lord opened so that she *_attended_* to the things which were spoken by Paul.
 

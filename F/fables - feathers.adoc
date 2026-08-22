@@ -528,7 +528,7 @@ _3 verses containing FADING_
 * `Job 14:11` As the waters *_fail_* from the sea and the flood decays and dries up,
 * `Job 17:5` He who speaks flattery to his friends, even the eyes of his children shall *_fail_*.
 * `Job 21:10` Their bull engenders and does not *_fail_*. Their cow brings forth and does not miscarry her calf.
-* `Job 31:16` If I have withheld the poor from their desire, or have caused the eyes of the widow to *_fail_*,
+* `Job 31:16` If I have withheld the poor from their desire, have caused the eyes of the widow to *_fail_*,
 * `Psa 12:1` [To the Chief Musician upon Sheminith. A Psalm of David.] Help, LORD, for the godly man ceases, for the faithful *_fail_* from among the children of men.
 * `Psa 69:3` I am weary of my crying. My throat is dried. My eyes *_fail_* while I wait for my God.
 * `Psa 77:8` Is his mercy wholly gone forever? Does his promise *_fail_* forevermore?
@@ -1212,7 +1212,7 @@ _3 verses containing FALCON_
 * `2Ch 25:19` You say, 'Behold, you have smitten the Edomites,' and your heart lifts you up to boast. Now abide at home. Why should you meddle to your hurt so that you should *_fall_*, even you, and Judah with you?"
 * `Est 6:13` And Haman told Zeresh his wife and all his friends everything that had befallen him. Then his wise men and Zeresh his wife said to him, "If Mordecai, before whom you have begun to *_fall_*, is of Jewish descent, you will not prevail against him, but will surely *_fall_* before him."
 * `Job 13:11` Shall his excellence not make you afraid and his dread *_fall_* upon you?
-* `Job 31:22` Then let my arm *_fall_* from my shoulder-blade, and my arm be broken from the bone.
+* `Job 31:22` Then let my arm *_fall_* from my shoulder-blade and my arm be broken from the bone.
 * `Psa 5:10` Destroy them, O God. Let them *_fall_* by their own counsels. Cast them out in the multitude of their transgressions. For they have rebelled against you.
 * `Psa 9:3` When my enemies are turned back, they shall *_fall_* and perish at your presence.
 * `Psa 10:10` He crouches and humbles himself so that the poor may *_fall_* by his strong ones.
@@ -1896,7 +1896,7 @@ _19 verses containing FAMILIAR_
 * `2Ch 35:5` And stand in the holy place according to the divisions of the *_families_* of the fathers of your brothers the people, and according to the division of the *_families_* of the Levites.
 * `2Ch 35:12` And they removed the burnt-offerings so that they might give according to the divisions of the *_families_* of the people to offer to the LORD, as it is written in the book of Moses. And they did so with the oxen.
 * `Neh 4:13` Therefore, I set in the lower places behind the wall and on the higher places, I even set the people after their *_families_* with their swords, their spears, and their bows.
-* `Job 31:34` Because I feared a great multitude, and the contempt of *_families_* terrified me, so that I kept silence and did not go out of the door,
+* `Job 31:34` Because I feared a great multitude and the contempt of *_families_* terrified me, so that I kept silence and did not go out of the door,
 * `Psa 68:6` God sets the solitary in *_families_*. He brings out those who are bound with chains. But the rebellious dwell in a dry land.
 * `Psa 107:41` Yet he sets the poor on high from affliction and increases their *_families_* like a flock.
 * `Jer 1:15` For behold, I will call all the *_families_* of the kingdoms of the north," says the LORD, "and they shall come and shall each set his throne at the entrance of the gates of Jerusalem, and against all its walls around and against all the cities of Judah.
@@ -4948,7 +4948,7 @@ _398 verses containing FEAR_
 * `Neh 7:2` That I gave my brother Hanani and Hananiah the ruler of the palace charge over Jerusalem, for he was a faithful man and *_feared_* God above many.
 * `Job 1:1` There was a man in the land of Uz whose name was Job. And that man was upright and just, one who *_feared_* God and shunned evil.
 * `Job 3:25` For the thing which I greatly *_feared_* has come upon me, and that which I dreaded has come to me.
-* `Job 31:34` Because I *_feared_* a great multitude, and the contempt of families terrified me, so that I kept silence and did not go out of the door,
+* `Job 31:34` Because I *_feared_* a great multitude and the contempt of families terrified me, so that I kept silence and did not go out of the door,
 * `Psa 76:7` You, even you, are to be *_feared_*. And who may stand in your sight when you are angry?
 * `Psa 76:8` You caused judgment to be heard from heaven. The earth *_feared_* and was still
 * `Psa 76:11` Make vows and fulfill them to the LORD your God. Let all who are around him bring presents to him who ought to be *_feared_*.

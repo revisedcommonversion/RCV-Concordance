@@ -1856,9 +1856,9 @@ _139 verses containing ANSWER_
 * `Job 25:1` Then Bildad the Shuhite *_answered_* and said,
 * `Job 26:1` But Job *_answered_* and said,
 * `Job 32:6` And Elihu the son of Barachel the Buzite *_answered_* and said, "I am young, and you are very old; therefore, I was afraid and dared not show you my opinion.
-* `Job 32:12` I even attended to you, and behold, there was none of you who convinced Job, or who *_answered_* his words,
+* `Job 32:12` I even attended to you, and behold, there was none of you who convinced Job or who *_answered_* his words,
 * `Job 32:15` They were amazed. They *_answered_* no more. They left off speaking.
-* `Job 32:16` Seeing that I had waited (for they did not speak, but stood still, and *_answered_* no more),
+* `Job 32:16` Seeing that I had waited (for they did not speak, but stood still and *_answered_* no more),
 * `Job 34:1` Furthermore, Elihu *_answered_* and said,
 * `Job 38:1` Then the LORD *_answered_* Job out of the whirlwind and said,
 * `Job 40:1` Moreover, the LORD *_answered_* Job and said,
@@ -2620,7 +2620,7 @@ _1 verse containing ANXIOUSLY_
 * `Job 25:3` Is there *_any_* number to his armies? And upon whom does his light not arise?
 * `Job 31:7` If my step has turned out of the way and my heart walked after my eyes, and if *_any_* blot has cleaved to my hands,
 * `Job 31:17` Or have eaten my morsel myself alone, and the fatherless has not eaten *_any_* of it
-* `Job 31:19` If I have seen *_any_* perish for lack of clothing, or *_any_* poor without covering,
+* `Job 31:19` If I have seen *_any_* perish for lack of clothing or *_any_* poor without covering,
 * `Job 32:21` Do not let me, I pray you, accept *_any_* man's person, neither let me give flattering titles to man.
 * `Job 33:13` Why do you strive against him? For he does not give account of *_any_* of his matters.
 * `Job 34:27` Because they turned back from him and would not consider *_any_* of his ways,
