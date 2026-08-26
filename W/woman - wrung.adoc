@@ -2085,7 +2085,7 @@ _680 verses containing WORD_
 * `Job 36:4` For truly my *_words_* shall not be false. He who is perfect in knowledge is with you.
 * `Job 38:2` "Who is this who darkens counsel by *_words_* without knowledge?
 * `Job 41:3` Will he make many supplications to you? Will he speak soft *_words_* to you?
-* `Job 42:7` And it was so, that after the LORD had spoken these *_words_* to Job, the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has.
+* `Job 42:7` And it came to pass after the LORD had spoken these *_words_* to Job, that the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has.
 * `Psa 5:1` [To the Chief Musician upon Nehiloth. A Psalm of David.] Give ear to my *_words_*, O LORD. Consider my meditation.
 * `Psa 7:1` [Shiggaion of David: which he sang to the LORD concerning the *_words_* of Cush the Benjaminite.] O LORD my God, I put my trust in you. Save me from all those who persecute me, and deliver me,
 * `Psa 12:6` The *_words_* of the LORD are pure *_words_*, like silver tried in a furnace of earth, purified seven times.
@@ -2607,7 +2607,7 @@ _2 verses containing WORE_
 * `Job 14:15` You shall call, and I will answer you. You will have a desire for the *_work_* of your hands.
 * `Job 24:5` Behold, like wild donkeys in the desert, they go forth to their *_work_*, seeking for a prey. The wilderness yields food for them and for their children.
 * `Job 34:11` For the *_work_* of a man he shall render to him, and cause every man to find according to his ways.
-* `Job 34:19` How much less to him who does not accept the persons of princes, nor regards the rich more than the poor? For they all are the *_work_* of his hands.
+* `Job 34:19` How much less to him who does not accept the persons of princes nor regards the rich more than the poor? For they all are the *_work_* of his hands.
 * `Job 36:9` Then he shows them their *_work_* and their transgressions that they have exceeded.
 * `Job 36:24` Remember that you magnify his *_work_*, which men behold.
 * `Job 37:7` He seals up the hand of every man so that all men may know his *_work_*.
@@ -4041,6 +4041,7 @@ _73 verses containing WORTHY_
 * `Job 34:15` All flesh *_would_* perish together and man *_would_* return to dust.
 * `Job 34:27` Because they turned back from him and *_would_* not consider any of his ways,
 * `Job 36:16` Even so he *_would_* have enticed you out of distress into a broad place where there is no constraint, and that which should be set on your table *_would_* be full of fatness.
+* `Job 36:19` Will your riches or all the forces of your strength suffice so that you *_would_* not be in distress?
 * `Job 41:32` He makes a path to shine after him. One *_would_* think the deep to be hoary.
 * `Psa 14:7` Oh that the salvation of Israel *_would_* come out of Zion! When the LORD brings back the captivity of his people, Jacob shall rejoice and Israel shall be glad.
 * `Psa 22:8` "He trusted in the LORD that he *_would_* deliver him. Let him deliver him, seeing he delighted in him."
@@ -4300,7 +4301,7 @@ _73 verses containing WORTHY_
 * `Jde 1:18` That they told you, "There *_would_* be mockers in the last time who *_would_* walk after their own ungodly lusts."
 * `Rev 13:15` And he had power to give life to the image of the beast so that the image of the beast should both speak and cause as many as *_would_* not worship the image of the beast to be killed.
 
-_462 verses containing WOULD_
+_463 verses containing WOULD_
 
 == WOUND
 
@@ -4510,7 +4511,7 @@ _15 verses containing WRAPPED_
 * `Job 36:13` But the hypocrites in heart heap up *_wrath_*. They do not cry when he binds them.
 * `Job 36:18` Because there is *_wrath_*, beware lest he take you away with his stroke. Then a great ransom cannot deliver you.
 * `Job 40:11` Cast abroad the rage of your *_wrath_*. Behold everyone who is proud and abase him.
-* `Job 42:7` And it was so, that after the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, "My *_wrath_* is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has.
+* `Job 42:7` And it came to pass after the LORD had spoken these words to Job, that the LORD said to Eliphaz the Temanite, "My *_wrath_* is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has.
 * `Psa 2:5` Then he shall speak to them in his *_wrath_* and trouble them in his sore displeasure.
 * `Psa 2:12` Kiss the Son, lest he be angry, and you perish from the way, for his *_wrath_* may soon be kindled. Blessed are all those who put their trust in him.
 * `Psa 21:9` You shall put them into a fiery oven in the time of your anger. The LORD shall swallow them up in his *_wrath_*, and the fire shall devour them.

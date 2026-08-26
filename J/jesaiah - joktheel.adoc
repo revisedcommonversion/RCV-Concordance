@@ -2773,7 +2773,7 @@ _43 verses containing JOASH_
 * `*_Job_* 34:16` If now you have understanding, hear this. Listen to the voice of my words.
 * `*_Job_* 34:17` Shall even he who hates right govern? And will you condemn him who is most just?
 * `*_Job_* 34:18` Is it fit to say to a king, 'You are wicked,' and to princes, 'You are ungodly'?
-* `*_Job_* 34:19` How much less to him who does not accept the persons of princes, nor regards the rich more than the poor? For they all are the work of his hands.
+* `*_Job_* 34:19` How much less to him who does not accept the persons of princes nor regards the rich more than the poor? For they all are the work of his hands.
 * `*_Job_* 34:20` In a moment they shall die. And the people shall be troubled at midnight and pass away. And the mighty shall be taken away without the hand [of men].
 * `*_Job_* 34:21` For his eyes are upon the ways of man, and he sees all his goings.
 * `*_Job_* 34:22` There is no darkness nor shadow of death where the workers of iniquity may hide themselves.
@@ -2826,7 +2826,7 @@ _43 verses containing JOASH_
 * `*_Job_* 36:16` Even so he would have enticed you out of distress into a broad place where there is no constraint, and that which should be set on your table would be full of fatness.
 * `*_Job_* 36:17` But you have fulfilled the judgment of the wicked. Judgment and justice take hold of you.
 * `*_Job_* 36:18` Because there is wrath, beware lest he take you away with his stroke. Then a great ransom cannot deliver you.
-* `*_Job_* 36:19` Will he esteem your riches? No, not gold, nor all the forces of strength.
+* `*_Job_* 36:19` Will your riches or all the forces of your strength suffice so that you would not be in distress?
 * `*_Job_* 36:20` Do not desire the night when people are cut off in their place.
 * `*_Job_* 36:21` Take heed, do not regard iniquity, for this you have chosen rather than affliction.
 * `*_Job_* 36:22` Behold, God exalts by his power. Who teaches like him?
@@ -2874,7 +2874,7 @@ _43 verses containing JOASH_
 * `*_Job_* 38:7` When the morning stars sang together and all the sons of God shouted for joy?
 * `*_Job_* 38:8` Or who shut up the sea with doors when it broke forth as if it had issued out of the womb,
 * `*_Job_* 38:9` When I made a cloud its garment and thick darkness a swaddling cloth for it,
-* `*_Job_* 38:10` And broke up for it my decreed place and set bars and doors,
+* `*_Job_* 38:10` And broke up for it my decreed place and set bars and doors
 * `*_Job_* 38:11` And said, 'You shall come here, but no further, and your proud waves shall be stayed here'?
 * `*_Job_* 38:12` Have you commanded the morning since your days and caused the day-spring to know its place
 * `*_Job_* 38:13` So that it might take hold of the ends of earth and that the wicked might be shaken out of it?
@@ -2883,13 +2883,13 @@ _43 verses containing JOASH_
 * `*_Job_* 38:16` Have you entered into the springs of the sea? Or have you walked in the search of the depth?
 * `*_Job_* 38:17` Have the gates of death been opened to you? Or have you seen the doors of the shadow of death?
 * `*_Job_* 38:18` Have you perceived the breadth of the earth? Declare if you know it all.
-* `*_Job_* 38:19` Where is the way where light dwells? And as for darkness, where is its place,
+* `*_Job_* 38:19` Where is the way where light dwells? And as for darkness, where is its place
 * `*_Job_* 38:20` That you should take it to its bound and that you should know the paths to its house?
 * `*_Job_* 38:21` Do you know it because you were born then, or because the number of your days is great?
 * `*_Job_* 38:22` Have you entered into the treasures of the snow? Or have you seen the treasures of the hail,
 * `*_Job_* 38:23` Which I have reserved against the time of trouble, against the day of battle and war?
 * `*_Job_* 38:24` By what way is the light parted, which scatters the east wind upon the earth?
-* `*_Job_* 38:25` Who has divided a watercourse for the overflowing of waters or a way for the lightning of thunder,
+* `*_Job_* 38:25` Who has divided a watercourse for the overflowing of waters, or a way for the lightning of thunder,
 * `*_Job_* 38:26` To cause it to rain on the earth where no man is, on the wilderness in which there is no man,
 * `*_Job_* 38:27` To satisfy the desolate and waste ground, and to cause the bud of the tender herb to spring forth?
 * `*_Job_* 38:28` Has the rain a father? Or who has begotten the drops of the dew?
@@ -2920,8 +2920,8 @@ _43 verses containing JOASH_
 * `*_Job_* 39:12` Will you believe him that he will bring home your seed and gather it into your barn?
 * `*_Job_* 39:13` Did you give the beautiful wings to the peacocks, or wings and feathers to the ostrich,
 * `*_Job_* 39:14` Which leaves her eggs in the earth, warms them in the dust,
-* `*_Job_* 39:15` And forgets that the foot may crush them, or that the wild beast may break them?
-* `*_Job_* 39:16` She is hardened against her young ones as though they were not hers. Her labor is in vain without fear,
+* `*_Job_* 39:15` And forgets that the foot may crush them or that the wild beast may break them?
+* `*_Job_* 39:16` She is hardened against her young ones as though they were not hers. Her labor is in vain without fear
 * `*_Job_* 39:17` Because God has withheld wisdom from her, neither has he imparted to her understanding.
 * `*_Job_* 39:18` When she lifts herself on high, she scorns the horse and his rider.
 * `*_Job_* 39:19` Have you given the horse strength? Have you clothed his neck with thunder?
@@ -2961,17 +2961,17 @@ _43 verses containing JOASH_
 * `*_Job_* 40:23` Behold, he drinks up a river and does not hasten. He trusts that he can draw up the Jordan into his mouth.
 * `*_Job_* 40:24` He takes it with his eyes. His nose pierces through snares."
 * `*_Job_* 41:1` "Can you draw out leviathan with a hook, or his tongue with a cord which you let down?
-* `*_Job_* 41:2` Can you put a hook into his nose, or bore his jaw through with a thorn?
+* `*_Job_* 41:2` Can you put a hook into his nose or bore his jaw through with a thorn?
 * `*_Job_* 41:3` Will he make many supplications to you? Will he speak soft words to you?
 * `*_Job_* 41:4` Will he make a covenant with you? Will you take him for a servant forever?
 * `*_Job_* 41:5` Will you play with him as with a bird? Or will you bind him for your young women?
 * `*_Job_* 41:6` Shall the traders make a banquet of him? Shall they part him among the merchants?
-* `*_Job_* 41:7` Can you fill his skin with barbed irons, or his head with fish spears?
+* `*_Job_* 41:7` Can you fill his skin with barbed irons or his head with fish spears?
 * `*_Job_* 41:8` Lay your hand upon him. Remember the battle, and do so no more.
 * `*_Job_* 41:9` Behold, the hope of him is in vain. Shall one not be cast down even at the sight of him?
 * `*_Job_* 41:10` No one is so fierce that he dare rouse him. Who then is able to stand before me?
 * `*_Job_* 41:11` Who has first benefited me that I should repay him? Whatever is under the whole heaven is mine.
-* `*_Job_* 41:12` I will not conceal his parts, nor his power, nor his orderly proportion.
+* `*_Job_* 41:12` I will not conceal his parts, his power, or his orderly proportion.
 * `*_Job_* 41:13` Who can discover the face of his garment? Or who can come to him with his double bridle?
 * `*_Job_* 41:14` Who can open the doors of his face? His teeth are terrible around.
 * `*_Job_* 41:15` His scales are his pride, shut together as with a compact seal.
@@ -2992,7 +2992,7 @@ _43 verses containing JOASH_
 * `*_Job_* 41:30` Sharp stones are under him. He spreads sharp pointed things upon the mire.
 * `*_Job_* 41:31` He makes the deep to boil like a pot. He makes the sea like a pot of ointment.
 * `*_Job_* 41:32` He makes a path to shine after him. One would think the deep to be hoary.
-* `*_Job_* 41:33` Upon earth there is nothing like him, who is made without fear.
+* `*_Job_* 41:33` Upon earth there is nothing like him, being one who is made without fear.
 * `*_Job_* 41:34` He beholds all high things. He is a king over all the children of pride."
 * `*_Job_* 42:1` Then *_Job_* answered the LORD and said,
 * `*_Job_* 42:2` "I know that you can do everything and that no thought can be withheld from you.
@@ -3000,7 +3000,7 @@ _43 verses containing JOASH_
 * `*_Job_* 42:4` Hear, I implore you, and I will speak. I will ask of you, and you declare to me.
 * `*_Job_* 42:5` I have heard of you by the hearing of the ear, but now my eye sees you.
 * `*_Job_* 42:6` Therefore, I abhor myself and repent in dust and ashes."
-* `*_Job_* 42:7` And it was so, that after the LORD had spoken these words to *_Job_*, the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant *_Job_* has.
+* `*_Job_* 42:7` And it came to pass after the LORD had spoken these words to *_Job_*, that the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant *_Job_* has.
 * `*_Job_* 42:8` Now therefore, take for yourselves seven bulls and seven rams, go to my servant *_Job_*, and offer for yourselves a burnt-offering. And my servant *_Job_* shall pray for you, for I will accept him, lest I deal with you after your folly, in that you have not spoken about me the thing which is right, like my servant *_Job_*."
 * `*_Job_* 42:9` So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did according as the LORD commanded them. The LORD also accepted *_Job_*.
 * `*_Job_* 42:10` And the LORD turned the captivity of *_Job_* when he prayed for his friends. The LORD also gave *_Job_* twice as much as he had before.
@@ -3009,7 +3009,7 @@ _43 verses containing JOASH_
 * `*_Job_* 42:13` He had also seven sons and three daughters.
 * `*_Job_* 42:14` And he called the name of the first Jemima, and the name of the second Kezia, and the name of the third Keren-happuch.
 * `*_Job_* 42:15` And in all the land no women were found so fair as the daughters of *_Job_*. And their father gave them inheritance among their brothers.
-* `*_Job_* 42:16` After this *_Job_* lived one hundred and forty years and saw his sons and his sons' sons, even four generations.
+* `*_Job_* 42:16` After this, *_Job_* lived one hundred and forty years and saw his sons and his sons' sons, even four generations.
 * `*_Job_* 42:17` And *_Job_* died, being old and full of days.
 * `Ezk 14:14` Though these three men, Noah, Daniel, and *_Job_*, were in it, they should deliver their own souls only by their righteousness," says the Lord GOD.
 * `Ezk 14:20` Though Noah, Daniel, and *_Job_* were in it, as I live," says the Lord GOD, "they shall deliver neither son nor daughter. They shall deliver only their own souls by their righteousness."
