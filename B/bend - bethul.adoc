@@ -571,7 +571,7 @@ _1 verse containing BESETS_
 * `Jdg 6:37` Behold, I will put a fleece of wool on the floor. And if the dew is on the fleece only, and it is dry upon all the earth *_beside_* it, then I shall know that you will save Israel by my hand, as you have said."
 * `Jdg 7:1` Then Jerubbaal (who is Gideon) and all the people who were with him rose early and encamped *_beside_* the well of Harod. And the host of the Midianites were on the north side of them in the valley by the hill of Moreh.
 * `Jdg 20:36` So the children of Benjamin saw that they were smitten, for the men of Israel gave place to the Benjaminites because they trusted in the ambushers which they had set *_beside_* Gibeah.
-* `Rth 2:14` And Boaz said to her, "At meal-time, come here and eat some of the bread and dip your morsel in the vinegar." And she sat *_beside_* the reapers, and he gave her parched grain, and she ate, was satisfied, and had some left over.
+* `Rth 2:14` And Boaz said to her, "At meal-time, come here and eat some of the bread and dip your morsel in the vinegar." So she sat *_beside_* the reapers, and he gave her parched grain. And she ate and was satisfied and had some left over.
 * `1Sa 4:1` And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle and encamped *_beside_* Eben-ezer. And the Philistines encamped in Aphek.
 * `1Sa 19:3` And I will go out and stand *_beside_* my father in the field where you are and I will speak with my father about you. And what I see, that I will tell you."
 * `2Sa 13:23` And it came to pass after two full years, that Absalom had sheep-shearers in Baal-hazor, which is *_beside_* Ephraim, and Absalom invited all the king's sons.
@@ -912,9 +912,9 @@ _1 verse containing BETEN_
 * `Jdg 19:18` And he said to him, "We are passing from *_Beth_*-lehem-Judah toward the side of mount Ephraim. I am from there. And I went to *_Beth_*-lehem-judah, but I am now going to the house of the LORD. And there is no man who receives me into his house.
 * `Jdg 21:19` Then they said, "Behold, there is a yearly feast of the LORD in Shiloh in a place which is on the north side of *_Beth_*-el, on the east side of the highway that goes up from *_Beth_*-el to Shechem, and on the south of Lebonah."
 * `Rth 1:1` Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of *_Beth_*-lehem-judah went to dwell in the country of Moab—he, his wife, and his two sons.
-* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of *_Beth_*-lehem-judah. And they came into the country of Moab and continued there.
-* `Rth 1:19` So the two of them went until they came to *_Beth_*-lehem. And it came to pass, when they had come to *_Beth_*-lehem, that all the city was stirred because of them, and they said, "Is this Naomi?"
-* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. And they came to *_Beth_*-lehem in the beginning of barley-harvest.
+* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion. They were Ephrathites of *_Beth_*-lehem-judah. And they came into the country of Moab and continued there.
+* `Rth 1:19` So the two of them went until they came to *_Beth_*-lehem. And it came to pass when they had come to *_Beth_*-lehem, that all the city was stirred because of them, and they said, "Is this Naomi?"
+* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. And they came to *_Beth_*-lehem at the beginning of the barley-harvest.
 * `Rth 2:4` And behold, Boaz came from *_Beth_*-lehem and said to the reapers, "May the LORD be with you." And they answered him, "May the LORD bless you."
 * `Rth 4:11` And all the people who were in the gate and the elders said, "We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, both of whom built the house of Israel. And may you do worthily in Ephratah and be famous in *_Beth_*-lehem.
 * `1Sa 6:9` And behold, if it goes up by the way of his own border to *_Beth_*-shemesh, then he has done us this great evil, but if not, then we shall know that it is not his hand that smote us. It was a chance that happened to us."
@@ -1288,9 +1288,9 @@ _1 verse containing BETH-LEBAOTH_
 * `Jdg 19:2` And his concubine played the harlot against him and went away from him to her father's house to *_Beth-lehem_*-judah, and was there for four whole months.
 * `Jdg 19:18` And he said to him, "We are passing from *_Beth-lehem_*-Judah toward the side of mount Ephraim. I am from there. And I went to *_Beth-lehem_*-judah, but I am now going to the house of the LORD. And there is no man who receives me into his house.
 * `Rth 1:1` Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of *_Beth-lehem_*-judah went to dwell in the country of Moab—he, his wife, and his two sons.
-* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of *_Beth-lehem_*-judah. And they came into the country of Moab and continued there.
-* `Rth 1:19` So the two of them went until they came to *_Beth-lehem_*. And it came to pass, when they had come to *_Beth-lehem_*, that all the city was stirred because of them, and they said, "Is this Naomi?"
-* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. And they came to *_Beth-lehem_* in the beginning of barley-harvest.
+* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion. They were Ephrathites of *_Beth-lehem_*-judah. And they came into the country of Moab and continued there.
+* `Rth 1:19` So the two of them went until they came to *_Beth-lehem_*. And it came to pass when they had come to *_Beth-lehem_*, that all the city was stirred because of them, and they said, "Is this Naomi?"
+* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. And they came to *_Beth-lehem_* at the beginning of the barley-harvest.
 * `Rth 2:4` And behold, Boaz came from *_Beth-lehem_* and said to the reapers, "May the LORD be with you." And they answered him, "May the LORD bless you."
 * `Rth 4:11` And all the people who were in the gate and the elders said, "We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, both of whom built the house of Israel. And may you do worthily in Ephratah and be famous in *_Beth-lehem_*.
 * `1Sa 16:4` And Samuel did that which the LORD spoke and came to *_Beth-lehem_*. And the elders of the town trembled at his coming and said, "Do you come peaceably?"
@@ -1327,7 +1327,7 @@ _39 verses containing BETH-LEHEM_
 * `Jdg 19:2` And his concubine played the harlot against him and went away from him to her father's house to *_Beth-lehem-judah_*, and was there for four whole months.
 * `Jdg 19:18` And he said to him, "We are passing from *_Beth-lehem-Judah_* toward the side of mount Ephraim. I am from there. And I went to *_Beth-lehem-judah_*, but I am now going to the house of the LORD. And there is no man who receives me into his house.
 * `Rth 1:1` Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of *_Beth-lehem-judah_* went to dwell in the country of Moab—he, his wife, and his two sons.
-* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of *_Beth-lehem-judah_*. And they came into the country of Moab and continued there.
+* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion. They were Ephrathites of *_Beth-lehem-judah_*. And they came into the country of Moab and continued there.
 * `1Sa 17:12` Now David was the son of that Ephrathite of *_Beth-lehem-judah_*, whose name was Jesse, who had eight sons and was an old man in the days of Saul and aged among men.
 
 _9 verses containing BETH-LEHEM-JUDAH_

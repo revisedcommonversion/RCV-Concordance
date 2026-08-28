@@ -2823,11 +2823,11 @@ _1 verse containing GLEAM_
 * `Lev 19:10` And you shall not *_glean_* your vineyard, neither shall you gather every grape of your vineyard. You shall leave them for the poor and stranger. I am the LORD your God.
 * `Deu 24:21` "When you gather the grapes of your vineyard, you shall not *_glean_* it afterward. It shall be for the stranger, for the fatherless, and for the widow.
 * `Rth 2:2` And Ruth the Moabitess said to Naomi, "Let me now go to the field and *_glean_* heads of grain after him in whose sight I shall find grace." And she said to her, "Go, my daughter."
-* `Rth 2:7` And she said, 'I pray you, let me *_glean_* and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, and she rested a little in the house."
+* `Rth 2:7` And she said, 'I pray you, let me *_glean_* and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, except that she rested a little in the shelter."
 * `Rth 2:8` Then Boaz said to Ruth, "Listen, my daughter. Do not go to *_glean_* in another field, neither go from here, but abide here close by my young women.
 * `Rth 2:15` And when she had risen to *_glean_*, Boaz commanded his young men, saying, "Let her *_glean_* even among the sheaves, and do not reproach her.
 * `Rth 2:16` And also let some of the handfuls fall on purpose for her, and leave them so that she may *_glean_* them. And do not rebuke her."
-* `Rth 2:23` So she kept close by the young women of Boaz to *_glean_* until the end of barley-harvest and of wheat-harvest, and dwelt with her mother-in-law.
+* `Rth 2:23` So she kept close by the young women of Boaz to *_glean_* until the end of the barley-harvest and of the wheat-harvest, and she dwelt with her mother-in-law.
 * `Jer 6:9` Thus says the LORD of hosts: "They shall thoroughly *_glean_* the remnant of Israel as a vine. Turn back your hand like a grape-gatherer into the baskets."
 
 _9 verses containing GLEAN_
@@ -2835,10 +2835,10 @@ _9 verses containing GLEAN_
 == GLEANED
 
 * `Jdg 20:45` And they turned and fled toward the wilderness to the rock of Rimmon. And they *_gleaned_* five thousand of them in the highways, and pursued hard after them to Gidom and slew two thousand of them.
-* `Rth 2:3` And she went, and came and *_gleaned_* in the field after the reapers. And she happened to come to a part of the field belonging to Boaz, who was of the kindred of Elimelech.
+* `Rth 2:3` And she went and came and *_gleaned_* in the field after the reapers. And she happened to come to a part of the field belonging to Boaz, who was of the kindred of Elimelech.
 * `Rth 2:17` So she *_gleaned_* in the field until evening and beat out that which she had *_gleaned_*, and it was about an ephah of barley.
 * `Rth 2:18` And she took it and went into the city. And her mother-in-law saw what she had *_gleaned_*. And she brought forth and gave to her what she had reserved after she was satisfied.
-* `Rth 2:19` And her mother-in-law said to her, "Where have you *_gleaned_* today? And where have you labored? Blessed is he who took knowledge of you." And she revealed to her mother-in-law with whom she had worked, and said, "The man's name with whom I worked today is Boaz."
+* `Rth 2:19` And her mother-in-law said to her, "Where have you *_gleaned_* today? And where have you labored? Blessed is he who took knowledge of you." And she revealed to her mother-in-law with whom she had worked and said, "The man's name with whom I worked today is Boaz."
 
 _5 verses containing GLEANED_
 

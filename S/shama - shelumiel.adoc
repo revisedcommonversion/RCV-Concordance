@@ -631,7 +631,7 @@ _8 verses containing SHEATH_
 == SHEAVES
 
 * `Gen 37:7` For behold, we were binding *_sheaves_* in the field, and behold, my sheaf arose and also stood upright, and behold, your *_sheaves_* stood around and made obeisance to my sheaf."
-* `Rth 2:7` And she said, 'I pray you, let me glean and gather after the reapers among the *_sheaves_*.' So she came and has continued even from the morning until now, and she rested a little in the house."
+* `Rth 2:7` And she said, 'I pray you, let me glean and gather after the reapers among the *_sheaves_*.' So she came and has continued even from the morning until now, except that she rested a little in the shelter."
 * `Rth 2:15` And when she had risen to glean, Boaz commanded his young men, saying, "Let her glean even among the *_sheaves_*, and do not reproach her.
 * `Neh 13:15` In those days I saw in Judah some treading wine presses on the sabbath, bringing in *_sheaves_*, and lading donkeys, and also wine, grapes, figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day. And I testified against them on the day they sold provisions.
 * `Psa 126:6` He who goes forth and weeps, bearing precious seed, shall doubtless return with rejoicing, bringing his *_sheaves_* with him.
@@ -1410,10 +1410,11 @@ _1 verse containing SHELOMOTH_
 
 == SHELTER
 
+* `Rth 2:7` And she said, 'I pray you, let me glean and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, except that she rested a little in the *_shelter_*."
 * `Job 24:8` They are wet with the showers of the mountains and embrace the rock for lack of a *_shelter_*.
 * `Psa 61:3` For you have been a *_shelter_* for me and a strong tower from the enemy.
 
-_2 verses containing SHELTER_
+_3 verses containing SHELTER_
 
 == SHELTERED
 

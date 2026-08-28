@@ -1893,34 +1893,34 @@ _1 verse containing SAFFRON_
 * `Rth 1:10` And they *_said_* to her, "Surely we will return with you to your people."
 * `Rth 1:11` And Naomi *_said_*, "Turn back, my daughters. Why will you go with me? Shall I bear more sons so that they may be your husbands?
 * `Rth 1:15` And she *_said_*, "Behold, your sister-in-law has gone back to her people and to her gods. Follow your sister-in-law."
-* `Rth 1:16` And Ruth *_said_*, "Do not entreat me to leave you, or to return from following you. For where you go, I will go, and where you lodge, I will lodge. Your people shall be my people and your God my God.
-* `Rth 1:19` So the two of them went until they came to Beth-lehem. And it came to pass, when they had come to Beth-lehem, that all the city was stirred because of them, and they *_said_*, "Is this Naomi?"
+* `Rth 1:16` And Ruth *_said_*, "Do not entreat me to leave you or to return from following you. For where you go, I will go, and where you lodge, I will lodge. Your people shall be my people and your God my God.
+* `Rth 1:19` So the two of them went until they came to Beth-lehem. And it came to pass when they had come to Beth-lehem, that all the city was stirred because of them, and they *_said_*, "Is this Naomi?"
 * `Rth 1:20` And she *_said_* to them, "Do not call me Naomi. Call me Mara, for the Almighty has dealt very bitterly with me.
 * `Rth 2:2` And Ruth the Moabitess *_said_* to Naomi, "Let me now go to the field and glean heads of grain after him in whose sight I shall find grace." And she *_said_* to her, "Go, my daughter."
 * `Rth 2:4` And behold, Boaz came from Beth-lehem and *_said_* to the reapers, "May the LORD be with you." And they answered him, "May the LORD bless you."
 * `Rth 2:5` Then Boaz *_said_* to his servant who was set over the reapers, "Whose young woman is this?"
 * `Rth 2:6` And the servant who was set over the reapers answered and *_said_*, "It is the young Moabite woman who came back with Naomi from the country of Moab.
-* `Rth 2:7` And she *_said_*, 'I pray you, let me glean and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, and she rested a little in the house."
+* `Rth 2:7` And she *_said_*, 'I pray you, let me glean and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, except that she rested a little in the shelter."
 * `Rth 2:8` Then Boaz *_said_* to Ruth, "Listen, my daughter. Do not go to glean in another field, neither go from here, but abide here close by my young women.
-* `Rth 2:10` Then she fell on her face and bowed herself to the ground, and *_said_* to him, "Why have I found grace in your eyes that you should take knowledge of me, seeing I am a stranger?"
+* `Rth 2:10` Then she fell on her face and bowed herself to the ground and *_said_* to him, "Why have I found grace in your eyes that you should take knowledge of me, seeing I am a stranger?"
 * `Rth 2:11` And Boaz answered and *_said_* to her, "It has fully been shown to me all that you have done to your mother-in-law since the death of your husband, and how you have left your father, your mother, and the land of your nativity and have come to a people which you did not know before.
 * `Rth 2:13` Then she *_said_*, "Let me find favor in your sight, my lord, for you have comforted me and you have spoken kindly to your servant, though I am not like one of your women-servants."
-* `Rth 2:14` And Boaz *_said_* to her, "At meal-time, come here and eat some of the bread and dip your morsel in the vinegar." And she sat beside the reapers, and he gave her parched grain, and she ate, was satisfied, and had some left over.
-* `Rth 2:19` And her mother-in-law *_said_* to her, "Where have you gleaned today? And where have you labored? Blessed is he who took knowledge of you." And she revealed to her mother-in-law with whom she had worked, and *_said_*, "The man's name with whom I worked today is Boaz."
+* `Rth 2:14` And Boaz *_said_* to her, "At meal-time, come here and eat some of the bread and dip your morsel in the vinegar." So she sat beside the reapers, and he gave her parched grain. And she ate and was satisfied and had some left over.
+* `Rth 2:19` And her mother-in-law *_said_* to her, "Where have you gleaned today? And where have you labored? Blessed is he who took knowledge of you." And she revealed to her mother-in-law with whom she had worked and *_said_*, "The man's name with whom I worked today is Boaz."
 * `Rth 2:20` And Naomi *_said_* to her daughter-in-law, "Blessed is he of the LORD, who has not left off his kindness to the living and to the dead." And Naomi *_said_* to her, "The man is near of kin to us, one of our next kinsmen."
 * `Rth 2:21` And Ruth the Moabitess *_said_*, "He also *_said_* to me, 'You shall keep close by my young men until they have ended all my harvest.'"
-* `Rth 2:22` And Naomi *_said_* to Ruth her daughter-in-law, "It is good, my daughter, that you should go out with his young women, and that they not meet you in any other field."
+* `Rth 2:22` And Naomi *_said_* to Ruth her daughter-in-law, "It is good, my daughter, that you should go out with his young women and that they not meet you in any other field."
 * `Rth 3:1` Then Naomi her mother-in-law *_said_* to her, "My daughter, shall I not seek rest for you so that it may be well with you?
 * `Rth 3:5` And she *_said_* to her, "All that you say to me I will do."
 * `Rth 3:9` And he *_said_*, "Who are you?" And she answered, "I am Ruth your servant. Therefore, spread your skirt over your servant, for you are a near kinsman."
 * `Rth 3:10` And he *_said_*, "Blessed are you of the LORD, my daughter. For you have shown more kindness in the latter end than at the beginning because you did not follow young men, whether poor or rich.
 * `Rth 3:14` And she lay at his feet until the morning. And she rose before one could know another. And he *_said_*, "Do not let it be known that a woman came to the floor."
-* `Rth 3:15` Also he *_said_*, "Bring the veil that you have upon you and hold it." And when she held it, he measured six measures of barley and laid it on her. And she went into the city.
+* `Rth 3:15` He also *_said_*, "Bring the veil that you have upon you and hold it." And when she held it, he measured six measures of barley and laid it on her. And she went into the city.
 * `Rth 3:16` And when she came to her mother-in-law, she *_said_*, "How did it go, my daughter?" And she told her all that the man had done to her.
 * `Rth 3:17` And she *_said_*, "He gave me these six measures of barley, for he *_said_* to me, 'Do not go empty to your mother-in-law.'"
-* `Rth 3:18` Then she *_said_*, "Sit still, my daughter, until you know how the matter will fall. For the man will not be in rest until he has finished the thing this day."
+* `Rth 3:18` Then she *_said_*, "Sit still, my daughter, until you know how the matter will fall. For the man will not rest until he has finished the thing this day."
 * `Rth 4:1` Then Boaz went up to the gate and sat down there. And behold, the kinsman of whom Boaz spoke came by. And he *_said_* to him, "Ho, such a one! Turn aside and sit down here." And he turned aside and sat down.
-* `Rth 4:2` And he took ten men from the elders of the city, and *_said_*, "Sit down here." And they sat down.
+* `Rth 4:2` And he took ten men from the elders of the city and *_said_*, "Sit down here." And they sat down.
 * `Rth 4:3` And he *_said_* to the kinsman, "Naomi, who has come back out of the country of Moab, sells a parcel of land, which was our brother Elimelech's.
 * `Rth 4:4` And I thought to advertise it to you, saying, 'Buy it before the inhabitants and before the elders of my people.' If you will redeem it, redeem it. But if you will not redeem it, then tell me so that I may know. For there is no one to redeem it besides you, and I am after you." And he *_said_*, "I will redeem it."
 * `Rth 4:5` Then Boaz *_said_*, "The day you buy the field from the hand of Naomi, you must also accept Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance."

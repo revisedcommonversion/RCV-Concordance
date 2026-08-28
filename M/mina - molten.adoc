@@ -1204,10 +1204,10 @@ _1 verse containing MNASON_
 * `Jdg 11:18` Then they went along through the wilderness and compassed the land of Edom and the land of *_Moab_*, came by the east side of the land of *_Moab_*, and pitched on the other side of Arnon, but did not come within the border of *_Moab_*, for Arnon was the border of *_Moab_*.
 * `Jdg 11:25` And now are you anything better than Balak the son of Zippor king of *_Moab_*? Did he ever strive against Israel? Did he ever fight against them?
 * `Rth 1:1` Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to dwell in the country of *_Moab_*—he, his wife, and his two sons.
-* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of *_Moab_* and continued there.
+* `Rth 1:2` And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion. They were Ephrathites of Beth-lehem-judah. And they came into the country of *_Moab_* and continued there.
 * `Rth 1:4` And they took for themselves wives from the women of *_Moab_*: the name of one was Orpah and the name of the other Ruth. And they dwelt there about ten years.
 * `Rth 1:6` Then she arose with her daughters-in-law so that she might return from the country of *_Moab_*, for she had heard in the country of *_Moab_* how the LORD had visited his people in giving them bread.
-* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of *_Moab_*. And they came to Beth-lehem in the beginning of barley-harvest.
+* `Rth 1:22` So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of *_Moab_*. And they came to Beth-lehem at the beginning of the barley-harvest.
 * `Rth 2:6` And the servant who was set over the reapers answered and said, "It is the young Moabite woman who came back with Naomi from the country of *_Moab_*.
 * `Rth 4:3` And he said to the kinsman, "Naomi, who has come back out of the country of *_Moab_*, sells a parcel of land, which was our brother Elimelech's.
 * `1Sa 12:9` And when they forgot the LORD their God, he sold them into the hand of Sisera, who was captain of the host of Hazor, into the hand of the Philistines and into the hand of the king of *_Moab_*, and they fought against them.
@@ -1341,7 +1341,7 @@ _18 verses containing MOABITES_
 
 == MOABITESS
 
-* `Rth 1:22` So Naomi returned, and Ruth the *_Moabitess_* her daughter-in-law with her, who returned from the country of Moab. And they came to Beth-lehem in the beginning of barley-harvest.
+* `Rth 1:22` So Naomi returned, and Ruth the *_Moabitess_* her daughter-in-law with her, who returned from the country of Moab. And they came to Beth-lehem at the beginning of the barley-harvest.
 * `Rth 2:2` And Ruth the *_Moabitess_* said to Naomi, "Let me now go to the field and glean heads of grain after him in whose sight I shall find grace." And she said to her, "Go, my daughter."
 * `Rth 2:21` And Ruth the *_Moabitess_* said, "He also said to me, 'You shall keep close by my young men until they have ended all my harvest.'"
 * `Rth 4:5` Then Boaz said, "The day you buy the field from the hand of Naomi, you must also accept Ruth the *_Moabitess_*, the wife of the dead, to raise up the name of the dead upon his inheritance."
