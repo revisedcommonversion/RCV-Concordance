@@ -2042,11 +2042,12 @@ _1 verse containing LIGN-ALOES_
 * `Jer 52:22` And a capital of brass was upon it, and the height of one capital was five cubits, with net-work and pomegranates upon the capitals around, all of brass. The second pillar and the pomegranates were *_like_* these.
 * `Lam 1:1` [ALEPH] How the city sits solitary that was full of people! How she has become *_like_* a widow! She who was great among the nations and princess among the provinces, how she has become tributary!
 * `Lam 1:6` [VAV] And from the daughter of Zion all her beauty has departed. Her princes have become *_like_* bucks that find no pasture, and they have gone without strength before the pursuer.
-* `Lam 1:12` [LAMED] Is it nothing to you, all you who pass by? Behold, and see if there is any sorrow *_like_* my sorrow, which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
+* `Lam 1:12` [LAMED] Is it nothing to you, all you who pass by? Behold, and see if there is any sorrow *_like_* my sorrow which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
 * `Lam 1:21` [SHIN] They have heard that I sigh. There is no one to comfort me. All my enemies have heard of my trouble. They are glad that you have done it. You will bring the day that you have called, and they shall be *_like_* me.
 * `Lam 2:3` [GIMEL] He has cut off in his fierce anger all the horn of Israel. He has drawn back his right hand from before the enemy, and he burned against Jacob *_like_* a flaming fire, which devours on every side.
-* `Lam 2:4` [DALET] He has bent his bow *_like_* an enemy. He stood with his right hand as an adversary and slew all who were pleasant to the eye in the tabernacle of the daughter of Zion. He poured out his fury *_like_* fire.
+* `Lam 2:4` [DALET] He has bent his bow *_like_* an enemy. He stood with his right hand *_like_* an adversary and slew all who were pleasant to the eye in the tabernacle of the daughter of Zion. He poured out his fury *_like_* fire.
 * `Lam 2:5` [HE] The Lord was *_like_* an enemy. He has swallowed up Israel. He has swallowed up all her palaces. He has destroyed his strongholds and has increased in the daughter of Judah mourning and lamentation.
+* `Lam 2:12` [LAMED] They say to their mothers, "Where is grain and wine?" when they swooned *_like_* the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 * `Lam 2:13` [MEM] What thing shall I take to witness for you? What thing shall I compare to you, O daughter of Jerusalem? What shall I equal to you so that I may comfort you, O virgin daughter of Zion? For your breach is great *_like_* the sea. Who can heal you?
 * `Lam 2:18` [TSADI] Their heart cried to the Lord, "O wall of the daughter of Zion, let tears run down *_like_* a river day and night. Give yourself no rest. Do not let the apple of your eye cease.
 * `Lam 2:19` [QOF] Arise, cry out in the night. In the beginning of the watches pour out your heart *_like_* water before the face of the Lord. Lift up your hands toward him for the life of your young children, who faint for hunger at the head of every street."
@@ -2056,6 +2057,7 @@ _1 verse containing LIGN-ALOES_
 * `Lam 4:3` [GIMEL] Even the jackals draw out the breast to nurse their young ones. The daughter of my people has become cruel, *_like_* the ostriches in the wilderness.
 * `Lam 4:7` [ZAYIN] Her Nazarites were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was *_like_* sapphire.
 * `Lam 4:8` [HET] Their visage is blacker than a coal. They are not known in the streets. Their skin cleaves to their bones. It is withered. It has become *_like_* a stick.
+* `Lam 4:14` [NUN] They have wandered *_like_* blind men in the streets. They have polluted themselves with blood so that men could not touch their garments.
 * `Lam 5:3` We are orphans and fatherless. Our mothers are *_like_* widows.
 * `Lam 5:10` Our skin was black *_like_* an oven because of the terrible famine.
 * `Ezk 1:4` And I looked, and behold, a whirlwind came out of the north, a great cloud, and a fire enfolding itself, and a brightness was around it, and from the midst of it something *_like_* the color of amber, from the midst of the fire.
@@ -2359,7 +2361,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_989 verses containing LIKE_
+_991 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -3073,7 +3075,7 @@ _3 verses containing LIP_
 * `Isa 57:19` I create the fruit of the *_lips_*. Peace, peace to him who is far off and to him who is near," says the LORD, "and I will heal him."
 * `Isa 59:3` For your hands are defiled with blood and your fingers with iniquity. Your *_lips_* have spoken lies, your tongue has uttered perverseness.
 * `Jer 17:16` As for me, I have not hastened from being a pastor to follow you, neither have I desired the woeful day. You know that which was uttered by my *_lips_* was right before you.
-* `Lam 3:62` The *_lips_* of those who rose up against me, and their device against me all the day.
+* `Lam 3:62` The *_lips_* of those who rose up against me and their device against me all the day.
 * `Ezk 24:17` Forbear to cry, make no mourning for the dead, bind the turban of your head upon you, put your shoes upon your feet, do not cover your *_lips_*, and do not eat the bread of men."
 * `Ezk 24:22` And you shall do as I have done. You shall not cover your *_lips_* nor eat the bread of men.
 * `Ezk 36:3` Therefore prophesy and say, 'Thus says the Lord GOD: "Because they have made you desolate and swallowed you up on every side, so that you might be a possession to the rest of the heathen, and you are taken up in the *_lips_* of talkers and are an infamy of the people"—

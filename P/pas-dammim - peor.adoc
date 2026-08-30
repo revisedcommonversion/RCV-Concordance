@@ -642,7 +642,7 @@ _12 verses containing PASHUR_
 * `Jer 52:3` For through the anger of the LORD it came to *_pass_* in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.
 * `Jer 52:4` And it came to *_pass_* in the ninth year of his reign, in the tenth month, on the tenth day of the month, that Nebuchadnezzar king of Babylon came—he and all his army—against Jerusalem. They encamped against it and built forts against it on every side.
 * `Jer 52:31` And it came to *_pass_* in the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month, that Evil-merodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah and brought him out of prison.
-* `Lam 1:12` [LAMED] Is it nothing to you, all you who *_pass_* by? Behold, and see if there is any sorrow like my sorrow, which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
+* `Lam 1:12` [LAMED] Is it nothing to you, all you who *_pass_* by? Behold, and see if there is any sorrow like my sorrow which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
 * `Lam 2:15` [SAMEKH] All who *_pass_* by clap their hands at you. They hiss and wag their head at the daughter of Jerusalem, saying, "Is this the city that men call The Perfection of Beauty, The Joy of the Whole Earth?"
 * `Lam 3:37` [MEM] Who is he who speaks and it comes to *_pass_* when the Lord does not command it?
 * `Lam 3:44` You have covered yourself with a cloud so that our prayer should not *_pass_* through.
@@ -1871,9 +1871,9 @@ _5 verses containing PAYMENT_
 * `Psa 25:17` [*_PE_*] The troubles of my heart are enlarged. O bring me out of my distresses.
 * `Psa 119:129` [*_PE_*] Your testimonies are wonderful; therefore, my soul keeps them.
 * `Pro 31:26` [*_PE_*] She opens her mouth with wisdom, and on her tongue is the law of kindness.
-* `Lam 1:17` [*_PE_*] Zion spreads forth her hands, and there is no one to comfort her. The LORD has commanded concerning Jacob, that his adversaries should be around him. Jerusalem has become an unclean thing among them.
+* `Lam 1:17` [*_PE_*] Zion spreads forth her hands, and there is no one to comfort her. The LORD has commanded concerning Jacob that his adversaries should be around him. Jerusalem has become an unclean thing among them.
 * `Lam 2:17` [*_PE_*] The LORD has done that which he had devised. He has fulfilled his word that he had commanded in the days of old. He has thrown down and has not pitied. He has caused your enemy to rejoice over you. He has set up the horn of your adversaries.
-* `Lam 3:49` [*_PE_*] My eye trickles down and does not cease without any intermission,
+* `Lam 3:49` [*_PE_*] My eye trickles down and does not cease without any intermission
 * `Lam 4:17` [*_PE_*] As for us, our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save us.
 
 _7 verses containing PE_
