@@ -1207,7 +1207,7 @@ _2 verses containing RESPITE_
 * `Pro 29:9` If a wise man contends with a foolish man, whether he rages or laughs, there is no *_rest_*.
 * `Pro 29:17` Correct your son and he shall give you *_rest_*. He shall even give delight to your soul.
 * `Ecc 2:23` For all his days are sorrows and his labor grief. Even his heart does not take *_rest_* in the night. This is also vanity.
-* `Ecc 6:5` Moreover, he has not seen the sun, nor known anything. This one has more *_rest_* than the other.
+* `Ecc 6:5` Moreover, he has not seen the sun or known anything. This one has more *_rest_* than the other.
 * `Sos 1:7` Tell me, O you whom my soul loves, where you feed, where you make your flock to *_rest_* at noon. For why should I be like one who turns aside by the flocks of your companions?
 * `Isa 7:19` And they shall come, and all of them shall *_rest_* in the desolate valleys, in the holes of the rocks, upon all thorns, and upon all bushes.
 * `Isa 10:19` And the *_rest_* of the trees of his forest shall be few so that a child may write them.
@@ -2032,7 +2032,7 @@ _259 verses containing RETURN_
 * `Psa 35:13` But as for me, when they were sick, my clothing was sackcloth. I humbled my soul with fasting, and my prayer *_returned_* into my own bosom.
 * `Psa 60:1` [To the Chief Musician upon Shushan-eduth. Michtam of David for Teaching: when he strove with Aram-naharaim and with Aram-zobah, when Joab *_returned_* and smote twelve thousand of Edom in the valley of salt.] O God, you have cast us off. You have scattered us. You have been displeased. O turn yourself to us again.
 * `Psa 78:34` When he slew them, they sought him. They *_returned_* and inquired early after God.
-* `Ecc 4:1` Thus I *_returned_*, and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter.
+* `Ecc 4:1` Thus I *_returned_* and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter.
 * `Ecc 4:7` Then I *_returned_*, and I saw vanity under the sun.
 * `Ecc 9:11` I *_returned_*, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill, but time and chance happens to them all.
 * `Isa 37:8` So Rabshakeh *_returned_* and found the king of Assyria warring against Libnah, for he had heard that he had departed from Lachish.

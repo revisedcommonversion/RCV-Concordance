@@ -778,12 +778,12 @@ _52 verses containing MORDECAI_
 * `Ecc 2:9` Thus I was great and increased *_more_* than all who were before me in Jerusalem, and also my wisdom remained with me.
 * `Ecc 2:15` Then I said in my heart, "As it happens to the fool, so it happens even to me. And why was I then *_more_* wise?" Then I said in my heart that this also is vanity.
 * `Ecc 2:16` For there is no remembrance of the wise *_more_* than of the fool forever, seeing that which now is in the days to come shall all be forgotten. And how does the wise man die? As the fool.
-* `Ecc 2:25` For who can eat, or who else can hasten to it *_more_* than I?
+* `Ecc 2:25` For who can eat or who else can hasten to it *_more_* than I?
 * `Ecc 4:2` Therefore, I praised the dead who are already dead *_more_* than the living who are still alive.
 * `Ecc 4:13` Better is a poor and a wise child, than an old and foolish king who will no *_more_* be admonished.
 * `Ecc 5:1` Keep your foot when you go to the house of God, and be *_more_* ready to hear than to give the sacrifice of fools, for they do not consider that they do evil.
-* `Ecc 6:5` Moreover, he has not seen the sun, nor known anything. This one has *_more_* rest than the other.
-* `Ecc 6:8` For what does the wise have *_more_* than the fool? What does the poor have, who knows how to walk before the living?
+* `Ecc 6:5` Moreover, he has not seen the sun or known anything. This one has *_more_* rest than the other.
+* `Ecc 6:8` For what does the wise have *_more_* than the fool? What does the poor have who knows how to walk before the living?
 * `Ecc 7:19` Wisdom strengthens the wise *_more_* than ten mighty men who are in the city.
 * `Ecc 7:26` And I find *_more_* bitter than death the woman whose heart is snares and nets, and her hands as bonds. Whoever pleases God shall escape from her, but the sinner shall be taken by her.
 * `Ecc 9:17` The words of wise men are heard in quiet *_more_* than the cry of him who rules among fools.
@@ -1145,7 +1145,7 @@ _3 verses containing MOREH_
 * `Psa 105:16` *_Moreover_*, he called for a famine upon the land. He broke the whole staff of bread.
 * `Ecc 3:16` And *_moreover_*, I saw under the sun the place of judgment, that wickedness was there, and the place of righteousness, that iniquity was there.
 * `Ecc 5:9` *_Moreover_*, the profit of the earth is for all. The king himself is served by the field.
-* `Ecc 6:5` *_Moreover_*, he has not seen the sun, nor known anything. This one has more rest than the other.
+* `Ecc 6:5` *_Moreover_*, he has not seen the sun or known anything. This one has more rest than the other.
 * `Ecc 12:9` And *_moreover_*, because the preacher was wise, he still taught the people knowledge. He even gave good heed, sought out, and set in order many proverbs.
 * `Isa 3:16` *_Moreover_*, the LORD says, "Because the daughters of Zion are haughty and walk with extended necks and wanton eyes, walking with short steps as they go and making a tinkling with their feet,
 * `Isa 7:10` *_Moreover_*, the LORD spoke again to Ahaz, saying,
