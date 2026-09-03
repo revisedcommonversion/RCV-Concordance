@@ -1159,7 +1159,7 @@
 * `Ecc 6:10` That which has been is named already, and it is known what *_man_* is, for he cannot contend with him who is mightier than he is.
 * `Ecc 6:11` Seeing there are many things that increase vanity, what is *_man_* the better?
 * `Ecc 6:12` For who knows what is good for *_man_* in this life, all the days of his vain life which he spends as a shadow? For who can tell a *_man_* what shall be after him under the sun?
-* `Ecc 7:5` It is better to hear the rebuke of the wise, than for a *_man_* to hear the song of fools.
+* `Ecc 7:5` It is better to hear the rebuke of the wise than for a *_man_* to hear the song of fools.
 * `Ecc 7:7` Surely oppression makes a wise *_man_* mad, and a gift destroys the heart.
 * `Ecc 7:14` In the day of prosperity be joyful, but in the day of adversity consider this: God also has set one over against the other, to the end that *_man_* should find nothing after him.
 * `Ecc 7:15` I have seen all things in the days of my vanity. There is a just *_man_* who perishes in his righteousness, and there is a wicked *_man_* who prolongs his life in his wickedness.
@@ -1182,7 +1182,7 @@
 * `Ecc 10:14` A fool is also full of words. A *_man_* cannot tell what shall be. And what shall be after him, who can tell him?
 * `Ecc 11:8` But if a *_man_* lives many years and rejoices in them all, yet let him remember the days of darkness, for they shall be many. All that comes is vanity.
 * `Ecc 11:9` Rejoice, O young *_man_*, in your youth, and let your heart cheer you in the days of your youth. Walk in the ways of your heart and in the sight of your eyes. But know that for all these things God will bring you into judgment.
-* `Ecc 12:5` When they are afraid of that which is high, and fears are in the way; when the almond tree flourishes, the locust is a burden, and desire fails. For *_man_* goes to his eternal home, and the mourners go throughout the streets.
+* `Ecc 12:5` When they are afraid of that which is high, and fears are in the way; when the almond tree flourishes, the locust is a burden, and desire fails—for *_man_* goes to his eternal home, and the mourners go throughout the streets;
 * `Ecc 12:13` Let us hear the conclusion of the whole matter. Fear God and keep his commandments, for this is the whole duty of *_man_*.
 * `Sos 3:8` They all hold swords, being expert in war. Every *_man_* has his sword upon his thigh because of fear in the night.
 * `Sos 8:7` Many waters cannot quench love, neither can the floods drown it. If a *_man_* would give all the substance of his house for love, it would utterly be despised.
@@ -3131,7 +3131,7 @@ _1 verse containing MANTLES_
 * `Ecc 11:1` Cast your bread upon the waters, for you shall find it after *_many_* days.
 * `Ecc 11:8` But if a man lives *_many_* years and rejoices in them all, yet let him remember the days of darkness, for they shall be *_many_*. All that comes is vanity.
 * `Ecc 12:9` And moreover, because the preacher was wise, he still taught the people knowledge. He even gave good heed, sought out, and set in order *_many_* proverbs.
-* `Ecc 12:12` And further, my son, be admonished by these: of making *_many_* books there is no end, and much study is a weariness of the flesh.
+* `Ecc 12:12` And further, my son, be admonished by these: of making *_many_* books there is no end, and much study is a weariness to the flesh.
 * `Sos 8:7` *_Many_* waters cannot quench love, neither can the floods drown it. If a man would give all the substance of his house for love, it would utterly be despised.
 * `Isa 1:15` And when you spread forth your hands, I will hide my eyes from you. Indeed, when you make *_many_* prayers, I will not hear. Your hands are full of blood.
 * `Isa 2:3` And *_many_* people shall go and say, "Come, and let us go up to the mountain of the LORD, to the house of the God of Jacob. And he will teach us his ways, and we will walk in his paths." For out of Zion the law shall go forth, and the word of the LORD from Jerusalem.
@@ -4312,7 +4312,7 @@ _1 verse containing MASTERIES_
 * `Exo 5:14` And the officers of the children of Israel, which Pharaoh's task-*_masters_* had set over them, were beaten and were demanded, "Why have you not fulfilled your task in making brick, both yesterday and today, as before?"
 * `Psa 123:2` Behold, as the eyes of servants look to the hand of their *_masters_*, and as the eyes of a woman-servant to the hand of her mistress, so our eyes wait upon the LORD our God until he has mercy upon us.
 * `Pro 25:13` As the cold of snow in the time of harvest, so is a faithful messenger to those who send him, for he refreshes the soul of his *_masters_*.
-* `Ecc 12:11` The words of the wise are as goads and as nails fastened by the *_masters_* of assemblies, which are given from one shepherd.
+* `Ecc 12:11` The words of the wise are like goads and like nails fastened by the *_masters_* of assemblies, which are given from one shepherd.
 * `Jer 27:4` And command them to say to their *_masters_*, "Thus says the LORD of hosts, the God of Israel—thus you shall say to your *_masters_*:
 * `Amo 4:1` Hear this word, you heifers of Bashan, who are in the mountain of Samaria, who oppress the poor, who crush the needy, who say to their *_masters_*, "Bring, and let us drink."
 * `Zph 1:9` In the same day I will also punish all those who leap on the threshold, who fill their *_masters_*' houses with violence and deceit.

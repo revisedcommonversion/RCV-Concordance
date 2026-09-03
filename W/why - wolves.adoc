@@ -644,7 +644,7 @@ _395 verses containing WHY_
 * `Ecc 7:15` I have seen all things in the days of my vanity. There is a just man who perishes in his righteousness, and there is a *_wicked_* man who prolongs his life in his wickedness.
 * `Ecc 7:17` Do not be exceedingly *_wicked_*, neither be foolish. Why should you die before your time?
 * `Ecc 8:10` And so I saw the *_wicked_* buried, who had come and gone from the holy place, and they were forgotten in the city where they had done so. This is also vanity.
-* `Ecc 8:13` But it will not be well with the *_wicked_*, neither will he prolong his days, which are as a shadow, because he does not fear before God.
+* `Ecc 8:13` But it will not be well with the *_wicked_*, neither will he prolong his days like a shadow, because he does not fear before God.
 * `Ecc 8:14` There is a vanity which is done upon the earth: there are just men, to whom it happens according to the work of the *_wicked_*, and there are *_wicked_* men, to whom it happens according to the work of the righteous. I said that this also is vanity.
 * `Ecc 9:2` All things come alike to all. There is one event to the righteous, to the *_wicked_*, to the good, to the clean, to the unclean, to him who sacrifices, and to him who does not sacrifice. As is the good, so is the sinner. As is he who swears, so is he who fears an oath.
 * `Isa 3:11` Woe to the *_wicked_*! It shall be ill with him, for the reward of his hands shall be given to him.
@@ -3276,10 +3276,10 @@ _2 verses containing WILES_
 * `Ecc 4:10` For if they fall, one *_will_* lift up his fellow. But woe to him who is alone when he falls, for he does not have another to help him to rise.
 * `Ecc 4:13` Better is a poor and a wise child, than an old and foolish king who *_will_* no more be admonished.
 * `Ecc 5:12` The sleep of a laboring man is sweet, whether he eats little or much, but the abundance of the rich *_will_* not allow him to sleep.
-* `Ecc 7:2` It is better to go to the house of mourning, than to go to the house of feasting, for that is the end of all men, and the living *_will_* lay it to his heart.
+* `Ecc 7:2` It is better to go to the house of mourning than to go to the house of feasting, for that is the end of all men, and the living *_will_* lay it to his heart.
 * `Ecc 7:23` All this I have proved by wisdom. I said, "I *_will_* be wise," but it was far from me.
 * `Ecc 8:12` Though a sinner does evil a hundred times and his days are prolonged, yet surely I know that it *_will_* be well with those who fear God, who fear before him.
-* `Ecc 8:13` But it *_will_* not be well with the wicked, neither *_will_* he prolong his days, which are as a shadow, because he does not fear before God.
+* `Ecc 8:13` But it *_will_* not be well with the wicked, neither *_will_* he prolong his days like a shadow, because he does not fear before God.
 * `Ecc 10:11` Surely the serpent *_will_* bite without enchantment, and a babbler is no better.
 * `Ecc 10:12` The words of a wise man's mouth are gracious, but the lips of a fool *_will_* swallow up himself.
 * `Ecc 10:20` Do not curse the king, not even in your thoughts, and do not curse the rich in your bed-chamber, for a bird of the air *_will_* carry the voice, and that which has wings *_will_* tell the matter.
@@ -6366,7 +6366,7 @@ _222 verses containing WISDOM_
 * `Ecc 4:13` Better is a poor and a *_wise_* child, than an old and foolish king who will no more be admonished.
 * `Ecc 6:8` For what does the *_wise_* have more than the fool? What does the poor have who knows how to walk before the living?
 * `Ecc 7:4` The heart of the *_wise_* is in the house of mourning, but the heart of fools is in the house of mirth.
-* `Ecc 7:5` It is better to hear the rebuke of the *_wise_*, than for a man to hear the song of fools.
+* `Ecc 7:5` It is better to hear the rebuke of the *_wise_* than for a man to hear the song of fools.
 * `Ecc 7:7` Surely oppression makes a *_wise_* man mad, and a gift destroys the heart.
 * `Ecc 7:16` Do not be righteous over much, neither make yourself overly *_wise_*. Why should you destroy yourself?
 * `Ecc 7:19` Wisdom strengthens the *_wise_* more than ten mighty men who are in the city.
@@ -6375,13 +6375,13 @@ _222 verses containing WISDOM_
 * `Ecc 8:5` He who keeps the commandment shall feel no evil thing. And a *_wise_* man's heart discerns both time and judgment.
 * `Ecc 8:17` I beheld all the work of God, that a man cannot find out the work that is done under the sun. Because even though a man may labor to seek it out, yet he shall not find it, and even though a *_wise_* man thinks to know it, yet he shall not be able to find it.
 * `Ecc 9:1` For all this I considered in my heart even to declare all this: that the righteous and the *_wise_*, and their works, are in the hand of God. No man knows either love or hatred by all that is before them.
-* `Ecc 9:11` I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the *_wise_*, nor yet riches to men of understanding, nor yet favor to men of skill, but time and chance happens to them all.
+* `Ecc 9:11` I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, neither yet bread to the *_wise_*, nor yet riches to men of understanding, nor yet favor to men of skill, but time and chance happens to them all.
 * `Ecc 9:15` Now there was found in it a poor *_wise_* man, and he by his wisdom delivered the city. Yet no man remembered that same poor man.
 * `Ecc 9:17` The words of *_wise_* men are heard in quiet more than the cry of him who rules among fools.
 * `Ecc 10:2` A *_wise_* man's heart is at his right hand, but a fool's heart is at his left.
 * `Ecc 10:12` The words of a *_wise_* man's mouth are gracious, but the lips of a fool will swallow up himself.
 * `Ecc 12:9` And moreover, because the preacher was *_wise_*, he still taught the people knowledge. He even gave good heed, sought out, and set in order many proverbs.
-* `Ecc 12:11` The words of the *_wise_* are as goads and as nails fastened by the masters of assemblies, which are given from one shepherd.
+* `Ecc 12:11` The words of the *_wise_* are like goads and like nails fastened by the masters of assemblies, which are given from one shepherd.
 * `Isa 5:21` Woe to those who are *_wise_* in their own eyes and prudent in their own sight!
 * `Isa 19:11` Surely the princes of Zoan are fools. The counsel of the *_wise_* counselors of Pharaoh has become brutish. How do you say to Pharaoh, "I am the son of the *_wise_*, the son of ancient kings"?
 * `Isa 19:12` Where are they? Where are your *_wise_* men? And let them tell you now, and let them know what the LORD of hosts has purposed upon Egypt.
@@ -7613,7 +7613,7 @@ _9 verses containing WIZARDS_
 * `Psa 120:5` *_Woe_* is me that I sojourn in Mesech, that I dwell in the tents of Kedar!
 * `Pro 23:29` Who has *_woe_*? Who has sorrow? Who has contentions? Who has babbling? Who has wounds without cause? Who has redness of eyes?
 * `Ecc 4:10` For if they fall, one will lift up his fellow. But *_woe_* to him who is alone when he falls, for he does not have another to help him to rise.
-* `Ecc 10:16` *_Woe_* to you, O land, when your king is a child, and your princes eat in the morning!
+* `Ecc 10:16` *_Woe_* to you, O land, when your king is a child and your princes eat in the morning!
 * `Isa 3:9` The show of their countenance witnesses against them. They declare their sin like Sodom. They do not hide it. *_Woe_* to their soul! For they have rewarded evil to themselves.
 * `Isa 3:11` *_Woe_* to the wicked! It shall be ill with him, for the reward of his hands shall be given to him.
 * `Isa 5:8` *_Woe_* to those who join house to house, who lay field to field until there is no place and you have been placed alone in the midst of the earth!
