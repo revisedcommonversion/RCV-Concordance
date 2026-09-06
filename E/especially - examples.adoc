@@ -283,7 +283,7 @@ _3 verses containing ESTEEMS_
 * `Est 2:22` And the thing was known to Mordecai, who told it to *_Esther_* the queen. And *_Esther_* told the king about it in Mordecai's name.
 * `Est 4:4` So *_Esther_*'s attendants and her chamberlains came and told it to her. Then the queen was exceedingly grieved, and she sent clothing to clothe Mordecai and to take away his sackcloth from him, but he did not receive it.
 * `Est 4:5` Then *_Esther_* called for Hatach, one of the king's chamberlains, whom he had appointed to attend upon her, and commanded him to go to Mordecai to know what it was and why it was.
-* `Est 4:8` Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them to show it to *_Esther_*, to declare it to her, and to charge her that she should go before the king to make supplication to him and to make request before him for her people.
+* `Est 4:8` Also, he gave him the copy of the writing of the decree that was given at Shushan to destroy them to show it to *_Esther_*, to declare it to her, and to charge her that she should go before the king to make supplication to him and to make request before him for her people.
 * `Est 4:9` And Hatach came and told *_Esther_* the words of Mordecai.
 * `Est 4:10` Again, *_Esther_* spoke to Hatach and gave him commandment to say to Mordecai,
 * `Est 4:12` And they told *_Esther_*'s words to Mordecai.
@@ -291,12 +291,12 @@ _3 verses containing ESTEEMS_
 * `Est 4:15` Then *_Esther_* told them to return Mordecai this answer:
 * `Est 4:17` So Mordecai went his way and did according to all that *_Esther_* had commanded him.
 * `Est 5:1` Now it came to pass on the third day, that *_Esther_* put on her royal apparel and stood in the inner court of the king's house, over against the king's house. And the king sat upon his royal throne in the royal house, over against the gate of the house.
-* `Est 5:2` And it was so, when the king saw *_Esther_* the queen standing in the court, that she obtained favor in his sight, and the king held out to *_Esther_* the golden scepter that was in his hand. So *_Esther_* drew near and touched the top of the scepter.
+* `Est 5:2` And it came to pass when the king saw *_Esther_* the queen standing in the court, that she obtained favor in his sight, and the king held out to *_Esther_* the golden scepter that was in his hand. So *_Esther_* drew near and touched the top of the scepter.
 * `Est 5:3` Then the king said to her, "What do you wish, queen *_Esther_*? And what is your request? It shall be given to you even to the half of the kingdom."
 * `Est 5:4` And *_Esther_* answered, "If it seems good to the king, let the king and Haman come this day to the banquet that I have prepared for him."
 * `Est 5:5` Then the king said, "Cause Haman to make haste so that he may do as *_Esther_* has said." So the king and Haman came to the banquet that *_Esther_* had prepared.
 * `Est 5:6` And the king said to *_Esther_* at the banquet of wine, "What is your petition? It shall be granted you. And what is your request? Even to the half of the kingdom it shall be performed."
-* `Est 5:7` Then *_Esther_* answered, and said, "My petition and my request is this:
+* `Est 5:7` Then *_Esther_* answered and said, "My petition and my request is this:
 * `Est 5:12` Haman said moreover, "Even *_Esther_* the queen let no man come in with the king to the banquet that she had prepared but myself. And tomorrow I am invited by her together with the king.
 * `Est 6:14` And while they were still talking with him, the king's chamberlains came and hastened to bring Haman to the banquet that *_Esther_* had prepared.
 * `Est 7:1` So the king and Haman came to banquet with *_Esther_* the queen.
@@ -1169,7 +1169,7 @@ _4 verses containing EVE_
 * `Est 1:4` When he showed the riches of his glorious kingdom and the honor of his excellent majesty many days, *_even_* one hundred and eighty days.
 * `Est 2:18` Then the king made a great feast to all his princes and his servants, *_even_* Esther's feast. And he made a release to the provinces and gave gifts according to the state of the king.
 * `Est 3:6` And he scorned to lay hands on Mordecai alone, for they had revealed to him the people of Mordecai. Therefore, Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus, *_even_* the people of Mordecai.
-* `Est 3:13` And the letters were sent by posts into all the king's provinces to destroy, to kill, and to cause to perish all Jews, both young and old, little children and women, in one day, *_even_* upon the thirteenth day of the twelfth month (that is, the month Adar), and to plunder their goods.
+* `Est 3:13` And the letters were sent by posts into all the king's provinces to destroy, to kill, and to cause to perish all Jews—both young and old, little children and women—in one day, *_even_* upon the thirteenth day of the twelfth month (that is, the month Adar), and to plunder their goods.
 * `Est 5:3` Then the king said to her, "What do you wish, queen Esther? And what is your request? It shall be given to you *_even_* to the half of the kingdom."
 * `Est 5:6` And the king said to Esther at the banquet of wine, "What is your petition? It shall be granted you. And what is your request? *_Even_* to the half of the kingdom it shall be performed."
 * `Est 5:12` Haman said moreover, "*_Even_* Esther the queen let no man come in with the king to the banquet that she had prepared but myself. And tomorrow I am invited by her together with the king.

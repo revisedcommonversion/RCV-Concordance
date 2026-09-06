@@ -2953,7 +2953,7 @@ _1 verse containing SAFFRON_
 * `Est 5:3` Then the king *_said_* to her, "What do you wish, queen Esther? And what is your request? It shall be given to you even to the half of the kingdom."
 * `Est 5:5` Then the king *_said_*, "Cause Haman to make haste so that he may do as Esther has *_said_*." So the king and Haman came to the banquet that Esther had prepared.
 * `Est 5:6` And the king *_said_* to Esther at the banquet of wine, "What is your petition? It shall be granted you. And what is your request? Even to the half of the kingdom it shall be performed."
-* `Est 5:7` Then Esther answered, and *_said_*, "My petition and my request is this:
+* `Est 5:7` Then Esther answered and *_said_*, "My petition and my request is this:
 * `Est 5:8` If I have found favor in the sight of the king, and if it pleases the king to grant my petition and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do tomorrow as the king has *_said_*."
 * `Est 5:12` Haman *_said_* moreover, "Even Esther the queen let no man come in with the king to the banquet that she had prepared but myself. And tomorrow I am invited by her together with the king.
 * `Est 5:14` Then Zeresh his wife and all his friends *_said_* to him, "Let a gallows be made fifty cubits high, and tomorrow speak to the king so that Mordecai may be hanged upon it. Then go in merrily with the king to the banquet." And the thing pleased Haman, and he caused the gallows to be made.
@@ -5457,7 +5457,7 @@ _7 verses containing SAMARITANS_
 * `Neh 4:22` And at the *_same_* time I said to the people, "Let everyone with his servant lodge within Jerusalem, so that in the night they may be a guard to us, and labor in the day."
 * `Neh 6:4` Yet they sent to me four times after this sort, and I answered them after the *_same_* manner.
 * `Neh 10:37` And that we should bring the first-fruits of our dough and our offerings, and the fruit of all manner of trees, of wine, and of oil to the priests, to the chambers of the house of our God; and the tithes of our ground to the Levites, so that the *_same_* Levites might have the tithes in all the cities of our tillage.
-* `Est 1:18` This day, the ladies of Persia and Media who have heard of the deed of the queen will say the *_same_* thing to all the king's princes. Thus there will arise too much contempt and wrath.
+* `Est 1:18` This day, the ladies of Persia and Media who have heard about the deed of the queen will say the *_same_* thing to all the king's princes. Thus there will arise too much contempt and wrath.
 * `Est 9:1` Now in the twelfth month (that is, the month Adar), on the thirteenth day of the *_same_*, when the king's commandment and his decree drew near to be put in execution, on the day that the enemies of the Jews hoped to have power over them (though it was turned to the contrary, that the Jews had rule over those who hated them),
 * `Est 9:17` On the thirteenth day of the month Adar. And on the fourteenth day of the *_same_* they rested and made it a day of feasting and gladness.
 * `Est 9:18` But the Jews who were at Shushan assembled on the thirteenth day of the month and on the fourteenth day. And on the fifteenth day of the *_same_* they rested and made it a day of feasting and gladness.
