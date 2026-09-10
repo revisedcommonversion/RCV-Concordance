@@ -293,7 +293,7 @@ _4 verses containing SACKBUT_
 * `Lam 2:10` [YOD] The elders of the daughter of Zion sit upon the ground and keep silence. They have cast up dust upon their heads. They have girded themselves with *_sackcloth_*. The virgins of Jerusalem hang down their heads to the ground.
 * `Ezk 7:18` They shall also gird themselves with *_sackcloth_*, horror shall cover them, shame shall be upon all faces, and baldness upon all their heads.
 * `Ezk 27:31` And they shall make themselves utterly bald for you and gird themselves with *_sackcloth_*. They shall weep for you with bitterness of heart and bitter wailing.
-* `Dan 9:3` And I set my face to the Lord God, to seek by prayer and supplications, with fasting, *_sackcloth_*, and ashes.
+* `Dan 9:3` And I set my face to the Lord God, to seek by prayer and supplications with fasting, *_sackcloth_*, and ashes.
 * `Joe 1:8` Lament like a virgin girded with *_sackcloth_* for the husband of her youth.
 * `Joe 1:13` Gird yourselves and lament, you priests. Howl, you ministers of the altar. Come, lie all night in *_sackcloth_*, you ministers of my God, for the food-offering and the drink-offering are withheld from the house of your God.
 * `Amo 8:10` I will turn your feasts into mourning and all your songs into lamentation, I will bring up *_sackcloth_* upon all loins and baldness upon every head, and I will make it like the mourning of an only son and its end like a bitter day.
@@ -3363,15 +3363,15 @@ _1 verse containing SAFFRON_
 * `Dan 6:20` And when he came to the den, he cried with a lamentable voice to Daniel, and the king spoke and *_said_* to Daniel, "O Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?"
 * `Dan 6:21` Then Daniel *_said_* to the king, "O king, live forever.
 * `Dan 7:2` Daniel spoke and *_said_*, "I saw in my vision by night, and behold, the four winds of heaven strove upon the great sea.
-* `Dan 7:5` And behold another beast, a second, like a bear, and it raised itself on one side, and it had three ribs in its mouth between its teeth, and they *_said_* thus to it: 'Arise, devour much flesh.'
-* `Dan 7:23` "Thus he *_said_*: 'The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms and shall devour the whole earth, tread it down, and break it in pieces.
+* `Dan 7:5` And behold another beast, a second, like a bear, and it raised itself on one side, and it had three ribs in its mouth between its teeth, and they *_said_* this to it: 'Arise, devour much flesh.'
+* `Dan 7:23` "This is what he *_said_*: 'The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms and shall devour the whole earth, tread it down, and break it in pieces.
 * `Dan 8:13` Then I heard one saint speaking, and another saint *_said_* to that certain saint who spoke, "How long shall the vision be concerning the daily sacrifice and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
 * `Dan 8:14` And he *_said_* to me, "Until two thousand and three hundred days. Then the sanctuary shall be cleansed."
-* `Dan 8:16` And I heard a man's voice between the banks of the Ulai, which called, and *_said_*, "Gabriel, make this man to understand the vision."
+* `Dan 8:16` And I heard a man's voice between the banks of the Ulai, which called and *_said_*, "Gabriel, make this man to understand the vision."
 * `Dan 8:17` So he came near where I stood. And when he came, I was afraid and fell upon my face, but he *_said_* to me, "Understand, O son of man, the vision shall be for the time of the end."
 * `Dan 8:19` And he *_said_*, "Behold, I will make you know what shall be in the last end of the indignation, for at the time appointed the end shall be.
-* `Dan 9:4` And I prayed to the LORD my God and made my confession, and *_said_*, "O Lord, the great and dreadful God, keeping the covenant and mercy to those who love him and to those who keep his commandments,
-* `Dan 9:22` And he informed me and talked with me, and *_said_*, "O Daniel, I have now come forth to give you skill and understanding.
+* `Dan 9:4` And I prayed to the LORD my God and made my confession and *_said_*, "O Lord, the great and dreadful God, keeping the covenant and mercy to those who love him and to those who keep his commandments,
+* `Dan 9:22` And he informed me and talked with me and *_said_*, "O Daniel, I have now come forth to give you skill and understanding.
 * `Dan 10:11` And he *_said_* to me, "O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright, for I am now sent to you." And when he had spoken this word to me, I stood trembling.
 * `Dan 10:12` Then he *_said_* to me, "Do not fear, Daniel, for from the first day that you set your heart to understand and to chasten yourself before your God, your words were heard, and I have come because of your words.
 * `Dan 10:16` And behold, one like the similitude of the sons of men touched my lips. Then I opened my mouth and spoke, and *_said_* to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
@@ -4539,9 +4539,9 @@ _3 verses containing SAINT_
 * `Psa 149:9` To execute upon them the judgment written. All his *_saints_* have this honor. Praise the LORD.
 * `Pro 2:8` He keeps the paths of judgment and preserves the way of his *_saints_*.
 * `Dan 7:18` But the *_saints_* of the most High shall take the kingdom and possess the kingdom forever, even forever and ever.'
-* `Dan 7:21` I beheld, and the same horn made war with the *_saints_* and prevailed against them,
+* `Dan 7:21` I beheld, and the same horn made war with the *_saints_* and prevailed against them
 * `Dan 7:22` Until the Ancient of days came and judgment was given to the *_saints_* of the most High, and the time came that the *_saints_* possessed the kingdom.
-* `Dan 7:25` And he shall speak great words against the most High and shall wear out the *_saints_* of the most High, and think to change times and laws. And they shall be given into his hand until a time and times and the dividing of time.
+* `Dan 7:25` And he shall speak great words against the most High and wear out the *_saints_* of the most High and think to change times and laws. And they shall be given into his hand until a time and times and the dividing of time.
 * `Dan 7:27` And the kingdom, the dominion, and the greatness of the kingdom under the whole heaven shall be given to the people of the *_saints_* of the most High. His kingdom is an everlasting kingdom, and all dominions shall serve and obey him.'
 * `Hos 11:12` Ephraim encompasses me with lies, and the house of Israel with deceit, but Judah still rules with God and is faithful with the *_saints_*.
 * `Zch 14:5` And you shall flee to the valley of the mountains, for the valley of the mountains shall reach to Azal. Indeed, you shall flee as you fled from before the earthquake in the days of Uzziah king of Judah. And the LORD my God shall come, and all the *_saints_* with you.
@@ -5498,7 +5498,7 @@ _7 verses containing SAMARITANS_
 * `Dan 4:36` "At the *_same_* time my reason returned to me, and for the glory of my kingdom, my honor and brightness returned to me. My counselors and my lords sought me. I was established in my kingdom, and excellent majesty was added to me.
 * `Dan 5:5` In the *_same_* hour, fingers of a man's hand came forth and wrote over against the candlestick upon the plaster of the wall of the king's palace. And the king saw the part of the hand that wrote.
 * `Dan 5:12` Because an excellent spirit, knowledge, understanding, the interpreting of dreams, the declaring of riddles, and dissolving of doubts were found in the *_same_* Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will reveal the interpretation."
-* `Dan 7:21` I beheld, and the *_same_* horn made war with the saints and prevailed against them,
+* `Dan 7:21` I beheld, and the *_same_* horn made war with the saints and prevailed against them
 * `Dan 12:1` "And at that time Michael shall stand up, the great prince who stands for the children of your people. And there shall be a time of trouble, such as never was since there was a nation even to that *_same_* time. And at that time your people shall be delivered, everyone who is found written in the book.
 * `Amo 2:7` They pant after the dust of the earth on the head of the poor and turn aside the way of the meek. And a man and his father will go in to the *_same_* woman to profane my holy name.
 * `Zph 1:9` In the *_same_* day I will also punish all those who leap on the threshold, who fill their masters' houses with violence and deceit.

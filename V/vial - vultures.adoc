@@ -764,11 +764,11 @@ _1 verse containing VISIBLE_
 * `Dan 8:1` In the third year of the reign of king Belshazzar a *_vision_* appeared to me, even to me, Daniel, after that which appeared to me at the first.
 * `Dan 8:2` And I saw in a *_vision_*, and it came to pass when I saw, that I was at Shushan in the palace, which is in the province of Elam. And I saw in a *_vision_* that I was by the Ulai River.
 * `Dan 8:13` Then I heard one saint speaking, and another saint said to that certain saint who spoke, "How long shall the *_vision_* be concerning the daily sacrifice and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
-* `Dan 8:15` And it came to pass, when I, even I, Daniel, had seen the *_vision_* and sought the meaning, then behold, there stood before me as the appearance of a man.
-* `Dan 8:16` And I heard a man's voice between the banks of the Ulai, which called, and said, "Gabriel, make this man to understand the *_vision_*."
+* `Dan 8:15` And it came to pass when I, even I, Daniel, had seen the *_vision_* and sought the meaning, that behold, there stood before me one having the appearance of a man.
+* `Dan 8:16` And I heard a man's voice between the banks of the Ulai, which called and said, "Gabriel, make this man to understand the *_vision_*."
 * `Dan 8:17` So he came near where I stood. And when he came, I was afraid and fell upon my face, but he said to me, "Understand, O son of man, the *_vision_* shall be for the time of the end."
 * `Dan 8:26` And the *_vision_* of the evening and the morning which was told is true. Therefore, shut up the *_vision_*, for it shall be for many days to come."
-* `Dan 8:27` And I, Daniel, fainted and was sick some days. Afterward, I rose and did the king's business. And I was astonished at the *_vision_*, but no one understood it.
+* `Dan 8:27` And I, Daniel, fainted and was sick for days. Afterward, I rose and did the king's business. And I was astonished at the *_vision_*, but no one understood it.
 * `Dan 9:21` Even while I was speaking in prayer, the man Gabriel, whom I had seen in the *_vision_* at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.
 * `Dan 9:23` At the beginning of your supplications the commandment came forth, and I have come to show you, for you are greatly beloved. Therefore, understand the matter and consider the *_vision_*.
 * `Dan 9:24` "Seventy weeks are determined upon your people and upon your holy city to finish the transgression, to make an end of sins, to make reconciliation for iniquity, to bring in everlasting righteousness, to seal up the *_vision_* and prophecy, and to anoint the holy of holies.
@@ -823,7 +823,7 @@ _72 verses containing VISION_
 * `Dan 4:13` 'I saw in the *_visions_* of my head upon my bed, and behold, a watcher and a holy one came down from heaven.
 * `Dan 7:1` In the first year of Belshazzar king of Babylon, Daniel had a dream and *_visions_* of his head upon his bed. Then he wrote the dream and told the sum of the matters.
 * `Dan 7:7` After this I saw in the night *_visions_*, and behold, a fourth beast, dreadful and terrible, and exceedingly strong, and it had great iron teeth. It devoured and broke in pieces and trampled the remainder with its feet. And it was diverse from all the beasts that were before it, and it had ten horns.
-* `Dan 7:13` "I saw in the night *_visions_*, and behold, one like the son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+* `Dan 7:13` "I saw in the night *_visions_*, and behold, one like the son of man came with the clouds of heaven and came to the Ancient of days, and they brought him near before him.
 * `Dan 7:15` "I, Daniel, was grieved in my spirit in the midst of my body, and the *_visions_* of my head troubled me.
 * `Hos 12:10` I have also spoken by the prophets and I have multiplied *_visions_*. I used similitudes by the ministry of the prophets.
 * `Joe 2:28` And it shall come to pass afterward, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see *_visions_*.
@@ -1280,7 +1280,7 @@ _1 verse containing VOCATION_
 * `Dan 4:31` While the word was in the king's mouth, there fell a *_voice_* from heaven, saying, 'O king Nebuchadnezzar, to you it is spoken, "The kingdom has departed from you.
 * `Dan 6:20` And when he came to the den, he cried with a lamentable *_voice_* to Daniel, and the king spoke and said to Daniel, "O Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?"
 * `Dan 7:11` "I beheld then because of the *_voice_* of the great words which the horn spoke. I beheld even until the beast was slain and his body destroyed and given to the burning flame.
-* `Dan 8:16` And I heard a man's *_voice_* between the banks of the Ulai, which called, and said, "Gabriel, make this man to understand the vision."
+* `Dan 8:16` And I heard a man's *_voice_* between the banks of the Ulai, which called and said, "Gabriel, make this man to understand the vision."
 * `Dan 9:10` Neither have we obeyed the *_voice_* of the LORD our God, to walk in his laws which he set before us by his servants the prophets.
 * `Dan 9:11` And all Israel has transgressed your law, even by departing, and they have not obeyed your *_voice_*; therefore, the curse is poured upon us, along with the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 * `Dan 9:14` Therefore, the LORD has watched over the evil and brought it upon us, for the LORD our God is righteous in all his works which he does, but we have not obeyed his *_voice_*.

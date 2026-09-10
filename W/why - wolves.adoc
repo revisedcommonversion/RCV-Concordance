@@ -750,7 +750,7 @@ _323 verses containing WICKED_
 * `Psa 106:6` We have sinned with our fathers. We have committed iniquity. We have done *_wickedly_*.
 * `Psa 139:20` For they speak against you *_wickedly_*, and your enemies take your name in vain.
 * `Dan 9:5` We have sinned, have committed iniquity, have done *_wickedly_*, and have rebelled, even by departing from your precepts and from your judgments,
-* `Dan 9:15` "And now, O Lord our God, who have brought your people out of the land of Egypt with a mighty hand and have obtained yourself renown, as at this day, we have sinned, we have done *_wickedly_*.
+* `Dan 9:15` "And now, O Lord our God, who brought your people out of the land of Egypt with a mighty hand and have obtained yourself renown, as at this day, we have sinned, we have done *_wickedly_*.
 * `Dan 11:32` And those who do *_wickedly_* against the covenant he shall corrupt by flatteries, but the people who know their God shall be strong and take action.
 * `Dan 12:10` Many shall be purified, made white, and tried, but the wicked shall do *_wickedly_*. And none of the wicked shall understand, but the wise shall understand.
 * `Mal 4:1` "For behold, the day comes that shall burn like an oven, and all the proud and all who do *_wickedly_* shall be stubble. And the day that comes shall burn them up," says the LORD of hosts, "so that it shall leave them neither root nor branch.
@@ -5504,7 +5504,7 @@ _25 verses containing WINDOWS_
 * `Ezk 17:21` And all his fugitives with all his bands shall fall by the sword, and those who remain shall be scattered toward all *_winds_*. And you shall know that I, the LORD, have spoken it."
 * `Ezk 37:9` Then he said to me, "Prophesy to the wind, prophesy, son of man, and say to the wind, 'Thus says the Lord GOD: "Come from the four *_winds_*, O breath, and breathe upon these slain so that they may live."'"
 * `Dan 7:2` Daniel spoke and said, "I saw in my vision by night, and behold, the four *_winds_* of heaven strove upon the great sea.
-* `Dan 8:8` Therefore, the male goat became very great, and when he was strong, the great horn was broken and in its stead four notable ones came up toward the four *_winds_* of heaven.
+* `Dan 8:8` Therefore, the male goat became very great, and when he was strong, the great horn was broken, and in its stead, four notable ones came up toward the four *_winds_* of heaven.
 * `Dan 11:4` And when he stands up, his kingdom shall be broken and shall be divided toward the four *_winds_* of heaven, and not to his posterity, nor according to his dominion which he ruled, for his kingdom shall be plucked up, even for others beside those.
 * `Zch 2:6` "Ho, ho, come forth, and flee from the land of the north," says the LORD, "for I have spread you abroad like the four *_winds_* of the heaven," says the LORD.
 * `Mth 7:25` And the rain descended, the floods came, and the *_winds_* blew and beat upon that house, and it did not fall, for it was founded upon a rock.
@@ -5889,7 +5889,7 @@ _3 verses containing WINGED_
 * `Ezk 11:22` Then the cherubim raised their *_wings_* with the wheels beside them, and the glory of the God of Israel was over them above.
 * `Ezk 17:3` And say, 'Thus says the Lord GOD: "A great eagle with great *_wings_* and long feathers, full of feathers which had diverse colors, came to Lebanon and took the highest branch of the cedar.
 * `Ezk 17:7` "There was also another great eagle with great *_wings_* and many feathers, and behold, this vine bent its roots toward him and shot forth its branches toward him, so that he might water it by the furrows of its plantation.
-* `Dan 7:4` The first was like a lion and had eagles' *_wings_*. I beheld until its *_wings_* were plucked, and it was lifted up from the earth and made to stand upon the feet as a man, and a man's heart was given to it.
+* `Dan 7:4` The first was like a lion and had eagles' *_wings_*. I beheld until its *_wings_* were plucked and it was lifted up from the earth and made to stand upon its feet like a man, and a man's heart was given to it.
 * `Dan 7:6` After this I beheld, and behold another, like a leopard, which had upon its back four *_wings_* of a bird. The beast also had four heads, and dominion was given to it.
 * `Hos 4:19` The wind has bound her up in her *_wings_*, and they shall be ashamed because of their sacrifices."
 * `Zch 5:9` Then I lifted up my eyes and looked, and behold, there came out two women, and the wind was in their *_wings_*, for they had *_wings_* like the *_wings_* of a stork. And they lifted up the ephah between the earth and the heaven.
@@ -7189,6 +7189,7 @@ _161 verses containing WITHIN_
 * `Ezk 46:13` "You shall daily prepare a burnt-offering to the LORD of a lamb of the first year *_without_* blemish. You shall prepare it every morning.
 * `Dan 2:34` As you were looking, a stone was cut out *_without_* hands, and it smote the image upon his feet that were of iron and clay and broke them to pieces.
 * `Dan 2:45` Because you saw that the stone was cut out of the mountain *_without_* hands, and that it broke in pieces the iron, the brass, the clay, the silver, and the gold, the great God has made known to the king what shall come to pass hereafter. And the dream is certain, and its interpretation sure."
+* `Dan 8:5` And as I was considering, behold, a male goat came from the west on the face of the whole earth *_without_* touching the ground. And the goat had a notable horn between his eyes.
 * `Dan 11:18` After this he shall turn his face to the coastlands and shall take many, but a prince shall cause the reproach offered by him to cease, and *_without_* his own reproach he shall cause it to turn upon him.
 * `Hos 3:4` For the children of Israel shall abide many days *_without_* a king, *_without_* a prince, *_without_* a sacrifice, *_without_* an image, *_without_* an ephod, and *_without_* teraphim.
 * `Hos 7:11` Ephraim is also like a silly dove *_without_* heart. They call to Egypt. They go to Assyria.
@@ -7291,7 +7292,7 @@ _161 verses containing WITHIN_
 * `Rev 14:5` And in their mouth was found no guile, for they are *_without_* fault before the throne of God.
 * `Rev 14:10` The same shall drink of the wine of the wrath of God which is poured out *_without_* mixture into the cup of his indignation, and he shall be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb.
 
-_279 verses containing WITHOUT_
+_280 verses containing WITHOUT_
 
 == WITHSTAND
 
