@@ -1133,10 +1133,10 @@
 * `2Ch 36:23` "Thus says Cyrus *_king_* of Persia: 'All the kingdoms of the earth the LORD God of heaven has given me. And he has charged me to build him a house in Jerusalem, which is in Judah. Who is there among you of all his people? May the LORD his God be with him and let him go up.'"
 * `Ezr 1:1` Now in the first year of Cyrus *_king_* of Persia, so that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus *_king_* of Persia, so that he made a proclamation throughout all his kingdom and put it also in writing, saying,
 * `Ezr 1:2` "Thus says Cyrus *_king_* of Persia: 'The LORD God of heaven has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.
-* `Ezr 1:7` Also Cyrus the *_king_* brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought from Jerusalem, and had put them in the house of his gods.
+* `Ezr 1:7` Cyrus the *_king_* also brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought from Jerusalem and had put them in the house of his gods.
 * `Ezr 1:8` And Cyrus *_king_* of Persia brought them forth by the hand of Mithredath the treasurer, and he numbered them to Sheshbazzar, the prince of Judah.
 * `Ezr 2:1` Now these are the children of the province who went up from the captivity, of those who had been carried away, whom Nebuchadnezzar the *_king_* of Babylon had carried away to Babylon, and came back to Jerusalem and Judah, each to his city,
-* `Ezr 3:7` They gave money also to the masons and to the carpenters, and provisions, drink, and oil to those of Zidon and to those of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had from Cyrus *_king_* of Persia.
+* `Ezr 3:7` They also gave money to the masons and to the carpenters, and provisions, drink, and oil to those of Zidon and to those of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had from Cyrus *_king_* of Persia.
 * `Ezr 3:10` And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets and the Levites the sons of Asaph with cymbals to praise the LORD, after the ordinance of David *_king_* of Israel.
 * `Ezr 4:2` They came to Zerubbabel and to the chief of the fathers, and said to them, "Let us build with you, for we seek your God, as you do, and we have sacrificed to him since the days of Esar-haddon *_king_* of Assur, who brought us up here."
 * `Ezr 4:3` But Zerubbabel, Jeshua, and the rest of the chief of the fathers of Israel, said to them, "You have nothing to do with us to build a house to our God. But we ourselves together will build to the LORD God of Israel, as *_king_* Cyrus the *_king_* of Persia has commanded us."
@@ -1677,11 +1677,11 @@
 * `Dan 1:2` And the Lord gave Jehoiakim *_king_* of Judah into his hand, with part of the vessels of the house of God, which he carried into the land of Shinar to the house of his god. And he brought the vessels into the treasure-house of his god.
 * `Dan 1:3` And the *_king_* told Ashpenaz the master of his eunuchs that he should bring some of the children of Israel, even some of the royal family and of the princes,
 * `Dan 1:4` Children in whom there was no blemish, but of good appearance, skillful in all wisdom, intelligent in knowledge, understanding science, and those who had ability in them to stand in the *_king_*'s palace, and whom they might teach the writing and the language of the Chaldeans.
-* `Dan 1:5` And the *_king_* appointed them a daily provision of the *_king_*'s food and of the wine which he drank, thus nourishing them three years, so that at the end thereof they might stand before the *_king_*.
+* `Dan 1:5` And the *_king_* appointed them a daily provision from the *_king_*'s food and from the wine which he drank, thus nourishing them for three years, so that at the end thereof they might stand before the *_king_*.
 * `Dan 1:8` But Daniel purposed in his heart that he would not defile himself with the portion of the *_king_*'s food nor with the wine which he drank; therefore, he requested of the prince of the eunuchs that he might not defile himself.
 * `Dan 1:10` And the prince of the eunuchs said to Daniel, "I fear my lord the *_king_* who has appointed your provision and your drink. For why should he see your faces more meager than the children who are of your sort? Then you will make me endanger my head to the *_king_*."
-* `Dan 1:13` Then let our countenances be looked upon before you, and the countenances of the children who eat of the portion of the *_king_*'s provision. And as you see, deal with your servants."
-* `Dan 1:15` And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children who ate the portion of the *_king_*'s provision.
+* `Dan 1:13` Then let our countenances be looked upon before you, along with the countenances of the children who eat of the portion of the *_king_*'s provision. And as you see, deal with your servants."
+* `Dan 1:15` And at the end of ten days, their countenances appeared fairer and fatter in flesh than all the children who ate the portion of the *_king_*'s provision.
 * `Dan 1:18` Now at the end of the days that the *_king_* had said he should bring them in, the prince of the eunuchs brought them in before Nebuchadnezzar.
 * `Dan 1:19` And the *_king_* spoke with them. And among them all there was found no one like Daniel, Hananiah, Mishael, and Azariah; therefore, they stood before the *_king_*.
 * `Dan 1:20` And in all matters of wisdom and understanding wherein the *_king_* questioned them, he found them ten times superior to all the magicians and astrologers who were in all his realm.
@@ -1689,11 +1689,11 @@
 * `Dan 2:2` Then the *_king_* commanded to call the magicians, the astrologers, the sorcerers, and the Chaldeans to declare to the *_king_* his dream. So they came and stood before the *_king_*.
 * `Dan 2:3` And the *_king_* said to them, "I have dreamed a dream, and my spirit was troubled to know the dream."
 * `Dan 2:4` Then the Chaldeans spoke to the *_king_* in Syriac, "O *_king_*, live forever. Tell your servants the dream and we will reveal the interpretation."
-* `Dan 2:5` The *_king_* answered and said to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream, with its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
+* `Dan 2:5` The *_king_* answered and said to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream and its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
 * `Dan 2:7` They answered again and said, "Let the *_king_* tell his servants the dream, and we will reveal its interpretation."
-* `Dan 2:8` The *_king_* answered and said, "I know of certainty that you would gain the time, because you see the thing has gone from me.
-* `Dan 2:10` The Chaldeans answered before the *_king_*, and said, "There is not a man upon the earth who can disclose the *_king_*'s matter, for there is no *_king_*, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
-* `Dan 2:11` And it is a rare thing that the *_king_* requires, and there is no other who can reveal it before the *_king_*, except the gods, whose dwelling is not with flesh."
+* `Dan 2:8` The *_king_* answered and said, "I know of certainty that you would gain the time because you see the thing has gone from me.
+* `Dan 2:10` The Chaldeans answered before the *_king_* and said, "There is not a man upon the earth who can disclose the *_king_*'s matter, for there is no *_king_*, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
+* `Dan 2:11` And it is a rare thing that the *_king_* requires, and there is no other who can reveal it before the *_king_* except the gods, whose dwelling is not with flesh."
 * `Dan 2:12` For this cause the *_king_* was angry and very furious, and he commanded to destroy all the wise men of Babylon.
 * `Dan 2:14` Then Daniel answered with counsel and wisdom to Arioch the captain of the *_king_*'s guard, who had gone forth to slay the wise men of Babylon.
 * `Dan 2:15` He answered and said to Arioch the *_king_*'s captain, "Why is the decree so hasty from the *_king_*?" Then Arioch made the thing known to Daniel.
@@ -1705,14 +1705,14 @@
 * `Dan 2:27` Daniel answered in the presence of the *_king_* and said, "The secret which the *_king_* has demanded, the wise men, the astrologers, the magicians, and the soothsayers cannot reveal to the *_king_*.
 * `Dan 2:28` But there is a God in heaven who reveals secrets and makes known to the *_king_* Nebuchadnezzar what shall be in the latter days. Your dream and the visions of your head upon your bed are these.
 * `Dan 2:29` As for you, O *_king_*, your thoughts came into your mind upon your bed about what should come to pass hereafter, and he who reveals secrets makes known to you what shall come to pass.
-* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the *_king_*, and that you may know the thoughts of your heart.
+* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the *_king_* and that you may know the thoughts of your heart.
 * `Dan 2:31` "You, O *_king_*, saw, and behold a great image. This great image, whose brightness was excellent, stood before you, and its form was awesome.
 * `Dan 2:36` "This is the dream, and we will tell its interpretation before the *_king_*.
 * `Dan 2:37` You, O *_king_*, are a *_king_* of kings, for the God of heaven has given you a kingdom, power, strength, and glory.
 * `Dan 2:45` Because you saw that the stone was cut out of the mountain without hands, and that it broke in pieces the iron, the brass, the clay, the silver, and the gold, the great God has made known to the *_king_* what shall come to pass hereafter. And the dream is certain, and its interpretation sure."
-* `Dan 2:46` Then the *_king_* Nebuchadnezzar fell upon his face and worshiped Daniel, and commanded that they should offer an oblation and sweet odors to him.
+* `Dan 2:46` Then *_king_* Nebuchadnezzar fell upon his face and worshiped Daniel, and commanded that they should offer an oblation and sweet odors to him.
 * `Dan 2:47` The *_king_* answered to Daniel and said, "Of a truth it is that your God is a God of gods, a Lord of kings, and a revealer of secrets, seeing you could reveal this secret."
-* `Dan 2:48` Then the *_king_* made Daniel a great man, gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.
+* `Dan 2:48` Then the *_king_* made Daniel a great man, gave him many great gifts, and made him ruler over the whole province of Babylon and chief of the governors over all the wise men of Babylon.
 * `Dan 2:49` Then Daniel requested of the *_king_*, and he set Shadrach, Meshach, and Abed-nego over the affairs of the province of Babylon, but Daniel sat in the gate of the *_king_*.
 * `Dan 3:1` Nebuchadnezzar the *_king_* made an image of gold whose height was sixty cubits and its breadth six cubits. He set it up in the plain of Dura, in the province of Babylon.
 * `Dan 3:2` Then Nebuchadnezzar the *_king_* sent to convene the princes, the governors, the captains, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces to come to the dedication of the image which Nebuchadnezzar the *_king_* had set up.
@@ -2048,9 +2048,9 @@ _1918 verses containing KING_
 * `Dan 2:37` You, O king, are a king of kings, for the God of heaven has given you a *_kingdom_*, power, strength, and glory.
 * `Dan 2:39` "And after you another *_kingdom_* inferior to you shall arise, and another third *_kingdom_* of brass, which shall bear rule over all the earth.
 * `Dan 2:40` "And the fourth *_kingdom_* shall be as strong as iron, because iron breaks in pieces and subdues all things. And as iron that breaks all these, it shall break in pieces and bruise.
-* `Dan 2:41` And whereas you saw the feet and toes, part of potter's clay and part of iron, the *_kingdom_* shall be divided, but there shall be in it some of the strength of the iron, because you saw the iron mixed with the miry clay.
+* `Dan 2:41` And just as you saw that the feet and toes were part of potter's clay and part of iron, the *_kingdom_* shall be divided, but there shall be in it some of the strength of the iron, because you saw the iron mixed with the miry clay.
 * `Dan 2:42` And as the toes of the feet were part of iron and part of clay, so the *_kingdom_* shall be partly strong and partly broken.
-* `Dan 2:44` "And in the days of these kings the God of heaven shall set up a *_kingdom_* which shall never be destroyed. And the *_kingdom_* shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
+* `Dan 2:44` "And in the days of these kings, the God of heaven shall set up a *_kingdom_* which shall never be destroyed. And the *_kingdom_* shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
 * `Dan 4:3` "How great his signs are! And how mighty his wonders are! His *_kingdom_* is an everlasting *_kingdom_*, and his dominion is from generation to generation.
 * `Dan 4:17` This matter is by the decree of the watchers, and the demand by the word of the holy ones, to the intent that the living may know that the most High rules in the *_kingdom_* of men and gives it to whomever he wishes and sets up the basest of men over it."
 * `Dan 4:18` 'This dream I, king Nebuchadnezzar, have seen. Now you, O Belteshazzar, declare its interpretation, because all the wise men of my *_kingdom_* are not able to make known to me the interpretation. But you are able, for the spirit of the holy gods is in you.'
@@ -2291,7 +2291,7 @@ _316 verses containing KINGDOM_
 * `Jer 51:27` Set up a standard in the land. Blow the trumpet among the nations. Prepare the nations against her. Call together against her the *_kingdoms_* of Ararat, Minni, and Ashchenaz. Appoint a captain against her. Cause the horses to come up like the rough licking-locusts.
 * `Ezk 29:15` It shall be the basest of the *_kingdoms_*. It shall not exalt itself anymore above the nations, for I will diminish them so that they shall no longer rule over the nations.
 * `Ezk 37:22` And I will make them one nation in the land upon the mountains of Israel, and one king shall be king to them all. And they shall no longer be two nations, neither shall they be divided into two *_kingdoms_* anymore at all,
-* `Dan 2:44` "And in the days of these kings the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these *_kingdoms_*, and it shall stand forever.
+* `Dan 2:44` "And in the days of these kings, the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these *_kingdoms_*, and it shall stand forever.
 * `Dan 7:23` "This is what he said: 'The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all *_kingdoms_* and shall devour the whole earth, tread it down, and break it in pieces.
 * `Dan 8:22` Now that which is broken, where four stood up in its place, four *_kingdoms_* shall stand up out of the nation, but not in his power.
 * `Amo 6:2` Pass to Calneh and see, and from there go to Hamath the great. Then go down to Gath of the Philistines. Are they better than these *_kingdoms_*? Or is their border greater than your border?
@@ -2574,7 +2574,7 @@ _1 verse containing KINGLY_
 * `Ezk 43:9` Now let them put away their lewd deeds and the carcasses of their *_kings_* far from me, and I will dwell in the midst of them forever.
 * `Dan 2:21` And he changes the times and the seasons. He removes *_kings_* and sets up *_kings_*. He gives wisdom to the wise and knowledge to those who know understanding.
 * `Dan 2:37` You, O king, are a king of *_kings_*, for the God of heaven has given you a kingdom, power, strength, and glory.
-* `Dan 2:44` "And in the days of these *_kings_* the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
+* `Dan 2:44` "And in the days of these *_kings_*, the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
 * `Dan 2:47` The king answered to Daniel and said, "Of a truth it is that your God is a God of gods, a Lord of *_kings_*, and a revealer of secrets, seeing you could reveal this secret."
 * `Dan 7:17` 'These great beasts, which are four, are four *_kings_* which shall arise out of the earth.
 * `Dan 7:24` And the ten horns out of this kingdom are ten *_kings_* who shall arise. And another shall rise after them, and he shall be diverse from the first and he shall subdue three *_kings_*.
@@ -3785,10 +3785,10 @@ _4 verses containing KNOCKS_
 * `Ezk 39:23` And the heathen shall *_know_* that the house of Israel went into captivity for their iniquity. Because they trespassed against me, therefore I hid my face from them and gave them into the hand of their enemies, and they all fell by the sword.
 * `Ezk 39:28` Then they shall *_know_* that I am the LORD their God who caused them to be led into captivity among the heathen. But I have gathered them to their own land and have left none of them there anymore.
 * `Dan 2:3` And the king said to them, "I have dreamed a dream, and my spirit was troubled to *_know_* the dream."
-* `Dan 2:8` The king answered and said, "I *_know_* of certainty that you would gain the time, because you see the thing has gone from me.
+* `Dan 2:8` The king answered and said, "I *_know_* of certainty that you would gain the time because you see the thing has gone from me.
 * `Dan 2:9` But if you will not make known to me the dream, there is but one decree for you, for you have prepared lying and corrupt words to speak before me, until the time is changed. Therefore, tell me the dream and I shall *_know_* that you can tell me its interpretation."
 * `Dan 2:21` And he changes the times and the seasons. He removes kings and sets up kings. He gives wisdom to the wise and knowledge to those who *_know_* understanding.
-* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the king, and that you may *_know_* the thoughts of your heart.
+* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the king and that you may *_know_* the thoughts of your heart.
 * `Dan 4:9` 'O Belteshazzar, master of the magicians, because I *_know_* that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen and its interpretation.
 * `Dan 4:17` This matter is by the decree of the watchers, and the demand by the word of the holy ones, to the intent that the living may *_know_* that the most High rules in the kingdom of men and gives it to whomever he wishes and sets up the basest of men over it."
 * `Dan 4:25` They shall drive you from men and your dwelling shall be with the beasts of the field. They shall cause you to eat grass like oxen and they shall wet you with the dew of heaven. And seven times shall pass over you until you *_know_* that the most High rules in the kingdom of men and gives it to whomever he wishes.
@@ -4505,7 +4505,7 @@ _170 verses containing KNOWLEDGE_
 * `Ezk 36:32` It is not for your sakes that I do this," says the Lord GOD. "May that be *_known_* to you. Be ashamed and confounded for your own ways, O house of Israel."
 * `Ezk 38:23` Thus I will magnify myself and sanctify myself, and I will be *_known_* in the eyes of many nations. And they shall know that I am the LORD."'"
 * `Ezk 39:7` "Thus I will make my holy name *_known_* in the midst of my people Israel, and I will not let them profane my holy name anymore. And the heathen shall know that I am the LORD, the Holy One in Israel.
-* `Dan 2:5` The king answered and said to the Chaldeans, "The thing has gone from me. If you will not make *_known_* to me the dream, with its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
+* `Dan 2:5` The king answered and said to the Chaldeans, "The thing has gone from me. If you will not make *_known_* to me the dream and its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
 * `Dan 2:6` But if you make *_known_* the dream and its interpretation, you shall receive from me gifts, rewards, and great honor. Therefore, tell me the dream and its interpretation."
 * `Dan 2:9` But if you will not make *_known_* to me the dream, there is but one decree for you, for you have prepared lying and corrupt words to speak before me, until the time is changed. Therefore, tell me the dream and I shall know that you can tell me its interpretation."
 * `Dan 2:15` He answered and said to Arioch the king's captain, "Why is the decree so hasty from the king?" Then Arioch made the thing *_known_* to Daniel.
@@ -4515,7 +4515,7 @@ _170 verses containing KNOWLEDGE_
 * `Dan 2:26` The king answered and said to Daniel, whose name was Belteshazzar, "Are you able to make *_known_* to me the dream which I have seen and its interpretation?"
 * `Dan 2:28` But there is a God in heaven who reveals secrets and makes *_known_* to the king Nebuchadnezzar what shall be in the latter days. Your dream and the visions of your head upon your bed are these.
 * `Dan 2:29` As for you, O king, your thoughts came into your mind upon your bed about what should come to pass hereafter, and he who reveals secrets makes *_known_* to you what shall come to pass.
-* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made *_known_* to the king, and that you may know the thoughts of your heart.
+* `Dan 2:30` But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made *_known_* to the king and that you may know the thoughts of your heart.
 * `Dan 2:45` Because you saw that the stone was cut out of the mountain without hands, and that it broke in pieces the iron, the brass, the clay, the silver, and the gold, the great God has made *_known_* to the king what shall come to pass hereafter. And the dream is certain, and its interpretation sure."
 * `Dan 3:18` But if not, may it be *_known_* to you, O king, that we will not serve your gods nor worship the golden image which you have set up."
 * `Dan 4:6` Therefore, I made a decree to bring in all the wise men of Babylon before me so that they might make *_known_* to me the interpretation of the dream.

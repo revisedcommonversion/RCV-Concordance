@@ -1338,7 +1338,7 @@ _45 verses containing WEEP_
 * `Deu 34:8` And the children of Israel wept for Moses in the plains of Moab for thirty days. So the days of *_weeping_* and mourning for Moses were finished.
 * `2Sa 3:16` And her husband went with her, *_weeping_* behind her to Bahurim. Then Abner said to him, "Go, return." And he returned.
 * `2Sa 15:30` And David went up by the ascent of mount Olivet and wept as he went. He had his head covered and he went barefoot. And all the people who were with him each covered his head, and they went up, *_weeping_* as they went.
-* `Ezr 3:13` The people could not discern the noise of the shout of the joy from the noise of the *_weeping_* of the people, for the people shouted with a loud shout and the noise was heard afar off.
+* `Ezr 3:13` The people could not discern the noise of the shout of the joy from the noise of the *_weeping_* of the people, for the people shouted with a loud shout, and the noise was heard afar off.
 * `Ezr 10:1` Now when Ezra had prayed and when he had confessed, *_weeping_* and casting himself down before the house of God, there assembled to him out of Israel a very great congregation of men and women and children, for the people wept very bitterly.
 * `Est 4:3` And in every province wherever the king's commandment and his decree came, there was great mourning among the Jews, with fasting, *_weeping_*, and wailing. And many lay in sackcloth and ashes.
 * `Job 16:16` My face is foul with *_weeping_*, and on my eyelids is the shadow of death,
@@ -4117,8 +4117,6 @@ _514 verses containing WHERE_
 * `Ezk 16:7` I have caused you to multiply like the bud of the field, and you have increased and become great and have come to excellent ornaments. Your breasts are fashioned and your hair is grown, *_whereas_* you were naked and bare.
 * `Ezk 16:34` And the contrary is in you from other women in your unlawful commerce, *_whereas_* no one follows you to commit lewdness. And in that you give a reward, and no reward is given to you, therefore you are contrary."
 * `Ezk 35:10` "Because you have said, 'These two nations and these two countries shall be mine, and we will possess it,' *_whereas_* the LORD was there,
-* `Dan 2:41` And *_whereas_* you saw the feet and toes, part of potter's clay and part of iron, the kingdom shall be divided, but there shall be in it some of the strength of the iron, because you saw the iron mixed with the miry clay.
-* `Dan 2:43` And *_whereas_* you saw iron mixed with miry clay, they shall mingle themselves with the descendants of men, but they shall not cleave to one another, even as iron is not mixed with clay.
 * `Mal 1:4` *_Whereas_* Edom says, "We are impoverished, but we will return and build the desolate places," thus says the LORD of hosts: "They shall build, but I will throw down, and they shall call them, 'The Border of Wickedness,' and, 'The People Against Whom the LORD Has Indignation Forever.'"
 * `Jhn 7:27` But we know this man, where he is from; *_whereas_* when Christ comes, no man knows where he is from."
 * `1Co 3:3` Because you are still carnal. For *_whereas_* there is among you envying, strife, and divisions, are you not carnal and walk as men?
@@ -4126,7 +4124,7 @@ _514 verses containing WHERE_
 * `1Pe 3:16` Have a good conscience so that, *_whereas_* they speak evil of you as of evildoers, they may be ashamed who falsely accuse your good deportment in Christ.
 * `2Pe 2:11` *_Whereas_* angels, who are greater in power and might, do not bring railing accusation against them before the Lord.
 
-_22 verses containing WHEREAS_
+_20 verses containing WHEREAS_
 
 == WHEREBY
 
@@ -5099,7 +5097,7 @@ _199 verses containing WHOEVER_
 * `Ezk 43:12` This is the law of the house. Upon the top of the mountain, its *_whole_* limit around shall be most holy. Behold, this is the law of the house.
 * `Ezk 45:6` "And you shall appoint the possession of the city five thousand broad and twenty-five thousand long, over against the oblation of the holy portion. It shall be for the *_whole_* house of Israel.
 * `Dan 2:35` Then the iron, the clay, the brass, the silver, and the gold were broken to pieces together and became like the chaff of the summer threshing-floors, and the wind carried them away so that no place was found for them. And the stone that smote the image became a great mountain and filled the *_whole_* earth.
-* `Dan 2:48` Then the king made Daniel a great man, gave him many great gifts, and made him ruler over the *_whole_* province of Babylon, and chief of the governors over all the wise men of Babylon.
+* `Dan 2:48` Then the king made Daniel a great man, gave him many great gifts, and made him ruler over the *_whole_* province of Babylon and chief of the governors over all the wise men of Babylon.
 * `Dan 6:1` It pleased Darius to set over the kingdom one hundred and twenty princes who should be over the *_whole_* kingdom,
 * `Dan 6:3` Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him, and the king thought to set him over the *_whole_* realm.
 * `Dan 7:23` "This is what he said: 'The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms and shall devour the *_whole_* earth, tread it down, and break it in pieces.
@@ -5451,7 +5449,7 @@ _20 verses containing WHOMEVER_
 * `Ezk 42:15` Now when he had made an end of measuring the inner house, he brought me forth toward the gate *_whose_* prospect is toward the east and measured it all around.
 * `Ezk 43:4` And the glory of the LORD came into the house by the way of the gate *_whose_* prospect is toward the east.
 * `Ezk 47:12` And by the river upon its bank, on this side and on that side, all trees for food shall grow, *_whose_* leaf shall not fade, neither shall their fruit be consumed. They shall bring forth new fruit according to their months, because their waters issued out of the sanctuary. And their fruit shall be for food and their leaf for medicine."
-* `Dan 2:11` And it is a rare thing that the king requires, and there is no other who can reveal it before the king, except the gods, *_whose_* dwelling is not with flesh."
+* `Dan 2:11` And it is a rare thing that the king requires, and there is no other who can reveal it before the king except the gods, *_whose_* dwelling is not with flesh."
 * `Dan 2:26` The king answered and said to Daniel, *_whose_* name was Belteshazzar, "Are you able to make known to me the dream which I have seen and its interpretation?"
 * `Dan 2:31` "You, O king, saw, and behold a great image. This great image, *_whose_* brightness was excellent, stood before you, and its form was awesome.
 * `Dan 3:1` Nebuchadnezzar the king made an image of gold *_whose_* height was sixty cubits and its breadth six cubits. He set it up in the plain of Dura, in the province of Babylon.

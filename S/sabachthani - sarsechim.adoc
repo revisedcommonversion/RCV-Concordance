@@ -3329,10 +3329,10 @@ _1 verse containing SAFFRON_
 * `Dan 1:11` Then Daniel *_said_* to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 * `Dan 1:18` Now at the end of the days that the king had *_said_* he should bring them in, the prince of the eunuchs brought them in before Nebuchadnezzar.
 * `Dan 2:3` And the king *_said_* to them, "I have dreamed a dream, and my spirit was troubled to know the dream."
-* `Dan 2:5` The king answered and *_said_* to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream, with its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
+* `Dan 2:5` The king answered and *_said_* to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream and its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
 * `Dan 2:7` They answered again and *_said_*, "Let the king tell his servants the dream, and we will reveal its interpretation."
-* `Dan 2:8` The king answered and *_said_*, "I know of certainty that you would gain the time, because you see the thing has gone from me.
-* `Dan 2:10` The Chaldeans answered before the king, and *_said_*, "There is not a man upon the earth who can disclose the king's matter, for there is no king, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
+* `Dan 2:8` The king answered and *_said_*, "I know of certainty that you would gain the time because you see the thing has gone from me.
+* `Dan 2:10` The Chaldeans answered before the king and *_said_*, "There is not a man upon the earth who can disclose the king's matter, for there is no king, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
 * `Dan 2:15` He answered and *_said_* to Arioch the king's captain, "Why is the decree so hasty from the king?" Then Arioch made the thing known to Daniel.
 * `Dan 2:20` Daniel answered and *_said_*, "Blessed be the name of God forever and ever, for wisdom and might are his.
 * `Dan 2:24` Therefore, Daniel went into Arioch, whom the king had ordained to destroy the wise men of Babylon. He went and *_said_* this to him: "Do not destroy the wise men of Babylon. Bring me in before the king, and I will declare to the king the interpretation."
@@ -6248,7 +6248,7 @@ _3 verses containing SANDALS_
 * `1Sa 29:5` Is this not David, of whom they *_sang_* to one another in dances, saying, 'Saul slew his thousands, and David his tens of thousands'?"
 * `2Ch 29:28` And all the congregation worshiped, the singers *_sang_*, and the trumpeters sounded. And all this continued until the burnt-offering was finished.
 * `2Ch 29:30` Moreover, Hezekiah the king and the princes commanded the Levites to sing praise to the LORD, with the words of David and of Asaph the seer. And they *_sang_* praises with gladness and they bowed their heads and worshiped.
-* `Ezr 3:11` And they *_sang_* together by course in praising and giving thanks to the LORD, because he is good, for his mercy endures forever toward Israel. And all the people shouted with a great shout when they praised the LORD, because the foundation of the house of the LORD was laid.
+* `Ezr 3:11` And they *_sang_* together by course in praising and giving thanks to the LORD: "For he is good, for his mercy endures forever toward Israel." And all the people shouted with a great shout when they praised the LORD, because the foundation of the house of the LORD was laid.
 * `Neh 12:42` And Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. And the singers *_sang_* loud with Jezrahiah their overseer.
 * `Job 38:7` When the morning stars *_sang_* together and all the sons of God shouted for joy?
 * `Psa 7:1` [Shiggaion of David: which he *_sang_* to the LORD concerning the words of Cush the Benjaminite.] O LORD my God, I put my trust in you. Save me from all those who persecute me, and deliver me,
