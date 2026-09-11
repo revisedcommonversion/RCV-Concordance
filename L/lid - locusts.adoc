@@ -942,7 +942,7 @@ _91 verses containing LIFT_
 * `Dan 5:23` But you have *_lifted_* up yourself against the Lord of heaven. And they have brought the vessels of his house before you, and you, your lords, your wives, and your concubines have drank wine from them. And you have praised the gods of silver, gold, brass, iron, wood, and stone, which do not see, nor hear, nor know. And the God in whose hand is your breath and all your ways, you have not glorified.
 * `Dan 7:4` The first was like a lion and had eagles' wings. I beheld until its wings were plucked and it was *_lifted_* up from the earth and made to stand upon its feet like a man, and a man's heart was given to it.
 * `Dan 8:3` Then I *_lifted_* up my eyes and saw, and behold, there stood before the river a ram which had two horns. And the two horns were high, but one was higher than the other, and the higher came up last.
-* `Dan 10:5` I *_lifted_* up my eyes and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz.
+* `Dan 10:5` I *_lifted_* up my eyes and looked, and behold, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz.
 * `Dan 11:12` And when he has taken away the multitude, his heart shall be *_lifted_* up, and he shall cast down many ten thousands, but he shall not be strengthened by it.
 * `Mic 5:9` Your hand shall be *_lifted_* up upon your adversaries, and all your enemies shall be cut off.
 * `Hab 2:4` Behold, his soul which is *_lifted_* up is not upright in him, but the just shall live by his faith.
@@ -1316,7 +1316,7 @@ _2 verses containing LIGHTNESS_
 * `Psa 144:6` Cast forth *_lightning_* and scatter them. Shoot your arrows and destroy them.
 * `Ezk 1:13` As for the likeness of the living creatures, their appearance was like burning coals of fire and like the appearance of lamps. It went up and down among the living creatures. And the fire was bright, and out of the fire went forth *_lightning_*.
 * `Ezk 1:14` And the living creatures ran and returned like the appearance of a flash of *_lightning_*.
-* `Dan 10:6` His body was also like beryl, his face as the appearance of *_lightning_*, his eyes as lamps of fire, his arms and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
+* `Dan 10:6` His body was also like beryl, his face like the appearance of *_lightning_*, his eyes like lamps of fire, his arms and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
 * `Zch 9:14` And the LORD shall be seen over them, and his arrow shall go forth like the *_lightning_*. And the Lord GOD will blow the trumpet and will go with whirlwinds of the south.
 * `Mth 24:27` For as the *_lightning_* comes out of the east and shines even to the west, so shall the coming of the Son of man also be.
 * `Mth 28:3` His countenance was like *_lightning_* and his clothing white as snow.
@@ -2133,10 +2133,11 @@ _1 verse containing LIGN-ALOES_
 * `Dan 7:8` I considered the horns, and behold, there came up among them another little horn, before which there were three of the first horns plucked up by the roots. And behold, in this horn were eyes *_like_* the eyes of a man and a mouth speaking great things.
 * `Dan 7:9` "I beheld until the thrones were cast down and the Ancient of days sat, whose garment was as white as snow and the hair of his head *_like_* pure wool. His throne was fiery flames and its wheels were burning fire.
 * `Dan 7:13` "I saw in the night visions, and behold, one *_like_* the son of man came with the clouds of heaven and came to the Ancient of days, and they brought him near before him.
-* `Dan 10:6` His body was also *_like_* beryl, his face as the appearance of lightning, his eyes as lamps of fire, his arms and his feet *_like_* the appearance of polished brass, and the voice of his words *_like_* the voice of a multitude.
-* `Dan 10:16` And behold, one *_like_* the similitude of the sons of men touched my lips. Then I opened my mouth and spoke, and said to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
-* `Dan 10:18` Then the one *_like_* the appearance of a man came back and touched me and strengthened me,
-* `Dan 11:40` "And at the time of the end the king of the south shall war against him. And the king of the north shall come against him *_like_* a whirlwind, with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
+* `Dan 10:6` His body was also *_like_* beryl, his face *_like_* the appearance of lightning, his eyes *_like_* lamps of fire, his arms and his feet *_like_* the appearance of polished brass, and the voice of his words *_like_* the voice of a multitude.
+* `Dan 10:16` And behold, one *_like_* the similitude of the sons of men touched my lips. Then I opened my mouth and spoke and said to him who stood before me, "O my lord, because of the vision, my sorrows have turned upon me, and I have retained no strength.
+* `Dan 10:18` Then the one *_like_* the appearance of a man came back and touched me and strengthened me
+* `Dan 11:40` "And at the time of the end the king of the south shall war against him. And the king of the north shall come against him *_like_* a whirlwind with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
+* `Dan 12:3` And those who are wise shall shine *_like_* the brightness of the firmament, and those who turn many to righteousness, *_like_* the stars forever and ever.
 * `Hos 2:3` Lest I strip her naked, set her as in the day that she was born, make her *_like_* a wilderness, and set her *_like_* a dry land and kill her with thirst.
 * `Hos 4:16` For Israel slides back *_like_* a backsliding heifer. Now the LORD will feed them *_like_* a lamb in a large place.
 * `Hos 5:10` The princes of Judah were *_like_* those who move the landmark; therefore, I will pour out my wrath upon them *_like_* water.
@@ -2365,7 +2366,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_995 verses containing LIKE_
+_996 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -2751,7 +2752,7 @@ _1 verse containing LINEAGE_
 * `Ezk 27:16` Syria was your merchant by reason of the multitude of the wares of your making. They occupied in your fairs with emeralds, purple, embroidered work, fine *_linen_*, coral, and agate.
 * `Ezk 44:17` And it shall come to pass when they enter in at the gates of the inner court, that they shall be clothed with *_linen_* garments. No wool shall come upon them while they minister in the gates of the inner court and within.
 * `Ezk 44:18` They shall have *_linen_* caps upon their heads and *_linen_* breeches upon their loins. They shall not gird themselves with anything that causes sweat.
-* `Dan 10:5` I lifted up my eyes and looked, and behold a certain man clothed in *_linen_*, whose loins were girded with fine gold of Uphaz.
+* `Dan 10:5` I lifted up my eyes and looked, and behold, a certain man clothed in *_linen_*, whose loins were girded with fine gold of Uphaz.
 * `Dan 12:6` And someone said to the man clothed in *_linen_*, who was upon the waters of the river, "How long shall it be to the end of these wonders?"
 * `Dan 12:7` And I heard the man clothed in *_linen_*, who was upon the waters of the river, when he held up his right hand and his left hand to heaven and swore by him who lives forever, that it shall be for a time, times, and a half of a time. And when he has made an end of dispersing the power of the holy people, all these things shall be finished.
 * `Mth 27:59` And when Joseph had taken the body, he wrapped it in a clean *_linen_* cloth,
@@ -3083,7 +3084,7 @@ _3 verses containing LIP_
 * `Ezk 24:17` Forbear to cry, make no mourning for the dead, bind the turban of your head upon you, put your shoes upon your feet, do not cover your *_lips_*, and do not eat the bread of men."
 * `Ezk 24:22` And you shall do as I have done. You shall not cover your *_lips_* nor eat the bread of men.
 * `Ezk 36:3` Therefore prophesy and say, 'Thus says the Lord GOD: "Because they have made you desolate and swallowed you up on every side, so that you might be a possession to the rest of the heathen, and you are taken up in the *_lips_* of talkers and are an infamy of the people"—
-* `Dan 10:16` And behold, one like the similitude of the sons of men touched my *_lips_*. Then I opened my mouth and spoke, and said to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
+* `Dan 10:16` And behold, one like the similitude of the sons of men touched my *_lips_*. Then I opened my mouth and spoke and said to him who stood before me, "O my lord, because of the vision, my sorrows have turned upon me, and I have retained no strength.
 * `Hos 14:2` Take with you words and turn to the LORD. Say to him, "Take away all iniquity and receive us graciously, and we will render to you the calves of our *_lips_*.
 * `Mic 3:7` Then the seers shall be ashamed and the diviners confounded. Indeed, they shall all cover their *_lips_*, for there is no answer from God."
 * `Hab 3:16` When I heard, my belly trembled. My *_lips_* quivered at the voice. Rottenness entered into my bones, and I trembled in myself. I will rest in the day of trouble, when he comes up to the people that he invades with his troops.

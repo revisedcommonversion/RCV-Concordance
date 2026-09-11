@@ -206,10 +206,10 @@ _38 verses containing APPOINT_
 * `Dan 1:5` And the king *_appointed_* them a daily provision of the king's food and of the wine which he drank, thus nourishing them three years, so that at the end thereof they might stand before the king.
 * `Dan 1:10` And the prince of the eunuchs said to Daniel, "I fear my lord the king who has *_appointed_* your provision and your drink. For why should he see your faces more meager than the children who are of your sort? Then you will make me endanger my head to the king."
 * `Dan 8:19` And he said, "Behold, I will make you know what shall be in the last end of the indignation, for at the time *_appointed_* the end shall be.
-* `Dan 10:1` In the third year of Cyrus king of Persia, a thing was revealed to Daniel, whose name was called Belteshazzar, and the thing was true, but the *_appointed_* time was long. And he understood the thing, and had understanding of the vision.
+* `Dan 10:1` In the third year of Cyrus king of Persia, a thing was revealed to Daniel, whose name was called Belteshazzar, and the thing was true, but the *_appointed_* time was long. And he understood the thing and had understanding of the vision.
 * `Dan 11:27` And both these kings' hearts shall be set to do mischief, and they shall speak lies at one table, but it shall not prosper, for yet the end shall be at the time *_appointed_*.
-* `Dan 11:29` "At the time *_appointed_* he shall return and come toward the south, but it shall not be as the former, or as the latter.
-* `Dan 11:35` And some of them of understanding shall fall, in order to try them, to purge them, and to make them white, even to the time of the end, because it is yet for a time *_appointed_*.
+* `Dan 11:29` "At the time *_appointed_* he shall return and come toward the south, but it shall not be as the former or as the latter.
+* `Dan 11:35` And some of them of understanding shall fall, in order to try them, to purge them, and to make them white, even to the time of the end, because it is still for a time *_appointed_*.
 * `Mic 6:9` The LORD'S voice cries to the city—and wisdom shall fear your name, "Hear the rod and who has *_appointed_* it.
 * `Hab 2:3` For the vision is yet for an *_appointed_* time, but at the end it shall speak, and it will not lie. Though it may linger, wait for it, because it will surely come. It will not delay.
 * `Mth 26:19` And the disciples did as Jesus had *_appointed_* them and they made ready the passover.
@@ -909,6 +909,7 @@ _1 verse containing ARISAI_
 * `Dan 7:5` And behold another beast, a second, like a bear, and it raised itself on one side, and it had three ribs in its mouth between its teeth, and they said this to it: '*_Arise_*, devour much flesh.'
 * `Dan 7:17` 'These great beasts, which are four, are four kings which shall *_arise_* out of the earth.
 * `Dan 7:24` And the ten horns out of this kingdom are ten kings who shall *_arise_*. And another shall rise after them, and he shall be diverse from the first and he shall subdue three kings.
+* `Dan 11:2` And now I will show you the truth. Behold, three more kings shall *_arise_* in Persia. And a fourth shall be far richer than all of them, and by his strength through his riches he shall stir up all against the realm of Grecia.
 * `Hos 10:14` Therefore a tumult shall *_arise_* among your people, and all your fortresses shall be plundered, as Shalman plundered Beth-arbel in the day of battle. The mother was dashed in pieces upon her children.
 * `Amo 7:2` And it came to pass when they had made an end of eating the grass of the land, that I said, "O Lord GOD, forgive, I implore you. By whom shall Jacob *_arise_*? For he is small."
 * `Amo 7:5` Then I said, "O Lord GOD, cease, I implore you. By whom shall Jacob *_arise_*? For he is small."
@@ -951,7 +952,7 @@ _1 verse containing ARISAI_
 * `Act 22:16` And now why do you wait? *_Arise_*, be baptized, and wash away your sins, calling on the name of the Lord.'
 * `Eph 5:14` Therefore, he says, "Awake, you who sleep, and *_arise_* from the dead, and Christ will give you light."
 
-_154 verses containing ARISE_
+_155 verses containing ARISE_
 
 == ARISEN
 
@@ -1472,7 +1473,7 @@ _2 verses containing ARMPITS_
 * `Ezk 30:24` And I will strengthen the *_arms_* of the king of Babylon and put my sword in his hand, but I will break Pharaoh's *_arms_*, and he shall groan before him with the groanings of a deadly wounded man.
 * `Ezk 30:25` But I will strengthen the *_arms_* of the king of Babylon, and the *_arms_* of Pharaoh shall fall down. And they shall know that I am the LORD when I put my sword into the hand of the king of Babylon and he stretches it out upon the land of Egypt.
 * `Dan 2:32` The head of this image was of fine gold, his chest and his *_arms_* of silver, his belly and his thighs of brass,
-* `Dan 10:6` His body was also like beryl, his face as the appearance of lightning, his eyes as lamps of fire, his *_arms_* and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
+* `Dan 10:6` His body was also like beryl, his face like the appearance of lightning, his eyes like lamps of fire, his *_arms_* and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
 * `Dan 11:15` And the king of the north shall come, cast up a siege-mound, and take the most fortified cities. And the *_arms_* of the south shall not withstand, nor his chosen people, nor shall there be any strength to withstand.
 * `Dan 11:22` And with the *_arms_* of a flood they shall be overflowed from before him and shall be broken, as well as the prince of the covenant.
 * `Hos 7:15` Though I have bound and strengthened their *_arms_*, yet they devise mischief against me.
@@ -1566,7 +1567,7 @@ _27 verses containing ARMS_
 * `Dan 3:20` And he commanded the most mighty men who were in his *_army_* to bind Shadrach, Meshach, and Abed-nego, and to cast them into the burning fiery furnace.
 * `Dan 4:35` And all the inhabitants of the earth are reputed as nothing. And he does according to his will in the *_army_* of heaven and among the inhabitants of the earth. And no one can stay his hand or say to him, 'What are you doing?'
 * `Dan 11:7` But out of a branch of her roots one shall stand up in his estate, who shall come with an *_army_*, enter into the fortress of the king of the north, deal against them, and prevail.
-* `Dan 11:13` For the king of the north shall return and set forth a multitude greater than the former, and shall certainly come after some years with a great *_army_* and with much riches.
+* `Dan 11:13` For the king of the north shall return and set forth a multitude greater than the former, and shall certainly come after some years with a great *_army_* and with many supplies.
 * `Dan 11:25` And he shall stir up his power and his courage against the king of the south with a great *_army_*. And the king of the south shall be stirred up to battle with a very great and mighty *_army_*, but he shall not stand, for they shall devise plans against him.
 * `Dan 11:26` And those who feed from the portion of his provisions shall destroy him, and his *_army_* shall overflow. And many shall fall down slain.
 * `Joe 2:11` And the LORD will utter his voice before his *_army_*, for his camp is very great, and he is strong who executes his word. For the day of the LORD is great and very terrible. Who can endure it?

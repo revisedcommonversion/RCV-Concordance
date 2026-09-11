@@ -45,7 +45,7 @@ _1 verse containing QUAKED_
 == QUAKING
 
 * `Ezk 12:18` "Son of man, eat your bread with *_quaking_* and drink your water with trembling and with solicitude.
-* `Dan 10:7` And I, Daniel, alone saw the vision. The men who were with me did not see the vision, but a great *_quaking_* fell upon them, so that they fled to hide themselves.
+* `Dan 10:7` And I, Daniel, alone saw the vision. The men who were with me did not see the vision, but a great *_quaking_* fell upon them, and they fled to hide themselves.
 
 _2 verses containing QUAKING_
 

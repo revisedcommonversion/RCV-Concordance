@@ -908,8 +908,8 @@ _1 verse containing SOURCE_
 * `Dan 11:14` "And in those times many shall stand up against the king of the *_south_*. The robbers of your people shall also exalt themselves to establish the vision, but they shall fall.
 * `Dan 11:15` And the king of the north shall come, cast up a siege-mound, and take the most fortified cities. And the arms of the *_south_* shall not withstand, nor his chosen people, nor shall there be any strength to withstand.
 * `Dan 11:25` And he shall stir up his power and his courage against the king of the *_south_* with a great army. And the king of the *_south_* shall be stirred up to battle with a very great and mighty army, but he shall not stand, for they shall devise plans against him.
-* `Dan 11:29` "At the time appointed he shall return and come toward the *_south_*, but it shall not be as the former, or as the latter.
-* `Dan 11:40` "And at the time of the end the king of the *_south_* shall war against him. And the king of the north shall come against him like a whirlwind, with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
+* `Dan 11:29` "At the time appointed he shall return and come toward the *_south_*, but it shall not be as the former or as the latter.
+* `Dan 11:40` "And at the time of the end the king of the *_south_* shall war against him. And the king of the north shall come against him like a whirlwind with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
 * `Oba 1:19` And those of the *_south_* shall possess the mountain of Esau, and those of the plain, the Philistines. And they shall possess the fields of Ephraim and the fields of Samaria. And Benjamin shall possess Gilead.
 * `Oba 1:20` And the captivity of this host of the children of Israel shall possess that of the Canaanites, even to Zarephath. And the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the *_south_*.
 * `Zch 6:6` The black horses which are therein go forth into the north country, the white go forth after them, the grizzled go forth toward the *_south_* country."
@@ -1595,10 +1595,10 @@ _4 verses containing SPARROWS_
 * `Ezk 37:18` And when the children of your people *_speak_* to you, saying, 'Will you not show us what you mean by these?'
 * `Dan 2:9` But if you will not make known to me the dream, there is but one decree for you, for you have prepared lying and corrupt words to *_speak_* before me, until the time is changed. Therefore, tell me the dream and I shall know that you can tell me its interpretation."
 * `Dan 7:25` And he shall *_speak_* great words against the most High and wear out the saints of the most High and think to change times and laws. And they shall be given into his hand until a time and times and the dividing of time.
-* `Dan 10:11` And he said to me, "O Daniel, a man greatly beloved, understand the words that I *_speak_* to you, and stand upright, for I am now sent to you." And when he had spoken this word to me, I stood trembling.
-* `Dan 10:19` And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had spoken to me, I was strengthened, and said, "Let my lord *_speak_*, for you have strengthened me."
+* `Dan 10:11` And he said to me, "O Daniel, a man greatly beloved, understand the words that I *_speak_* to you, and stand upright, for I have now been sent to you." And when he had spoken this word to me, I stood trembling.
+* `Dan 10:19` And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had spoken to me, I was strengthened and said, "Let my lord *_speak_*, for you have strengthened me."
 * `Dan 11:27` And both these kings' hearts shall be set to do mischief, and they shall *_speak_* lies at one table, but it shall not prosper, for yet the end shall be at the time appointed.
-* `Dan 11:36` "And the king shall do according to his will. He shall exalt himself and magnify himself above every god, and shall *_speak_* marvelous things against the God of gods. He shall prosper until the indignation is accomplished, for that which is determined shall be done.
+* `Dan 11:36` "And the king shall do according to his will. He shall exalt himself and magnify himself above every god and shall *_speak_* marvelous things against the God of gods. He shall prosper until the indignation is accomplished, for that which is determined shall be done.
 * `Hos 2:14` "Therefore, behold, I will allure her, bring her into the wilderness, and *_speak_* comfortably to her.
 * `Oba 1:12` But do not look in the day of your brother, in the day that he became a stranger, neither rejoice over the children of Judah in the day of their destruction, neither *_speak_* proudly in the day of distress.
 * `Hab 2:3` For the vision is yet for an appointed time, but at the end it shall *_speak_*, and it will not lie. Though it may linger, wait for it, because it will surely come. It will not delay.
@@ -3508,7 +3508,7 @@ _4 verses containing SPLIT_
 * `Dan 8:13` Then I heard one saint speaking, and another saint said to that certain saint who *_spoke_*, "How long shall the vision be concerning the daily sacrifice and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
 * `Dan 9:6` Neither have we listened to your servants the prophets who *_spoke_* in your name to our kings, our princes, our fathers, and to all the people of the land.
 * `Dan 9:12` And he has confirmed his words which he *_spoke_* against us and against our judges who judged us by bringing upon us a great evil. For under the whole heaven it has not been done as it has been done upon Jerusalem.
-* `Dan 10:16` And behold, one like the similitude of the sons of men touched my lips. Then I opened my mouth and *_spoke_*, and said to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
+* `Dan 10:16` And behold, one like the similitude of the sons of men touched my lips. Then I opened my mouth and *_spoke_* and said to him who stood before me, "O my lord, because of the vision, my sorrows have turned upon me, and I have retained no strength.
 * `Hos 12:4` He even had power over the angel and prevailed. He wept and made supplication to him. He found [God] in Beth-el, and there [God] *_spoke_* with us,
 * `Hos 13:1` "When Ephraim *_spoke_*, there was trembling. He exalted himself in Israel. But when he offended in Baal, he died.
 * `Jna 2:10` And the LORD *_spoke_* to the fish, and it vomited out Jonah upon the dry land.
@@ -3816,9 +3816,9 @@ _566 verses containing SPOKE_
 * `Ezk 39:5` You shall fall upon the open field. For I have *_spoken_* it," says the Lord GOD.
 * `Ezk 39:8` Behold, it comes, and it shall be done," says the Lord GOD. "This is the day of which I have *_spoken_*.
 * `Dan 4:31` While the word was in the king's mouth, there fell a voice from heaven, saying, 'O king Nebuchadnezzar, to you it is *_spoken_*, "The kingdom has departed from you.
-* `Dan 10:11` And he said to me, "O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright, for I am now sent to you." And when he had *_spoken_* this word to me, I stood trembling.
+* `Dan 10:11` And he said to me, "O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright, for I have now been sent to you." And when he had *_spoken_* this word to me, I stood trembling.
 * `Dan 10:15` And when he had *_spoken_* such words to me, I set my face toward the ground and I became mute.
-* `Dan 10:19` And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had *_spoken_* to me, I was strengthened, and said, "Let my lord speak, for you have strengthened me."
+* `Dan 10:19` And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had *_spoken_* to me, I was strengthened and said, "Let my lord speak, for you have strengthened me."
 * `Hos 7:13` Woe to them! For they have fled from me. Destruction to them! For they have transgressed against me. Though I have redeemed them, yet they have *_spoken_* lies against me.
 * `Hos 10:4` They have *_spoken_* words, swearing falsely in making a covenant. Thus judgment springs up like hemlock in the furrows of the field.
 * `Hos 12:10` I have also *_spoken_* by the prophets and I have multiplied visions. I used similitudes by the ministry of the prophets.
