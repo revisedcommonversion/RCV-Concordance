@@ -2692,8 +2692,8 @@ _12 verses containing SOMEWHAT_
 * `Ezr 8:10` Of the sons of Shelomith: the *_son_* of Josiphiah, and with him one hundred and sixty males.
 * `Ezr 8:11` Of the sons of Bebai: Zechariah the *_son_* of Bebai, and with him twenty-eight males.
 * `Ezr 8:12` Of the sons of Azgad: Johanan the *_son_* of Hakkatan, and with him one hundred and ten males.
-* `Ezr 8:18` And by the good hand of our God upon us they brought us a man of understanding of the sons of Mahli, the *_son_* of Levi, the *_son_* of Israel: Sherebiah, with his sons and his brothers, eighteen men.
-* `Ezr 8:33` Now on the fourth day the silver, the gold, and the vessels were weighed in the house of our God by the hand of Meremoth the *_son_* of Uriah the priest, and with him was Eleazar the *_son_* of Phinehas, and with them were the Levites Jozabad the *_son_* of Jeshua and Noadiah the *_son_* of Binnui.
+* `Ezr 8:18` And by the good hand of our God upon us, they brought us a man of understanding from the sons of Mahli, the *_son_* of Levi, the *_son_* of Israel: Sherebiah, with his sons and his brothers, eighteen men.
+* `Ezr 8:33` Now on the fourth day the silver, the gold, and the vessels were weighed in the house of our God by the hand of Meremoth the *_son_* of Uriah the priest, and with him was Eleazar the *_son_* of Phinehas, and with them were the Levites, Jozabad the *_son_* of Jeshua and Noadiah the *_son_* of Binnui.
 * `Ezr 10:2` And Shechaniah the *_son_* of Jehiel, one of the sons of Elam, answered and said to Ezra, "We have trespassed against our God and have taken foreign wives from the people of the land, yet now there is hope in Israel concerning this thing.
 * `Ezr 10:6` Then Ezra arose from before the house of God and went into the chamber of Johanan the *_son_* of Eliashib. And when he came there, he ate no bread nor drank water, for he mourned because of the transgression of those who had been carried away.
 * `Ezr 10:15` Only Jonathan the *_son_* of Asahel and Jahaziah the *_son_* of Tikvah were employed about this matter. And Meshullam and Shabbethai the Levite helped them.
@@ -4310,8 +4310,8 @@ _20 verses containing SONGS_
 * `Ezr 8:12` Of the *_sons_* of Azgad: Johanan the son of Hakkatan, and with him one hundred and ten males.
 * `Ezr 8:13` And of the last *_sons_* of Adonikam, whose names are these: Eliphelet, Jeiel, and Shemaiah, and with them sixty males.
 * `Ezr 8:14` And of the *_sons_* of Bigvai: Uthai, and Zabbud, and with them seventy males.
-* `Ezr 8:15` And I assembled them at the river that runs to Ahava, and there we stayed in tents three days. And I viewed the people and the priests and found none of the *_sons_* of Levi there.
-* `Ezr 8:18` And by the good hand of our God upon us they brought us a man of understanding of the *_sons_* of Mahli, the son of Levi, the son of Israel: Sherebiah, with his *_sons_* and his brothers, eighteen men.
+* `Ezr 8:15` And I assembled them at the river that runs to Ahava, and there we stayed in tents for three days. And I viewed the people and the priests and found none of the *_sons_* of Levi there.
+* `Ezr 8:18` And by the good hand of our God upon us, they brought us a man of understanding from the *_sons_* of Mahli, the son of Levi, the son of Israel: Sherebiah, with his *_sons_* and his brothers, eighteen men.
 * `Ezr 8:19` And they also brought Hashabiah, and with him Jeshaiah of the *_sons_* of Merari, his brothers and their *_sons_*, twenty men,
 * `Ezr 9:2` For they have taken some of their daughters for themselves and for their *_sons_* so that the holy nation has mixed with the people of those lands. Even the hand of the princes and rulers has been chief in this trespass."
 * `Ezr 9:12` Now therefore, do not give your daughters to their *_sons_*, neither take their daughters to your *_sons_*, nor seek their peace or their wealth forever, so that you may be strong and eat the good of the land and leave it for an inheritance to your children forever.'
@@ -4323,7 +4323,7 @@ _20 verses containing SONGS_
 * `Ezr 10:25` Moreover, of Israel: of the *_sons_* of Parosh: Ramiah, Jeziah, Malchiah, Miamin, Eleazar, Malchijah, and Benaiah.
 * `Ezr 10:26` And of the *_sons_* of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Eliah.
 * `Ezr 10:27` And of the *_sons_* of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
-* `Ezr 10:28` Of the *_sons_* also of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
+* `Ezr 10:28` And of the *_sons_* of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 * `Ezr 10:29` And of the *_sons_* of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Ramoth.
 * `Ezr 10:30` And of the *_sons_* of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Binnui, and Manasseh.
 * `Ezr 10:31` And of the *_sons_* of Harim: Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,

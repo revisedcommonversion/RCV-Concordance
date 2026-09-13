@@ -401,7 +401,7 @@ _1 verse containing INFORMATION_
 
 == INFORMED
 
-* `Ezr 4:14` Now because we eat the salt of the palace, and it was not proper for us to see the king's dishonor, therefore we have sent and *_informed_* the king,
+* `Ezr 4:14` Now because we eat the salt of the palace, and it was not proper for us to see the king's dishonor, therefore we have sent and *_informed_* the king
 * `Dan 9:22` And he *_informed_* me and talked with me and said, "O Daniel, I have now come forth to give you skill and understanding.
 * `Luk 7:18` And the disciples of John *_informed_* him of all these things.
 * `Act 21:21` And they are *_informed_* concerning you, that you teach all the Jews who are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
@@ -2087,7 +2087,7 @@ _5 verses containing INTERPRET_
 * `Dan 4:9` 'O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you and no secret troubles you, tell me the visions of my dream that I have seen and its *_interpretation_*.
 * `Dan 4:18` 'This dream I, king Nebuchadnezzar, have seen. Now you, O Belteshazzar, declare its *_interpretation_*, because all the wise men of my kingdom are not able to make known to me the *_interpretation_*. But you are able, for the spirit of the holy gods is in you.'
 * `Dan 4:19` "Then Daniel, whose name was Belteshazzar, was astonished for one hour, and his thoughts troubled him. The king spoke and said, 'Belteshazzar, do not let the dream or its *_interpretation_* trouble you.' Belteshazzar answered and said, 'My lord, may the dream be to those who hate you, and its *_interpretation_* to your enemies.
-* `Dan 4:24` This is the *_interpretation_*, O king, and this is the decree of the most High, which has come upon my lord the king:
+* `Dan 4:24` This is the *_interpretation_*, O king, and this is the decree of the most High which has come upon my lord the king:
 * `Dan 5:7` The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spoke and said to the wise men of Babylon, "Whoever reads this writing and declares to me its *_interpretation_* shall be clothed with scarlet, have a chain of gold around his neck, and shall be the third ruler in the kingdom."
 * `Dan 5:8` Then all the king's wise men came in, but they could not read the writing nor make known to the king its *_interpretation_*.
 * `Dan 5:12` Because an excellent spirit, knowledge, understanding, the interpreting of dreams, the declaring of riddles, and dissolving of doubts were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will reveal the *_interpretation_*."
