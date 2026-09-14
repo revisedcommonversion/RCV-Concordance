@@ -463,7 +463,7 @@ _1 verse containing SACRED_
 * `2Ch 28:23` For he sacrificed to the gods of Damascus, which smote him, and he said, "Because the gods of the kings of Syria help them, therefore I will *_sacrifice_* to them so that they may help me." But they were the ruin of him and of all Israel.
 * `Ezr 9:4` Then everyone who trembled at the words of the God of Israel was assembled to me because of the transgression of those who had been carried away. And I sat confounded until the evening *_sacrifice_*.
 * `Ezr 9:5` And at the evening *_sacrifice_* I arose from my heaviness, and having rent my garment and my mantle, I fell upon my knees and spread out my hands to the LORD my God
-* `Neh 4:2` And he spoke before his brothers and the army of Samaria, and said, "What are these feeble Jews doing? Will they fortify themselves? Will they *_sacrifice_*? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
+* `Neh 4:2` And he spoke before his brothers and the army of Samaria and said, "What are these feeble Jews doing? Will they fortify themselves? Will they *_sacrifice_*? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
 * `Psa 20:3` Remember all your offerings, and accept your burnt-*_sacrifice_*. [Selah.]
 * `Psa 40:6` *_Sacrifice_* and offering you did not desire. You have opened my ears. Burnt-offering and sin-offering you have not required.
 * `Psa 50:5` "Gather my saints together to me, those who have made a covenant with me by *_sacrifice_*."
@@ -685,7 +685,7 @@ _1 verse containing SACRILEGE_
 * `1Sa 1:18` And she said, "Let your servant find grace in your sight." So the woman went her way and ate, and her countenance was no longer *_sad_*.
 * `1Ki 21:5` But Jezebel his wife came to him and said to him, "Why is your spirit so *_sad_* that you eat no bread?"
 * `Neh 2:1` And it came to pass in the month of Nisan, in the twentieth year of Artaxerxes the king, that wine was before him. And I took up the wine and gave it to the king. Now I had not before been *_sad_* in his presence.
-* `Neh 2:2` Therefore, the king said to me, "Why is your countenance *_sad_*, seeing you are not sick? This is nothing but sorrow of heart." Then I was very greatly afraid,
+* `Neh 2:2` Therefore, the king said to me, "Why is your countenance *_sad_*, seeing you are not sick? This is nothing but sorrow of heart." Then I was very greatly afraid
 * `Neh 2:3` And said to the king, "Let the king live forever. Why should my countenance not be *_sad_* when the city, the place of my fathers' sepulchers, lies waste and its gates are consumed with fire?"
 * `Neh 8:10` Then he said to them, "Go your way, eat the fat and drink what is sweet, and send portions to those for whom nothing is prepared. For this day is holy to our Lord. Do not be *_sad_*, for the joy of the LORD is your strength."
 * `Ezk 13:22` Because with lies you have made the heart of the righteous *_sad_*, whom I have not made *_sad_*, and strengthened the hands of the wicked so that he should not return from his wicked way and be saved alive,
@@ -2908,7 +2908,7 @@ _1 verse containing SAFFRON_
 * `Ezr 10:12` Then all the congregation answered and *_said_* with a loud voice, "As you have *_said_*, so we must do.
 * `Neh 1:3` And they *_said_* to me, "The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down and its gates are burned with fire."
 * `Neh 1:5` And *_said_*, "I implore you, O LORD God of heaven, the great and awesome God, who keeps covenant and mercy for those who love him and observe his commandments,
-* `Neh 2:2` Therefore, the king *_said_* to me, "Why is your countenance sad, seeing you are not sick? This is nothing but sorrow of heart." Then I was very greatly afraid,
+* `Neh 2:2` Therefore, the king *_said_* to me, "Why is your countenance sad, seeing you are not sick? This is nothing but sorrow of heart." Then I was very greatly afraid
 * `Neh 2:3` And *_said_* to the king, "Let the king live forever. Why should my countenance not be sad when the city, the place of my fathers' sepulchers, lies waste and its gates are consumed with fire?"
 * `Neh 2:4` Then the king *_said_* to me, "For what do you make request?" So I prayed to the God of heaven.
 * `Neh 2:5` And I *_said_* to the king, "If it should please the king, and if your servant has found favor in your sight, that you would send me to Judah, to the city of my fathers' sepulchers, so that I may build it."
@@ -2916,16 +2916,16 @@ _1 verse containing SAFFRON_
 * `Neh 2:7` Moreover, I *_said_* to the king, "If it should please the king, let letters be given to me for the governors beyond the river so that they may convey me over until I come into Judah,
 * `Neh 2:17` Then I *_said_* to them, "You see the distress that we are in, how Jerusalem lies waste and its gates are burned with fire. Come, and let us build up the wall of Jerusalem so that we may no more be a reproach."
 * `Neh 2:18` Then I told them about the hand of my God which was good upon me and about the king's words that he had spoken to me. And they *_said_*, "Let us rise and build." So they strengthened their hands for this good work.
-* `Neh 2:19` But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard it, they laughed us to scorn and despised us, and *_said_*, "What is this thing that you do? Will you rebel against the king?"
-* `Neh 2:20` Then I answered them, and *_said_* to them, "The God of heaven, he will prosper us; therefore, we his servants will arise and build. But you have no portion, right, nor memorial in Jerusalem."
-* `Neh 4:2` And he spoke before his brothers and the army of Samaria, and *_said_*, "What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
+* `Neh 2:19` But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard it, they laughed us to scorn and despised us and *_said_*, "What is this thing that you do? Will you rebel against the king?"
+* `Neh 2:20` Then I answered them and *_said_* to them, "The God of heaven, he will prosper us; therefore, we his servants will arise and build. But you have no portion, right, or memorial in Jerusalem."
+* `Neh 4:2` And he spoke before his brothers and the army of Samaria and *_said_*, "What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
 * `Neh 4:3` Now Tobiah the Ammonite was by him, and he *_said_*, "Even that which they build, if a fox should go up, he would even break down their stone wall."
 * `Neh 4:10` And Judah *_said_*, "The strength of the bearers of burdens is fading and there is much debris. We are not able to build the wall."
 * `Neh 4:11` And our adversaries *_said_*, "They shall not know, neither see, until we come in the midst among them, slay them, and cause the work to cease."
-* `Neh 4:12` And it came to pass, that when the Jews who dwelt by them came, they *_said_* to us ten times, "From all places where you shall return to us they will be upon you."
+* `Neh 4:12` And it came to pass when the Jews who dwelt by them came, that they *_said_* to us ten times, "From all places where you shall return to us they will be upon you."
 * `Neh 4:14` And I looked, arose, and *_said_* to the nobles, to the rulers, and to the rest of the people, "Do not be afraid of them. Remember the Lord who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your houses."
 * `Neh 4:19` And I *_said_* to the nobles, to the rulers, and to the rest of the people, "The work is great and large, and we are separated upon the wall, one far from another.
-* `Neh 4:22` And at the same time I *_said_* to the people, "Let everyone with his servant lodge within Jerusalem, so that in the night they may be a guard to us, and labor in the day."
+* `Neh 4:22` And at the same time I *_said_* to the people, "Let everyone with his servant lodge within Jerusalem, so that in the night they may be a guard to us and labor in the day."
 * `Neh 5:2` For there were some who *_said_*, "We, our sons, and our daughters are many. Therefore, we take up grain for them so that we may eat and live."
 * `Neh 5:3` There were also some who *_said_*, "We have mortgaged our lands, vineyards, and houses so that we might buy grain because of the famine."
 * `Neh 5:4` There were also some who *_said_*, "We have borrowed money for the king's tribute, and that is upon our lands and vineyards.
@@ -5270,7 +5270,7 @@ _158 verses containing SALVATION_
 * `2Ch 28:15` And the men who were expressed by name arose, took the captives, and with the plunder clothed all who were naked among them and arrayed them, shod them, gave them something to eat and to drink, anointed them, carried all the feeble among them upon donkeys, and brought them to their brothers at Jericho, the city of palm trees. Then they returned to *_Samaria_*.
 * `Ezr 4:10` And the rest of the nations whom the great and noble Asnapper brought over and set in the cities of *_Samaria_*, and the rest who are on this side of the river, and at such a time.
 * `Ezr 4:17` Then the king sent an answer to Rehum the chancellor, to Shimshai the scribe, and to the rest of their companions who dwell in *_Samaria_*, and to the rest beyond the river: "Peace, and at such a time.
-* `Neh 4:2` And he spoke before his brothers and the army of *_Samaria_*, and said, "What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
+* `Neh 4:2` And he spoke before his brothers and the army of *_Samaria_* and said, "What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they make an end in a day? Will they revive the stones out of the heaps of debris which are burned?"
 * `Isa 7:9` And the head of Ephraim is *_Samaria_*, and the head of *_Samaria_* is Remaliah's son. If you will not believe, surely you shall not be established."'"
 * `Isa 8:4` For before the child has knowledge to cry, 'My father,' and, 'My mother,' the riches of Damascus and the plunder of *_Samaria_* shall be taken away before the king of Assyria."
 * `Isa 9:9` And all the people shall know, even Ephraim and the inhabitant of *_Samaria_*, who say in the pride and stoutness of heart,
@@ -5454,7 +5454,7 @@ _7 verses containing SAMARITANS_
 * `Ezr 5:16` Then the *_same_* Sheshbazzar came and laid the foundation of the house of God which is in Jerusalem. And since that time even until now it has been in building, but it is not yet finished.'
 * `Ezr 6:3` "In the first year of Cyrus the king, the *_same_* Cyrus the king made a decree concerning the house of God at Jerusalem: 'Let the house be built, the place where they offered sacrifices, and let its foundations be strongly laid—its height sixty cubits and its breadth sixty cubits,
 * `Ezr 10:23` And of the Levites: Jozabad, Shimei, Kelaiah (the *_same_* is Kelita), Pethahiah, Judah, and Eliezer.
-* `Neh 4:22` And at the *_same_* time I said to the people, "Let everyone with his servant lodge within Jerusalem, so that in the night they may be a guard to us, and labor in the day."
+* `Neh 4:22` And at the *_same_* time I said to the people, "Let everyone with his servant lodge within Jerusalem, so that in the night they may be a guard to us and labor in the day."
 * `Neh 6:4` Yet they sent to me four times after this sort, and I answered them after the *_same_* manner.
 * `Neh 10:37` And that we should bring the first-fruits of our dough and our offerings, and the fruit of all manner of trees, of wine, and of oil to the priests, to the chambers of the house of our God; and the tithes of our ground to the Levites, so that the *_same_* Levites might have the tithes in all the cities of our tillage.
 * `Est 1:18` This day, the ladies of Persia and Media who have heard about the deed of the queen will say the *_same_* thing to all the king's princes. Thus there will arise too much contempt and wrath.
@@ -5890,9 +5890,9 @@ _121 verses containing SAMUEL_
 == SANBALLAT
 
 * `Neh 2:10` When *_Sanballat_* the Horonite and Tobiah the Ammonite servant heard of it, it grieved them exceedingly that there had come a man to seek the welfare of the children of Israel.
-* `Neh 2:19` But when *_Sanballat_* the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard it, they laughed us to scorn and despised us, and said, "What is this thing that you do? Will you rebel against the king?"
-* `Neh 4:1` But it came to pass, that when *_Sanballat_* heard that we were building the wall, he was angry, took great indignation, and mocked the Jews.
-* `Neh 4:7` But it came to pass, when *_Sanballat_*, Tobiah, the Arabians, the Ammonites, and the Ashdodites heard that the walls of Jerusalem were set up and that the breaches began to be stopped, they were very angry,
+* `Neh 2:19` But when *_Sanballat_* the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard it, they laughed us to scorn and despised us and said, "What is this thing that you do? Will you rebel against the king?"
+* `Neh 4:1` But it came to pass when *_Sanballat_* heard that we were building the wall, that he was angry, took great indignation, and mocked the Jews.
+* `Neh 4:7` But it came to pass when *_Sanballat_*, Tobiah, the Arabians, the Ammonites, and the Ashdodites heard that the walls of Jerusalem were set up and that the breaches began to be stopped, that they were very angry,
 * `Neh 6:1` Now it came to pass when *_Sanballat_*, Tobiah, Geshem the Arabian, and the rest of our enemies heard that I had built the wall and that there was no breach left in it (though at that time I had not set up the doors upon the gates),
 * `Neh 6:2` That *_Sanballat_* and Geshem sent to me, saying, "Come, let us meet together in one of the villages in the plain of Ono." But they thought to do me mischief.
 * `Neh 6:5` Then *_Sanballat_* sent his servant to me in like manner the fifth time with an open letter in his hand,

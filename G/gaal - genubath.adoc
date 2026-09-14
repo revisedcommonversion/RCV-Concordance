@@ -565,7 +565,7 @@ _1 verse containing GAPS_
 * `2Ki 21:18` And Manasseh slept with his fathers and was buried in the *_garden_* of his own house in the *_garden_* of Uzza. And Amon his son reigned in his stead.
 * `2Ki 21:26` And he was buried in his sepulcher in the *_garden_* of Uzza. And Josiah his son reigned in his stead.
 * `2Ki 25:4` And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king's *_garden_* (now the Chaldeans were against the city on all sides). And the king went the way toward the plain.
-* `Neh 3:15` But the gate of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, set up its doors, its locks, and its bars, and the wall of the pool of Siloah by the king's *_garden_*, and to the stairs that go down from the city of David.
+* `Neh 3:15` But the gate of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, and set up its doors, its locks, and its bars, and also the wall of the pool of Siloah by the king's *_garden_*, as far as the stairs that go down from the city of David.
 * `Est 1:5` And when these days had expired, the king held a feast for seven days for all the people who were present in the palace of Shushan, both for great and small, in the court of the *_garden_* of the king's palace
 * `Est 7:7` And the king arose from the banquet of wine in his wrath and went into the palace-*_garden_*. And Haman stood up to make request for his life to Esther the queen, for he saw that there was evil determined against him by the king.
 * `Est 7:8` Then the king returned out of the palace-*_garden_* into the place of the banquet of wine, and Haman had fallen upon the couch on which Esther was. Then the king said, "Will he force the queen also before me in the house?" As the word went out of the king's mouth, they covered Haman's face.
@@ -972,11 +972,11 @@ _3 verses containing GATAM_
 * `Neh 2:14` Then I went on to the *_gate_* of the fountain and to the king's pool, but there was no place for the beast that was under me to pass.
 * `Neh 2:15` Then I went up in the night by the brook, viewed the wall, turned back, and entered by the *_gate_* of the valley, and so returned.
 * `Neh 3:1` Then Eliashib the high priest arose with his brothers the priests, and they built the sheep-*_gate_*. They sanctified it and set up its doors. Even to the tower of Meah they sanctified it, to the tower of Hananeel.
-* `Neh 3:3` But the fish-*_gate_* was built by the sons of Hassenaah, who also laid its beams, set up its doors, its locks, and its bars.
-* `Neh 3:6` Moreover, the old *_gate_* was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its beams, set up its doors, its locks, and its bars.
-* `Neh 3:13` The valley-*_gate_* was repaired by Hanun and the inhabitants of Zanoah. They built it, set up its doors, its locks, and its bars, and one thousand cubits on the wall to the dung-*_gate_*.
-* `Neh 3:14` But the dung-*_gate_* was repaired by Malchiah the son of Rechab, the ruler of part of Beth-haccerem. He built it, set up its doors, its locks, and its bars.
-* `Neh 3:15` But the *_gate_* of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, set up its doors, its locks, and its bars, and the wall of the pool of Siloah by the king's garden, and to the stairs that go down from the city of David.
+* `Neh 3:3` But the fish-*_gate_* was built by the sons of Hassenaah, who also laid its beams and set up its doors, its locks, and its bars.
+* `Neh 3:6` Moreover, the old *_gate_* was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its beams and set up its doors, its locks, and its bars.
+* `Neh 3:13` The valley-*_gate_* was repaired by Hanun and the inhabitants of Zanoah. They built it and set up its doors, its locks, and its bars, and also one thousand cubits of the wall to the dung-*_gate_*.
+* `Neh 3:14` But the dung-*_gate_* was repaired by Malchiah the son of Rechab, the ruler of part of Beth-haccerem. He built it and set up its doors, its locks, and its bars.
+* `Neh 3:15` But the *_gate_* of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, and set up its doors, its locks, and its bars, and also the wall of the pool of Siloah by the king's garden, as far as the stairs that go down from the city of David.
 * `Neh 3:26` Moreover, the Nethinims dwelling in Ophel, to the place over against the water-*_gate_* toward the east and the projecting tower.
 * `Neh 3:28` From above the horse-*_gate_* the priests repaired, each over against his house.
 * `Neh 3:29` After them Zadok the son of Immer repaired over against his house. After him Shemaiah the son of Shechaniah, the keeper of the east *_gate_*, repaired.

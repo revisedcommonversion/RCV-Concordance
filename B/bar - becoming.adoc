@@ -356,11 +356,11 @@ _1 verse containing BARRICADE_
 * `1Ki 4:13` The son of Geber, in Ramoth-gilead—to him pertained the towns of Jair the son of Manasseh, which are in Gilead, and also to him pertained the region of Argob, which is in Bashan, sixty great cities with walls and brazen *_bars_*;
 * `2Ch 8:5` Also he built Beth-horon the upper and Beth-horon the nether, fortified cities with walls, gates, and *_bars_*,
 * `2Ch 14:7` Therefore, he said to Judah, "Let us build these cities and surround them with walls, towers, gates, and *_bars_*, while the land is still before us, because we have sought the LORD our God, we have sought him, and he has given us rest on every side." So they built and prospered.
-* `Neh 3:3` But the fish-gate was built by the sons of Hassenaah, who also laid its beams, set up its doors, its locks, and its *_bars_*.
-* `Neh 3:6` Moreover, the old gate was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its beams, set up its doors, its locks, and its *_bars_*.
-* `Neh 3:13` The valley-gate was repaired by Hanun and the inhabitants of Zanoah. They built it, set up its doors, its locks, and its *_bars_*, and one thousand cubits on the wall to the dung-gate.
-* `Neh 3:14` But the dung-gate was repaired by Malchiah the son of Rechab, the ruler of part of Beth-haccerem. He built it, set up its doors, its locks, and its *_bars_*.
-* `Neh 3:15` But the gate of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, set up its doors, its locks, and its *_bars_*, and the wall of the pool of Siloah by the king's garden, and to the stairs that go down from the city of David.
+* `Neh 3:3` But the fish-gate was built by the sons of Hassenaah, who also laid its beams and set up its doors, its locks, and its *_bars_*.
+* `Neh 3:6` Moreover, the old gate was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its beams and set up its doors, its locks, and its *_bars_*.
+* `Neh 3:13` The valley-gate was repaired by Hanun and the inhabitants of Zanoah. They built it and set up its doors, its locks, and its *_bars_*, and also one thousand cubits of the wall to the dung-gate.
+* `Neh 3:14` But the dung-gate was repaired by Malchiah the son of Rechab, the ruler of part of Beth-haccerem. He built it and set up its doors, its locks, and its *_bars_*.
+* `Neh 3:15` But the gate of the fountain was repaired by Shallun the son of Col-hozeh, the ruler of part of Mizpah. He built it, covered it, and set up its doors, its locks, and its *_bars_*, and also the wall of the pool of Siloah by the king's garden, as far as the stairs that go down from the city of David.
 * `Job 17:16` They shall go down to the *_bars_* of the pit when our rest together is in the dust."
 * `Job 38:10` And broke up for it my decreed place and set *_bars_* and doors
 * `Job 40:18` His bones are like strong pieces of brass. His bones are like *_bars_* of iron.
@@ -1069,8 +1069,8 @@ _13 verses containing BEAM_
 * `1Ki 7:12` And the great court around was with three rows of hewn stones and a row of cedar *_beams_*, both for the inner court of the house of the LORD and for the porch of the house.
 * `2Ch 3:7` He overlaid also the house, the *_beams_*, the posts, its walls, and its doors with gold and engraved cherubim on the walls.
 * `Neh 2:8` And a letter to Asaph the keeper of the king's forest so that he may give me timber to make *_beams_* for the gates of the palace which belonged to the house, for the wall of the city, and for the house that I shall enter." And the king granted me, according to the good hand of my God upon me.
-* `Neh 3:3` But the fish-gate was built by the sons of Hassenaah, who also laid its *_beams_*, set up its doors, its locks, and its bars.
-* `Neh 3:6` Moreover, the old gate was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its *_beams_*, set up its doors, its locks, and its bars.
+* `Neh 3:3` But the fish-gate was built by the sons of Hassenaah, who also laid its *_beams_* and set up its doors, its locks, and its bars.
+* `Neh 3:6` Moreover, the old gate was repaired by Jehoiada the son of Paseah and Meshullam the son of Besodeiah. They laid its *_beams_* and set up its doors, its locks, and its bars.
 * `Psa 104:3` Who lays the *_beams_* of his chambers in the waters, who makes the clouds his chariot, who walks upon the wings of the wind,
 * `Sos 1:17` [Gentleman:] The *_beams_* of our house are cedar and our rafters of fir.
 
@@ -2528,7 +2528,7 @@ _124 verses containing BECAME_
 * `Ezr 9:15` O LORD, God of Israel, you are righteous, for we are left a remnant that has escaped. Behold, we are before you in our trespasses, for we cannot stand before you *_because_* of this."
 * `Ezr 10:6` Then Ezra arose from before the house of God and went into the chamber of Johanan the son of Eliashib. And when he came there, he ate no bread nor drank water, for he mourned *_because_* of the transgression of those who had been carried away.
 * `Ezr 10:9` Then all the men of Judah and Benjamin assembled at Jerusalem within three days. It was the ninth month, and the twentieth day of the month. And all the people sat in the street of the house of God, trembling *_because_* of this matter and *_because_* of the great rain.
-* `Neh 4:9` Nevertheless, we made our prayer to our God and set a watch against them day and night, *_because_* of them.
+* `Neh 4:9` Nevertheless, we made our prayer to our God and set a watch against them day and night *_because_* of them.
 * `Neh 5:3` There were also some who said, "We have mortgaged our lands, vineyards, and houses so that we might buy grain *_because_* of the famine."
 * `Neh 5:9` Also I said, "That which you do is not good. Should you not walk in the fear of our God *_because_* of the reproach of the heathen our enemies?
 * `Neh 5:15` But the former governors who had been before me were burdensome to the people and had taken from them bread and wine, besides forty shekels of silver. And even their servants bore rule over the people. But I did not do so, *_because_* of the fear of God.
