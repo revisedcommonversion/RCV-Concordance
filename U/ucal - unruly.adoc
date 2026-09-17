@@ -900,7 +900,7 @@ _4 verses containing UNDERNEATH_
 * `2Ki 18:26` Then Eliakim the son of Hilkiah, Shebna, and Joah said to Rab-shakeh, "Speak, I pray you, to your servants in the Syrian language, for we *_understand_* it. And do not talk with us in the Jews' language in the ears of the people who are on the wall."
 * `1Ch 28:19` "All this," David said, "the LORD made me *_understand_* in writing by his hand upon me, even all the works of this pattern."
 * `Neh 8:3` And he read therein before the street that was before the water-gate from the morning until mid-day in the presence of the men and the women and those who could *_understand_*. And the ears of all the people were attentive to the book of the law.
-* `Neh 8:7` Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites caused the people to *_understand_* the law. And the people stood in their place.
+* `Neh 8:7` And Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites caused the people to *_understand_* the law. And the people stood in their place.
 * `Neh 8:13` And on the second day the chief of the fathers of all the people, the priests, and the Levites were assembled to Ezra the scribe, even to *_understand_* the words of the law.
 * `Job 6:24` Teach me, and I will hold my tongue. And cause me to *_understand_* in what I have erred.
 * `Job 15:9` What do you know that we do not know? What do you *_understand_* which is not in us?
@@ -1557,7 +1557,7 @@ _50 verses containing UNLEAVENED_
 * `Psa 127:1` [A Song of Degrees for Solomon.] *_Unless_* the LORD builds the house, they labor in vain who build it. *_Unless_* the LORD keeps the city, the watchman wakes in vain.
 * `Pro 4:16` For they do not sleep, *_unless_* they have done mischief, and their sleep is taken away, *_unless_* they cause some to fall.
 * `Isa 1:9` *_Unless_* the LORD of hosts had left to us a very small remnant, we should have been like Sodom, we should have been like Gomorrah.
-* `Dan 6:5` Then these men said, "We shall not find any occasion against this Daniel, *_unless_* we find it against him concerning the law of his God."
+* `Dan 6:5` Then these men said, "We shall not find any occasion against this Daniel *_unless_* we find it against him concerning the law of his God."
 * `Amo 3:3` Can two walk together *_unless_* they have agreed?
 * `Amo 3:7` Surely the Lord GOD will do nothing *_unless_* he reveals his secret to his servants the prophets.
 * `Mth 5:20` "For I say to you, that *_unless_* your righteousness exceeds the righteousness of the scribes and Pharisees, you shall in no case enter into the kingdom of heaven.

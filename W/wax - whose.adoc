@@ -1291,7 +1291,7 @@ _13 verses containing WEEKS_
 * `1Sa 30:4` Then David and the people who were with him lifted up their voice and wept until they had no more power to *_weep_*.
 * `2Sa 1:24` "You daughters of Israel, *_weep_* over Saul, who clothed you in scarlet with other delights, who put ornaments of gold upon your apparel.
 * `2Ki 8:12` And Hazael said, "Why does my lord *_weep_*?" And he answered, "Because I know the evil that you will do to the children of Israel: you will set their strongholds on fire and you will slay their young men with the sword, dash their children, and rip up their women with child."
-* `Neh 8:9` And Nehemiah the Tirshatha, Ezra the priest and scribe, and the Levites who taught the people, said to all the people, "This day is holy to the LORD your God. Do not mourn, nor *_weep_*." For all the people wept when they heard the words of the law.
+* `Neh 8:9` And Nehemiah the Tirshatha, Ezra the priest and scribe, and the Levites who taught the people, said to all the people, "This day is holy to the LORD your God. Do not mourn or *_weep_*." For all the people wept when they heard the words of the law.
 * `Job 27:15` Those who survive him shall be buried in death, and his widows shall not *_weep_*.
 * `Job 30:25` Did I not *_weep_* for him who was in trouble? Was my soul not grieved for the poor?
 * `Job 30:31` My harp is also turned to mourning, and my pipe into the voice of those who *_weep_*."
@@ -1416,7 +1416,7 @@ _6 verses containing WEIGH_
 * `Isa 40:12` Who has measured the waters in the hollow of his hand, measured heaven with the span, comprehended the dust of the earth in a measure, and *_weighed_* the mountains in scales and the hills in a balance?
 * `Jer 32:9` "And I bought the field of Hanameel my uncle's son that was in Anathoth and *_weighed_* him the money, even seventeen shekels of silver.
 * `Jer 32:10` And I signed the contract and sealed it, took witnesses, and *_weighed_* him the money in the balances.
-* `Dan 5:27` 'TEKEL': you are *_weighed_* in the balances, and are found lacking;
+* `Dan 5:27` 'TEKEL': you have been *_weighed_* in the balances and found lacking;
 * `Zch 11:12` And I said to them, "If you think good, give me my price, and if not, forbear." So they *_weighed_* for my price thirty pieces of silver.
 * `Mth 26:15` And said, "What will you give me if I deliver him to you?" And they *_weighed_* out for him thirty pieces of silver.
 
@@ -2626,10 +2626,10 @@ _1 verse containing WEN_
 * `Neh 2:15` Then I *_went_* up in the night by the brook, viewed the wall, turned back, and entered by the gate of the valley, and so returned.
 * `Neh 2:16` And the rulers did not know where I *_went_* or what I did, for I had not yet told it to the Jews, to the priests, to the nobles, to the rulers, nor to the rest who did the work.
 * `Neh 7:6` These are the children of the province who *_went_* up out of the captivity, of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came back to Jerusalem and to Judah, each to his city,
-* `Neh 7:61` And these were those who *_went_* up also from Tel-mela, Tel-haresha, Cherub, Addon, and Immer, but they could not show their fathers' house, nor their genealogy, whether they were of Israel.
+* `Neh 7:61` And these were those who *_went_* up also from Tel-mela, Tel-haresha, Cherub, Addon, and Immer, but they could not show their fathers' house nor their genealogy, whether they were of Israel.
 * `Neh 8:12` And all the people *_went_* their way to eat, to drink, to send portions, and to make great mirth, because they had understood the words that were declared to them.
-* `Neh 8:16` So the people *_went_* forth, brought them, and made themselves booths, each upon the roof of his house, in their courts, in the courts of the house of God, in the street of the water-gate, and in the street of the gate of Ephraim.
-* `Neh 9:11` And you divided the sea before them so that they *_went_* through the midst of the sea on the dry land. And you threw their persecutors into the depths, as a stone into the mighty waters.
+* `Neh 8:16` So the people *_went_* forth, brought them, and made booths for themselves, each upon the roof of his house, in their courts, in the courts of the house of God, in the street of the water-gate, and in the street of the gate of Ephraim.
+* `Neh 9:11` And you divided the sea before them so that they *_went_* through the midst of the sea on the dry land. And you threw their persecutors into the depths like a stone into the mighty waters.
 * `Neh 9:24` Thus the children *_went_* in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings and the people of the land, so that they might do with them as they wished.
 * `Neh 12:1` Now these are the priests and the Levites who *_went_* up with Zerubbabel the son of Shealtiel and Jeshua: Seraiah, Jeremiah, Ezra,
 * `Neh 12:31` Then I brought up the princes of Judah upon the wall and appointed two great companies of those who gave thanks, of which one *_went_* on the right hand upon the wall toward the dung-gate.
@@ -3137,7 +3137,7 @@ _1231 verses containing WENT_
 * `Ezr 3:12` But many of the priests and Levites and chief of the fathers, old men who had seen the first house, *_wept_* with a loud voice when the foundation of this house was laid before their eyes, and many shouted aloud for joy.
 * `Ezr 10:1` Now when Ezra had prayed and when he had confessed, weeping and casting himself down before the house of God, there assembled to him out of Israel a very great congregation of men and women and children, for the people *_wept_* very bitterly.
 * `Neh 1:4` And it came to pass when I heard these words, that I sat down and *_wept_*. And I mourned for some days, fasted, and prayed before the God of heaven
-* `Neh 8:9` And Nehemiah the Tirshatha, Ezra the priest and scribe, and the Levites who taught the people, said to all the people, "This day is holy to the LORD your God. Do not mourn, nor weep." For all the people *_wept_* when they heard the words of the law.
+* `Neh 8:9` And Nehemiah the Tirshatha, Ezra the priest and scribe, and the Levites who taught the people, said to all the people, "This day is holy to the LORD your God. Do not mourn or weep." For all the people *_wept_* when they heard the words of the law.
 * `Job 2:12` And when they lifted up their eyes afar off, they did not know him. And they raised their voice and *_wept_*, and they each rent his mantle and sprinkled dust upon their heads toward heaven.
 * `Psa 69:10` When I *_wept_* and chastened my soul with fasting, that was to my reproach.
 * `Psa 137:1` By the rivers of Babylon we sat down. We even *_wept_* when we remembered Zion.
@@ -4271,7 +4271,7 @@ _4 verses containing WHET_
 * `Ezr 2:59` And these were those who went up from Tel-melah, Tel-harsa, Cherub, Addan, and Immer, but they could not prove their fathers' houses or their genealogy, *_whether_* they were of Israel:
 * `Ezr 5:17` Now therefore, if it seems good to the king, let there be search made in the king's treasure-house, which is there at Babylon, *_whether_* it is that a decree was made by Cyrus the king to build this house of God at Jerusalem. And let the king send his pleasure to us concerning this matter."
 * `Ezr 7:26` And whoever will not do the law of your God and the law of the king, let judgment be executed speedily upon him, *_whether_* it be to death, to banishment, to confiscation of goods, or to imprisonment."
-* `Neh 7:61` And these were those who went up also from Tel-mela, Tel-haresha, Cherub, Addon, and Immer, but they could not show their fathers' house, nor their genealogy, *_whether_* they were of Israel.
+* `Neh 7:61` And these were those who went up also from Tel-mela, Tel-haresha, Cherub, Addon, and Immer, but they could not show their fathers' house nor their genealogy, *_whether_* they were of Israel.
 * `Est 3:4` Now it came to pass when they spoke daily to him and he did not listen to them, that they told Haman, to see *_whether_* Mordecai's matters would stand, for he had told them that he was a Jew.
 * `Est 4:11` "All the king's servants and the people of the king's provinces know that whoever, *_whether_* man or woman, comes to the king into the inner court who is not called, there is one law of his to put him to death, except him to whom the king holds out the golden scepter so that he may live. But I have not been called to come before the king these thirty days."
 * `Est 4:14` For if you altogether hold your peace at this time, then enlargement and deliverance will arise to the Jews from another place, but you and your father's house will be destroyed. And who knows *_whether_* you have come to the kingdom for such a time as this?"
@@ -5101,7 +5101,7 @@ _199 verses containing WHOEVER_
 * `Dan 2:48` Then the king made Daniel a great man, gave him many great gifts, and made him ruler over the *_whole_* province of Babylon and chief of the governors over all the wise men of Babylon.
 * `Dan 6:1` It pleased Darius to set over the kingdom one hundred and twenty princes who should be over the *_whole_* kingdom,
 * `Dan 6:3` Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him, and the king thought to set him over the *_whole_* realm.
-* `Dan 7:23` "This is what he said: 'The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms and shall devour the *_whole_* earth, tread it down, and break it in pieces.
+* `Dan 7:23` "This is what he said: 'The fourth beast shall be the fourth kingdom upon earth, which shall be different from all kingdoms and shall devour the *_whole_* earth, tread it down, and break it in pieces.
 * `Dan 7:27` And the kingdom, the dominion, and the greatness of the kingdom under the *_whole_* heaven shall be given to the people of the saints of the most High. His kingdom is an everlasting kingdom, and all dominions shall serve and obey him.'
 * `Dan 8:5` And as I was considering, behold, a male goat came from the west on the face of the *_whole_* earth without touching the ground. And the goat had a notable horn between his eyes.
 * `Dan 9:12` And he has confirmed his words which he spoke against us and against our judges who judged us by bringing upon us a great evil. For under the *_whole_* heaven it has not been done as it has been done upon Jerusalem.
@@ -5460,7 +5460,7 @@ _20 verses containing WHOMEVER_
 * `Dan 4:21` *_Whose_* leaves were fair, its fruit abundant, and in it was food for all, under which the beasts of the field dwelt, and upon *_whose_* branches the birds of heaven had their habitation—
 * `Dan 5:23` But you have lifted up yourself against the Lord of heaven. And they have brought the vessels of his house before you, and you, your lords, your wives, and your concubines have drank wine from them. And you have praised the gods of silver, gold, brass, iron, wood, and stone, which do not see, nor hear, nor know. And the God in *_whose_* hand is your breath and all your ways, you have not glorified.
 * `Dan 7:9` "I beheld until the thrones were cast down and the Ancient of days sat, *_whose_* garment was as white as snow and the hair of his head like pure wool. His throne was fiery flames and its wheels were burning fire.
-* `Dan 7:19` "Then I wished to know the truth of the fourth beast, which was diverse from all the others, exceedingly dreadful, *_whose_* teeth were of iron and his nails of brass, which devoured, broke in pieces, and trampled the remainder with his feet,
+* `Dan 7:19` "Then I wished to know the truth of the fourth beast, which was different from all the others, exceedingly dreadful, *_whose_* teeth were of iron and his nails of brass, which devoured, broke in pieces, and trampled the remainder with his feet,
 * `Dan 7:20` And of the ten horns that were on his head, and of the other which came up and before which three fell, even of the horn that had eyes and a mouth that spoke very great things, *_whose_* look was more stout than his fellows.
 * `Dan 10:1` In the third year of Cyrus king of Persia, a thing was revealed to Daniel, *_whose_* name was called Belteshazzar, and the thing was true, but the appointed time was long. And he understood the thing and had understanding of the vision.
 * `Dan 10:5` I lifted up my eyes and looked, and behold, a certain man clothed in linen, *_whose_* loins were girded with fine gold of Uphaz.
