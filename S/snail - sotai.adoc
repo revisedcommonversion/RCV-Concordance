@@ -1224,8 +1224,8 @@ _274 verses containing SOLOMON_
 * `Neh 12:44` And at that time *_some_* were appointed over the chambers for the treasures, for the offerings, for the first-fruits, and for the tithes, to gather into them out of the fields of the cities the portions appointed by the law for the priests and Levites, for Judah rejoiced over the priests and over the Levites who served.
 * `Neh 13:6` But in all this time I was not at Jerusalem. For in the thirty-second year of Artaxerxes king of Babylon I came to the king, and after *_some_* days I obtained leave of the king.
 * `Neh 13:15` In those days I saw in Judah *_some_* treading wine presses on the sabbath, bringing in sheaves, and lading donkeys, and also wine, grapes, figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day. And I testified against them on the day they sold provisions.
-* `Neh 13:19` And it came to pass, that, when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened until after the sabbath. And I set *_some_* of my servants at the gates, so that there should be no burden brought in on the sabbath day.
-* `Neh 13:25` And I contended with them, cursed them, smote *_some_* of them, plucked off their hair, and made them swear by God, saying, "You shall not give your daughters to their sons, nor take their daughters to your sons or for yourselves.
+* `Neh 13:19` And it came to pass when the gates of Jerusalem began to be dark before the sabbath, that I commanded the gates to be shut, and charged that they should not be opened until after the sabbath. And I set *_some_* of my servants at the gates so that there should be no burden brought in on the sabbath day.
+* `Neh 13:25` And I contended with them, cursed them, smote *_some_* of them, plucked off their hair, and made them swear by God, saying, "You shall not give your daughters to their sons nor take their daughters for your sons or for yourselves.
 * `Job 24:2` *_Some_* remove the landmarks. They violently take away flocks and their feed.
 * `Psa 20:7` *_Some_* trust in chariots and *_some_* in horses, but we will remember the name of the LORD our God.
 * `Psa 69:20` Reproach has broken my heart, and I am full of heaviness. And I looked for *_some_* to take pity, but there was none, and for comforters, but I found none.
@@ -2424,7 +2424,7 @@ _12 verses containing SOMEWHAT_
 * `2Ki 25:25` But it came to pass in the seventh month, that Ishmael the *_son_* of Nethaniah, the *_son_* of Elishama, of the royal family, came, and ten men with him, and smote Gedaliah so that he died, along with the Jews and the Chaldeans who were with him at Mizpah.
 * `1Ch 1:41` The *_son_* of Anah: Dishon. And the sons of Dishon: Amram, Eshban, Ithran, and Cheran.
 * `1Ch 1:43` Now these are the kings who reigned in the land of Edom before any king reigned over the children of Israel: Bela the *_son_* of Beor, and the name of his city was Dinhabah.
-* `1Ch 1:44` And when Bela was dead Jobab the *_son_* of Zera of Bozrah reigned in his stead.
+* `1Ch 1:44` And when Bela was dead, Jobab the *_son_* of Zera of Bozrah reigned in his stead.
 * `1Ch 1:46` And when Husham was dead, Hadad the *_son_* of Bedad, who smote Midian in the field of Moab, reigned in his stead, and the name of his city was Avith.
 * `1Ch 1:49` And when Shaul was dead, Baal-hanan the *_son_* of Achbor reigned in his stead.
 * `1Ch 2:7` And the *_son_* of Carmi: Achar, the troubler of Israel, who transgressed in the thing accursed.
@@ -2736,9 +2736,9 @@ _12 verses containing SOMEWHAT_
 * `Neh 11:12` And their brothers who performed the work of the house numbered eight hundred and twenty-two; and Adaiah the *_son_* of Jeroham, the *_son_* of Pelaliah, the *_son_* of Amzi, the *_son_* of Zechariah, the *_son_* of Pashur, the *_son_* of Malchiah,
 * `Neh 11:13` And his brothers, chief of the fathers, two hundred and forty-two; and Amashai the *_son_* of Azareel, the *_son_* of Ahasai, the *_son_* of Meshillemoth, the *_son_* of Immer,
 * `Neh 11:14` And their brothers, mighty men of valor, one hundred twenty-eight. And their overseer was Zabdiel the *_son_* of one of the great men.
-* `Neh 11:15` Also of the Levites: Shemaiah the *_son_* of Hashub, the *_son_* of Azrikam, the *_son_* of Hashabiah, the *_son_* of Bunni;
+* `Neh 11:15` And of the Levites: Shemaiah the *_son_* of Hashub, the *_son_* of Azrikam, the *_son_* of Hashabiah, the *_son_* of Bunni;
 * `Neh 11:17` And Mattaniah the *_son_* of Micha, the *_son_* of Zabdi, the *_son_* of Asaph, was the principal to begin the thanksgiving in prayer, and Bakbukiah the second among his brothers; and Abda the *_son_* of Shammua, the *_son_* of Galal, the *_son_* of Jeduthun.
-* `Neh 11:22` The overseer also of the Levites at Jerusalem was Uzzi the *_son_* of Bani, the *_son_* of Hashabiah, the *_son_* of Mattaniah, the *_son_* of Micha, of the sons of Asaph, the singers, over the business of the house of God.
+* `Neh 11:22` And the overseer of the Levites at Jerusalem was Uzzi the *_son_* of Bani, the *_son_* of Hashabiah, the *_son_* of Mattaniah, the *_son_* of Micha, of the sons of Asaph, the singers, over the business of the house of God.
 * `Neh 11:24` And Pethahiah the *_son_* of Meshezabeel, of the children of Zerah the *_son_* of Judah, was at the king's hand in all matters concerning the people.
 * `Neh 12:1` Now these are the priests and the Levites who went up with Zerubbabel the *_son_* of Shealtiel and Jeshua: Seraiah, Jeremiah, Ezra,
 * `Neh 12:23` The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the *_son_* of Eliashib.
@@ -4340,11 +4340,11 @@ _20 verses containing SONGS_
 * `Neh 10:36` And the first-born of our *_sons_* and of our livestock, as it is written in the law, and the first-born of our herds and of our flocks, to bring to the house of our God to the priests who minister in the house of our God;
 * `Neh 11:6` All the *_sons_* of Perez who dwelt at Jerusalem were four hundred and sixty-eight valiant men.
 * `Neh 11:7` And these are the *_sons_* of Benjamin: Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah;
-* `Neh 11:22` The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha, of the *_sons_* of Asaph, the singers, over the business of the house of God.
+* `Neh 11:22` And the overseer of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha, of the *_sons_* of Asaph, the singers, over the business of the house of God.
 * `Neh 12:23` The *_sons_* of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
 * `Neh 12:28` And the *_sons_* of the singers assembled, both out of the plain country around Jerusalem and from the villages of Netophathi,
 * `Neh 12:35` And some of the priests' *_sons_* with trumpets, namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph;
-* `Neh 13:25` And I contended with them, cursed them, smote some of them, plucked off their hair, and made them swear by God, saying, "You shall not give your daughters to their *_sons_*, nor take their daughters to your *_sons_* or for yourselves.
+* `Neh 13:25` And I contended with them, cursed them, smote some of them, plucked off their hair, and made them swear by God, saying, "You shall not give your daughters to their *_sons_* nor take their daughters for your *_sons_* or for yourselves.
 * `Neh 13:28` And one of the *_sons_* of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite; therefore, I chased him away from me.
 * `Est 9:10` The ten *_sons_* of Haman the son of Hammedatha, the enemy of the Jews, but they did not lay their hands on the plunder.
 * `Est 9:12` And the king said to Esther the queen, "The Jews have slain and destroyed five hundred men in the palace of Shushan and the ten *_sons_* of Haman. What have they done in the rest of the king's provinces? Now what is your petition? It shall be granted to you. Or what is your request further? It shall be done."

@@ -59,10 +59,10 @@ _2 verses containing SABAOTH_
 * `Neh 10:31` And if the people of the land should bring wares or any provisions on the *_sabbath_* day to sell, that we would not buy it from them on the *_sabbath_* or on the holy day; and that we would leave the seventh year, and the exaction of every debt.
 * `Neh 13:15` In those days I saw in Judah some treading wine presses on the *_sabbath_*, bringing in sheaves, and lading donkeys, and also wine, grapes, figs, and all manner of burdens, which they brought into Jerusalem on the *_sabbath_* day. And I testified against them on the day they sold provisions.
 * `Neh 13:16` Also, men of Tyre dwelt therein who brought fish and all manner of wares and sold on the *_sabbath_* to the children of Judah, even in Jerusalem.
-* `Neh 13:17` Then I contended with the nobles of Judah, and said to them, "What evil thing is this that you do, profaning the *_sabbath_* day?
+* `Neh 13:17` Then I contended with the nobles of Judah and said to them, "What evil thing is this that you do, profaning the *_sabbath_* day?
 * `Neh 13:18` Did your fathers not do so, and did our God not bring all this evil upon us and upon this city? Yet you bring more wrath upon Israel by profaning the *_sabbath_*."
-* `Neh 13:19` And it came to pass, that, when the gates of Jerusalem began to be dark before the *_sabbath_*, I commanded that the gates should be shut, and charged that they should not be opened until after the *_sabbath_*. And I set some of my servants at the gates, so that there should be no burden brought in on the *_sabbath_* day.
-* `Neh 13:21` Then I testified against them, and said to them, "Why do you lodge in front of the wall? If you do so again, I will lay hands on you." From that time forth they no longer came on the *_sabbath_*.
+* `Neh 13:19` And it came to pass when the gates of Jerusalem began to be dark before the *_sabbath_*, that I commanded the gates to be shut, and charged that they should not be opened until after the *_sabbath_*. And I set some of my servants at the gates so that there should be no burden brought in on the *_sabbath_* day.
+* `Neh 13:21` Then I testified against them and said to them, "Why do you lodge in front of the wall? If you do so again, I will lay hands on you." From that time forth they no longer came on the *_sabbath_*.
 * `Neh 13:22` And I commanded the Levites that they should cleanse themselves and that they should come and keep the gates to sanctify the *_sabbath_* day. Remember me, O my God, concerning this also, and spare me according to the greatness of your mercy.
 * `Psa 92:1` [A Psalm or Song for the *_Sabbath_* Day.] It is a good thing to give thanks to the LORD and to sing praises to your name, O Most High,
 * `Isa 56:2` Blessed is the man who does this, and the son of man who lays hold upon it, who keeps the *_sabbath_* from profaning it, and keeps his hand from doing any evil."
@@ -2942,9 +2942,9 @@ _1 verse containing SAFFRON_
 * `Neh 8:10` Then he *_said_* to them, "Go your way, eat the fat and drink what is sweet, and send portions to those for whom nothing is prepared. For this day is holy to our Lord. Do not be sad, for the joy of the LORD is your strength."
 * `Neh 9:5` Then the Levites, Jeshua, Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, *_said_*, "Stand up and bless the LORD your God forever and ever: Blessed be your glorious name, which is exalted above all blessing and praise.
 * `Neh 9:18` Indeed, when they had made themselves a molten calf and *_said_*, 'This is your God who brought you out of Egypt,' and had wrought great provocations,
-* `Neh 13:11` Then I contended with the rulers, and *_said_*, "Why is the house of God forsaken?" Then I assembled them and set them in their place.
-* `Neh 13:17` Then I contended with the nobles of Judah, and *_said_* to them, "What evil thing is this that you do, profaning the sabbath day?
-* `Neh 13:21` Then I testified against them, and *_said_* to them, "Why do you lodge in front of the wall? If you do so again, I will lay hands on you." From that time forth they no longer came on the sabbath.
+* `Neh 13:11` Then I contended with the rulers and *_said_*, "Why is the house of God forsaken?" Then I assembled them and set them in their place.
+* `Neh 13:17` Then I contended with the nobles of Judah and *_said_* to them, "What evil thing is this that you do, profaning the sabbath day?
+* `Neh 13:21` Then I testified against them and *_said_* to them, "Why do you lodge in front of the wall? If you do so again, I will lay hands on you." From that time forth they no longer came on the sabbath.
 * `Est 1:13` Then the king *_said_* to the wise men who knew the times (for thus was the king's manner toward all who knew law and judgment
 * `Est 2:2` Then the king's servants who ministered to him *_said_*, "Let there be fair young virgins sought for the king.
 * `Est 3:3` Then the king's servants who were in the king's gate *_said_* to Mordecai, "Why do you transgress the king's commandment?"
@@ -5944,7 +5944,7 @@ _5 verses containing SANCTIFICATION_
 * `2Ch 30:24` For Hezekiah king of Judah gave to the congregation one thousand bulls and seven thousand sheep, and the princes gave to the congregation one thousand bulls and ten thousand sheep. And a great number of priests *_sanctified_* themselves.
 * `2Ch 31:18` And to the genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation. For in their set office they *_sanctified_* themselves in holiness.
 * `Neh 3:1` Then Eliashib the high priest arose with his brothers the priests, and they built the sheep-gate. They *_sanctified_* it and set up its doors. Even to the tower of Meah they *_sanctified_* it, to the tower of Hananeel.
-* `Neh 12:47` And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions for the singers and the gatekeepers, every day his portion. And they *_sanctified_* holy things to the Levites, and the Levites *_sanctified_* them to the children of Aaron.
+* `Neh 12:47` And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions for the singers and the gatekeepers, every day his portion. And they *_sanctified_* holy things for the Levites, and the Levites *_sanctified_* them for the children of Aaron.
 * `Job 1:5` And it came to pass when the days of their feasting had ended, that Job sent and *_sanctified_* them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
 * `Isa 5:16` But the LORD of hosts shall be exalted in judgment, and God who is holy shall be *_sanctified_* in righteousness.
 * `Isa 13:3` I have commanded my *_sanctified_* ones, I have also called my mighty ones for my anger, even those who rejoice in my highness.

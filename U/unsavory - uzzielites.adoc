@@ -433,7 +433,7 @@ _1 verse containing UNTIED_
 * `Neh 7:65` And the Tirshatha said to them that they should not eat the most holy things *_until_* there should stand up a priest with Urim and Thummim.
 * `Neh 8:3` And he read therein before the street that was before the water-gate from the morning *_until_* mid-day in the presence of the men and the women and those who could understand. And the ears of all the people were attentive to the book of the law.
 * `Neh 12:23` The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even *_until_* the days of Johanan the son of Eliashib.
-* `Neh 13:19` And it came to pass, that, when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened *_until_* after the sabbath. And I set some of my servants at the gates, so that there should be no burden brought in on the sabbath day.
+* `Neh 13:19` And it came to pass when the gates of Jerusalem began to be dark before the sabbath, that I commanded the gates to be shut, and charged that they should not be opened *_until_* after the sabbath. And I set some of my servants at the gates so that there should be no burden brought in on the sabbath day.
 * `Job 7:4` When I lie down, I say, 'When shall I arise and the night be gone?' And I am full of tossings to and fro *_until_* the dawning of the day.
 * `Job 7:19` How long will you not depart from me, nor leave me alone *_until_* I swallow my spittle?
 * `Job 8:21` *_Until_* he fills your mouth with laughing and your lips with rejoicing.
@@ -1574,7 +1574,7 @@ _1 verse containing UZZEN-SHERAH_
 * `1Ch 7:7` And the sons of Bela: Ezbon, *_Uzzi_*, Uzziel, Jerimoth, and Iri, five, heads of the house of their fathers, mighty men of valor. They were reckoned by their genealogies twenty-two thousand and thirty-four.
 * `1Ch 9:8` And Ibneiah the son of Jeroham, and Elah the son of *_Uzzi_*, the son of Michri, and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah,
 * `Ezr 7:4` The son of Zerahiah, the son of *_Uzzi_*, the son of Bukki,
-* `Neh 11:22` The overseer also of the Levites at Jerusalem was *_Uzzi_* the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha, of the sons of Asaph, the singers, over the business of the house of God.
+* `Neh 11:22` And the overseer of the Levites at Jerusalem was *_Uzzi_* the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha, of the sons of Asaph, the singers, over the business of the house of God.
 * `Neh 12:19` Of Joiarib, Mattenai; of Jedaiah, *_Uzzi_*;
 * `Neh 12:42` And Maaseiah, Shemaiah, Eleazar, *_Uzzi_*, Jehohanan, Malchijah, Elam, and Ezer. And the singers sang loud with Jezrahiah their overseer.
 
