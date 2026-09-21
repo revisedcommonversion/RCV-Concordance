@@ -1350,7 +1350,7 @@ _1 verse containing NOVICE_
 * `1Ch 2:34` *_Now_* Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha.
 * `1Ch 2:42` *_Now_* the sons of Caleb the brother of Jerahmeel were Mesha his first-born, who was the father of Ziph, and the sons of Mareshah the father of Hebron.
 * `1Ch 3:1` *_Now_* these were the sons of David who were born to him in Hebron: the first-born Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess;
-* `1Ch 5:1` *_Now_* the sons of Reuben the first-born of Israel (for he was the first-born, but because he defiled his father's bed, his birth-right was given to the sons of Joseph the son of Israel and the genealogy is not to be reckoned after the birth-right;
+* `1Ch 5:1` *_Now_* the sons of Reuben the first-born of Israel (for he was the first-born, but because he defiled his father's bed, his birth-right was given to the sons of Joseph the son of Israel, and the genealogy is not to be reckoned after the birth-right;
 * `1Ch 6:54` *_Now_* these are their dwelling-places throughout their encampments in their limits: to the sons of Aaron from the families of the Kohathites, for theirs was the lot,
 * `1Ch 7:1` *_Now_* the sons of Issachar were Tola, Puah, Jashub, and Shimron, four.
 * `1Ch 8:1` *_Now_* Benjamin begot Bela his first-born, Ashbel the second, Aharah the third,
@@ -2313,7 +2313,7 @@ _1 verse containing NOXIOUS_
 * `1Ch 7:9` And their *_number_*, after their genealogy by their generations, heads of the house of their fathers, mighty men of valor, was twenty thousand and two hundred.
 * `1Ch 7:40` All these were the children of Asher, heads of their father's house, choice and mighty men of valor, chief of the princes. And the *_number_* throughout the genealogy of those who were fit for war and for battle was twenty-six thousand men.
 * `1Ch 9:28` And some of them had the charge of the ministering vessels, that they should bring them in and out by *_number_*.
-* `1Ch 11:11` And this is the *_number_* of the mighty men whom David had: Jashobeam a Hachmonite, the chief of the captains. He lifted his spear against three hundred slain by him at one time.
+* `1Ch 11:11` And this is the *_number_* of the mighty men whom David had: Jashobeam a Hachmonite, the chief of the captains. He lifted his spear against three hundred and slew them at one time.
 * `1Ch 21:1` And Satan stood up against Israel and incited David to *_number_* Israel.
 * `1Ch 21:2` And David said to Joab and to the rulers of the people, "Go, *_number_* Israel from Beer-sheba even to Dan, and bring their *_number_* to me so that I may know it."
 * `1Ch 21:5` And Joab gave the sum of the *_number_* of the people to David. And all the people of Israel numbered one million and one hundred thousand men who drew sword. And Judah was four hundred and seventy thousand men who drew sword.
