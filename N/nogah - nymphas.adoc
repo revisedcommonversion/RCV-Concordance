@@ -1362,7 +1362,7 @@ _1 verse containing NOVICE_
 * `1Ch 12:29` And of the children of Benjamin, the kindred of Saul, three thousand, for until *_now_* the greatest part of them had kept the ward of the house of Saul.
 * `1Ch 14:1` *_Now_* Hiram king of Tyre sent messengers to David, along with timber of cedars, masons, and carpenters to build him a house.
 * `1Ch 14:4` *_Now_* these are the names of his children which he had in Jerusalem: Shammua, Shobab, Nathan, Solomon,
-* `1Ch 17:1` *_Now_* it came to pass, as David sat in his house, that David said to Nathan the prophet, "Behold, I dwell in a house of cedars, but the ark of the covenant of the LORD remains under curtains."
+* `1Ch 17:1` *_Now_* it came to pass as David sat in his house, that David said to Nathan the prophet, "Behold, I dwell in a house of cedars, but the ark of the covenant of the LORD remains under curtains."
 * `1Ch 17:7` *_Now_* therefore, thus you shall say to my servant David: 'Thus says the LORD of hosts: "I took you from the sheep-fold, even from following the sheep, so that you should be ruler over my people Israel.
 * `1Ch 17:23` "And *_now_*, LORD, let the thing that you have spoken concerning your servant and concerning his house be established forever, and do as you have said.
 * `1Ch 17:26` And *_now_*, LORD, you are God and have promised this goodness to your servant.
@@ -2314,13 +2314,14 @@ _1 verse containing NOXIOUS_
 * `1Ch 7:40` All these were the children of Asher, heads of their father's house, choice and mighty men of valor, chief of the princes. And the *_number_* throughout the genealogy of those who were fit for war and for battle was twenty-six thousand men.
 * `1Ch 9:28` And some of them had the charge of the ministering vessels, that they should bring them in and out by *_number_*.
 * `1Ch 11:11` And this is the *_number_* of the mighty men whom David had: Jashobeam a Hachmonite, the chief of the captains. He lifted his spear against three hundred and slew them at one time.
+* `1Ch 16:19` When you were few in *_number_*, even a few, and strangers in it.
 * `1Ch 21:1` And Satan stood up against Israel and incited David to *_number_* Israel.
 * `1Ch 21:2` And David said to Joab and to the rulers of the people, "Go, *_number_* Israel from Beer-sheba even to Dan, and bring their *_number_* to me so that I may know it."
 * `1Ch 21:5` And Joab gave the sum of the *_number_* of the people to David. And all the people of Israel numbered one million and one hundred thousand men who drew sword. And Judah was four hundred and seventy thousand men who drew sword.
 * `1Ch 22:16` Of the gold, the silver, the brass, and the iron, there is no *_number_*. Arise therefore, and work, and may the LORD be with you."
 * `1Ch 23:3` Now the Levites were numbered from the age of thirty years and upward, and their *_number_* by their polls, man by man, was thirty-eight thousand.
 * `1Ch 23:24` These were the sons of Levi after the house of their fathers, even the chief of the fathers, as they were counted by *_number_* of names by their polls, who did the work for the service of the house of the LORD, from the age of twenty years and upward.
-* `1Ch 23:31` And to offer all burnt-sacrifices to the LORD on the sabbaths, in the new moons, and on the set feasts, by *_number_*, according to the order commanded to them, continually before the LORD;
+* `1Ch 23:31` And to offer all burnt-sacrifices to the LORD on the sabbaths, on the new moons, and on the set feasts, by *_number_*, according to the order commanded to them, continually before the LORD;
 * `1Ch 25:1` Moreover, David and the captains of the host separated for the service some of the sons of Asaph, of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals. And this is the *_number_* of the workmen according to their service:
 * `1Ch 25:7` So their *_number_*, with their brothers who were instructed in the songs of the LORD, even all who were skillful, was two hundred and eighty-eight.
 * `1Ch 27:1` Now the children of Israel after their *_number_*, namely, the chief fathers, captains of thousands and hundreds, and their officers who served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty-four thousand.
@@ -2404,7 +2405,7 @@ _1 verse containing NOXIOUS_
 * `Rev 15:2` And I saw something like a sea of glass mingled with fire. And those who had gained the victory over the beast, over his image, over his mark, and over the *_number_* of his name, stand on the sea of glass, having the harps of God.
 * `Rev 20:8` And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them to battle—the *_number_* of whom is as the sand of the sea.
 
-_178 verses containing NUMBER_
+_179 verses containing NUMBER_
 
 == NUMBERED
 
@@ -2506,7 +2507,7 @@ _178 verses containing NUMBER_
 * `2Ki 3:6` And king Jehoram went out of Samaria the same time and *_numbered_* all Israel.
 * `1Ch 20:6` And yet again there was war at Gath, where there was a man of great stature, whose fingers and toes *_numbered_* twenty-four, six on each hand and six on each foot, and he also was the son of the giant.
 * `1Ch 21:5` And Joab gave the sum of the number of the people to David. And all the people of Israel *_numbered_* one million and one hundred thousand men who drew sword. And Judah was four hundred and seventy thousand men who drew sword.
-* `1Ch 21:17` And David said to God, "Is it not I who commanded the people to be *_numbered_*? It is even I who have sinned and done evil indeed, but as for these sheep, what have they done? Let your hand, I pray you, O LORD my God, be upon me and on my father's house, but not upon your people so that they should be afflicted."
+* `1Ch 21:17` And David said to God, "Is it not I who commanded the people to be *_numbered_*? It is even I who have sinned and done evil indeed. But as for these sheep, what have they done? Let your hand, I pray you, O LORD my God, be upon me and on my father's house, but not upon your people so that they should be afflicted."
 * `1Ch 23:3` Now the Levites were *_numbered_* from the age of thirty years and upward, and their number by their polls, man by man, was thirty-eight thousand.
 * `1Ch 23:27` For by the last words of David the Levites were *_numbered_* from twenty years old and above,
 * `2Ch 2:2` And Solomon *_numbered_* out seventy thousand men to bear burdens, eighty thousand to hew in the mountain, and three thousand and six hundred to oversee them.

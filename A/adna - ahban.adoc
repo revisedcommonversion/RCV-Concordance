@@ -630,7 +630,7 @@ _36 verses containing AFFLICT_
 * `2Sa 22:28` And the *_afflicted_* people you will save, but your eyes are upon the haughty so that you may bring them down.
 * `1Ki 2:26` And to Abiathar the priest, the king said, "Depart to your own fields in Anathoth, for you are worthy of death. But I will not at this time put you to death because you bore the ark of the Lord GOD before David my father and because you have been *_afflicted_* in all in which my father was *_afflicted_*."
 * `2Ki 17:20` And the LORD rejected all the offspring of Israel, *_afflicted_* them, and delivered them into the hand of raiders until he had cast them out of his sight.
-* `1Ch 21:17` And David said to God, "Is it not I who commanded the people to be numbered? It is even I who have sinned and done evil indeed, but as for these sheep, what have they done? Let your hand, I pray you, O LORD my God, be upon me and on my father's house, but not upon your people so that they should be *_afflicted_*."
+* `1Ch 21:17` And David said to God, "Is it not I who commanded the people to be numbered? It is even I who have sinned and done evil indeed. But as for these sheep, what have they done? Let your hand, I pray you, O LORD my God, be upon me and on my father's house, but not upon your people so that they should be *_afflicted_*."
 * `Job 6:14` To him who is *_afflicted_*, pity should be shown from his friend, but he forsakes the fear of the Almighty.
 * `Job 27:2` "As God lives, who has taken away my judgment, and the Almighty who has *_afflicted_* my soul,
 * `Job 30:11` Because he has loosened my cord and *_afflicted_* me, they have also let loose the bridle before me.
@@ -1457,10 +1457,10 @@ _182 verses containing AFRAID_
 * `1Ch 11:12` And *_after_* him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighty men.
 * `1Ch 14:14` Therefore, David inquired again of God. And God said to him, "Do not go up *_after_* them. Turn away from them and come upon them over against the mulberry trees.
 * `1Ch 15:13` For because you did not do it at the first, the LORD our God made a breach upon us, for we did not seek him *_after_* the due order."
-* `1Ch 17:11` And it shall come to pass, when your days are fulfilled that you must go to be with your fathers, that I will raise up your offspring *_after_* you, who shall be of your sons, and I will establish his kingdom.
+* `1Ch 17:11` And it shall come to pass when your days are fulfilled and you must go to be with your fathers, that I will raise up your offspring *_after_* you, who shall be of your sons, and I will establish his kingdom.
 * `1Ch 18:1` Now *_after_* this it came to pass that David smote the Philistines, subdued them, and took Gath and its towns out of the hand of the Philistines.
 * `1Ch 19:1` Now it came to pass *_after_* this, that Nahash the king of the children of Ammon died and his son reigned in his stead.
-* `1Ch 20:1` And it came to pass, that *_after_* the year had expired, at the time that kings go out to battle, Joab led forth the power of the army and wasted the country of the children of Ammon and came and besieged Rabbah. But David remained in Jerusalem. And Joab smote Rabbah and destroyed it.
+* `1Ch 20:1` And it came to pass *_after_* the year had expired, at the time that kings go out to battle, that Joab led forth the power of the army and wasted the country of the children of Ammon and came and besieged Rabbah. But David remained in Jerusalem. And Joab smote Rabbah and destroyed it.
 * `1Ch 20:4` And it came to pass *_after_* this, that there arose war at Gezer with the Philistines. At that time Sibbechai the Hushathite slew Sippai, who was of the children of the giant, and they were subdued.
 * `1Ch 23:24` These were the sons of Levi *_after_* the house of their fathers, even the chief of the fathers, as they were counted by number of names by their polls, who did the work for the service of the house of the LORD, from the age of twenty years and upward.
 * `1Ch 24:30` The sons also of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites *_after_* the house of their fathers.
@@ -3065,7 +3065,6 @@ _441 verses containing AGAIN_
 * `1Ch 19:17` And it was told to David. And he gathered all Israel, passed over the Jordan, came upon them, and set the battle in array *_against_* them. So when David had put the battle in array *_against_* the Syrians, they fought with him.
 * `1Ch 21:1` And Satan stood up *_against_* Israel and incited David to number Israel.
 * `1Ch 21:4` Nevertheless, the king's word prevailed *_against_* Joab. Therefore, Joab departed, went throughout all Israel, and came to Jerusalem.
-* `1Ch 24:31` These likewise cast lots over *_against_* their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over *_against_* their younger brothers.
 * `1Ch 25:8` And they cast lots, ward *_against_* ward, the small as well as the great, the teacher as well as the scholar.
 * `1Ch 26:12` Among these were the divisions of the gatekeepers, even among the chief men, having wards *_against_* one another, to minister in the house of the LORD.
 * `1Ch 26:16` To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the way of the ascent, ward *_against_* ward.
@@ -3920,7 +3919,7 @@ _441 verses containing AGAIN_
 * `Rev 13:6` And he opened his mouth in blasphemy *_against_* God to blaspheme his name, his tabernacle, and those who dwell in heaven.
 * `Rev 19:19` And I saw the beast, the kings of the earth, and their armies assembled to make war *_against_* him who sat on the horse and *_against_* his army.
 
-_1374 verses containing AGAINST_
+_1373 verses containing AGAINST_
 
 == AGATE
 
