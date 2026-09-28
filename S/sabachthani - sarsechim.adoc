@@ -559,7 +559,7 @@ _203 verses containing SACRIFICE_
 * `2Ki 17:32` So they feared the LORD, but also made for themselves from the lowest of them priests of the high places who *_sacrificed_* for them in the houses of the high places.
 * `1Ch 21:28` At that time when David saw that the LORD had answered him in the threshing-floor of Ornan the Jebusite, he *_sacrificed_* there.
 * `1Ch 29:21` And they *_sacrificed_* sacrifices to the LORD and offered burnt-offerings to the LORD on the next day after that day, even one thousand bulls, one thousand rams, and one thousand lambs, with their drink-offerings, and sacrifices in abundance for all Israel.
-* `2Ch 5:6` Also king Solomon and all the congregation of Israel who were assembled to him before the ark *_sacrificed_* sheep and oxen, which could not be told nor numbered for multitude.
+* `2Ch 5:6` And king Solomon and all the congregation of Israel who were assembled to him before the ark *_sacrificed_* sheep and oxen, which could not be told nor numbered for multitude.
 * `2Ch 28:4` He also *_sacrificed_* and burnt incense in the high places, on the hills, and under every green tree.
 * `2Ch 28:23` For he *_sacrificed_* to the gods of Damascus, which smote him, and he said, "Because the gods of the kings of Syria help them, therefore I will sacrifice to them so that they may help me." But they were the ruin of him and of all Israel.
 * `2Ch 33:16` And he repaired the altar of the LORD and *_sacrificed_* peace-offerings and thank-offerings on it, and commanded Judah to serve the LORD God of Israel.
@@ -2827,7 +2827,7 @@ _1 verse containing SAFFRON_
 * `2Ch 6:1` Then Solomon *_said_*, "The LORD has *_said_* that he would dwell in the thick darkness.
 * `2Ch 6:4` And he *_said_*, "Blessed be the LORD God of Israel, who has with his hands fulfilled that which he spoke with his mouth to my father David, saying,
 * `2Ch 6:8` But the LORD *_said_* to David my father, 'Because it was in your heart to build a house for my name, you did well in that it was in your heart.
-* `2Ch 6:14` And he *_said_*, "O LORD God of Israel, there is no God like you in the heaven, nor on the earth, keeping covenant and showing mercy to your servants who walk before you with all their hearts—
+* `2Ch 6:14` And he *_said_*, "O LORD God of Israel, there is no God like you in heaven or on earth, keeping covenant and showing mercy to your servants who walk before you with all their hearts—
 * `2Ch 6:20` So that your eyes may be open upon this house day and night, upon the place of which you have *_said_* that you would put your name there, to listen to the prayer which your servant prays toward this place.
 * `2Ch 7:12` And the LORD appeared to Solomon by night and *_said_* to him, "I have heard your prayer and have chosen this place for myself as a house of sacrifice.
 * `2Ch 8:11` And Solomon brought up the daughter of Pharaoh from the city of David to the house that he had built for her, for he *_said_*, "My wife shall not dwell in the house of David king of Israel, because the places are holy, to which the ark of the LORD has come."
@@ -5433,7 +5433,7 @@ _7 verses containing SAMARITANS_
 * `1Ch 1:27` Abram—the *_same_* is Abraham.
 * `1Ch 4:33` And also all their villages that were around the *_same_* cities to Baal. These were their habitations and their genealogy.
 * `1Ch 17:3` And it came to pass the *_same_* night, that the word of God came to Nathan, saying,
-* `2Ch 7:8` Also at the *_same_* time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entrance of Hamath to the river of Egypt.
+* `2Ch 7:8` And at the *_same_* time Solomon kept the feast for seven days, and all Israel with him, a very great congregation, from the entrance of Hamath to the river of Egypt.
 * `2Ch 13:9` Have you not cast out the priests of the LORD, the sons of Aaron and the Levites, and have made for yourselves priests after the manner of the nations of other lands? Whoever comes to consecrate himself with a young bull and seven rams, the *_same_* may be a priest of those who are no gods.
 * `2Ch 15:11` And they offered to the LORD at the *_same_* time from the plunder which they had brought seven hundred oxen and seven thousand sheep.
 * `2Ch 16:10` Then Asa was angry with the seer and put him in a prison house, for he was in a rage with him because of this thing. And Asa oppressed some of the people the *_same_* time.
@@ -5930,7 +5930,7 @@ _5 verses containing SANCTIFICATION_
 * `1Sa 16:5` And he said, "Peaceably. I have come to sacrifice to the LORD. Sanctify yourselves and come with me to the sacrifice." And he *_sanctified_* Jesse and his sons and called them to the sacrifice.
 * `1Sa 21:5` And David answered the priest and said to him, "Of a truth women have been kept from us about these three days since I came out, and the vessels of the young men are holy, and the bread is in a common manner, even though it was *_sanctified_* this day in the vessel."
 * `1Ch 15:14` So the priests and the Levites *_sanctified_* themselves to bring up the ark of the LORD God of Israel.
-* `2Ch 5:11` And it came to pass, when the priests had come out of the holy place (for all the priests who were present were *_sanctified_*, and did not keep their courses,
+* `2Ch 5:11` And it came to pass when the priests had come out of the holy place (for all the priests who were present were *_sanctified_*, without regard to their courses,
 * `2Ch 7:16` For now I have chosen and *_sanctified_* this house so that my name may be there forever. And my eyes and my heart shall be there perpetually.
 * `2Ch 7:20` Then I will pluck them up by the roots out of my land which I have given them. And this house, which I have *_sanctified_* for my name, I will cast out of my sight and will make it to be a proverb and a by-word among all nations.
 * `2Ch 29:15` And they assembled their brothers, *_sanctified_* themselves, and came to cleanse the house of the LORD according to the commandment of the king, by the words of the LORD.
