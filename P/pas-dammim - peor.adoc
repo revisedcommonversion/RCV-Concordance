@@ -485,13 +485,13 @@ _12 verses containing PASHUR_
 * `2Ch 5:11` And it came to *_pass_* when the priests had come out of the holy place (for all the priests who were present were sanctified, without regard to their courses,
 * `2Ch 5:13` It even came to *_pass_* as the trumpeters and singers were as one to make one sound to be heard in praising and thanking the LORD, and when they lifted up their voice with the trumpets and cymbals and instruments of music and praised the LORD, saying, "For he is good, for his mercy endures forever," that the house was filled with a cloud, even the house of the LORD,
 * `2Ch 8:1` And it came to *_pass_* at the end of twenty years, wherein Solomon had built the house of the LORD and his own house,
-* `2Ch 10:2` And it came to *_pass_*, when Jeroboam the son of Nebat heard it, who was in Egypt where he had fled from the presence of Solomon the king, that Jeroboam returned from Egypt.
-* `2Ch 12:1` And it came to *_pass_*, when Rehoboam had established the kingdom and had strengthened himself, he and all Israel with him forsook the law of the LORD.
-* `2Ch 12:2` And it came to *_pass_*, that in the fifth year of king Rehoboam, Shishak king of Egypt came up against Jerusalem because they had transgressed against the LORD,
+* `2Ch 10:2` And it came to *_pass_* when Jeroboam the son of Nebat heard it, who was in Egypt where he had fled from the presence of Solomon the king, that Jeroboam returned from Egypt.
+* `2Ch 12:1` And it came to *_pass_* when Rehoboam had established the kingdom and had strengthened himself, that he and all Israel with him forsook the law of the LORD.
+* `2Ch 12:2` And it came to *_pass_* in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem because they had transgressed against the LORD,
 * `2Ch 13:15` Then the men of Judah gave a shout. And as the men of Judah shouted, it came to *_pass_*, that God smote Jeroboam and all Israel before Abijah and Judah.
-* `2Ch 16:5` And it came to *_pass_*, when Baasha heard it, that he left off the building of Ramah and let his work cease.
-* `2Ch 18:31` And it came to *_pass_*, when the captains of the chariots saw Jehoshaphat, that they said, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
-* `2Ch 18:32` For it came to *_pass_*, that when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.
+* `2Ch 16:5` And it came to *_pass_* when Baasha heard it, that he left off the building of Ramah and let his work cease.
+* `2Ch 18:31` And it came to *_pass_* when the captains of the chariots saw Jehoshaphat, that they said, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
+* `2Ch 18:32` For it came to *_pass_* when the captains of the chariots perceived that it was not the king of Israel, that they turned back again from pursuing him.
 * `2Ch 20:1` It came to *_pass_* after this also, that the children of Moab and the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle.
 * `2Ch 21:19` And it came to *_pass_*, that in process of time, after the end of two years, his bowels fell out by reason of his sickness. Thus he died of severe diseases. And his people made no burning for him, like the burning of his fathers.
 * `2Ch 22:8` And it came to *_pass_*, that when Jehu was executing judgment upon the house of Ahab and found the princes of Judah and the sons of the brothers of Ahaziah, who ministered to Ahaziah, he slew them.
@@ -2039,7 +2039,7 @@ _7 verses containing PE_
 * `1Ch 21:26` And David built an altar to the LORD there, offered burnt-offerings and *_peace_*-offerings, and called upon the LORD, and he answered him from heaven by fire upon the altar of burnt-offering.
 * `1Ch 22:9` Behold, a son shall be born to you who shall be a man of rest. And I will give him rest from all his enemies around, for his name shall be Solomon, and I will give *_peace_* and quietness to Israel in his days.
 * `2Ch 7:7` Moreover, Solomon hallowed the middle of the court that was before the house of the LORD, for there he offered burnt-offerings and the fat of the *_peace_*-offerings, because the brazen altar which Solomon had made was not able to receive the burnt-offerings, the food-offerings, and the fat.
-* `2Ch 15:5` And in those times there was no *_peace_* to him who went out, nor to him who came in, but great vexations were upon all the inhabitants of the countries.
+* `2Ch 15:5` And in those times there was no *_peace_* to him who went out nor to him who came in, but great vexations were upon all the inhabitants of the countries.
 * `2Ch 18:16` Then he said, "I saw all Israel scattered upon the mountains as sheep that have no shepherd. And the LORD said, 'These have no master. Let them each return therefore to his house in *_peace_*.'"
 * `2Ch 18:26` And say, 'Thus says the king: "Put this man in the prison and feed him with bread of affliction and with water of affliction until I return in *_peace_*."'"
 * `2Ch 18:27` And Micaiah said, "If you certainly return in *_peace_*, then the LORD has not spoken by me." And he said, "Listen, all you people."
@@ -3581,7 +3581,7 @@ _2 verses containing PENURY_
 * `2Ch 14:13` And Asa and the *_people_* who were with him pursued them to Gerar. And the Cushites were overthrown so that they could not recover themselves, for they were destroyed before the LORD and before his host. And they carried away a large amount of plunder.
 * `2Ch 16:10` Then Asa was angry with the seer and put him in a prison house, for he was in a rage with him because of this thing. And Asa oppressed some of the *_people_* the same time.
 * `2Ch 17:9` And they taught in Judah, having the book of the law of the LORD with them, and went around throughout all the cities of Judah and taught the *_people_*.
-* `2Ch 18:2` And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the *_people_* who were with him, and persuaded him to go up with him to Ramoth-gilead.
+* `2Ch 18:2` And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the *_people_* who were with him and persuaded him to go up with him to Ramoth-gilead.
 * `2Ch 18:3` And Ahab king of Israel said to Jehoshaphat king of Judah, "Will you go with me to Ramoth-gilead?" And he answered him, "I am as you are and my *_people_* as your *_people_*. And we will be with you in the war."
 * `2Ch 18:27` And Micaiah said, "If you certainly return in peace, then the LORD has not spoken by me." And he said, "Listen, all you *_people_*."
 * `2Ch 19:4` And Jehoshaphat dwelt at Jerusalem. And he went out again through the *_people_* from Beer-sheba to mount Ephraim and brought them back to the LORD God of their fathers.

@@ -56,7 +56,7 @@ _32 verses containing PERCEIVE_
 * `2Sa 14:1` Now Joab the son of Zeruiah *_perceived_* that the king's heart was toward Absalom.
 * `1Ki 22:33` And it came to pass when the captains of the chariots *_perceived_* that it was not the king of Israel, that they turned back from pursuing him.
 * `1Ch 14:2` And David *_perceived_* that the LORD had confirmed him king over Israel, for his kingdom was exalted on high because of his people Israel.
-* `2Ch 18:32` For it came to pass, that when the captains of the chariots *_perceived_* that it was not the king of Israel, they turned back again from pursuing him.
+* `2Ch 18:32` For it came to pass when the captains of the chariots *_perceived_* that it was not the king of Israel, that they turned back again from pursuing him.
 * `Neh 6:12` And behold, I *_perceived_* that God had not sent him, but that he pronounced this prophecy against me, for Tobiah and Sanballat had hired him.
 * `Neh 6:16` And it came to pass when all our enemies heard of it and all the heathen who were around us saw these things, that they were much cast down in their own eyes, for they *_perceived_* that this work was wrought by our God.
 * `Neh 13:10` And I *_perceived_* that the portions of the Levites had not been given to them, for the Levites and the singers who did the work had each fled to his field.
@@ -1157,7 +1157,7 @@ _10 verses containing PERSUADE_
 
 == PERSUADED
 
-* `2Ch 18:2` And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the people who were with him, and *_persuaded_* him to go up with him to Ramoth-gilead.
+* `2Ch 18:2` And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the people who were with him and *_persuaded_* him to go up with him to Ramoth-gilead.
 * `Pro 25:15` By long forbearing a prince is *_persuaded_*, and a soft tongue breaks the bone.
 * `Mth 27:20` But the chief priests and elders *_persuaded_* the multitude that they should ask for Barabbas and destroy Jesus.
 * `Luk 16:31` And he said to him, 'If they do not hear Moses and the prophets, neither will they be *_persuaded_* if one rises from the dead.'"

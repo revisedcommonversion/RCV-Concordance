@@ -2834,7 +2834,7 @@ _1 verse containing SAFFRON_
 * `2Ch 9:5` And she *_said_* to the king, "It was a true report which I heard in my own land of your acts and of your wisdom.
 * `2Ch 10:5` And he *_said_* to them, "Come back to me after three days." And the people departed.
 * `2Ch 10:9` And he *_said_* to them, "What advice do you give that we may return answer to this people who have spoken to me, saying, 'Ease somewhat the yoke that your father put upon us'?"
-* `2Ch 12:5` Then Shemaiah the prophet came to Rehoboam and to the princes of Judah who were assembled at Jerusalem because of Shishak, and *_said_* to them, "Thus says the LORD: 'You have forsaken me, and therefore, I have also left you in the hand of Shishak.'"
+* `2Ch 12:5` Then Shemaiah the prophet came to Rehoboam and to the princes of Judah who were assembled at Jerusalem because of Shishak and *_said_* to them, "Thus says the LORD: 'You have forsaken me, and therefore, I have also left you in the hand of Shishak.'"
 * `2Ch 12:6` Upon this the princes of Israel and the king humbled themselves and *_said_*, "The LORD is righteous."
 * `2Ch 13:4` And Abijah stood upon mount Zemaraim, which is in the mountains of Ephraim, and *_said_*, "Hear me, Jeroboam and all Israel.
 * `2Ch 14:7` Therefore, he *_said_* to Judah, "Let us build these cities and surround them with walls, towers, gates, and bars, while the land is still before us, because we have sought the LORD our God, we have sought him, and he has given us rest on every side." So they built and prospered.
@@ -2859,10 +2859,10 @@ _1 verse containing SAFFRON_
 * `2Ch 18:21` And he *_said_*, 'I will go out and be a lying spirit in the mouth of all his prophets.' And the LORD *_said_*, 'You shall entice him and you shall also prevail. Go out and do even so.'
 * `2Ch 18:23` Then Zedekiah the son of Chenaanah came near and smote Micaiah upon the cheek and *_said_*, "Which way did the Spirit of the LORD go from me to speak to you?"
 * `2Ch 18:24` And Micaiah *_said_*, "Behold, you shall see on that day when you go into an inner chamber to hide yourself."
-* `2Ch 18:25` Then the king of Israel *_said_*, "Take Micaiah and carry him back to Amon the governor of the city and to Joash the king's son,
+* `2Ch 18:25` Then the king of Israel *_said_*, "Take Micaiah and carry him back to Amon the governor of the city and to Joash the king's son
 * `2Ch 18:27` And Micaiah *_said_*, "If you certainly return in peace, then the LORD has not spoken by me." And he *_said_*, "Listen, all you people."
 * `2Ch 18:29` And the king of Israel *_said_* to Jehoshaphat, "I will disguise myself and go to the battle, but put on your robes." So the king of Israel disguised himself, and they went to the battle.
-* `2Ch 18:31` And it came to pass, when the captains of the chariots saw Jehoshaphat, that they *_said_*, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
+* `2Ch 18:31` And it came to pass when the captains of the chariots saw Jehoshaphat, that they *_said_*, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
 * `2Ch 18:33` And a certain man drew a bow at random and smote the king of Israel between the joints of the harness. Therefore, he *_said_* to his chariot-man, "Turn your hand so that you may carry me out of the host, for I am wounded."
 * `2Ch 19:2` And Jehu the son of Hanani the seer went out to meet him and *_said_* to king Jehoshaphat, "Should you help the ungodly and love those who hate the LORD? Therefore, wrath is upon you from before the LORD.
 * `2Ch 19:6` And *_said_* to the judges, "Take heed what you do, for you do not judge for man, but for the LORD who is with you in the judgment.
@@ -5260,7 +5260,7 @@ _158 verses containing SALVATION_
 * `2Ki 21:13` And I will stretch over Jerusalem the line of *_Samaria_* and the plummet of the house of Ahab, and I will wipe Jerusalem as a man wipes a dish, wiping it and turning it upside down.
 * `2Ki 23:18` And he said, "Leave him alone. Let no man move his bones." So they left his bones alone with the bones of the prophet who came out of *_Samaria_*.
 * `2Ki 23:19` And all the houses of the high places that were in the cities of *_Samaria_*, which the kings of Israel had made to provoke the LORD to anger, Josiah took away and did to them according to all the acts that he had done in Beth-el.
-* `2Ch 18:2` And after some years he went down to Ahab in *_Samaria_*. And Ahab killed sheep and oxen in abundance for him and for the people who were with him, and persuaded him to go up with him to Ramoth-gilead.
+* `2Ch 18:2` And after some years he went down to Ahab in *_Samaria_*. And Ahab killed sheep and oxen in abundance for him and for the people who were with him and persuaded him to go up with him to Ramoth-gilead.
 * `2Ch 18:9` And the king of Israel and Jehoshaphat king of Judah each sat on his throne clothed in their robes, and they sat in a void place at the entrance of the gate of *_Samaria_*. And all the prophets prophesied before them.
 * `2Ch 22:9` And he sought Ahaziah, and they caught him (for he was hid in *_Samaria_*) and brought him to Jehu. And when they had slain him, they buried him, because they said, "He is the son of Jehoshaphat, who sought the LORD with all his heart." So the house of Ahaziah had no power to retain the kingdom.
 * `2Ch 25:13` But the soldiers of the army whom Amaziah sent back, so that they should not go with him to battle, fell upon the cities of Judah, from *_Samaria_* even to Beth-horon, and smote three thousand of them and took a large amount of plunder.
