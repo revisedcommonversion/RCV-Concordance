@@ -839,7 +839,7 @@ _145 verses containing LOOK_
 * `1Ch 21:21` And as David came to Ornan, Ornan *_looked_* and saw David, went out of the threshing-floor, and bowed himself to David with his face to the ground.
 * `2Ch 13:14` And when Judah *_looked_* back, behold, the battle was before and behind, and they cried to the LORD, and the priests sounded with the trumpets.
 * `2Ch 20:24` And when Judah came toward the watch-tower in the wilderness, they *_looked_* to the multitude, and behold, they were dead bodies fallen to the earth and no one escaped.
-* `2Ch 23:13` And she *_looked_*, and behold, the king stood at his pillar at the entrance, and the princes and the trumpets by the king. And all the people of the land rejoiced and sounded with trumpets, and the singers with instruments of music were leading the singing of praise. Then Athaliah rent her clothes and said, "Treason, treason."
+* `2Ch 23:13` And she *_looked_*, and behold, the king stood at his pillar at the entrance, with the princes and the trumpets by the king. And all the people of the land rejoiced and sounded with trumpets, and the singers with instruments of music were leading the singing of praise. Then Athaliah rent her clothes and said, "Treason, treason."
 * `2Ch 26:20` And Azariah the chief priest and all the priests *_looked_* upon him, and behold, he was leprous in his forehead, and they thrust him out from there. Indeed, he himself hastened to go out, because the LORD had smitten him.
 * `Neh 4:14` And I *_looked_*, arose, and said to the nobles, to the rulers, and to the rest of the people, "Do not be afraid of them. Remember the Lord who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your houses."
 * `Est 2:15` Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her as his daughter, had come to go before the king, she required nothing but what Hegai the king's chamberlain, the keeper of the women, appointed. And Esther obtained favor in the sight of all those who *_looked_* upon her.
@@ -4167,22 +4167,22 @@ _1 verse containing LOP_
 * `2Ch 19:4` And Jehoshaphat dwelt at Jerusalem. And he went out again through the people from Beer-sheba to mount Ephraim and brought them back to the *_LORD_* God of their fathers.
 * `2Ch 19:6` And said to the judges, "Take heed what you do, for you do not judge for man, but for the *_LORD_* who is with you in the judgment.
 * `2Ch 19:7` Now therefore, let the fear of the *_LORD_* be upon you. Take heed and do it, for there is no iniquity with the *_LORD_* our God, nor respect of persons, nor taking of gifts."
-* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and chief of the fathers of Israel for the judgment of the *_LORD_* and for controversies when they returned to Jerusalem.
+* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and chiefs of the fathers of Israel for the judgment of the *_LORD_* and for controversies when they returned to Jerusalem.
 * `2Ch 19:9` And he charged them, saying, "Thus you shall do in the fear of the *_LORD_*, faithfully and with a perfect heart.
 * `2Ch 19:10` And whatever cause comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, you shall even warn them that they do not trespass against the *_LORD_* so that wrath may not come upon you and upon your brothers. Do this and you shall not trespass.
 * `2Ch 19:11` And behold, Amariah the chief priest is over you in all matters of the *_LORD_*, and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king's matters. Also, the Levites shall be officers before you. Deal courageously, and the *_LORD_* will be with the good."
 * `2Ch 20:3` And Jehoshaphat feared, set himself to seek the *_LORD_*, and proclaimed a fast throughout all Judah.
 * `2Ch 20:4` And Judah assembled to ask help from the *_LORD_*. Even from all the cities of Judah they came to seek the *_LORD_*.
-* `2Ch 20:5` And Jehoshaphat stood in the congregation of Judah and Jerusalem in the house of the *_LORD_* before the new court,
+* `2Ch 20:5` And Jehoshaphat stood in the congregation of Judah and Jerusalem in the house of the *_LORD_* before the new court
 * `2Ch 20:6` And said, "O *_LORD_* God of our fathers, are you not God in heaven? And do you not rule over all the kingdoms of the heathen? And in your hand is there not power and might so that no one is able to withstand you?
 * `2Ch 20:13` And all Judah stood before the *_LORD_*, with their infants, their wives, and their children.
 * `2Ch 20:14` Then upon Jehaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, the Spirit of the *_LORD_* came in the midst of the congregation.
 * `2Ch 20:15` And he said, "Listen, all Judah, inhabitants of Jerusalem, and king Jehoshaphat, thus says the *_LORD_* to you: 'Do not be afraid nor dismayed by reason of this great multitude, for the battle is not yours, but God's.
-* `2Ch 20:17` You shall not need to fight in this battle. Set yourselves, stand still, and see the salvation of the *_LORD_* with you, O Judah and Jerusalem. Do not fear, nor be dismayed. Tomorrow, go out against them, for the *_LORD_* will be with you.'"
+* `2Ch 20:17` You shall not need to fight in this battle. Set yourselves, stand still, and see the salvation of the *_LORD_* with you, O Judah and Jerusalem. Do not fear nor be dismayed. Tomorrow, go out against them, for the *_LORD_* will be with you.'"
 * `2Ch 20:18` And Jehoshaphat bowed his head with his face to the ground. And all Judah and the inhabitants of Jerusalem fell before the *_LORD_*, worshiping the *_LORD_*.
 * `2Ch 20:19` And the Levites, of the children of the Kohathites and of the children of the Korhites, stood up to praise the *_LORD_* God of Israel with a loud voice on high.
 * `2Ch 20:20` And they rose early in the morning and went forth into the wilderness of Tekoa. And as they went forth, Jehoshaphat stood and said, "Hear me, O Judah and inhabitants of Jerusalem. Believe in the *_LORD_* your God and you shall be established. Believe his prophets and you shall prosper."
-* `2Ch 20:21` And when he had consulted with the people, he appointed singers to the *_LORD_* who should praise the beauty of his holiness as they went out before the army, and to say, "Praise the *_LORD_*, for his mercy endures forever."
+* `2Ch 20:21` And when he had consulted with the people, he appointed singers to the *_LORD_* who should praise the beauty of his holiness as they went out before the army and say, "Praise the *_LORD_*, for his mercy endures forever."
 * `2Ch 20:22` And when they began to sing and to praise, the *_LORD_* set ambushes against the children of Ammon, Moab, and mount Seir who had come against Judah, and they were smitten.
 * `2Ch 20:26` And on the fourth day they assembled themselves in the valley of Berachah, for there they blessed the *_LORD_*. Therefore, the name of the same place has been called The Valley of Berachah to this day.
 * `2Ch 20:27` Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the front of them, to go back to Jerusalem with joy, for the *_LORD_* had made them to rejoice over their enemies.
@@ -4193,7 +4193,7 @@ _1 verse containing LOP_
 * `2Ch 21:6` And he walked in the way of the kings of Israel, as did the house of Ahab, for he had the daughter of Ahab for a wife. And he wrought that which was evil in the eyes of the *_LORD_*.
 * `2Ch 21:7` Yet the *_LORD_* would not destroy the house of David because of the covenant that he had made with David, and as he promised to give a light to him and to his sons forever.
 * `2Ch 21:10` So the Edomites revolted from under the hand of Judah to this day. At the same time Libnah also revolted from under his hand because he had forsaken the *_LORD_* God of his fathers.
-* `2Ch 21:12` And a writing came to him from Elijah the prophet, saying, "Thus says the *_LORD_* God of David your father: 'Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,
+* `2Ch 21:12` And a writing came to him from Elijah the prophet, saying, "Thus says the *_LORD_* God of David your father: 'Because you have not walked in the ways of Jehoshaphat your father nor in the ways of Asa king of Judah,
 * `2Ch 21:14` Behold, with a great plague the *_LORD_* will smite your people, your children, your wives, and all your goods.
 * `2Ch 21:16` Moreover, the *_LORD_* stirred up against Jehoram the spirit of the Philistines and of the Arabians, who were near the Cushites.
 * `2Ch 21:18` And after all this the *_LORD_* smote him in his bowels with an incurable disease.
@@ -4202,11 +4202,11 @@ _1 verse containing LOP_
 * `2Ch 22:9` And he sought Ahaziah, and they caught him (for he was hid in Samaria) and brought him to Jehu. And when they had slain him, they buried him, because they said, "He is the son of Jehoshaphat, who sought the *_LORD_* with all his heart." So the house of Ahaziah had no power to retain the kingdom.
 * `2Ch 23:3` And all the congregation made a covenant with the king in the house of God. And he said to them, "Behold, the king's son shall reign as the *_LORD_* has said concerning the sons of David.
 * `2Ch 23:5` A third part shall be at the king's house, and a third part at the gate of the foundation. And all the people shall be in the courts of the house of the *_LORD_*.
-* `2Ch 23:6` But let no one come into the house of the *_LORD_*, except the priests and those Levites who minister. They shall go in, for they are holy, but all the people shall keep the watch of the *_LORD_*.
+* `2Ch 23:6` But let no one come into the house of the *_LORD_* except the priests and those Levites who minister. They shall go in, for they are holy, but all the people shall keep the watch of the *_LORD_*.
 * `2Ch 23:12` Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the *_LORD_*.
 * `2Ch 23:14` Then Jehoiada the priest brought out the captains of hundreds who were set over the host and said to them, "Bring her forth outside the ranges. And whoever follows her, let him be slain with the sword." For the priest said, "Do not slay her in the house of the *_LORD_*."
 * `2Ch 23:16` And Jehoiada made a covenant between himself, between all the people, and between the king, that they should be the *_LORD_*'S people.
-* `2Ch 23:18` Also Jehoiada appointed the offices of the house of the *_LORD_* by the hand of the priests the Levites, whom David had distributed in the house of the *_LORD_* to offer the burnt-offerings of the *_LORD_*, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
+* `2Ch 23:18` And Jehoiada appointed the offices of the house of the *_LORD_* by the hand of the priests the Levites, whom David had distributed in the house of the *_LORD_* to offer the burnt-offerings of the *_LORD_*, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
 * `2Ch 23:19` And he set the gatekeepers at the gates of the house of the *_LORD_* so that no one who was unclean in anything should enter.
 * `2Ch 23:20` And he took the captains of hundreds, the nobles, the governors of the people, and all the people of the land, and brought the king down from the house of the *_LORD_*. And they came through the high gate into the king's house and set the king upon the throne of the kingdom.
 * `2Ch 24:2` And Joash did that which was right in the sight of the *_LORD_* all the days of Jehoiada the priest.

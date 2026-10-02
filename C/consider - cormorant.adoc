@@ -292,7 +292,7 @@ _1 verse containing CONSULTATION_
 * `1Ki 12:6` And king Rehoboam *_consulted_* with the old men who stood before Solomon his father while he still lived and said, "How do you advise that I may answer this people?"
 * `1Ki 12:8` But he forsook the counsel of the old men which they had given him and *_consulted_* with the young men who had grown up with him, and who stood before him.
 * `1Ch 13:1` And David *_consulted_* with the captains of thousands and of hundreds and with every leader.
-* `2Ch 20:21` And when he had *_consulted_* with the people, he appointed singers to the LORD who should praise the beauty of his holiness as they went out before the army, and to say, "Praise the LORD, for his mercy endures forever."
+* `2Ch 20:21` And when he had *_consulted_* with the people, he appointed singers to the LORD who should praise the beauty of his holiness as they went out before the army and say, "Praise the LORD, for his mercy endures forever."
 * `Neh 5:7` Then I *_consulted_* with myself, and I rebuked the nobles and the rulers and said to them, "You exact interest, each from his brother." And I set a great assembly against them.
 * `Psa 83:3` They have taken crafty counsel against your people and *_consulted_* against your hidden ones.
 * `Psa 83:5` For they have *_consulted_* together with one consent. They are confederated against you:
@@ -1021,7 +1021,7 @@ _4 verses containing CONTRITE_
 
 == CONTROVERSIES
 
-* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and chief of the fathers of Israel for the judgment of the LORD and for *_controversies_* when they returned to Jerusalem.
+* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and chiefs of the fathers of Israel for the judgment of the LORD and for *_controversies_* when they returned to Jerusalem.
 
 _1 verse containing CONTROVERSIES_
 

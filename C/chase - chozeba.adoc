@@ -499,7 +499,7 @@ _1 verse containing CHESIL_
 * `2Ki 12:10` And it came to pass when they saw that there was a large amount of money in the *_chest_*, that the king's scribe and the high priest came up, and they put it in bags and counted the money that was found in the house of the LORD.
 * `2Ch 24:8` And at the king's commandment they made a *_chest_* and set it outside at the gate of the house of the LORD.
 * `2Ch 24:10` And all the princes and all the people rejoiced, brought in, and cast into the *_chest_* until they had made an end.
-* `2Ch 24:11` Now it came to pass, that at the time the *_chest_* was brought to the king's office by the hand of the Levites, and when they saw that there was much money, the king's scribe and the high priest's officer came and emptied the *_chest_*, took it, and carried it to its place again. Thus they did day by day and collected money in abundance.
+* `2Ch 24:11` Now it came to pass at the time the *_chest_* was brought to the king's office by the hand of the Levites, and when they saw that there was much money, that the king's scribe and the high priest's officer came and emptied the *_chest_*, took it, and carried it to its place again. Thus they did day by day and collected money in abundance.
 * `Dan 2:32` The head of this image was of fine gold, his *_chest_* and his arms of silver, his belly and his thighs of brass,
 * `Luk 18:13` And the tax collector, standing afar off, would not lift up so much as his eyes to heaven, but smote upon his *_chest_*, saying, 'God be merciful to me a sinner.'
 * `Jhn 13:25` Then lying on Jesus' *_chest_*, he says to him, "Lord, who is it?"
@@ -703,7 +703,6 @@ _1 verse containing CHIDON_
 * `2Ch 11:22` And Rehoboam made Abijah the son of Maachah the *_chief_* to be ruler among his brothers, for he thought to make him king.
 * `2Ch 12:10` And king Rehoboam made shields of brass in their place and committed them to the hands of the *_chief_* of the guard who kept the entrance of the king's house.
 * `2Ch 17:14` And these are their numbers according to the house of their fathers. Of Judah, the captains of thousands: Adnah the *_chief_*, and with him three hundred thousand mighty men of valor;
-* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and *_chief_* of the fathers of Israel for the judgment of the LORD and for controversies when they returned to Jerusalem.
 * `2Ch 19:11` And behold, Amariah the *_chief_* priest is over you in all matters of the LORD, and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king's matters. Also, the Levites shall be officers before you. Deal courageously, and the LORD will be with the good."
 * `2Ch 23:2` And they went throughout Judah and gathered the Levites out of all the cities of Judah and the *_chief_* of the fathers of Israel, and they came to Jerusalem.
 * `2Ch 24:6` And the king called for Jehoiada the *_chief_* and said to him, "Why have you not required the Levites to bring in from Judah and from Jerusalem the collection, according to the commandment of Moses the servant of the LORD and of the congregation of Israel, for the tabernacle of witness?"
@@ -936,7 +935,7 @@ _1 verse containing CHIDON_
 * `1Pe 5:4` And when the *_chief_* Shepherd appears, you shall receive a crown of glory that does not fade away.
 * `Rev 6:15` And the kings of the earth, the great men, the rich men, the *_chief_* captains, the mighty men, every slave, and every free man hid themselves in the caves and in the rocks of the mountains,
 
-_347 verses containing CHIEF_
+_346 verses containing CHIEF_
 
 == CHIEFEST
 
@@ -969,10 +968,11 @@ _3 verses containing CHIEFLY_
 * `2Sa 23:13` And three of the thirty *_chiefs_* went down and came to David in the harvest time to the cave of Adullam, and the troop of the Philistines encamped in the valley of Rephaim.
 * `1Ch 1:51` Hadad also died. And the *_chiefs_* of Edom were chief Timna, chief Aliah, chief Jetheth,
 * `1Ch 1:54` Chief Magdiel, and chief Iram. These are the *_chiefs_* of Edom.
+* `2Ch 19:8` Moreover, in Jerusalem, Jehoshaphat set some of the Levites, priests, and *_chiefs_* of the fathers of Israel for the judgment of the LORD and for controversies when they returned to Jerusalem.
 * `Neh 12:22` As for the Levites, in the days of Eliashib, Joiada, Johanan, and Jaddua, the *_chiefs_* of the fathers were recorded, and also the priests in the reign of Darius the Persian.
 * `Neh 12:46` For in the days of David and Asaph of old, there were *_chiefs_* for the singers and for songs of praise and thanksgiving to God.
 
-_17 verses containing CHIEFS_
+_18 verses containing CHIEFS_
 
 == CHILD
 
