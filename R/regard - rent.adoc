@@ -363,12 +363,12 @@ _1 verse containing REI_
 * `2Ch 22:2` Ahaziah was forty-two years old when he began to *_reign_*, and he reigned for one year in Jerusalem. His mother's name was Athaliah the daughter of Omri.
 * `2Ch 23:3` And all the congregation made a covenant with the king in the house of God. And he said to them, "Behold, the king's son shall *_reign_* as the LORD has said concerning the sons of David.
 * `2Ch 24:1` Joash was seven years old when he began to *_reign_*, and he reigned for forty years in Jerusalem. His mother's name was Zibiah of Beer-sheba.
-* `2Ch 25:1` Amaziah was twenty-five years old when he began to *_reign_*, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-* `2Ch 26:3` Uzziah was sixteen years old when he began to *_reign_*, and he reigned fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
-* `2Ch 27:1` Jotham was twenty-five years old when he began to *_reign_* and he reigned sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
-* `2Ch 27:8` He was twenty-five years old when he began to *_reign_*, and reigned sixteen years in Jerusalem.
-* `2Ch 28:1` Ahaz was twenty years old when he began to *_reign_*, and he reigned sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
-* `2Ch 29:1` Hezekiah began to *_reign_* when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
+* `2Ch 25:1` Amaziah was twenty-five years old when he began to *_reign_*, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ch 26:3` Uzziah was sixteen years old when he began to *_reign_*, and he reigned for fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
+* `2Ch 27:1` Jotham was twenty-five years old when he began to *_reign_*, and he reigned for sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
+* `2Ch 27:8` He was twenty-five years old when he began to *_reign_*, and reigned for sixteen years in Jerusalem.
+* `2Ch 28:1` Ahaz was twenty years old when he began to *_reign_*, and he reigned for sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
+* `2Ch 29:1` Hezekiah began to *_reign_* when he was twenty-five years old, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
 * `2Ch 29:3` He, in the first year of his *_reign_*, in the first month, opened the doors of the house of the LORD and repaired them.
 * `2Ch 29:19` Moreover, all the vessels which king Ahaz in his *_reign_* cast away in his transgression, we have prepared and sanctified, and behold, they are before the altar of the LORD."
 * `2Ch 33:1` Manasseh was twelve years old when he began to *_reign_*, and he reigned fifty-five years in Jerusalem.
@@ -569,15 +569,15 @@ _158 verses containing REIGN_
 * `2Ch 22:12` And he was with them hid in the house of God for six years. And Athaliah *_reigned_* over the land.
 * `2Ch 24:1` Joash was seven years old when he began to reign, and he *_reigned_* for forty years in Jerusalem. His mother's name was Zibiah of Beer-sheba.
 * `2Ch 24:27` Now concerning his sons, the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son *_reigned_* in his stead.
-* `2Ch 25:1` Amaziah was twenty-five years old when he began to reign, and he *_reigned_* twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-* `2Ch 26:3` Uzziah was sixteen years old when he began to reign, and he *_reigned_* fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
+* `2Ch 25:1` Amaziah was twenty-five years old when he began to reign, and he *_reigned_* for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+* `2Ch 26:3` Uzziah was sixteen years old when he began to reign, and he *_reigned_* for fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
 * `2Ch 26:23` So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings, for they said, "He is a leper." And Jotham his son *_reigned_* in his stead.
-* `2Ch 27:1` Jotham was twenty-five years old when he began to reign and he *_reigned_* sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
-* `2Ch 27:8` He was twenty-five years old when he began to reign, and *_reigned_* sixteen years in Jerusalem.
+* `2Ch 27:1` Jotham was twenty-five years old when he began to reign, and he *_reigned_* for sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
+* `2Ch 27:8` He was twenty-five years old when he began to reign, and *_reigned_* for sixteen years in Jerusalem.
 * `2Ch 27:9` And Jotham slept with his fathers, and they buried him in the city of David. And Ahaz his son *_reigned_* in his stead
-* `2Ch 28:1` Ahaz was twenty years old when he began to reign, and he *_reigned_* sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
+* `2Ch 28:1` Ahaz was twenty years old when he began to reign, and he *_reigned_* for sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
 * `2Ch 28:27` And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem, but they did not bring him into the sepulchers of the kings of Israel. And Hezekiah his son *_reigned_* in his stead.
-* `2Ch 29:1` Hezekiah began to reign when he was twenty-five years old, and he *_reigned_* twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
+* `2Ch 29:1` Hezekiah began to reign when he was twenty-five years old, and he *_reigned_* for twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
 * `2Ch 32:33` And Hezekiah slept with his fathers, and they buried him in the chief of the sepulchers of the sons of David. And all Judah and the inhabitants of Jerusalem did him honor at his death. And Manasseh his son *_reigned_* in his stead.
 * `2Ch 33:1` Manasseh was twelve years old when he began to reign, and he *_reigned_* fifty-five years in Jerusalem.
 * `2Ch 33:20` So Manasseh slept with his fathers, and they buried him in his own house. And Amon his son *_reigned_* in his stead.
