@@ -311,6 +311,7 @@
 * `Deu 1:31` And in the wilderness, where you have seen how the LORD your God bore you, as a *_man_* bears his son, in all the way that you went until you came into this place.'
 * `Deu 3:11` For only Og king of Bashan remained of the remnant of the Rephaim. Behold, his bedstead was a bedstead of iron. Is it not in Rabbath of the children of Ammon? Nine cubits was its length and four cubits its breadth, after the cubit of a *_man_*.
 * `Deu 4:32` "For ask now about the days that are past, which were before you, since the day that God created *_man_* upon the earth, and ask from one side of heaven to the other, whether such a great thing as this has ever happened, or anything like it has been heard of.
+* `Deu 4:42` So that the *_man_*-slayer might flee there who slays his neighbor unintentionally and without having hated him in times past, and that fleeing to one of these cities he might live:
 * `Deu 5:14` But the seventh day is the sabbath of the LORD your God. In it you shall not do any work—you, your son, your daughter, your *_man_*-servant, your woman-servant, your ox, your donkey, any of your livestock, nor your stranger who is within your gates—so that your *_man_*-servant and your woman-servant may rest as well as you.
 * `Deu 5:21` 'You shall not desire your neighbor's wife, neither shall you covet your neighbor's house, his field, his *_man_*-servant, his woman-servant, his ox, his donkey, or anything that is your neighbor's.'
 * `Deu 5:24` And you said, 'Behold, the LORD our God has shown us his glory and his greatness, and we have heard his voice from the midst of the fire. We have seen this day that God talks with *_man_*, and he lives.
@@ -2346,7 +2347,7 @@
 * `Rev 22:18` For I testify to every *_man_* who hears the words of the prophecy of this book, if any *_man_* adds to these things, God will add to him the plagues that are written in this book.
 * `Rev 22:19` And if any *_man_* takes away from the words of the book of this prophecy, God will take away his part out of the tree of life, out of the holy city, and from the things which are written in this book.
 
-_2342 verses containing MAN_
+_2343 verses containing MAN_
 
 == MAN-SERVANT
 
@@ -2373,8 +2374,9 @@ _16 verses containing MAN-SERVANT_
 
 * `Num 35:6` "And among the cities which you shall give to the Levites there shall be six cities for refuge, which you shall appoint for the *_man-slayer_* so that he may flee there. And to them you shall add forty-two cities.
 * `Num 35:12` And they shall be to you cities for refuge from the avenger so that the *_man-slayer_* may not die until he stands before the congregation in judgment.
+* `Deu 4:42` So that the *_man-slayer_* might flee there who slays his neighbor unintentionally and without having hated him in times past, and that fleeing to one of these cities he might live:
 
-_2 verses containing MAN-SLAYER_
+_3 verses containing MAN-SLAYER_
 
 == MAN-SLAYERS
 

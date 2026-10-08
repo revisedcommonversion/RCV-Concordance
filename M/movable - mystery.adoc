@@ -854,16 +854,24 @@ _1 verse containing MUPPIM_
 
 == MURDER
 
+* `Exo 20:13` "You shall not *_murder_*.
+* `Deu 5:17` 'You shall not *_murder_*.
 * `Psa 94:6` They slay the widow and the stranger and *_murder_* the fatherless.
 * `Jer 7:9` Will you steal, *_murder_*, commit adultery, swear falsely, burn incense to Baal, and walk after other gods whom you do not know,
 * `Hos 6:9` And as troops of robbers wait for a man, so the company of priests *_murder_* in the way by consent, for they commit lewdness.
+* `Mth 5:21` "You have heard that it was said to them of old time, 'You shall not *_murder_*,' and whoever murders shall be in danger of the judgment.
 * `Mth 19:18` He says to him, "Which?" Jesus said, "'You shall not *_murder_*,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,'
+* `Mrk 10:19` You know the commandments, 'Do not commit adultery,' 'Do not *_murder_*,' 'Do not steal,' 'Do not bear false witness,' 'Do not defraud,' and, 'Honor your father and mother.'"
 * `Mrk 15:7` And there was one named Barabbas, who lay bound with those who had made insurrection with him, who had committed *_murder_* in the insurrection.
+* `Luk 18:20` You know the commandments: 'Do not commit adultery,' 'Do not *_murder_*,' 'Do not steal,' 'Do not bear false witness,' 'Honor your father and your mother.'"
 * `Luk 23:19` (He was cast into prison for a certain sedition made in the city and for *_murder_*.)
 * `Luk 23:25` And he released to them him who had been cast into prison for sedition and *_murder_*, whom they had desired, but he delivered Jesus to their will.
 * `Rom 1:29` Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, *_murder_*, debate, deceit, malignity; whisperers,
+* `Rom 13:9` For this, "You shall not commit adultery," "You shall not *_murder_*," "You shall not steal," "You shall not bear false witness," "You shall not covet," and if there is any other commandment, it is briefly comprehended in this saying, namely, "You shall love your neighbor as yourself."
+* `Jms 2:11` For he who said, "Do not commit adultery," also said, "Do not *_murder_*." Now if you commit no adultery, but you *_murder_*, you have become a transgressor of the law.
+* `Jms 4:2` You lust and do not have. You *_murder_* and desire to have and cannot obtain. You fight and war. You do not have because you do not ask.
 
-_8 verses containing MURDER_
+_16 verses containing MURDER_
 
 == MURDERER
 
@@ -899,15 +907,22 @@ _15 verses containing MURDERER_
 
 _9 verses containing MURDERERS_
 
+== MURDERING
+
+* `Hos 4:2` "Swearing, lying, *_murdering_*, stealing, and committing adultery—they break out, and blood touches blood.
+
+_1 verse containing MURDERING_
+
 == MURDERS
 
 * `Psa 10:8` He sits in the lurking places of the villages. In the secret places he *_murders_* the innocent. His eyes are secretly set against the poor.
+* `Mth 5:21` "You have heard that it was said to them of old time, 'You shall not murder,' and whoever *_murders_* shall be in danger of the judgment.
 * `Mth 15:19` For out of the heart evil thoughts proceed: *_murders_*, adulteries, fornications, thefts, false witness, and blasphemies.
 * `Mrk 7:21` For from within, out of the heart of men, proceed evil thoughts: adulteries, fornications, *_murders_*,
 * `Gal 5:21` Envyings, *_murders_*, drunkenness, revelings, and such like these, of which I tell you before, as I have also told you in time past, that those who do such things shall not inherit the kingdom of God.
 * `Rev 9:21` They did not repent of their *_murders_*, of their sorceries, of their lewdness, nor of their thefts.
 
-_5 verses containing MURDERS_
+_6 verses containing MURDERS_
 
 == MURMUR
 
