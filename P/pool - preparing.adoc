@@ -605,7 +605,7 @@ _100 verses containing POSSESS_
 * `Dan 7:22` Until the Ancient of days came and judgment was given to the saints of the most High, and the time came that the saints *_possessed_* the kingdom.
 * `Zph 2:9` Therefore, as I live," says the LORD of hosts, the God of Israel, "surely Moab shall be like Sodom and the children of Ammon like Gomorrah, even a place *_possessed_* by nettles and salt-pits and a perpetual desolation. The remnant of my people shall lay them waste and the remainder of my people shall possess them."
 * `Mth 4:24` And his fame spread throughout all Syria. And they brought to him all sick people who were taken with various diseases and torments, those who were *_possessed_* with demons, those who were lunatic, and those who were paralyzed, and he healed them.
-* `Mth 8:16` When the evening had come, they brought to him many who were *_possessed_* with demons. And he cast out the spirits with his word and healed all who were sick,
+* `Mth 8:16` When the evening had come, they brought to him many who were *_possessed_* with demons. And he cast out the spirits with his word and healed all who were sick
 * `Mth 8:28` And when he had come to the other side, into the country of the Gergesenes, two men *_possessed_* with demons met him, coming out of the tombs, exceedingly fierce so that no man might pass by that way.
 * `Mth 8:33` And those who kept them fled, went into the city, and told everything, including what had befallen to the men *_possessed_* with demons.
 * `Mth 9:32` As they went out, behold, they brought to him a mute man *_possessed_* with a demon.
@@ -2117,7 +2117,7 @@ _3 verses containing PRATING_
 * `Mth 5:44` But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and *_pray_* for those who despitefully use you and persecute you,
 * `Mth 6:5` "And when you *_pray_*, you shall not be as the hypocrites are. For they love to *_pray_* standing in the synagogues and on the corners of the streets so that they may be seen by men. Truly, I say to you, they have their reward.
 * `Mth 6:6` But you, when you *_pray_*, enter into your inner room, and when you have shut your door, *_pray_* to your Father who is in secret. And your Father who sees in secret will reward you openly.
-* `Mth 6:7` "But when you *_pray_*, do not use vain repetitions, as the heathen do, for they think that they shall be heard for their excessive speaking.
+* `Mth 6:7` "But when you *_pray_*, do not use vain repetitions as the heathen do, for they think that they shall be heard for their excessive speaking.
 * `Mth 6:9` "Therefore, *_pray_* after this manner: 'Our Father who is in heaven, may your name be hallowed.
 * `Mth 9:38` Therefore, *_pray_* to the Lord of the harvest that he will send forth laborers into his harvest."
 * `Mth 14:23` And when he had sent the multitudes away, he ascended a mountain separately to *_pray_*. And when the evening had come, he was there alone.
@@ -2437,7 +2437,7 @@ _3 verses containing PRE-EMINENCE_
 == PREACH
 
 * `Jna 3:2` "Arise, go to Nineveh, that great city, and *_preach_* to it the preaching that I bid you."
-* `Mth 4:17` From that time Jesus began to *_preach_*, and to say, "Repent, for the kingdom of heaven is at hand."
+* `Mth 4:17` From that time Jesus began to *_preach_* and to say, "Repent, for the kingdom of heaven is at hand."
 * `Mth 11:1` And it came to pass, that when Jesus had made an end of commanding his twelve disciples, he departed from there to teach and to *_preach_* in their cities.
 * `Mrk 1:38` And he said to them, "Let us go into the next towns so that I may *_preach_* there also, for I have come for this purpose."
 * `Mrk 3:14` And he ordained twelve so that they should be with him and that he might send them forth to *_preach_*,
@@ -2573,7 +2573,7 @@ _4 verses containing PREACHES_
 == PREACHING
 
 * `Jna 3:2` "Arise, go to Nineveh, that great city, and preach to it the *_preaching_* that I bid you."
-* `Mth 3:1` In those days John the Baptist came, *_preaching_* in the wilderness of Judea,
+* `Mth 3:1` In those days John the Baptist came, *_preaching_* in the wilderness of Judea
 * `Mth 4:23` And Jesus went throughout all Galilee, teaching in their synagogues, *_preaching_* the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
 * `Mth 9:35` And Jesus went throughout all the cities and villages, teaching in their synagogues, *_preaching_* the gospel of the kingdom, and healing every sickness and every disease among the people.
 * `Mth 12:41` The men of Nineveh shall rise in judgment with this generation and condemn it because they repented at the *_preaching_* of Jonah, and behold, one greater than Jonah is here.

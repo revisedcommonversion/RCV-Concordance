@@ -213,15 +213,15 @@ _1 verse containing JESURUN_
 * `Mth 4:7` *_Jesus_* said to him, "It is written again, 'You shall not test the Lord your God.'"
 * `Mth 4:10` Then *_Jesus_* says to him, "Be gone, Satan, for it is written, 'You shall worship the Lord your God, and you shall serve him only.'"
 * `Mth 4:12` Now when *_Jesus_* had heard that John was cast into prison, he departed into Galilee.
-* `Mth 4:17` From that time *_Jesus_* began to preach, and to say, "Repent, for the kingdom of heaven is at hand."
+* `Mth 4:17` From that time *_Jesus_* began to preach and to say, "Repent, for the kingdom of heaven is at hand."
 * `Mth 4:18` And *_Jesus_*, walking by the sea of Galilee, saw two brothers, Simon called Peter and Andrew his brother, casting a net into the sea, for they were fishermen.
 * `Mth 4:23` And *_Jesus_* went throughout all Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
-* `Mth 7:28` And it came to pass when *_Jesus_* had ended these sayings, the people were astonished at his doctrine,
+* `Mth 7:28` And it came to pass when *_Jesus_* had ended these sayings, that the people were astonished at his doctrine,
 * `Mth 8:3` And *_Jesus_* put forth his hand and touched him, saying, "I am willing. Be clean." And immediately his leprosy was cleansed.
 * `Mth 8:4` And *_Jesus_* says to him, "See that you tell no man, but go, show yourself to the priest and offer the gift that Moses commanded for a testimony to them."
-* `Mth 8:5` And when *_Jesus_* had entered into Capernaum, a centurion came to him, imploring him,
+* `Mth 8:5` And when *_Jesus_* had entered into Capernaum, a centurion came to him, imploring him
 * `Mth 8:7` And *_Jesus_* says to him, "I will come and heal him."
-* `Mth 8:10` When *_Jesus_* heard it, he marveled, and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
+* `Mth 8:10` When *_Jesus_* heard it, he marveled and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
 * `Mth 8:13` And *_Jesus_* said to the centurion, "Depart, and as you have believed, so it shall be done to you." And his servant was healed in the same hour.
 * `Mth 8:14` And when *_Jesus_* had come into Peter's house, he saw his wife's mother lying and sick with a fever.
 * `Mth 8:18` Now when *_Jesus_* saw great multitudes around him, he gave commandment to depart to the other side.
@@ -3141,7 +3141,7 @@ _27 verses containing JOHANAN_
 
 == JOHN
 
-* `Mth 3:1` In those days *_John_* the Baptist came, preaching in the wilderness of Judea,
+* `Mth 3:1` In those days *_John_* the Baptist came, preaching in the wilderness of Judea
 * `Mth 3:4` And the same *_John_* had his clothing of camel's hair and a leather girdle around his loins. And his food was locusts and wild honey.
 * `Mth 3:13` Then Jesus comes from Galilee to *_John_* at the Jordan, to be baptized by him.
 * `Mth 3:14` But *_John_* would have hindered him, saying, "I have need to be baptized by you, and you come to me?"

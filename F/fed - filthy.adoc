@@ -173,7 +173,7 @@ _80 verses containing FEED_
 * `Job 1:14` And a messenger to Job came and said, "The oxen were plowing and the donkeys *_feeding_* beside them,
 * `Ezk 34:10` 'Thus says the Lord GOD: "Behold, I am against the shepherds, and I will require my flock at their hand and cause them to cease from *_feeding_* the flock. The shepherds shall not feed themselves anymore, for I will deliver my flock from their mouth so that they may not be food for them."'"
 * `Nah 2:11` Where is the dwelling of the lions and the *_feeding_*-place of the young lions, where the lion, the lioness, and the lion's whelp walked and no one made them afraid?
-* `Mth 8:30` And there was a good way off from them a herd of many swine, *_feeding_*.
+* `Mth 8:30` And there was a good way off from them a herd of many swine *_feeding_*.
 * `Mrk 5:11` Now there was a great herd of swine *_feeding_* near the mountains.
 * `Luk 8:32` Now there was a herd of many swine *_feeding_* on the mountain. And they implored him that he would allow them to enter into them. And he allowed them.
 * `Luk 17:7` "But which of you, having a servant plowing or *_feeding_* sheep, will say to him immediately when he has come from the field, 'Go and sit down to eat'?
@@ -195,7 +195,7 @@ _1 verse containing FEEDING-PLACE_
 * `Sos 6:3` I am my beloved's and my beloved is mine. He *_feeds_* among the lilies.
 * `Isa 44:20` He *_feeds_* on ashes. A deceived heart has turned him aside so that he cannot deliver his soul or say, "Is there not a lie in my right hand?"
 * `Hos 12:1` Ephraim *_feeds_* on wind and follows after the east wind. He daily multiplies lies and desolation. They make a covenant with the Assyrians, and oil is carried into Egypt.
-* `Mth 6:26` Behold the birds of the air: they do not sow, neither do they reap, nor gather into barns, yet your heavenly Father *_feeds_* them. Are you not much better than they are?
+* `Mth 6:26` Behold the birds of the air: they do not sow, neither do they reap nor gather into barns, yet your heavenly Father *_feeds_* them. Are you not much better than they are?
 * `Luk 12:24` Consider the ravens: they neither sow nor reap, which neither have store-house, nor barn, and God *_feeds_* them. How much more are you better than the birds?
 * `1Co 9:7` Who goes to warfare at any time at his own charges? Who plants a vineyard and does not eat its fruit? Or who *_feeds_* a flock and does not drink the milk of the flock?
 
@@ -2254,7 +2254,7 @@ _3 verses containing FIGHTS_
 * `Jer 24:8` 'And as the bad *_figs_*, which cannot be eaten they are so bad,' surely thus says the LORD: 'So I will give up Zedekiah the king of Judah, his princes, the remnant of Jerusalem who remain in this land, and those who dwell in the land of Egypt.
 * `Jer 29:17` Thus says the LORD of hosts: 'Behold, I will send upon them the sword, the famine, and the pestilence and will make them like vile *_figs_* that cannot be eaten they are so bad.
 * `Nah 3:12` All your strongholds shall be like fig-trees with the first ripe *_figs_*. If they are shaken, they shall even fall into the mouth of the eater.
-* `Mth 7:16` You shall know them by their fruits. Do men gather grapes from thorns, or *_figs_* from thistles?
+* `Mth 7:16` You shall know them by their fruits. Do men gather grapes from thorns or *_figs_* from thistles?
 * `Mrk 11:13` And seeing a fig-tree afar off having leaves, he came, if perhaps he might find anything on it. And when he came to it, he found nothing but leaves, for the time of *_figs_* had not yet come.
 * `Luk 6:44` For every tree is known by its own fruit. For men do not gather *_figs_* from thorns, nor do they gather grapes from a bramble bush.
 * `Jms 3:12` Can the fig-tree, my brothers, bear olive-berries, or a vine, *_figs_*? In the same manner no fountain can yield both salt and fresh water.

@@ -215,8 +215,8 @@ _1 verse containing ANETOTHITE_
 * `Zch 6:5` And the *_angel_* answered and said to me, "These are the four spirits of the heavens which go forth from standing before the Lord of all the earth.
 * `Zch 12:8` In that day the LORD will defend the inhabitants of Jerusalem, and he who is feeble among them at that day shall be like David, and the house of David shall be like God, like the *_angel_* of the LORD before them.
 * `Mth 1:20` But while he thought on these things, the *_angel_* of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take for yourself Mary as your wife. For that which is conceived in her is by the Holy Spirit.
-* `Mth 1:24` Then Joseph, being raised from sleep, did as the *_angel_* of the Lord had bidden him and took for himself his wife,
-* `Mth 2:13` And when they had departed, behold, the *_angel_* of the Lord appears to Joseph in a dream, saying, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
+* `Mth 1:24` Then Joseph, being raised from sleep, did as the *_angel_* of the Lord had bidden him and took for himself his wife
+* `Mth 2:13` And when they had departed, behold, the *_angel_* of the Lord appears to Joseph in a dream, saying, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
 * `Mth 2:19` But when Herod was dead, behold, an *_angel_* of the Lord appears in a dream to Joseph in Egypt,
 * `Mth 28:2` And behold, there was a great earthquake, for the *_angel_* of the Lord descended from heaven, came and rolled back the stone from the door, and sat upon it.
 * `Mth 28:5` And the *_angel_* answered and said to the women, "Do not fear, for I know that you seek Jesus who was crucified.
@@ -909,7 +909,7 @@ _1 verse containing ANNOUNCES_
 * `Dan 10:3` I ate no pleasant bread, neither flesh nor wine entered my mouth, neither did I *_anoint_* myself at all, until three whole weeks were fulfilled.
 * `Amo 6:6` You drink wine in bowls and *_anoint_* yourselves with the chief ointments, but you are not grieved for the affliction of Joseph.
 * `Mic 6:15` You shall sow, but you shall not reap. You shall tread the olives, but you shall not *_anoint_* yourself with oil. You shall make sweet wine, but shall not drink wine.
-* `Mth 6:17` But you, when you fast, *_anoint_* your head and wash your face,
+* `Mth 6:17` But you, when you fast, *_anoint_* your head and wash your face
 * `Mrk 14:8` She has done what she could. She has come beforehand to *_anoint_* my body for the burial.
 * `Mrk 16:1` And when the sabbath was past, Mary Magdalene, Mary (the mother of James), and Salome had bought sweet spices so that they might come and *_anoint_* him.
 * `Luk 7:46` You did not *_anoint_* my head with oil, but this woman has anointed my feet with ointment.
@@ -1291,7 +1291,7 @@ _1 verse containing ANOINTS_
 * `Zch 8:21` And the inhabitants of one city shall go to *_another_*, saying, "Let us go speedily to pray before the LORD and to seek the LORD of hosts. I will also go."
 * `Mal 3:16` Then those who feared the LORD spoke often to one *_another_*. And the LORD listened and heard it, and a book of remembrance was written before him for those who feared the LORD and who esteemed his name.
 * `Mth 2:12` And being warned by God in a dream that they should not return to Herod, they departed into their own country *_another_* way.
-* `Mth 8:9` For I am a man under authority, and have soldiers under me. And I say to this man, 'Go,' and he goes, and to *_another_*, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
+* `Mth 8:9` For I am a man under authority and have soldiers under me. And I say to this man, 'Go,' and he goes, and to *_another_*, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
 * `Mth 8:21` And *_another_* of his disciples said to him, "Lord, allow me first to go and bury my father."
 * `Mth 10:23` "But when they persecute you in this city, flee into *_another_*. For truly I say to you, you shall not have gone over the cities of Israel until the Son of man has come.
 * `Mth 11:3` And said to him, "Are you he who should come, or do we look for *_another_*?"
@@ -2287,7 +2287,7 @@ _1 verse containing ANVIL_
 
 * `1Sa 9:5` And when they had come to the land of Zuf, Saul said to his servant who was with him, "Come, and let us return, lest my father cease caring for the donkeys and be *_anxious_* for us."
 * `Jer 17:8` For he shall be like a tree planted by the waters that spreads out its roots by the river. It shall not fear when heat comes, but its leaf shall be green. It shall not be *_anxious_* in the year of drought, neither shall cease from yielding fruit.
-* `Mth 6:25` "Therefore, I say to you, do not be *_anxious_* for your life—what you shall eat, or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
+* `Mth 6:25` "Therefore, I say to you, do not be *_anxious_* for your life—what you shall eat or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
 * `Mth 6:27` Which of you by *_anxious_* care can add one cubit to his stature?
 * `Mth 6:28` And why are you *_anxious_* for clothing? Consider the lilies of the field and how they grow: they do not toil, neither do they spin,
 * `Mth 6:31` Therefore, do not be *_anxious_*, saying, 'What shall we eat?' or, 'What shall we drink?' or, 'With what shall we be clothed?'
@@ -3754,7 +3754,7 @@ _6 verses containing APPEARING_
 * `Sos 7:12` Let us get up early to the vineyards. Let us see if the vine flourishes, whether the tender grape *_appears_* and the pomegranates bud forth. There I will give you my love.
 * `Jer 6:1` "O children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem, for evil *_appears_* out of the north, even great destruction.
 * `Mal 3:2` But who may endure the day of his coming? And who shall stand when he *_appears_*? For he is like a refiner's fire and like fuller's soap.
-* `Mth 2:13` And when they had departed, behold, the angel of the Lord *_appears_* to Joseph in a dream, saying, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
+* `Mth 2:13` And when they had departed, behold, the angel of the Lord *_appears_* to Joseph in a dream, saying, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
 * `Mth 2:19` But when Herod was dead, behold, an angel of the Lord *_appears_* in a dream to Joseph in Egypt,
 * `Col 3:4` When Christ, who is our life, *_appears_*, you will also appear with him in glory.
 * `Jms 4:14` You do not know what will be on the next day. For what is your life? It is even a vapor that *_appears_* for a little time and then vanishes away.

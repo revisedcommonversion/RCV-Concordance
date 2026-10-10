@@ -1548,9 +1548,9 @@
 * `Mth 6:24` "No *_man_* can serve two masters, for either he will hate one and love the other, or else he will hold to one and despise the other. You cannot serve God and mammon.
 * `Mth 7:9` Or what *_man_* is there of you, who, if his son asks for bread, will give him a stone,
 * `Mth 7:24` "Therefore, whoever hears these sayings of mine and does them, I will compare him to a wise *_man_* who built his house upon a rock.
-* `Mth 7:26` And everyone who hears these sayings of mine and does not do them, shall be compared to a foolish *_man_* who built his house upon the sand.
+* `Mth 7:26` And everyone who hears these sayings of mine and does not do them shall be compared to a foolish *_man_* who built his house upon the sand.
 * `Mth 8:4` And Jesus says to him, "See that you tell no *_man_*, but go, show yourself to the priest and offer the gift that Moses commanded for a testimony to them."
-* `Mth 8:9` For I am a *_man_* under authority, and have soldiers under me. And I say to this *_man_*, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
+* `Mth 8:9` For I am a *_man_* under authority and have soldiers under me. And I say to this *_man_*, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
 * `Mth 8:20` And Jesus says to him, "The foxes have holes and the birds of the air have nests, but the Son of *_man_* has nowhere to lay his head."
 * `Mth 8:27` But the men marveled, saying, "What manner of *_man_* is this, that even the winds and the sea obey him?"
 * `Mth 8:28` And when he had come to the other side, into the country of the Gergesenes, two men possessed with demons met him, coming out of the tombs, exceedingly fierce so that no *_man_* might pass by that way.
@@ -3253,8 +3253,8 @@ _1 verse containing MANTLES_
 * `Mth 7:13` "Enter in at the narrow gate. For the gate is wide and the way is broad that leads to destruction, and there are *_many_* who go in by it.
 * `Mth 7:22` *_Many_* will say to me in that day, 'Lord, Lord, have we not prophesied in your name, and in your name cast out demons, and in your name done *_many_* wonderful works?'
 * `Mth 8:11` And I say to you, that *_many_* shall come from the east and the west and shall sit down with Abraham, Isaac, and Jacob in the kingdom of heaven.
-* `Mth 8:16` When the evening had come, they brought to him *_many_* who were possessed with demons. And he cast out the spirits with his word and healed all who were sick,
-* `Mth 8:30` And there was a good way off from them a herd of *_many_* swine, feeding.
+* `Mth 8:16` When the evening had come, they brought to him *_many_* who were possessed with demons. And he cast out the spirits with his word and healed all who were sick
+* `Mth 8:30` And there was a good way off from them a herd of *_many_* swine feeding.
 * `Mth 9:10` And it came to pass, as Jesus sat at the table in the house, behold, *_many_* tax collectors and sinners came and sat down with him and his disciples.
 * `Mth 10:31` Do not fear therefore. You are of more value than *_many_* sparrows.
 * `Mth 13:3` And he spoke *_many_* things to them in parables, saying, "Behold, a sower went forth to sow.
@@ -3949,7 +3949,7 @@ _7 verses containing MARVEL_
 
 == MARVELED
 
-* `Mth 8:10` When Jesus heard it, he *_marveled_*, and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
+* `Mth 8:10` When Jesus heard it, he *_marveled_* and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
 * `Mth 8:27` But the men *_marveled_*, saying, "What manner of man is this, that even the winds and the sea obey him?"
 * `Mth 9:8` But when the multitude saw it, they *_marveled_* and glorified God, who had given such power to men.
 * `Mth 9:33` And when the demon was cast out, the mute spoke. And the multitudes *_marveled_*, saying, "Nothing has ever been seen like this in Israel."
@@ -4214,7 +4214,7 @@ _2 verses containing MAST_
 * `Jna 1:6` So the ship-*_master_* came to him and said to him, "What do you mean, O sleeper? Arise, call upon your God. It may be that God will think upon us so that we do not perish."
 * `Mal 1:6` "'A son honors his father, and a servant his *_master_*. If then I am a father, where is my honor? And if I am a *_master_*, where is my fear?' says the LORD of hosts to you, O priests, who despise my name." And you say, "In what have we despised your name?"
 * `Mal 2:12` The LORD will cut off the man who does this, the *_master_* and the scholar, out of the tabernacles of Jacob, and him who offers an offering to the LORD of hosts.
-* `Mth 8:19` And a certain scribe came, and said to him, "*_Master_*, I will follow you wherever you go."
+* `Mth 8:19` And a certain scribe came and said to him, "*_Master_*, I will follow you wherever you go."
 * `Mth 9:11` And when the Pharisees saw it, they said to his disciples, "Why does your *_Master_* eat with tax collectors and sinners?"
 * `Mth 10:25` It is enough for the disciple that he should be as his teacher, and the servant as his lord. If they have called the *_master_* of the house Beelzebub, how much more those of his household?
 * `Mth 12:38` Then some of the scribes and Pharisees answered, saying, "*_Master_*, we wish to see a sign from you."
@@ -5530,7 +5530,7 @@ _1 verse containing MAUL_
 * `Mal 3:2` But who *_may_* endure the day of his coming? And who shall stand when he appears? For he is like a refiner's fire and like fuller's soap.
 * `Mal 3:3` And he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi and purge them like gold and silver so that they *_may_* offer to the LORD an offering in righteousness.
 * `Mal 3:10` Bring all the tithes into the store-house, so that there *_may_* be food in my house, and prove me now with this," says the LORD of hosts, "if I will not open to you the windows of heaven and pour you out a blessing so that there shall not be room enough to receive it.
-* `Mth 2:8` And he sent them to Bethlehem, and said, "Go, and search diligently for the young child. And when you have found him, report back to me so that I too *_may_* come and worship him."
+* `Mth 2:8` And he sent them to Bethlehem and said, "Go and search diligently for the young child. And when you have found him, report back to me so that I too *_may_* come and worship him."
 * `Mth 5:16` Let your light thus shine before men so that they *_may_* see your good works and glorify your Father who is in heaven.
 * `Mth 5:45` So that you *_may_* be the children of your Father who is in heaven. For he makes his sun to rise on the evil and on the good, and sends rain on the just and on the unjust.
 * `Mth 6:2` "Therefore, when you do your acts of charity, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets so that they *_may_* have glory from men. Truly, I say to you, they have their reward.

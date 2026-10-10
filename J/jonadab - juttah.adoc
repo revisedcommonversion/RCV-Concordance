@@ -395,7 +395,7 @@ _22 verses containing JORAM_
 * `Jer 50:44` "Behold, he shall come up like a lion from the swelling of the *_Jordan_* to the habitation of the strong, but I will make them suddenly run away from her. And who is a chosen man whom I may appoint over her? For who is like me? And who will appoint me the time? And who is that shepherd who will stand before me?"
 * `Ezk 47:18` "And the east side you shall measure from Hauran, from Damascus, from Gilead, and from the land of Israel by the *_Jordan_*, from the border to the east sea. And this is the east side.
 * `Zch 11:3` There is a voice of the howling of the shepherds, for their glory is destroyed; a voice of the roaring of young lions, for the pride of the *_Jordan_* is laid waste.
-* `Mth 3:5` Then Jerusalem, all Judea, and all the region around the *_Jordan_* went out to him,
+* `Mth 3:5` Then Jerusalem, all Judea, and all the region around the *_Jordan_* went out to him
 * `Mth 3:6` And were baptized by him in the *_Jordan_*, confessing their sins.
 * `Mth 3:13` Then Jesus comes from Galilee to John at the *_Jordan_*, to be baptized by him.
 * `Mth 4:15` "The land of Zebulun and the land of Naphtali, toward the sea, beyond the *_Jordan_*, Galilee of the Gentiles—
@@ -649,8 +649,8 @@ _6 verses containing JOSEDECH_
 * `Mth 1:18` Now the birth of Jesus Christ was in this manner: When his mother, Mary, was espoused to *_Joseph_*, before they came together, she was found with child by the Holy Spirit.
 * `Mth 1:19` Then *_Joseph_* her husband, being a just man and not willing to make her a public example, purposed to put her away privately.
 * `Mth 1:20` But while he thought on these things, the angel of the Lord appeared to him in a dream, saying, "*_Joseph_*, son of David, do not fear to take for yourself Mary as your wife. For that which is conceived in her is by the Holy Spirit.
-* `Mth 1:24` Then *_Joseph_*, being raised from sleep, did as the angel of the Lord had bidden him and took for himself his wife,
-* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to *_Joseph_* in a dream, saying, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
+* `Mth 1:24` Then *_Joseph_*, being raised from sleep, did as the angel of the Lord had bidden him and took for himself his wife
+* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to *_Joseph_* in a dream, saying, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
 * `Mth 2:19` But when Herod was dead, behold, an angel of the Lord appears in a dream to *_Joseph_* in Egypt,
 * `Mth 13:55` Is this not the carpenter's son? Is his mother not called Mary? And his brothers, James, *_Joseph_*, Simon, and Judas?
 * `Mth 27:56` Among whom was Mary Magdalene, Mary the mother of James and *_Joseph_*, and the mother of Zebedee's children.
@@ -2276,8 +2276,8 @@ _1 verse containing JUDE_
 * `Mth 2:1` Now after Jesus was born in Bethlehem of *_Judea_* in the days of Herod the king, behold, wise men came from the east to Jerusalem,
 * `Mth 2:5` And they said to him, "In Bethlehem of *_Judea_*, for thus it is written by the prophet:
 * `Mth 2:22` But when he heard that Archelaus reigned in *_Judea_* in place of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the parts of Galilee.
-* `Mth 3:1` In those days John the Baptist came, preaching in the wilderness of *_Judea_*,
-* `Mth 3:5` Then Jerusalem, all *_Judea_*, and all the region around the Jordan went out to him,
+* `Mth 3:1` In those days John the Baptist came, preaching in the wilderness of *_Judea_*
+* `Mth 3:5` Then Jerusalem, all *_Judea_*, and all the region around the Jordan went out to him
 * `Mth 4:25` And great multitudes of people followed him from Galilee, from Decapolis, from Jerusalem, from *_Judea_*, and from beyond the Jordan.
 * `Mth 19:1` And it came to pass, that when Jesus had finished these sayings, he departed from Galilee and came into the borders of *_Judea_*, beyond the Jordan.
 * `Mth 24:16` Let those who are in *_Judea_* flee to the mountains.

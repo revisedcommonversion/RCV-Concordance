@@ -268,7 +268,7 @@
 * `Zch 9:10` And I will cut off the chariot from Ephraim and the horse from Jerusalem, and the battle-bow shall be cut off. And he shall speak peace to the heathen. And his dominion shall be from *_sea_* to *_sea_*, and from the river to the ends of the earth.
 * `Zch 10:11` And he shall pass through the *_sea_* with affliction and shall smite the waves in the *_sea_*, and all the deeps of the river shall dry up. And the pride of Assyria shall be brought down, and the scepter of Egypt shall depart.
 * `Zch 14:8` And it shall be in that day, that living waters shall go out from Jerusalem: half of them toward the eastern *_sea_* and half of them toward the western *_sea_*. In summer and in winter it shall be.
-* `Mth 4:13` And leaving Nazareth, he came and dwelt in Capernaum, which is upon the *_sea_* coast, in the borders of Zebulun and Naphtali,
+* `Mth 4:13` And leaving Nazareth, he came and dwelt in Capernaum, which is upon the *_sea_* coast in the borders of Zebulun and Naphtali,
 * `Mth 4:15` "The land of Zebulun and the land of Naphtali, toward the *_sea_*, beyond the Jordan, Galilee of the Gentiles—
 * `Mth 4:18` And Jesus, walking by the *_sea_* of Galilee, saw two brothers, Simon called Peter and Andrew his brother, casting a net into the *_sea_*, for they were fishermen.
 * `Mth 8:24` And behold, there arose a great tempest on the *_sea_* so that the boat was covered with the waves. But he was asleep.
@@ -539,7 +539,7 @@ _1 verse containing SEAM_
 * `Ezk 39:14` "And they shall sever out men of continual employment, passing through the land to bury with the passengers those who remain upon the face of the earth to cleanse it. After the end of seven months they shall *_search_*.
 * `Amo 9:3` Though they hide themselves on the top of Carmel, I will *_search_* and take them out from there. Though they are hid from my sight in the bottom of the sea, from there I will command the serpent, and he shall bite them.
 * `Zph 1:12` And it shall come to pass at that time, that I will *_search_* Jerusalem with candles and punish the men who are settled on their dregs, who say in their heart, 'The LORD will not do good, neither will he do evil.'
-* `Mth 2:8` And he sent them to Bethlehem, and said, "Go, and *_search_* diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
+* `Mth 2:8` And he sent them to Bethlehem and said, "Go and *_search_* diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
 * `Jhn 5:39` "You *_search_* the Scriptures, for in them you think you have eternal life, and they are those which testify of me.
 * `Jhn 7:52` They answered and said to him, "Are you also from Galilee? *_Search_*, and look. For out of Galilee no prophet arises."
 
@@ -2216,7 +2216,7 @@ _121 verses containing SEEING_
 * `Mal 2:7` For the priest's lips should keep knowledge, and they should *_seek_* the law from his mouth, for he is the messenger of the LORD of hosts.
 * `Mal 2:15` And did he not make them one, having in him the remnant of the Spirit? And why one? So that he might *_seek_* a godly offspring. Therefore, take heed to your spirit, and let no one deal treacherously against the wife of his youth.
 * `Mal 3:1` "Behold, I will send my messenger, and he shall prepare the way before me. And the Lord, whom you *_seek_*, will suddenly come to his temple, even the messenger of the covenant, whom you delight in. Behold, he will come," says the LORD of hosts.
-* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, saying, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will *_seek_* the young child to destroy him."
+* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, saying, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will *_seek_* the young child to destroy him."
 * `Mth 6:32` For after all these things the Gentiles *_seek_*, and your heavenly Father knows that you have need of all these things.
 * `Mth 6:33` But *_seek_* first the kingdom of God and his righteousness, and all these things shall be added to you.
 * `Mth 7:7` "Ask, and it shall be given to you. *_Seek_*, and you shall find. Knock, and the door shall be opened to you.
@@ -3942,7 +3942,7 @@ _2 verses containing SENSUAL_
 * `Zch 8:10` For before these days there was no hire for man nor any hire for beast, neither was there any peace to him who went out or came in because of the enemy, for I *_sent_* forth all men each against his neighbor.
 * `Zch 9:11` As for you also, by the blood of your covenant I have *_sent_* forth your prisoners out of the pit in which there is no water.
 * `Mal 2:4` And you shall know that I have *_sent_* this commandment to you, so that my covenant might be with Levi," says the LORD of hosts.
-* `Mth 2:8` And he *_sent_* them to Bethlehem, and said, "Go, and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
+* `Mth 2:8` And he *_sent_* them to Bethlehem and said, "Go and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
 * `Mth 2:16` Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and *_sent_* forth and slew all the children who were in Bethlehem and in all its borders, from two years old and under, according to the time which he had ascertained from the wise men.
 * `Mth 10:5` These twelve Jesus *_sent_* forth and commanded them, saying, "Do not go into the way of the Gentiles, and do not enter into any city of the Samaritans.
 * `Mth 10:40` "He who receives you, receives me, and he who receives me, receives him who *_sent_* me.

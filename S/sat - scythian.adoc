@@ -2321,7 +2321,7 @@ _3 verses containing SAWS_
 * `Mal 3:8` "Will a man rob God? Yet you have robbed me. But you *_say_*, 'In what have we robbed you?' In tithes and offerings.
 * `Mal 3:13` "Your words have been stout against me," says the LORD. "Yet you *_say_*, 'What have we spoken so much against you?'
 * `Mth 3:9` And do not think to *_say_* within yourselves, 'We have Abraham for our father.' For I *_say_* to you, that God is able to raise up children to Abraham from these stones.
-* `Mth 4:17` From that time Jesus began to preach, and to *_say_*, "Repent, for the kingdom of heaven is at hand."
+* `Mth 4:17` From that time Jesus began to preach and to *_say_*, "Repent, for the kingdom of heaven is at hand."
 * `Mth 5:11` "Blessed are you when men revile you, persecute you, and *_say_* all manner of evil against you falsely for my sake.
 * `Mth 5:18` For truly I *_say_* to you, that until heaven and earth pass away, neither one jot nor one tittle shall in any way pass from the law until all is fulfilled.
 * `Mth 5:20` "For I *_say_* to you, that unless your righteousness exceeds the righteousness of the scribes and Pharisees, you shall in no case enter into the kingdom of heaven.
@@ -2335,12 +2335,12 @@ _3 verses containing SAWS_
 * `Mth 6:2` "Therefore, when you do your acts of charity, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets so that they may have glory from men. Truly, I *_say_* to you, they have their reward.
 * `Mth 6:5` "And when you pray, you shall not be as the hypocrites are. For they love to pray standing in the synagogues and on the corners of the streets so that they may be seen by men. Truly, I *_say_* to you, they have their reward.
 * `Mth 6:16` "Moreover, when you fast, do not be of a sad countenance like the hypocrites, for they disfigure their faces so that they may appear to men to fast. Truly, I *_say_* to you, they have their reward.
-* `Mth 6:25` "Therefore, I *_say_* to you, do not be anxious for your life—what you shall eat, or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
+* `Mth 6:25` "Therefore, I *_say_* to you, do not be anxious for your life—what you shall eat or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
 * `Mth 6:29` And yet I *_say_* to you, that even Solomon in all his glory was not arrayed like one of these.
 * `Mth 7:4` Or how will you *_say_* to your brother, 'Let me pull the mote out of your eye,' and behold, a beam is in your own eye?
 * `Mth 7:22` Many will *_say_* to me in that day, 'Lord, Lord, have we not prophesied in your name, and in your name cast out demons, and in your name done many wonderful works?'
-* `Mth 8:9` For I am a man under authority, and have soldiers under me. And I *_say_* to this man, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
-* `Mth 8:10` When Jesus heard it, he marveled, and said to those who followed, "Truly I *_say_* to you, I have not found such great faith as this, not even in Israel.
+* `Mth 8:9` For I am a man under authority and have soldiers under me. And I *_say_* to this man, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
+* `Mth 8:10` When Jesus heard it, he marveled and said to those who followed, "Truly I *_say_* to you, I have not found such great faith as this, not even in Israel.
 * `Mth 8:11` And I *_say_* to you, that many shall come from the east and the west and shall sit down with Abraham, Isaac, and Jacob in the kingdom of heaven.
 * `Mth 9:5` For which is easier, to *_say_*, 'Your sins are forgiven,' or to *_say_*, 'Arise, and walk'?
 * `Mth 10:15` Truly, I *_say_* to you, it shall be more tolerable for the land of Sodom and Gomorrah on the day of judgment than for that city.
@@ -3702,7 +3702,7 @@ _1010 verses containing SAY_
 * `Mth 1:20` But while he thought on these things, the angel of the Lord appeared to him in a dream, *_saying_*, "Joseph, son of David, do not fear to take for yourself Mary as your wife. For that which is conceived in her is by the Holy Spirit.
 * `Mth 1:22` Now all this was done so that it might be fulfilled which was spoken from the Lord by the prophet, *_saying_*,
 * `Mth 2:2` *_Saying_*, "Where is he who is born king of the Jews? For we have seen his star in the east and have come to worship him."
-* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, *_saying_*, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
+* `Mth 2:13` And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, *_saying_*, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
 * `Mth 2:15` And was there until the death of Herod, so that it might be fulfilled which was spoken from the Lord by the prophet, *_saying_*, "Out of Egypt I have called my son."
 * `Mth 2:17` Then that which was spoken by Jeremiah the prophet was fulfilled, *_saying_*,
 * `Mth 2:20` *_Saying_*, "Arise, and take the young child and his mother and go into the land of Israel, for those who sought the young child's life are dead."
@@ -4168,8 +4168,8 @@ _1415 verses containing SAYING_
 * `Pro 4:10` Hear, O my son, and receive my *_sayings_*, and the years of your life shall be many.
 * `Pro 4:20` My son, attend to my words. Incline your ear to my *_sayings_*.
 * `Mth 7:24` "Therefore, whoever hears these *_sayings_* of mine and does them, I will compare him to a wise man who built his house upon a rock.
-* `Mth 7:26` And everyone who hears these *_sayings_* of mine and does not do them, shall be compared to a foolish man who built his house upon the sand.
-* `Mth 7:28` And it came to pass when Jesus had ended these *_sayings_*, the people were astonished at his doctrine,
+* `Mth 7:26` And everyone who hears these *_sayings_* of mine and does not do them shall be compared to a foolish man who built his house upon the sand.
+* `Mth 7:28` And it came to pass when Jesus had ended these *_sayings_*, that the people were astonished at his doctrine,
 * `Mth 19:1` And it came to pass, that when Jesus had finished these *_sayings_*, he departed from Galilee and came into the borders of Judea, beyond the Jordan.
 * `Mth 26:1` And it came to pass, when Jesus had finished all these *_sayings_*, he said to his disciples,
 * `Luk 1:65` And fear came on all who dwelt around them, and all these *_sayings_* were noised abroad throughout all the hill-country of Judea.
@@ -6040,7 +6040,7 @@ _1 verse containing SCREECH-OWL_
 * `Jer 37:15` Therefore, the princes were angry with Jeremiah and beat him and put him in prison in the house of Jonathan the *_scribe_*, for they had made that the prison.
 * `Jer 37:20` Now therefore, hear, I pray you, O my lord the king. Let my supplication, I pray you, be accepted before you, that you do not cause me to return to the house of Jonathan the *_scribe_*, lest I die there."
 * `Jer 52:25` He also took a eunuch out of the city who had the charge of the men of war, seven men of those who were near the king's person who were found in the city, the principal *_scribe_* of the host who mustered the people of the land, and sixty men of the people of the land who were found in the midst of the city.
-* `Mth 8:19` And a certain *_scribe_* came, and said to him, "Master, I will follow you wherever you go."
+* `Mth 8:19` And a certain *_scribe_* came and said to him, "Master, I will follow you wherever you go."
 * `Mth 13:52` Then he said to them, "Therefore, every *_scribe_* who is instructed to the kingdom of heaven, is like a man who is a householder, who brings forth out of his treasure things new and old."
 * `Mrk 12:32` And the *_scribe_* said to him, "Right, Master, you have said the truth, for there 'is one God,' 'and there is no other but he.'
 * `1Co 1:20` Where is the wise? Where is the *_scribe_*? Where is the disputer of this world? Has God not made the wisdom of this world foolish?

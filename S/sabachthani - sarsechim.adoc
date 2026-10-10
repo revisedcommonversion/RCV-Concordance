@@ -3465,7 +3465,7 @@ _1 verse containing SAFFRON_
 * `Mal 3:7` "Even from the days of your fathers you have gone away from my ordinances and have not kept them. Return to me, and I will return to you," says the LORD of hosts. "But you *_said_*, 'In what shall we return?'
 * `Mal 3:14` You have *_said_*, 'It is vain to serve God. And what profit is it that we have kept his ordinance and that we have walked mournfully before the LORD of hosts?
 * `Mth 2:5` And they *_said_* to him, "In Bethlehem of Judea, for thus it is written by the prophet:
-* `Mth 2:8` And he sent them to Bethlehem, and *_said_*, "Go, and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
+* `Mth 2:8` And he sent them to Bethlehem and *_said_*, "Go and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
 * `Mth 3:7` But when he saw many of the Pharisees and Sadducees come to his baptism, he *_said_* to them, "O generation of vipers, who has warned you to flee from the wrath to come?
 * `Mth 3:15` And Jesus answering *_said_* to him, "Allow it to be so now, for thus it is fitting for us to fulfill all righteousness." Then he allowed him.
 * `Mth 4:3` And when the tempter came to him, he *_said_*, "If you are the son of God, command that these stones be made bread."
@@ -3478,9 +3478,9 @@ _1 verse containing SAFFRON_
 * `Mth 5:38` "You have heard that it has been *_said_*, 'An eye for an eye, and a tooth for a tooth.'
 * `Mth 5:43` "You have heard that it has been *_said_*, '"You shall love your neighbor," and hate your enemy.'
 * `Mth 8:8` The centurion answered and *_said_*, "Lord, I am not worthy that you should come under my roof. But speak the word only, and my servant will be healed.
-* `Mth 8:10` When Jesus heard it, he marveled, and *_said_* to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
+* `Mth 8:10` When Jesus heard it, he marveled and *_said_* to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
 * `Mth 8:13` And Jesus *_said_* to the centurion, "Depart, and as you have believed, so it shall be done to you." And his servant was healed in the same hour.
-* `Mth 8:19` And a certain scribe came, and *_said_* to him, "Master, I will follow you wherever you go."
+* `Mth 8:19` And a certain scribe came and *_said_* to him, "Master, I will follow you wherever you go."
 * `Mth 8:21` And another of his disciples *_said_* to him, "Lord, allow me first to go and bury my father."
 * `Mth 8:22` But Jesus *_said_* to him, "Follow me, and let the dead bury their dead."
 * `Mth 8:32` And he *_said_* to them, "Go." And when they had come out, they went into the herd of swine. And behold, the whole herd of swine ran violently down a steep place into the sea and perished in the waters.
@@ -6224,7 +6224,7 @@ _130 verses containing SANCTUARY_
 * `Jer 33:22` As the host of heaven cannot be numbered, neither the *_sand_* of the sea measured, so I will multiply the offspring of David my servant and the Levites who minister to me.'"
 * `Hos 1:10` "Yet the number of the children of Israel shall be as the *_sand_* of the sea, which cannot be measured nor numbered. And it shall come to pass, that in the place where it was said to them, 'You are not my people,' there it shall be said to them, 'You are the sons of the living God.'
 * `Hab 1:9` They shall all come for violence. Their faces shall swallow up the east wind, and they shall gather the captivity like the *_sand_*.
-* `Mth 7:26` And everyone who hears these sayings of mine and does not do them, shall be compared to a foolish man who built his house upon the *_sand_*.
+* `Mth 7:26` And everyone who hears these sayings of mine and does not do them shall be compared to a foolish man who built his house upon the *_sand_*.
 * `Rom 9:27` Isaiah also cries concerning Israel: "Though the number of the children of Israel is as the *_sand_* of the sea, a remnant shall be saved.
 * `Heb 11:12` Therefore, there sprang even from one—and him as good as dead—so many as the stars of the sky in multitude and as the *_sand_* which is by the sea-shore innumerable.
 * `Rev 13:1` And I stood upon the *_sand_* of the sea and saw a beast rise up out of the sea having seven heads and ten horns, and upon his horns ten crowns and upon his heads the name of blasphemy.
