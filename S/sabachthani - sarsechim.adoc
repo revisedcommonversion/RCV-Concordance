@@ -3501,30 +3501,30 @@ _1 verse containing SAFFRON_
 * `Mth 12:2` But when the Pharisees saw it, they *_said_* to him, "Behold, your disciples do that which is not lawful to do on the sabbath."
 * `Mth 12:3` But he *_said_* to them, "Have you not read what David did when he and those who were with him were hungry,
 * `Mth 12:11` And he *_said_* to them, "What man is there among you who has a sheep, and if it falls into a pit on the sabbath, will not lay hold upon it and lift it out?
-* `Mth 12:23` And all the people were amazed, and *_said_*, "Is this not the son of David?"
+* `Mth 12:23` And all the people were amazed and *_said_*, "Is this not the son of David?"
 * `Mth 12:24` But when the Pharisees heard it, they *_said_*, "This man does not cast out demons, but by Beelzebub the prince of the demons."
-* `Mth 12:25` And Jesus knew their thoughts, and *_said_* to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
-* `Mth 12:39` But he answered and *_said_* to them, "An evil and adulterous generation seeks for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah.
+* `Mth 12:25` And Jesus knew their thoughts and *_said_* to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
+* `Mth 12:39` But he answered and *_said_* to them, "An evil and adulterous generation seeks for a sign, and there shall no sign be given to it except the sign of the prophet Jonah.
 * `Mth 12:47` Then someone *_said_* to him, "Behold, your mother and your brothers stand outside desiring to speak with you."
 * `Mth 12:48` But he answered and *_said_* to him who told him, "Who is my mother? And who are my brothers?"
-* `Mth 12:49` And he stretched forth his hand toward his disciples, and *_said_*, "Behold my mother and my brothers!
-* `Mth 13:10` And the disciples came, and *_said_* to him, "Why do you speak to them in parables?"
+* `Mth 12:49` And he stretched forth his hand toward his disciples and *_said_*, "Behold my mother and my brothers!
+* `Mth 13:10` And the disciples came and *_said_* to him, "Why do you speak to them in parables?"
 * `Mth 13:11` He answered and *_said_* to them, "Because it is given to you to know the mysteries of the kingdom of heaven, but to them it is not given.
 * `Mth 13:27` So the servants of the householder came and *_said_* to him, 'Sir, did you not sow good seed in your field? How then does it have tares?'
 * `Mth 13:28` He *_said_* to them, 'An enemy has done this.' The servants *_said_* to him, 'Do you wish then that we go and gather them?'
 * `Mth 13:29` But he *_said_*, 'No, lest while you gather the tares, you also root up the wheat with them.
 * `Mth 13:37` He answered and *_said_* to them, "He who sows the good seed is the Son of man.
-* `Mth 13:52` Then he *_said_* to them, "Therefore, every scribe who is instructed to the kingdom of heaven, is like a man who is a householder, who brings forth out of his treasure things new and old."
+* `Mth 13:52` Then he *_said_* to them, "Therefore, every scribe who has been made a disciple in the kingdom of heaven is like a man who is a householder who brings forth out of his treasure things new and old."
 * `Mth 13:54` And when he had come into his own country, he taught them in their synagogue in such a way that they were astonished and *_said_*, "From where does this man get this wisdom and these mighty works?
-* `Mth 13:57` And they were offended by him. But Jesus *_said_* to them, "A prophet is not without honor, except in his own country and in his own house."
-* `Mth 14:2` And *_said_* to his servants, "This is John the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
+* `Mth 13:57` And they were offended by him. But Jesus *_said_* to them, "A prophet is not without honor except in his own country and in his own house."
+* `Mth 14:2` And he *_said_* to his servants, "This is John the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
 * `Mth 14:4` For John had *_said_* to him, "It is not lawful for you to have her."
 * `Mth 14:8` And she, being before instructed by her mother, *_said_*, "Give me here the head of John the Baptist in a dish."
 * `Mth 14:16` But Jesus *_said_* to them, "They do not need to depart. You give them something to eat."
 * `Mth 14:18` He *_said_*, "Bring them here to me."
 * `Mth 14:28` And Peter answered him and *_said_*, "Lord, if it is you, bid me to come to you on the water."
 * `Mth 14:29` And he *_said_*, "Come." And when Peter had come down out of the boat, he walked on the water to go to Jesus.
-* `Mth 14:31` And immediately Jesus stretched forth his hand and caught him, and *_said_* to him, "O you of little faith, why did you doubt?"
+* `Mth 14:31` And immediately Jesus stretched forth his hand, caught him, and *_said_* to him, "O you of little faith, why did you doubt?"
 * `Mth 15:3` But he answered and *_said_* to them, "Why do you also transgress the commandment of God by your tradition?
 * `Mth 15:10` And he called the multitude, and *_said_* to them, "Hear, and understand.
 * `Mth 15:12` Then his disciples came, and *_said_* to him, "Do you know that the Pharisees were offended after they heard this saying?"
@@ -4690,7 +4690,7 @@ _94 verses containing SAINTS_
 * `Hag 1:10` Therefore, for your *_sake_* the heavens withhold the dew and the earth withholds her fruit.
 * `Mth 5:10` Blessed are those who are persecuted for righteousness' *_sake_*, for theirs is the kingdom of heaven.
 * `Mth 5:11` "Blessed are you when men revile you, persecute you, and say all manner of evil against you falsely for my *_sake_*.
-* `Mth 10:18` And you will be brought before governors and kings for my *_sake_*, for a testimony against them and the Gentiles.
+* `Mth 10:18` And you will be brought before governors and kings for my *_sake_* as a testimony to them and to the Gentiles.
 * `Mth 10:22` And you will be hated by all men for my name's *_sake_*. But he who endures to the end shall be saved.
 * `Mth 10:39` He who finds his life shall lose it, and he who loses his life for my *_sake_* shall find it.
 * `Mth 14:3` For Herod had laid hold of John, bound him, and put him in prison for the *_sake_* of Herodias, his brother Philip's wife.
@@ -5510,7 +5510,7 @@ _7 verses containing SAMARITANS_
 * `Mth 8:13` And Jesus said to the centurion, "Depart, and as you have believed, so it shall be done to you." And his servant was healed in the *_same_* hour.
 * `Mth 10:19` But when they deliver you up, do not be anxious of how or what you shall speak, for it shall be given to you in that *_same_* hour what you shall speak.
 * `Mth 12:50` For whoever does the will of my Father who is in heaven, the *_same_* is my brother, sister, and mother."
-* `Mth 13:1` The *_same_* day Jesus went out of the house and sat by the sea side.
+* `Mth 13:1` The *_same_* day, Jesus went out of the house and sat by the sea side.
 * `Mth 13:20` But he who received the seed upon stony places, the *_same_* is he who hears the word and immediately with joy receives it,
 * `Mth 15:22` And behold, a woman of Canaan came out of the *_same_* territories and cried to him, saying, "Have mercy on me, O Lord, son of David. My daughter is grievously afflicted with a demon."
 * `Mth 18:1` At the *_same_* time, the disciples came to Jesus, saying, "Who is the greatest in the kingdom of heaven?"

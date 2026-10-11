@@ -232,31 +232,31 @@ _1 verse containing JESURUN_
 * `Mth 9:2` And behold, they brought to him a paralyzed man lying on a bed. And *_Jesus_*, seeing their faith, said to the paralytic, "Son, be of good cheer. Your sins are forgiven."
 * `Mth 9:4` And *_Jesus_*, knowing their thoughts, said, "Why do you think evil in your hearts?
 * `Mth 9:9` And as *_Jesus_* was passing from there, he saw a man named Matthew sitting at the receipt of custom. And he says to him, "Follow me." And he arose and followed him.
-* `Mth 9:10` And it came to pass, as *_Jesus_* sat at the table in the house, behold, many tax collectors and sinners came and sat down with him and his disciples.
+* `Mth 9:10` And it came to pass as *_Jesus_* sat at the table in the house, that behold, many tax collectors and sinners came and sat down with him and his disciples.
 * `Mth 9:12` But when *_Jesus_* heard that, he said to them, "Those who are in health do not need a physician, but those who are sick do.
 * `Mth 9:15` And *_Jesus_* said to them, "Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom is taken from them, and then they will fast.
 * `Mth 9:19` And *_Jesus_* arose and followed him, and so did his disciples.
 * `Mth 9:22` But *_Jesus_* turned himself around, and when he saw her, he said, "Daughter, be of good comfort. Your faith has made you whole." And the woman was made whole from that hour.)
 * `Mth 9:23` And when *_Jesus_* came into the ruler's house and saw the minstrels and the people making a noise,
-* `Mth 9:27` And when *_Jesus_* departed from there, two blind men followed him, crying, and saying, "Son of David, have mercy on us."
+* `Mth 9:27` And when *_Jesus_* departed from there, two blind men followed him, crying and saying, "Son of David, have mercy on us."
 * `Mth 9:28` And when he had come into the house, the blind men came to him. And *_Jesus_* says to them, "Do you believe that I am able to do this?" They said to him, "Yes, Lord."
 * `Mth 9:30` Then their eyes were opened, and *_Jesus_* strictly charged them, saying, "See that no man knows it."
 * `Mth 9:35` And *_Jesus_* went throughout all the cities and villages, teaching in their synagogues, preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
 * `Mth 10:5` These twelve *_Jesus_* sent forth and commanded them, saying, "Do not go into the way of the Gentiles, and do not enter into any city of the Samaritans.
-* `Mth 11:1` And it came to pass, that when *_Jesus_* had made an end of commanding his twelve disciples, he departed from there to teach and to preach in their cities.
+* `Mth 11:1` And it came to pass when *_Jesus_* had made an end of commanding his twelve disciples, that he departed from there to teach and to preach in their cities.
 * `Mth 11:4` *_Jesus_* answered and said to them, "Go and report to John those things which you hear and see:
 * `Mth 11:7` And as they departed, *_Jesus_* began to say to the multitudes concerning John, "What did you go out into the wilderness to see? A reed shaken with the wind?
 * `Mth 11:25` At that time *_Jesus_* answered and said, "I thank you, O Father, Lord of heaven and earth, because you have hid these things from the wise and prudent and have revealed them to babies.
 * `Mth 12:1` At that time *_Jesus_* went through the grain-fields on the sabbath, and his disciples were hungry and began to pluck the heads of grain and to eat.
 * `Mth 12:15` But when *_Jesus_* knew it, he withdrew himself from there. And great multitudes followed him, and he healed them all.
-* `Mth 12:25` And *_Jesus_* knew their thoughts, and said to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
-* `Mth 13:1` The same day *_Jesus_* went out of the house and sat by the sea side.
-* `Mth 13:34` All these things *_Jesus_* spoke to the multitude in parables, and without a parable he did not speak to them,
+* `Mth 12:25` And *_Jesus_* knew their thoughts and said to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
+* `Mth 13:1` The same day, *_Jesus_* went out of the house and sat by the sea side.
+* `Mth 13:34` All these things *_Jesus_* spoke to the multitude in parables. And without a parable he did not speak to them
 * `Mth 13:36` Then *_Jesus_* sent the multitude away and went into the house. And his disciples came to him, saying, "Declare to us the parable of the tares of the field."
 * `Mth 13:51` *_Jesus_* says to them, "Have you understood all these things?" They say to him, "Yes, Lord."
-* `Mth 13:53` And it came to pass, that when *_Jesus_* had finished these parables, he departed from there.
-* `Mth 13:57` And they were offended by him. But *_Jesus_* said to them, "A prophet is not without honor, except in his own country and in his own house."
-* `Mth 14:1` At that time Herod the Tetrarch heard of the fame of *_Jesus_*,
+* `Mth 13:53` And it came to pass when *_Jesus_* had finished these parables, that he departed from there.
+* `Mth 13:57` And they were offended by him. But *_Jesus_* said to them, "A prophet is not without honor except in his own country and in his own house."
+* `Mth 14:1` At that time Herod the Tetrarch heard about the fame of *_Jesus_*,
 * `Mth 14:12` And his disciples came, took up the body, buried it, and went and told *_Jesus_*.
 * `Mth 14:13` When *_Jesus_* heard of it, he departed from there in a boat to a desolate place by himself. And when the people had heard of it, they followed him on foot out of the cities.
 * `Mth 14:14` And *_Jesus_* went forth and saw a great multitude and was moved with compassion toward them, and he healed their sick.
@@ -265,7 +265,7 @@ _1 verse containing JESURUN_
 * `Mth 14:25` And in the fourth watch of the night *_Jesus_* went to them, walking on the sea.
 * `Mth 14:27` But immediately *_Jesus_* spoke to them, saying, "Be of good cheer. It is I. Do not be afraid."
 * `Mth 14:29` And he said, "Come." And when Peter had come down out of the boat, he walked on the water to go to *_Jesus_*.
-* `Mth 14:31` And immediately *_Jesus_* stretched forth his hand and caught him, and said to him, "O you of little faith, why did you doubt?"
+* `Mth 14:31` And immediately *_Jesus_* stretched forth his hand, caught him, and said to him, "O you of little faith, why did you doubt?"
 * `Mth 15:1` Then scribes and Pharisees who were from Jerusalem came to *_Jesus_*, saying,
 * `Mth 15:16` And *_Jesus_* said, "Are you also yet without understanding?
 * `Mth 15:21` Then *_Jesus_* went from there and departed into the territories of Tyre and Sidon.
@@ -3149,18 +3149,18 @@ _27 verses containing JOHANAN_
 * `Mth 4:21` And going on from there, he saw two other brothers, James the son of Zebedee and *_John_* his brother, in a boat with Zebedee their father, mending their nets, and he called them.
 * `Mth 9:14` Then the disciples of *_John_* came to him, saying, "Why do we and the Pharisees fast often, but your disciples do not fast?"
 * `Mth 10:2` Now the names of the twelve apostles are these: The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and *_John_* his brother;
-* `Mth 11:2` Now when *_John_* had heard in the prison the works of Christ, he sent two of his disciples,
+* `Mth 11:2` Now when *_John_* had heard in the prison the works of Christ, he sent two of his disciples
 * `Mth 11:4` Jesus answered and said to them, "Go and report to *_John_* those things which you hear and see:
 * `Mth 11:7` And as they departed, Jesus began to say to the multitudes concerning *_John_*, "What did you go out into the wilderness to see? A reed shaken with the wind?
 * `Mth 11:11` "Truly, I say to you, among those who are born of women, there has not risen anyone greater than *_John_* the Baptist, yet he who is least in the kingdom of heaven is greater than he is.
 * `Mth 11:12` And from the days of *_John_* the Baptist until now, the kingdom of heaven suffers violence, and the violent take it by force.
 * `Mth 11:13` For all the prophets and the law prophesied until *_John_*.
 * `Mth 11:18` For *_John_* came neither eating nor drinking, and they say, 'He has a demon.'
-* `Mth 14:2` And said to his servants, "This is *_John_* the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
+* `Mth 14:2` And he said to his servants, "This is *_John_* the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
 * `Mth 14:3` For Herod had laid hold of *_John_*, bound him, and put him in prison for the sake of Herodias, his brother Philip's wife.
 * `Mth 14:4` For *_John_* had said to him, "It is not lawful for you to have her."
 * `Mth 14:8` And she, being before instructed by her mother, said, "Give me here the head of *_John_* the Baptist in a dish."
-* `Mth 14:10` And he sent, and beheaded *_John_* in the prison.
+* `Mth 14:10` And he sent and beheaded *_John_* in the prison.
 * `Mth 16:14` And they said, "Some say that you are *_John_* the Baptist, some Elijah, and others Jeremiah or one of the prophets."
 * `Mth 17:1` And after six days, Jesus takes Peter, James, and *_John_* his brother, and brings them upon a high mountain separately.
 * `Mth 17:13` Then the disciples understood that he spoke to them concerning *_John_* the Baptist.

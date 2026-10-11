@@ -448,7 +448,7 @@ _2 verses containing TABITHA_
 * `Dan 11:27` And both these kings' hearts shall be set to do mischief, and they shall speak lies at one *_table_*, but it shall not prosper, for yet the end shall be at the time appointed.
 * `Mal 1:7` "You offer polluted bread upon my altar." But you say, "In what have we polluted you?" In that you say, "The *_table_* of the LORD is contemptible."
 * `Mal 1:12` "But you have profaned it, in that you say, 'The *_table_* of the LORD is polluted, and its fruit, even his provision, is contemptible.'
-* `Mth 9:10` And it came to pass, as Jesus sat at the *_table_* in the house, behold, many tax collectors and sinners came and sat down with him and his disciples.
+* `Mth 9:10` And it came to pass as Jesus sat at the *_table_* in the house, that behold, many tax collectors and sinners came and sat down with him and his disciples.
 * `Mth 14:9` And the king was sorry. Nevertheless, for the sake of the oath and of those who sat with him at the *_table_*, he commanded it to be given to her.
 * `Mth 15:27` And she said, "Truth, Lord, yet the dogs eat of the crumbs which fall from their master's *_table_*."
 * `Mth 26:7` A woman having an alabaster vial of very precious ointment came to him and poured it on his head as he sat at the *_table_*.
@@ -1893,7 +1893,7 @@ _1 verse containing TAKER_
 * `Mth 4:5` Then the devil *_takes_* him up into the holy city, sets him on a pinnacle of the temple,
 * `Mth 4:8` Again, the devil *_takes_* him up upon an exceedingly high mountain, shows him all the kingdoms of the world and their glory,
 * `Mth 9:16` No man puts a patch of new cloth to an old garment, for that which is put in to fill it up, *_takes_* from the garment, and the rent is made worse.
-* `Mth 12:45` Then he goes, and *_takes_* with himself seven other spirits more wicked than himself, and they enter in and dwell there. And the last state of that man is worse than the first. Thus it shall also be to this wicked generation."
+* `Mth 12:45` Then he goes and *_takes_* with himself seven other spirits more wicked than himself, and they enter in and dwell there. And the last state of that man is worse than the first. Thus it shall also be to this wicked generation."
 * `Mth 17:1` And after six days, Jesus *_takes_* Peter, James, and John his brother, and brings them upon a high mountain separately.
 * `Mrk 2:21` "No man also sews a patch of new cloth on an old garment, or else the new piece that filled it up *_takes_* away from the old and the rent is made worse.
 * `Mrk 4:15` And these are those by the wayside where the word is sown, but when they have heard, Satan comes immediately and *_takes_* away the word that was sown in their hearts.
@@ -2551,7 +2551,6 @@ _1 verse containing TATTLERS_
 * `Act 5:21` And when they heard this, they entered into the temple at dawn and *_taught_*. But the high priest and those who were with him came and called the council together—all the senate of the children of Israel—and sent to the prison to have them brought.
 * `Act 7:22` And Moses was *_taught_* in all the wisdom of the Egyptians and was mighty in words and in deeds.
 * `Act 11:26` And when he had found him, he brought him to Antioch. And it came to pass, that a whole year they assembled themselves with the church and *_taught_* many people. And the disciples were first called Christians in Antioch.
-* `Act 14:21` And when they had preached the gospel to that city and had *_taught_* many, they returned again to Lystra, to Iconium, and to Antioch,
 * `Act 15:1` And some men who came down from Judea *_taught_* the brothers, and said, "Unless you are circumcised after the manner of Moses you cannot be saved."
 * `Act 18:25` This man was instructed in the way of the Lord, and being fervent in spirit, he spoke and diligently *_taught_* the things of the Lord, knowing only the baptism of John.
 * `Act 20:20` And how I kept back nothing that was profitable to you, but have shown you and have *_taught_* you publicly and from house to house,
@@ -2567,7 +2566,7 @@ _1 verse containing TATTLERS_
 * `1Jn 2:27` But the anointing which you have received from him abides in you, and you do not need that any man should teach you. But as the same anointing teaches you concerning all things and is truth and no lie, and even as it has *_taught_* you, you shall abide in him.
 * `Rev 2:14` But I have a few things against you, because you have there those who hold the doctrine of Balaam, who *_taught_* Balak to cast a stumbling-block before the children of Israel, to eat things sacrificed to idols, and to commit lewdness.
 
-_77 verses containing TAUGHT_
+_76 verses containing TAUGHT_
 
 == TAUNT
 
@@ -2604,7 +2603,7 @@ _1 verse containing TAVERNS_
 
 * `Mth 5:46` For if you love those who love you, what reward do you have? Do the *_tax_* collectors not even do the same?
 * `Mth 5:47` And if you salute your brothers only, what do you do more than others? Do the *_tax_* collectors not even do so?
-* `Mth 9:10` And it came to pass, as Jesus sat at the table in the house, behold, many *_tax_* collectors and sinners came and sat down with him and his disciples.
+* `Mth 9:10` And it came to pass as Jesus sat at the table in the house, that behold, many *_tax_* collectors and sinners came and sat down with him and his disciples.
 * `Mth 9:11` And when the Pharisees saw it, they said to his disciples, "Why does your Master eat with *_tax_* collectors and sinners?"
 * `Mth 10:3` Philip, and Bartholomew; Thomas, and Matthew the *_tax_* collector; James the son of Alpheus, and Lebbeus, whose surname was Thaddeus;
 * `Mth 11:19` The Son of man came eating and drinking, and they say, 'Behold, a gluttonous man and a drunkard, a friend of *_tax_* collectors and sinners.' But wisdom is justified by her children."
@@ -2732,9 +2731,8 @@ _2 verses containing TAXING_
 * `Mic 4:2` And many nations shall come and say, "Come, and let us go up to the mountain of the LORD and to the house of the God of Jacob, and he will *_teach_* us of his ways, and we will walk in his paths." For the law shall go forth from Zion and the word of the LORD from Jerusalem.
 * `Hab 2:19` Woe to him who says to wood, 'Awake,' and to a mute stone, 'Arise.' It shall *_teach_*! Behold, it is overlaid with gold and silver and there is no breath at all in the midst of it.
 * `Mth 5:19` Whoever therefore breaks one of these least commandments and teaches men to do so, he shall be called the least in the kingdom of heaven. But whoever shall do and *_teach_* them, the same shall be called great in the kingdom of heaven.
-* `Mth 11:1` And it came to pass, that when Jesus had made an end of commanding his twelve disciples, he departed from there to *_teach_* and to preach in their cities.
+* `Mth 11:1` And it came to pass when Jesus had made an end of commanding his twelve disciples, that he departed from there to *_teach_* and to preach in their cities.
 * `Mth 22:16` And they sent their disciples out to him along with the Herodians, saying, "Master, we know that you are true and *_teach_* the way of God in truth, neither do you care for any man, for you do not regard the person of men.
-* `Mth 28:19` Therefore, go and *_teach_* all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,
 * `Mrk 4:1` And he began again to *_teach_* by the sea-side. And there was gathered to him a great multitude so that he entered into a boat and sat on the sea, while the whole multitude was by the sea on the land.
 * `Mrk 6:2` And when the sabbath had come, he began to *_teach_* in the synagogue. And many who heard him were astonished, saying, "From where did this man get these things? And what wisdom is this which is given to him that even such mighty works are wrought by his hands?
 * `Mrk 6:34` And Jesus, when he came out, saw many people and was moved with compassion toward them because they were as sheep not having a shepherd. And he began to *_teach_* them many things.
@@ -2768,14 +2766,14 @@ _2 verses containing TAXING_
 * `Heb 8:11` And they shall not each *_teach_* his neighbor and each his brother, saying, "Know the Lord," for all shall know me, from the least to the greatest.
 * `1Jn 2:27` But the anointing which you have received from him abides in you, and you do not need that any man should *_teach_* you. But as the same anointing teaches you concerning all things and is truth and no lie, and even as it has taught you, you shall abide in him.
 
-_110 verses containing TEACH_
+_109 verses containing TEACH_
 
 == TEACHER
 
 * `1Ch 25:8` And they cast lots, ward against ward, the small as well as the great, the *_teacher_* as well as the scholar.
 * `Hab 2:18` What profit is the engraved image when its maker has engraved it—the molten image and a *_teacher_* of lies—that the maker trusts in what he has formed, making mute idols?
 * `Mth 10:24` "The disciple is not above his *_teacher_*, nor the servant above his lord.
-* `Mth 10:25` It is enough for the disciple that he should be as his *_teacher_*, and the servant as his lord. If they have called the master of the house Beelzebub, how much more those of his household?
+* `Mth 10:25` It is enough for the disciple that he should be like his *_teacher_*, and the servant like his lord. If they have called the master of the house Beelzebub, how much more those of his household?
 * `Mth 23:8` But do not be called Rabbi, for One is your *_Teacher_*, even Christ, and all of you are brothers.
 * `Jhn 3:2` The same came to Jesus by night and said to him, "Rabbi, we know that you are a *_teacher_* come from God, for no man can do these miracles that you do unless God is with him."
 * `Jhn 3:10` Jesus answered and said to him, "Are you a *_teacher_* of Israel and do not know these things?

@@ -1757,7 +1757,7 @@ _1 verse containing BAPTISMS_
 * `Mth 3:1` In those days John the *_Baptist_* came, preaching in the wilderness of Judea
 * `Mth 11:11` "Truly, I say to you, among those who are born of women, there has not risen anyone greater than John the *_Baptist_*, yet he who is least in the kingdom of heaven is greater than he is.
 * `Mth 11:12` And from the days of John the *_Baptist_* until now, the kingdom of heaven suffers violence, and the violent take it by force.
-* `Mth 14:2` And said to his servants, "This is John the *_Baptist_*. He has risen from the dead, and therefore, mighty works show themselves forth in him."
+* `Mth 14:2` And he said to his servants, "This is John the *_Baptist_*. He has risen from the dead, and therefore, mighty works show themselves forth in him."
 * `Mth 14:8` And she, being before instructed by her mother, said, "Give me here the head of John the *_Baptist_* in a dish."
 * `Mth 16:14` And they said, "Some say that you are John the *_Baptist_*, some Elijah, and others Jeremiah or one of the prophets."
 * `Mth 17:13` Then the disciples understood that he spoke to them concerning John the *_Baptist_*.
@@ -1849,7 +1849,7 @@ _2 verses containing BAPTIZES_
 
 == BAPTIZING
 
-* `Mth 28:19` Therefore, go and teach all nations, *_baptizing_* them in the name of the Father, and of the Son, and of the Holy Spirit,
+* `Mth 28:19` Therefore, go and make disciples of all nations, *_baptizing_* them in the name of the Father, and of the Son, and of the Holy Spirit,
 * `Mrk 1:4` John was *_baptizing_* in the wilderness and preaching the baptism of repentance for the remission of sins.
 * `Jhn 1:28` These things were done in Bethabara beyond the Jordan where John was *_baptizing_*.
 * `Jhn 1:31` And I did not know him. But so that he should be made manifest to Israel, therefore I have come *_baptizing_* with water."

@@ -546,7 +546,7 @@ _2 verses containing PAPHOS_
 * `Mth 13:24` Another *_parable_* he proposed to them, saying, "The kingdom of heaven is compared to a man who sowed good seed in his field,
 * `Mth 13:31` Another *_parable_* he proposed to them, saying, "The kingdom of heaven is like a grain of mustard-seed, which a man took and sowed in his field,
 * `Mth 13:33` He spoke another *_parable_* to them: "The kingdom of heaven is like leaven, which a woman took and hid in three measures of meal until the whole was leavened."
-* `Mth 13:34` All these things Jesus spoke to the multitude in parables, and without a *_parable_* he did not speak to them,
+* `Mth 13:34` All these things Jesus spoke to the multitude in parables. And without a *_parable_* he did not speak to them
 * `Mth 13:36` Then Jesus sent the multitude away and went into the house. And his disciples came to him, saying, "Declare to us the *_parable_* of the tares of the field."
 * `Mth 15:15` Then Peter answered and said to him, "Declare to us this *_parable_*."
 * `Mth 21:33` "Hear another *_parable_*. There was a certain householder who planted a vineyard, hedged it around, dug a wine-press in it, built a tower, and lent it out to farmers and went into a remote country.
@@ -581,11 +581,11 @@ _49 verses containing PARABLE_
 
 * `Ezk 20:49` Then I said, "Ah, Lord GOD! They say of me, 'Does he not speak *_parables_*?'"
 * `Mth 13:3` And he spoke many things to them in *_parables_*, saying, "Behold, a sower went forth to sow.
-* `Mth 13:10` And the disciples came, and said to him, "Why do you speak to them in *_parables_*?"
+* `Mth 13:10` And the disciples came and said to him, "Why do you speak to them in *_parables_*?"
 * `Mth 13:13` Therefore, I speak to them in *_parables_*, because seeing they do not see, and hearing they do not hear, neither do they understand.
-* `Mth 13:34` All these things Jesus spoke to the multitude in *_parables_*, and without a parable he did not speak to them,
+* `Mth 13:34` All these things Jesus spoke to the multitude in *_parables_*. And without a parable he did not speak to them
 * `Mth 13:35` So that it might be fulfilled which was spoken by the prophet, saying, "I will open my mouth in *_parables_*. I will utter things which have been kept secret from the foundation of the world."
-* `Mth 13:53` And it came to pass, that when Jesus had finished these *_parables_*, he departed from there.
+* `Mth 13:53` And it came to pass when Jesus had finished these *_parables_*, that he departed from there.
 * `Mth 21:45` And when the chief priests and Pharisees had heard his *_parables_*, they perceived that he spoke of them.
 * `Mth 22:1` And Jesus answered and spoke to them again by *_parables_*, and said,
 * `Mrk 3:23` And he called them to him and said to them in *_parables_*, "How can Satan cast out Satan?
@@ -741,7 +741,7 @@ _1 verse containing PARE_
 
 == PARENTS
 
-* `Mth 10:21` "And the brother will deliver up the brother to death, and the father the child. And the children will rise up against their *_parents_* and cause them to be put to death.
+* `Mth 10:21` "And brother will deliver up brother to death, and the father the child. And the children will rise up against their *_parents_* and cause them to be put to death.
 * `Mrk 13:12` Now the brother will betray the brother to death, and the father the son. And children will rise up against their *_parents_* and will cause them to be put to death.
 * `Luk 2:27` And he came by the Spirit into the temple. And when the *_parents_* brought in the child Jesus, to do for him after the custom of the law,
 * `Luk 2:41` Now his *_parents_* went to Jerusalem every year at the feast of the passover.

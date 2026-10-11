@@ -275,8 +275,8 @@
 * `Mth 8:26` And he says to them, "Why are you fearful, O you of little faith?" Then he arose, rebuked the winds and the *_sea_*, and there was a great calm.
 * `Mth 8:27` But the men marveled, saying, "What manner of man is this, that even the winds and the *_sea_* obey him?"
 * `Mth 8:32` And he said to them, "Go." And when they had come out, they went into the herd of swine. And behold, the whole herd of swine ran violently down a steep place into the *_sea_* and perished in the waters.
-* `Mth 13:1` The same day Jesus went out of the house and sat by the *_sea_* side.
-* `Mth 13:47` "Again, the kingdom of heaven is like a net that was cast into the *_sea_* and gathered of every kind,
+* `Mth 13:1` The same day, Jesus went out of the house and sat by the *_sea_* side.
+* `Mth 13:47` "Again, the kingdom of heaven is like a net that was cast into the *_sea_* and gathered some of every kind,
 * `Mth 14:24` But the boat was now in the midst of the *_sea_*, tossed with waves, for the wind was contrary.
 * `Mth 14:25` And in the fourth watch of the night Jesus went to them, walking on the *_sea_*.
 * `Mth 14:26` And when the disciples saw him walking on the *_sea_*, they were troubled, saying, "It is a spirit," and they cried out for fear.
@@ -2336,7 +2336,7 @@ _19 verses containing SEEKING_
 * `Ezk 14:10` And they shall bear the punishment of their iniquity. The punishment of the prophet shall be even as the punishment of him who *_seeks_* him,
 * `Ezk 34:12` As a shepherd *_seeks_* out his flock in the day that he is among his sheep that are scattered, so I will seek out my sheep and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 * `Mth 7:8` For everyone who asks, receives, and he who *_seeks_*, finds, and to him who knocks, the door shall be opened.
-* `Mth 12:39` But he answered and said to them, "An evil and adulterous generation *_seeks_* for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah.
+* `Mth 12:39` But he answered and said to them, "An evil and adulterous generation *_seeks_* for a sign, and there shall no sign be given to it except the sign of the prophet Jonah.
 * `Mth 16:4` A wicked and adulterous generation *_seeks_* for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah." And he left them and departed.
 * `Luk 11:10` For everyone who asks, receives, and he who *_seeks_*, finds, and to him who knocks, the door shall be opened.
 * `Luk 17:33` Whoever *_seeks_* to save his life shall lose it, and whoever loses his life shall preserve it.
@@ -3300,10 +3300,10 @@ _1 verse containing SENATE_
 * `Mal 3:1` "Behold, I will *_send_* my messenger, and he shall prepare the way before me. And the Lord, whom you seek, will suddenly come to his temple, even the messenger of the covenant, whom you delight in. Behold, he will come," says the LORD of hosts.
 * `Mal 4:5` "Behold, I will *_send_* you Elijah the prophet before the coming of the great and dreadful day of the LORD.
 * `Mth 9:38` Therefore, pray to the Lord of the harvest that he will *_send_* forth laborers into his harvest."
-* `Mth 10:16` "Behold, I *_send_* you forth as sheep in the midst of wolves; therefore, be wise as serpents and innocent as doves.
+* `Mth 10:16` "Behold, I *_send_* you forth as sheep in the midst of wolves; therefore, be as wise as serpents and as innocent as doves.
 * `Mth 10:34` "Do not think that I have come to *_send_* peace on earth. I did not come to *_send_* peace, but a sword.
 * `Mth 11:10` "For this is he concerning whom it is written, 'Behold, I *_send_* my messenger before your face who shall prepare your way before you.'
-* `Mth 13:41` The Son of man shall *_send_* forth his angels, and they shall gather out of his kingdom all things that offend and those who do iniquity,
+* `Mth 13:41` The Son of man shall *_send_* forth his angels, and they shall gather out of his kingdom all things that offend and those who do iniquity
 * `Mth 14:15` And when it was evening, his disciples came to him, saying, "This is a desolate place and the time is now past. *_Send_* the multitude away so that they may go into the villages and buy themselves food."
 * `Mth 15:23` But he did not answer her a word. And his disciples came and implored him, saying, "*_Send_* her away, for she cries after us."
 * `Mth 15:32` Then Jesus called his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not *_send_* them away fasting, lest they faint in the way."
@@ -3946,12 +3946,12 @@ _2 verses containing SENSUAL_
 * `Mth 2:16` Then Herod, when he saw that he was mocked by the wise men, was exceedingly angry, and *_sent_* forth and slew all the children who were in Bethlehem and in all its borders, from two years old and under, according to the time which he had ascertained from the wise men.
 * `Mth 10:5` These twelve Jesus *_sent_* forth and commanded them, saying, "Do not go into the way of the Gentiles, and do not enter into any city of the Samaritans.
 * `Mth 10:40` "He who receives you, receives me, and he who receives me, receives him who *_sent_* me.
-* `Mth 11:2` Now when John had heard in the prison the works of Christ, he *_sent_* two of his disciples,
+* `Mth 11:2` Now when John had heard in the prison the works of Christ, he *_sent_* two of his disciples
 * `Mth 13:36` Then Jesus *_sent_* the multitude away and went into the house. And his disciples came to him, saying, "Declare to us the parable of the tares of the field."
-* `Mth 14:10` And he *_sent_*, and beheaded John in the prison.
+* `Mth 14:10` And he *_sent_* and beheaded John in the prison.
 * `Mth 14:22` And immediately Jesus constrained his disciples to get into a boat and to go before him to the other side while he *_sent_* the multitudes away.
 * `Mth 14:23` And when he had *_sent_* the multitudes away, he ascended a mountain separately to pray. And when the evening had come, he was there alone.
-* `Mth 14:35` And when the men of that place had knowledge of him, they *_sent_* out into all the surrounding country and brought to him all who were diseased,
+* `Mth 14:35` And when the men of that place had knowledge of him, they *_sent_* out into all the surrounding country and brought to him all who were diseased
 * `Mth 15:24` But he answered and said, "I was not *_sent_* except to the lost sheep of the house of Israel."
 * `Mth 15:39` And he *_sent_* the multitude away, and took a boat and came into the borders of Magdala.
 * `Mth 20:2` And when he had agreed with the laborers for a denarius a day, he *_sent_* them into his vineyard.

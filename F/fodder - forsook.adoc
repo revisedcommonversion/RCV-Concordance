@@ -224,7 +224,7 @@ _87 verses containing FOLLOW_
 * `Mth 8:23` And when he had entered into a boat, his disciples *_followed_* him.
 * `Mth 9:9` And as Jesus was passing from there, he saw a man named Matthew sitting at the receipt of custom. And he says to him, "Follow me." And he arose and *_followed_* him.
 * `Mth 9:19` And Jesus arose and *_followed_* him, and so did his disciples.
-* `Mth 9:27` And when Jesus departed from there, two blind men *_followed_* him, crying, and saying, "Son of David, have mercy on us."
+* `Mth 9:27` And when Jesus departed from there, two blind men *_followed_* him, crying and saying, "Son of David, have mercy on us."
 * `Mth 12:15` But when Jesus knew it, he withdrew himself from there. And great multitudes *_followed_* him, and he healed them all.
 * `Mth 14:13` When Jesus heard of it, he departed from there in a boat to a desolate place by himself. And when the people had heard of it, they *_followed_* him on foot out of the cities.
 * `Mth 19:2` And great multitudes *_followed_* him, and he healed them there.
@@ -2310,7 +2310,7 @@ _49 verses containing FORGIVE_
 * `Mth 9:2` And behold, they brought to him a paralyzed man lying on a bed. And Jesus, seeing their faith, said to the paralytic, "Son, be of good cheer. Your sins are *_forgiven_*."
 * `Mth 9:5` For which is easier, to say, 'Your sins are *_forgiven_*,' or to say, 'Arise, and walk'?
 * `Mth 12:31` "Therefore, I say to you, for all manner of sin and blasphemy men shall be *_forgiven_*, but for the blasphemy against the Holy Spirit men shall not be *_forgiven_*.
-* `Mth 12:32` And whoever speaks a word against the Son of man, it shall be *_forgiven_*, but whoever speaks against the Holy Spirit, it shall not be *_forgiven_*, neither in this world, nor in the world to come.
+* `Mth 12:32` And whoever speaks a word against the Son of man, it shall be *_forgiven_*, but whoever speaks against the Holy Spirit, it shall not be *_forgiven_*, neither in this world nor in the world to come.
 * `Mrk 2:5` When Jesus saw their faith, he said to the paralytic, "Son, your sins are *_forgiven_*."
 * `Mrk 2:9` Which is easier, to say to the paralytic, 'Your sins are *_forgiven_*,' or to say, 'Arise, take up your bed, and walk'?
 * `Mrk 3:28` "Truly I say to you, the sons of men shall be *_forgiven_* of all sins and any blasphemies with which they shall blaspheme.

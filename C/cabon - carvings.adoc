@@ -885,10 +885,10 @@ _183 verses containing CALL_
 * `Mth 4:21` And going on from there, he saw two other brothers, James the son of Zebedee and John his brother, in a boat with Zebedee their father, mending their nets, and he *_called_* them.
 * `Mth 5:9` Blessed are the peace-makers, for they shall be *_called_* children of God.
 * `Mth 5:19` Whoever therefore breaks one of these least commandments and teaches men to do so, he shall be *_called_* the least in the kingdom of heaven. But whoever shall do and teach them, the same shall be *_called_* great in the kingdom of heaven.
-* `Mth 10:1` And when he had *_called_* his twelve disciples to him, he gave them power against unclean spirits to cast them out, and to heal all manner of sickness and all manner of disease.
+* `Mth 10:1` And when he had *_called_* his twelve disciples to him, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 * `Mth 10:2` Now the names of the twelve apostles are these: The first, Simon, who is *_called_* Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
-* `Mth 10:25` It is enough for the disciple that he should be as his teacher, and the servant as his lord. If they have *_called_* the master of the house Beelzebub, how much more those of his household?
-* `Mth 13:55` Is this not the carpenter's son? Is his mother not *_called_* Mary? And his brothers, James, Joseph, Simon, and Judas?
+* `Mth 10:25` It is enough for the disciple that he should be like his teacher, and the servant like his lord. If they have *_called_* the master of the house Beelzebub, how much more those of his household?
+* `Mth 13:55` Is this not the carpenter's son? Is his mother not *_called_* Mary, and his brothers, James, Joseph, Simon, and Judas?
 * `Mth 15:10` And he *_called_* the multitude, and said to them, "Hear, and understand.
 * `Mth 15:32` Then Jesus *_called_* his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
 * `Mth 18:2` And Jesus *_called_* a little child to him and set him in the midst of them,
@@ -1105,7 +1105,7 @@ _600 verses containing CALLED_
 * `Isa 41:4` Who has wrought and done it, *_calling_* the generations from the beginning? I, the LORD, the first and with the last, I am he."
 * `Isa 46:11` *_Calling_* a ravenous bird from the east, the man who executes my counsel from a far country. I have spoken it and I will also bring it to pass. I have purposed it and I will also perform it.
 * `Ezk 23:19` Yet she multiplied her prostitutions in *_calling_* to remembrance the days of her youth in which she had played the harlot in the land of Egypt,
-* `Mth 11:16` "But to what shall I compare this generation? It is like children sitting in the markets and *_calling_* to their fellows,
+* `Mth 11:16` "But to what shall I compare this generation? It is like children sitting in the markets and *_calling_* to their fellows
 * `Mrk 3:31` Then his brothers and his mother came there, and standing outside they sent to him, *_calling_* him.
 * `Mrk 11:21` And Peter *_calling_* to remembrance, says to him, "Master, behold, the fig-tree which you cursed has withered."
 * `Mrk 15:44` And Pilate marveled that he was already dead. And *_calling_* the centurion, he asked him whether he had already been dead.
@@ -2691,23 +2691,23 @@ _25 verses containing CALVES_
 * `Mth 8:25` And his disciples *_came_* to him and awoke him, saying, "Lord, save us. We perish."
 * `Mth 8:34` And behold, the whole city *_came_* out to meet Jesus. And when they saw him, they implored him that he would depart out of their borders.
 * `Mth 9:1` And he entered into a boat, passed over, and *_came_* into his own city.
-* `Mth 9:10` And it *_came_* to pass, as Jesus sat at the table in the house, behold, many tax collectors and sinners *_came_* and sat down with him and his disciples.
+* `Mth 9:10` And it *_came_* to pass as Jesus sat at the table in the house, that behold, many tax collectors and sinners *_came_* and sat down with him and his disciples.
 * `Mth 9:14` Then the disciples of John *_came_* to him, saying, "Why do we and the Pharisees fast often, but your disciples do not fast?"
 * `Mth 9:18` While he was speaking these things to them, behold, a certain ruler *_came_* and worshiped him, saying, "My daughter is even now dead. But come and lay your hand upon her and she will live."
 * `Mth 9:20` (And behold, a woman who was diseased with an issue of blood for twelve years *_came_* behind him and touched the hem of his garment.
 * `Mth 9:23` And when Jesus *_came_* into the ruler's house and saw the minstrels and the people making a noise,
 * `Mth 9:28` And when he had come into the house, the blind men *_came_* to him. And Jesus says to them, "Do you believe that I am able to do this?" They said to him, "Yes, Lord."
-* `Mth 11:1` And it *_came_* to pass, that when Jesus had made an end of commanding his twelve disciples, he departed from there to teach and to preach in their cities.
+* `Mth 11:1` And it *_came_* to pass when Jesus had made an end of commanding his twelve disciples, that he departed from there to teach and to preach in their cities.
 * `Mth 11:18` For John *_came_* neither eating nor drinking, and they say, 'He has a demon.'
 * `Mth 11:19` The Son of man *_came_* eating and drinking, and they say, 'Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners.' But wisdom is justified by her children."
 * `Mth 12:42` The queen of the south shall rise up in the judgment with this generation and condemn it because she *_came_* from the uttermost parts of the earth to hear the wisdom of Solomon, and behold, one greater than Solomon is here.
 * `Mth 12:44` Then he says, 'I will return into my house from where I *_came_* out.' And when he has come, he finds it empty, swept, and garnished.
 * `Mth 13:4` And when he sowed, some seeds fell by the wayside, and the birds *_came_* and devoured them.
-* `Mth 13:10` And the disciples *_came_*, and said to him, "Why do you speak to them in parables?"
+* `Mth 13:10` And the disciples *_came_* and said to him, "Why do you speak to them in parables?"
 * `Mth 13:25` But while men slept, his enemy *_came_* and sowed tares among the wheat and departed.
 * `Mth 13:27` So the servants of the householder *_came_* and said to him, 'Sir, did you not sow good seed in your field? How then does it have tares?'
 * `Mth 13:36` Then Jesus sent the multitude away and went into the house. And his disciples *_came_* to him, saying, "Declare to us the parable of the tares of the field."
-* `Mth 13:53` And it *_came_* to pass, that when Jesus had finished these parables, he departed from there.
+* `Mth 13:53` And it *_came_* to pass when Jesus had finished these parables, that he departed from there.
 * `Mth 14:6` But when Herod's birthday *_came_*, the daughter of Herodias danced before them and pleased Herod,
 * `Mth 14:12` And his disciples *_came_*, took up the body, buried it, and went and told Jesus.
 * `Mth 14:15` And when it was evening, his disciples *_came_* to him, saying, "This is a desolate place and the time is now past. Send the multitude away so that they may go into the villages and buy themselves food."
@@ -4971,7 +4971,7 @@ _4 verses containing CARNALLY_
 
 * `Isa 41:7` So the *_carpenter_* encouraged the goldsmith, and he who smooths with the hammer encouraged him who smote the anvil, saying, "It is ready for the soldering." And he fastened it with nails so that it should not be moved.
 * `Isa 44:13` The *_carpenter_* stretches out his rule. He marks it out with a line. He fits it with planes and marks it out with the compass. He makes it after the figure of a man, according to the beauty of a man, so that it may remain in the house.
-* `Mth 13:55` Is this not the *_carpenter_*'s son? Is his mother not called Mary? And his brothers, James, Joseph, Simon, and Judas?
+* `Mth 13:55` Is this not the *_carpenter_*'s son? Is his mother not called Mary, and his brothers, James, Joseph, Simon, and Judas?
 * `Mrk 6:3` Is this not the *_carpenter_*, the son of Mary, the brother of James, Joseph, Judas, and Simon? And are his sisters not here with us?" And they were offended at him.
 
 _4 verses containing CARPENTER_

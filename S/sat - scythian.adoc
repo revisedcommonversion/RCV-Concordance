@@ -93,8 +93,8 @@
 * `Jna 3:6` For word came to the king of Nineveh, and he arose from his throne, took off his robe, covered himself with sackcloth, and *_sat_* in ashes.
 * `Jna 4:5` So Jonah went out of the city, *_sat_* on the east side of the city, made himself a booth there, and *_sat_* under it in the shade until he might see what would become of the city.
 * `Mth 4:16` The people who *_sat_* in darkness saw great light. And to those who *_sat_* in the region and shadow of death, light has arisen."
-* `Mth 9:10` And it came to pass, as Jesus *_sat_* at the table in the house, behold, many tax collectors and sinners came and *_sat_* down with him and his disciples.
-* `Mth 13:1` The same day Jesus went out of the house and *_sat_* by the sea side.
+* `Mth 9:10` And it came to pass as Jesus *_sat_* at the table in the house, that behold, many tax collectors and sinners came and *_sat_* down with him and his disciples.
+* `Mth 13:1` The same day, Jesus went out of the house and *_sat_* by the sea side.
 * `Mth 13:2` And great multitudes were gathered to him so that he went into a boat and *_sat_* down, and the whole multitude stood on the shore.
 * `Mth 13:48` Which, when it was full, they drew to the shore, *_sat_* down, and gathered the good into vessels, but cast away the bad.
 * `Mth 14:9` And the king was sorry. Nevertheless, for the sake of the oath and of those who *_sat_* with him at the table, he commanded it to be given to her.
@@ -1493,7 +1493,7 @@ _6 verses containing SAVORY_
 * `Mth 9:11` And when the Pharisees *_saw_* it, they said to his disciples, "Why does your Master eat with tax collectors and sinners?"
 * `Mth 9:22` But Jesus turned himself around, and when he *_saw_* her, he said, "Daughter, be of good comfort. Your faith has made you whole." And the woman was made whole from that hour.)
 * `Mth 9:23` And when Jesus came into the ruler's house and *_saw_* the minstrels and the people making a noise,
-* `Mth 9:36` But when he *_saw_* the multitudes, he was moved with compassion for them because they fainted and were scattered abroad as sheep having no shepherd.
+* `Mth 9:36` But when he *_saw_* the multitudes, he was moved with compassion for them because they fainted and were scattered abroad like sheep having no shepherd.
 * `Mth 12:2` But when the Pharisees *_saw_* it, they said to him, "Behold, your disciples do that which is not lawful to do on the sabbath."
 * `Mth 12:22` Then someone was brought to him possessed with a demon, blind and mute, and he healed him so that the blind and mute both spoke and *_saw_*.
 * `Mth 14:14` And Jesus went forth and *_saw_* a great multitude and was moved with compassion toward them, and he healed their sick.
@@ -3723,7 +3723,7 @@ _1010 verses containing SAY_
 * `Mth 8:31` So the demons implored him, *_saying_*, "If you expel us, allow us to go away into the herd of swine."
 * `Mth 9:14` Then the disciples of John came to him, *_saying_*, "Why do we and the Pharisees fast often, but your disciples do not fast?"
 * `Mth 9:18` While he was speaking these things to them, behold, a certain ruler came and worshiped him, *_saying_*, "My daughter is even now dead. But come and lay your hand upon her and she will live."
-* `Mth 9:27` And when Jesus departed from there, two blind men followed him, crying, and *_saying_*, "Son of David, have mercy on us."
+* `Mth 9:27` And when Jesus departed from there, two blind men followed him, crying and *_saying_*, "Son of David, have mercy on us."
 * `Mth 9:29` Then he touched their eyes, *_saying_*, "According to your faith, it shall be done to you."
 * `Mth 9:30` Then their eyes were opened, and Jesus strictly charged them, *_saying_*, "See that no man knows it."
 * `Mth 9:33` And when the demon was cast out, the mute spoke. And the multitudes marveled, *_saying_*, "Nothing has ever been seen like this in Israel."
@@ -5674,7 +5674,7 @@ _36 verses containing SCATTER_
 * `Zch 1:21` Then I said, "What are these coming to do?" And he spoke, saying, "These are the horns which have *_scattered_* Judah so that no man lifted up his head, but these have come to terrify them, to cast down the horns of the Gentiles which lifted their horn over the land of Judah to scatter it."
 * `Zch 7:14` "But I *_scattered_* them with a whirlwind among all the nations whom they did not know. Thus the land was desolate after them so that no man passed through nor returned, for they laid the pleasant land desolate."
 * `Zch 13:7` "Awake, O sword, against my shepherd and against the man who is my fellow," says the LORD of hosts. "Smite the shepherd and the sheep shall be *_scattered_*. And I will turn my hand upon the little ones.
-* `Mth 9:36` But when he saw the multitudes, he was moved with compassion for them because they fainted and were *_scattered_* abroad as sheep having no shepherd.
+* `Mth 9:36` But when he saw the multitudes, he was moved with compassion for them because they fainted and were *_scattered_* abroad like sheep having no shepherd.
 * `Mth 25:24` "Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard man, reaping where you have not sown and gathering where you have not *_scattered_*.
 * `Mth 25:26` "His lord answered and said to him, 'You wicked and slothful servant, you knew that I reap where I have not sown and gather where I have not *_scattered_*.
 * `Mth 26:31` Then Jesus says to them, "All of you shall be offended because of me this night, for it is written, 'I will smite the shepherd, and the sheep of the flock shall be *_scattered_* abroad.'
@@ -6041,7 +6041,7 @@ _1 verse containing SCREECH-OWL_
 * `Jer 37:20` Now therefore, hear, I pray you, O my lord the king. Let my supplication, I pray you, be accepted before you, that you do not cause me to return to the house of Jonathan the *_scribe_*, lest I die there."
 * `Jer 52:25` He also took a eunuch out of the city who had the charge of the men of war, seven men of those who were near the king's person who were found in the city, the principal *_scribe_* of the host who mustered the people of the land, and sixty men of the people of the land who were found in the midst of the city.
 * `Mth 8:19` And a certain *_scribe_* came and said to him, "Master, I will follow you wherever you go."
-* `Mth 13:52` Then he said to them, "Therefore, every *_scribe_* who is instructed to the kingdom of heaven, is like a man who is a householder, who brings forth out of his treasure things new and old."
+* `Mth 13:52` Then he said to them, "Therefore, every *_scribe_* who has been made a disciple in the kingdom of heaven is like a man who is a householder who brings forth out of his treasure things new and old."
 * `Mrk 12:32` And the *_scribe_* said to him, "Right, Master, you have said the truth, for there 'is one God,' 'and there is no other but he.'
 * `1Co 1:20` Where is the wise? Where is the *_scribe_*? Where is the disputer of this world? Has God not made the wisdom of this world foolish?
 
