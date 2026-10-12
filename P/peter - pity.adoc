@@ -12,12 +12,12 @@
 * `Mth 16:16` And Simon *_Peter_* answered and said, "You are the Christ, the Son of the living God."
 * `Mth 16:18` And I also say to you, that you are *_Peter_*, and upon this rock I will build my church, and the gates of hell shall not prevail against it.
 * `Mth 16:22` Then *_Peter_* took him and began to rebuke him, saying, "Far be it from you, Lord. This shall not be done to you."
-* `Mth 16:23` But he turned, and said to *_Peter_*, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
+* `Mth 16:23` But he turned and said to *_Peter_*, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
 * `Mth 17:1` And after six days, Jesus takes *_Peter_*, James, and John his brother, and brings them upon a high mountain separately.
-* `Mth 17:4` Then *_Peter_* answered, and said to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
-* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money came to *_Peter_*, and said, "Does your Master not pay tribute?"
+* `Mth 17:4` Then *_Peter_* answered and said to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
+* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money came to *_Peter_* and said, "Does your Master not pay tribute?"
 * `Mth 17:26` *_Peter_* says to him, "From strangers." Jesus says to him, "Then the children are free.
-* `Mth 18:21` Then *_Peter_* came to him, and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
+* `Mth 18:21` Then *_Peter_* came to him and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
 * `Mth 19:27` Then *_Peter_* answered, and said to him, "Behold, we have forsaken all and followed you. What therefore shall we have?"
 * `Mth 26:33` *_Peter_* answered and said to him, "Though all men shall be offended because of you, yet I will never be offended."
 * `Mth 26:35` *_Peter_* said to him, "Though I should die with you, yet I will not deny you." All the disciples also said likewise.
@@ -576,7 +576,7 @@ _12 verses containing PHARISEE_
 * `Mth 12:24` But when the *_Pharisees_* heard it, they said, "This man does not cast out demons, but by Beelzebub the prince of the demons."
 * `Mth 12:38` Then some of the scribes and *_Pharisees_* answered, saying, "Master, we wish to see a sign from you."
 * `Mth 15:1` Then scribes and *_Pharisees_* who were from Jerusalem came to Jesus, saying,
-* `Mth 15:12` Then his disciples came, and said to him, "Do you know that the *_Pharisees_* were offended after they heard this saying?"
+* `Mth 15:12` Then his disciples came and said to him, "Do you know that the *_Pharisees_* were offended after they heard this saying?"
 * `Mth 16:1` The *_Pharisees_* and the Sadducees came, and tempting him, desired him that he would show them a sign from heaven.
 * `Mth 16:6` Then Jesus said to them, "Take heed and beware of the leaven of the *_Pharisees_* and of the Sadducees."
 * `Mth 16:11` How is it that you do not understand that I did not speak to you concerning bread, but that you should beware of the leaven of the *_Pharisees_* and of the Sadducees?"

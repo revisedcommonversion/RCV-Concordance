@@ -889,9 +889,9 @@ _183 verses containing CALL_
 * `Mth 10:2` Now the names of the twelve apostles are these: The first, Simon, who is *_called_* Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
 * `Mth 10:25` It is enough for the disciple that he should be like his teacher, and the servant like his lord. If they have *_called_* the master of the house Beelzebub, how much more those of his household?
 * `Mth 13:55` Is this not the carpenter's son? Is his mother not *_called_* Mary, and his brothers, James, Joseph, Simon, and Judas?
-* `Mth 15:10` And he *_called_* the multitude, and said to them, "Hear, and understand.
-* `Mth 15:32` Then Jesus *_called_* his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
-* `Mth 18:2` And Jesus *_called_* a little child to him and set him in the midst of them,
+* `Mth 15:10` And he *_called_* the multitude and said to them, "Hear and understand.
+* `Mth 15:32` Then Jesus *_called_* his disciples to him and said, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
+* `Mth 18:2` And Jesus *_called_* a little child to him and set him in the midst of them
 * `Mth 18:32` Then his lord, having *_called_* him, said to him, 'O you wicked servant, I forgave you of all that debt because you desired me.
 * `Mth 20:16` So the last shall be first, and the first last. For many are *_called_*, but few chosen."
 * `Mth 20:25` But Jesus *_called_* them to him, and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
@@ -2714,22 +2714,22 @@ _25 verses containing CALVES_
 * `Mth 14:33` Then those who were in the boat *_came_* and worshiped him, saying, "In truth you are the son of God."
 * `Mth 14:34` And when they had gone over, they *_came_* into the land of Gennesaret.
 * `Mth 15:1` Then scribes and Pharisees who were from Jerusalem *_came_* to Jesus, saying,
-* `Mth 15:12` Then his disciples *_came_*, and said to him, "Do you know that the Pharisees were offended after they heard this saying?"
+* `Mth 15:12` Then his disciples *_came_* and said to him, "Do you know that the Pharisees were offended after they heard this saying?"
 * `Mth 15:22` And behold, a woman of Canaan *_came_* out of the same territories and cried to him, saying, "Have mercy on me, O Lord, son of David. My daughter is grievously afflicted with a demon."
 * `Mth 15:23` But he did not answer her a word. And his disciples *_came_* and implored him, saying, "Send her away, for she cries after us."
 * `Mth 15:25` Then she *_came_* and worshiped him, saying, "Lord, help me."
 * `Mth 15:29` And Jesus departed from there, *_came_* near to the sea of Galilee, and ascended a mountain and sat down there.
 * `Mth 15:30` And great multitudes *_came_* to him, having with them those who were lame, blind, mute, maimed, and many others, and cast them down at Jesus' feet, and he healed them.
-* `Mth 15:39` And he sent the multitude away, and took a boat and *_came_* into the borders of Magdala.
+* `Mth 15:39` And he sent the multitude away and took a boat and *_came_* into the borders of Magdala.
 * `Mth 16:1` The Pharisees and the Sadducees *_came_*, and tempting him, desired him that he would show them a sign from heaven.
 * `Mth 16:13` When Jesus *_came_* into the borders of Cesarea Phillippi, he asked his disciples, saying, "Who do men say that I, the Son of man, am?"
-* `Mth 17:7` And Jesus *_came_* and touched them, and said, "Arise, and do not be afraid."
-* `Mth 17:14` And when they had come to the multitude, there *_came_* to him a certain man kneeling down to him, and saying,
-* `Mth 17:19` Then the disciples *_came_* to Jesus separately, and said, "Why could we not cast him out?"
-* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money *_came_* to Peter, and said, "Does your Master not pay tribute?"
+* `Mth 17:7` And Jesus *_came_* and touched them and said, "Arise, and do not be afraid."
+* `Mth 17:14` And when they had come to the multitude, there *_came_* to him a certain man kneeling down to him and saying,
+* `Mth 17:19` Then the disciples *_came_* to Jesus separately and said, "Why could we not cast him out?"
+* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money *_came_* to Peter and said, "Does your Master not pay tribute?"
 * `Mth 18:1` At the same time, the disciples *_came_* to Jesus, saying, "Who is the greatest in the kingdom of heaven?"
-* `Mth 18:21` Then Peter *_came_* to him, and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
-* `Mth 18:31` So when his fellow-servants saw what was done, they were very sorry and *_came_* and told to their lord all that was done.
+* `Mth 18:21` Then Peter *_came_* to him and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
+* `Mth 18:31` So when his fellow-servants saw what was done, they were very sorry and *_came_* and told their lord all that was done.
 * `Mth 19:1` And it *_came_* to pass, that when Jesus had finished these sayings, he departed from Galilee and *_came_* into the borders of Judea, beyond the Jordan.
 * `Mth 19:3` The Pharisees also *_came_* to him, tempting him, and saying to him, "Is it lawful for a man to put away his wife for any cause?"
 * `Mth 19:16` And behold, someone *_came_* and said to him, "Good Master, what good thing shall I do so that I may have eternal life?"
@@ -4110,7 +4110,7 @@ _180 verses containing CANNOT_
 * `Mth 4:13` And leaving Nazareth, he came and dwelt in *_Capernaum_*, which is upon the sea coast in the borders of Zebulun and Naphtali,
 * `Mth 8:5` And when Jesus had entered into *_Capernaum_*, a centurion came to him, imploring him
 * `Mth 11:23` And you, *_Capernaum_*, which are exalted to heaven, shall be brought down to hell. For if the mighty works which have been done in you had been done in Sodom, it would have remained until this day.
-* `Mth 17:24` And when they had come to *_Capernaum_*, those who received tribute-money came to Peter, and said, "Does your Master not pay tribute?"
+* `Mth 17:24` And when they had come to *_Capernaum_*, those who received tribute-money came to Peter and said, "Does your Master not pay tribute?"
 * `Mrk 1:21` And they went into *_Capernaum_*, and immediately on the sabbath he entered into the synagogue and taught.
 * `Mrk 2:1` And again he entered into *_Capernaum_* after some days, and it was understood that he was in the house.
 * `Mrk 9:33` And he came to *_Capernaum_*. And being in the house, he asked them, "What was it that you disputed among yourselves on the way?"

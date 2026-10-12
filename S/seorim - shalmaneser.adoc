@@ -93,7 +93,7 @@ _38 verses containing SEPARATED_
 * `Zch 12:12` And the land shall mourn, every family *_separately_*: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
 * `Mth 14:23` And when he had sent the multitudes away, he ascended a mountain *_separately_* to pray. And when the evening had come, he was there alone.
 * `Mth 17:1` And after six days, Jesus takes Peter, James, and John his brother, and brings them upon a high mountain *_separately_*.
-* `Mth 17:19` Then the disciples came to Jesus *_separately_*, and said, "Why could we not cast him out?"
+* `Mth 17:19` Then the disciples came to Jesus *_separately_* and said, "Why could we not cast him out?"
 * `Mth 20:17` And Jesus, going up to Jerusalem, took the twelve disciples *_separately_* in the way, and said to them,
 * `Mrk 6:31` And he said to them, "Come *_separately_* into a desolate place and rest a while." For there were many coming and going and they did not even have opportunity to eat.
 * `Mrk 9:2` And after six days, Jesus takes with him Peter, James, and John, and leads them up upon a high mountain *_separately_* by themselves. And he was transfigured before them,
@@ -1338,7 +1338,7 @@ _547 verses containing SERVANT_
 * `Mth 14:2` And he said to his *_servants_*, "This is John the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
 * `Mth 18:23` "Therefore, the kingdom of heaven is compared to a certain king who wanted to take account of his *_servants_*.
 * `Mth 18:28` But the same servant went out, found one of his fellow-*_servants_* who owed him one hundred denarii, laid hands on him, and took him by the throat, saying, 'Pay me what you owe.'
-* `Mth 18:31` So when his fellow-*_servants_* saw what was done, they were very sorry and came and told to their lord all that was done.
+* `Mth 18:31` So when his fellow-*_servants_* saw what was done, they were very sorry and came and told their lord all that was done.
 * `Mth 21:34` And when the time of the fruit drew near, he sent his *_servants_* to the farmers so that they might receive its fruits.
 * `Mth 21:35` And the farmers took his *_servants_* and beat one, killed another, and stoned another.
 * `Mth 21:36` Again he sent other *_servants_*, more in number than the first, and they did to them in like manner.
@@ -2431,7 +2431,7 @@ _2 verses containing SERVITUDE_
 * `Zch 6:11` "And you shall take silver and gold and make crowns and *_set_* them upon the head of Joshua the son of Josedech, the high priest.
 * `Mth 5:14` "You are the light of the world. A city that is *_set_* on a hill cannot be hid.
 * `Mth 10:35` For I have come to '*_set_* a man at variance against his father, the daughter against her mother, and the daughter-in-law against her mother-in-law.'
-* `Mth 18:2` And Jesus called a little child to him and *_set_* him in the midst of them,
+* `Mth 18:2` And Jesus called a little child to him and *_set_* him in the midst of them
 * `Mth 21:7` And brought the donkey and the colt and put their clothes on them, and they *_set_* him thereon.
 * `Mth 25:33` And he will *_set_* the sheep on his right hand, but the goats on the left.
 * `Mth 27:37` And they *_set_* up over his head his accusation written, "THIS IS JESUS THE KING OF THE JEWS."
@@ -2949,7 +2949,7 @@ _1 verse containing SETTLES_
 * `Mth 15:36` And he took the *_seven_* loaves and the fish, gave thanks, broke them, and gave to his disciples, and the disciples to the multitude.
 * `Mth 15:37` And they all ate and were filled. And they took up *_seven_* baskets full of the fragments that were left.
 * `Mth 16:10` Neither the *_seven_* loaves for the four thousand, and how many baskets you took up?
-* `Mth 18:21` Then Peter came to him, and said, "Lord, how often shall my brother sin against me and I forgive him? Until *_seven_* times?"
+* `Mth 18:21` Then Peter came to him and said, "Lord, how often shall my brother sin against me and I forgive him? Until *_seven_* times?"
 * `Mth 18:22` Jesus says to him, "I do not say to you until *_seven_* times, but until seventy times *_seven_*.
 * `Mth 22:25` Now there were with us *_seven_* brothers. The first, when he had married a wife, died, and having no children, left his wife to his brother;
 * `Mth 22:28` Therefore, in the resurrection, whose wife shall she be of the *_seven_*? For they all had her."

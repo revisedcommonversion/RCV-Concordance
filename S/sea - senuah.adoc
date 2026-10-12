@@ -2337,7 +2337,7 @@ _19 verses containing SEEKING_
 * `Ezk 34:12` As a shepherd *_seeks_* out his flock in the day that he is among his sheep that are scattered, so I will seek out my sheep and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 * `Mth 7:8` For everyone who asks, receives, and he who *_seeks_*, finds, and to him who knocks, the door shall be opened.
 * `Mth 12:39` But he answered and said to them, "An evil and adulterous generation *_seeks_* for a sign, and there shall no sign be given to it except the sign of the prophet Jonah.
-* `Mth 16:4` A wicked and adulterous generation *_seeks_* for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah." And he left them and departed.
+* `Mth 16:4` A wicked and adulterous generation *_seeks_* for a sign, and no sign shall be given to it except the sign of the prophet Jonah." And he left them and departed.
 * `Luk 11:10` For everyone who asks, receives, and he who *_seeks_*, finds, and to him who knocks, the door shall be opened.
 * `Luk 17:33` Whoever *_seeks_* to save his life shall lose it, and whoever loses his life shall preserve it.
 * `Jhn 4:23` But the hour comes, and is now, when the true worshipers shall worship the Father in spirit and in truth, for the Father *_seeks_* such to worship him.
@@ -3306,7 +3306,7 @@ _1 verse containing SENATE_
 * `Mth 13:41` The Son of man shall *_send_* forth his angels, and they shall gather out of his kingdom all things that offend and those who do iniquity
 * `Mth 14:15` And when it was evening, his disciples came to him, saying, "This is a desolate place and the time is now past. *_Send_* the multitude away so that they may go into the villages and buy themselves food."
 * `Mth 15:23` But he did not answer her a word. And his disciples came and implored him, saying, "*_Send_* her away, for she cries after us."
-* `Mth 15:32` Then Jesus called his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not *_send_* them away fasting, lest they faint in the way."
+* `Mth 15:32` Then Jesus called his disciples to him and said, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not *_send_* them away fasting, lest they faint in the way."
 * `Mth 21:3` And if any man says anything to you, you shall say, 'The Lord has need of them,' and immediately he will *_send_* them."
 * `Mth 23:34` "Therefore, behold, I *_send_* to you prophets, wise men, and scribes. Some of them you will kill and crucify, and some of them you will scourge in your synagogues and persecute them from city to city,
 * `Mth 24:31` And he will *_send_* his angels with a great sound of a trumpet, and they will gather his elect from the four winds, 'from one end of heaven to the other.'
@@ -3953,7 +3953,7 @@ _2 verses containing SENSUAL_
 * `Mth 14:23` And when he had *_sent_* the multitudes away, he ascended a mountain separately to pray. And when the evening had come, he was there alone.
 * `Mth 14:35` And when the men of that place had knowledge of him, they *_sent_* out into all the surrounding country and brought to him all who were diseased
 * `Mth 15:24` But he answered and said, "I was not *_sent_* except to the lost sheep of the house of Israel."
-* `Mth 15:39` And he *_sent_* the multitude away, and took a boat and came into the borders of Magdala.
+* `Mth 15:39` And he *_sent_* the multitude away and took a boat and came into the borders of Magdala.
 * `Mth 20:2` And when he had agreed with the laborers for a denarius a day, he *_sent_* them into his vineyard.
 * `Mth 21:1` And when they drew near to Jerusalem and had come to Bethphage, to the Mount of Olives, Jesus *_sent_* two disciples,
 * `Mth 21:34` And when the time of the fruit drew near, he *_sent_* his servants to the farmers so that they might receive its fruits.

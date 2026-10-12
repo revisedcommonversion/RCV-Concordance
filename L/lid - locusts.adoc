@@ -2267,6 +2267,7 @@ _1 verse containing LIGN-ALOES_
 * `Mth 13:45` "Again, the kingdom of heaven is *_like_* a merchant seeking fine pearls,
 * `Mth 13:47` "Again, the kingdom of heaven is *_like_* a net that was cast into the sea and gathered some of every kind,
 * `Mth 13:52` Then he said to them, "Therefore, every scribe who has been made a disciple in the kingdom of heaven is *_like_* a man who is a householder who brings forth out of his treasure things new and old."
+* `Mth 18:4` Whoever therefore humbles himself *_like_* this little child, the same is greatest in the kingdom of heaven.
 * `Mth 20:1` "For the kingdom of heaven is *_like_* a man who is a householder, who went out early in the morning to hire laborers into his vineyard.
 * `Mth 21:36` Again he sent other servants, more in number than the first, and they did to them in *_like_* manner.
 * `Mth 22:2` "The kingdom of heaven is *_like_* a certain king who made a marriage for his son,
@@ -2372,7 +2373,7 @@ _1 verse containing LIGN-ALOES_
 * `Rev 21:18` And the building of its wall was of jasper. And the city was pure gold, *_like_* clear glass.
 * `Rev 21:21` And the twelve gates were twelve pearls. Every single gate was made of one pearl. And the street of the city was pure gold, *_like_* transparent glass.
 
-_1002 verses containing LIKE_
+_1003 verses containing LIKE_
 
 == LIKE-MINDED
 
@@ -3541,9 +3542,9 @@ _1 verse containing LITTERS_
 * `Mth 14:31` And immediately Jesus stretched forth his hand, caught him, and said to him, "O you of *_little_* faith, why did you doubt?"
 * `Mth 15:34` And Jesus says to them, "How many loaves do you have?" And they said, "Seven, and a few *_little_* fish."
 * `Mth 16:8` When Jesus perceived this, he said to them, "O you of *_little_* faith, why do you discuss among yourselves that you have brought no bread?
-* `Mth 18:2` And Jesus called a *_little_* child to him and set him in the midst of them,
+* `Mth 18:2` And Jesus called a *_little_* child to him and set him in the midst of them
 * `Mth 18:3` And said, "Truly I say to you, unless you are converted and become as *_little_* children, you shall not enter into the kingdom of heaven.
-* `Mth 18:4` Whoever therefore humbles himself as this *_little_* child, the same is greatest in the kingdom of heaven.
+* `Mth 18:4` Whoever therefore humbles himself like this *_little_* child, the same is greatest in the kingdom of heaven.
 * `Mth 18:5` And whoever receives one such *_little_* child in my name, receives me.
 * `Mth 18:6` But whoever causes one of these *_little_* ones who believe in me to sin, it would be better for him that a millstone were hanged around his neck and that he were drowned in the depth of the sea.
 * `Mth 18:10` "Take heed that you do not despise one of these *_little_* ones. For I say to you, that in heaven their angels always behold the face of my Father who is in heaven.

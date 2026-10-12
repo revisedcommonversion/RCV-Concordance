@@ -1356,8 +1356,8 @@ _1 verse containing TRIBUTARY_
 * `Est 10:1` And king Ahasuerus laid a *_tribute_* upon the land and upon the islands of the sea.
 * `Psa 89:22` The enemy shall not exact *_tribute_* from him, nor the son of wickedness afflict him.
 * `Pro 12:24` The hand of the diligent shall bear rule, but the slothful shall be under *_tribute_*.
-* `Mth 17:24` And when they had come to Capernaum, those who received *_tribute_*-money came to Peter, and said, "Does your Master not pay *_tribute_*?"
-* `Mth 17:25` He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, Simon? From whom do the kings of the earth take custom or *_tribute_*? From their own children, or from strangers?"
+* `Mth 17:24` And when they had come to Capernaum, those who received *_tribute_*-money came to Peter and said, "Does your Master not pay *_tribute_*?"
+* `Mth 17:25` He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, Simon? From whom do the kings of the earth take custom or *_tribute_*? From their own children or from strangers?"
 * `Mth 22:17` Tell us therefore, what do you think? Is it lawful to give *_tribute_* to Caesar, or not?"
 * `Mth 22:19` Show me the *_tribute_*-money." And they brought a denarius to him.
 * `Mrk 12:14` And when they had come, they say to him, "Master, we know that you are true and care for no man, for you do not regard the person of men, but teach the way of God in truth. Is it lawful to give *_tribute_* to Caesar, or not?
@@ -1370,7 +1370,7 @@ _39 verses containing TRIBUTE_
 
 == TRIBUTE-MONEY
 
-* `Mth 17:24` And when they had come to Capernaum, those who received *_tribute-money_* came to Peter, and said, "Does your Master not pay tribute?"
+* `Mth 17:24` And when they had come to Capernaum, those who received *_tribute-money_* came to Peter and said, "Does your Master not pay tribute?"
 * `Mth 22:19` Show me the *_tribute-money_*." And they brought a denarius to him.
 
 _2 verses containing TRIBUTE-MONEY_

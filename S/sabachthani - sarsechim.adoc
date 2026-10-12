@@ -3526,16 +3526,16 @@ _1 verse containing SAFFRON_
 * `Mth 14:29` And he *_said_*, "Come." And when Peter had come down out of the boat, he walked on the water to go to Jesus.
 * `Mth 14:31` And immediately Jesus stretched forth his hand, caught him, and *_said_* to him, "O you of little faith, why did you doubt?"
 * `Mth 15:3` But he answered and *_said_* to them, "Why do you also transgress the commandment of God by your tradition?
-* `Mth 15:10` And he called the multitude, and *_said_* to them, "Hear, and understand.
-* `Mth 15:12` Then his disciples came, and *_said_* to him, "Do you know that the Pharisees were offended after they heard this saying?"
+* `Mth 15:10` And he called the multitude and *_said_* to them, "Hear and understand.
+* `Mth 15:12` Then his disciples came and *_said_* to him, "Do you know that the Pharisees were offended after they heard this saying?"
 * `Mth 15:13` But he answered and *_said_*, "Every plant which my heavenly Father has not planted shall be uprooted.
 * `Mth 15:15` Then Peter answered and *_said_* to him, "Declare to us this parable."
-* `Mth 15:16` And Jesus *_said_*, "Are you also yet without understanding?
+* `Mth 15:16` And Jesus *_said_*, "Are you also still without understanding?
 * `Mth 15:24` But he answered and *_said_*, "I was not sent except to the lost sheep of the house of Israel."
 * `Mth 15:26` But he answered and *_said_*, "It is not proper to take the children's bread and to cast it to dogs."
 * `Mth 15:27` And she *_said_*, "Truth, Lord, yet the dogs eat of the crumbs which fall from their master's table."
 * `Mth 15:28` Then Jesus answered and *_said_* to her, "O woman, your faith is great. It shall be to you even as you wish." And her daughter was healed from that very hour.
-* `Mth 15:32` Then Jesus called his disciples to him, and *_said_*, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
+* `Mth 15:32` Then Jesus called his disciples to him and *_said_*, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
 * `Mth 15:34` And Jesus says to them, "How many loaves do you have?" And they *_said_*, "Seven, and a few little fish."
 * `Mth 16:2` He answered and *_said_* to them, "When it is evening, you say, 'It will be fair weather, for the sky is red,'
 * `Mth 16:6` Then Jesus *_said_* to them, "Take heed and beware of the leaven of the Pharisees and of the Sadducees."
@@ -3543,19 +3543,19 @@ _1 verse containing SAFFRON_
 * `Mth 16:14` And they *_said_*, "Some say that you are John the Baptist, some Elijah, and others Jeremiah or one of the prophets."
 * `Mth 16:16` And Simon Peter answered and *_said_*, "You are the Christ, the Son of the living God."
 * `Mth 16:17` And Jesus answered and *_said_* to him, "Blessed are you, Simon Barjonah, for flesh and blood has not revealed it to you, but my Father who is in heaven.
-* `Mth 16:23` But he turned, and *_said_* to Peter, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
+* `Mth 16:23` But he turned and *_said_* to Peter, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
 * `Mth 16:24` Then Jesus *_said_* to his disciples, "If any man will come after me, let him deny himself, take up his cross, and follow me.
-* `Mth 17:4` Then Peter answered, and *_said_* to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
-* `Mth 17:5` While he was yet speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which *_said_*, "This is my beloved Son, in whom I am well pleased. Hear him."
-* `Mth 17:7` And Jesus came and touched them, and *_said_*, "Arise, and do not be afraid."
+* `Mth 17:4` Then Peter answered and *_said_* to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
+* `Mth 17:5` While he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which *_said_*, "This is my beloved Son, in whom I am well pleased. Hear him."
+* `Mth 17:7` And Jesus came and touched them and *_said_*, "Arise, and do not be afraid."
 * `Mth 17:11` And Jesus answered and *_said_* to them, "Elijah truly will come first and restore all things.
 * `Mth 17:17` Then Jesus answered and *_said_*, "O faithless and perverse generation, how long shall I be with you? How long shall I bear with you? Bring him here to me."
-* `Mth 17:19` Then the disciples came to Jesus separately, and *_said_*, "Why could we not cast him out?"
+* `Mth 17:19` Then the disciples came to Jesus separately and *_said_*, "Why could we not cast him out?"
 * `Mth 17:20` And Jesus *_said_* to them, "Because of your unbelief. For truly I say to you, if you have faith as a grain of mustard-seed, you shall say to this mountain, 'Move from here to yonder place,' and it shall move. And nothing shall be impossible to you.
 * `Mth 17:22` And while they stayed in Galilee, Jesus *_said_* to them, "The Son of man will be betrayed into the hands of men,
-* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money came to Peter, and *_said_*, "Does your Master not pay tribute?"
+* `Mth 17:24` And when they had come to Capernaum, those who received tribute-money came to Peter and *_said_*, "Does your Master not pay tribute?"
 * `Mth 18:3` And *_said_*, "Truly I say to you, unless you are converted and become as little children, you shall not enter into the kingdom of heaven.
-* `Mth 18:21` Then Peter came to him, and *_said_*, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
+* `Mth 18:21` Then Peter came to him and *_said_*, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
 * `Mth 18:32` Then his lord, having called him, *_said_* to him, 'O you wicked servant, I forgave you of all that debt because you desired me.
 * `Mth 19:4` And he answered and *_said_* to them, "Have you not read, that he who made them from the beginning 'made them male and female,'
 * `Mth 19:5` And *_said_*, 'For this cause a man shall leave father and mother and shall cleave to his wife, and the two of them shall be one flesh'?
@@ -5514,7 +5514,7 @@ _7 verses containing SAMARITANS_
 * `Mth 13:20` But he who received the seed upon stony places, the *_same_* is he who hears the word and immediately with joy receives it,
 * `Mth 15:22` And behold, a woman of Canaan came out of the *_same_* territories and cried to him, saying, "Have mercy on me, O Lord, son of David. My daughter is grievously afflicted with a demon."
 * `Mth 18:1` At the *_same_* time, the disciples came to Jesus, saying, "Who is the greatest in the kingdom of heaven?"
-* `Mth 18:4` Whoever therefore humbles himself as this little child, the *_same_* is greatest in the kingdom of heaven.
+* `Mth 18:4` Whoever therefore humbles himself like this little child, the *_same_* is greatest in the kingdom of heaven.
 * `Mth 18:28` But the *_same_* servant went out, found one of his fellow-servants who owed him one hundred denarii, laid hands on him, and took him by the throat, saying, 'Pay me what you owe.'
 * `Mth 21:42` Jesus says to them, "Did you never read in the Scriptures, 'The stone which the builders rejected, the *_same_* has become the head of the corner. This is the Lord's doing and it is marvelous in our eyes'?
 * `Mth 22:23` The *_same_* day the Sadducees came to him, who say that there is no resurrection, and asked him,
