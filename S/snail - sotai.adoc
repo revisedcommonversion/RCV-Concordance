@@ -576,7 +576,7 @@ _1 verse containing SOLACE_
 * `Mth 10:29` Are two sparrows not *_sold_* for an assarion? And not one of them shall fall on the ground without your Father.
 * `Mth 13:46` Who, when he had found one pearl of great price, went and *_sold_* all that he had and bought it.
 * `Mth 18:25` But because he did not have ability to pay, his lord commanded him to be *_sold_*, along with his wife, children, and all that he had, and payment to be made.
-* `Mth 21:12` And Jesus went into the temple of God and cast out all those who *_sold_* and bought in the temple, and overthrew the tables of the money-changers and the seats of those who *_sold_* doves,
+* `Mth 21:12` And Jesus went into the temple of God and cast out all those who *_sold_* and bought in the temple. He overthrew the tables of the money-changers and the seats of those who *_sold_* doves.
 * `Mth 26:9` For this ointment might have been *_sold_* for much and given to the poor."
 * `Mrk 11:15` And they came to Jerusalem. And Jesus went into the temple and began to cast out those who *_sold_* and bought in the temple, and overthrew the tables of the money-changers and the seats of those who *_sold_* doves,
 * `Mrk 14:5` For it might have been *_sold_* for more than three hundred denarii and given to the poor." And they murmured against her.
@@ -3125,13 +3125,13 @@ _12 verses containing SOMEWHAT_
 * `Mth 17:22` And while they stayed in Galilee, Jesus said to them, "The *_Son_* of man will be betrayed into the hands of men,
 * `Mth 18:11` For the *_Son_* of man has come to save that which was lost.
 * `Mth 19:28` And Jesus said to them, "Truly I say to you, that you who have followed me, in the regeneration when the *_Son_* of man sits on the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
-* `Mth 20:18` "Behold, we go up to Jerusalem, and the *_Son_* of man will be betrayed to the chief priests and to the scribes, and they will condemn him to death,
+* `Mth 20:18` "Behold, we go up to Jerusalem, and the *_Son_* of man will be betrayed to the chief priests and to the scribes, and they will condemn him to death
 * `Mth 20:28` Even as the *_Son_* of man did not come to be ministered to, but to minister and to give his life a ransom for many."
 * `Mth 20:30` And behold, two blind men sitting by the wayside, when they heard that Jesus passed by, they cried out, saying, "Have mercy on us, O Lord, *_son_* of David."
 * `Mth 20:31` And the multitude rebuked them that they should hold their peace, but they cried the more, saying, "Have mercy on us, O Lord, *_son_* of David."
 * `Mth 21:9` And the multitudes, who went before and who followed, cried, saying, "Hosanna to the *_son_* of David. 'Blessed is he who comes in the name of the Lord.' Hosanna in the highest."
-* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the temple, and saying, "Hosanna to the *_son_* of David," they were greatly displeased,
-* `Mth 21:28` "But what do you think? A certain man had two sons. And he came to the first, and said, '*_Son_*, go, work today in my vineyard.'
+* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the temple and saying, "Hosanna to the *_son_* of David," they were greatly displeased
+* `Mth 21:28` "But what do you think? A certain man had two sons. And he came to the first and said, '*_Son_*, go, work today in my vineyard.'
 * `Mth 21:37` But last of all he sent to them his *_son_*, saying, 'They will reverence my *_son_*.'
 * `Mth 21:38` But when the farmers saw the *_son_*, they said among themselves, 'This is the heir. Come, let us kill him and let us seize his inheritance.'
 * `Mth 22:2` "The kingdom of heaven is like a certain king who made a marriage for his *_son_*,
@@ -4477,7 +4477,7 @@ _20 verses containing SONGS_
 * `Mal 3:6` "For I am the LORD and I do not change; therefore, you *_sons_* of Jacob are not consumed.
 * `Mth 20:20` Then the mother of Zebedee's children came to him with her *_sons_*, worshiping him and desiring a certain thing of him.
 * `Mth 20:21` And he said to her, "What do you wish?" She says to him, "Grant that these two *_sons_* of mine may sit, one on your right hand and the other on your left, in your kingdom."
-* `Mth 21:28` "But what do you think? A certain man had two *_sons_*. And he came to the first, and said, 'Son, go, work today in my vineyard.'
+* `Mth 21:28` "But what do you think? A certain man had two *_sons_*. And he came to the first and said, 'Son, go, work today in my vineyard.'
 * `Mth 26:37` And he took with him Peter and the two *_sons_* of Zebedee and began to be sorrowful and very heavy.
 * `Mrk 3:17` James the son of Zebedee and John the brother of James (he surnamed them Boanerges, which is, *_Sons_* of Thunder),
 * `Mrk 3:28` "Truly I say to you, the *_sons_* of men shall be forgiven of all sins and any blasphemies with which they shall blaspheme.

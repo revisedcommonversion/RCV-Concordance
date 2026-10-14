@@ -39,7 +39,7 @@ _7 verses containing FOES_
 * `Hab 3:17` Though the fig-tree does not blossom and no fruit is on the vines, though the labor of the olive fails and the fields yield no food, though the flock is cut off from the *_fold_* and there is no herd in the stalls,
 * `Mth 13:8` But others fell upon good ground and brought forth fruit, some one hundred-*_fold_*, some sixty-*_fold_*, some thirty-*_fold_*.
 * `Mth 13:23` But he who receives seed into the good ground is he who hears the word and understands it, who also bears fruit and brings forth, some one hundred-*_fold_*, some sixty, some thirty."
-* `Mth 19:29` And everyone who has forsaken houses, brothers, sisters, father, mother, wife, children, or lands for my name's sake, shall receive one hundred-*_fold_* and shall inherit everlasting life.
+* `Mth 19:29` And everyone who has forsaken houses, brothers, sisters, father, mother, wife, children, or lands for my name's sake shall receive one hundred-*_fold_* and shall inherit everlasting life.
 * `Mth 23:15` "Woe to you, scribes and Pharisees! Hypocrites! For you compass sea and land to make one proselyte, and when he is made, you make him two-*_fold_* more the child of hell than yourselves.
 * `Mrk 4:8` And others fell on good ground and yielded fruit that sprang up, increased, and brought forth, some thirty-, some sixty-, and some one hundred-*_fold_*."
 * `Mrk 4:20` And these are those who are sown on good ground: those who hear the word, receive it, and bring forth fruit, some thirty-, some sixty-, and some one hundred-*_fold_*."
@@ -228,10 +228,10 @@ _87 verses containing FOLLOW_
 * `Mth 12:15` But when Jesus knew it, he withdrew himself from there. And great multitudes *_followed_* him, and he healed them all.
 * `Mth 14:13` When Jesus heard of it, he departed from there in a boat to a desolate place by himself. And when the people had heard of it, they *_followed_* him on foot out of the cities.
 * `Mth 19:2` And great multitudes *_followed_* him, and he healed them there.
-* `Mth 19:27` Then Peter answered, and said to him, "Behold, we have forsaken all and *_followed_* you. What therefore shall we have?"
+* `Mth 19:27` Then Peter answered and said to him, "Behold, we have forsaken all and *_followed_* you. What therefore shall we have?"
 * `Mth 19:28` And Jesus said to them, "Truly I say to you, that you who have *_followed_* me, in the regeneration when the Son of man sits on the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
 * `Mth 20:29` And as they departed from Jericho, a great multitude *_followed_* him.
-* `Mth 20:34` So Jesus had compassion on them and touched their eyes. And immediately their eyes received sight and they *_followed_* him.
+* `Mth 20:34` So Jesus had compassion on them and touched their eyes. And immediately their eyes received sight, and they *_followed_* him.
 * `Mth 21:9` And the multitudes, who went before and who *_followed_*, cried, saying, "Hosanna to the son of David. 'Blessed is he who comes in the name of the Lord.' Hosanna in the highest."
 * `Mth 26:58` But Peter *_followed_* him at a distance to the high priest's palace, went in, and sat with the servants to see the end.
 * `Mth 27:55` And many women were there (beholding at a distance) who *_followed_* Jesus from Galilee, ministering to him,
@@ -2767,8 +2767,8 @@ _63 verses containing FORSAKE_
 * `Ezk 36:4` Therefore, mountains of Israel, hear the word of the Lord GOD. Thus says the Lord GOD to the mountains, to the hills, to the rivers, to the valleys, to the desolate wastes, and to the cities that are *_forsaken_*, which became a prey and derision to the remnant of the heathen who are around—
 * `Amo 5:2` "The virgin of Israel has fallen. She shall no longer rise. She is *_forsaken_* upon her land. There is no one to raise her up."
 * `Zph 2:4` For Gaza shall be *_forsaken_* and Ashkelon a desolation. They shall drive out Ashdod at the noon day and Ekron shall be rooted up.
-* `Mth 19:27` Then Peter answered, and said to him, "Behold, we have *_forsaken_* all and followed you. What therefore shall we have?"
-* `Mth 19:29` And everyone who has *_forsaken_* houses, brothers, sisters, father, mother, wife, children, or lands for my name's sake, shall receive one hundred-fold and shall inherit everlasting life.
+* `Mth 19:27` Then Peter answered and said to him, "Behold, we have *_forsaken_* all and followed you. What therefore shall we have?"
+* `Mth 19:29` And everyone who has *_forsaken_* houses, brothers, sisters, father, mother, wife, children, or lands for my name's sake shall receive one hundred-fold and shall inherit everlasting life.
 * `Mth 27:46` And about the ninth hour Jesus cried with a loud voice, saying, "Eli, Eli, lama sabachthani?" (That is to say, "My God, my God, why have you *_forsaken_* me?")
 * `Mrk 15:34` And at the ninth hour Jesus cried with a loud voice, saying, "Eloi, Eloi, lama sabachthani?" (which is, being interpreted, "My God, my God, why have you *_forsaken_* me?")
 * `2Co 4:9` Persecuted, but not *_forsaken_*; cast down, but not destroyed;

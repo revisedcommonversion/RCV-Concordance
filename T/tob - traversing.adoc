@@ -100,7 +100,7 @@ _1 verse containing TOCHEN_
 * `Zch 9:12` Turn to the stronghold, you prisoners of hope. Even *_today_* I declare that I will render double to you,
 * `Mth 6:30` Therefore, if God likewise clothes the grass of the field, which is here *_today_* and tomorrow is cast into the oven, will he not much more clothe you, O you of little faith?
 * `Mth 16:3` And in the morning, 'It will be foul weather *_today_*, for the sky is red and lowering.' O hypocrites, you can discern the face of the sky, but can you not discern the signs of the times?
-* `Mth 21:28` "But what do you think? A certain man had two sons. And he came to the first, and said, 'Son, go, work *_today_* in my vineyard.'
+* `Mth 21:28` "But what do you think? A certain man had two sons. And he came to the first and said, 'Son, go, work *_today_* in my vineyard.'
 * `Luk 5:26` And they were all amazed, and they glorified God and were filled with fear, saying, "We have seen strange things *_today_*."
 * `Luk 12:28` If then God thus clothes the grass, which is *_today_* in the field and tomorrow is cast into the oven, how much more will he clothe you, O you of little faith?
 * `Luk 13:32` And he said to them, "Go and tell that fox, 'Behold, I cast out demons and I do cures *_today_* and tomorrow, and on the third day I shall be perfected.
@@ -1691,7 +1691,7 @@ _49 verses containing TOO_
 * `Mth 16:10` Neither the seven loaves for the four thousand, and how many baskets you *_took_* up?
 * `Mth 16:22` Then Peter *_took_* him and began to rebuke him, saying, "Far be it from you, Lord. This shall not be done to you."
 * `Mth 18:28` But the same servant went out, found one of his fellow-servants who owed him one hundred denarii, laid hands on him, and *_took_* him by the throat, saying, 'Pay me what you owe.'
-* `Mth 20:17` And Jesus, going up to Jerusalem, *_took_* the twelve disciples separately in the way, and said to them,
+* `Mth 20:17` And Jesus, going up to Jerusalem, *_took_* the twelve disciples separately in the way and said to them,
 * `Mth 21:35` And the farmers *_took_* his servants and beat one, killed another, and stoned another.
 * `Mth 21:46` But when they sought to lay hands on him, they feared the multitude, because they *_took_* him for a prophet.
 * `Mth 22:6` And the remnant *_took_* his servants, treated them spitefully, and slew them.
@@ -2211,7 +2211,7 @@ _41 verses containing TOUCH_
 * `Mth 9:29` Then he *_touched_* their eyes, saying, "According to your faith, it shall be done to you."
 * `Mth 14:36` And implored him that they might only touch the hem of his garment. And as many as *_touched_* it were restored to health.
 * `Mth 17:7` And Jesus came and *_touched_* them and said, "Arise, and do not be afraid."
-* `Mth 20:34` So Jesus had compassion on them and *_touched_* their eyes. And immediately their eyes received sight and they followed him.
+* `Mth 20:34` So Jesus had compassion on them and *_touched_* their eyes. And immediately their eyes received sight, and they followed him.
 * `Mrk 1:41` And Jesus, moved with compassion, put forth his hand and *_touched_* him, and says to him, "I am willing. Be clean."
 * `Mrk 5:27` When she had heard of Jesus, she came in the crowd behind and *_touched_* his garment.
 * `Mrk 5:30` And Jesus, immediately knowing in himself that power had gone out of him, turned himself around in the throng, and said, "Who *_touched_* my clothes?"

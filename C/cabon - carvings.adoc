@@ -894,9 +894,9 @@ _183 verses containing CALL_
 * `Mth 18:2` And Jesus *_called_* a little child to him and set him in the midst of them
 * `Mth 18:32` Then his lord, having *_called_* him, said to him, 'O you wicked servant, I forgave you of all that debt because you desired me.
 * `Mth 20:16` So the last shall be first, and the first last. For many are *_called_*, but few chosen."
-* `Mth 20:25` But Jesus *_called_* them to him, and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
-* `Mth 20:32` And Jesus stood still and *_called_* them, and said, "What do you wish that I shall do to you?"
-* `Mth 21:13` And said to them, "It is written, 'My house shall be *_called_* a house of prayer,' but you have made it 'a den of thieves.'"
+* `Mth 20:25` But Jesus *_called_* them to him and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
+* `Mth 20:32` And Jesus stood still and *_called_* them and said, "What do you wish that I shall do to you?"
+* `Mth 21:13` And he said to them, "It is written, 'My house shall be *_called_* a house of prayer,' but you have made it 'a den of thieves.'"
 * `Mth 22:14` For many are *_called_*, but few are chosen."
 * `Mth 23:7` Greetings in the markets, and to be *_called_* by men, 'Rabbi, Rabbi.'
 * `Mth 23:8` But do not be *_called_* Rabbi, for One is your Teacher, even Christ, and all of you are brothers.
@@ -2730,17 +2730,17 @@ _25 verses containing CALVES_
 * `Mth 18:1` At the same time, the disciples *_came_* to Jesus, saying, "Who is the greatest in the kingdom of heaven?"
 * `Mth 18:21` Then Peter *_came_* to him and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
 * `Mth 18:31` So when his fellow-servants saw what was done, they were very sorry and *_came_* and told their lord all that was done.
-* `Mth 19:1` And it *_came_* to pass, that when Jesus had finished these sayings, he departed from Galilee and *_came_* into the borders of Judea, beyond the Jordan.
-* `Mth 19:3` The Pharisees also *_came_* to him, tempting him, and saying to him, "Is it lawful for a man to put away his wife for any cause?"
+* `Mth 19:1` And it *_came_* to pass when Jesus had finished these sayings, that he departed from Galilee and *_came_* into the borders of Judea, beyond the Jordan.
+* `Mth 19:3` The Pharisees also *_came_* to him, tempting him and saying to him, "Is it lawful for a man to put away his wife for any cause?"
 * `Mth 19:16` And behold, someone *_came_* and said to him, "Good Master, what good thing shall I do so that I may have eternal life?"
 * `Mth 20:9` And when those who were hired about the eleventh hour *_came_*, they each received a denarius.
 * `Mth 20:10` But when the first *_came_*, they supposed that they should receive more, and they likewise each received a denarius.
 * `Mth 20:20` Then the mother of Zebedee's children *_came_* to him with her sons, worshiping him and desiring a certain thing of him.
 * `Mth 21:14` And the blind and the lame *_came_* to him in the temple, and he healed them.
 * `Mth 21:19` And when he saw a fig-tree in the way, he *_came_* to it and found nothing on it, but leaves only, and said to it, "Let no fruit grow on you from now on forever." And immediately the fig-tree withered.
-* `Mth 21:23` And when he had come into the temple, the chief priests and the elders of the people *_came_* to him as he was teaching, and said, "By what authority do you do these things, and who gave you this authority?"
-* `Mth 21:28` "But what do you think? A certain man had two sons. And he *_came_* to the first, and said, 'Son, go, work today in my vineyard.'
-* `Mth 21:30` And he *_came_* to the second, and said likewise. And he answered and said, 'I go, sir,' and did not go.
+* `Mth 21:23` And when he had come into the temple, the chief priests and the elders of the people *_came_* to him as he was teaching and said, "By what authority do you do these things, and who gave you this authority?"
+* `Mth 21:28` "But what do you think? A certain man had two sons. And he *_came_* to the first and said, 'Son, go, work today in my vineyard.'
+* `Mth 21:30` And he *_came_* to the second and said likewise. And he answered and said, 'I go, sir,' and did not go.
 * `Mth 21:32` For John *_came_* to you in the way of righteousness, and you did not believe him, but the tax collectors and the harlots believed him. And you, when you had seen it, did not repent afterward to believe him.
 * `Mth 22:11` "And when the king *_came_* in to see the guests, he saw there a man who did not have a wedding-garment,
 * `Mth 22:23` The same day the Sadducees *_came_* to him, who say that there is no resurrection, and asked him,
@@ -4035,7 +4035,7 @@ _1 verse containing CANNEH_
 * `Mth 6:24` "No man can serve two masters, for either he will hate one and love the other, or else he will hold to one and despise the other. You *_cannot_* serve God and mammon.
 * `Mth 7:18` A good tree *_cannot_* bring forth evil fruit, neither can a corrupt tree bring forth good fruit.
 * `Mth 19:11` But he said to them, "All men *_cannot_* receive this saying, except those to whom it is given.
-* `Mth 21:27` And they answered Jesus, and said, "We *_cannot_* tell." And he said to them, "Neither do I tell you by what authority I do these things.
+* `Mth 21:27` And they answered Jesus and said, "We *_cannot_* tell." And he said to them, "Neither do I tell you by what authority I do these things.
 * `Mth 26:53` Do you think that I *_cannot_* now pray to my Father and he will presently give me more than twelve legions of angels?
 * `Mth 27:42` "He saved others. He *_cannot_* save himself. If he is King of Israel, let him now come down from the cross, and we will believe him.
 * `Mrk 2:19` And Jesus said to them, "Can the friends of the bridegroom fast while the bridegroom is with them? As long as they have the bridegroom with them, they *_cannot_* fast.

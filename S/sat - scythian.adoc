@@ -1502,8 +1502,8 @@ _6 verses containing SAVORY_
 * `Mth 15:31` Therefore, the multitude wondered when they *_saw_* the mute speaking, the maimed whole, the lame walking, and the blind seeing. And they glorified the God of Israel.
 * `Mth 17:8` And when they had lifted up their eyes, they *_saw_* no man, except Jesus only.
 * `Mth 18:31` So when his fellow-servants *_saw_* what was done, they were very sorry and came and told their lord all that was done.
-* `Mth 20:3` And he went out about the third hour and *_saw_* others standing idle in the market-place,
-* `Mth 21:15` And when the chief priests and scribes *_saw_* the wonderful things that he did and the children crying in the temple, and saying, "Hosanna to the son of David," they were greatly displeased,
+* `Mth 20:3` And he went out about the third hour and *_saw_* others standing idle in the market-place
+* `Mth 21:15` And when the chief priests and scribes *_saw_* the wonderful things that he did and the children crying in the temple and saying, "Hosanna to the son of David," they were greatly displeased
 * `Mth 21:19` And when he *_saw_* a fig-tree in the way, he came to it and found nothing on it, but leaves only, and said to it, "Let no fruit grow on you from now on forever." And immediately the fig-tree withered.
 * `Mth 21:20` And when the disciples *_saw_* it, they marveled, saying, "How has the fig-tree withered so soon?"
 * `Mth 21:38` But when the farmers *_saw_* the son, they said among themselves, 'This is the heir. Come, let us kill him and let us seize his inheritance.'
@@ -2389,7 +2389,7 @@ _3 verses containing SAWS_
 * `Mth 21:3` And if any man says anything to you, you shall *_say_*, 'The Lord has need of them,' and immediately he will send them."
 * `Mth 21:16` And said to him, "Do you hear what these *_say_*?" And Jesus says to them, "Yes. Have you never read, 'Out of the mouth of babies and infants you have perfected praise'?"
 * `Mth 21:21` Jesus answered and said to them, "Truly I *_say_* to you, if you have faith and do not doubt, you shall not only do this which is done to the fig-tree, but also, if you *_say_* to this mountain, 'Be removed and cast into the sea,' it shall be done.
-* `Mth 21:25` The baptism of John, where was it from? From heaven, or from men?" And they reasoned with themselves, saying, "If we *_say_*, 'From heaven,' he will *_say_* to us, 'Why then did you not believe him?'
+* `Mth 21:25` The baptism of John, where was it from? From heaven or from men?" And they reasoned with themselves, saying, "If we *_say_*, 'From heaven,' he will *_say_* to us, 'Why then did you not believe him?'
 * `Mth 21:26` But if we *_say_*, 'From men,' we fear the people, for all hold John as a prophet."
 * `Mth 21:31` Which of the two did the will of his father?" They *_say_* to him, "The first." Jesus says to them, "Truly I *_say_* to you, that the tax collectors and the harlots go into the kingdom of God before you.
 * `Mth 21:41` They *_say_* to him, "He will miserably destroy those wicked men and will lease out his vineyard to other farmers, who will render him the fruits in their seasons."
@@ -3761,7 +3761,7 @@ _1010 verses containing SAY_
 * `Mth 18:26` The servant therefore fell down and worshiped him, *_saying_*, 'Lord, have patience with me and I will pay you everything.'
 * `Mth 18:28` But the same servant went out, found one of his fellow-servants who owed him one hundred denarii, laid hands on him, and took him by the throat, *_saying_*, 'Pay me what you owe.'
 * `Mth 18:29` And his fellow-servant fell down at his feet and implored him, *_saying_*, 'Have patience with me and I will pay you everything.'
-* `Mth 19:3` The Pharisees also came to him, tempting him, and *_saying_* to him, "Is it lawful for a man to put away his wife for any cause?"
+* `Mth 19:3` The Pharisees also came to him, tempting him and *_saying_* to him, "Is it lawful for a man to put away his wife for any cause?"
 * `Mth 19:11` But he said to them, "All men cannot receive this *_saying_*, except those to whom it is given.
 * `Mth 19:22` But when the young man heard that *_saying_*, he went away sorrowful, for he had great possessions.
 * `Mth 19:25` When his disciples heard it, they were exceedingly amazed, *_saying_*, "Who then can be saved?"
@@ -3772,9 +3772,9 @@ _1010 verses containing SAY_
 * `Mth 21:4` All this was done so that it might be fulfilled which was spoken by the prophet, *_saying_*,
 * `Mth 21:9` And the multitudes, who went before and who followed, cried, *_saying_*, "Hosanna to the son of David. 'Blessed is he who comes in the name of the Lord.' Hosanna in the highest."
 * `Mth 21:10` And when he had come into Jerusalem, all the city was moved, *_saying_*, "Who is this?"
-* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the temple, and *_saying_*, "Hosanna to the son of David," they were greatly displeased,
+* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the temple and *_saying_*, "Hosanna to the son of David," they were greatly displeased
 * `Mth 21:20` And when the disciples saw it, they marveled, *_saying_*, "How has the fig-tree withered so soon?"
-* `Mth 21:25` The baptism of John, where was it from? From heaven, or from men?" And they reasoned with themselves, *_saying_*, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
+* `Mth 21:25` The baptism of John, where was it from? From heaven or from men?" And they reasoned with themselves, *_saying_*, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
 * `Mth 21:37` But last of all he sent to them his son, *_saying_*, 'They will reverence my son.'
 * `Mth 22:4` Again, he sent other servants, *_saying_*, 'Tell those who are invited, "Behold, I have prepared my dinner. My oxen and my fattened calves are killed and all things are ready. Come to the marriage."'
 * `Mth 22:16` And they sent their disciples out to him along with the Herodians, *_saying_*, "Master, we know that you are true and teach the way of God in truth, neither do you care for any man, for you do not regard the person of men.
@@ -4170,7 +4170,7 @@ _1415 verses containing SAYING_
 * `Mth 7:24` "Therefore, whoever hears these *_sayings_* of mine and does them, I will compare him to a wise man who built his house upon a rock.
 * `Mth 7:26` And everyone who hears these *_sayings_* of mine and does not do them shall be compared to a foolish man who built his house upon the sand.
 * `Mth 7:28` And it came to pass when Jesus had ended these *_sayings_*, that the people were astonished at his doctrine,
-* `Mth 19:1` And it came to pass, that when Jesus had finished these *_sayings_*, he departed from Galilee and came into the borders of Judea, beyond the Jordan.
+* `Mth 19:1` And it came to pass when Jesus had finished these *_sayings_*, that he departed from Galilee and came into the borders of Judea, beyond the Jordan.
 * `Mth 26:1` And it came to pass, when Jesus had finished all these *_sayings_*, he said to his disciples,
 * `Luk 1:65` And fear came on all who dwelt around them, and all these *_sayings_* were noised abroad throughout all the hill-country of Judea.
 * `Luk 2:51` And he went down with them and came to Nazareth, and was subject to them. But his mother kept all these *_sayings_* in her heart.
@@ -5137,8 +5137,8 @@ _31 verses containing SAYINGS_
 * `Mth 18:22` Jesus *_says_* to him, "I do not say to you until seven times, but until seventy times seven.
 * `Mth 19:8` He *_says_* to them, "Moses, because of the hardness of your hearts, allowed you to put away your wives, but from the beginning it was not so.
 * `Mth 19:18` He *_says_* to him, "Which?" Jesus said, "'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,'
-* `Mth 19:20` The young man *_says_* to him, "All these things I have kept from my youth. What do I yet lack?"
-* `Mth 20:6` And about the eleventh hour he went out and found others standing idle, and *_says_* to them, 'Why do you stand here all day idle?'
+* `Mth 19:20` The young man *_says_* to him, "All these things I have kept from my youth. What do I still lack?"
+* `Mth 20:6` And about the eleventh hour he went out and found others standing idle and *_says_* to them, 'Why do you stand here all day idle?'
 * `Mth 20:7` They say to him, 'Because no man has hired us.' He *_says_* to them, 'You also go into the vineyard, and whatever is right, that you shall receive.'
 * `Mth 20:8` "So when evening had come, the lord of the vineyard *_says_* to his steward, 'Call the laborers and give them their hire, beginning from the last to the first.'
 * `Mth 20:21` And he said to her, "What do you wish?" She *_says_* to him, "Grant that these two sons of mine may sit, one on your right hand and the other on your left, in your kingdom."
@@ -6063,8 +6063,8 @@ _53 verses containing SCRIBE_
 * `Mth 15:1` Then *_scribes_* and Pharisees who were from Jerusalem came to Jesus, saying,
 * `Mth 16:21` From that time forth, Jesus began to tell his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and *_scribes_*, be killed, and be raised again the third day.
 * `Mth 17:10` And his disciples asked him, saying, "Why then do the *_scribes_* say that Elijah must come first?"
-* `Mth 20:18` "Behold, we go up to Jerusalem, and the Son of man will be betrayed to the chief priests and to the *_scribes_*, and they will condemn him to death,
-* `Mth 21:15` And when the chief priests and *_scribes_* saw the wonderful things that he did and the children crying in the temple, and saying, "Hosanna to the son of David," they were greatly displeased,
+* `Mth 20:18` "Behold, we go up to Jerusalem, and the Son of man will be betrayed to the chief priests and to the *_scribes_*, and they will condemn him to death
+* `Mth 21:15` And when the chief priests and *_scribes_* saw the wonderful things that he did and the children crying in the temple and saying, "Hosanna to the son of David," they were greatly displeased
 * `Mth 23:2` Saying, "The *_scribes_* and the Pharisees sit in Moses's seat.
 * `Mth 23:13` "But woe to you, *_scribes_* and Pharisees! Hypocrites! For you shut up the kingdom of heaven against men. For you neither go in yourselves, neither do you allow those who are entering to go in.
 * `Mth 23:14` Woe to you, *_scribes_* and Pharisees! Hypocrites! For you devour widows' houses and for a pretense make long prayer; therefore, you shall receive the greater condemnation.

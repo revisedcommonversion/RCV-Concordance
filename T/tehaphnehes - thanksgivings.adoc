@@ -253,9 +253,9 @@ _2 verses containing TELEM_
 * `Mth 17:9` And as they were descending the mountain, Jesus charged them, saying, "*_Tell_* the vision to no man until the Son of man is raised again from the dead."
 * `Mth 18:15` "Moreover, if your brother trespasses against you, go and *_tell_* him his fault between you and him alone. If he hears you, you have gained your brother.
 * `Mth 18:17` And if he neglects to hear them, *_tell_* it to the church. But if he neglects to hear the church, let him be to you as a heathen and a tax collector.
-* `Mth 21:5` "*_Tell_* the daughter of Zion, 'Behold, your King comes to you, meek, and sitting upon a donkey, even a colt, the foal of a donkey.'"
+* `Mth 21:5` "*_Tell_* the daughter of Zion, 'Behold, your King comes to you, meek and sitting upon a donkey, even a colt, the foal of a donkey.'"
 * `Mth 21:24` And Jesus answered and said to them, "I also will ask you one thing, which if you *_tell_* me, I also will *_tell_* you by what authority I do these things.
-* `Mth 21:27` And they answered Jesus, and said, "We cannot *_tell_*." And he said to them, "Neither do I *_tell_* you by what authority I do these things.
+* `Mth 21:27` And they answered Jesus and said, "We cannot *_tell_*." And he said to them, "Neither do I *_tell_* you by what authority I do these things.
 * `Mth 22:4` Again, he sent other servants, saying, '*_Tell_* those who are invited, "Behold, I have prepared my dinner. My oxen and my fattened calves are killed and all things are ready. Come to the marriage."'
 * `Mth 22:17` *_Tell_* us therefore, what do you think? Is it lawful to give tribute to Caesar, or not?"
 * `Mth 24:3` And as he sat upon the Mount of Olives, the disciples came to him privately, saying, "*_Tell_* us, when will these things be? And what will be the sign of your coming and of the end of the age?"
@@ -553,10 +553,10 @@ _4 verses containing TEMPESTUOUS_
 * `Mth 4:5` Then the devil takes him up into the holy city, sets him on a pinnacle of the *_temple_*,
 * `Mth 12:5` Or have you not read in the law, that on the sabbath the priests in the *_temple_* profane the sabbath and are blameless?
 * `Mth 12:6` But I say to you, that in this place is one greater than the *_temple_*.
-* `Mth 21:12` And Jesus went into the *_temple_* of God and cast out all those who sold and bought in the *_temple_*, and overthrew the tables of the money-changers and the seats of those who sold doves,
+* `Mth 21:12` And Jesus went into the *_temple_* of God and cast out all those who sold and bought in the *_temple_*. He overthrew the tables of the money-changers and the seats of those who sold doves.
 * `Mth 21:14` And the blind and the lame came to him in the *_temple_*, and he healed them.
-* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the *_temple_*, and saying, "Hosanna to the son of David," they were greatly displeased,
-* `Mth 21:23` And when he had come into the *_temple_*, the chief priests and the elders of the people came to him as he was teaching, and said, "By what authority do you do these things, and who gave you this authority?"
+* `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the *_temple_* and saying, "Hosanna to the son of David," they were greatly displeased
+* `Mth 21:23` And when he had come into the *_temple_*, the chief priests and the elders of the people came to him as he was teaching and said, "By what authority do you do these things, and who gave you this authority?"
 * `Mth 23:16` "Woe to you, you blind guides who say, 'Whoever swears by the *_temple_*, it is nothing, but whoever swears by the gold of the *_temple_*, he is a debtor.'
 * `Mth 23:17` You fools and blind men. For which is greater, the gold, or the *_temple_* that sanctifies the gold?
 * `Mth 23:21` And whoever swears by the *_temple_*, swears by it and by him who dwells in it.
@@ -740,7 +740,7 @@ _2 verses containing TEMPTER_
 == TEMPTING
 
 * `Mth 16:1` The Pharisees and the Sadducees came, and *_tempting_* him, desired him that he would show them a sign from heaven.
-* `Mth 19:3` The Pharisees also came to him, *_tempting_* him, and saying to him, "Is it lawful for a man to put away his wife for any cause?"
+* `Mth 19:3` The Pharisees also came to him, *_tempting_* him and saying to him, "Is it lawful for a man to put away his wife for any cause?"
 * `Mth 22:35` Then one of them who was a lawyer, asked him a question, *_tempting_* him, and saying,
 
 _3 verses containing TEMPTING_

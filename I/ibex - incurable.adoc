@@ -111,8 +111,8 @@ _13 verses containing IDDO_
 * `Pro 19:15` Slothfulness casts into a deep sleep, and an *_idle_* soul shall suffer hunger.
 * `Zch 11:17` "Woe to the *_idle_* shepherd who leaves the flock! The sword shall be upon his arm and upon his right eye. His arm shall be wholly dried up, and his right eye shall be utterly darkened."
 * `Mth 12:36` But I say to you, that for every *_idle_* word that men speak, they shall give account on the day of judgment.
-* `Mth 20:3` And he went out about the third hour and saw others standing *_idle_* in the market-place,
-* `Mth 20:6` And about the eleventh hour he went out and found others standing *_idle_*, and says to them, 'Why do you stand here all day *_idle_*?'
+* `Mth 20:3` And he went out about the third hour and saw others standing *_idle_* in the market-place
+* `Mth 20:6` And about the eleventh hour he went out and found others standing *_idle_* and says to them, 'Why do you stand here all day *_idle_*?'
 * `Luk 24:11` Their words seemed to them as *_idle_* tales, and they did not believe them.
 * `1Ti 5:13` And at the same time, they learn to be *_idle_*, wandering around from house to house, and not only *_idle_*, but tattlers also, and busy-bodies, speaking things which they ought not.
 * `Tit 1:12` One of their own, even a prophet of their own, said, "The Cretians are always liars, evil beasts, *_idle_* gluttons."
@@ -704,7 +704,7 @@ _3 verses containing IMMANUEL_
 * `Mth 14:22` And *_immediately_* Jesus constrained his disciples to get into a boat and to go before him to the other side while he sent the multitudes away.
 * `Mth 14:27` But *_immediately_* Jesus spoke to them, saying, "Be of good cheer. It is I. Do not be afraid."
 * `Mth 14:31` And *_immediately_* Jesus stretched forth his hand, caught him, and said to him, "O you of little faith, why did you doubt?"
-* `Mth 20:34` So Jesus had compassion on them and touched their eyes. And *_immediately_* their eyes received sight and they followed him.
+* `Mth 20:34` So Jesus had compassion on them and touched their eyes. And *_immediately_* their eyes received sight, and they followed him.
 * `Mth 21:2` Saying to them, "Go into the village over against you, and *_immediately_* you shall find a donkey tied and a colt with her. Untie them and bring them to me.
 * `Mth 21:3` And if any man says anything to you, you shall say, 'The Lord has need of them,' and *_immediately_* he will send them."
 * `Mth 21:19` And when he saw a fig-tree in the way, he came to it and found nothing on it, but leaves only, and said to it, "Let no fruit grow on you from now on forever." And *_immediately_* the fig-tree withered.
@@ -1092,7 +1092,7 @@ _1 verse containing IMPOSITION_
 == IMPOSSIBLE
 
 * `Mth 17:20` And Jesus said to them, "Because of your unbelief. For truly I say to you, if you have faith as a grain of mustard-seed, you shall say to this mountain, 'Move from here to yonder place,' and it shall move. And nothing shall be *_impossible_* to you.
-* `Mth 19:26` But Jesus beheld them, and said to them, "With men this is *_impossible_*, but with God all things are possible."
+* `Mth 19:26` But Jesus beheld them and said to them, "With men this is *_impossible_*, but with God all things are possible."
 * `Mrk 10:27` And Jesus looking upon them, says, "With men it is *_impossible_*, but not with God. For with God all things are possible."
 * `Luk 1:37` For with God nothing will be *_impossible_*."
 * `Luk 17:1` Then he said to the disciples, "It is *_impossible_* for the causes of sin to not come. But woe to him by whom they come!

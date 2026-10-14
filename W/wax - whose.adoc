@@ -526,7 +526,7 @@ _3 verses containing WAXED_
 * `Mth 11:10` "For this is he concerning whom it is written, 'Behold, I send my messenger before your face who shall prepare your *_way_* before you.'
 * `Mth 13:54` And when he had come into his own country, he taught them in their synagogue in such a *_way_* that they were astonished and said, "From where does this man get this wisdom and these mighty works?
 * `Mth 15:32` Then Jesus called his disciples to him and said, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not send them away fasting, lest they faint in the *_way_*."
-* `Mth 20:17` And Jesus, going up to Jerusalem, took the twelve disciples separately in the *_way_*, and said to them,
+* `Mth 20:17` And Jesus, going up to Jerusalem, took the twelve disciples separately in the *_way_* and said to them,
 * `Mth 21:8` And a very great multitude spread their garments in the *_way_*. Others cut down branches from the trees and spread them in the *_way_*.
 * `Mth 21:19` And when he saw a fig-tree in the *_way_*, he came to it and found nothing on it, but leaves only, and said to it, "Let no fruit grow on you from now on forever." And immediately the fig-tree withered.
 * `Mth 21:32` For John came to you in the *_way_* of righteousness, and you did not believe him, but the tax collectors and the harlots believed him. And you, when you had seen it, did not repent afterward to believe him.
@@ -2810,12 +2810,12 @@ _1 verse containing WEN_
 * `Mth 18:30` And he would not, but *_went_* and cast him into prison until he should pay the debt.
 * `Mth 19:22` But when the young man heard that saying, he *_went_* away sorrowful, for he had great possessions.
 * `Mth 20:1` "For the kingdom of heaven is like a man who is a householder, who *_went_* out early in the morning to hire laborers into his vineyard.
-* `Mth 20:3` And he *_went_* out about the third hour and saw others standing idle in the market-place,
+* `Mth 20:3` And he *_went_* out about the third hour and saw others standing idle in the market-place
 * `Mth 20:5` Again he *_went_* out about the sixth and ninth hour and did likewise.
-* `Mth 20:6` And about the eleventh hour he *_went_* out and found others standing idle, and says to them, 'Why do you stand here all day idle?'
-* `Mth 21:6` And the disciples *_went_* and did as Jesus commanded them,
+* `Mth 20:6` And about the eleventh hour he *_went_* out and found others standing idle and says to them, 'Why do you stand here all day idle?'
+* `Mth 21:6` And the disciples *_went_* and did as Jesus commanded them.
 * `Mth 21:9` And the multitudes, who *_went_* before and who followed, cried, saying, "Hosanna to the son of David. 'Blessed is he who comes in the name of the Lord.' Hosanna in the highest."
-* `Mth 21:12` And Jesus *_went_* into the temple of God and cast out all those who sold and bought in the temple, and overthrew the tables of the money-changers and the seats of those who sold doves,
+* `Mth 21:12` And Jesus *_went_* into the temple of God and cast out all those who sold and bought in the temple. He overthrew the tables of the money-changers and the seats of those who sold doves.
 * `Mth 21:17` And he left them and *_went_* out of the city into Bethany and lodged there.
 * `Mth 21:29` He answered and said, 'I will not.' But afterward, he repented and *_went_*.
 * `Mth 21:33` "Hear another parable. There was a certain householder who planted a vineyard, hedged it around, dug a wine-press in it, built a tower, and lent it out to farmers and *_went_* into a remote country.
@@ -3955,7 +3955,7 @@ _5 verses containing WHENEVER_
 * `Mth 13:56` And his sisters, are they not all with us? Then from *_where_* does this man get all these things?"
 * `Mth 15:33` And his disciples say to him, "*_Where_* should we get so much bread in the wilderness as to satisfy so great a multitude?"
 * `Mth 18:20` For *_where_* two or three are assembled in my name, there I am in the midst of them."
-* `Mth 21:25` The baptism of John, *_where_* was it from? From heaven, or from men?" And they reasoned with themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
+* `Mth 21:25` The baptism of John, *_where_* was it from? From heaven or from men?" And they reasoned with themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
 * `Mth 25:24` "Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard man, reaping *_where_* you have not sown and gathering *_where_* you have not scattered.
 * `Mth 25:26` "His lord answered and said to him, 'You wicked and slothful servant, you knew that I reap *_where_* I have not sown and gather *_where_* I have not scattered.
 * `Mth 26:17` Now on the first day of the feast of unleavened bread, the disciples came to Jesus, saying to him, "*_Where_* do you wish that we prepare for you to eat the passover?"

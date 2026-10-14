@@ -400,7 +400,7 @@ _22 verses containing JORAM_
 * `Mth 3:13` Then Jesus comes from Galilee to John at the *_Jordan_*, to be baptized by him.
 * `Mth 4:15` "The land of Zebulun and the land of Naphtali, toward the sea, beyond the *_Jordan_*, Galilee of the Gentiles—
 * `Mth 4:25` And great multitudes of people followed him from Galilee, from Decapolis, from Jerusalem, from Judea, and from beyond the *_Jordan_*.
-* `Mth 19:1` And it came to pass, that when Jesus had finished these sayings, he departed from Galilee and came into the borders of Judea, beyond the *_Jordan_*.
+* `Mth 19:1` And it came to pass when Jesus had finished these sayings, that he departed from Galilee and came into the borders of Judea, beyond the *_Jordan_*.
 * `Mrk 1:5` And all the land of Judea and those of Jerusalem went out there to him and were all baptized by him in the *_Jordan_* River, confessing their sins.
 * `Mrk 1:9` And it came to pass in those days, that Jesus came from Nazareth to Galilee and was baptized by John in the *_Jordan_*.
 * `Mrk 3:8` From Jerusalem, from Idumea, from beyond the *_Jordan_*, and those around Tyre and Sidon. A great multitude came to him when they had heard what great things he did.
@@ -2279,7 +2279,7 @@ _1 verse containing JUDE_
 * `Mth 3:1` In those days John the Baptist came, preaching in the wilderness of *_Judea_*
 * `Mth 3:5` Then Jerusalem, all *_Judea_*, and all the region around the Jordan went out to him
 * `Mth 4:25` And great multitudes of people followed him from Galilee, from Decapolis, from Jerusalem, from *_Judea_*, and from beyond the Jordan.
-* `Mth 19:1` And it came to pass, that when Jesus had finished these sayings, he departed from Galilee and came into the borders of *_Judea_*, beyond the Jordan.
+* `Mth 19:1` And it came to pass when Jesus had finished these sayings, that he departed from Galilee and came into the borders of *_Judea_*, beyond the Jordan.
 * `Mth 24:16` Let those who are in *_Judea_* flee to the mountains.
 * `Mrk 1:5` And all the land of *_Judea_* and those of Jerusalem went out there to him and were all baptized by him in the Jordan River, confessing their sins.
 * `Mrk 3:7` But Jesus withdrew himself with his disciples to the sea. And a great multitude from Galilee followed him, and from *_Judea_*,

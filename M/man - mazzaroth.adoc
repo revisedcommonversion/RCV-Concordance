@@ -1606,21 +1606,21 @@
 * `Mth 18:7` "Woe to the world because of offenses! For it is necessary that offenses come. But woe to that *_man_* by whom the offense comes!
 * `Mth 18:11` For the Son of *_man_* has come to save that which was lost.
 * `Mth 18:12` "What do you think? If a *_man_* has one hundred sheep, and one of them has gone astray, does he not leave the ninety-nine, go to the mountains, and seek that which has gone astray?
-* `Mth 19:3` The Pharisees also came to him, tempting him, and saying to him, "Is it lawful for a *_man_* to put away his wife for any cause?"
+* `Mth 19:3` The Pharisees also came to him, tempting him and saying to him, "Is it lawful for a *_man_* to put away his wife for any cause?"
 * `Mth 19:5` And said, 'For this cause a *_man_* shall leave father and mother and shall cleave to his wife, and the two of them shall be one flesh'?
 * `Mth 19:6` Therefore, they are no longer two, but one flesh. Therefore, what God has joined together, do not let *_man_* tear apart."
 * `Mth 19:10` His disciples say to him, "If that is the case of the *_man_* with his wife, it is not good to marry."
-* `Mth 19:20` The young *_man_* says to him, "All these things I have kept from my youth. What do I yet lack?"
+* `Mth 19:20` The young *_man_* says to him, "All these things I have kept from my youth. What do I still lack?"
 * `Mth 19:22` But when the young *_man_* heard that saying, he went away sorrowful, for he had great possessions.
 * `Mth 19:23` Then Jesus said to his disciples, "Truly I say to you, that a rich *_man_* shall enter into the kingdom of heaven with difficulty.
 * `Mth 19:24` And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich *_man_* to enter into the kingdom of God."
 * `Mth 19:28` And Jesus said to them, "Truly I say to you, that you who have followed me, in the regeneration when the Son of *_man_* sits on the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
 * `Mth 20:1` "For the kingdom of heaven is like a *_man_* who is a householder, who went out early in the morning to hire laborers into his vineyard.
 * `Mth 20:7` They say to him, 'Because no *_man_* has hired us.' He says to them, 'You also go into the vineyard, and whatever is right, that you shall receive.'
-* `Mth 20:18` "Behold, we go up to Jerusalem, and the Son of *_man_* will be betrayed to the chief priests and to the scribes, and they will condemn him to death,
+* `Mth 20:18` "Behold, we go up to Jerusalem, and the Son of *_man_* will be betrayed to the chief priests and to the scribes, and they will condemn him to death
 * `Mth 20:28` Even as the Son of *_man_* did not come to be ministered to, but to minister and to give his life a ransom for many."
 * `Mth 21:3` And if any *_man_* says anything to you, you shall say, 'The Lord has need of them,' and immediately he will send them."
-* `Mth 21:28` "But what do you think? A certain *_man_* had two sons. And he came to the first, and said, 'Son, go, work today in my vineyard.'
+* `Mth 21:28` "But what do you think? A certain *_man_* had two sons. And he came to the first and said, 'Son, go, work today in my vineyard.'
 * `Mth 22:11` "And when the king came in to see the guests, he saw there a *_man_* who did not have a wedding-garment,
 * `Mth 22:16` And they sent their disciples out to him along with the Herodians, saying, "Master, we know that you are true and teach the way of God in truth, neither do you care for any *_man_*, for you do not regard the person of men.
 * `Mth 22:24` Saying, "Master, Moses said, 'If a *_man_* dies, having no children, his brother shall marry his wife and raise up children for his brother.'
@@ -3712,7 +3712,7 @@ _5 verses containing MARKED_
 * `Ezk 27:17` Judah, and the land of Israel, they were your merchants. They traded in your *_market_* in wheat of Minnith, Pannag, honey, oil, and balm.
 * `Ezk 27:19` Dan and also Javan going to and fro occupied in your fairs. Bright iron, cassia, and calamus were in your *_market_*.
 * `Ezk 27:25` "The ships of Tarshish sang of you in your *_market_*. And you were replenished and made very glorious in the midst of the seas.
-* `Mth 20:3` And he went out about the third hour and saw others standing idle in the *_market_*-place,
+* `Mth 20:3` And he went out about the third hour and saw others standing idle in the *_market_*-place
 * `Mrk 7:4` And when they come from the *_market_*, they do not eat unless they wash. And there are many other things which they have received to hold, as the washing of cups, pots, brazen vessels, and tables.
 * `Mrk 12:38` And he said to them in his doctrine, "Beware of the scribes who love to go in long clothing, love salutations in the *_market_*-places,
 * `Luk 7:32` They are like children sitting in the *_market_*-place and calling to one another, and saying, 'We have piped to you and you have not danced. We have mourned to you and you have not wept.'
@@ -3725,7 +3725,7 @@ _13 verses containing MARKET_
 
 == MARKET-PLACE
 
-* `Mth 20:3` And he went out about the third hour and saw others standing idle in the *_market-place_*,
+* `Mth 20:3` And he went out about the third hour and saw others standing idle in the *_market-place_*
 * `Luk 7:32` They are like children sitting in the *_market-place_* and calling to one another, and saying, 'We have piped to you and you have not danced. We have mourned to you and you have not wept.'
 * `Act 16:19` And when her masters saw that the hope of their gains was gone, they caught Paul and Silas and drew them into the *_market-place_* to the rulers,
 

@@ -297,27 +297,27 @@ _1 verse containing JESURUN_
 * `Mth 18:1` At the same time, the disciples came to *_Jesus_*, saying, "Who is the greatest in the kingdom of heaven?"
 * `Mth 18:2` And *_Jesus_* called a little child to him and set him in the midst of them
 * `Mth 18:22` *_Jesus_* says to him, "I do not say to you until seven times, but until seventy times seven.
-* `Mth 19:1` And it came to pass, that when *_Jesus_* had finished these sayings, he departed from Galilee and came into the borders of Judea, beyond the Jordan.
+* `Mth 19:1` And it came to pass when *_Jesus_* had finished these sayings, that he departed from Galilee and came into the borders of Judea, beyond the Jordan.
 * `Mth 19:14` But *_Jesus_* said, "Allow little children, and do not forbid them to come to me, for of such is the kingdom of heaven."
 * `Mth 19:18` He says to him, "Which?" *_Jesus_* said, "'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,'
 * `Mth 19:21` *_Jesus_* said to him, "If you wish to be perfect, go and sell what you have, give to the poor, and you shall have treasure in heaven. Then come and follow me."
 * `Mth 19:23` Then *_Jesus_* said to his disciples, "Truly I say to you, that a rich man shall enter into the kingdom of heaven with difficulty.
-* `Mth 19:26` But *_Jesus_* beheld them, and said to them, "With men this is impossible, but with God all things are possible."
+* `Mth 19:26` But *_Jesus_* beheld them and said to them, "With men this is impossible, but with God all things are possible."
 * `Mth 19:28` And *_Jesus_* said to them, "Truly I say to you, that you who have followed me, in the regeneration when the Son of man sits on the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
-* `Mth 20:17` And *_Jesus_*, going up to Jerusalem, took the twelve disciples separately in the way, and said to them,
+* `Mth 20:17` And *_Jesus_*, going up to Jerusalem, took the twelve disciples separately in the way and said to them,
 * `Mth 20:22` But *_Jesus_* answered and said, "You do not know what you ask. Are you able to drink of the cup that I shall drink of and to be baptized with the baptism that I am baptized with?" They say to him, "We are able."
-* `Mth 20:25` But *_Jesus_* called them to him, and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
+* `Mth 20:25` But *_Jesus_* called them to him and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
 * `Mth 20:30` And behold, two blind men sitting by the wayside, when they heard that *_Jesus_* passed by, they cried out, saying, "Have mercy on us, O Lord, son of David."
-* `Mth 20:32` And *_Jesus_* stood still and called them, and said, "What do you wish that I shall do to you?"
-* `Mth 20:34` So *_Jesus_* had compassion on them and touched their eyes. And immediately their eyes received sight and they followed him.
+* `Mth 20:32` And *_Jesus_* stood still and called them and said, "What do you wish that I shall do to you?"
+* `Mth 20:34` So *_Jesus_* had compassion on them and touched their eyes. And immediately their eyes received sight, and they followed him.
 * `Mth 21:1` And when they drew near to Jerusalem and had come to Bethphage, to the Mount of Olives, *_Jesus_* sent two disciples,
-* `Mth 21:6` And the disciples went and did as *_Jesus_* commanded them,
+* `Mth 21:6` And the disciples went and did as *_Jesus_* commanded them.
 * `Mth 21:11` And the multitude said, "This is *_Jesus_* the prophet of Nazareth of Galilee."
-* `Mth 21:12` And *_Jesus_* went into the temple of God and cast out all those who sold and bought in the temple, and overthrew the tables of the money-changers and the seats of those who sold doves,
+* `Mth 21:12` And *_Jesus_* went into the temple of God and cast out all those who sold and bought in the temple. He overthrew the tables of the money-changers and the seats of those who sold doves.
 * `Mth 21:16` And said to him, "Do you hear what these say?" And *_Jesus_* says to them, "Yes. Have you never read, 'Out of the mouth of babies and infants you have perfected praise'?"
 * `Mth 21:21` *_Jesus_* answered and said to them, "Truly I say to you, if you have faith and do not doubt, you shall not only do this which is done to the fig-tree, but also, if you say to this mountain, 'Be removed and cast into the sea,' it shall be done.
 * `Mth 21:24` And *_Jesus_* answered and said to them, "I also will ask you one thing, which if you tell me, I also will tell you by what authority I do these things.
-* `Mth 21:27` And they answered *_Jesus_*, and said, "We cannot tell." And he said to them, "Neither do I tell you by what authority I do these things.
+* `Mth 21:27` And they answered *_Jesus_* and said, "We cannot tell." And he said to them, "Neither do I tell you by what authority I do these things.
 * `Mth 21:31` Which of the two did the will of his father?" They say to him, "The first." *_Jesus_* says to them, "Truly I say to you, that the tax collectors and the harlots go into the kingdom of God before you.
 * `Mth 21:42` *_Jesus_* says to them, "Did you never read in the Scriptures, 'The stone which the builders rejected, the same has become the head of the corner. This is the Lord's doing and it is marvelous in our eyes'?
 * `Mth 22:1` And *_Jesus_* answered and spoke to them again by parables, and said,
@@ -3164,7 +3164,7 @@ _27 verses containing JOHANAN_
 * `Mth 16:14` And they said, "Some say that you are *_John_* the Baptist, some Elijah, and others Jeremiah or one of the prophets."
 * `Mth 17:1` And after six days, Jesus takes Peter, James, and *_John_* his brother, and brings them upon a high mountain separately.
 * `Mth 17:13` Then the disciples understood that he spoke to them concerning *_John_* the Baptist.
-* `Mth 21:25` The baptism of *_John_*, where was it from? From heaven, or from men?" And they reasoned with themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
+* `Mth 21:25` The baptism of *_John_*, where was it from? From heaven or from men?" And they reasoned with themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
 * `Mth 21:26` But if we say, 'From men,' we fear the people, for all hold *_John_* as a prophet."
 * `Mth 21:32` For *_John_* came to you in the way of righteousness, and you did not believe him, but the tax collectors and the harlots believed him. And you, when you had seen it, did not repent afterward to believe him.
 * `Mrk 1:4` *_John_* was baptizing in the wilderness and preaching the baptism of repentance for the remission of sins.

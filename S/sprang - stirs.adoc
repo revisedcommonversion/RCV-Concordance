@@ -821,7 +821,7 @@ _2 verses containing STAMMERING_
 * `Mth 12:25` And Jesus knew their thoughts and said to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not *_stand_*.
 * `Mth 12:26` And if Satan casts out Satan, he is divided against himself. How then shall his kingdom *_stand_*?
 * `Mth 12:47` Then someone said to him, "Behold, your mother and your brothers *_stand_* outside desiring to speak with you."
-* `Mth 20:6` And about the eleventh hour he went out and found others standing idle, and says to them, 'Why do you *_stand_* here all day idle?'
+* `Mth 20:6` And about the eleventh hour he went out and found others standing idle and says to them, 'Why do you *_stand_* here all day idle?'
 * `Mth 24:15` "Therefore, when you see 'the abomination of desolation' spoken of by Daniel the prophet *_stand_* in the holy place (whoever reads, let him understand),
 * `Mrk 3:3` And he says to the man who had the withered hand, "*_Stand_* forth."
 * `Mrk 3:24` And if a kingdom is divided against itself, that kingdom cannot *_stand_*.
@@ -943,8 +943,8 @@ _3 verses containing STANDARDS_
 * `Zch 6:5` And the angel answered and said to me, "These are the four spirits of the heavens which go forth from *_standing_* before the Lord of all the earth.
 * `Mth 6:5` "And when you pray, you shall not be as the hypocrites are. For they love to pray *_standing_* in the synagogues and on the corners of the streets so that they may be seen by men. Truly, I say to you, they have their reward.
 * `Mth 16:28` "Truly I say to you, there are some *_standing_* here who shall not taste death until they see the Son of man coming in his kingdom."
-* `Mth 20:3` And he went out about the third hour and saw others *_standing_* idle in the market-place,
-* `Mth 20:6` And about the eleventh hour he went out and found others *_standing_* idle, and says to them, 'Why do you stand here all day idle?'
+* `Mth 20:3` And he went out about the third hour and saw others *_standing_* idle in the market-place
+* `Mth 20:6` And about the eleventh hour he went out and found others *_standing_* idle and says to them, 'Why do you stand here all day idle?'
 * `Mrk 3:31` Then his brothers and his mother came there, and *_standing_* outside they sent to him, calling him.
 * `Mrk 13:14` "But when you see 'the abomination of desolation' spoken of by Daniel the prophet *_standing_* where it ought not (let him who reads understand), then let those who are in Judea flee to the mountains.
 * `Luk 1:11` And there appeared to him an angel of the Lord *_standing_* on the right side of the altar of incense.
@@ -2082,7 +2082,8 @@ _1 verse containing STIFFENED_
 * `Zch 13:3` And it shall come to pass, that if anyone *_still_* prophesies, then his father and his mother who begot him shall say to him, 'You shall not live, for you speak lies in the name of the LORD.' And his father and his mother who begot him shall thrust him through when he prophesies.
 * `Mth 15:16` And Jesus said, "Are you also *_still_* without understanding?
 * `Mth 17:5` While he was *_still_* speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which said, "This is my beloved Son, in whom I am well pleased. Hear him."
-* `Mth 20:32` And Jesus stood *_still_* and called them, and said, "What do you wish that I shall do to you?"
+* `Mth 19:20` The young man says to him, "All these things I have kept from my youth. What do I *_still_* lack?"
+* `Mth 20:32` And Jesus stood *_still_* and called them and said, "What do you wish that I shall do to you?"
 * `Mrk 4:39` And he arose, rebuked the wind, and said to the sea, "Peace, be *_still_*," and the wind ceased and there was a great calm.
 * `Mrk 5:35` While he was *_still_* speaking, there came from the ruler of the synagogue's house some who said, "Your daughter is dead. Why do you trouble the Master any further?"
 * `Mrk 8:17` And when Jesus knew it, he says to them, "Why do you discuss that you have no bread? Do you *_still_* not perceive or understand? Is your heart *_still_* hardened?
@@ -2125,7 +2126,7 @@ _1 verse containing STIFFENED_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues *_still_* did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, hear, nor walk.
 * `Rev 22:11` He who is unjust, let him be unjust *_still_*. He who is filthy, let him be filthy *_still_*. He who is righteous, let him be righteous *_still_*. He who is holy, let him be holy *_still_*."
 
-_207 verses containing STILL_
+_208 verses containing STILL_
 
 == STILLED
 

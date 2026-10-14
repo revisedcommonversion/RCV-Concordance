@@ -900,10 +900,10 @@ _1 verse containing AUTHORITIES_
 * `Pro 29:2` When the righteous are in *_authority_*, the people rejoice, but when the wicked bears rule, the people mourn.
 * `Mth 7:29` For he taught them as one having *_authority_* and not as the scribes.
 * `Mth 8:9` For I am a man under *_authority_* and have soldiers under me. And I say to this man, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
-* `Mth 20:25` But Jesus called them to him, and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise *_authority_* upon them.
-* `Mth 21:23` And when he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, "By what *_authority_* do you do these things, and who gave you this *_authority_*?"
+* `Mth 20:25` But Jesus called them to him and said, "You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise *_authority_* upon them.
+* `Mth 21:23` And when he had come into the temple, the chief priests and the elders of the people came to him as he was teaching and said, "By what *_authority_* do you do these things, and who gave you this *_authority_*?"
 * `Mth 21:24` And Jesus answered and said to them, "I also will ask you one thing, which if you tell me, I also will tell you by what *_authority_* I do these things.
-* `Mth 21:27` And they answered Jesus, and said, "We cannot tell." And he said to them, "Neither do I tell you by what *_authority_* I do these things.
+* `Mth 21:27` And they answered Jesus and said, "We cannot tell." And he said to them, "Neither do I tell you by what *_authority_* I do these things.
 * `Mrk 1:22` And they were astonished at his doctrine, for he taught them as one who had *_authority_*, and not as the scribes.
 * `Mrk 1:27` And they were all amazed; therefore, they questioned among themselves, saying, "What thing is this? What new doctrine is this? For with *_authority_* he commands even the unclean spirits, and they obey him."
 * `Mrk 10:42` But Jesus called them, and says to them, "You know that those who are accounted to rule over the Gentiles exercise lordship over them, and their great ones exercise *_authority_* upon them.
@@ -1842,7 +1842,7 @@ _7 verses containing AWARE_
 * `Mth 15:23` But he did not answer her a word. And his disciples came and implored him, saying, "Send her *_away_*, for she cries after us."
 * `Mth 15:32` Then Jesus called his disciples to him and said, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not send them *_away_* fasting, lest they faint in the way."
 * `Mth 15:39` And he sent the multitude *_away_* and took a boat and came into the borders of Magdala.
-* `Mth 19:3` The Pharisees also came to him, tempting him, and saying to him, "Is it lawful for a man to put *_away_* his wife for any cause?"
+* `Mth 19:3` The Pharisees also came to him, tempting him and saying to him, "Is it lawful for a man to put *_away_* his wife for any cause?"
 * `Mth 19:7` They say to him, "Why then did Moses command to 'give a writing of divorcement and to put her *_away_*'?"
 * `Mth 19:8` He says to them, "Moses, because of the hardness of your hearts, allowed you to put *_away_* your wives, but from the beginning it was not so.
 * `Mth 19:9` And I say to you, that whoever puts *_away_* his wife, except for lewdness, and marries another, commits adultery. And whoever marries her who is put *_away_*, commits adultery."
