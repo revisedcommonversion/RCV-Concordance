@@ -305,7 +305,7 @@
 * `Mth 19:17` And he said to him, "*_Why_* do you call me good? There is no one good but one: God. But if you wish to enter into life, keep the commandments."
 * `Mth 20:6` And about the eleventh hour he went out and found others standing idle and says to them, '*_Why_* do you stand here all day idle?'
 * `Mth 21:25` The baptism of John, where was it from? From heaven or from men?" And they reasoned with themselves, saying, "If we say, 'From heaven,' he will say to us, '*_Why_* then did you not believe him?'
-* `Mth 22:18` But Jesus perceived their wickedness, and said, "*_Why_* do you test me, you hypocrites?
+* `Mth 22:18` But Jesus perceived their wickedness and said, "*_Why_* do you test me, you hypocrites?
 * `Mth 26:10` When Jesus understood it, he said to them, "*_Why_* do you trouble the woman? For she has wrought a good work upon me.
 * `Mth 26:50` And Jesus said to him, "Friend, *_why_* have you come?" Then they came and laid hands on Jesus and took him.
 * `Mth 27:23` And the governor said, "*_Why_*? What evil has he done?" But they cried out the more, saying, "Let him be crucified."
@@ -872,7 +872,7 @@ _23 verses containing WICKEDLY_
 * `Zch 5:8` And he said, "This is *_wickedness_*." And he cast it into the midst of the ephah, and he cast the weight of lead upon its mouth.
 * `Mal 1:4` Whereas Edom says, "We are impoverished, but we will return and build the desolate places," thus says the LORD of hosts: "They shall build, but I will throw down, and they shall call them, 'The Border of *_Wickedness_*,' and, 'The People Against Whom the LORD Has Indignation Forever.'"
 * `Mal 3:15` And now we call the proud happy. Even those who work *_wickedness_* are built up. Even those who test God are delivered.'"
-* `Mth 22:18` But Jesus perceived their *_wickedness_*, and said, "Why do you test me, you hypocrites?
+* `Mth 22:18` But Jesus perceived their *_wickedness_* and said, "Why do you test me, you hypocrites?
 * `Mrk 7:22` Thefts, covetousness, *_wickedness_*, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness.
 * `Luk 11:39` And the Lord said to him, "Now you Pharisees make the outside of the cup and the platter clean, but your inward part is full of ravening and *_wickedness_*.
 * `Act 8:22` Repent therefore of this *_wickedness_* of yours and pray to God, if perhaps the thought of your heart may be forgiven.
@@ -4596,7 +4596,7 @@ _2 verses containing WILES_
 * `Mth 24:40` Then two *_will_* be in the field: one shall be taken and the other left.
 * `Mth 24:41` Two women *_will_* be grinding at the mill: one shall be taken and the other left.
 * `Mth 24:47` Truly I say to you, that he *_will_* make him ruler over all his goods.
-* `Mth 24:50` The lord of that servant *_will_* come in a day when he does not look for him and in an hour that he is not aware of,
+* `Mth 24:50` The lord of that servant *_will_* come in a day when he does not look for him and in an hour that he is not aware of
 * `Mth 24:51` And *_will_* cut him apart and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth."
 * `Mth 25:21` His lord said to him, 'Well done you good and faithful servant. You have been faithful over a few things, I *_will_* make you ruler over many things. Enter into the joy of your lord.'
 * `Mth 25:23` His lord said to him, 'Well done, good and faithful servant. You have been faithful over a few things, I *_will_* make you ruler over many things. Enter into the joy of your lord.'
@@ -4607,13 +4607,13 @@ _2 verses containing WILES_
 * `Mth 25:37` Then the righteous *_will_* answer him, saying, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink?
 * `Mth 25:40` And the King *_will_* answer and say to them, 'Truly I say to you, since you have done it to one of the least of these brothers of mine, you have done it to me.'
 * `Mth 25:41` "Then he *_will_* also say to those on the left hand, 'Depart from me, you cursed, into everlasting fire prepared for the devil and his angels.
-* `Mth 25:44` Then they *_will_* also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not minister to you?'
+* `Mth 25:44` Then they *_will_* also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison and did not minister to you?'
 * `Mth 25:45` Then he *_will_* answer them, saying, 'Truly I say to you, since you did not do it to one of the least of these, you did not do it to me.'
 * `Mth 26:15` And said, "What *_will_* you give me if I deliver him to you?" And they weighed out for him thirty pieces of silver.
-* `Mth 26:18` And he said, "Go into the city to such a man, and say to him, 'The Master says, "My time is at hand. I *_will_* keep the passover at your house with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a man and say to him, 'The Master says, "My time is at hand. I *_will_* keep the passover at your house with my disciples."'"
 * `Mth 26:21` And as they were eating, he said, "Truly I say to you, that one of you *_will_* betray me."
 * `Mth 26:23` And he answered and said, "He who dips his hand with me in the dish, the same *_will_* betray me.
-* `Mth 26:29` But I say to you, I *_will_* not drink from now on of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+* `Mth 26:29` But I say to you, I *_will_* not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father's kingdom."
 * `Mth 26:31` Then Jesus says to them, "All of you shall be offended because of me this night, for it is written, 'I *_will_* smite the shepherd, and the sheep of the flock shall be scattered abroad.'
 * `Mth 26:32` But after I am risen again, I *_will_* go before you into Galilee."
 * `Mth 26:33` Peter answered and said to him, "Though all men shall be offended because of you, yet I *_will_* never be offended."
@@ -7285,7 +7285,7 @@ _161 verses containing WITHIN_
 * `Jms 3:17` But the wisdom that is from above is first pure, then peaceable, gentle, easy to be entreated, full of mercy and good fruits, *_without_* partiality, and *_without_* hypocrisy.
 * `1Pe 1:17` And if you call on the Father, who, *_without_* respect of persons, judges according to every man's work, pass the time of your sojourning here in fear,
 * `1Pe 1:19` But with the precious blood of Christ, as of a lamb *_without_* blemish and *_without_* spot.
-* `1Pe 3:1` Likewise, wives, be in subjection to your own husbands so that if any do not obey the word, they also may, *_without_* the word, be won by the deportment of the wives
+* `1Pe 3:1` Likewise, wives, be in subjection to your own husbands so that if any do not obey the word, they may be won *_without_* a word by the deportment of the wives
 * `1Pe 4:9` Be hospitable to one another *_without_* grudging.
 * `2Pe 2:17` These are wells *_without_* water, clouds that are carried with a tempest, to whom the mist of darkness is reserved forever.
 * `2Pe 3:14` Therefore, beloved, seeing that you look for such things, be diligent that you may be found by him in peace, *_without_* spot, and blameless.
@@ -7432,7 +7432,7 @@ _1 verse containing WITNESSED_
 * `Jer 32:44` Men shall buy fields for money, sign evidences and seal them, and take *_witnesses_* in the land of Benjamin, in the places around Jerusalem, in the cities of Judah, in the cities of the mountains, in the cities of the valley, and in the cities of the south, for I will cause their captivity to return,' says the LORD."
 * `Mth 18:16` But if he will not hear you, then take with you one or two more so that 'in the mouth of two or three *_witnesses_* every word may be established.'
 * `Mth 23:31` Therefore, you are *_witnesses_* to yourselves that you are the children of those who murdered the prophets.
-* `Mth 26:60` But found none. And though many false *_witnesses_* came, yet they found none. At last, two false *_witnesses_* came,
+* `Mth 26:60` But found none. And though many false *_witnesses_* came, yet they found none. At last, two false *_witnesses_* came
 * `Mth 26:65` Then the high priest rent his clothes, saying, "He has spoken blasphemy. What further need do we have of *_witnesses_*? Behold, now you have heard his blasphemy.
 * `Mrk 14:63` Then the high priest rent his clothes, and says, "What need do we have of any further *_witnesses_*?
 * `Luk 1:2` Even as they delivered them to us, who, from the beginning, were eye-*_witnesses_* and ministers of the word,
@@ -7581,7 +7581,7 @@ _48 verses containing WITNESSES_
 * `Col 3:19` Husbands, love your *_wives_* and do not be bitter against them.
 * `1Ti 3:11` Likewise, their *_wives_* must be grave, not slanderers, sober, faithful in all things.
 * `1Ti 4:7` But refuse profane and old *_wives_*' fables and exercise yourself rather to godliness.
-* `1Pe 3:1` Likewise, *_wives_*, be in subjection to your own husbands so that if any do not obey the word, they also may, without the word, be won by the deportment of the *_wives_*
+* `1Pe 3:1` Likewise, *_wives_*, be in subjection to your own husbands so that if any do not obey the word, they may be won without a word by the deportment of the *_wives_*
 
 _121 verses containing WIVES_
 
@@ -7681,7 +7681,7 @@ _9 verses containing WIZARDS_
 * `Mth 23:23` "*_Woe_* to you, scribes and Pharisees! Hypocrites! For you pay tithe of mint, anise, and cumin, and have omitted the weightier matters of the law: judgment, mercy, and faith. These you ought to have done, and not to leave the others undone.
 * `Mth 23:25` "*_Woe_* to you, scribes and Pharisees! Hypocrites! For you make the outside of the cup and of the platter clean, but inside they are full of extortion and excess.
 * `Mth 23:27` "*_Woe_* to you, scribes and Pharisees! Hypocrites! For you are like whitened sepulchers, which indeed appear beautiful outwardly, but are within full of dead men's bones and of all uncleanness.
-* `Mth 23:29` "*_Woe_* to you, scribes and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous,
+* `Mth 23:29` "*_Woe_* to you, scribes and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous
 * `Mth 24:19` And *_woe_* to those who are with child and to those who nurse infants in those days!
 * `Mth 26:24` The Son of man goes, as it is written concerning him. But *_woe_* to that man by whom the Son of man is betrayed! It would have been good for that man if he had not been born."
 * `Mrk 13:17` But *_woe_* to those who are with child and to those who nurse infants in those days.

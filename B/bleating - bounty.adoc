@@ -427,7 +427,7 @@ _119 verses containing BLESS_
 * `Mth 23:39` For I say to you, that you shall not see me from now on until you say, '*_Blessed_* is he who comes in the name of the Lord.'"
 * `Mth 24:46` *_Blessed_* is that servant whom his lord finds doing so when he comes.
 * `Mth 25:34` "Then the King will say to those on his right hand, 'Come, you *_blessed_* of my Father, inherit the kingdom prepared for you from the foundation of the world.
-* `Mth 26:26` And as they were eating, Jesus took bread, *_blessed_* it, broke it, and gave it to the disciples, and said, "Take, eat. This is my body."
+* `Mth 26:26` And as they were eating, Jesus took bread, *_blessed_* it, broke it, and gave it to the disciples and said, "Take, eat. This is my body."
 * `Mrk 6:41` And when he had taken the five loaves and the two fish, he looked up to heaven, *_blessed_* and broke the loaves, and gave them to his disciples to set before them. He also divided the two fish among them all.
 * `Mrk 8:7` They also had a few small fish. And he *_blessed_* them, and commanded these also to be set before them.
 * `Mrk 10:16` And he took them up in his arms, put his hands upon them, and *_blessed_* them.
@@ -669,8 +669,8 @@ _26 verses containing BLEW_
 * `Mth 20:30` And behold, two *_blind_* men sitting by the wayside, when they heard that Jesus passed by, they cried out, saying, "Have mercy on us, O Lord, son of David."
 * `Mth 21:14` And the *_blind_* and the lame came to him in the temple, and he healed them.
 * `Mth 23:16` "Woe to you, you *_blind_* guides who say, 'Whoever swears by the temple, it is nothing, but whoever swears by the gold of the temple, he is a debtor.'
-* `Mth 23:17` You fools and *_blind_* men. For which is greater, the gold, or the temple that sanctifies the gold?
-* `Mth 23:19` You fools and *_blind_* men. For which is greater, the gift, or the altar that sanctifies the gift?
+* `Mth 23:17` You fools and *_blind_* men. For which is greater, the gold or the temple that sanctifies the gold?
+* `Mth 23:19` You fools and *_blind_* men. For which is greater, the gift or the altar that sanctifies the gift?
 * `Mth 23:24` You *_blind_* guides, who strain out a gnat and swallow a camel.
 * `Mth 23:26` You *_blind_* Pharisee, first cleanse that which is inside the cup and platter so that the outside of them may be clean also.
 * `Mrk 8:22` And he comes to Bethsaida, and they bring a *_blind_* man to him and implored him to touch him.
@@ -1748,7 +1748,7 @@ _4 verses containing BODILY_
 * `Mth 10:28` And do not fear those who kill the *_body_*, but are not able to kill the soul. But rather fear him who is able to destroy both soul and *_body_* in hell.
 * `Mth 14:12` And his disciples came, took up the *_body_*, buried it, and went and told Jesus.
 * `Mth 26:12` For in that she has poured this ointment on my *_body_*, she did it for my burial.
-* `Mth 26:26` And as they were eating, Jesus took bread, blessed it, broke it, and gave it to the disciples, and said, "Take, eat. This is my *_body_*."
+* `Mth 26:26` And as they were eating, Jesus took bread, blessed it, broke it, and gave it to the disciples and said, "Take, eat. This is my *_body_*."
 * `Mth 27:58` He went to Pilate and petitioned for the *_body_* of Jesus. Then Pilate commanded the *_body_* to be delivered.
 * `Mth 27:59` And when Joseph had taken the *_body_*, he wrapped it in a clean linen cloth,
 * `Mrk 5:29` And immediately the fountain of her blood was dried up and she felt in her *_body_* that she was healed of that infirmity.

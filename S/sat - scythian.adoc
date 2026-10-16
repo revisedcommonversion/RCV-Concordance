@@ -102,7 +102,7 @@
 * `Mth 24:3` And as he *_sat_* upon the Mount of Olives, the disciples came to him privately, saying, "Tell us, when will these things be? And what will be the sign of your coming and of the end of the age?"
 * `Mth 26:7` A woman having an alabaster vial of very precious ointment came to him and poured it on his head as he *_sat_* at the table.
 * `Mth 26:20` Now when the evening had come, he *_sat_* down with the twelve.
-* `Mth 26:55` In that same hour Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I *_sat_* daily with you teaching in the temple and you laid no hold upon me.
+* `Mth 26:55` In that same hour, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I *_sat_* daily with you teaching in the temple and you laid no hold upon me.
 * `Mth 26:58` But Peter followed him at a distance to the high priest's palace, went in, and *_sat_* with the servants to see the end.
 * `Mth 26:69` Now Peter *_sat_* outside in the palace. And a woman-servant came to him, saying, "You were also with Jesus of Galilee."
 * `Mth 28:2` And behold, there was a great earthquake, for the angel of the Lord descended from heaven, came and rolled back the stone from the door, and *_sat_* upon it.
@@ -2394,7 +2394,7 @@ _3 verses containing SAWS_
 * `Mth 21:31` Which of the two did the will of his father?" They *_say_* to him, "The first." Jesus says to them, "Truly I *_say_* to you, that the tax collectors and the harlots go into the kingdom of God before you.
 * `Mth 21:41` They *_say_* to him, "He will miserably destroy those wicked men and will lease out his vineyard to other farmers, who will render him the fruits in their seasons."
 * `Mth 21:43` "Therefore, I *_say_* to you, the kingdom of God shall be taken from you and given to a nation bringing forth its fruits.
-* `Mth 22:21` They *_say_* to him, "Caesar's." Then he says to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
+* `Mth 22:21` They *_say_* to him, "Caesar's." Then he says to them, "Render therefore to Caesar the things that are Caesar's and to God the things that are God's."
 * `Mth 22:23` The same day the Sadducees came to him, who *_say_* that there is no resurrection, and asked him,
 * `Mth 22:42` Saying, "What do you think of Christ? Whose son is he?" They *_say_* to him, "The son of David."
 * `Mth 23:3` Therefore, all that they bid you to observe, observe and do it, but do not do according to their works, for they *_say_* and do not do.
@@ -2413,10 +2413,10 @@ _3 verses containing SAWS_
 * `Mth 25:41` "Then he will also *_say_* to those on the left hand, 'Depart from me, you cursed, into everlasting fire prepared for the devil and his angels.
 * `Mth 25:45` Then he will answer them, saying, 'Truly I *_say_* to you, since you did not do it to one of the least of these, you did not do it to me.'
 * `Mth 26:13` Truly I *_say_* to you, wherever this gospel is preached in the whole world, this, which this woman has done, shall also be told there for a memorial of her."
-* `Mth 26:18` And he said, "Go into the city to such a man, and *_say_* to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a man and *_say_* to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
 * `Mth 26:21` And as they were eating, he said, "Truly I *_say_* to you, that one of you will betray me."
 * `Mth 26:22` And they were exceedingly sorrowful, and each of them began to *_say_* to him, "Lord, is it I?"
-* `Mth 26:29` But I *_say_* to you, I will not drink from now on of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+* `Mth 26:29` But I *_say_* to you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father's kingdom."
 * `Mth 26:34` Jesus said to him, "Truly I *_say_* to you, that this night, before the cock crows, you will deny me three times."
 * `Mth 26:54` But how then shall the Scriptures be fulfilled which *_say_* it must be so?"
 * `Mth 26:64` Jesus says to him, "You have said. Nevertheless, I *_say_* to you, hereafter you shall see the Son of man sitting on the right hand of power and 'coming in the clouds of heaven.'"
@@ -3780,7 +3780,7 @@ _1010 verses containing SAY_
 * `Mth 22:16` And they sent their disciples out to him along with the Herodians, *_saying_*, "Master, we know that you are true and teach the way of God in truth, neither do you care for any man, for you do not regard the person of men.
 * `Mth 22:24` *_Saying_*, "Master, Moses said, 'If a man dies, having no children, his brother shall marry his wife and raise up children for his brother.'
 * `Mth 22:31` But as concerning the resurrection of the dead, have you not read that which was spoken to you by God, *_saying_*,
-* `Mth 22:35` Then one of them who was a lawyer, asked him a question, tempting him, and *_saying_*,
+* `Mth 22:35` Then one of them who was a lawyer, asked him a question, tempting him and *_saying_*,
 * `Mth 22:42` *_Saying_*, "What do you think of Christ? Whose son is he?" They say to him, "The son of David."
 * `Mth 22:43` He says to them, "How then does David in the Spirit call him Lord, *_saying_*,
 * `Mth 23:2` *_Saying_*, "The scribes and the Pharisees sit in Moses's seat.
@@ -3790,7 +3790,7 @@ _1010 verses containing SAY_
 * `Mth 25:11` Afterward, the other virgins also came, *_saying_*, 'Lord, lord, open to us.'
 * `Mth 25:20` And he who had received five talents came and brought another five talents, *_saying_*, 'Lord, you delivered to me five talents. Behold, I have gained besides them five more talents.'
 * `Mth 25:37` Then the righteous will answer him, *_saying_*, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink?
-* `Mth 25:44` Then they will also answer him, *_saying_*, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not minister to you?'
+* `Mth 25:44` Then they will also answer him, *_saying_*, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison and did not minister to you?'
 * `Mth 25:45` Then he will answer them, *_saying_*, 'Truly I say to you, since you did not do it to one of the least of these, you did not do it to me.'
 * `Mth 26:8` But when his disciples saw it, they had indignation, *_saying_*, "To what purpose is this waste?
 * `Mth 26:17` Now on the first day of the feast of unleavened bread, the disciples came to Jesus, *_saying_* to him, "Where do you wish that we prepare for you to eat the passover?"
@@ -4171,7 +4171,7 @@ _1415 verses containing SAYING_
 * `Mth 7:26` And everyone who hears these *_sayings_* of mine and does not do them shall be compared to a foolish man who built his house upon the sand.
 * `Mth 7:28` And it came to pass when Jesus had ended these *_sayings_*, that the people were astonished at his doctrine,
 * `Mth 19:1` And it came to pass when Jesus had finished these *_sayings_*, that he departed from Galilee and came into the borders of Judea, beyond the Jordan.
-* `Mth 26:1` And it came to pass, when Jesus had finished all these *_sayings_*, he said to his disciples,
+* `Mth 26:1` And it came to pass when Jesus had finished all these *_sayings_*, that he said to his disciples,
 * `Luk 1:65` And fear came on all who dwelt around them, and all these *_sayings_* were noised abroad throughout all the hill-country of Judea.
 * `Luk 2:51` And he went down with them and came to Nazareth, and was subject to them. But his mother kept all these *_sayings_* in her heart.
 * `Luk 6:47` Whoever comes to me, hears my *_sayings_*, and does them, I will show you to whom he is like.
@@ -5150,15 +5150,15 @@ _31 verses containing SAYINGS_
 * `Mth 22:8` Then he *_says_* to his servants, 'The wedding is ready, but those who were invited were not worthy.
 * `Mth 22:12` And he *_says_* to him, 'Friend, how did you come in here, not having a wedding-garment?' And he was speechless.
 * `Mth 22:20` And he *_says_* to them, "Whose image and superscription is this?"
-* `Mth 22:21` They say to him, "Caesar's." Then he *_says_* to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
+* `Mth 22:21` They say to him, "Caesar's." Then he *_says_* to them, "Render therefore to Caesar the things that are Caesar's and to God the things that are God's."
 * `Mth 22:43` He *_says_* to them, "How then does David in the Spirit call him Lord, saying,
 * `Mth 24:23` Then if any man *_says_* to you, 'Behold, here is Christ,' or, 'There,' do not believe it.
 * `Mth 24:48` But if that evil servant *_says_* in his heart, 'My lord delays his coming,'
-* `Mth 26:18` And he said, "Go into the city to such a man, and say to him, 'The Master *_says_*, "My time is at hand. I will keep the passover at your house with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a man and say to him, 'The Master *_says_*, "My time is at hand. I will keep the passover at your house with my disciples."'"
 * `Mth 26:31` Then Jesus *_says_* to them, "All of you shall be offended because of me this night, for it is written, 'I will smite the shepherd, and the sheep of the flock shall be scattered abroad.'
 * `Mth 26:36` Then Jesus comes with them to a place called Gethsemane and *_says_* to the disciples, "Sit here while I go yonder and pray."
 * `Mth 26:38` Then he *_says_* to them, "My soul is exceedingly sorrowful, even to death. Remain here and watch with me."
-* `Mth 26:40` And he comes to the disciples and finds them asleep, and *_says_* to Peter, "What, could you not watch with me one hour?
+* `Mth 26:40` And he comes to the disciples and finds them asleep. And he *_says_* to Peter, "What, could you not watch with me one hour?
 * `Mth 26:45` Then he comes to his disciples and *_says_* to them, "Sleep on now and take your rest. Behold, the hour is at hand and the Son of man is betrayed into the hands of sinners.
 * `Mth 26:64` Jesus *_says_* to him, "You have said. Nevertheless, I say to you, hereafter you shall see the Son of man sitting on the right hand of power and 'coming in the clouds of heaven.'"
 * `Mth 27:13` Then Pilate *_says_* to him, "Do you not hear how many things they testify against you?"
@@ -5675,7 +5675,7 @@ _36 verses containing SCATTER_
 * `Zch 7:14` "But I *_scattered_* them with a whirlwind among all the nations whom they did not know. Thus the land was desolate after them so that no man passed through nor returned, for they laid the pleasant land desolate."
 * `Zch 13:7` "Awake, O sword, against my shepherd and against the man who is my fellow," says the LORD of hosts. "Smite the shepherd and the sheep shall be *_scattered_*. And I will turn my hand upon the little ones.
 * `Mth 9:36` But when he saw the multitudes, he was moved with compassion for them because they fainted and were *_scattered_* abroad like sheep having no shepherd.
-* `Mth 25:24` "Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard man, reaping where you have not sown and gathering where you have not *_scattered_*.
+* `Mth 25:24` "Then he who had received the one talent came and said, 'Lord, I knew that you are a hard man, reaping where you have not sown and gathering where you have not *_scattered_*.
 * `Mth 25:26` "His lord answered and said to him, 'You wicked and slothful servant, you knew that I reap where I have not sown and gather where I have not *_scattered_*.
 * `Mth 26:31` Then Jesus says to them, "All of you shall be offended because of me this night, for it is written, 'I will smite the shepherd, and the sheep of the flock shall be *_scattered_* abroad.'
 * `Mrk 14:27` And Jesus says to them, "All of you will be offended because of me this night, for it is written, 'I will "smite the shepherd, and the sheep shall be *_scattered_*."'
@@ -6072,7 +6072,7 @@ _53 verses containing SCRIBE_
 * `Mth 23:23` "Woe to you, *_scribes_* and Pharisees! Hypocrites! For you pay tithe of mint, anise, and cumin, and have omitted the weightier matters of the law: judgment, mercy, and faith. These you ought to have done, and not to leave the others undone.
 * `Mth 23:25` "Woe to you, *_scribes_* and Pharisees! Hypocrites! For you make the outside of the cup and of the platter clean, but inside they are full of extortion and excess.
 * `Mth 23:27` "Woe to you, *_scribes_* and Pharisees! Hypocrites! For you are like whitened sepulchers, which indeed appear beautiful outwardly, but are within full of dead men's bones and of all uncleanness.
-* `Mth 23:29` "Woe to you, *_scribes_* and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous,
+* `Mth 23:29` "Woe to you, *_scribes_* and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous
 * `Mth 23:34` "Therefore, behold, I send to you prophets, wise men, and *_scribes_*. Some of them you will kill and crucify, and some of them you will scourge in your synagogues and persecute them from city to city,
 * `Mth 26:3` Then the chief priests, the *_scribes_*, and the elders of the people assembled in the palace of the high priest, who was called Caiaphas,
 * `Mth 26:57` And those who had laid hold upon Jesus led him away to Caiaphas the high priest where the *_scribes_* and the elders were assembled.
@@ -6160,7 +6160,7 @@ _32 verses containing SCRIPTURE_
 == SCRIPTURES
 
 * `Mth 21:42` Jesus says to them, "Did you never read in the *_Scriptures_*, 'The stone which the builders rejected, the same has become the head of the corner. This is the Lord's doing and it is marvelous in our eyes'?
-* `Mth 22:29` Jesus answered and said to them, "You err, not knowing the *_Scriptures_*, nor the power of God.
+* `Mth 22:29` Jesus answered and said to them, "You err, not knowing the *_Scriptures_* nor the power of God.
 * `Mth 26:54` But how then shall the *_Scriptures_* be fulfilled which say it must be so?"
 * `Mth 26:56` But all this was done so that the *_Scriptures_* of the prophets might be fulfilled." Then all the disciples forsook him and fled.
 * `Mrk 12:24` And Jesus answering, said to them, "Do you not therefore err because you do not know the *_Scriptures_*, neither the power of God?

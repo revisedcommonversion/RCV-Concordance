@@ -690,7 +690,7 @@ _1 verse containing LAHMI_
 * `Mth 18:28` But the same servant went out, found one of his fellow-servants who owed him one hundred denarii, *_laid_* hands on him, and took him by the throat, saying, 'Pay me what you owe.'
 * `Mth 19:15` And he *_laid_* his hands on them and departed from there.
 * `Mth 26:50` And Jesus said to him, "Friend, why have you come?" Then they came and *_laid_* hands on Jesus and took him.
-* `Mth 26:55` In that same hour Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you *_laid_* no hold upon me.
+* `Mth 26:55` In that same hour, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you *_laid_* no hold upon me.
 * `Mth 26:57` And those who had *_laid_* hold upon Jesus led him away to Caiaphas the high priest where the scribes and the elders were assembled.
 * `Mth 27:60` *_Laid_* it in his own new tomb which he had hewn out of the rock, rolled a great stone to the door of the sepulcher, and departed.
 * `Mrk 6:5` And he could do no mighty work there, except that he *_laid_* his hands upon a few sick persons and healed them.
@@ -3112,7 +3112,7 @@ _1 verse containing LASHARON_
 * `Mth 20:16` So the *_last_* shall be first, and the first *_last_*. For many are called, but few chosen."
 * `Mth 21:37` But *_last_* of all he sent to them his son, saying, 'They will reverence my son.'
 * `Mth 22:27` And *_last_* of all the woman also died.
-* `Mth 26:60` But found none. And though many false witnesses came, yet they found none. At *_last_*, two false witnesses came,
+* `Mth 26:60` But found none. And though many false witnesses came, yet they found none. At *_last_*, two false witnesses came
 * `Mth 27:64` Therefore, command that the sepulcher be made secure until the third day, lest his disciples come by night and steal him away and say to the people, 'He has risen from the dead.' Thus the *_last_* error will be worse than the first."
 * `Mrk 9:35` And he sat down and called the twelve and says to them, "If any man desires to be first, the same shall be *_last_* of all and servant of all."
 * `Mrk 10:31` But many who are first shall be *_last_*, and the *_last_* first."
@@ -3837,7 +3837,7 @@ _460 verses containing LAW_
 * `Mth 14:4` For John had said to him, "It is not *_lawful_* for you to have her."
 * `Mth 19:3` The Pharisees also came to him, tempting him and saying to him, "Is it *_lawful_* for a man to put away his wife for any cause?"
 * `Mth 20:15` Is it not *_lawful_* for me to do what I wish with my own? Is your eye evil because I am good?'
-* `Mth 22:17` Tell us therefore, what do you think? Is it *_lawful_* to give tribute to Caesar, or not?"
+* `Mth 22:17` Tell us therefore, what do you think? Is it *_lawful_* to give tribute to Caesar or not?"
 * `Mth 27:6` And the chief priests took the silver pieces, and said, "It is not *_lawful_* to put them into the treasury because it is the price of blood."
 * `Mrk 2:24` And the Pharisees said to him, "Behold, why do they do on the sabbath that which is not *_lawful_*?"
 * `Mrk 2:26` How he went into the house of God in the days of Abiathar the high priest and ate the show-bread, which it is not *_lawful_* to eat, except for the priests, and also gave some to those who were with him?"
@@ -3912,7 +3912,7 @@ _19 verses containing LAWS_
 
 == LAWYER
 
-* `Mth 22:35` Then one of them who was a *_lawyer_*, asked him a question, tempting him, and saying,
+* `Mth 22:35` Then one of them who was a *_lawyer_*, asked him a question, tempting him and saying,
 * `Luk 10:25` And behold, a certain *_lawyer_* stood up and tested him, saying, "Master, what shall I do to inherit eternal life?"
 * `Tit 3:13` Bring Zenas the *_lawyer_* and Apollos on their journey diligently so that nothing may be lacking for them.
 

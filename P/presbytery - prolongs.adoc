@@ -1543,8 +1543,8 @@ _15 verses containing PRIESTHOOD_
 * `Mth 21:23` And when he had come into the temple, the chief *_priests_* and the elders of the people came to him as he was teaching and said, "By what authority do you do these things, and who gave you this authority?"
 * `Mth 21:45` And when the chief *_priests_* and Pharisees had heard his parables, they perceived that he spoke of them.
 * `Mth 26:3` Then the chief *_priests_*, the scribes, and the elders of the people assembled in the palace of the high priest, who was called Caiaphas,
-* `Mth 26:14` Then one of the twelve, called Judas Iscariot, went to the chief *_priests_*,
-* `Mth 26:47` And while he was yet speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief *_priests_* and elders of the people.
+* `Mth 26:14` Then one of the twelve, called Judas Iscariot, went to the chief *_priests_*
+* `Mth 26:47` And while he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief *_priests_* and elders of the people.
 * `Mth 26:59` Now the chief *_priests_* and elders and all the council sought false testimony against Jesus to put him to death,
 * `Mth 27:1` When the morning came, all the chief *_priests_* and elders of the people took counsel against Jesus to put him to death.
 * `Mth 27:3` Then Judas, who had betrayed him, when he saw that he was condemned, repented and brought the thirty pieces of silver back to the chief *_priests_* and elders,
@@ -2128,9 +2128,9 @@ _5 verses containing PRISCILLA_
 * `Mth 14:10` And he sent and beheaded John in the *_prison_*.
 * `Mth 18:30` And he would not, but went and cast him into *_prison_* until he should pay the debt.
 * `Mth 25:36` I was naked and you clothed me. I was sick and you visited me. I was in *_prison_* and you came to me.'
-* `Mth 25:39` Or when did we see you sick, or in *_prison_*, and come to you?'
+* `Mth 25:39` Or when did we see you sick or in *_prison_* and come to you?'
 * `Mth 25:43` I was a stranger and you did not take me in. I was naked and you did not clothe me. I was sick and in *_prison_* and you did not visit me.'
-* `Mth 25:44` Then they will also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in *_prison_*, and did not minister to you?'
+* `Mth 25:44` Then they will also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in *_prison_* and did not minister to you?'
 * `Mrk 1:14` Now after John was put in *_prison_*, Jesus came into Galilee, preaching the gospel of the kingdom of God,
 * `Mrk 6:17` For Herod himself had sent forth and laid hold upon John and bound him in *_prison_* for the sake of Herodias, his brother Philip's wife, for he had married her.
 * `Mrk 6:27` And immediately the king sent an executioner and commanded his head to be brought. And he went and beheaded him in the *_prison_*,

@@ -747,7 +747,7 @@ _4 verses containing LONGS_
 * `Hab 2:15` Woe to him who gives his neighbor drink, pouring out your bottle to him, and also making him drunk, so that you may *_look_* at their nakedness!
 * `Zch 12:10` "And I will pour upon the house of David and upon the inhabitants of Jerusalem the Spirit of grace and of supplications. And they shall *_look_* upon me whom they have pierced, and they shall mourn for him as one mourns for his only son, and shall be in bitterness for him as one who is in bitterness for his first-born.
 * `Mth 11:3` And said to him, "Are you he who should come, or do we *_look_* for another?"
-* `Mth 24:50` The lord of that servant will come in a day when he does not *_look_* for him and in an hour that he is not aware of,
+* `Mth 24:50` The lord of that servant will come in a day when he does not *_look_* for him and in an hour that he is not aware of
 * `Mrk 8:25` After that, he put his hands again upon his eyes and made him *_look_* up. Then he was restored and saw every man clearly.
 * `Luk 7:19` And John, calling two of his disciples, sent them to Jesus, saying, "Are you he who should come? Or do we *_look_* for another?"
 * `Luk 7:20` When the men had come to him, they said, "John the Baptist has sent us to you, saying, 'Are you he who should come, or do we *_look_* for another?'"
@@ -7194,18 +7194,18 @@ _1 verse containing LOP_
 * `Mth 24:45` "Who then is a faithful and wise servant, whom his *_lord_* has made ruler over his household to give them food in due season?
 * `Mth 24:46` Blessed is that servant whom his *_lord_* finds doing so when he comes.
 * `Mth 24:48` But if that evil servant says in his heart, 'My *_lord_* delays his coming,'
-* `Mth 24:50` The *_lord_* of that servant will come in a day when he does not look for him and in an hour that he is not aware of,
+* `Mth 24:50` The *_lord_* of that servant will come in a day when he does not look for him and in an hour that he is not aware of
 * `Mth 25:11` Afterward, the other virgins also came, saying, '*_Lord_*, *_lord_*, open to us.'
 * `Mth 25:18` But he who had received one went and dug in the earth and hid his *_lord_*'s money.
 * `Mth 25:19` "After a long time, the *_lord_* of those servants comes and settles accounts with them.
 * `Mth 25:20` And he who had received five talents came and brought another five talents, saying, '*_Lord_*, you delivered to me five talents. Behold, I have gained besides them five more talents.'
 * `Mth 25:21` His *_lord_* said to him, 'Well done you good and faithful servant. You have been faithful over a few things, I will make you ruler over many things. Enter into the joy of your *_lord_*.'
-* `Mth 25:22` "He also who had received two talents came, and said, '*_Lord_*, you delivered to me two talents. Behold, I have gained two other talents besides them.'
+* `Mth 25:22` "He also who had received two talents came and said, '*_Lord_*, you delivered to me two talents. Behold, I have gained two other talents besides them.'
 * `Mth 25:23` His *_lord_* said to him, 'Well done, good and faithful servant. You have been faithful over a few things, I will make you ruler over many things. Enter into the joy of your *_lord_*.'
-* `Mth 25:24` "Then he who had received the one talent came, and said, '*_Lord_*, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered.
+* `Mth 25:24` "Then he who had received the one talent came and said, '*_Lord_*, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered.
 * `Mth 25:26` "His *_lord_* answered and said to him, 'You wicked and slothful servant, you knew that I reap where I have not sown and gather where I have not scattered.
 * `Mth 25:37` Then the righteous will answer him, saying, '*_Lord_*, when did we see you hungry and feed you, or thirsty and give you drink?
-* `Mth 25:44` Then they will also answer him, saying, '*_Lord_*, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not minister to you?'
+* `Mth 25:44` Then they will also answer him, saying, '*_Lord_*, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison and did not minister to you?'
 * `Mth 26:22` And they were exceedingly sorrowful, and each of them began to say to him, "*_Lord_*, is it I?"
 * `Mth 27:10` And gave them for the potter's field, as the *_Lord_* appointed me."
 * `Mth 28:2` And behold, there was a great earthquake, for the angel of the *_Lord_* descended from heaven, came and rolled back the stone from the door, and sat upon it.

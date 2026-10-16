@@ -1066,7 +1066,7 @@ _1 verse containing SOWING-SEED_
 * `Nah 1:14` And the LORD has given a commandment concerning you, that no more of your name be *_sown_*. "Out of the house of your gods I will cut off the engraved image and the molten image. I will make your grave, for you are vile."
 * `Hag 1:6` You have *_sown_* much and bring in little. You eat, but you do not have enough. You drink, but you are not filled with drink. You clothe yourselves, but there is no one warm. And he who earns wages, earns wages to put it into a bag with holes."
 * `Mth 13:19` When anyone hears the word of the kingdom and does not understand it, then the wicked one comes and snatches away that which was *_sown_* in his heart. This is he who received seed by the wayside.
-* `Mth 25:24` "Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard man, reaping where you have not *_sown_* and gathering where you have not scattered.
+* `Mth 25:24` "Then he who had received the one talent came and said, 'Lord, I knew that you are a hard man, reaping where you have not *_sown_* and gathering where you have not scattered.
 * `Mth 25:26` "His lord answered and said to him, 'You wicked and slothful servant, you knew that I reap where I have not *_sown_* and gather where I have not scattered.
 * `Mrk 4:15` And these are those by the wayside where the word is *_sown_*, but when they have heard, Satan comes immediately and takes away the word that was *_sown_* in their hearts.
 * `Mrk 4:16` And likewise, these are those who are *_sown_* on stony ground, who, when they have heard the word, immediately receive it with gladness,
@@ -1840,7 +1840,7 @@ _2 verses containing SPEAKER_
 * `Mth 12:46` While he was yet *_speaking_* to the people, behold, his mother and his brothers stood outside desiring to speak with him.
 * `Mth 15:31` Therefore, the multitude wondered when they saw the mute *_speaking_*, the maimed whole, the lame walking, and the blind seeing. And they glorified the God of Israel.
 * `Mth 17:5` While he was still *_speaking_*, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which said, "This is my beloved Son, in whom I am well pleased. Hear him."
-* `Mth 26:47` And while he was yet *_speaking_*, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the people.
+* `Mth 26:47` And while he was still *_speaking_*, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the people.
 * `Mrk 5:35` While he was still *_speaking_*, there came from the ruler of the synagogue's house some who said, "Your daughter is dead. Why do you trouble the Master any further?"
 * `Mrk 14:43` And immediately while he was yet *_speaking_*, Judas comes, one of the twelve, and with him a great multitude with swords and staffs from the chief priests, the scribes, and the elders.
 * `Luk 5:4` Now when he had finished *_speaking_*, he said to Simon, "Launch out into the deep and let down your nets for a catch."
@@ -3528,7 +3528,7 @@ _4 verses containing SPLIT_
 * `Mth 14:27` But immediately Jesus *_spoke_* to them, saying, "Be of good cheer. It is I. Do not be afraid."
 * `Mth 17:13` Then the disciples understood that he *_spoke_* to them concerning John the Baptist.
 * `Mth 21:45` And when the chief priests and Pharisees had heard his parables, they perceived that he *_spoke_* of them.
-* `Mth 22:1` And Jesus answered and *_spoke_* to them again by parables, and said,
+* `Mth 22:1` And Jesus answered and *_spoke_* to them again by parables and said,
 * `Mth 23:1` Then Jesus *_spoke_* to the multitude and to his disciples,
 * `Mth 28:18` And Jesus came, and *_spoke_* to them, saying, "All power is given to me in heaven and upon earth.
 * `Mrk 4:33` And with many such parables he *_spoke_* the word to them, as they were able to hear it.

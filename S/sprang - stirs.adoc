@@ -499,8 +499,8 @@ _43 verses containing STAFF_
 * `Ezk 39:9` "And those who dwell in the cities of Israel shall go forth and set on fire and burn the weapons: the shields, the bucklers, the bows and the arrows, the hand-*_staffs_*, and the spears. And they shall burn them with fire for seven years
 * `Hab 3:14` You struck through with his *_staffs_* the head of his villages. They came out like a whirlwind to scatter me, rejoicing as if to devour the poor secretly.
 * `Zch 11:7` And I will feed the flock of slaughter, even you, O poor of the flock. And I took for myself two *_staffs_*: one I called Beauty and the other I called Union. And I fed the flock.
-* `Mth 26:47` And while he was yet speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and *_staffs_* from the chief priests and elders of the people.
-* `Mth 26:55` In that same hour Jesus said to the multitudes, "Have you come out as against a thief with swords and *_staffs_* to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
+* `Mth 26:47` And while he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and *_staffs_* from the chief priests and elders of the people.
+* `Mth 26:55` In that same hour, Jesus said to the multitudes, "Have you come out as against a thief with swords and *_staffs_* to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
 * `Mrk 14:43` And immediately while he was yet speaking, Judas comes, one of the twelve, and with him a great multitude with swords and *_staffs_* from the chief priests, the scribes, and the elders.
 * `Mrk 14:48` And Jesus answered and said to them, "Have you come out as against a robber, with swords and with *_staffs_* to take me?
 * `Luk 9:3` And he said to them, "Take nothing for your journey, neither *_staffs_*, nor bag, neither bread, neither money, neither have two coats apiece.
@@ -1085,7 +1085,7 @@ _1 verse containing STARE_
 * `Amo 5:8` Seek him who makes the seven *_stars_* and Orion, turns the shadow of death into the morning, makes the day dark with night, who calls for the waters of the sea, and pours them out upon the face of the earth. YAHWEH is his name.
 * `Oba 1:4` Though you exalt yourself like the eagle and though you set your nest among the *_stars_*, from there I will bring you down," says the LORD.
 * `Nah 3:16` You have multiplied your merchants above the *_stars_* of heaven. The licking-locust strips and flies away.
-* `Mth 24:29` "Immediately after the tribulation of those days 'the sun shall be darkened and the moon shall not give her light, the *_stars_* shall fall' from heaven and the powers of the heavens shall be shaken.
+* `Mth 24:29` "Immediately after the tribulation of those days 'the sun shall be darkened and the moon shall not give her light, the *_stars_* shall fall' from heaven, and the powers of the heavens shall be shaken.
 * `Mrk 13:25` The *_stars_* of heaven shall fall,' and the powers that are in heaven shall be shaken.
 * `Luk 21:25` "And there shall be signs in the sun, in the moon, and in the *_stars_*, and upon the earth distress of nations in perplexity because of the roaring of the sea and the waves.
 * `Act 27:20` And when neither sun nor *_stars_* in many days appeared and no small tempest lay on us, all hope that we should be saved was then taken away.
@@ -2084,6 +2084,7 @@ _1 verse containing STIFFENED_
 * `Mth 17:5` While he was *_still_* speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which said, "This is my beloved Son, in whom I am well pleased. Hear him."
 * `Mth 19:20` The young man says to him, "All these things I have kept from my youth. What do I *_still_* lack?"
 * `Mth 20:32` And Jesus stood *_still_* and called them and said, "What do you wish that I shall do to you?"
+* `Mth 26:47` And while he was *_still_* speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the people.
 * `Mrk 4:39` And he arose, rebuked the wind, and said to the sea, "Peace, be *_still_*," and the wind ceased and there was a great calm.
 * `Mrk 5:35` While he was *_still_* speaking, there came from the ruler of the synagogue's house some who said, "Your daughter is dead. Why do you trouble the Master any further?"
 * `Mrk 8:17` And when Jesus knew it, he says to them, "Why do you discuss that you have no bread? Do you *_still_* not perceive or understand? Is your heart *_still_* hardened?
@@ -2126,7 +2127,7 @@ _1 verse containing STIFFENED_
 * `Rev 9:20` And the rest of the men who were not killed by these plagues *_still_* did not repent of the works of their hands, that they should not worship demons and idols of gold, silver, brass, stone, and of wood, which neither can see, hear, nor walk.
 * `Rev 22:11` He who is unjust, let him be unjust *_still_*. He who is filthy, let him be filthy *_still_*. He who is righteous, let him be righteous *_still_*. He who is holy, let him be holy *_still_*."
 
-_208 verses containing STILL_
+_209 verses containing STILL_
 
 == STILLED
 

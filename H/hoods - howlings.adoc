@@ -1397,11 +1397,11 @@ _1 verse containing HOTTEST_
 * `Mth 24:36` "But of that day and *_hour_* no man knows, not even the angels of heaven, but my Father only.
 * `Mth 24:42` "Watch therefore, for you do not know what *_hour_* your Lord comes.
 * `Mth 24:44` Therefore, you also be ready. For the Son of man comes in such an *_hour_* as you do not think.
-* `Mth 24:50` The lord of that servant will come in a day when he does not look for him and in an *_hour_* that he is not aware of,
+* `Mth 24:50` The lord of that servant will come in a day when he does not look for him and in an *_hour_* that he is not aware of
 * `Mth 25:13` Therefore, watch, for you know neither the day nor the *_hour_* in which the Son of man comes.
-* `Mth 26:40` And he comes to the disciples and finds them asleep, and says to Peter, "What, could you not watch with me one *_hour_*?
+* `Mth 26:40` And he comes to the disciples and finds them asleep. And he says to Peter, "What, could you not watch with me one *_hour_*?
 * `Mth 26:45` Then he comes to his disciples and says to them, "Sleep on now and take your rest. Behold, the *_hour_* is at hand and the Son of man is betrayed into the hands of sinners.
-* `Mth 26:55` In that same *_hour_* Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
+* `Mth 26:55` In that same *_hour_*, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
 * `Mth 27:45` Now from the sixth *_hour_* there was darkness over all the land to the ninth *_hour_*.
 * `Mth 27:46` And about the ninth *_hour_* Jesus cried with a loud voice, saying, "Eli, Eli, lama sabachthani?" (That is to say, "My God, my God, why have you forsaken me?")
 * `Mrk 13:11` But when they lead you and deliver you up, do not be anxious beforehand of what you shall speak, neither premeditate. But whatever is given to you in that *_hour_*, speak it, for it is not you who speak, but the Holy Spirit.
@@ -3049,7 +3049,7 @@ _3 verses containing HOURS_
 * `Mth 24:17` Let him who is on the *_house_*-top not come down to take anything out of his *_house_*,
 * `Mth 24:43` But know this, that if the master of the *_house_* knew in what watch the thief would come, he would watch and would not allow his *_house_* to be broken into.
 * `Mth 26:6` Now when Jesus was in Bethany, in the *_house_* of Simon the leper,
-* `Mth 26:18` And he said, "Go into the city to such a man, and say to him, 'The Master says, "My time is at hand. I will keep the passover at your *_house_* with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a man and say to him, 'The Master says, "My time is at hand. I will keep the passover at your *_house_* with my disciples."'"
 * `Mrk 1:29` And immediately, when they had come out of the synagogue, they entered into the *_house_* of Simon and Andrew, with James and John.
 * `Mrk 2:1` And again he entered into Capernaum after some days, and it was understood that he was in the *_house_*.
 * `Mrk 2:11` "I say to you, arise, take up your bed, and go into your *_house_*."

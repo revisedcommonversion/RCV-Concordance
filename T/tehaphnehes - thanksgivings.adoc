@@ -257,7 +257,7 @@ _2 verses containing TELEM_
 * `Mth 21:24` And Jesus answered and said to them, "I also will ask you one thing, which if you *_tell_* me, I also will *_tell_* you by what authority I do these things.
 * `Mth 21:27` And they answered Jesus and said, "We cannot *_tell_*." And he said to them, "Neither do I *_tell_* you by what authority I do these things.
 * `Mth 22:4` Again, he sent other servants, saying, '*_Tell_* those who are invited, "Behold, I have prepared my dinner. My oxen and my fattened calves are killed and all things are ready. Come to the marriage."'
-* `Mth 22:17` *_Tell_* us therefore, what do you think? Is it lawful to give tribute to Caesar, or not?"
+* `Mth 22:17` *_Tell_* us therefore, what do you think? Is it lawful to give tribute to Caesar or not?"
 * `Mth 24:3` And as he sat upon the Mount of Olives, the disciples came to him privately, saying, "*_Tell_* us, when will these things be? And what will be the sign of your coming and of the end of the age?"
 * `Mth 26:63` But Jesus held his peace. And the high priest answered and said to him, "I adjure you by the living God that you *_tell_* us whether you are the Christ the Son of God."
 * `Mth 28:7` And go quickly and *_tell_* his disciples, 'He has risen from the dead, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
@@ -558,11 +558,11 @@ _4 verses containing TEMPESTUOUS_
 * `Mth 21:15` And when the chief priests and scribes saw the wonderful things that he did and the children crying in the *_temple_* and saying, "Hosanna to the son of David," they were greatly displeased
 * `Mth 21:23` And when he had come into the *_temple_*, the chief priests and the elders of the people came to him as he was teaching and said, "By what authority do you do these things, and who gave you this authority?"
 * `Mth 23:16` "Woe to you, you blind guides who say, 'Whoever swears by the *_temple_*, it is nothing, but whoever swears by the gold of the *_temple_*, he is a debtor.'
-* `Mth 23:17` You fools and blind men. For which is greater, the gold, or the *_temple_* that sanctifies the gold?
+* `Mth 23:17` You fools and blind men. For which is greater, the gold or the *_temple_* that sanctifies the gold?
 * `Mth 23:21` And whoever swears by the *_temple_*, swears by it and by him who dwells in it.
 * `Mth 23:35` So that upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel, to the blood of Zechariah son of Barachiah, whom you slew between the *_temple_* and the altar.
 * `Mth 24:1` And Jesus went out and departed from the *_temple_*. And his disciples came to him to show him the buildings of the *_temple_*.
-* `Mth 26:55` In that same hour Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the *_temple_* and you laid no hold upon me.
+* `Mth 26:55` In that same hour, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the *_temple_* and you laid no hold upon me.
 * `Mth 26:61` And said, "This man said, 'I am able to destroy the *_temple_* of God and to build it in three days.'"
 * `Mth 27:5` And he cast down the pieces of silver in the *_temple_*, departed, and went and hanged himself.
 * `Mth 27:40` And saying, "You who destroy the *_temple_* and build it in three days, save yourself. If you are the Son of God, come down from the cross."
@@ -741,7 +741,7 @@ _2 verses containing TEMPTER_
 
 * `Mth 16:1` The Pharisees and the Sadducees came, and *_tempting_* him, desired him that he would show them a sign from heaven.
 * `Mth 19:3` The Pharisees also came to him, *_tempting_* him and saying to him, "Is it lawful for a man to put away his wife for any cause?"
-* `Mth 22:35` Then one of them who was a lawyer, asked him a question, *_tempting_* him, and saying,
+* `Mth 22:35` Then one of them who was a lawyer, asked him a question, *_tempting_* him and saying,
 
 _3 verses containing TEMPTING_
 
@@ -985,7 +985,7 @@ _1 verse containing TEND_
 * `Dan 1:9` Now God had brought Daniel into favor and *_tender_* love with the prince of the eunuchs.
 * `Dan 4:15` But leave the stump of its roots in the earth, even with a band of iron and brass, in the *_tender_* grass of the field. Let it be wet with the dew of heaven, and let its portion be with the beasts in the grass of the earth.
 * `Dan 4:23` And the king saw a watcher and a holy one coming down from heaven, saying, "Hew the tree down and destroy it, yet leave the stump of its roots in the earth, even with a band of iron and brass, in the *_tender_* grass of the field. Let it be wet with the dew of heaven, and let its portion be with the beasts of the field until seven times shall pass over him."
-* `Mth 24:32` "Now learn a parable of the fig-tree. When its branch is yet *_tender_* and puts forth leaves, you know that summer is near.
+* `Mth 24:32` "Now learn a parable of the fig-tree. When its branch becomes *_tender_* and puts forth leaves, you know that summer is near.
 * `Mrk 13:28` "Now learn a parable of the fig-tree: when its branch is yet *_tender_* and puts forth leaves, you know that summer is near.
 * `Luk 1:78` Through the *_tender_* mercy of our God, by which the day-spring from on high has visited us,
 * `2Co 7:15` And his *_tender_* affection is more abundant toward you while he remembers the obedience of you all, how with fear and trembling you received him.
@@ -1567,7 +1567,7 @@ _2 verses containing TERTULLUS_
 * `Isa 7:12` But Ahaz said, "I will not ask, neither will I *_test_* the LORD."
 * `Mal 3:15` And now we call the proud happy. Even those who work wickedness are built up. Even those who *_test_* God are delivered.'"
 * `Mth 4:7` Jesus said to him, "It is written again, 'You shall not *_test_* the Lord your God.'"
-* `Mth 22:18` But Jesus perceived their wickedness, and said, "Why do you *_test_* me, you hypocrites?
+* `Mth 22:18` But Jesus perceived their wickedness and said, "Why do you *_test_* me, you hypocrites?
 * `Mrk 10:2` And the Pharisees came to him to *_test_* him, and asked him, "Is it lawful for a man to put away his wife?"
 * `Mrk 12:15` Shall we give, or shall we not give?" But he, knowing their hypocrisy, said to them, "Why do you *_test_* me? Bring me a denarius so that I may see it."
 * `Luk 4:12` And Jesus, answering, said to him, "It is said, 'You shall not *_test_* the Lord your God.'"

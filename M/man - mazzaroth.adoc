@@ -1626,7 +1626,7 @@
 * `Mth 22:24` Saying, "Master, Moses said, 'If a *_man_* dies, having no children, his brother shall marry his wife and raise up children for his brother.'
 * `Mth 22:46` And no *_man_* was able to answer him a word, neither did any *_man_* dare from that day forth to ask him any more questions.
 * `Mth 23:9` And call no *_man_* your father upon the earth, for One is your Father who is in heaven.
-* `Mth 24:4` And Jesus answered and said to them, "Take heed that no *_man_* deceive you.
+* `Mth 24:4` And Jesus answered and said to them, "Take heed that no *_man_* deceives you.
 * `Mth 24:23` Then if any *_man_* says to you, 'Behold, here is Christ,' or, 'There,' do not believe it.
 * `Mth 24:27` For as the lightning comes out of the east and shines even to the west, so shall the coming of the Son of *_man_* also be.
 * `Mth 24:30` And then the sign of the Son of *_man_* shall appear in heaven. And then all the tribes of the earth shall mourn, and they shall see 'the Son of *_man_* coming in the clouds of heaven' with power and great glory.
@@ -1636,10 +1636,10 @@
 * `Mth 24:44` Therefore, you also be ready. For the Son of *_man_* comes in such an hour as you do not think.
 * `Mth 25:13` Therefore, watch, for you know neither the day nor the hour in which the Son of *_man_* comes.
 * `Mth 25:14` "For the kingdom of heaven is like a *_man_* traveling into a far country, who called his own servants and delivered his goods to them.
-* `Mth 25:24` "Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard *_man_*, reaping where you have not sown and gathering where you have not scattered.
+* `Mth 25:24` "Then he who had received the one talent came and said, 'Lord, I knew that you are a hard *_man_*, reaping where you have not sown and gathering where you have not scattered.
 * `Mth 25:31` "When the Son of *_man_* comes in his glory, and all the holy angels with him, he will sit upon the throne of his glory.
 * `Mth 26:2` "You know that after two days is the passover and the Son of *_man_* is betrayed to be crucified."
-* `Mth 26:18` And he said, "Go into the city to such a *_man_*, and say to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a *_man_* and say to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
 * `Mth 26:24` The Son of *_man_* goes, as it is written concerning him. But woe to that *_man_* by whom the Son of *_man_* is betrayed! It would have been good for that *_man_* if he had not been born."
 * `Mth 26:45` Then he comes to his disciples and says to them, "Sleep on now and take your rest. Behold, the hour is at hand and the Son of *_man_* is betrayed into the hands of sinners.
 * `Mth 26:61` And said, "This *_man_* said, 'I am able to destroy the temple of God and to build it in three days.'"
@@ -3278,7 +3278,7 @@ _1 verse containing MANTLES_
 * `Mth 25:21` His lord said to him, 'Well done you good and faithful servant. You have been faithful over a few things, I will make you ruler over *_many_* things. Enter into the joy of your lord.'
 * `Mth 25:23` His lord said to him, 'Well done, good and faithful servant. You have been faithful over a few things, I will make you ruler over *_many_* things. Enter into the joy of your lord.'
 * `Mth 26:28` For this is my blood of the new testament, which is shed for *_many_* for the remission of sins.
-* `Mth 26:60` But found none. And though *_many_* false witnesses came, yet they found none. At last, two false witnesses came,
+* `Mth 26:60` But found none. And though *_many_* false witnesses came, yet they found none. At last, two false witnesses came
 * `Mth 27:13` Then Pilate says to him, "Do you not hear how *_many_* things they testify against you?"
 * `Mth 27:19` When he was sitting on the judgment-seat, his wife sent to him, saying, "Have nothing to do with that just man, for I have suffered *_many_* things this day in a dream because of him."
 * `Mth 27:52` And the graves were opened and *_many_* bodies of saints who slept, arose,
@@ -3779,7 +3779,7 @@ _5 verses containing MARRED_
 * `Mth 22:2` "The kingdom of heaven is like a certain king who made a *_marriage_* for his son,
 * `Mth 22:4` Again, he sent other servants, saying, 'Tell those who are invited, "Behold, I have prepared my dinner. My oxen and my fattened calves are killed and all things are ready. Come to the *_marriage_*."'
 * `Mth 22:9` Therefore, go into the highways, and as many as you shall find, invite to the *_marriage_*.'
-* `Mth 22:30` For in the resurrection they neither marry, nor are given in *_marriage_*, but are as the angels of God in heaven.
+* `Mth 22:30` For in the resurrection they neither marry nor are given in *_marriage_*, but are as the angels of God in heaven.
 * `Mth 24:38` For as in the days that were before the flood—they were eating and drinking, marrying and giving in *_marriage_*, until the day that Noah entered into the ark,
 * `Mth 25:10` And while they were going to buy, the bridegroom came. And those who were ready went in with him to the *_marriage_*. Then the door was shut.
 * `Mrk 12:25` For when they rise from the dead, they neither marry nor are given in *_marriage_*, but are as the angels who are in heaven.
@@ -3867,7 +3867,7 @@ _5 verses containing MARROW_
 * `Isa 62:5` For as a young man marries a virgin, so your sons shall *_marry_* you. And as the bridegroom rejoices over the bride, so your God will rejoice over you.
 * `Mth 19:10` His disciples say to him, "If that is the case of the man with his wife, it is not good to *_marry_*."
 * `Mth 22:24` Saying, "Master, Moses said, 'If a man dies, having no children, his brother shall *_marry_* his wife and raise up children for his brother.'
-* `Mth 22:30` For in the resurrection they neither *_marry_*, nor are given in marriage, but are as the angels of God in heaven.
+* `Mth 22:30` For in the resurrection they neither *_marry_* nor are given in marriage, but are as the angels of God in heaven.
 * `Mrk 12:25` For when they rise from the dead, they neither *_marry_* nor are given in marriage, but are as the angels who are in heaven.
 * `Luk 20:34` And Jesus, answering, said to them, "The children of this world *_marry_* and are given in marriage,
 * `Luk 20:35` But those who are accounted worthy to obtain that world and the resurrection from the dead neither *_marry_* nor are given in marriage,
@@ -4227,9 +4227,9 @@ _2 verses containing MAST_
 * `Mth 22:36` "*_Master_*, which is the great commandment in the law?"
 * `Mth 23:10` Do not be called masters, for One is your *_Master_*, even Christ.
 * `Mth 24:43` But know this, that if the *_master_* of the house knew in what watch the thief would come, he would watch and would not allow his house to be broken into.
-* `Mth 26:18` And he said, "Go into the city to such a man, and say to him, 'The *_Master_* says, "My time is at hand. I will keep the passover at your house with my disciples."'"
+* `Mth 26:18` And he said, "Go into the city to such a man and say to him, 'The *_Master_* says, "My time is at hand. I will keep the passover at your house with my disciples."'"
 * `Mth 26:25` Then Judas, who betrayed him, answered and said, "*_Master_*, is it I?" He said to him, "You have said."
-* `Mth 26:49` And immediately he came to Jesus, and said, "Hail *_Master_*," and kissed him.
+* `Mth 26:49` And immediately he came to Jesus and said, "Hail *_Master_*," and kissed him.
 * `Mrk 4:38` And he was in the back part of the boat asleep on a pillow. And they wake him, and say to him, "*_Master_*, do you not care that we perish?"
 * `Mrk 5:35` While he was still speaking, there came from the ruler of the synagogue's house some who said, "Your daughter is dead. Why do you trouble the *_Master_* any further?"
 * `Mrk 9:5` And Peter answered and said to Jesus, "*_Master_*, it is good for us to be here. Let us make three tabernacles: one for you, one for Moses, and one for Elijah."
@@ -5894,7 +5894,7 @@ _1 verse containing MAUL_
 * `1Pe 2:2` As new-born babies, desire the pure milk of the word so that you *_may_* grow thereby,
 * `1Pe 2:12` Having your manner of life honest among the Gentiles, so that, whereas they speak against you as evildoers, they *_may_* by your good works, which they shall behold, glorify God "on the day of visitation."
 * `1Pe 2:15` For this is the will of God: that with well-doing you *_may_* put to silence the ignorance of foolish men,
-* `1Pe 3:1` Likewise, wives, be in subjection to your own husbands so that if any do not obey the word, they also *_may_*, without the word, be won by the deportment of the wives
+* `1Pe 3:1` Likewise, wives, be in subjection to your own husbands so that if any do not obey the word, they *_may_* be won without a word by the deportment of the wives
 * `1Pe 3:16` Have a good conscience so that, whereas they speak evil of you as of evildoers, they *_may_* be ashamed who falsely accuse your good deportment in Christ.
 * `1Pe 4:11` If any man speaks, let him speak as the oracles of God. If any man ministers, let him do it as of the ability which God gives so that in all things God *_may_* be glorified through Jesus Christ, to whom be praise and dominion forever and ever. Amen.
 * `1Pe 4:13` But rejoice, seeing you are partakers of Christ's sufferings, so that when his glory is revealed you *_may_* also be glad with exceeding joy.

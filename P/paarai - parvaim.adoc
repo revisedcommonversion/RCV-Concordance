@@ -550,7 +550,7 @@ _2 verses containing PAPHOS_
 * `Mth 13:36` Then Jesus sent the multitude away and went into the house. And his disciples came to him, saying, "Declare to us the *_parable_* of the tares of the field."
 * `Mth 15:15` Then Peter answered and said to him, "Declare to us this *_parable_*."
 * `Mth 21:33` "Hear another *_parable_*. There was a certain householder who planted a vineyard, hedged it around, dug a wine-press in it, built a tower, and lent it out to farmers and went into a remote country.
-* `Mth 24:32` "Now learn a *_parable_* of the fig-tree. When its branch is yet tender and puts forth leaves, you know that summer is near.
+* `Mth 24:32` "Now learn a *_parable_* of the fig-tree. When its branch becomes tender and puts forth leaves, you know that summer is near.
 * `Mrk 4:10` And when he was alone, those who were around him, with the twelve, asked him about the *_parable_*.
 * `Mrk 4:13` And he said to them, "Do you not know this *_parable_*? And how then will you know all parables?
 * `Mrk 4:34` But without a *_parable_* he did not speak to them. And when they were alone, he expounded all things to his disciples.
@@ -587,7 +587,7 @@ _49 verses containing PARABLE_
 * `Mth 13:35` So that it might be fulfilled which was spoken by the prophet, saying, "I will open my mouth in *_parables_*. I will utter things which have been kept secret from the foundation of the world."
 * `Mth 13:53` And it came to pass when Jesus had finished these *_parables_*, that he departed from there.
 * `Mth 21:45` And when the chief priests and Pharisees had heard his *_parables_*, they perceived that he spoke of them.
-* `Mth 22:1` And Jesus answered and spoke to them again by *_parables_*, and said,
+* `Mth 22:1` And Jesus answered and spoke to them again by *_parables_* and said,
 * `Mrk 3:23` And he called them to him and said to them in *_parables_*, "How can Satan cast out Satan?
 * `Mrk 4:2` And he taught them many things by *_parables_* and said to them in his doctrine,
 * `Mrk 4:11` And he said to them, "To you it is given to know the mystery of the kingdom of God, but to those who are outside, all these things are done in *_parables_*,
