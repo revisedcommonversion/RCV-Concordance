@@ -1402,7 +1402,7 @@ _1 verse containing HOTTEST_
 * `Mth 26:40` And he comes to the disciples and finds them asleep. And he says to Peter, "What, could you not watch with me one *_hour_*?
 * `Mth 26:45` Then he comes to his disciples and says to them, "Sleep on now and take your rest. Behold, the *_hour_* is at hand and the Son of man is betrayed into the hands of sinners.
 * `Mth 26:55` In that same *_hour_*, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
-* `Mth 27:45` Now from the sixth *_hour_* there was darkness over all the land to the ninth *_hour_*.
+* `Mth 27:45` Now from the sixth *_hour_* there was darkness over all the land until the ninth *_hour_*.
 * `Mth 27:46` And about the ninth *_hour_* Jesus cried with a loud voice, saying, "Eli, Eli, lama sabachthani?" (That is to say, "My God, my God, why have you forsaken me?")
 * `Mrk 13:11` But when they lead you and deliver you up, do not be anxious beforehand of what you shall speak, neither premeditate. But whatever is given to you in that *_hour_*, speak it, for it is not you who speak, but the Holy Spirit.
 * `Mrk 13:32` But of that day and that *_hour_* no man knows, not even the angels which are in heaven, neither the Son, but the Father.
@@ -3129,7 +3129,7 @@ _3 verses containing HOURS_
 * `Luk 22:10` And he said to them, "Behold, when you have entered into the city, a man bearing a pitcher of water shall meet you there. Follow him into the *_house_* where he enters.
 * `Luk 22:11` And you shall say to the master of the *_house_*, 'The Master says to you, "Where is the guest-chamber where I may eat the passover with my disciples?"'
 * `Luk 22:54` Then they took him, led him, and brought him into the high priest's *_house_*. And Peter followed at a distance.
-* `Jhn 2:16` And said to those who sold doves, "Take these things from here. Do not make my Father's *_house_* a *_house_* of merchandise."
+* `Jhn 2:16` And he said to those who sold doves, "Take these things from here. Do not make my Father's *_house_* a *_house_* of merchandise."
 * `Jhn 2:17` And his disciples remembered that it was written, "The zeal of your *_house_* has eaten me up."
 * `Jhn 4:53` So the father knew that it was at the same hour in which Jesus said to him, "Your son lives." And he himself believed, along with his whole *_house_*.
 * `Jhn 7:53` And every man went to his own *_house_*.

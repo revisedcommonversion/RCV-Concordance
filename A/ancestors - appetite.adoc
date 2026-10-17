@@ -1965,7 +1965,7 @@ _139 verses containing ANSWER_
 * `Mth 27:12` And when he was accused by the chief priests and elders, he *_answered_* nothing.
 * `Mth 27:14` And he *_answered_* him not a word; therefore, the governor marveled greatly.
 * `Mth 27:21` The governor *_answered_* and said to them, "Which of the two do you wish that I release to you?" They said, "Barabbas."
-* `Mth 27:25` Then all the people *_answered_*, and said, "His blood is on us and on our children."
+* `Mth 27:25` Then all the people *_answered_* and said, "His blood is on us and on our children."
 * `Mth 28:5` And the angel *_answered_* and said to the women, "Do not fear, for I know that you seek Jesus who was crucified.
 * `Mrk 3:33` And he *_answered_* them, saying, "Who is my mother, or my brothers?"
 * `Mrk 5:9` And he asked him, "What is your name?" And he *_answered_*, saying, "My name is Legion, for we are many."
@@ -2027,7 +2027,7 @@ _139 verses containing ANSWER_
 * `Jhn 1:48` Nathanael says to him, "Where do you know me from?" Jesus *_answered_* and said to him, "Before Philip called you, when you were under the fig-tree, I saw you."
 * `Jhn 1:49` Nathanael *_answered_* and said to him, "Rabbi, you are the Son of God. You are the King of Israel."
 * `Jhn 1:50` Jesus *_answered_* and said to him, "Because I said to you, 'I saw you under the fig-tree,' do you believe? You shall see greater things than these."
-* `Jhn 2:18` Then the Jews *_answered_*, and said to him, "What sign do you show to us, seeing that you do these things?"
+* `Jhn 2:18` Then the Jews *_answered_* and said to him, "What sign do you show to us, seeing that you do these things?"
 * `Jhn 2:19` Jesus *_answered_* and said to them, "Destroy this temple, and in three days I will raise it up."
 * `Jhn 3:3` Jesus *_answered_* and said to him, "Truly, truly, I say to you, unless a man is born again, he cannot see the kingdom of God."
 * `Jhn 3:5` Jesus *_answered_*, "Truly, truly, I say to you, unless a man is born of water and of the Spirit, he cannot enter into the kingdom of God.

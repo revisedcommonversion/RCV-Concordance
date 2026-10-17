@@ -1167,7 +1167,7 @@ _43 verses containing NAKEDNESS_
 * `Luk 21:17` And you will be hated by all men for my *_name_*'s sake.
 * `Luk 24:18` And one of them, whose *_name_* was Cleopas, answering, said to him, "Are you only a stranger in Jerusalem and have not known the things which have come to pass there in these days?"
 * `Luk 24:47` And that repentance and remission of sins should be preached in his *_name_* among all nations, beginning at Jerusalem.
-* `Jhn 1:6` There was a man sent from God, whose *_name_* was John.
+* `Jhn 1:6` There was a man sent from God whose *_name_* was John.
 * `Jhn 1:12` But as many as received him, to them he gave power to become the sons of God, even to those who believe in his *_name_*,
 * `Jhn 2:23` Now when he was in Jerusalem at the passover, on the feast day, many believed in his *_name_* when they saw the miracles which he performed.
 * `Jhn 3:18` He who believes in him is not condemned, but he who does not believe is condemned already because he has not believed in the *_name_* of the only-begotten Son of God.
@@ -1679,9 +1679,9 @@ _1 verse containing NATHAN-MELECH_
 
 == NATHANAEL
 
-* `Jhn 1:45` Philip finds *_Nathanael_*, and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
+* `Jhn 1:45` Philip finds *_Nathanael_* and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
 * `Jhn 1:46` And *_Nathanael_* said to him, "Can any good thing come out of Nazareth?" Philip says to him, "Come and see."
-* `Jhn 1:47` Jesus saw *_Nathanael_* coming to him, and says of him, "Behold an Israelite indeed, in whom there is no guile!"
+* `Jhn 1:47` Jesus saw *_Nathanael_* coming to him, and about him he says, "Behold an Israelite indeed, in whom there is no guile!"
 * `Jhn 1:48` *_Nathanael_* says to him, "Where do you know me from?" Jesus answered and said to him, "Before Philip called you, when you were under the fig-tree, I saw you."
 * `Jhn 1:49` *_Nathanael_* answered and said to him, "Rabbi, you are the Son of God. You are the King of Israel."
 * `Jhn 21:2` Simon Peter, Thomas called Didymus, *_Nathanael_* of Cana in Galilee, the sons of Zebedee, and two others of his disciples were together.
@@ -2264,7 +2264,7 @@ _1 verse containing NAZARENES_
 * `Luk 4:34` Saying, "Leave us alone. What have we to do with you, Jesus of *_Nazareth_*? Have you come to destroy us? I know who you are—the Holy One of God."
 * `Luk 18:37` And they told him that Jesus of *_Nazareth_* was passing by.
 * `Luk 24:19` And he said to them, "What things?" And they said to him, "Concerning Jesus of *_Nazareth_*, who was a prophet mighty in deed and word before God and all the people,
-* `Jhn 1:45` Philip finds Nathanael, and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of *_Nazareth_*, the son of Joseph."
+* `Jhn 1:45` Philip finds Nathanael and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of *_Nazareth_*, the son of Joseph."
 * `Jhn 1:46` And Nathanael said to him, "Can any good thing come out of *_Nazareth_*?" Philip says to him, "Come and see."
 * `Jhn 18:5` They answered him, "Jesus of *_Nazareth_*." Jesus says to them, "I am he." And Judas also, who betrayed him, stood with them.
 * `Jhn 18:7` Then he asked them again, "Whom do you seek?" And they said, "Jesus of *_Nazareth_*."

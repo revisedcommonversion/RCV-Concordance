@@ -353,9 +353,9 @@ _1 verse containing JESURUN_
 * `Mth 26:75` And Peter remembered the word of *_Jesus_*, who said to him, "Before the cock crows, you will deny me three times." And he went out and wept bitterly.
 * `Mth 27:1` When the morning came, all the chief priests and elders of the people took counsel against *_Jesus_* to put him to death.
 * `Mth 27:11` And *_Jesus_* stood before the governor. And the governor asked him, saying, "Are you the King of the Jews?" And *_Jesus_* said to him, "You say."
-* `Mth 27:17` Therefore, when they were assembled, Pilate said to them, "Whom do you wish that I release to you? Barabbas, or *_Jesus_*, who is called Christ?"
+* `Mth 27:17` Therefore, when they were assembled, Pilate said to them, "Whom do you wish that I release to you? Barabbas, or *_Jesus_* who is called Christ?"
 * `Mth 27:20` But the chief priests and elders persuaded the multitude that they should ask for Barabbas and destroy *_Jesus_*.
-* `Mth 27:22` Pilate says to them, "What shall I do then with *_Jesus_*, who is called Christ?" They all say to him, "Let him be crucified."
+* `Mth 27:22` Pilate says to them, "What shall I do then with *_Jesus_* who is called Christ?" They all say to him, "Let him be crucified."
 * `Mth 27:26` Then he released Barabbas to them. And when he had scourged *_Jesus_*, he delivered him to be crucified.
 * `Mth 27:27` Then the soldiers of the governor took *_Jesus_* into the common hall and gathered the whole band of soldiers to him.
 * `Mth 27:37` And they set up over his head his accusation written, "THIS IS *_JESUS_* THE KING OF THE JEWS."
@@ -369,7 +369,7 @@ _1 verse containing JESURUN_
 * `Mth 28:9` And as they were going to tell his disciples, behold, *_Jesus_* met them, saying, "All hail." And they came, held him by the feet, and worshiped him.
 * `Mth 28:10` Then *_Jesus_* said to them, "Do not be afraid. Go tell my brothers to go into Galilee, and there they shall see me."
 * `Mth 28:16` Then the eleven disciples went away into Galilee to a mountain where *_Jesus_* had appointed them.
-* `Mth 28:18` And *_Jesus_* came, and spoke to them, saying, "All power is given to me in heaven and upon earth.
+* `Mth 28:18` And *_Jesus_* came and spoke to them, saying, "All power is given to me in heaven and upon earth.
 * `Mrk 1:1` [The beginning of the gospel of *_Jesus_* Christ the Son of God.]
 * `Mrk 1:9` And it came to pass in those days, that *_Jesus_* came from Nazareth to Galilee and was baptized by John in the Jordan.
 * `Mrk 1:14` Now after John was put in prison, *_Jesus_* came into Galilee, preaching the gospel of the kingdom of God,
@@ -561,14 +561,14 @@ _1 verse containing JESURUN_
 * `Luk 24:19` And he said to them, "What things?" And they said to him, "Concerning *_Jesus_* of Nazareth, who was a prophet mighty in deed and word before God and all the people,
 * `Luk 24:36` And as they were thus speaking, *_Jesus_* himself stood in the midst of them, and says to them, "Peace be to you."
 * `Jhn 1:17` For the law was given by Moses, but grace and truth came by *_Jesus_* Christ.
-* `Jhn 1:29` The next day John sees *_Jesus_* coming to him, and says, "Behold the Lamb of God who takes away the sin of the world.
+* `Jhn 1:29` The next day John sees *_Jesus_* coming to him and says, "Behold the Lamb of God who takes away the sin of the world.
 * `Jhn 1:36` And looking upon *_Jesus_* as he walked, he says, "Behold the Lamb of God!"
 * `Jhn 1:37` And the two disciples heard him speak and they followed *_Jesus_*.
-* `Jhn 1:38` Then *_Jesus_* turned and saw them following, and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
+* `Jhn 1:38` Then *_Jesus_* turned and saw them following and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
 * `Jhn 1:42` And he brought him to *_Jesus_*. And when *_Jesus_* beheld him, he said, "You are Simon the son of Jonah. You shall be called Cephas," (which is, by interpretation, a stone).
-* `Jhn 1:43` The day following, *_Jesus_* wished to go forth into Galilee and finds Philip, and says to him, "Follow me."
-* `Jhn 1:45` Philip finds Nathanael, and says to him, "We have found him described by Moses in the law and by the prophets, *_Jesus_* of Nazareth, the son of Joseph."
-* `Jhn 1:47` *_Jesus_* saw Nathanael coming to him, and says of him, "Behold an Israelite indeed, in whom there is no guile!"
+* `Jhn 1:43` The day following, *_Jesus_* wished to go forth into Galilee. And he finds Philip and says to him, "Follow me."
+* `Jhn 1:45` Philip finds Nathanael and says to him, "We have found him described by Moses in the law and by the prophets, *_Jesus_* of Nazareth, the son of Joseph."
+* `Jhn 1:47` *_Jesus_* saw Nathanael coming to him, and about him he says, "Behold an Israelite indeed, in whom there is no guile!"
 * `Jhn 1:48` Nathanael says to him, "Where do you know me from?" *_Jesus_* answered and said to him, "Before Philip called you, when you were under the fig-tree, I saw you."
 * `Jhn 1:50` *_Jesus_* answered and said to him, "Because I said to you, 'I saw you under the fig-tree,' do you believe? You shall see greater things than these."
 * `Jhn 2:1` And on the third day there was a marriage in Cana of Galilee, and the mother of *_Jesus_* was there.
@@ -580,7 +580,7 @@ _1 verse containing JESURUN_
 * `Jhn 2:13` And the Jews' passover was at hand, and *_Jesus_* went up to Jerusalem.
 * `Jhn 2:19` *_Jesus_* answered and said to them, "Destroy this temple, and in three days I will raise it up."
 * `Jhn 2:22` When therefore he had risen from the dead, his disciples remembered that he had said this to them. And they believed the Scripture and the word which *_Jesus_* had spoken.
-* `Jhn 2:24` But *_Jesus_* did not commit himself to them, for he knew all men,
+* `Jhn 2:24` But *_Jesus_* did not commit himself to them, for he knew all men
 * `Jhn 3:2` The same came to *_Jesus_* by night and said to him, "Rabbi, we know that you are a teacher come from God, for no man can do these miracles that you do unless God is with him."
 * `Jhn 3:3` *_Jesus_* answered and said to him, "Truly, truly, I say to you, unless a man is born again, he cannot see the kingdom of God."
 * `Jhn 3:5` *_Jesus_* answered, "Truly, truly, I say to you, unless a man is born of water and of the Spirit, he cannot enter into the kingdom of God.
@@ -1395,7 +1395,7 @@ _4 verses containing JEWISH_
 * `Jhn 1:19` And this is the testimony of John when the *_Jews_* sent priests and Levites from Jerusalem to ask him, "Who are you?"
 * `Jhn 2:6` And six water-pots of stone were set there, after the manner of the purifying of the *_Jews_*, containing two or three measures apiece.
 * `Jhn 2:13` And the *_Jews_*' passover was at hand, and Jesus went up to Jerusalem.
-* `Jhn 2:18` Then the *_Jews_* answered, and said to him, "What sign do you show to us, seeing that you do these things?"
+* `Jhn 2:18` Then the *_Jews_* answered and said to him, "What sign do you show to us, seeing that you do these things?"
 * `Jhn 2:20` Then the *_Jews_* said, "Forty-six years this temple was in building, and will you rear it up in three days?"
 * `Jhn 3:1` There was a man of the Pharisees named Nicodemus, a ruler of the *_Jews_*.
 * `Jhn 3:25` Then there arose a question between some of John's disciples and the *_Jews_* about purifying.
@@ -3222,12 +3222,12 @@ _27 verses containing JOHANAN_
 * `Luk 20:4` The baptism of *_John_*, was it from heaven, or from men?"
 * `Luk 20:6` But if we say, 'From men,' all the people will stone us, for they are persuaded that *_John_* was a prophet."
 * `Luk 22:8` And he sent Peter and *_John_*, saying, "Go and prepare for us the passover so that we may eat."
-* `Jhn 1:6` There was a man sent from God, whose name was *_John_*.
-* `Jhn 1:15` *_John_* testified concerning him, and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
+* `Jhn 1:6` There was a man sent from God whose name was *_John_*.
+* `Jhn 1:15` *_John_* testified concerning him and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
 * `Jhn 1:19` And this is the testimony of *_John_* when the Jews sent priests and Levites from Jerusalem to ask him, "Who are you?"
 * `Jhn 1:26` *_John_* answered them, saying, "I baptize with water, but there stands one among you whom you do not know.
 * `Jhn 1:28` These things were done in Bethabara beyond the Jordan where *_John_* was baptizing.
-* `Jhn 1:29` The next day *_John_* sees Jesus coming to him, and says, "Behold the Lamb of God who takes away the sin of the world.
+* `Jhn 1:29` The next day *_John_* sees Jesus coming to him and says, "Behold the Lamb of God who takes away the sin of the world.
 * `Jhn 1:32` And *_John_* bore testimony, saying, "I saw the Spirit descending from heaven like a dove, and it stayed upon him.
 * `Jhn 1:35` Again the next day, *_John_* stood, along with two of his disciples,
 * `Jhn 1:40` One of the two who heard *_John_* speak and followed him was Andrew, Simon Peter's brother.

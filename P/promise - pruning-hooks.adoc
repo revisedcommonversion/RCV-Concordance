@@ -661,7 +661,7 @@ _1 verse containing PROPHESYINGS_
 * `Luk 24:19` And he said to them, "What things?" And they said to him, "Concerning Jesus of Nazareth, who was a *_prophet_* mighty in deed and word before God and all the people,
 * `Jhn 1:21` And they asked him, "What then? Are you Elijah?" And he says, "I am not." "Are you that *_prophet_*?" And he answered, "No."
 * `Jhn 1:23` He said, "I am 'the voice of one crying in the wilderness, "Make straight the way of the Lord,"' as the *_prophet_* Isaiah said."
-* `Jhn 1:25` And they asked him, and said to him, "Why do you baptize then, if you are not that Christ, nor Elijah, neither that *_prophet_*?"
+* `Jhn 1:25` And they asked him and said to him, "Why do you baptize then if you are not that Christ, nor Elijah, nor that *_prophet_*?"
 * `Jhn 4:19` The woman says to him, "Sir, I perceive that you are a *_prophet_*.
 * `Jhn 4:44` For Jesus himself testified that a *_prophet_* has no honor in his own country.
 * `Jhn 6:14` Then those men, when they had seen the miracle that Jesus performed, said, "This is truly that *_prophet_* who should come into the world."
@@ -883,7 +883,7 @@ _8 verses containing PROPHETESS_
 * `Luk 24:25` Then he said to them, "O fools, and slow of heart to believe all that the *_prophets_* have spoken!
 * `Luk 24:27` And beginning at Moses and all the *_prophets_*, he expounded to them in all the Scriptures the things concerning himself.
 * `Luk 24:44` And he said to them, "These are the words which I spoke to you while I was still with you, that all things must be fulfilled which were written concerning me in the law of Moses, in the *_prophets_*, and in the psalms."
-* `Jhn 1:45` Philip finds Nathanael, and says to him, "We have found him described by Moses in the law and by the *_prophets_*, Jesus of Nazareth, the son of Joseph."
+* `Jhn 1:45` Philip finds Nathanael and says to him, "We have found him described by Moses in the law and by the *_prophets_*, Jesus of Nazareth, the son of Joseph."
 * `Jhn 6:45` It is written in the *_prophets_*, 'And they shall be all taught from God.' Every man therefore who has heard and has learned from the Father comes to me.
 * `Jhn 8:52` Then the Jews said to him, "Now we know that you have a demon. Abraham is dead, and the *_prophets_* also, and you say, 'If a man keeps my saying, he shall never taste death.'
 * `Jhn 8:53` Are you greater than our father Abraham who is dead? And the *_prophets_* are also dead. Whom do you make yourself out to be?"

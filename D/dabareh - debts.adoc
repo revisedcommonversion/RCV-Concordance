@@ -1106,7 +1106,7 @@ _1 verse containing DARKISH_
 * `Mth 10:27` What I tell you in *_darkness_*, speak in the light. And what you hear in the ear, publish it upon the house-tops.
 * `Mth 22:13` Then the king said to the servants, 'Bind him hand and foot and take him away and cast him into outer *_darkness_*. There shall be weeping and gnashing of teeth.'
 * `Mth 25:30` And cast the unprofitable servant into outer *_darkness_*. There shall be weeping and gnashing of teeth.'
-* `Mth 27:45` Now from the sixth hour there was *_darkness_* over all the land to the ninth hour.
+* `Mth 27:45` Now from the sixth hour there was *_darkness_* over all the land until the ninth hour.
 * `Mrk 15:33` And when the sixth hour had come, there was *_darkness_* over the whole land until the ninth hour.
 * `Luk 1:79` To 'give light to those who sit in *_darkness_* and in the shadow of death,' to guide our feet into the way of peace."
 * `Luk 11:34` The light of the body is the eye. Therefore, when your eye is single, your whole body is also full of light, but when your eye is evil, your body is also full of *_darkness_*.
@@ -4148,10 +4148,10 @@ _1 verse containing DAWNS_
 * `Luk 24:21` But we trusted that it had been he who would have redeemed Israel. And besides all this, today is the third *_day_* since these things were done.
 * `Luk 24:29` But they constrained him, saying, "Abide with us, for it is toward evening and the *_day_* is far spent." And he went in to stay with them.
 * `Luk 24:46` And said to them, "Thus it is written, and thus it behooved Christ to suffer and to rise from the dead on the third *_day_*,
-* `Jhn 1:29` The next *_day_* John sees Jesus coming to him, and says, "Behold the Lamb of God who takes away the sin of the world.
+* `Jhn 1:29` The next *_day_* John sees Jesus coming to him and says, "Behold the Lamb of God who takes away the sin of the world.
 * `Jhn 1:35` Again the next *_day_*, John stood, along with two of his disciples,
 * `Jhn 1:39` He says to them, "Come and see." They came and saw where he dwelt and stayed with him that *_day_*, for it was about the tenth hour.
-* `Jhn 1:43` The *_day_* following, Jesus wished to go forth into Galilee and finds Philip, and says to him, "Follow me."
+* `Jhn 1:43` The *_day_* following, Jesus wished to go forth into Galilee. And he finds Philip and says to him, "Follow me."
 * `Jhn 2:1` And on the third *_day_* there was a marriage in Cana of Galilee, and the mother of Jesus was there.
 * `Jhn 2:23` Now when he was in Jerusalem at the passover, on the feast *_day_*, many believed in his name when they saw the miracles which he performed.
 * `Jhn 5:9` And immediately the man was healed and he took up his bed and walked. Now on the same *_day_* was the sabbath.
@@ -5008,7 +5008,7 @@ _8 verses containing DAY-TIME_
 * `Mth 26:2` "You know that after two *_days_* is the passover and the Son of man is betrayed to be crucified."
 * `Mth 26:61` And said, "This man said, 'I am able to destroy the temple of God and to build it in three *_days_*.'"
 * `Mth 27:40` And saying, "You who destroy the temple and build it in three *_days_*, save yourself. If you are the Son of God, come down from the cross."
-* `Mth 27:63` Saying, "Sir, we remember what that deceiver said while he was yet alive, 'After three *_days_* I will rise again.'
+* `Mth 27:63` Saying, "Sir, we remember what that deceiver said while he was still alive, 'After three *_days_* I will rise again.'
 * `Mrk 1:9` And it came to pass in those *_days_*, that Jesus came from Nazareth to Galilee and was baptized by John in the Jordan.
 * `Mrk 1:13` And he was there in the wilderness forty *_days_* tempted by Satan. He was with the wild beasts, and the angels ministered to him.
 * `Mrk 2:1` And again he entered into Capernaum after some *_days_*, and it was understood that he was in the house.
@@ -5336,7 +5336,7 @@ _3 verses containing DEACONS_
 * `Mth 23:27` "Woe to you, scribes and Pharisees! Hypocrites! For you are like whitened sepulchers, which indeed appear beautiful outwardly, but are within full of *_dead_* men's bones and of all uncleanness.
 * `Mth 27:64` Therefore, command that the sepulcher be made secure until the third day, lest his disciples come by night and steal him away and say to the people, 'He has risen from the *_dead_*.' Thus the last error will be worse than the first."
 * `Mth 28:4` And for fear of him the keepers trembled and became as *_dead_* men.
-* `Mth 28:7` And go quickly and tell his disciples, 'He has risen from the *_dead_*, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
+* `Mth 28:7` Then go quickly and tell his disciples, 'He has risen from the *_dead_*, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
 * `Mrk 5:35` While he was still speaking, there came from the ruler of the synagogue's house some who said, "Your daughter is *_dead_*. Why do you trouble the Master any further?"
 * `Mrk 5:39` And when he had come in, he says to them, "Why do you make this tumult and weep? The girl is not *_dead_*, but sleeps."
 * `Mrk 6:14` And king Herod heard about him (for his name was spread abroad), and he said, "John the Baptist has risen from the *_dead_*, and therefore, mighty works show themselves forth in him."

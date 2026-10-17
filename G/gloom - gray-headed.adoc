@@ -1830,7 +1830,7 @@ _1 verse containing GNAWED_
 * `Mth 26:32` But after I am risen again, I will *_go_* before you into Galilee."
 * `Mth 26:36` Then Jesus comes with them to a place called Gethsemane and says to the disciples, "Sit here while I *_go_* yonder and pray."
 * `Mth 27:65` Pilate said to them, "You have a watch. *_Go_*, make it as secure as you can."
-* `Mth 28:7` And *_go_* quickly and tell his disciples, 'He has risen from the dead, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
+* `Mth 28:7` Then *_go_* quickly and tell his disciples, 'He has risen from the dead, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
 * `Mth 28:10` Then Jesus said to them, "Do not be afraid. *_Go_* tell my brothers to *_go_* into Galilee, and there they shall see me."
 * `Mth 28:19` Therefore, *_go_* and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,
 * `Mrk 1:38` And he said to them, "Let us *_go_* into the next towns so that I may preach there also, for I have come for this purpose."
@@ -1910,7 +1910,7 @@ _1 verse containing GNAWED_
 * `Luk 22:68` And if I also ask you, you will not answer me, nor let me *_go_*.
 * `Luk 23:22` And he said to them the third time, "Why? What evil has he done? I have found no cause of death in him. I will therefore chastise him and let him *_go_*."
 * `Luk 24:28` And they drew near to the village where they were going, and he acted as though he would *_go_* further.
-* `Jhn 1:43` The day following, Jesus wished to *_go_* forth into Galilee and finds Philip, and says to him, "Follow me."
+* `Jhn 1:43` The day following, Jesus wished to *_go_* forth into Galilee. And he finds Philip and says to him, "Follow me."
 * `Jhn 4:4` And he must *_go_* through Samaria.
 * `Jhn 4:16` Jesus says to her, "*_Go_*, call your husband and come here."
 * `Jhn 4:50` Jesus says to him, "*_Go_*. Your son lives." And the man believed the word that Jesus had spoken to him and departed.
@@ -5103,11 +5103,11 @@ _1 verse containing GOBLET_
 * `Luk 24:53` And were continually in the temple, praising and blessing *_God_*. Amen.
 * `Jhn 1:1` In the beginning was the Word, and the Word was with *_God_*, and the Word was *_God_*.
 * `Jhn 1:2` The same was in the beginning with *_God_*.
-* `Jhn 1:6` There was a man sent from *_God_*, whose name was John.
+* `Jhn 1:6` There was a man sent from *_God_* whose name was John.
 * `Jhn 1:12` But as many as received him, to them he gave power to become the sons of *_God_*, even to those who believe in his name,
 * `Jhn 1:13` Who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of *_God_*.
 * `Jhn 1:18` No man has seen *_God_* at any time. The only begotten Son, who is in the bosom of the Father, he has declared him.
-* `Jhn 1:29` The next day John sees Jesus coming to him, and says, "Behold the Lamb of *_God_* who takes away the sin of the world.
+* `Jhn 1:29` The next day John sees Jesus coming to him and says, "Behold the Lamb of *_God_* who takes away the sin of the world.
 * `Jhn 1:34` And I saw and bore testimony that this is the Son of *_God_*."
 * `Jhn 1:36` And looking upon Jesus as he walked, he says, "Behold the Lamb of *_God_*!"
 * `Jhn 1:49` Nathanael answered and said to him, "Rabbi, you are the Son of *_God_*. You are the King of Israel."
@@ -5119,7 +5119,7 @@ _1 verse containing GOBLET_
 * `Jhn 3:17` For *_God_* did not send his Son into the world to condemn the world, but that the world through him may be saved.
 * `Jhn 3:18` He who believes in him is not condemned, but he who does not believe is condemned already because he has not believed in the name of the only-begotten Son of *_God_*.
 * `Jhn 3:21` But he who does truth comes to the light so that his deeds may be made manifest, that they are wrought in *_God_*."
-* `Jhn 3:33` He who has received his testimony, has set to his seal that *_God_* is true.
+* `Jhn 3:33` He who has received his testimony has set to his seal that *_God_* is true.
 * `Jhn 3:34` For he whom *_God_* has sent, speaks the words of *_God_*, for *_God_* does not give the Spirit by measure to him.
 * `Jhn 3:36` He who believes in the Son has everlasting life, and he who does not believe the Son shall not see life, but the wrath of *_God_* abides on him."
 * `Jhn 4:10` Jesus answered and said to her, "If you knew the gift of *_God_* and who it is who says to you, 'Give me a drink,' you would have asked him, and he would have given you living water."
@@ -6458,7 +6458,7 @@ _213 verses containing GODS_
 * `Mth 15:11` That which *_goes_* into the mouth does not defile a man, but that which comes out of the mouth, this defiles a man."
 * `Mth 15:17` Do you not yet understand that whatever enters in at the mouth *_goes_* into the belly and is cast out into the latrine?
 * `Mth 26:24` The Son of man *_goes_*, as it is written concerning him. But woe to that man by whom the Son of man is betrayed! It would have been good for that man if he had not been born."
-* `Mth 28:7` And go quickly and tell his disciples, 'He has risen from the dead, and behold, he *_goes_* before you into Galilee. There you shall see him.' Behold, I have told you."
+* `Mth 28:7` Then go quickly and tell his disciples, 'He has risen from the dead, and behold, he *_goes_* before you into Galilee. There you shall see him.' Behold, I have told you."
 * `Mrk 3:13` And he *_goes_* up upon a mountain and calls to him whom he wished, and they came to him.
 * `Mrk 7:19` Because it does not enter into his heart, but into the belly, and *_goes_* out into the latrine, purging all kinds of food?"
 * `Mrk 14:14` And wherever he *_goes_* in, say to the master of the house, 'The Master says, "Where is the guest-chamber where I may eat the passover with my disciples?"'
@@ -6470,7 +6470,7 @@ _213 verses containing GODS_
 * `Luk 11:26` Then he *_goes_* and takes with him seven other spirits more wicked than himself, and they enter in and dwell there. Then the last state of that man is worse than the first."
 * `Luk 16:30` And he said, 'No, father Abraham, but if one *_goes_* to them from the dead, they will repent.'
 * `Luk 22:22` And truly the Son of man *_goes_* as it was determined. But woe to that man by whom he is betrayed!"
-* `Jhn 3:8` The wind blows where it wishes and you hear its sound, but cannot tell where it comes from and where it *_goes_*. Thus is everyone who is born of the Spirit."
+* `Jhn 3:8` The wind blows where it wishes. You hear its sound, but you cannot tell where it comes from and where it *_goes_*. Thus is everyone who is born of the Spirit."
 * `Jhn 10:4` And when he puts forth his own sheep, he *_goes_* before them, and the sheep follow him, for they know his voice.
 * `Jhn 11:31` Then the Jews who were with her in the house and comforting her, when they saw that Mary rose hastily and went out, followed her, saying, "She *_goes_* to the grave to weep there."
 * `Jhn 12:35` Then Jesus said to them, "Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you. For he who walks in darkness does not know where he *_goes_*.

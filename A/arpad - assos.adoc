@@ -1254,7 +1254,7 @@ _108 verses containing ASK_
 * `Luk 23:3` And Pilate *_asked_* him, saying, "Are you the King of the Jews?" And he answered him and said, "You say it."
 * `Luk 23:6` When Pilate heard of Galilee, he *_asked_* whether the man was a Galilean.
 * `Jhn 1:21` And they *_asked_* him, "What then? Are you Elijah?" And he says, "I am not." "Are you that prophet?" And he answered, "No."
-* `Jhn 1:25` And they *_asked_* him, and said to him, "Why do you baptize then, if you are not that Christ, nor Elijah, neither that prophet?"
+* `Jhn 1:25` And they *_asked_* him and said to him, "Why do you baptize then if you are not that Christ, nor Elijah, nor that prophet?"
 * `Jhn 4:10` Jesus answered and said to her, "If you knew the gift of God and who it is who says to you, 'Give me a drink,' you would have *_asked_* him, and he would have given you living water."
 * `Jhn 4:31` In the meantime, his disciples *_asked_* him, saying, "Master, eat."
 * `Jhn 4:52` Then he *_asked_* them the hour when he began to get better, and they said to him, "Yesterday at the seventh hour the fever left him."
@@ -1576,7 +1576,7 @@ _45 verses containing ASSEMBLE_
 * `Mth 22:41` While the Pharisees were *_assembled_*, Jesus asked them,
 * `Mth 26:3` Then the chief priests, the scribes, and the elders of the people *_assembled_* in the palace of the high priest, who was called Caiaphas,
 * `Mth 26:57` And those who had laid hold upon Jesus led him away to Caiaphas the high priest where the scribes and the elders were *_assembled_*.
-* `Mth 27:17` Therefore, when they were *_assembled_*, Pilate said to them, "Whom do you wish that I release to you? Barabbas, or Jesus, who is called Christ?"
+* `Mth 27:17` Therefore, when they were *_assembled_*, Pilate said to them, "Whom do you wish that I release to you? Barabbas, or Jesus who is called Christ?"
 * `Mth 28:12` And when they were *_assembled_* with the elders and had taken counsel, they gave a large sum of money to the soldiers,
 * `Mrk 2:2` And immediately many were *_assembled_* so that there was no room to receive them, not even at the door. And he preached the word to them.
 * `Mrk 6:30` And the apostles *_assembled_* themselves to Jesus and told him all things, both what they had done and what they had taught.

@@ -510,7 +510,7 @@ _1 verse containing SIGHTS_
 * `Luk 11:29` And when the people were assembled in crowds, he began to say, "This is an evil generation. They seek a *_sign_*, and there shall no *_sign_* be given to it, but the *_sign_* of Jonah the prophet.
 * `Luk 11:30` For as Jonah was a *_sign_* to the Ninevites, so also the Son of man shall be to this generation.
 * `Luk 21:7` And they asked him, saying, "Master, but when will these things be? And what *_sign_* will there be when these things shall come to pass?"
-* `Jhn 2:18` Then the Jews answered, and said to him, "What *_sign_* do you show to us, seeing that you do these things?"
+* `Jhn 2:18` Then the Jews answered and said to him, "What *_sign_* do you show to us, seeing that you do these things?"
 * `Jhn 6:30` They said therefore to him, "What *_sign_* do you show then so that we may see and believe you? What do you work?
 * `Act 28:11` And after three months, we departed in a ship from Alexandria that had wintered on the island, whose *_sign_* was Castor and Pollux.
 * `Rom 4:11` And he received the *_sign_* of circumcision, a seal of the righteousness of the faith, which he had while still uncircumcised, so that he might be the father of all those who believe, though they are not circumcised, so that righteousness might be imputed to them also;
@@ -1087,7 +1087,7 @@ _4 verses containing SILVANUS_
 * `Mth 26:15` And said, "What will you give me if I deliver him to you?" And they weighed out for him thirty pieces of *_silver_*.
 * `Mth 27:3` Then Judas, who had betrayed him, when he saw that he was condemned, repented and brought the thirty pieces of *_silver_* back to the chief priests and elders,
 * `Mth 27:5` And he cast down the pieces of *_silver_* in the temple, departed, and went and hanged himself.
-* `Mth 27:6` And the chief priests took the *_silver_* pieces, and said, "It is not lawful to put them into the treasury because it is the price of blood."
+* `Mth 27:6` And the chief priests took the *_silver_* pieces and said, "It is not lawful to put them into the treasury because it is the price of blood."
 * `Mth 27:9` Then that which was spoken by Jeremiah the prophet was fulfilled, saying, "'And they took the thirty pieces of *_silver_*,' 'the price of him who was valued,' whom they of the children of Israel valued,
 * `Luk 15:8` "Or what woman having ten pieces of *_silver_*, if she loses one piece, does not light a candle, sweep the house, and diligently seek until she finds it?
 * `Act 3:6` Then Peter said, "I do not have *_silver_* and gold, but what I have, I give you. In the name of Jesus Christ of Nazareth, rise up and walk."
@@ -1243,7 +1243,7 @@ _1 verse containing SIMILITUDES_
 * `Luk 23:26` And as they led him away, they laid hold upon one, *_Simon_*, a Cyrenian, coming out of the country, and on him they laid the cross so that he might bear it after Jesus.
 * `Luk 24:34` Saying, "The Lord has risen indeed and has appeared to *_Simon_*."
 * `Jhn 1:40` One of the two who heard John speak and followed him was Andrew, *_Simon_* Peter's brother.
-* `Jhn 1:41` He first finds his own brother *_Simon_*, and says to him, "We have found the Messiah," (which is, being interpreted, the Christ).
+* `Jhn 1:41` He first finds his own brother *_Simon_* and says to him, "We have found the Messiah," (which is, being interpreted, the Christ).
 * `Jhn 1:42` And he brought him to Jesus. And when Jesus beheld him, he said, "You are *_Simon_* the son of Jonah. You shall be called Cephas," (which is, by interpretation, a stone).
 * `Jhn 6:8` One of his disciples, Andrew, *_Simon_* Peter's brother, says to him,
 * `Jhn 6:68` Then *_Simon_* Peter answered him, "Lord, to whom shall we go? You have the words of eternal life.
@@ -1632,7 +1632,7 @@ _1 verse containing SIMRI_
 * `Mrk 9:47` And if your eye causes you to fall into *_sin_*, pluck it out. It is better for you to enter into the kingdom of God with one eye than with two eyes to be cast into hell-fire,
 * `Luk 17:1` Then he said to the disciples, "It is impossible for the causes of *_sin_* to not come. But woe to him by whom they come!
 * `Luk 17:2` It would be better for him that a millstone were hanged around his neck and he were cast into the sea than that he should cause one of these little ones to fall into *_sin_*.
-* `Jhn 1:29` The next day John sees Jesus coming to him, and says, "Behold the Lamb of God who takes away the *_sin_* of the world.
+* `Jhn 1:29` The next day John sees Jesus coming to him and says, "Behold the Lamb of God who takes away the *_sin_* of the world.
 * `Jhn 5:14` Afterward, Jesus finds him in the temple, and said to him, "Behold, you are cured. *_Sin_* no more, lest a worse thing come to you."
 * `Jhn 8:7` So when they continued asking him, he raised himself and said to them, "He who is without *_sin_* among you, let him cast the first stone at her."
 * `Jhn 8:11` She said, "No man, Lord." And Jesus said to her, "Neither do I condemn you. Go, and *_sin_* no more."
@@ -2742,7 +2742,7 @@ _1 verse containing SIPPAI_
 * `Gen 43:20` And said, "O *_sir_*, we came down indeed at the first time to buy food.
 * `Mth 13:27` So the servants of the householder came and said to him, '*_Sir_*, did you not sow good seed in your field? How then does it have tares?'
 * `Mth 21:30` And he came to the second and said likewise. And he answered and said, 'I go, *_sir_*,' and did not go.
-* `Mth 27:63` Saying, "*_Sir_*, we remember what that deceiver said while he was yet alive, 'After three days I will rise again.'
+* `Mth 27:63` Saying, "*_Sir_*, we remember what that deceiver said while he was still alive, 'After three days I will rise again.'
 * `Jhn 4:11` The woman says to him, "*_Sir_*, you have nothing to draw with and the well is deep. From where then do you get that living water?
 * `Jhn 4:15` The woman says to him, "*_Sir_*, give me this water so that I may not thirst, neither come here to draw."
 * `Jhn 4:19` The woman says to him, "*_Sir_*, I perceive that you are a prophet.

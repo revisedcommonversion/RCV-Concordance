@@ -722,9 +722,9 @@ _1 verse containing PHILETUS_
 * `Luk 3:1` Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother *_Philip_* tetrarch of Iturea and of the region of Trachonitis, and Lysanius the tetrarch of Abilene,
 * `Luk 3:19` But Herod the tetrarch, being reproved by him on account of Herodias, his brother *_Philip_*'s wife, and for all the evils which Herod had done,
 * `Luk 6:14` Simon (whom he also named Peter) and Andrew his brother, James and John, *_Philip_* and Bartholomew,
-* `Jhn 1:43` The day following, Jesus wished to go forth into Galilee and finds *_Philip_*, and says to him, "Follow me."
+* `Jhn 1:43` The day following, Jesus wished to go forth into Galilee. And he finds *_Philip_* and says to him, "Follow me."
 * `Jhn 1:44` Now *_Philip_* was from Bethsaida, the city of Andrew and Peter.
-* `Jhn 1:45` *_Philip_* finds Nathanael, and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
+* `Jhn 1:45` *_Philip_* finds Nathanael and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
 * `Jhn 1:46` And Nathanael said to him, "Can any good thing come out of Nazareth?" *_Philip_* says to him, "Come and see."
 * `Jhn 1:48` Nathanael says to him, "Where do you know me from?" Jesus answered and said to him, "Before *_Philip_* called you, when you were under the fig-tree, I saw you."
 * `Jhn 6:5` When Jesus then lifted up his eyes and saw a great company come to him, he says to *_Philip_*, "Where shall we buy bread so that these may eat?"
@@ -1358,7 +1358,7 @@ _44 verses containing PIECE_
 * `Mth 26:15` And said, "What will you give me if I deliver him to you?" And they weighed out for him thirty *_pieces_* of silver.
 * `Mth 27:3` Then Judas, who had betrayed him, when he saw that he was condemned, repented and brought the thirty *_pieces_* of silver back to the chief priests and elders,
 * `Mth 27:5` And he cast down the *_pieces_* of silver in the temple, departed, and went and hanged himself.
-* `Mth 27:6` And the chief priests took the silver *_pieces_*, and said, "It is not lawful to put them into the treasury because it is the price of blood."
+* `Mth 27:6` And the chief priests took the silver *_pieces_* and said, "It is not lawful to put them into the treasury because it is the price of blood."
 * `Mth 27:9` Then that which was spoken by Jeremiah the prophet was fulfilled, saying, "'And they took the thirty *_pieces_* of silver,' 'the price of him who was valued,' whom they of the children of Israel valued,
 * `Mrk 5:4` For he had often been bound with fetters and chains, and the chains had been plucked apart by him and the fetters broken in *_pieces_*. No man could tame him.
 * `Luk 15:8` "Or what woman having ten *_pieces_* of silver, if she loses one piece, does not light a candle, sweep the house, and diligently seek until she finds it?
@@ -1437,8 +1437,8 @@ _10 verses containing PIGEONS_
 
 * `Mth 27:2` And when they had bound him, they led him away and delivered him to Pontius *_Pilate_* the governor.
 * `Mth 27:13` Then *_Pilate_* says to him, "Do you not hear how many things they testify against you?"
-* `Mth 27:17` Therefore, when they were assembled, *_Pilate_* said to them, "Whom do you wish that I release to you? Barabbas, or Jesus, who is called Christ?"
-* `Mth 27:22` *_Pilate_* says to them, "What shall I do then with Jesus, who is called Christ?" They all say to him, "Let him be crucified."
+* `Mth 27:17` Therefore, when they were assembled, *_Pilate_* said to them, "Whom do you wish that I release to you? Barabbas, or Jesus who is called Christ?"
+* `Mth 27:22` *_Pilate_* says to them, "What shall I do then with Jesus who is called Christ?" They all say to him, "Let him be crucified."
 * `Mth 27:24` When *_Pilate_* saw that he could not prevail at all, but that rather a tumult was made, he took water and washed his hands before the multitude, saying, "I am innocent of the blood of this just person. See to it yourselves."
 * `Mth 27:58` He went to *_Pilate_* and petitioned for the body of Jesus. Then *_Pilate_* commanded the body to be delivered.
 * `Mth 27:62` Now on the next day that followed the day of the preparation, the chief priests and Pharisees came together to *_Pilate_*,

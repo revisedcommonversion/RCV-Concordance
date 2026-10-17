@@ -1001,7 +1001,7 @@ _5 verses containing PASSAGES_
 * `Zch 7:14` "But I scattered them with a whirlwind among all the nations whom they did not know. Thus the land was desolate after them so that no man *_passed_* through nor returned, for they laid the pleasant land desolate."
 * `Mth 9:1` And he entered into a boat, *_passed_* over, and came into his own city.
 * `Mth 20:30` And behold, two blind men sitting by the wayside, when they heard that Jesus *_passed_* by, they cried out, saying, "Have mercy on us, O Lord, son of David."
-* `Mth 27:39` And those who *_passed_* by reviled him, wagging their heads,
+* `Mth 27:39` And those who *_passed_* by reviled him, wagging their heads
 * `Mrk 2:14` And as he *_passed_* by, he saw Levi the son of Alpheus, sitting at the receipt of custom, and said to him, "Follow me." And he arose and followed him.
 * `Mrk 5:21` And when Jesus had *_passed_* over again in a boat to the other side, many people gathered to him. And he was near the sea.
 * `Mrk 6:35` And when the day was now far spent, his disciples came to him, and said, "This is a desolate place and now the time is far *_passed_*.
@@ -4409,7 +4409,7 @@ _2 verses containing PENURY_
 * `Mth 26:47` And while he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the *_people_*.
 * `Mth 27:1` When the morning came, all the chief priests and elders of the *_people_* took counsel against Jesus to put him to death.
 * `Mth 27:15` Now at that feast, the governor was accustomed to release to the *_people_* a prisoner whom they wished.
-* `Mth 27:25` Then all the *_people_* answered, and said, "His blood is on us and on our children."
+* `Mth 27:25` Then all the *_people_* answered and said, "His blood is on us and on our children."
 * `Mth 27:64` Therefore, command that the sepulcher be made secure until the third day, lest his disciples come by night and steal him away and say to the *_people_*, 'He has risen from the dead.' Thus the last error will be worse than the first."
 * `Mrk 5:21` And when Jesus had passed over again in a boat to the other side, many *_people_* gathered to him. And he was near the sea.
 * `Mrk 5:24` And Jesus went with him, and many *_people_* followed him and thronged him.

@@ -1583,9 +1583,9 @@ _6 verses containing SAVORY_
 * `Luk 23:47` Now when the centurion *_saw_* what was done, he glorified God, saying, "Certainly this was a righteous man."
 * `Jhn 1:32` And John bore testimony, saying, "I *_saw_* the Spirit descending from heaven like a dove, and it stayed upon him.
 * `Jhn 1:34` And I *_saw_* and bore testimony that this is the Son of God."
-* `Jhn 1:38` Then Jesus turned and *_saw_* them following, and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
+* `Jhn 1:38` Then Jesus turned and *_saw_* them following and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
 * `Jhn 1:39` He says to them, "Come and see." They came and *_saw_* where he dwelt and stayed with him that day, for it was about the tenth hour.
-* `Jhn 1:47` Jesus *_saw_* Nathanael coming to him, and says of him, "Behold an Israelite indeed, in whom there is no guile!"
+* `Jhn 1:47` Jesus *_saw_* Nathanael coming to him, and about him he says, "Behold an Israelite indeed, in whom there is no guile!"
 * `Jhn 1:48` Nathanael says to him, "Where do you know me from?" Jesus answered and said to him, "Before Philip called you, when you were under the fig-tree, I *_saw_* you."
 * `Jhn 1:50` Jesus answered and said to him, "Because I said to you, 'I *_saw_* you under the fig-tree,' do you believe? You shall see greater things than these."
 * `Jhn 2:23` Now when he was in Jerusalem at the passover, on the feast day, many believed in his name when they *_saw_* the miracles which he performed.
@@ -2422,7 +2422,7 @@ _3 verses containing SAWS_
 * `Mth 26:64` Jesus says to him, "You have said. Nevertheless, I *_say_* to you, hereafter you shall see the Son of man sitting on the right hand of power and 'coming in the clouds of heaven.'"
 * `Mth 26:70` But he denied it before them all, saying, "I do not know what you *_say_*."
 * `Mth 27:11` And Jesus stood before the governor. And the governor asked him, saying, "Are you the King of the Jews?" And Jesus said to him, "You *_say_*."
-* `Mth 27:22` Pilate says to them, "What shall I do then with Jesus, who is called Christ?" They all *_say_* to him, "Let him be crucified."
+* `Mth 27:22` Pilate says to them, "What shall I do then with Jesus who is called Christ?" They all *_say_* to him, "Let him be crucified."
 * `Mth 27:33` And when they had come to a place called Golgotha (that is to *_say_*, The Place of a Skull),
 * `Mth 27:46` And about the ninth hour Jesus cried with a loud voice, saying, "Eli, Eli, lama sabachthani?" (That is to *_say_*, "My God, my God, why have you forsaken me?")
 * `Mth 27:64` Therefore, command that the sepulcher be made secure until the third day, lest his disciples come by night and steal him away and *_say_* to the people, 'He has risen from the dead.' Thus the last error will be worse than the first."
@@ -2565,7 +2565,7 @@ _3 verses containing SAWS_
 * `Luk 23:30` Then 'they shall begin to *_say_* to the mountains, "Fall on us," and to the hills, "Cover us."'
 * `Luk 23:43` And Jesus said to him, "Truly I *_say_* to you, this day you shall be with me in paradise."
 * `Jhn 1:22` Then they said to him, "Who are you? For we must give an answer to those who sent us. What do you *_say_* of yourself?"
-* `Jhn 1:38` Then Jesus turned and saw them following, and says to them, "What do you seek?" They said to him, "Rabbi"—which is to *_say_*, being interpreted, Master—"where do you dwell?"
+* `Jhn 1:38` Then Jesus turned and saw them following and says to them, "What do you seek?" They said to him, "Rabbi"—which is to *_say_*, being interpreted, Master—"where do you dwell?"
 * `Jhn 1:51` And he says to him, "Truly, truly, I *_say_* to you, hereafter you shall see heaven open 'and the angels of God ascending and descending' upon the Son of man."
 * `Jhn 3:3` Jesus answered and said to him, "Truly, truly, I *_say_* to you, unless a man is born again, he cannot see the kingdom of God."
 * `Jhn 3:5` Jesus answered, "Truly, truly, I *_say_* to you, unless a man is born of water and of the Spirit, he cannot enter into the kingdom of God.
@@ -3814,11 +3814,11 @@ _1010 verses containing SAY_
 * `Mth 27:40` And *_saying_*, "You who destroy the temple and build it in three days, save yourself. If you are the Son of God, come down from the cross."
 * `Mth 27:46` And about the ninth hour Jesus cried with a loud voice, *_saying_*, "Eli, Eli, lama sabachthani?" (That is to say, "My God, my God, why have you forsaken me?")
 * `Mth 27:54` Now when the centurion and those who were with him watching Jesus saw the earthquake and those things that were done, they feared greatly, *_saying_*, "Truly this was the Son of God."
-* `Mth 27:63` *_Saying_*, "Sir, we remember what that deceiver said while he was yet alive, 'After three days I will rise again.'
+* `Mth 27:63` *_Saying_*, "Sir, we remember what that deceiver said while he was still alive, 'After three days I will rise again.'
 * `Mth 28:9` And as they were going to tell his disciples, behold, Jesus met them, *_saying_*, "All hail." And they came, held him by the feet, and worshiped him.
 * `Mth 28:13` *_Saying_*, "Say that his disciples came by night and stole him away while we slept.
 * `Mth 28:15` So they took the money and did as they were instructed. And this *_saying_* is commonly reported among the Jews until this day.
-* `Mth 28:18` And Jesus came, and spoke to them, *_saying_*, "All power is given to me in heaven and upon earth.
+* `Mth 28:18` And Jesus came and spoke to them, *_saying_*, "All power is given to me in heaven and upon earth.
 * `Mrk 1:7` And he preached, *_saying_*, "There comes after me one mightier than I, the latchet of whose shoes I am not worthy to stoop down and unloose.
 * `Mrk 1:11` And there came a voice from heaven, *_saying_*, "You are my beloved Son, in whom I am well pleased."
 * `Mrk 1:15` And *_saying_*, "The time is fulfilled and the kingdom of God is at hand. Repent and believe the gospel."
@@ -3974,7 +3974,7 @@ _1010 verses containing SAY_
 * `Luk 24:23` And when they did not find his body, they came, *_saying_* that they had also seen a vision of angels who said that he was alive.
 * `Luk 24:29` But they constrained him, *_saying_*, "Abide with us, for it is toward evening and the day is far spent." And he went in to stay with them.
 * `Luk 24:34` *_Saying_*, "The Lord has risen indeed and has appeared to Simon."
-* `Jhn 1:15` John testified concerning him, and cried, *_saying_*, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
+* `Jhn 1:15` John testified concerning him and cried, *_saying_*, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
 * `Jhn 1:26` John answered them, *_saying_*, "I baptize with water, but there stands one among you whom you do not know.
 * `Jhn 1:32` And John bore testimony, *_saying_*, "I saw the Spirit descending from heaven like a dove, and it stayed upon him.
 * `Jhn 4:31` In the meantime, his disciples asked him, *_saying_*, "Master, eat."
@@ -5162,7 +5162,7 @@ _31 verses containing SAYINGS_
 * `Mth 26:45` Then he comes to his disciples and *_says_* to them, "Sleep on now and take your rest. Behold, the hour is at hand and the Son of man is betrayed into the hands of sinners.
 * `Mth 26:64` Jesus *_says_* to him, "You have said. Nevertheless, I say to you, hereafter you shall see the Son of man sitting on the right hand of power and 'coming in the clouds of heaven.'"
 * `Mth 27:13` Then Pilate *_says_* to him, "Do you not hear how many things they testify against you?"
-* `Mth 27:22` Pilate *_says_* to them, "What shall I do then with Jesus, who is called Christ?" They all say to him, "Let him be crucified."
+* `Mth 27:22` Pilate *_says_* to them, "What shall I do then with Jesus who is called Christ?" They all say to him, "Let him be crucified."
 * `Mrk 1:41` And Jesus, moved with compassion, put forth his hand and touched him, and *_says_* to him, "I am willing. Be clean."
 * `Mrk 1:44` And *_says_* to him, "See that you say nothing to any man. But go, show yourself to the priest and offer for your cleansing those things which Moses commanded, for a testimony to them."
 * `Mrk 2:10` But so that you may know that the Son of man has power on earth to forgive sins"—he *_says_* to the paralytic—
@@ -5227,15 +5227,15 @@ _31 verses containing SAYINGS_
 * `Luk 22:11` And you shall say to the master of the house, 'The Master *_says_* to you, "Where is the guest-chamber where I may eat the passover with my disciples?"'
 * `Luk 24:36` And as they were thus speaking, Jesus himself stood in the midst of them, and *_says_* to them, "Peace be to you."
 * `Jhn 1:21` And they asked him, "What then? Are you Elijah?" And he *_says_*, "I am not." "Are you that prophet?" And he answered, "No."
-* `Jhn 1:29` The next day John sees Jesus coming to him, and *_says_*, "Behold the Lamb of God who takes away the sin of the world.
+* `Jhn 1:29` The next day John sees Jesus coming to him and *_says_*, "Behold the Lamb of God who takes away the sin of the world.
 * `Jhn 1:36` And looking upon Jesus as he walked, he *_says_*, "Behold the Lamb of God!"
-* `Jhn 1:38` Then Jesus turned and saw them following, and *_says_* to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
+* `Jhn 1:38` Then Jesus turned and saw them following and *_says_* to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
 * `Jhn 1:39` He *_says_* to them, "Come and see." They came and saw where he dwelt and stayed with him that day, for it was about the tenth hour.
-* `Jhn 1:41` He first finds his own brother Simon, and *_says_* to him, "We have found the Messiah," (which is, being interpreted, the Christ).
-* `Jhn 1:43` The day following, Jesus wished to go forth into Galilee and finds Philip, and *_says_* to him, "Follow me."
-* `Jhn 1:45` Philip finds Nathanael, and *_says_* to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
+* `Jhn 1:41` He first finds his own brother Simon and *_says_* to him, "We have found the Messiah," (which is, being interpreted, the Christ).
+* `Jhn 1:43` The day following, Jesus wished to go forth into Galilee. And he finds Philip and *_says_* to him, "Follow me."
+* `Jhn 1:45` Philip finds Nathanael and *_says_* to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
 * `Jhn 1:46` And Nathanael said to him, "Can any good thing come out of Nazareth?" Philip *_says_* to him, "Come and see."
-* `Jhn 1:47` Jesus saw Nathanael coming to him, and *_says_* of him, "Behold an Israelite indeed, in whom there is no guile!"
+* `Jhn 1:47` Jesus saw Nathanael coming to him, and about him he *_says_*, "Behold an Israelite indeed, in whom there is no guile!"
 * `Jhn 1:48` Nathanael *_says_* to him, "Where do you know me from?" Jesus answered and said to him, "Before Philip called you, when you were under the fig-tree, I saw you."
 * `Jhn 1:51` And he *_says_* to him, "Truly, truly, I say to you, hereafter you shall see heaven open 'and the angels of God ascending and descending' upon the Son of man."
 * `Jhn 2:3` And when they lacked wine, the mother of Jesus *_says_* to him, "They have no wine."
@@ -5929,7 +5929,7 @@ _1 verse containing SCOURED_
 * `Mth 23:34` "Therefore, behold, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify, and some of them you will *_scourge_* in your synagogues and persecute them from city to city,
 * `Mrk 10:34` And they will mock him, *_scourge_* him, spit upon him, and kill him. But on the third day he will rise again."
 * `Luk 18:33` And they will *_scourge_* him and put him to death, and on the third day he will rise again."
-* `Jhn 2:15` And when he had made a *_scourge_* of small cords, he drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overthrew the tables,
+* `Jhn 2:15` And when he had made a *_scourge_* of small cords, he drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overthrew the tables.
 * `Act 22:25` And as they bound him with straps, Paul said to the centurion who stood by, "Is it lawful for you to *_scourge_* a man who is a Roman and uncondemned?"
 
 _12 verses containing SCOURGE_

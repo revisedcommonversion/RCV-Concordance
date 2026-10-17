@@ -461,7 +461,7 @@ _1 verse containing CRICKET_
 * `Luk 23:18` And they *_cried_* out all at once, saying, "Away with this man. Release Barabbas to us."
 * `Luk 23:21` But they *_cried_*, saying, "Crucify, crucify him."
 * `Luk 23:46` And when Jesus had *_cried_* with a loud voice, he said, "Father, 'into your hands I commend my spirit.'" And having said this, he expired.
-* `Jhn 1:15` John testified concerning him, and *_cried_*, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
+* `Jhn 1:15` John testified concerning him and *_cried_*, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
 * `Jhn 7:28` Then Jesus *_cried_* in the temple as he taught, saying, "You both know me and you know where I am from. And I have not come of myself, but he who sent me is true, whom you do not know.
 * `Jhn 7:37` In the last day, that great day of the feast, Jesus stood and *_cried_*, saying, "If any man thirsts, let him come to me and drink.
 * `Jhn 11:43` And when he had thus spoken, he *_cried_* with a loud voice, "Lazarus, come forth."
@@ -803,7 +803,7 @@ _5 verses containing CROWS_
 == CRUCIFIED
 
 * `Mth 26:2` "You know that after two days is the passover and the Son of man is betrayed to be *_crucified_*."
-* `Mth 27:22` Pilate says to them, "What shall I do then with Jesus, who is called Christ?" They all say to him, "Let him be *_crucified_*."
+* `Mth 27:22` Pilate says to them, "What shall I do then with Jesus who is called Christ?" They all say to him, "Let him be *_crucified_*."
 * `Mth 27:23` And the governor said, "Why? What evil has he done?" But they cried out the more, saying, "Let him be *_crucified_*."
 * `Mth 27:26` Then he released Barabbas to them. And when he had scourged Jesus, he delivered him to be *_crucified_*.
 * `Mth 27:35` And when they had *_crucified_* him, they divided his garments by casting lots so that it might be fulfilled which was spoken by the prophet, "They parted my garments among them, and upon my vesture they cast lots."

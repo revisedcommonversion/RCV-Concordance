@@ -260,7 +260,7 @@ _2 verses containing TELEM_
 * `Mth 22:17` *_Tell_* us therefore, what do you think? Is it lawful to give tribute to Caesar or not?"
 * `Mth 24:3` And as he sat upon the Mount of Olives, the disciples came to him privately, saying, "*_Tell_* us, when will these things be? And what will be the sign of your coming and of the end of the age?"
 * `Mth 26:63` But Jesus held his peace. And the high priest answered and said to him, "I adjure you by the living God that you *_tell_* us whether you are the Christ the Son of God."
-* `Mth 28:7` And go quickly and *_tell_* his disciples, 'He has risen from the dead, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
+* `Mth 28:7` Then go quickly and *_tell_* his disciples, 'He has risen from the dead, and behold, he goes before you into Galilee. There you shall see him.' Behold, I have told you."
 * `Mth 28:9` And as they were going to *_tell_* his disciples, behold, Jesus met them, saying, "All hail." And they came, held him by the feet, and worshiped him.
 * `Mth 28:10` Then Jesus said to them, "Do not be afraid. Go *_tell_* my brothers to go into Galilee, and there they shall see me."
 * `Mrk 1:30` But the mother of Simon's wife lay sick with a fever, and immediately they *_tell_* him about her.
@@ -297,7 +297,7 @@ _2 verses containing TELEM_
 * `Luk 20:8` And Jesus said to them, "Neither do I *_tell_* you by what authority I do these things."
 * `Luk 22:34` And he said, "I *_tell_* you, Peter, the cock will not crow this day before you deny three times that you know me."
 * `Luk 22:67` Saying, "Are you the Christ? *_Tell_* us." And he said to them, "If I *_tell_* you, you will not believe.
-* `Jhn 3:8` The wind blows where it wishes and you hear its sound, but cannot *_tell_* where it comes from and where it goes. Thus is everyone who is born of the Spirit."
+* `Jhn 3:8` The wind blows where it wishes. You hear its sound, but you cannot *_tell_* where it comes from and where it goes. Thus is everyone who is born of the Spirit."
 * `Jhn 3:12` If I have told you earthly things and you do not believe, how will you believe if I *_tell_* you heavenly things?
 * `Jhn 4:25` The woman says to him, "I know that Messiah comes, who is called Christ. When he has come, he will *_tell_* us all things."
 * `Jhn 8:14` Jesus answered and said to them, "Though I testify concerning myself, yet my testimony is true. For I know where I came from and where I go, but you cannot *_tell_* where I come from and where I go.
@@ -598,10 +598,10 @@ _4 verses containing TEMPESTUOUS_
 * `Luk 23:45` And the sun was darkened and the veil of the *_temple_* was rent in the midst.
 * `Luk 24:53` And were continually in the *_temple_*, praising and blessing God. Amen.
 * `Jhn 2:14` And he found in the *_temple_* those who sold oxen, sheep, and doves, and the changers of money sitting.
-* `Jhn 2:15` And when he had made a scourge of small cords, he drove them all out of the *_temple_*, with the sheep and the oxen, and poured out the changers' money and overthrew the tables,
+* `Jhn 2:15` And when he had made a scourge of small cords, he drove them all out of the *_temple_*, with the sheep and the oxen, and poured out the changers' money and overthrew the tables.
 * `Jhn 2:19` Jesus answered and said to them, "Destroy this *_temple_*, and in three days I will raise it up."
 * `Jhn 2:20` Then the Jews said, "Forty-six years this *_temple_* was in building, and will you rear it up in three days?"
-* `Jhn 2:21` But he spoke of the *_temple_* of his body.
+* `Jhn 2:21` But he spoke about the *_temple_* of his body.
 * `Jhn 5:14` Afterward, Jesus finds him in the *_temple_*, and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
 * `Jhn 7:14` Now about the midst of the feast, Jesus went up into the *_temple_* and taught.
 * `Jhn 7:28` Then Jesus cried in the *_temple_* as he taught, saying, "You both know me and you know where I am from. And I have not come of myself, but he who sent me is true, whom you do not know.
@@ -1639,7 +1639,7 @@ _12 verses containing TESTED_
 * `Neh 13:21` Then I *_testified_* against them and said to them, "Why do you lodge in front of the wall? If you do so again, I will lay hands on you." From that time forth they no longer came on the sabbath.
 * `Jer 11:7` For I earnestly *_testified_* to your fathers in the day that I brought them out of the land of Egypt, even to this day, rising early and testifying, saying, "Obey my voice."
 * `Zch 3:6` And the angel of the LORD *_testified_* to Joshua, saying,
-* `Jhn 1:15` John *_testified_* concerning him, and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
+* `Jhn 1:15` John *_testified_* concerning him and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
 * `Jhn 4:39` And many of the Samaritans of that city believed in him for the saying of the woman, who *_testified_*, "He told me all that I ever did."
 * `Jhn 4:44` For Jesus himself *_testified_* that a prophet has no honor in his own country.
 * `Jhn 5:33` "You sent to John and he *_testified_* to the truth.
@@ -1841,7 +1841,7 @@ _36 verses containing TESTIMONIES_
 * `Jhn 3:26` And they came to John and said to him, "Rabbi, he who was with you beyond the Jordan, to whom you bore *_testimony_*, behold, the same baptizes, and all men come to him."
 * `Jhn 3:28` You yourselves bear me *_testimony_* that I said I am not the Christ, but that I am sent before him.
 * `Jhn 3:32` And what he has seen and heard, he testifies, and no man receives his *_testimony_*.
-* `Jhn 3:33` He who has received his *_testimony_*, has set to his seal that God is true.
+* `Jhn 3:33` He who has received his *_testimony_* has set to his seal that God is true.
 * `Jhn 5:31` "If I testify concerning myself, my *_testimony_* is not true.
 * `Jhn 5:32` There is another who testifies concerning me, and I know that the *_testimony_* which he bears concerning me is true.
 * `Jhn 5:34` But I do not receive *_testimony_* from man. But these things I say so that you may be saved.
