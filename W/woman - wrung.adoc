@@ -360,11 +360,11 @@
 * `Jhn 4:17` The *_woman_* answered and said, "I have no husband." Jesus said to her, "You have rightly said, 'I have no husband,'
 * `Jhn 4:19` The *_woman_* says to him, "Sir, I perceive that you are a prophet.
 * `Jhn 4:21` Jesus says to her, "*_Woman_*, believe me, the hour comes when you shall neither on this mountain nor at Jerusalem worship the Father.
-* `Jhn 4:25` The *_woman_* says to him, "I know that Messiah comes, who is called Christ. When he has come, he will tell us all things."
+* `Jhn 4:25` The *_woman_* says to him, "I know that Messiah comes" (who is called Christ). "When he has come, he will tell us all things."
 * `Jhn 4:27` And upon this, his disciples came and marveled that he talked with the *_woman_*. Yet no man said, "What do you seek?" or, "Why do you talk with her?"
 * `Jhn 4:28` The *_woman_* then left her water-pot, went into the city, and says to the men,
-* `Jhn 4:39` And many of the Samaritans of that city believed in him for the saying of the *_woman_*, who testified, "He told me all that I ever did."
-* `Jhn 4:42` And said to the *_woman_*, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
+* `Jhn 4:39` And many of the Samaritans of that city believed in him because of the saying of the *_woman_*, who testified, "He told me all that I ever did."
+* `Jhn 4:42` And they said to the *_woman_*, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
 * `Jhn 8:3` And the scribes and Pharisees brought a *_woman_* to him taken in adultery. And when they had set her in the midst,
 * `Jhn 8:4` They say to him, "Master, this *_woman_* was taken in adultery, in the very act.
 * `Jhn 8:9` And those who heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last. And Jesus was left alone with the *_woman_* standing in the midst.
@@ -1715,7 +1715,7 @@ _5 verses containing WOOLEN_
 * `Jhn 1:1` In the beginning was the *_Word_*, and the *_Word_* was with God, and the *_Word_* was God.
 * `Jhn 1:14` And the *_Word_* was made flesh and dwelt among us (and we beheld his glory, the glory as of the only begotten of the Father), full of grace and truth.
 * `Jhn 2:22` When therefore he had risen from the dead, his disciples remembered that he had said this to them. And they believed the Scripture and the *_word_* which Jesus had spoken.
-* `Jhn 4:41` And many more believed because of his own *_word_*,
+* `Jhn 4:41` And many more believed because of his own *_word_*.
 * `Jhn 4:50` Jesus says to him, "Go. Your son lives." And the man believed the *_word_* that Jesus had spoken to him and departed.
 * `Jhn 5:24` "Truly, truly, I say to you, he who hears my *_word_* and believes in him who sent me has everlasting life and shall not come into condemnation, but has passed from death to life.
 * `Jhn 5:38` And you do not have his *_word_* abiding in you, for you do not believe him whom he has sent.
@@ -3074,9 +3074,9 @@ _12 verses containing WORKMEN_
 * `Jhn 5:36` "But I have greater testimony than that of John. For the *_works_* which the Father has given me to finish, the same *_works_* that I do, bear testimony concerning me that the Father has sent me.
 * `Jhn 6:28` Then they said to him, "What shall we do so that we may work the *_works_* of God?"
 * `Jhn 7:3` His brothers therefore said to him, "Depart from here and go into Judea so that your disciples may also see the *_works_* that you do.
-* `Jhn 7:7` The world cannot hate you, but it hates me because I testify concerning it, that its *_works_* are evil.
+* `Jhn 7:7` The world cannot hate you, but it hates me because I testify concerning it that its *_works_* are evil.
 * `Jhn 8:39` They answered and said to him, "Abraham is our father." Jesus says to them, "If you were Abraham's children, you would do the *_works_* of Abraham.
-* `Jhn 9:3` Jesus answered, "Neither has this man sinned, nor his parents, but this is so that the *_works_* of God should be made manifest in him.
+* `Jhn 9:3` Jesus answered, "Neither has this man sinned nor his parents, but this is so that the *_works_* of God should be made manifest in him.
 * `Jhn 9:4` I must work the *_works_* of him who sent me while it is day. The night comes when no man can work.
 * `Jhn 10:25` Jesus answered them, "I told you, and you did not believe. The *_works_* that I did in my Father's name, they testify concerning me.
 * `Jhn 10:32` Jesus answered them, "I have shown you many good *_works_* from my Father. For which of those *_works_* do you stone me?"
@@ -3267,12 +3267,12 @@ _262 verses containing WORKS_
 * `Jhn 3:16` "For this is how God loved the *_world_*: he gave his only-begotten Son, so that whoever believes in him should not perish but have eternal life.
 * `Jhn 3:17` For God did not send his Son into the *_world_* to condemn the *_world_*, but that the *_world_* through him may be saved.
 * `Jhn 3:19` And this is the condemnation: that light has come into the *_world_*, and men have loved darkness rather than light because their deeds were evil.
-* `Jhn 4:42` And said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the *_world_*."
+* `Jhn 4:42` And they said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the *_world_*."
 * `Jhn 6:14` Then those men, when they had seen the miracle that Jesus performed, said, "This is truly that prophet who should come into the *_world_*."
 * `Jhn 6:33` For the bread of God is he who comes down from heaven and gives life to the *_world_*."
 * `Jhn 6:51` I am the living bread which came down from heaven. If any man eats of this bread, he shall live forever. And the bread that I will give is my flesh, which I will give for the life of the *_world_*."
 * `Jhn 7:4` For there is no man who does anything in secret, and he himself seeks to be known openly. If you do these things, show yourself to the *_world_*."
-* `Jhn 7:7` The *_world_* cannot hate you, but it hates me because I testify concerning it, that its works are evil.
+* `Jhn 7:7` The *_world_* cannot hate you, but it hates me because I testify concerning it that its works are evil.
 * `Jhn 8:12` Then Jesus spoke again to them, saying, "I am the light of the *_world_*. He who follows me shall not walk in darkness, but shall have the light of life."
 * `Jhn 8:23` And he said to them, "You are from beneath. I am from above. You are of this *_world_*. I am not of this *_world_*.
 * `Jhn 8:26` I have many things to say and to judge of you. But he who sent me is true, and I speak to the *_world_* those things which I have heard from him."
@@ -3493,7 +3493,7 @@ _8 verses containing WORMWOOD_
 * `Mrk 5:26` Had suffered many things from many physicians, and had spent all that she had and was not relieved, but rather grew *_worse_*,
 * `Luk 11:26` Then he goes and takes with him seven other spirits more wicked than himself, and they enter in and dwell there. Then the last state of that man is *_worse_* than the first."
 * `Jhn 2:10` And says to him, "Every man at the beginning presents good wine, and when men have well drank, then that which is *_worse_*. But you have kept the good wine until now."
-* `Jhn 5:14` Afterward, Jesus finds him in the temple, and said to him, "Behold, you are cured. Sin no more, lest a *_worse_* thing come to you."
+* `Jhn 5:14` Afterward, Jesus finds him in the temple and said to him, "Behold, you are cured. Sin no more, lest a *_worse_* thing come to you."
 * `1Co 8:8` But food does not commend us to God. For neither are we the better if we eat, neither are we the *_worse_* if we do not eat.
 * `1Co 11:17` Now in this that I declare to you I do not praise you, that you do not come together for the better, but for the *_worse_*.
 * `1Ti 5:8` But if anyone does not provide for his own, and especially for those of his own house, he has denied the faith and is *_worse_* than an infidel.
@@ -4198,9 +4198,9 @@ _73 verses containing WORTHY_
 * `Jhn 6:15` When Jesus therefore perceived that they *_would_* come and take him by force to make him a king, he departed again to a mountain by himself alone.
 * `Jhn 6:64` But there are some of you who do not believe." For Jesus knew from the beginning who they were who did not believe and who he was who *_would_* betray him.
 * `Jhn 7:1` After these things, Jesus walked in Galilee, for he *_would_* not walk in Judea because the Jews sought to kill him.
-* `Jhn 7:39` (But this he spoke of the Spirit, which those who believe in him *_would_* receive, for the Holy Spirit had not yet been given because Jesus was not yet glorified.)
+* `Jhn 7:39` (But he said this about the Spirit, which those who believe in him *_would_* receive, for the Holy Spirit had not yet been given because Jesus was not yet glorified.)
 * `Jhn 7:44` And some of them *_would_* have taken him, but no man laid hands on him.
-* `Jhn 8:19` Then they said to him, "Where is your Father?" Jesus answered, "You neither know me, nor my Father. If you had known me, you *_would_* have known my Father also."
+* `Jhn 8:19` Then they said to him, "Where is your Father?" Jesus answered, "You neither know me nor my Father. If you had known me, you *_would_* have known my Father also."
 * `Jhn 8:39` They answered and said to him, "Abraham is our father." Jesus says to them, "If you were Abraham's children, you *_would_* do the works of Abraham.
 * `Jhn 8:42` Jesus said to them, "If God were your Father, you *_would_* love me. For I proceeded forth and came from God, neither did I come of myself, but he sent me.
 * `Jhn 8:55` Yet you have not known him, but I know him. And if I say, 'I do not know him,' I *_would_* be a liar like you. But I know him and keep his saying.

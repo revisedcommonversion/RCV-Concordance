@@ -1037,7 +1037,7 @@ _6 verses containing SAVING_
 * `Hos 13:4` Yet I am the LORD your God from the land of Egypt, and you shall know no God but me, for there is no *_savior_* besides me.
 * `Luk 1:47` And my spirit has rejoiced in God my *_Savior_*,
 * `Luk 2:11` For there is born to you this day, in the city of David, a *_Savior_*, who is Christ the Lord.
-* `Jhn 4:42` And said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the *_Savior_* of the world."
+* `Jhn 4:42` And they said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the *_Savior_* of the world."
 * `Act 5:31` God has exalted him with his right hand to be a Prince and a *_Savior_* to give repentance to Israel and forgiveness of sins.
 * `Act 13:23` Of this man's offspring God has, according to his promise, raised up to Israel a *_Savior_*, Jesus.
 * `Eph 5:23` For the husband is the head of the wife, even as Christ is the head of the church, and he is the *_Savior_* of the body.
@@ -2571,7 +2571,7 @@ _3 verses containing SAWS_
 * `Jhn 3:5` Jesus answered, "Truly, truly, I *_say_* to you, unless a man is born of water and of the Spirit, he cannot enter into the kingdom of God.
 * `Jhn 3:11` Truly, truly, I *_say_* to you, we speak what we know and testify what we have seen, and you do not receive our testimony.
 * `Jhn 4:20` Our fathers worshiped on this mountain, and you *_say_* that in Jerusalem is the place where men ought to worship."
-* `Jhn 4:35` Do you not *_say_*, 'There are yet four months and then comes harvest'? Behold, I *_say_* to you, lift up your eyes and look at the fields, for they are already white for harvest.
+* `Jhn 4:35` Do you not *_say_*, 'There are still four months and then comes harvest'? Behold, I *_say_* to you, lift up your eyes and look at the fields, for they are already white for harvest.
 * `Jhn 5:19` Then Jesus answered and said to them, "Truly, truly, I *_say_* to you, the Son can do nothing by himself, but what he sees the Father do. For whatever things he does, these also the Son does likewise.
 * `Jhn 5:24` "Truly, truly, I *_say_* to you, he who hears my word and believes in him who sent me has everlasting life and shall not come into condemnation, but has passed from death to life.
 * `Jhn 5:25` "Truly, truly, I *_say_* to you, the hour is coming, and is now, when the dead shall hear the voice of the Son of God. And those who hear shall live.
@@ -3979,8 +3979,8 @@ _1010 verses containing SAY_
 * `Jhn 1:32` And John bore testimony, *_saying_*, "I saw the Spirit descending from heaven like a dove, and it stayed upon him.
 * `Jhn 4:31` In the meantime, his disciples asked him, *_saying_*, "Master, eat."
 * `Jhn 4:37` And herein that *_saying_* is true: 'One sows and another reaps.'
-* `Jhn 4:39` And many of the Samaritans of that city believed in him for the *_saying_* of the woman, who testified, "He told me all that I ever did."
-* `Jhn 4:51` And as he was now going down, his servants met him, and told him, *_saying_*, "Your son lives."
+* `Jhn 4:39` And many of the Samaritans of that city believed in him because of the *_saying_* of the woman, who testified, "He told me all that I ever did."
+* `Jhn 4:51` And as he was now going down, his servants met him and told him, *_saying_*, "Your son lives."
 * `Jhn 6:52` The Jews therefore contended among themselves, *_saying_*, "How can this man give us his flesh to eat?"
 * `Jhn 6:60` Therefore, when they had heard this, many of his disciples said, "This is a hard *_saying_*. Who can hear it?"
 * `Jhn 7:15` And the Jews marveled, *_saying_*, "How does this man know letters, having never learned?"
@@ -5253,7 +5253,7 @@ _31 verses containing SAYINGS_
 * `Jhn 4:16` Jesus *_says_* to her, "Go, call your husband and come here."
 * `Jhn 4:19` The woman *_says_* to him, "Sir, I perceive that you are a prophet.
 * `Jhn 4:21` Jesus *_says_* to her, "Woman, believe me, the hour comes when you shall neither on this mountain nor at Jerusalem worship the Father.
-* `Jhn 4:25` The woman *_says_* to him, "I know that Messiah comes, who is called Christ. When he has come, he will tell us all things."
+* `Jhn 4:25` The woman *_says_* to him, "I know that Messiah comes" (who is called Christ). "When he has come, he will tell us all things."
 * `Jhn 4:26` Jesus *_says_* to her, "I, who speak to you, am he."
 * `Jhn 4:28` The woman then left her water-pot, went into the city, and *_says_* to the men,
 * `Jhn 4:34` Jesus *_says_* to them, "My food is to do the will of him who sent me and to finish his work.

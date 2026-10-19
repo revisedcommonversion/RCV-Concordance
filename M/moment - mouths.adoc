@@ -432,7 +432,7 @@ _1 verse containing MONTHLY_
 * `Luk 1:24` And after those days his wife Elizabeth conceived and secluded herself five *_months_*, saying,
 * `Luk 1:56` And Mary stayed with her about three *_months_* and returned to her own house.
 * `Luk 4:25` But I tell you in truth, many widows were in Israel in the days of Elijah when the heaven was shut three years and six *_months_* when great famine was throughout all the land.
-* `Jhn 4:35` Do you not say, 'There are yet four *_months_* and then comes harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest.
+* `Jhn 4:35` Do you not say, 'There are still four *_months_* and then comes harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest.
 * `Act 7:20` At that time, Moses was born and was exceedingly fair and nourished in his father's house for three *_months_*.
 * `Act 18:11` And he continued there one year and six *_months_* teaching the word of God among them.
 * `Act 19:8` And he went into the synagogue and spoke boldly for three *_months_*, disputing and persuading the things concerning the kingdom of God.
@@ -913,10 +913,10 @@ _52 verses containing MORDECAI_
 * `Luk 22:44` And being in an agony, he prayed *_more_* earnestly. And his sweat was like great drops of blood falling to the ground.
 * `Luk 23:5` And they were the *_more_* fierce, saying, "He stirs up the people, teaching throughout all Judea, beginning from Galilee to this place."
 * `Jhn 4:1` Therefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized *_more_* disciples than John
-* `Jhn 4:41` And many *_more_* believed because of his own word,
-* `Jhn 5:14` Afterward, Jesus finds him in the temple, and said to him, "Behold, you are cured. Sin no *_more_*, lest a worse thing come to you."
+* `Jhn 4:41` And many *_more_* believed because of his own word.
+* `Jhn 5:14` Afterward, Jesus finds him in the temple and said to him, "Behold, you are cured. Sin no *_more_*, lest a worse thing come to you."
 * `Jhn 5:18` Therefore, the Jews sought the *_more_* to kill him because he not only had broken the sabbath, but also said that God was his Father, making himself equal with God.
-* `Jhn 7:31` And many of the people believed in him, and said, "When Christ comes, will he do *_more_* miracles than these which this man has done?"
+* `Jhn 7:31` And many of the people believed in him and said, "When Christ comes, will he do *_more_* miracles than these which this man has done?"
 * `Jhn 8:11` She said, "No man, Lord." And Jesus said to her, "Neither do I condemn you. Go, and sin no *_more_*."
 * `Jhn 10:10` The thief does not come, but to steal, to kill, and to destroy. I have come so that they may have life and have it *_more_* abundantly.
 * `Jhn 12:43` For they loved the praise of men *_more_* than the praise of God.
@@ -2289,7 +2289,7 @@ _2 verses containing MOSEROTH_
 * `Jhn 7:22` *_Moses_* therefore gave to you circumcision (not because it is from *_Moses_*, but from the fathers), and you on the sabbath circumcise a man.
 * `Jhn 7:23` If a man on the sabbath receives circumcision so that the law of *_Moses_* should not be broken, are you angry at me because I have restored a man to sound health on the sabbath?
 * `Jhn 8:5` Now in the law, *_Moses_* commanded us that such should be stoned, but what do you say?"
-* `Jhn 9:28` Then they reviled him, and said, "You are his disciple, but we are the disciples of *_Moses_*.
+* `Jhn 9:28` Then they reviled him and said, "You are his disciple, but we are the disciples of *_Moses_*.
 * `Jhn 9:29` We know that God spoke to *_Moses_*. As for this man, we do not know where he is from."
 * `Act 3:22` For *_Moses_* truly said to the fathers, 'The Lord your God will raise up for you a Prophet like me from your brothers. You shall hear him in all things, whatever he says to you.
 * `Act 6:11` Then they suborned men, who said, "We have heard him speak blasphemous words against *_Moses_* and against God."

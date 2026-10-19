@@ -299,7 +299,7 @@ _2 verses containing TELEM_
 * `Luk 22:67` Saying, "Are you the Christ? *_Tell_* us." And he said to them, "If I *_tell_* you, you will not believe.
 * `Jhn 3:8` The wind blows where it wishes. You hear its sound, but you cannot *_tell_* where it comes from and where it goes. Thus is everyone who is born of the Spirit."
 * `Jhn 3:12` If I have told you earthly things and you do not believe, how will you believe if I *_tell_* you heavenly things?
-* `Jhn 4:25` The woman says to him, "I know that Messiah comes, who is called Christ. When he has come, he will *_tell_* us all things."
+* `Jhn 4:25` The woman says to him, "I know that Messiah comes" (who is called Christ). "When he has come, he will *_tell_* us all things."
 * `Jhn 8:14` Jesus answered and said to them, "Though I testify concerning myself, yet my testimony is true. For I know where I came from and where I go, but you cannot *_tell_* where I come from and where I go.
 * `Jhn 8:45` And because I *_tell_* you the truth, you do not believe me.
 * `Jhn 10:24` Then the Jews came around him and said to him, "How long do you make us to doubt? If you are the Christ, *_tell_* us plainly."
@@ -602,7 +602,7 @@ _4 verses containing TEMPESTUOUS_
 * `Jhn 2:19` Jesus answered and said to them, "Destroy this *_temple_*, and in three days I will raise it up."
 * `Jhn 2:20` Then the Jews said, "Forty-six years this *_temple_* was in building, and will you rear it up in three days?"
 * `Jhn 2:21` But he spoke about the *_temple_* of his body.
-* `Jhn 5:14` Afterward, Jesus finds him in the *_temple_*, and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
+* `Jhn 5:14` Afterward, Jesus finds him in the *_temple_* and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
 * `Jhn 7:14` Now about the midst of the feast, Jesus went up into the *_temple_* and taught.
 * `Jhn 7:28` Then Jesus cried in the *_temple_* as he taught, saying, "You both know me and you know where I am from. And I have not come of myself, but he who sent me is true, whom you do not know.
 * `Jhn 8:2` And early in the morning he came again into the *_temple_*. And all the people came to him, and he sat down and taught them.
@@ -1640,7 +1640,7 @@ _12 verses containing TESTED_
 * `Jer 11:7` For I earnestly *_testified_* to your fathers in the day that I brought them out of the land of Egypt, even to this day, rising early and testifying, saying, "Obey my voice."
 * `Zch 3:6` And the angel of the LORD *_testified_* to Joshua, saying,
 * `Jhn 1:15` John *_testified_* concerning him and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
-* `Jhn 4:39` And many of the Samaritans of that city believed in him for the saying of the woman, who *_testified_*, "He told me all that I ever did."
+* `Jhn 4:39` And many of the Samaritans of that city believed in him because of the saying of the woman, who *_testified_*, "He told me all that I ever did."
 * `Jhn 4:44` For Jesus himself *_testified_* that a prophet has no honor in his own country.
 * `Jhn 5:33` "You sent to John and he *_testified_* to the truth.
 * `Jhn 13:21` When Jesus had said this, he was troubled in spirit and *_testified_*, and said, "Truly, truly, I say to you, that one of you will betray me."
@@ -1701,7 +1701,7 @@ _10 verses containing TESTIFIES_
 * `Jhn 3:11` Truly, truly, I say to you, we speak what we know and *_testify_* what we have seen, and you do not receive our testimony.
 * `Jhn 5:31` "If I *_testify_* concerning myself, my testimony is not true.
 * `Jhn 5:39` "You search the Scriptures, for in them you think you have eternal life, and they are those which *_testify_* of me.
-* `Jhn 7:7` The world cannot hate you, but it hates me because I *_testify_* concerning it, that its works are evil.
+* `Jhn 7:7` The world cannot hate you, but it hates me because I *_testify_* concerning it that its works are evil.
 * `Jhn 8:13` The Pharisees therefore said to him, "You *_testify_* concerning yourself. Your testimony is not true."
 * `Jhn 8:14` Jesus answered and said to them, "Though I *_testify_* concerning myself, yet my testimony is true. For I know where I came from and where I go, but you cannot tell where I come from and where I go.
 * `Jhn 10:25` Jesus answered them, "I told you, and you did not believe. The works that I did in my Father's name, they *_testify_* concerning me.
@@ -1846,7 +1846,7 @@ _36 verses containing TESTIMONIES_
 * `Jhn 5:32` There is another who testifies concerning me, and I know that the *_testimony_* which he bears concerning me is true.
 * `Jhn 5:34` But I do not receive *_testimony_* from man. But these things I say so that you may be saved.
 * `Jhn 5:36` "But I have greater *_testimony_* than that of John. For the works which the Father has given me to finish, the same works that I do, bear *_testimony_* concerning me that the Father has sent me.
-* `Jhn 5:37` "And the Father himself who has sent me has borne *_testimony_* concerning me. You have neither heard his voice at any time, nor seen his shape.
+* `Jhn 5:37` "And the Father himself who has sent me has borne *_testimony_* concerning me. You have neither heard his voice at any time nor seen his shape.
 * `Jhn 8:13` The Pharisees therefore said to him, "You testify concerning yourself. Your *_testimony_* is not true."
 * `Jhn 8:14` Jesus answered and said to them, "Though I testify concerning myself, yet my *_testimony_* is true. For I know where I came from and where I go, but you cannot tell where I come from and where I go.
 * `Jhn 8:17` It is also written in your law that the *_testimony_* of two men is true.
@@ -2319,7 +2319,7 @@ _1 verse containing THAMAH_
 * `Jhn 4:12` Are you greater *_than_* our father Jacob who gave us the well and drank from it himself, with his children and his livestock?"
 * `Jhn 5:20` For the Father loves the Son and shows him all things that he himself does. And he will show him greater works *_than_* these so that you may marvel.
 * `Jhn 5:36` "But I have greater testimony *_than_* that of John. For the works which the Father has given me to finish, the same works that I do, bear testimony concerning me that the Father has sent me.
-* `Jhn 7:31` And many of the people believed in him, and said, "When Christ comes, will he do more miracles *_than_* these which this man has done?"
+* `Jhn 7:31` And many of the people believed in him and said, "When Christ comes, will he do more miracles *_than_* these which this man has done?"
 * `Jhn 8:53` Are you greater *_than_* our father Abraham who is dead? And the prophets are also dead. Whom do you make yourself out to be?"
 * `Jhn 10:29` My Father, who gave them to me, is greater *_than_* all, and no one is able to pluck them out of my Father's hand.
 * `Jhn 12:43` For they loved the praise of men more *_than_* the praise of God.

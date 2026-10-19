@@ -4075,14 +4075,14 @@ _1 verse containing SAFFRON_
 * `Jhn 4:27` And upon this, his disciples came and marveled that he talked with the woman. Yet no man *_said_*, "What do you seek?" or, "Why do you talk with her?"
 * `Jhn 4:32` But he *_said_* to them, "I have food to eat that you do not know of."
 * `Jhn 4:33` Therefore, the disciples *_said_* to one another, "Has any man brought him anything to eat?"
-* `Jhn 4:42` And *_said_* to the woman, "Now we believe, and not because of what you *_said_*, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
+* `Jhn 4:42` And they *_said_* to the woman, "Now we believe, and not because of what you *_said_*, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
 * `Jhn 4:48` Then Jesus *_said_* to him, "Unless you see signs and wonders, you will not believe."
 * `Jhn 4:52` Then he asked them the hour when he began to get better, and they *_said_* to him, "Yesterday at the seventh hour the fever left him."
 * `Jhn 4:53` So the father knew that it was at the same hour in which Jesus *_said_* to him, "Your son lives." And he himself believed, along with his whole house.
 * `Jhn 5:10` The Jews therefore *_said_* to him who was cured, "It is the sabbath. It is not lawful for you to carry your bed."
 * `Jhn 5:11` He answered them, "He who healed me, the same *_said_* to me, 'Take up your bed and walk.'"
 * `Jhn 5:12` Then they asked him, "What man is this who *_said_* to you, 'Take up your bed and walk'?"
-* `Jhn 5:14` Afterward, Jesus finds him in the temple, and *_said_* to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
+* `Jhn 5:14` Afterward, Jesus finds him in the temple and *_said_* to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
 * `Jhn 5:18` Therefore, the Jews sought the more to kill him because he not only had broken the sabbath, but also *_said_* that God was his Father, making himself equal with God.
 * `Jhn 5:19` Then Jesus answered and *_said_* to them, "Truly, truly, I say to you, the Son can do nothing by himself, but what he sees the Father do. For whatever things he does, these also the Son does likewise.
 * `Jhn 6:6` (And he *_said_* this to prove him, for he himself knew what he would do.)
@@ -4110,30 +4110,31 @@ _1 verse containing SAFFRON_
 * `Jhn 7:3` His brothers therefore *_said_* to him, "Depart from here and go into Judea so that your disciples may also see the works that you do.
 * `Jhn 7:6` Then Jesus *_said_* to them, "My time has not yet come, but your time is always ready.
 * `Jhn 7:9` When he had *_said_* these words to them, he still stayed in Galilee.
-* `Jhn 7:11` Then the Jews sought him at the feast, and *_said_*, "Where is he?"
+* `Jhn 7:11` Then the Jews sought him at the feast and *_said_*, "Where is he?"
 * `Jhn 7:12` And there was much murmuring among the people concerning him. For some *_said_*, "He is a good man." Others *_said_*, "No, but he deceives the people."
-* `Jhn 7:16` Jesus answered them, and *_said_*, "My doctrine is not mine, but his who sent me.
+* `Jhn 7:16` Jesus answered them and *_said_*, "My doctrine is not mine, but his who sent me.
 * `Jhn 7:20` The people answered and *_said_*, "You have a demon. Who seeks to kill you?"
 * `Jhn 7:21` Jesus answered and *_said_* to them, "I have done one work and you all marvel.
 * `Jhn 7:25` Then some of them of Jerusalem *_said_*, "Is this not he whom they seek to kill?
-* `Jhn 7:31` And many of the people believed in him, and *_said_*, "When Christ comes, will he do more miracles than these which this man has done?"
+* `Jhn 7:31` And many of the people believed in him and *_said_*, "When Christ comes, will he do more miracles than these which this man has done?"
 * `Jhn 7:33` Then Jesus *_said_* to them, "Yet a little while am I with you, and then I go to him who sent me.
 * `Jhn 7:35` Then the Jews *_said_* among themselves, "Where will he go that we shall not find him? Will he go to the dispersed among the Gentiles and teach the Gentiles?
 * `Jhn 7:36` What manner of saying is this that he *_said_*, 'You will seek me and will not find me,' and, 'Where I am, there you cannot come'?"
 * `Jhn 7:38` He who believes in me, as the Scripture has *_said_*, out of his belly shall flow rivers of living water."
+* `Jhn 7:39` (But he *_said_* this about the Spirit, which those who believe in him would receive, for the Holy Spirit had not yet been given because Jesus was not yet glorified.)
 * `Jhn 7:40` Many of the people therefore, when they heard this saying, *_said_*, "In truth this is the Prophet."
 * `Jhn 7:41` Others *_said_*, "This is the Christ." But some *_said_*, "Will Christ come out of Galilee?
 * `Jhn 7:42` Has the Scripture not *_said_* that Christ comes from the offspring of David and out of the town of Bethlehem where David was?"
 * `Jhn 7:45` Then the officers came to the chief priests and Pharisees, and they *_said_* to them, "Why have you not brought him?"
-* `Jhn 7:52` They answered and *_said_* to him, "Are you also from Galilee? Search, and look. For out of Galilee no prophet arises."
+* `Jhn 7:52` They answered and *_said_* to him, "Are you also from Galilee? Search and look. For out of Galilee no prophet arises."
 * `Jhn 8:6` They *_said_* this, testing him, so that they might have reason to accuse him. But Jesus stooped down and wrote on the ground with his finger as though he did not hear them.
 * `Jhn 8:7` So when they continued asking him, he raised himself and *_said_* to them, "He who is without sin among you, let him cast the first stone at her."
 * `Jhn 8:10` When Jesus had raised himself and saw no one except the woman, he *_said_* to her, "Woman, where are your accusers? Has no man condemned you?"
 * `Jhn 8:11` She *_said_*, "No man, Lord." And Jesus *_said_* to her, "Neither do I condemn you. Go, and sin no more."
 * `Jhn 8:13` The Pharisees therefore *_said_* to him, "You testify concerning yourself. Your testimony is not true."
 * `Jhn 8:14` Jesus answered and *_said_* to them, "Though I testify concerning myself, yet my testimony is true. For I know where I came from and where I go, but you cannot tell where I come from and where I go.
-* `Jhn 8:19` Then they *_said_* to him, "Where is your Father?" Jesus answered, "You neither know me, nor my Father. If you had known me, you would have known my Father also."
-* `Jhn 8:21` Then Jesus again *_said_* to them, "I am going away, and you will seek me, and will die in your sins. Where I go, you cannot come."
+* `Jhn 8:19` Then they *_said_* to him, "Where is your Father?" Jesus answered, "You neither know me nor my Father. If you had known me, you would have known my Father also."
+* `Jhn 8:21` Then Jesus again *_said_* to them, "I am going away, and you will seek me, and you will die in your sins. Where I go, you cannot come."
 * `Jhn 8:22` Then the Jews *_said_*, "Will he kill himself, because he says, 'Where I go, you cannot come'?"
 * `Jhn 8:23` And he *_said_* to them, "You are from beneath. I am from above. You are of this world. I am not of this world.
 * `Jhn 8:24` Therefore, I *_said_* to you, that you will die in your sins. For if you do not believe that I am he, you will die in your sins."
@@ -4161,7 +4162,7 @@ _1 verse containing SAFFRON_
 * `Jhn 9:24` Then again they called the man who was blind and *_said_* to him, "Give God the praise. We know that this man is a sinner."
 * `Jhn 9:25` He answered and *_said_*, "Whether he is a sinner, I do not know. One thing I know, that though I was blind, now I see."
 * `Jhn 9:26` Then they *_said_* to him again, "What did he do to you? How did he open your eyes?"
-* `Jhn 9:28` Then they reviled him, and *_said_*, "You are his disciple, but we are the disciples of Moses.
+* `Jhn 9:28` Then they reviled him and *_said_*, "You are his disciple, but we are the disciples of Moses.
 * `Jhn 9:30` The man answered and *_said_* to them, "Why, herein is a marvelous thing, that you do not know where he is from, and yet he has opened my eyes.
 * `Jhn 9:34` They answered and *_said_* to him, "You were altogether born in sins, and do you teach us?" And they cast him out.
 * `Jhn 9:35` Jesus heard that they had cast him out. And when he had found him, he *_said_* to him, "Do you believe in the Son of God?"
@@ -4448,7 +4449,7 @@ _1 verse containing SAFFRON_
 * `Rev 21:6` And he *_said_* to me, "It is done. I am Alpha and Omega, the beginning and the end. I will freely give to him who is thirsty from the fountain of the water of life.
 * `Rev 22:6` And he *_said_* to me, "These sayings are faithful and true. And the Lord God of the holy prophets sent his angel to show to his servants the things which must shortly be done."
 
-_3620 verses containing SAID_
+_3621 verses containing SAID_
 
 == SAIL
 
@@ -5331,7 +5332,7 @@ _3 verses containing SAMARITAN_
 * `Mth 10:5` These twelve Jesus sent forth and commanded them, saying, "Do not go into the way of the Gentiles, and do not enter into any city of the *_Samaritans_*.
 * `Luk 9:52` And sent messengers before his face. And they went and entered into a village of the *_Samaritans_* to make ready for him.
 * `Jhn 4:9` Then the woman of Samaria says to him, "How is it that you, being a Jew, ask for a drink from me, being a woman of Samaria? For the Jews have no dealings with the *_Samaritans_*."
-* `Jhn 4:39` And many of the *_Samaritans_* of that city believed in him for the saying of the woman, who testified, "He told me all that I ever did."
+* `Jhn 4:39` And many of the *_Samaritans_* of that city believed in him because of the saying of the woman, who testified, "He told me all that I ever did."
 * `Jhn 4:40` So when the *_Samaritans_* had come to him, they implored him that he would stay with them. And he stayed there two days.
 * `Act 8:25` And they, when they had testified and preached the word of the Lord, returned to Jerusalem and preached the gospel in many villages of the *_Samaritans_*.
 

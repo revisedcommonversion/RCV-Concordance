@@ -608,7 +608,7 @@ _1 verse containing JESURUN_
 * `Jhn 5:6` When *_Jesus_* saw him lying, and knew that he had been now a long time in that case, he says to him, "Do you wish to be healed?"
 * `Jhn 5:8` *_Jesus_* says to him, "Rise, take up your bed, and walk."
 * `Jhn 5:13` And he who was healed did not know who it was, for *_Jesus_* had conveyed himself away, a multitude being in that place.
-* `Jhn 5:14` Afterward, *_Jesus_* finds him in the temple, and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
+* `Jhn 5:14` Afterward, *_Jesus_* finds him in the temple and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
 * `Jhn 5:15` The man departed and told the Jews that it was *_Jesus_* who had healed him.
 * `Jhn 5:16` And therefore, the Jews persecuted *_Jesus_* and sought to slay him because he had done these things on the sabbath.
 * `Jhn 5:17` But *_Jesus_* answered them, "My Father works until now, and I also work."
@@ -638,12 +638,12 @@ _1 verse containing JESURUN_
 * `Jhn 7:1` After these things, *_Jesus_* walked in Galilee, for he would not walk in Judea because the Jews sought to kill him.
 * `Jhn 7:6` Then *_Jesus_* said to them, "My time has not yet come, but your time is always ready.
 * `Jhn 7:14` Now about the midst of the feast, *_Jesus_* went up into the temple and taught.
-* `Jhn 7:16` *_Jesus_* answered them, and said, "My doctrine is not mine, but his who sent me.
+* `Jhn 7:16` *_Jesus_* answered them and said, "My doctrine is not mine, but his who sent me.
 * `Jhn 7:21` *_Jesus_* answered and said to them, "I have done one work and you all marvel.
 * `Jhn 7:28` Then *_Jesus_* cried in the temple as he taught, saying, "You both know me and you know where I am from. And I have not come of myself, but he who sent me is true, whom you do not know.
 * `Jhn 7:33` Then *_Jesus_* said to them, "Yet a little while am I with you, and then I go to him who sent me.
 * `Jhn 7:37` In the last day, that great day of the feast, *_Jesus_* stood and cried, saying, "If any man thirsts, let him come to me and drink.
-* `Jhn 7:39` (But this he spoke of the Spirit, which those who believe in him would receive, for the Holy Spirit had not yet been given because *_Jesus_* was not yet glorified.)
+* `Jhn 7:39` (But he said this about the Spirit, which those who believe in him would receive, for the Holy Spirit had not yet been given because *_Jesus_* was not yet glorified.)
 * `Jhn 7:50` Nicodemus (he who came to *_Jesus_* by night, being one of them) says to them,
 * `Jhn 8:1` *_Jesus_* went to the Mount of Olives.
 * `Jhn 8:6` They said this, testing him, so that they might have reason to accuse him. But *_Jesus_* stooped down and wrote on the ground with his finger as though he did not hear them.
@@ -652,9 +652,9 @@ _1 verse containing JESURUN_
 * `Jhn 8:11` She said, "No man, Lord." And *_Jesus_* said to her, "Neither do I condemn you. Go, and sin no more."
 * `Jhn 8:12` Then *_Jesus_* spoke again to them, saying, "I am the light of the world. He who follows me shall not walk in darkness, but shall have the light of life."
 * `Jhn 8:14` *_Jesus_* answered and said to them, "Though I testify concerning myself, yet my testimony is true. For I know where I came from and where I go, but you cannot tell where I come from and where I go.
-* `Jhn 8:19` Then they said to him, "Where is your Father?" *_Jesus_* answered, "You neither know me, nor my Father. If you had known me, you would have known my Father also."
+* `Jhn 8:19` Then they said to him, "Where is your Father?" *_Jesus_* answered, "You neither know me nor my Father. If you had known me, you would have known my Father also."
 * `Jhn 8:20` *_Jesus_* spoke these words in the treasury as he taught in the temple. And no man laid hands on him, for his hour had not yet come.
-* `Jhn 8:21` Then *_Jesus_* again said to them, "I am going away, and you will seek me, and will die in your sins. Where I go, you cannot come."
+* `Jhn 8:21` Then *_Jesus_* again said to them, "I am going away, and you will seek me, and you will die in your sins. Where I go, you cannot come."
 * `Jhn 8:25` Then they said to him, "Who are you?" And *_Jesus_* says to them, "Even the same that I said to you from the beginning.
 * `Jhn 8:28` Then *_Jesus_* said to them, "When you have lifted up the Son of man, then you shall know that I am he and that I do nothing of myself. But as my Father has taught me, I speak these things.
 * `Jhn 8:31` Then *_Jesus_* said to those Jews who believed in him, "If you continue in my word, you are my disciples indeed.
@@ -666,7 +666,7 @@ _1 verse containing JESURUN_
 * `Jhn 8:58` *_Jesus_* said to them, "Truly, truly, I say to you, before Abraham was, 'I AM.'"
 * `Jhn 8:59` Then they took up stones to cast at him, but *_Jesus_* hid himself and went out of the temple, going through the midst of them, and thus passed by.
 * `Jhn 9:1` And as *_Jesus_* passed by, he saw a man who was blind from his birth.
-* `Jhn 9:3` *_Jesus_* answered, "Neither has this man sinned, nor his parents, but this is so that the works of God should be made manifest in him.
+* `Jhn 9:3` *_Jesus_* answered, "Neither has this man sinned nor his parents, but this is so that the works of God should be made manifest in him.
 * `Jhn 9:11` He answered and said, "A man who is called *_Jesus_* made clay, anointed my eyes, and said to me, 'Go to the pool of Siloam and wash.' And I went and washed and I received sight."
 * `Jhn 9:14` And it was the sabbath when *_Jesus_* made the clay and opened his eyes.
 * `Jhn 9:35` *_Jesus_* heard that they had cast him out. And when he had found him, he said to him, "Do you believe in the Son of God?"
@@ -1411,7 +1411,7 @@ _4 verses containing JEWISH_
 * `Jhn 6:52` The *_Jews_* therefore contended among themselves, saying, "How can this man give us his flesh to eat?"
 * `Jhn 7:1` After these things, Jesus walked in Galilee, for he would not walk in Judea because the *_Jews_* sought to kill him.
 * `Jhn 7:2` Now the *_Jews_*' feast of tabernacles was at hand.
-* `Jhn 7:11` Then the *_Jews_* sought him at the feast, and said, "Where is he?"
+* `Jhn 7:11` Then the *_Jews_* sought him at the feast and said, "Where is he?"
 * `Jhn 7:13` Yet, no man spoke openly about him for fear of the *_Jews_*.
 * `Jhn 7:15` And the *_Jews_* marveled, saying, "How does this man know letters, having never learned?"
 * `Jhn 7:35` Then the *_Jews_* said among themselves, "Where will he go that we shall not find him? Will he go to the dispersed among the Gentiles and teach the Gentiles?
