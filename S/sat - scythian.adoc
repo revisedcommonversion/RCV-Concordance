@@ -1600,7 +1600,7 @@ _6 verses containing SAVORY_
 * `Jhn 9:1` And as Jesus passed by, he *_saw_* a man who was blind from his birth.
 * `Jhn 11:31` Then the Jews who were with her in the house and comforting her, when they *_saw_* that Mary rose hastily and went out, followed her, saying, "She goes to the grave to weep there."
 * `Jhn 11:32` Then when Mary had come where Jesus was and *_saw_* him, she fell down at his feet, saying to him, "Lord, if you had been here, my brother would not have died."
-* `Jhn 11:33` When Jesus therefore *_saw_* her weeping, and the Jews also weeping who came with her, he groaned in the spirit and was troubled,
+* `Jhn 11:33` When Jesus therefore *_saw_* her weeping, and the Jews also weeping who came with her, he groaned in the spirit and was troubled
 * `Jhn 12:41` Isaiah said these things when he *_saw_* his glory and spoke about him.
 * `Jhn 19:6` Therefore, when the chief priests and officers *_saw_* him, they cried out, saying, "Crucify him. Crucify him." Pilate says to them, "Take him and crucify him, for I find no fault in him."
 * `Jhn 19:26` When Jesus therefore *_saw_* his mother and the disciple whom he loved standing by, he says to his mother, "Woman, behold your son!"
@@ -3999,7 +3999,7 @@ _1010 verses containing SAY_
 * `Jhn 11:28` And when she had said this, she went and called Mary her sister secretly, *_saying_*, "The Master has come and calls for you."
 * `Jhn 11:31` Then the Jews who were with her in the house and comforting her, when they saw that Mary rose hastily and went out, followed her, *_saying_*, "She goes to the grave to weep there."
 * `Jhn 11:32` Then when Mary had come where Jesus was and saw him, she fell down at his feet, *_saying_* to him, "Lord, if you had been here, my brother would not have died."
-* `Jhn 12:21` The same came therefore to Philip, who was of Bethsaida of Galilee, and desired him, *_saying_*, "Sir, we wish to see Jesus."
+* `Jhn 12:21` The same came therefore to Philip, who was from Bethsaida of Galilee, and desired him, *_saying_*, "Sir, we wish to see Jesus."
 * `Jhn 12:23` And Jesus answered them, *_saying_*, "The hour has come that the Son of man should be glorified.
 * `Jhn 12:28` Father, glorify your name." Then there came a voice from heaven, *_saying_*, "I have both glorified it and will glorify it again."
 * `Jhn 12:38` So that the *_saying_* of Isaiah the prophet might be fulfilled, which he spoke, "Lord, who has believed our report? And to whom has the arm of the Lord been revealed?"
@@ -5269,14 +5269,14 @@ _31 verses containing SAYINGS_
 * `Jhn 8:22` Then the Jews said, "Will he kill himself, because he *_says_*, 'Where I go, you cannot come'?"
 * `Jhn 8:25` Then they said to him, "Who are you?" And Jesus *_says_* to them, "Even the same that I said to you from the beginning.
 * `Jhn 8:39` They answered and said to him, "Abraham is our father." Jesus *_says_* to them, "If you were Abraham's children, you would do the works of Abraham.
-* `Jhn 11:7` Then after that he *_says_* to his disciples, "Let us go into Judea again."
+* `Jhn 11:7` Then after that, he *_says_* to his disciples, "Let us go into Judea again."
 * `Jhn 11:11` He said these things, and after that, he *_says_* to them, "Our friend Lazarus sleeps, but I go so that I may awake him out of sleep."
 * `Jhn 11:23` Jesus *_says_* to her, "Your brother shall rise again."
 * `Jhn 11:24` Martha *_says_* to him, "I know that he will rise again in the resurrection at the last day."
 * `Jhn 11:27` She *_says_* to him, "Yes, Lord, I believe that you are the Christ, the Son of God, who comes into the world."
-* `Jhn 11:39` Jesus said, "Take away the stone." Martha, the sister of him who was dead, *_says_* to him, "Lord, by this time he smells, for he has been dead four days."
+* `Jhn 11:39` Jesus said, "Take away the stone." Martha, the sister of him who was dead, *_says_* to him, "Lord, by this time he smells, for he has been dead for four days."
 * `Jhn 11:40` Jesus *_says_* to her, "Did I not say to you, that if you would believe, you should see the glory of God?"
-* `Jhn 11:44` And he who was dead came forth, bound hand and foot with grave-clothes, and his face was wrapped with a cloth. Jesus *_says_* to them, "Unbind him, and let him go."
+* `Jhn 11:44` And he who was dead came forth, bound hand and foot with grave-clothes, and his face was wrapped with a cloth. Jesus *_says_* to them, "Unbind him and let him go."
 * `Jhn 12:4` Then one of his disciples, Judas Iscariot, Simon's son, who was to betray him, *_says_*,
 * `Jhn 13:6` Then he comes to Simon Peter, and Peter *_says_* to him, "Lord, do you wash my feet?"
 * `Jhn 13:8` Peter *_says_* to him, "You shall never wash my feet." Jesus answered him, "If I do not wash you, you have no part with me."
@@ -5680,7 +5680,7 @@ _36 verses containing SCATTER_
 * `Mth 26:31` Then Jesus says to them, "All of you shall be offended because of me this night, for it is written, 'I will smite the shepherd, and the sheep of the flock shall be *_scattered_* abroad.'
 * `Mrk 14:27` And Jesus says to them, "All of you will be offended because of me this night, for it is written, 'I will "smite the shepherd, and the sheep shall be *_scattered_*."'
 * `Luk 1:51` He has shown strength with his arm. He has *_scattered_* the proud in the imagination of their hearts.
-* `Jhn 11:52` And not for that nation only, but that also he should assemble in one the children of God who were *_scattered_* abroad.
+* `Jhn 11:52` And not for that nation only, but also that he should assemble in one the children of God who were *_scattered_* abroad.
 * `Jhn 16:32` Behold, the hour comes and has even now come, that you shall each be *_scattered_* to his own and shall leave me alone. And yet I am not alone because the Father is with me.
 * `Act 5:36` For before these days, Theudas rose, boasting himself to be somebody, to whom a number of about four hundred men joined themselves. He was slain, and as many as obeyed him were all *_scattered_* and brought to nothing.
 * `Jms 1:1` James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are *_scattered_* abroad: Greetings.

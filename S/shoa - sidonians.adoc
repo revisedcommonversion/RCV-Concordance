@@ -863,9 +863,9 @@ _17 verses containing SHOT_
 * `Jhn 9:3` Jesus answered, "Neither has this man sinned nor his parents, but this is so that the works of God *_should_* be made manifest in him.
 * `Jhn 9:22` His parents spoke these words because they feared the Jews. For the Jews had already agreed that if any man confessed that he was Christ, he *_should_* be put out of the synagogue.
 * `Jhn 11:40` Jesus says to her, "Did I not say to you, that if you would believe, you *_should_* see the glory of God?"
-* `Jhn 11:50` Nor consider that it is expedient for us that one man *_should_* die for the people, and that the whole nation not perish."
-* `Jhn 11:51` And he did not speak this of himself, but being high priest that year, he prophesied that Jesus *_should_* die for that nation,
-* `Jhn 11:52` And not for that nation only, but that also he *_should_* assemble in one the children of God who were scattered abroad.
+* `Jhn 11:50` Nor do you consider that it is expedient for us that one man *_should_* die for the people and that the whole nation not perish."
+* `Jhn 11:51` And he did not speak this of his own accord, but being high priest that year, he prophesied that Jesus *_should_* die for that nation,
+* `Jhn 11:52` And not for that nation only, but also that he *_should_* assemble in one the children of God who were scattered abroad.
 * `Jhn 11:57` Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he was, he *_should_* report it so that they might take him.
 * `Jhn 12:23` And Jesus answered them, saying, "The hour has come that the Son of man *_should_* be glorified.
 * `Jhn 12:33` (He said this signifying what death he *_should_* die.)
@@ -2174,7 +2174,7 @@ _1 verse containing SICHEM_
 * `Jhn 11:1` Now a certain man was *_sick_*, named Lazarus, from Bethany, the town of Mary and her sister Martha.
 * `Jhn 11:2` (It was that Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was *_sick_*.)
 * `Jhn 11:3` Therefore, his sisters sent to him, saying, "Lord, behold, he whom you love is *_sick_*."
-* `Jhn 11:6` When therefore he had heard that he was *_sick_*, he remained two days in the same place where he was.
+* `Jhn 11:6` When therefore he had heard that he was *_sick_*, he remained for two days in the same place where he was.
 * `Act 4:9` If we this day are examined concerning the good deed done to the *_sick_* man, by what means he is made sound,
 * `Act 5:15` They even brought forth the *_sick_* into the streets and laid them on beds and couches so that at the least the shadow of Peter passing by might overshadow some of them.
 * `Act 5:16` There also came a multitude out of the cities around to Jerusalem bringing *_sick_* persons and those who were afflicted with unclean spirits, and they were all healed.
