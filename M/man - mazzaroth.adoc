@@ -1958,7 +1958,7 @@
 * `Jhn 13:31` Therefore, when he had gone out, Jesus said, "Now the Son of *_man_* is glorified, and God is glorified in him.
 * `Jhn 14:6` Jesus says to him, "I am the way, the truth, and the life. No *_man_* comes to the Father, but by me.
 * `Jhn 14:23` Jesus answered and said to him, "If a *_man_* loves me, he will keep my words. And my Father will love him, and we will come to him and make our dwelling with him.
-* `Jhn 15:6` If a *_man_* does not abide in me, he is cast forth as a branch and is withered, and men gather them, cast them into the fire, and they are burned.
+* `Jhn 15:6` If a *_man_* does not abide in me, he is cast forth like a branch and is withered, and men gather them, cast them into the fire, and they are burned.
 * `Jhn 15:13` No *_man_* has greater love than this: that a *_man_* lay down his life for his friends.
 * `Jhn 15:24` If I had not done among them the works which no other *_man_* has done, they would not have had sin. But now they have both seen and hated both me and my Father.
 * `Jhn 16:21` A woman when she is in travail has sorrow because her hour has come. But as soon as she delivers the child, she no longer remembers the anguish because of her joy that a *_man_* is born into the world.
@@ -1966,7 +1966,7 @@
 * `Jhn 16:30` Now we are sure that you know all things and do not need that any *_man_* should ask you. By this we believe that you came from God."
 * `Jhn 18:14` Now Caiaphas was he who gave counsel to the Jews that it was expedient that one *_man_* should die for the people.
 * `Jhn 18:17` Then the woman-servant who kept the door says to Peter, "Are you not also one of this *_man_*'s disciples?" He says, "I am not."
-* `Jhn 18:29` Pilate then went out to them, and said, "What accusation do you bring against this *_man_*?"
+* `Jhn 18:29` Pilate then went out to them and said, "What accusation do you bring against this *_man_*?"
 * `Jhn 18:31` Then Pilate said to them, "Take him and judge him according to your law." The Jews therefore said to him, "It is not lawful for us to put any *_man_* to death,"
 * `Jhn 18:40` Then they all cried again, saying, "Not this *_man_*, but Barabbas." (Now Barabbas was a robber.)
 * `Jhn 19:5` Then Jesus came forth wearing the crown of thorns and the purple robe. And Pilate says to them, "Behold the *_man_*!"
@@ -3385,7 +3385,7 @@ _1 verse containing MANTLES_
 * `Jhn 12:42` Nevertheless, also among the chief rulers *_many_* believed in him, but because of the Pharisees they did not confess him, lest they should be put out of the synagogue.
 * `Jhn 14:2` In my Father's house there are *_many_* places to reside. If it were not so, I would have told you. I go to prepare a place for you.
 * `Jhn 16:12` "I still have *_many_* things to say to you, but you cannot bear them now.
-* `Jhn 17:2` As you have given him power over all flesh, that he should give eternal life to as *_many_* as you have given him.
+* `Jhn 17:2` Since you have given him power over all flesh, so that he may give eternal life to as *_many_* as you have given him.
 * `Jhn 19:20` *_Many_* of the Jews then read this title, for the place where Jesus was crucified was near the city. And it was written in Hebrew, Greek, and Latin.
 * `Jhn 20:30` And truly Jesus did *_many_* other signs in the presence of his disciples which are not written in this book.
 * `Jhn 21:11` Simon Peter went up and drew the net to land full of great fish—one hundred and fifty-three. And even though there were so *_many_*, yet the net was not broken.
@@ -4036,7 +4036,7 @@ _1 verse containing MARVELOUSLY_
 * `Jhn 12:3` Then *_Mary_* took a pound of very costly ointment of spikenard, anointed the feet of Jesus, and wiped his feet with her hair. And the house was filled with the odor of the ointment.
 * `Jhn 19:25` Now standing by the cross of Jesus were his mother, his mother's sister, *_Mary_* the wife of Cleophas, and *_Mary_* Magdalene.
 * `Jhn 20:1` On the first day of the week, *_Mary_* Magdalene comes to the sepulcher early, when it was still dark, and sees the stone taken away from the sepulcher.
-* `Jhn 20:11` But *_Mary_* stood outside at the sepulcher weeping. And as she wept, she stooped down to look into the sepulcher,
+* `Jhn 20:11` But *_Mary_* stood outside at the sepulcher weeping. And as she wept, she stooped down to look into the sepulcher
 * `Jhn 20:16` Jesus says to her, "*_Mary_*." She turned herself and says to him, "Rabboni," (which is to say, Master).
 * `Jhn 20:18` *_Mary_* Magdalene came and told the disciples that she had seen the Lord and that he had spoken these things to her.
 * `Act 1:14` All of these continued with one accord in prayer and supplication, with the women and *_Mary_* the mother of Jesus, and with his brothers.
@@ -5637,10 +5637,11 @@ _1 verse containing MAUL_
 * `Jhn 15:16` You have not chosen me, but I have chosen you and ordained you that you should go and bring forth fruit, and that your fruit should remain, so that whatever you ask of the Father in my name, he *_may_* give it to you.
 * `Jhn 16:4` But these things I have told you so that when the time comes, you *_may_* remember that I told you about them. And these things I did not say to you at the beginning because I was with you.
 * `Jhn 16:24` Until now you have asked nothing in my name. Ask and you shall receive so that your joy *_may_* be full.
-* `Jhn 16:33` These things I have spoken to you so that in me you *_may_* have peace. In the world you will have tribulation, but be of good cheer. I have overcome the world."
-* `Jhn 17:1` Jesus spoke these words and lifted up his eyes to heaven, and said, "Father, the hour has come. Glorify your Son so that your Son also *_may_* glorify you,
+* `Jhn 16:33` These things I have spoken to you so that in me you *_may_* have peace. In the world you will have tribulation. But be of good cheer. I have overcome the world."
+* `Jhn 17:1` Jesus spoke these things, and lifting up his eyes to heaven, he said, "Father, the hour has come. Glorify your Son so that your Son *_may_* glorify you,
+* `Jhn 17:2` Since you have given him power over all flesh, so that he *_may_* give eternal life to as many as you have given him.
 * `Jhn 17:3` And this is eternal life: that they *_may_* know you, the only true God, and Jesus Christ whom you have sent.
-* `Jhn 17:11` And now I am no longer in the world, but these are in the world, and I come to you. Holy Father, keep, through your own name, those whom you have given to me so that they *_may_* be one, as we are.
+* `Jhn 17:11` And now I am no longer in the world, but these are in the world, and I come to you. Holy Father, keep, through your own name, those whom you have given to me so that they *_may_* be one as we are.
 * `Jhn 17:13` "And now I come to you, and these things I speak in the world so that they *_may_* have my joy fulfilled in themselves.
 * `Jhn 17:19` And for their sakes I sanctify myself so that they also *_may_* be sanctified through the truth.
 * `Jhn 17:21` So that they all *_may_* be one, as you, Father, are in me, and I in you, and that they also *_may_* be one in us so that the world *_may_* believe that you have sent me.
@@ -5648,7 +5649,7 @@ _1 verse containing MAUL_
 * `Jhn 17:23` I am in them and you are in me so that they *_may_* be made perfect in one, and that the world *_may_* know that you have sent me and have loved them as you have loved me.
 * `Jhn 17:24` Father, I wish that they also whom you have given to me be with me where I am so that they *_may_* behold my glory which you have given to me, for you loved me before the foundation of the world.
 * `Jhn 17:26` And I have declared to them your name, and will declare it, so that the love with which you have loved me *_may_* be in them, and I in them."
-* `Jhn 19:4` Pilate therefore went forth again, and says to them, "Behold, I bring him forth to you so that you *_may_* know that I find no fault in him."
+* `Jhn 19:4` Pilate therefore went forth again and says to them, "Behold, I bring him forth to you so that you *_may_* know that I find no fault in him."
 * `Jhn 19:35` And he who saw it, testified—and his testimony is true, and he knows that he speaks truth—so that you *_may_* believe.
 * `Jhn 20:31` But these are written so that you *_may_* believe that Jesus is the Christ, the Son of God, and that believing you *_may_* have life through his name.
 * `Act 1:25` So that he *_may_* take part in this ministry and apostleship from which Judas by transgression fell in order to go to his own place."
@@ -5922,7 +5923,7 @@ _1 verse containing MAUL_
 * `Rev 22:14` "Blessed are those who do his commandments so that they *_may_* have right to the tree of life and *_may_* enter in through the gates into the city.
 * `Rev 22:21` *_May_* the grace of our Lord Jesus Christ be with you all. Amen.
 
-_1302 verses containing MAY_
+_1303 verses containing MAY_
 
 == MAZZAROTH
 

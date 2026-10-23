@@ -1257,9 +1257,9 @@ _1 verse containing SIMILITUDES_
 * `Jhn 13:36` *_Simon_* Peter said to him, "Lord, where do you go?" Jesus answered him, "Where I go, you cannot follow me now, but you shall follow me afterward."
 * `Jhn 18:10` Then *_Simon_* Peter, having a sword, drew it and smote the servant of the high priest and cut off his right ear. The servant's name was Malchus.
 * `Jhn 18:15` And *_Simon_* Peter followed Jesus, and so did another disciple. Since that disciple was known to the high priest, he entered with Jesus into the palace of the high priest.
-* `Jhn 18:25` And *_Simon_* Peter stood and warmed himself. They said therefore to him, "Are you not also one of his disciples?" He denied it, and said, "I am not."
-* `Jhn 20:2` Then she runs and comes to *_Simon_* Peter and to the other disciple whom Jesus loved, and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
-* `Jhn 20:6` Then *_Simon_* Peter comes following him and went into the sepulcher and sees the linen cloths lying,
+* `Jhn 18:25` And *_Simon_* Peter stood and warmed himself. They said therefore to him, "Are you not also one of his disciples?" He denied it and said, "I am not."
+* `Jhn 20:2` Then she runs and comes to *_Simon_* Peter and to the other disciple whom Jesus loved and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
+* `Jhn 20:6` Then *_Simon_* Peter comes following him and went into the sepulcher and sees the linen cloths lying.
 * `Jhn 21:2` *_Simon_* Peter, Thomas called Didymus, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were together.
 * `Jhn 21:3` *_Simon_* Peter says to them, "I am going fishing." They say to him, "We also will go with you." They went forth and entered into a boat immediately. And that night they caught nothing.
 * `Jhn 21:7` Therefore, that disciple whom Jesus loved says to Peter, "It is the Lord." Now when *_Simon_* Peter heard that it was the Lord, he girt on his fisher's coat (for he was unclad) and cast himself into the sea.
@@ -1961,6 +1961,7 @@ _38 verses containing SINAI_
 * `Luk 24:21` But we trusted that it had been he who would have redeemed Israel. And besides all this, today is the third day *_since_* these things were done.
 * `Jhn 9:17` They say to the blind man again, "What do you say about him, *_since_* he has opened your eyes?" He said, "He is a prophet."
 * `Jhn 9:32` *_Since_* the world began it has not been heard that any man opened the eyes of one who was born blind.
+* `Jhn 17:2` *_Since_* you have given him power over all flesh, so that he may give eternal life to as many as you have given him.
 * `Jhn 18:15` And Simon Peter followed Jesus, and so did another disciple. *_Since_* that disciple was known to the high priest, he entered with Jesus into the palace of the high priest.
 * `Act 3:21` Whom the heaven must receive until the times of restitution of all things, which God has spoken by the mouth of all his holy prophets *_since_* the world began.
 * `Act 19:2` He said to them, "Have you received the Holy Spirit *_since_* you believed?" And they said to him, "We have not so much as heard whether there is any Holy Spirit."
@@ -1985,7 +1986,7 @@ _38 verses containing SINAI_
 * `2Pe 3:4` And saying, "Where is the promise of his coming? For ever *_since_* the fathers fell asleep, all things continue as they were from the beginning of the creation."
 * `Rev 16:18` And there were voices, thunders, and lightnings, and there was a great earthquake such as has not been *_since_* men were upon the earth—so mighty an earthquake, and so great.
 
-_88 verses containing SINCE_
+_89 verses containing SINCE_
 
 == SINCERE
 
@@ -2749,7 +2750,7 @@ _1 verse containing SIPPAI_
 * `Jhn 4:49` The nobleman says to him, "*_Sir_*, come down before my child dies."
 * `Jhn 5:7` The sick man answered him, "*_Sir_*, I have no man to put me into the pool when the water is agitated. But while I am coming, another steps down before me."
 * `Jhn 12:21` The same came therefore to Philip, who was from Bethsaida of Galilee, and desired him, saying, "*_Sir_*, we wish to see Jesus."
-* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "*_Sir_*, if you have carried him from here, tell me where you have laid him and I will take him away."
+* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "*_Sir_*, if you have carried him from here, tell me where you have laid him, and I will take him away."
 * `Rev 7:14` And I said to him, "*_Sir_*, you know." And he said to me, "These are those who came out of the great tribulation and have washed their robes and made them white in the blood of the Lamb.
 
 _12 verses containing SIR_

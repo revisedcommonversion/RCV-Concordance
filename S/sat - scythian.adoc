@@ -2607,7 +2607,7 @@ _3 verses containing SAWS_
 * `Jhn 12:49` For I have not spoken from myself. But the Father who sent me, he gave me a commandment, what I should *_say_* and what I should speak.
 * `Jhn 13:16` Truly, truly, I *_say_* to you, the servant is not greater than his lord, neither he who is sent greater than he who sent him.
 * `Jhn 13:20` Truly, truly, I *_say_* to you, he who receives whomever I send receives me, and he who receives me receives him who sent me."
-* `Jhn 13:21` When Jesus had said this, he was troubled in spirit and testified, and said, "Truly, truly, I *_say_* to you, that one of you will betray me."
+* `Jhn 13:21` When Jesus had said this, he was troubled in spirit and testified and said, "Truly, truly, I *_say_* to you, that one of you will betray me."
 * `Jhn 13:33` Little children, yet a little while I am with you. You will seek me, and as I said to the Jews, 'Where I go, you cannot come,' so now I *_say_* to you.
 * `Jhn 13:38` Jesus answered him, "Will you lay down your life for my sake? Truly, truly, I *_say_* to you, the cock will not crow until you have denied me three times."
 * `Jhn 14:9` Jesus says to him, "Have I been with you such a long time and yet you have not known me, Philip? He who has seen me has seen the Father. How then do you *_say_*, 'Show us the Father'?
@@ -4009,7 +4009,7 @@ _1010 verses containing SAY_
 * `Jhn 18:32` So that the *_saying_* of Jesus might be fulfilled, which he spoke, signifying what death he should die.
 * `Jhn 18:40` Then they all cried again, *_saying_*, "Not this man, but Barabbas." (Now Barabbas was a robber.)
 * `Jhn 19:6` Therefore, when the chief priests and officers saw him, they cried out, *_saying_*, "Crucify him. Crucify him." Pilate says to them, "Take him and crucify him, for I find no fault in him."
-* `Jhn 19:8` When Pilate therefore heard that *_saying_*, he was the more afraid,
+* `Jhn 19:8` When Pilate therefore heard that *_saying_*, he was the more afraid.
 * `Jhn 19:12` And from thereafter, Pilate sought to release him, but the Jews cried out, *_saying_*, "If you let this man go, you are not Caesar's friend. Whoever makes himself a king, speaks against Caesar."
 * `Jhn 19:13` When Pilate therefore heard that *_saying_*, he brought Jesus forth and sat down on the judgment-seat in a place that is called The Pavement, but in the Hebrew, Gabbatha.
 * `Jhn 21:23` Then this *_saying_* went abroad among the brothers, that this disciple should not die. Yet Jesus did not say to him that he shall not die, but, "If I wish that he remains until I come, what is that to you?"
@@ -5294,10 +5294,10 @@ _31 verses containing SAYINGS_
 * `Jhn 18:17` Then the woman-servant who kept the door *_says_* to Peter, "Are you not also one of this man's disciples?" He *_says_*, "I am not."
 * `Jhn 18:26` One of the servants of the high priest (being the kinsman of him whose ear Peter cut off) *_says_*, "Did I not see you in the garden with him?"
 * `Jhn 18:38` Pilate *_says_* to him, "What is truth?" And when he had said this, he went out again to the Jews and *_says_* to them, "I find in him no fault.
-* `Jhn 19:4` Pilate therefore went forth again, and *_says_* to them, "Behold, I bring him forth to you so that you may know that I find no fault in him."
+* `Jhn 19:4` Pilate therefore went forth again and *_says_* to them, "Behold, I bring him forth to you so that you may know that I find no fault in him."
 * `Jhn 19:5` Then Jesus came forth wearing the crown of thorns and the purple robe. And Pilate *_says_* to them, "Behold the man!"
 * `Jhn 19:6` Therefore, when the chief priests and officers saw him, they cried out, saying, "Crucify him. Crucify him." Pilate *_says_* to them, "Take him and crucify him, for I find no fault in him."
-* `Jhn 19:9` And went again into the judgment-hall and *_says_* to Jesus, "Where are you from?" But Jesus gave him no answer.
+* `Jhn 19:9` And he went again into the judgment-hall and *_says_* to Jesus, "Where are you from?" But Jesus gave him no answer.
 * `Jhn 19:10` Then Pilate *_says_* to him, "Do you not speak to me? Do you not know that I have power to crucify you and power to release you?"
 * `Jhn 19:14` And it was the preparation of the passover and about the sixth hour. And he *_says_* to the Jews, "Behold your King!"
 * `Jhn 19:15` But they cried out, "Away with him. Away with him. Crucify him." Pilate *_says_* to them, "Shall I crucify your King?" The chief priests answered, "We have no king but Caesar."
@@ -5306,13 +5306,13 @@ _31 verses containing SAYINGS_
 * `Jhn 19:27` Then he *_says_* to the disciple, "Behold your mother!" And from that hour that disciple took her to his own home.
 * `Jhn 19:28` After this, Jesus, knowing that all things were now accomplished, so that the Scripture might be fulfilled, *_says_*, "I thirst."
 * `Jhn 19:37` And again another Scripture *_says_*, "They shall look at him whom they pierced."
-* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved, and *_says_* to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
+* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved and *_says_* to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
 * `Jhn 20:13` And they say to her, "Woman, why do you weep?" She *_says_* to them, "Because they have taken away my Lord and I do not know where they have laid him."
-* `Jhn 20:15` Jesus *_says_* to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, *_says_* to him, "Sir, if you have carried him from here, tell me where you have laid him and I will take him away."
+* `Jhn 20:15` Jesus *_says_* to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, *_says_* to him, "Sir, if you have carried him from here, tell me where you have laid him, and I will take him away."
 * `Jhn 20:16` Jesus *_says_* to her, "Mary." She turned herself and *_says_* to him, "Rabboni," (which is to say, Master).
 * `Jhn 20:17` Jesus *_says_* to her, "Do not touch me, for I have not yet ascended to my Father. But go to my brothers and say to them, 'I ascend to my Father and your Father, and to my God and your God.'"
 * `Jhn 20:19` Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, Jesus came and stood in the midst and *_says_* to them, "Peace be to you."
-* `Jhn 20:22` And when he had said this, he breathed on them, and *_says_* to them, "Receive the Holy Spirit.
+* `Jhn 20:22` And when he had said this, he breathed on them and *_says_* to them, "Receive the Holy Spirit.
 * `Jhn 20:27` Then he *_says_* to Thomas, "Reach here with your finger, and behold my hands. And reach here with your hand and thrust it into my side. And do not be faithless, but believing."
 * `Jhn 20:29` Jesus *_says_* to him, "Thomas, because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 * `Jhn 21:3` Simon Peter *_says_* to them, "I am going fishing." They say to him, "We also will go with you." They went forth and entered into a boat immediately. And that night they caught nothing.

@@ -308,7 +308,7 @@ _2 verses containing TELEM_
 * `Jhn 16:7` Nevertheless, I *_tell_* you the truth. It is expedient for you that I depart. For if I do not go away, the Comforter will not come to you. But if I depart, I will send him to you.
 * `Jhn 16:18` They said therefore, "What is this that he says, 'A little while'? We cannot *_tell_* what he says."
 * `Jhn 18:34` Jesus answered him, "Do you say this thing from yourself, or did others *_tell_* it to you concerning me?"
-* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, *_tell_* me where you have laid him and I will take him away."
+* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, *_tell_* me where you have laid him, and I will take him away."
 * `Act 5:8` And Peter answered to her, "*_Tell_* me whether you sold the land for so much?" And she said, "Yes, for so much."
 * `Act 10:6` He lodges with one, Simon, a tanner, whose house is by the sea-side. He will *_tell_* you what you ought to do."
 * `Act 11:14` Who shall *_tell_* you words by which you and all your house shall be saved.'
@@ -1643,7 +1643,7 @@ _12 verses containing TESTED_
 * `Jhn 4:39` And many of the Samaritans of that city believed in him because of the saying of the woman, who *_testified_*, "He told me all that I ever did."
 * `Jhn 4:44` For Jesus himself *_testified_* that a prophet has no honor in his own country.
 * `Jhn 5:33` "You sent to John and he *_testified_* to the truth.
-* `Jhn 13:21` When Jesus had said this, he was troubled in spirit and *_testified_*, and said, "Truly, truly, I say to you, that one of you will betray me."
+* `Jhn 13:21` When Jesus had said this, he was troubled in spirit and *_testified_* and said, "Truly, truly, I say to you, that one of you will betray me."
 * `Jhn 19:35` And he who saw it, *_testified_*—and his testimony is true, and he knows that he speaks truth—so that you may believe.
 * `Act 2:40` And with many other words he *_testified_* and exhorted, saying, "Save yourselves from this perverse generation."
 * `Act 8:25` And they, when they had *_testified_* and preached the word of the Lord, returned to Jerusalem and preached the gospel in many villages of the Samaritans.

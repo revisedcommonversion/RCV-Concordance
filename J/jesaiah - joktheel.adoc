@@ -723,7 +723,7 @@ _1 verse containing JESURUN_
 * `Jhn 13:7` *_Jesus_* answered and said to him, "What I do you do not now know, but you shall know hereafter."
 * `Jhn 13:8` Peter says to him, "You shall never wash my feet." *_Jesus_* answered him, "If I do not wash you, you have no part with me."
 * `Jhn 13:10` *_Jesus_* says to him, "He who is washed has no need except to wash his feet, but is wholly clean. And you are clean, but not all."
-* `Jhn 13:21` When *_Jesus_* had said this, he was troubled in spirit and testified, and said, "Truly, truly, I say to you, that one of you will betray me."
+* `Jhn 13:21` When *_Jesus_* had said this, he was troubled in spirit and testified and said, "Truly, truly, I say to you, that one of you will betray me."
 * `Jhn 13:23` Now there was leaning on *_Jesus_*' bosom one of his disciples, whom *_Jesus_* loved.
 * `Jhn 13:25` Then lying on *_Jesus_*' chest, he says to him, "Lord, who is it?"
 * `Jhn 13:26` *_Jesus_* answered, "It is he to whom I shall give a piece of bread when I have dipped it." And when he had dipped the piece of bread, he gave it to Judas Iscariot, the son of Simon.
@@ -737,7 +737,7 @@ _1 verse containing JESURUN_
 * `Jhn 14:23` *_Jesus_* answered and said to him, "If a man loves me, he will keep my words. And my Father will love him, and we will come to him and make our dwelling with him.
 * `Jhn 16:19` Now *_Jesus_* knew that they were desirous to ask him and said to them, "Do you inquire among yourselves of that which I said, 'A little while, and you shall not see me. And again a little while, and you shall see me'?
 * `Jhn 16:31` *_Jesus_* answered them, "Do you now believe?
-* `Jhn 17:1` *_Jesus_* spoke these words and lifted up his eyes to heaven, and said, "Father, the hour has come. Glorify your Son so that your Son also may glorify you,
+* `Jhn 17:1` *_Jesus_* spoke these things, and lifting up his eyes to heaven, he said, "Father, the hour has come. Glorify your Son so that your Son may glorify you,
 * `Jhn 17:3` And this is eternal life: that they may know you, the only true God, and *_Jesus_* Christ whom you have sent.
 * `Jhn 18:1` When *_Jesus_* had spoken these words, he went forth with his disciples over the brook Kedron, where there was a garden, into which he and his disciples entered.
 * `Jhn 18:2` And Judas also, who betrayed him, knew the place, for *_Jesus_* often resorted there with his disciples.
@@ -760,7 +760,7 @@ _1 verse containing JESURUN_
 * `Jhn 18:37` Pilate therefore said to him, "Are you a King then?" *_Jesus_* answered, "You say that I am a King. To this end I was born, and for this cause I came into the world, so that I should testify to the truth. Everyone who is of the truth hears my voice."
 * `Jhn 19:1` Then Pilate therefore took *_Jesus_* and scourged him.
 * `Jhn 19:5` Then *_Jesus_* came forth wearing the crown of thorns and the purple robe. And Pilate says to them, "Behold the man!"
-* `Jhn 19:9` And went again into the judgment-hall and says to *_Jesus_*, "Where are you from?" But *_Jesus_* gave him no answer.
+* `Jhn 19:9` And he went again into the judgment-hall and says to *_Jesus_*, "Where are you from?" But *_Jesus_* gave him no answer.
 * `Jhn 19:11` *_Jesus_* answered, "You could have no power against me unless it were given to you from above. Therefore, he who delivered me to you has the greater sin."
 * `Jhn 19:13` When Pilate therefore heard that saying, he brought *_Jesus_* forth and sat down on the judgment-seat in a place that is called The Pavement, but in the Hebrew, Gabbatha.
 * `Jhn 19:16` So then he delivered him to them to be crucified. And they took *_Jesus_* and led him away.
@@ -777,16 +777,16 @@ _1 verse containing JESURUN_
 * `Jhn 19:39` And Nicodemus (who at the first came to *_Jesus_* by night) also came and brought a mixture of myrrh and aloes, about one hundred pounds in weight.
 * `Jhn 19:40` Then they took the body of *_Jesus_* and wound it in linen cloths with the spices, as is the manner of the Jews for burial.
 * `Jhn 19:42` Therefore, because of the Jews' preparation-day and because the sepulcher was near at hand, they laid *_Jesus_* there.
-* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom *_Jesus_* loved, and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
+* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom *_Jesus_* loved and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
 * `Jhn 20:12` And sees two angels in white sitting, one at the head and the other at the feet, where the body of *_Jesus_* had lain.
 * `Jhn 20:14` And when she had said this, she turned herself around and saw *_Jesus_* standing, and did not know that it was *_Jesus_*.
-* `Jhn 20:15` *_Jesus_* says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him and I will take him away."
+* `Jhn 20:15` *_Jesus_* says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him, and I will take him away."
 * `Jhn 20:16` *_Jesus_* says to her, "Mary." She turned herself and says to him, "Rabboni," (which is to say, Master).
 * `Jhn 20:17` *_Jesus_* says to her, "Do not touch me, for I have not yet ascended to my Father. But go to my brothers and say to them, 'I ascend to my Father and your Father, and to my God and your God.'"
 * `Jhn 20:19` Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, *_Jesus_* came and stood in the midst and says to them, "Peace be to you."
 * `Jhn 20:21` Then *_Jesus_* said to them again, "Peace be to you. As my Father has sent me, even so I send you."
 * `Jhn 20:24` But Thomas, one of the twelve, called Didymus, was not with them when *_Jesus_* came.
-* `Jhn 20:26` And after eight days again his disciples were inside, and Thomas with them. Then *_Jesus_* came, the doors being shut, and stood in the midst, and said, "Peace be to you."
+* `Jhn 20:26` And after eight days again his disciples were inside, and Thomas with them. Then *_Jesus_* came, the doors being shut, and stood in the midst and said, "Peace be to you."
 * `Jhn 20:29` *_Jesus_* says to him, "Thomas, because you have seen me, you have believed. Blessed are those who have not seen and yet have believed."
 * `Jhn 20:30` And truly *_Jesus_* did many other signs in the presence of his disciples which are not written in this book.
 * `Jhn 20:31` But these are written so that you may believe that *_Jesus_* is the Christ, the Son of God, and that believing you may have life through his name.
@@ -1445,7 +1445,7 @@ _4 verses containing JEWISH_
 * `Jhn 18:36` Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, then my servants would fight so that I might not be delivered to the *_Jews_*. But now my kingdom is not from here."
 * `Jhn 18:38` Pilate says to him, "What is truth?" And when he had said this, he went out again to the *_Jews_* and says to them, "I find in him no fault.
 * `Jhn 18:39` But you have a custom that I should release someone to you at the passover. Do you therefore wish that I release to you the King of the *_Jews_*?"
-* `Jhn 19:3` And said, "Hail, King of the *_Jews_*!" And they smote him with their hands.
+* `Jhn 19:3` And they said, "Hail, King of the *_Jews_*!" And they smote him with their hands.
 * `Jhn 19:7` The *_Jews_* answered him, "We have a law, and by our law he ought to die because he made himself the Son of God."
 * `Jhn 19:12` And from thereafter, Pilate sought to release him, but the *_Jews_* cried out, saying, "If you let this man go, you are not Caesar's friend. Whoever makes himself a king, speaks against Caesar."
 * `Jhn 19:14` And it was the preparation of the passover and about the sixth hour. And he says to the *_Jews_*, "Behold your King!"

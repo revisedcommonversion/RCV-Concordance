@@ -4210,7 +4210,7 @@ _1 verse containing SAFFRON_
 * `Jhn 13:7` Jesus answered and *_said_* to him, "What I do you do not now know, but you shall know hereafter."
 * `Jhn 13:11` For he knew who would betray him; therefore, he *_said_*, "You are not all clean."
 * `Jhn 13:12` So after he had washed their feet, had taken his garments, and had sat down again, he *_said_* to them, "Do you know what I have done to you?
-* `Jhn 13:21` When Jesus had *_said_* this, he was troubled in spirit and testified, and *_said_*, "Truly, truly, I say to you, that one of you will betray me."
+* `Jhn 13:21` When Jesus had *_said_* this, he was troubled in spirit and testified and *_said_*, "Truly, truly, I say to you, that one of you will betray me."
 * `Jhn 13:27` And after the piece of bread, Satan entered into him. Then Jesus *_said_* to him, "What you do, do quickly."
 * `Jhn 13:31` Therefore, when he had gone out, Jesus *_said_*, "Now the Son of man is glorified, and God is glorified in him.
 * `Jhn 13:33` Little children, yet a little while I am with you. You will seek me, and as I *_said_* to the Jews, 'Where I go, you cannot come,' so now I say to you.
@@ -4226,7 +4226,7 @@ _1 verse containing SAFFRON_
 * `Jhn 16:18` They *_said_* therefore, "What is this that he says, 'A little while'? We cannot tell what he says."
 * `Jhn 16:19` Now Jesus knew that they were desirous to ask him and *_said_* to them, "Do you inquire among yourselves of that which I *_said_*, 'A little while, and you shall not see me. And again a little while, and you shall see me'?
 * `Jhn 16:29` His disciples *_said_* to him, "Behold, now you speak plainly and speak no proverb.
-* `Jhn 17:1` Jesus spoke these words and lifted up his eyes to heaven, and *_said_*, "Father, the hour has come. Glorify your Son so that your Son also may glorify you,
+* `Jhn 17:1` Jesus spoke these things, and lifting up his eyes to heaven, he *_said_*, "Father, the hour has come. Glorify your Son so that your Son may glorify you,
 * `Jhn 18:4` Jesus therefore, knowing all things that were coming upon him, went forth and *_said_* to them, "Whom do you seek?"
 * `Jhn 18:6` Then as soon as he had *_said_* to them, "I am he," they went backward and fell to the ground.
 * `Jhn 18:7` Then he asked them again, "Whom do you seek?" And they *_said_*, "Jesus of Nazareth."
@@ -4234,23 +4234,23 @@ _1 verse containing SAFFRON_
 * `Jhn 18:20` Jesus answered him, "I spoke openly to the world. I always taught in the synagogue and in the temple where the Jews always resort, and in secret I have *_said_* nothing.
 * `Jhn 18:21` Why do you ask me? Ask those who heard me what I have *_said_* to them. Behold, they know what I have *_said_*."
 * `Jhn 18:22` And when he had *_said_* this, one of the officers who stood by struck Jesus with the palm of his hand, saying, "Do you answer the high priest like that?"
-* `Jhn 18:25` And Simon Peter stood and warmed himself. They *_said_* therefore to him, "Are you not also one of his disciples?" He denied it, and *_said_*, "I am not."
-* `Jhn 18:29` Pilate then went out to them, and *_said_*, "What accusation do you bring against this man?"
+* `Jhn 18:25` And Simon Peter stood and warmed himself. They *_said_* therefore to him, "Are you not also one of his disciples?" He denied it and *_said_*, "I am not."
+* `Jhn 18:29` Pilate then went out to them and *_said_*, "What accusation do you bring against this man?"
 * `Jhn 18:30` They answered and *_said_* to him, "If he were not a malefactor, we would not have delivered him up to you."
 * `Jhn 18:31` Then Pilate *_said_* to them, "Take him and judge him according to your law." The Jews therefore *_said_* to him, "It is not lawful for us to put any man to death,"
 * `Jhn 18:33` Then Pilate entered into the judgment-hall again and called Jesus and *_said_* to him, "Are you the King of the Jews?"
 * `Jhn 18:37` Pilate therefore *_said_* to him, "Are you a King then?" Jesus answered, "You say that I am a King. To this end I was born, and for this cause I came into the world, so that I should testify to the truth. Everyone who is of the truth hears my voice."
 * `Jhn 18:38` Pilate says to him, "What is truth?" And when he had *_said_* this, he went out again to the Jews and says to them, "I find in him no fault.
-* `Jhn 19:3` And *_said_*, "Hail, King of the Jews!" And they smote him with their hands.
+* `Jhn 19:3` And they *_said_*, "Hail, King of the Jews!" And they smote him with their hands.
 * `Jhn 19:21` Then the chief priests of the Jews *_said_* to Pilate, "Do not write, 'The King of the Jews,' but, 'He *_said_*, "I am King of the Jews."'"
 * `Jhn 19:24` Therefore, they *_said_* among themselves, "Let us not rend it, but cast lots for it to decide whose it shall be," so that the Scripture might be fulfilled, which says, "They parted my clothing among them, and for my vesture they cast lots." Therefore the soldiers did these things.
 * `Jhn 19:30` When Jesus therefore had received the vinegar, he *_said_*, "It is finished," and he bowed his head and expired.
 * `Jhn 20:14` And when she had *_said_* this, she turned herself around and saw Jesus standing, and did not know that it was Jesus.
 * `Jhn 20:20` And when he had *_said_* this, he showed his hands and his side to them. Then the disciples were glad when they saw the Lord.
 * `Jhn 20:21` Then Jesus *_said_* to them again, "Peace be to you. As my Father has sent me, even so I send you."
-* `Jhn 20:22` And when he had *_said_* this, he breathed on them, and says to them, "Receive the Holy Spirit.
+* `Jhn 20:22` And when he had *_said_* this, he breathed on them and says to them, "Receive the Holy Spirit.
 * `Jhn 20:25` The other disciples therefore *_said_* to him, "We have seen the Lord." But he *_said_* to them, "Unless I see in his hands the print of the nails and put my finger into the print of the nails and thrust my hand into his side, I will not believe."
-* `Jhn 20:26` And after eight days again his disciples were inside, and Thomas with them. Then Jesus came, the doors being shut, and stood in the midst, and *_said_*, "Peace be to you."
+* `Jhn 20:26` And after eight days again his disciples were inside, and Thomas with them. Then Jesus came, the doors being shut, and stood in the midst and *_said_*, "Peace be to you."
 * `Jhn 20:28` And Thomas answered and *_said_* to him, "My Lord and my God."
 * `Jhn 21:6` And he *_said_* to them, "Cast the net on the right side of the boat and you shall find some." They cast therefore, and now they were not able to draw it for the multitude of fish.
 * `Jhn 21:17` He says to him the third time, "Simon son of Jonah, do you love me?" Peter was grieved because he *_said_* to him the third time, "Do you love me?" And he *_said_* to him, "Lord, you know all things. You know that I love you." Jesus says to him, "Feed my sheep.

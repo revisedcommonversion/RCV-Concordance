@@ -2797,7 +2797,7 @@ _1 verse containing CLOSER_
 * `Mrk 14:51` And there followed him a certain young man, having a linen *_cloth_* cast around his naked body, and the young men laid hold upon him.
 * `Mrk 14:52` And he left the linen *_cloth_* and fled from them naked.
 * `Jhn 11:44` And he who was dead came forth, bound hand and foot with grave-clothes, and his face was wrapped with a *_cloth_*. Jesus says to them, "Unbind him and let him go."
-* `Jhn 20:7` And the *_cloth_* that was around his head not lying with the linen cloths, but wrapped together in a place by itself.
+* `Jhn 20:7` And the *_cloth_* that was around his head was not lying with the linen cloths, but wrapped together in a place by itself.
 
 _21 verses containing CLOTH_
 
@@ -3090,8 +3090,8 @@ _73 verses containing CLOTHING_
 * `Luk 24:12` Then Peter arose and ran to the sepulcher, and stooping down, he beheld the linen *_cloths_* laid by themselves, and departed, wondering in himself at that which had come to pass.
 * `Jhn 19:40` Then they took the body of Jesus and wound it in linen *_cloths_* with the spices, as is the manner of the Jews for burial.
 * `Jhn 20:5` And he, stooping down, saw the linen *_cloths_* lying, yet he did not go in.
-* `Jhn 20:6` Then Simon Peter comes following him and went into the sepulcher and sees the linen *_cloths_* lying,
-* `Jhn 20:7` And the cloth that was around his head not lying with the linen *_cloths_*, but wrapped together in a place by itself.
+* `Jhn 20:6` Then Simon Peter comes following him and went into the sepulcher and sees the linen *_cloths_* lying.
+* `Jhn 20:7` And the cloth that was around his head was not lying with the linen *_cloths_*, but wrapped together in a place by itself.
 
 _7 verses containing CLOTHS_
 

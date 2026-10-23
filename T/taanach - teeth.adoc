@@ -1447,7 +1447,7 @@ _4 verses containing TAILS_
 * `Jhn 18:31` Then Pilate said to them, "*_Take_* him and judge him according to your law." The Jews therefore said to him, "It is not lawful for us to put any man to death,"
 * `Jhn 19:6` Therefore, when the chief priests and officers saw him, they cried out, saying, "Crucify him. Crucify him." Pilate says to them, "*_Take_* him and crucify him, for I find no fault in him."
 * `Jhn 19:38` And after this, Joseph of Arimathea (being a disciple of Jesus, but secretly for fear of the Jews) petitioned Pilate that he might *_take_* away the body of Jesus. And Pilate gave him leave. He therefore came and took the body of Jesus.
-* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him and I will *_take_* him away."
+* `Jhn 20:15` Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him, and I will *_take_* him away."
 * `Act 1:20` "For it is written in the book of Psalms, 'Let his habitation be desolate, and let no man dwell in it,' and, 'Let another *_take_* his office.'
 * `Act 1:25` So that he may *_take_* part in this ministry and apostleship from which Judas by transgression fell in order to go to his own place."
 * `Act 5:35` And said to them, "Men of Israel, *_take_* heed to yourselves what you intend to do concerning these men.
@@ -1800,7 +1800,7 @@ _832 verses containing TAKE_
 * `Jhn 13:12` So after he had washed their feet, had *_taken_* his garments, and had sat down again, he said to them, "Do you know what I have done to you?
 * `Jhn 19:31` The Jews therefore, because it was the preparation, so that the bodies should not remain upon the cross on the sabbath (for that sabbath was a high day), implored Pilate that their legs might be broken and that they might be *_taken_* away.
 * `Jhn 20:1` On the first day of the week, Mary Magdalene comes to the sepulcher early, when it was still dark, and sees the stone *_taken_* away from the sepulcher.
-* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved, and says to them, "They have *_taken_* away the Lord out of the sepulcher and we do not know where they have laid him."
+* `Jhn 20:2` Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved and says to them, "They have *_taken_* away the Lord out of the sepulcher and we do not know where they have laid him."
 * `Jhn 20:13` And they say to her, "Woman, why do you weep?" She says to them, "Because they have *_taken_* away my Lord and I do not know where they have laid him."
 * `Act 1:2` Until the day in which he was *_taken_* up after he had given commandments through the Holy Spirit to the apostles whom he had chosen,
 * `Act 1:9` And when he had spoken these things, while they beheld, he was *_taken_* up, and a cloud received him out of their sight.
